@@ -1,7 +1,7 @@
 ---
 title: Experience Maker the Skill Exchange
 description: Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundenlernereignisse, die sich auf die Vertiefung der Adobe Experience Cloud-Lösungen konzentrieren.
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundenler
       </a>
       <div>
          <a href="analytics/jun2021/getting-started.md"><strong>Erste Schritte mit Adobe Analytics</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -53,7 +53,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundenler
       </a>
       <div>
          <a href="marketo/feb2022/data-maintenance.md"><strong>Datenwartung</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -66,7 +66,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundenler
       </a>
       <div>
          <a href="workfront/apr2022/ten-tips.md"><strong>10 Tipps zum Wow Your Workfront</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
