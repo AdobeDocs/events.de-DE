@@ -1,7 +1,7 @@
 ---
 title: Skill Builder - Überblick
 description: Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online- und Offline-Dateneinblicken in Ihrer gesamten Organisation.
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: c64a24e142a493f71a8712f0af72a50bca53921d
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 6%
@@ -17,11 +17,11 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/personalize.html">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
       <img alt="Personalisieren und Automatisieren mit Adobe Target" src="assets/343821.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/personalize.html">
+      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
         <strong>Personalisieren und Automatisieren mit Adobe Target</strong>
       </a>
     </div>
@@ -30,11 +30,11 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/innovations.html">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
       <img alt="2022 Innovationen und Trends" src="assets/343818.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/innovations.html">
+      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
         <strong>2022 Innovationen und Trends</strong>
       </a>
     </div>
@@ -43,11 +43,11 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/mobile-and-apps.html">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
       <img alt="Analytics- und Target-Anwendungen für Mobilgeräte und Apps" src="assets/343819.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/mobile-and-apps.html">
+      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
         <strong>Analytics- und Target-Anwendungen für Mobilgeräte und Apps</strong>
       </a>
     </div>
@@ -61,3 +61,4 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
 >[!TIP]
 >
 >**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+
