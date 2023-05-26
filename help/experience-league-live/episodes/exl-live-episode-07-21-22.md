@@ -3,13 +3,13 @@ title: Experten fragen - Datenspeicher und Datenvorbereitung
 description: In dieser Sitzung zur Datenerfassung für die Adobe Experience Cloud werden unsere Experten einen tieferen Einblick in die erweiterten Datenerfassungsfunktionen der Adobe bieten, einschließlich Funktionen wie die Datenvorbereitung für die Datenerfassung. Am Ende dieser Sitzung werden die Teilnehmer mit den neuesten und leistungsfähigsten Funktionen vertraut sein, mit denen Daten aus digitalen Erlebnissen erfasst werden können.
 solution: Data Collection,Experience Platform
 kt: 10528
-thumbnail: 345342.jpeg
+thumbnail: https://video.tv.adobe.com/v/345342?format=jpeg
 event-cta-text: Watch the replay
 event-cta-url: https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en
 event-start-time: 2022-07-21 09:00-7
 event-guests: Rudi Shumpert, Jeff Chasin, Eric Matisoff
 exl-id: ab5121f7-3e92-48a7-8bcc-a4456a4eab6e
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%

@@ -3,12 +3,12 @@ title: Experten fragen - Grundlagen des Web SDK
 description: Erfahren Sie mehr über das Web SDK. Wir zeigen Ihnen alle Grundlagen des Web SDK, einschließlich der Begründung, der Funktionsweise und wichtigen Anwendungsfällen, auf die es basiert.
 solution: Data Collection,Experience Platform
 kt: 10412
-thumbnail: 343335.jpeg
+thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
 event-cta-url: null
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 10%

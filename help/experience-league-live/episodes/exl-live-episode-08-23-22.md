@@ -3,12 +3,12 @@ title: Bitten Sie die Experten um nützliche Erweiterungen in Tags (Launch), das
 description: Denken Sie an die Migration Ihrer Implementierung zum neuen Adobe Web SDK?  Wir werden einige unserer beliebtesten Erweiterungen in der Adobe Tags-Bibliothek durchlaufen, die Ihnen helfen, Ihre Datenerfassung auf die nächste Ebene zu bringen.
 solution: Data Collection,Experience Platform
 kt: 10528
-thumbnail: 346610.jpeg
+thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
 event-cta-url: null
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '678'
 ht-degree: 0%

@@ -3,12 +3,12 @@ title: Push-Benachrichtigungen mit Adobe Journey Optimizer
 description: Push-Benachrichtigungen helfen Ihnen, Ihre Mobile-App-Benutzer jederzeit zu erreichen – insbesondere dann, wenn sie Ihre Mobile App nicht aktiv verwenden. Journey Optimizer unterstützt Push-Benachrichtigungen nicht.. (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 solution: Journey Optimizer
 kt: 10407
-thumbnail: 342810.jpeg
+thumbnail: https://video.tv.adobe.com/v/342810?format=jpeg
 event-cta-url: null
 event-start-time: 2022-05-12 09:30-7
 event-guests: Sandra Hausmann,Archana Chaudhary,Don Huynh
 exl-id: 3e813ced-154d-4ec6-b7a3-6800b814f123
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 31%

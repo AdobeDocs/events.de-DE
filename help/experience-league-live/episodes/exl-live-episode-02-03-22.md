@@ -2,12 +2,12 @@
 title: Vorstellung aller neuen Referenzdemos in AEM
 description: Erfahren Sie, wie Sie mit dem Referenz-Demos-Add-on AEM Funktionen von am schnellsten bereitstellen, demonstrieren und untersuchen können.
 solution: Experience Manager
-thumbnail: 340236.jpeg
+thumbnail: https://video.tv.adobe.com/v/340236?format=jpeg
 event-cta-url: https://youtu.be/FEREXV826NQ
 event-start-time: 2022-02-03 09:00-8
 event-guests: Hyman Chung, Ruben Reusser
 exl-id: 434d0d98-83ab-4168-bebf-4ba2f2cb5efd
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 56%
