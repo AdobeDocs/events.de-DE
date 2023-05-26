@@ -4,10 +4,11 @@ description: Steigen Sie tiefer in die neue Repository-Architektur ein und lerne
 uuid: 8038fb68-e841-4d35-affd-c32d53e4cc8f
 discoiquuid: 1374a0f7-4456-47ba-b061-1b6d67d12d55
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: d76a0437-2fdd-490d-a575-f64bbe449d7f
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -34,5 +35,5 @@ Jukka Zitting, Senior Developer, Adobe
 
 ## Siehe auch: {#related-links}
 
-* [Dokumentation zu AEM-Upgrades](http://docs.adobe.com/content/docs/de/aem/6-0/deploy/upgrade.html)
-* [Präsentation von ApacheCon „Oak, die Architektur von Apache Jackrabbit 3“](http://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
+* [Dokumentation zu AEM-Upgrades](https://docs.adobe.com/content/docs/de/aem/6-0/deploy/upgrade.html)
+* [Präsentation von ApacheCon „Oak, die Architektur von Apache Jackrabbit 3“](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)

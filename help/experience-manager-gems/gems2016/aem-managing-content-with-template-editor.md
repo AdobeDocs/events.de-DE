@@ -4,10 +4,11 @@ description: Mit Adobe Experience Manager 6.2 wurde ein neuer Vorlageneditor ein
 uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: f29e6070-62d3-472c-9772-d470134e76d1
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 100%
+source-wordcount: '270'
+ht-degree: 78%
 
 ---
 
@@ -33,5 +34,8 @@ Chat-Experte,
 
 ## Siehe auch: {#related-links}
 
-* [Seitenvorlagen](https://docs.adobe.com/docs/de/aem/6-2/develop/templates/page-templates-editable.html)
-* [Erstellen von Seitenvorlagen](https://docs.adobe.com/docs/de/aem/6-2/author/site-page-features/templates.html)
+>[!WARNING]
+>
+>AEM Versionen 6.4 und älter sind End of Life und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).  Auf archivierte Versionen der Dokumentation kann über diese [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
+>
+>Informationen zu dieser Sitzung finden Sie unter *Seitenvorlagen* und *Erstellen von Seitenvorlagen* in der Dokumentation zu AEM 6.2.

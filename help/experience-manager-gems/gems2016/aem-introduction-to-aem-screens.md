@@ -4,10 +4,11 @@ description: AEM Screens ist die neue Lösung für digitale Beschilderung und in
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 1beeb807-c3b3-425c-8053-06cd2d359c35
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 100%
+source-wordcount: '263'
+ht-degree: 78%
 
 ---
 
@@ -34,5 +35,10 @@ Beispielprojekt
 
 ## Siehe auch: {#related-links}
 
-* [Bereitstellen von Screens](https://docs.adobe.com/docs/de/aem/6-2/deploy/screens.html)
-* [Screens-Konzept](https://docs.adobe.com/docs/de/aem/6-2/administer/screens.html)
+
+>[!WARNING]
+>
+>AEM Versionen 6.4 und älter sind End of Life und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).  Auf archivierte Versionen der Dokumentation kann über diese [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
+>
+>Informationen zu dieser Sitzung finden Sie unter *Bereitstellen von Screens* und *Screens-Konzept* in der Dokumentation zu AEM 6.2.
+

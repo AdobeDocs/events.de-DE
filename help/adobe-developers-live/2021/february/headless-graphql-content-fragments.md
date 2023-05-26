@@ -11,19 +11,19 @@ version: Cloud Service
 kt: 7171
 type: Event
 thumbnail: 331280.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: a545a81e-efa5-485f-a653-6cee86e29065
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-
 # Headless: GraphQL mit Inhaltsfragmenten
 
 Erfahren Sie mehr über die neuen Headless-Funktionen mit den neuesten Inhaltsfragmentverbesserungen. Im Mittelpunkt dieser Sitzung steht die GraphQL API für Adobe Experience Manager Cloud Service.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331280/?quality=12&learn=on&hidetitle=true)
 

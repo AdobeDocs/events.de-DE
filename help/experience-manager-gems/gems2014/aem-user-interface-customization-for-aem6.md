@@ -4,10 +4,11 @@ description: Erfahren Sie, wie Sie die Benutzeroberfläche von AEM 6.0 erweitern
 uuid: 2937bc6f-9ae8-4acf-a965-a16ef6e56a16
 discoiquuid: b1c4e69a-bc0e-445c-8e3e-c03ead18e76e
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 0604122c-2296-4db4-a70d-e9d11280b6bd
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -30,7 +31,7 @@ Die Sitzung zeigt Ihnen, wie Sie die Benutzeroberfläche von AEM 6.0 erweitern k
 
 ## Siehe auch: {#related-links}
 
-* [Konzepte der Touch-optimierten Benutzeroberfläche](http://docs.adobe.com/docs/de/aem/6-0/develop/the-basics/touch-ui-concepts.html)
-* [Struktur](http://docs.adobe.com/docs/de/aem/6-0/develop/the-basics/touch-ui-structure.html)
-* [Anpassen der Konsolen (Touch-optimierte Benutzeroberfläche)](http://docs.adobe.com/docs/de/aem/6-0/develop/extending/customizing-consoles-touch.html)
-* [Anpassen der Seitenbearbeitung (Touch-optimierte Benutzeroberfläche)](http://docs.adobe.com/docs/de/aem/6-0/develop/extending/customizing-page-authoring-touch.html)
+* [Konzepte der Touch-optimierten Benutzeroberfläche](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [Struktur](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
+* [Anpassen der Konsolen (Touch-optimierte Benutzeroberfläche)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
+* [Anpassen der Seitenbearbeitung (Touch-optimierte Benutzeroberfläche)](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

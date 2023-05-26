@@ -5,10 +5,11 @@ uuid: d4f70700-328c-42f9-9fd8-5181d2ba1697
 topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 30a68d44-f4f1-4370-8e96-edc6f9cbfe1a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '155'
+ht-degree: 52%
 
 ---
 
@@ -28,8 +29,15 @@ ht-degree: 100%
 
 Dokumentation zu AEM
 
-* [Oak-Abfragen und Indizierung](https://docs.adobe.com/docs/de/aem/6-3/deploy/platform/queries-and-indexing.html)
-* [Best Practice für Abfragen und Indizierung](https://docs.adobe.com/docs/de/aem/6-3/deploy/best-practices/best-practices-for-queries-and-indexing.html)
+>[!CAUTION]
+>
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+
+>[!WARNING]
+>
+>AEM Versionen 6.4 und älter sind End of Life und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).  Auf archivierte Versionen der Dokumentation kann über diese [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
+>
+>Informationen zu dieser Sitzung finden Sie unter *Oak-Abfragen und Indizierung* und *Best Practices für Abfragen und Indizierung* in der Dokumentation zu AEM 6.3.
 
 Dokumentation zu Oak
 

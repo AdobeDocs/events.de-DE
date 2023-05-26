@@ -12,19 +12,19 @@ version: Cloud Service
 kt: 7170
 type: Event
 thumbnail: 331735.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 87c64749-6f4a-4143-9c06-d0441776f304
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-
 # Schnelle Wertsteigerung mit Adobe Experience Manager Sites
 
 Erfahren Sie, wie Sie mit dem Blueprint-Framework von Digital Foundation schnell ein Design mit OOTB-Funktionalität und minimaler Anpassung implementieren können.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](http://adobe.ly/36Yd3v6)**.
+Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331735/?quality=12&learn=on&hidetitle=true)
 

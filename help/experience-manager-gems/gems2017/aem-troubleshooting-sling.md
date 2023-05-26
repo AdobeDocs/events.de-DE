@@ -5,10 +5,11 @@ uuid: 823b2bda-411b-49af-9a75-ab5eb9562d57
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 19ded93d-2183-4a26-9dc6-8c25cdd4caeb
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 100%
+source-wordcount: '182'
+ht-degree: 70%
 
 ---
 
@@ -30,11 +31,12 @@ Timothee Market, Senior Developer, Adobe
 
 ## Ressourcen {#resources}
 
-Benutzersynchronisierung
+>[!WARNING]
+>
+>AEM Versionen 6.4 und älter sind End of Life und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).  Auf archivierte Versionen der Dokumentation kann über diese [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
+>
+>Informationen zu dieser Sitzung finden Sie unter *Benutzersynchronisierung* in der AEM Dokumentation.
 
-* [Dokumentation zu AEM 6.3](https://docs.adobe.com/docs/de/aem/6-3/administer/security/security/sync.html)
-* [Dokumentation zu AEM 6.2](https://docs.adobe.com/docs/de/aem/6-2/administer/security/security/sync.html)
-* [Dokumentation zu AEM 6.1](https://docs.adobe.com/docs/de/aem/6-1/administer/security/security/sync.html)
 * [Apache Sling-Inhaltsverteilung](https://sling.apache.org/documentation/bundles/content-distribution.html)
 * [Zurück zur Übersicht](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 

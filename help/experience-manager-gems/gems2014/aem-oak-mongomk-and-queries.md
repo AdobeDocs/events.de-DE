@@ -4,7 +4,8 @@ description: Lernen Sie das Abfragemodul von Oak kennen und erfahren Sie, wie es
 uuid: 110e7e51-6e0c-4eae-9bc3-063e16b0ec92
 discoiquuid: 51d59018-e137-4370-8530-9c38dca34343
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: ab0851fb-7271-49c5-9f11-81ea7c7c0d47
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
@@ -34,7 +35,7 @@ Lernen Sie das Abfragemodul von Oak kennen und erfahren Sie, wie es im Vergleich
 
 ## Siehe auch: {#related-links}
 
-[Dokumentation zu Oak](http://jackrabbit.apache.org/oak/docs/)
+[Dokumentation zu Oak](https://jackrabbit.apache.org/oak/docs/)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

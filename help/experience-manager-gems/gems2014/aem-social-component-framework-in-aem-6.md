@@ -4,10 +4,11 @@ description: Erfahren Sie, wie Sie das Social Component Framework in AEM 6 verwe
 uuid: ea0d66a9-258c-45a7-92c9-8f43b7615080
 discoiquuid: bb43bdf0-8d8d-40c2-865f-ad675348e667
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 46cb81e7-bd1d-4ee7-b15f-178e25eedd5a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -30,4 +31,4 @@ Siddharth Palaniswami, Sr. Software Engineering Lead, Adobe
 ## Siehe auch: {#related-links}
 
 * [GitHub-Link für Code-Beispiel](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
-* [Social Component Framework](Http://docs.adobe.com/content/docs/de/aem/6-0/develop/social-communities/scf.html)
+* [Social Component Framework](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

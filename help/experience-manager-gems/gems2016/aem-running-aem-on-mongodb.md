@@ -4,10 +4,11 @@ description: In dieser AEM GEM-Sitzung wird beschrieben, wie Sie AEM in einer Pr
 uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: a730275f-cfc9-4fbe-aa7b-d0a5220a8417
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '161'
+ht-degree: 63%
 
 ---
 
@@ -29,7 +30,11 @@ In dieser AEM GEM-Sitzung wird beschrieben, wie Sie AEM in einer Produktionsumge
 
 ## Siehe auch: {#related-links}
 
-[AEM mit MongoDB](https://docs.adobe.com/content/docs/de/aem/6-1/deploy/platform/aem-with-mongodb.html)
+>[!WARNING]
+>
+>AEM Versionen 6.4 und älter sind End of Life und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).  Auf archivierte Versionen der Dokumentation kann über diese [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
+>
+>Informationen zu dieser Sitzung finden Sie unter *Oak-Abfragen und -Indizierung : AEM mit MongoDB* in der Dokumentation zu AEM 6.1.
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
