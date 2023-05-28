@@ -2,7 +2,8 @@
 title: Adobe Developers Live Februar 2022
 description: Eine Sammlung von Videos und Tutorials für Adobe Experience Manager Sites, die im Rahmen des Adobe Developers Live-Ereignisses bereitgestellt werden.
 sub-product: sites, content-services
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+exl-id: be14ecfb-9c54-48e6-b6e9-7431e9cc8551
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 7%

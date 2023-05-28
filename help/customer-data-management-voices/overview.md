@@ -1,7 +1,8 @@
 ---
 title: Stimmen im Customer Data Management
 description: Ihr Ziel als technisches und Marketing-Praxisleiter und -Spezialist für das Kundendatenmanagement.  Diese Seite ist Ihre zentrale Anlaufstelle, um von Ihren Kollegen zu hören, sich inspirieren zu lassen und über Entwicklungen im Bereich Martech zu erfahren.
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 44e1b706-d216-4ffe-8cbf-b352fc34de54
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 18%

@@ -1,7 +1,8 @@
 ---
 title: Handel und Kaffee
 description: Die Adobe Commerce- und Coffee-Serie konzentriert sich auf Commerce-Strategien und -Taktiken, unterstützt durch Statistiken, die das Ereignisthema widerspiegeln.
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+exl-id: b843ec27-295a-406c-971b-f3ba4ee9e002
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%

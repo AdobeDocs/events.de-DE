@@ -1,7 +1,8 @@
 ---
 title: APAC Commerce-Webinar-Reihe
 description: Die APAC Commerce-Webinar-Reihe ist eine monatliche Reihe von Workshops für Adobe Commerce-Kunden, die eine breite Palette von Themen abdecken, von Best Practices über Produkt-Roadmap bis hin zu Branchentrends.
-source-git-commit: fe18679ea0bdbb10d88e651b001737833ed1abff
+exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%

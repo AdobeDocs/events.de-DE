@@ -10,7 +10,8 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM-Sitzungen
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+exl-id: 595f6977-935a-4859-9cfd-161d45847f85
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 100%
@@ -72,5 +73,3 @@ Unsere [Experience Manager-Community](https://experienceleaguecommunities.adobe.
 * Vernetzung: Netzwerk mit Fachkollegen und Adobe-Mitarbeitern für Beratung und Best Practices bei der Implementierung und Erweiterung der Produktnutzung
 * Schnelle Antworten: Umfangreicher Pool mit Antworten auf praktische Anwendungsfälle zur Unterstützung des erfolgreichen Einsatzes von Adobe-Lösungen
 * Ideen und Feedback: Berücksichtigung von Produktideen der Kunden und Bereitstellung von wertvollem VoC-Feedback für die Produkt-Teams
-
-
