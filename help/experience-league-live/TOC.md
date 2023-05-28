@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 02e78a5b7959dbcca9b73845266e3aa021bf7fd9
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 9%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 9%
    + [Ep. 23: Mit nur wenigen Klicks können Sie die Datenerfassung und Ereignisweiterleitung einrichten und nutzen!](episodes/exl-live-episode-4-25-23.md)
    + [Ep. 22: Beschleunigen Ihrer Web-Erlebnisse](episodes/exl-live-episode-2-16-23.md)
    + [Ep. 21: Datenerfassungs-Highlights und Roadmap](episodes/exl-live-episode-1-26-23.md)
-   + [Ep. 20: Analytics im Büro oder unterwegs](episodes/exl-live-episode-11-18-22.md)
+   + [Ep. 20: [!DNL Analytics] im Büro oder unterwegs](episodes/exl-live-episode-11-18-22.md)
    + [Ep. 19. Bereitstellung des richtigen Angebots zur richtigen Zeit mit Entscheidungsmanagement](episodes/exl-live-episode-10-25-22.md)
    + [Ep. 18: Ausführen Ihrer Kampagnen in Adobe Journey Optimizer](episodes/exl-live-episode-09-22-22.md)
    + [Ep. 17: Bereitstellung eines personalisierteren Kundenerlebnisses in Echtzeit](episodes/exl-live-episode-09-20-22.md)
@@ -44,5 +44,5 @@ ht-degree: 9%
    + [Ep. 4: Wer hat darauf geklickt? Und was hat er dann gemacht?](episodes/exl-live-episode-04.md)
    + [Ep. 3: Expertentipps, um Ihre Weihnachtskampagnen aufzuwerten](episodes/exl-live-episode-03.md)
    + [Ep. 2: Machen Sie Ihr nächstes Zielgruppensegment schlauer als je zuvor](episodes/exl-live-episode-02.md)
-   + [Ep. 1: Meine drei bevorzugten Adobe Analytics-Implementierungshinweise](episodes/exl-live-episode-01.md)
+   + [Ep. 1: Meine drei Favoriten - Adobe [!DNL Analytics] Tipps zur Implementierung](episodes/exl-live-episode-01.md)
 + [Experience League LIVE Assets](exl-live-assets.md)

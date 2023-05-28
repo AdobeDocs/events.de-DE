@@ -1,21 +1,22 @@
 ---
-title: Berichterstellung in Marketo Engage
-description: In dieser Sitzung werden alle Reporting-Tools, die in Marketo Engage verfügbar sind, einschließlich Reports Smart Lists Analyzer MPI Email Insights
+title: Berichterstellung innerhalb von [!DNL Marketo Engage]
+description: In dieser Sitzung werden alle Reporting-Tools vorgestellt, die in [!DNL Marketo Engage] Einschließen von Berichten Smart Lists Analyzer MPI Email Insights
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 10325
 thumbnail: 342557.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: fc869a40-a170-4eaa-a94a-cd5d206e2aaa
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '104'
 ht-degree: 1%
 
 ---
 
-# Berichterstellung in Marketo Engage
+# Berichterstellung innerhalb von [!DNL Marketo Engage]
 
-In dieser Sitzung werden alle in Marketo Engage verfügbaren Reporting-Tools vorgestellt, darunter:
+In dieser Sitzung werden alle Reporting-Tools vorgestellt, die in [!DNL Marketo Engage] einschließlich:
 
 * Berichte
 * Smart-Listen
@@ -28,7 +29,7 @@ In dieser Sitzung werden alle in Marketo Engage verfügbaren Reporting-Tools vor
 * Verwendung von Standardberichten im Vergleich zu Smart-Listen
    * Abonnements
 
-Verlassen Sie diese Sitzung mit einem Verständnis der Berichterstellungsfunktionen auf hoher Ebene in Marketo Engage und einem tiefen Einblick in Berichte und intelligente Listen.
+Sie verlassen diese Sitzung mit einem Verständnis der Berichterstellungsfunktionen auf hoher Ebene innerhalb von [!DNL Marketo Engage]und tauchen Sie ein in Berichte und Smart-Listen.
 
 Am Ende dieser Sitzung wird eine Live-Q&amp;A zu all Ihren noch offenen Fragen führen.
 

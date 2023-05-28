@@ -1,23 +1,24 @@
 ---
-title: Erstellen von Programmen in Marketo Engage
+title: Erstellen von Programmen in [!DNL Marketo Engage]
 description: In dieser Sitzung erfahren Sie alles über die Programmstruktur, einschließlich Programmtypen, Kanäle und Status und Tags.
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 10324
 thumbnail: 342555.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: a9d48fa2-6d89-4576-bd69-079c2e62b7d5
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-# Erstellen von Programmen in Marketo Engage
+# Erstellen von Programmen in [!DNL Marketo Engage]
 
 In dieser Sitzung lernen Sie alles über *Programmstruktur* einschließlich: Programmtypen, Kanäle und Status und Tags. Außerdem erfahren Sie mehr über *Foundation-Programmkonzept* und was ein Programm macht.
 
-Sie werden in dieser Sitzung erfahren, wie Sie Ihre Marketo Engage-Instanz so einrichten, dass sie Ihren Geschäftsanforderungen möglichst effizient gerecht wird und wie Sie Programme zur Ausführung von E-Mails und Webinaren erstellen.
+Sie werden diese Sitzung mit einem Verständnis der Einrichtung Ihrer [!DNL Marketo Engage] , um Ihre geschäftlichen Anforderungen möglichst effizient zu erfüllen und Programme zur Ausführung von E-Mails und Webinaren zu erstellen.
 
 Am Ende dieser Sitzung wird eine Live-Q&amp;A zu all Ihren noch offenen Fragen führen.
 

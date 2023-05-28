@@ -1,12 +1,13 @@
 ---
 title: Keynote – Customer Journey-Trends und Innovationen im B2B- und B2C-Bereich
 description: Erfahren Sie mehr über die neuesten Trends beim Customer Journey Management für B2B und B2C.
-solution: Marketo, Campaign Classic v7, Campaign v8
+solution: Marketo, [!DNL Campaign Classic] v7, Campaign v8
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10572
 thumbnail: 343822.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 86eb7396-72c9-4a3e-9689-22cb77184a21
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 23%

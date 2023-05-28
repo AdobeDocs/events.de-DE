@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Sammlung von Aufzeichnungen von Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '361'
 ht-degree: 11%
 
 ---
@@ -80,18 +80,18 @@ ht-degree: 11%
       + [Skalierbarkeit und Effizienz mithilfe von Token](marketo/feb2022/using-tokens.md)
       + [Interaktionsprogramme zur Interaktion Ihrer Kunden nutzen](marketo/feb2022/utilize-engagement-programs.md)
    + August 2021 {#aug2021}
-      + [Erstellen von Programmen in Marketo Engage](marketo/aug2021/create-programs.md)
-      + [Marketo Engage Rockstars](marketo/aug2021/engage-rockstars.md)
+      + [Erstellen von Programmen in [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
+      + [[!DNL Marketo Engage] Rockstars](marketo/aug2021/engage-rockstars.md)
       + [Leistung einer intelligenten Kampagne](marketo/aug2021/smart-campaign.md)
       + [Benutzerdefinierte Felder für Programmmitglieder](marketo/aug2021/program-member-custom-fields.md)
-      + [Berichterstellung in Marketo Engage](marketo/aug2021/reporting.md)
+      + [Berichterstellung innerhalb von [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
       + [Ihre Marketo-Roadmap](marketo/aug2021/marketo-roadmap.md)
    + Februar 2021 {#feb2021}
       + [Ein Top-Rope-Einstieg in benutzerdefinierte Objekte und Velocity](marketo/feb2021/custom-objects.md)
-      + [Adobe Marketo Engage Rockstar-Segment](marketo/feb2021/rockstar.md)
-      + [Erstellen von Programmen in Adobe Marketo Engage](marketo/feb2021/create-programs.md)
+      + [Adobe [!DNL Marketo Engage] Rockstar-Segment](marketo/feb2021/rockstar.md)
+      + [Erstellen von Programmen innerhalb der Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [Leistung einer intelligenten Kampagne](marketo/feb2021/power-of-smart-campaign.md)
-      + [Berichterstellung in Marketo Engage](marketo/feb2021/reporting-within-marketo.md)
+      + [Berichterstellung innerhalb von [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Tipps und Tricks für Ihre Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + April 2022 {#apr2022}

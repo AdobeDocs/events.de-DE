@@ -1,21 +1,22 @@
 ---
-title: Gemeinsam besser – Adobe Marketo Engage und Real-Time CDP
-description: Erfahren Sie, wie Sie B2B-Kampagnen mit Marketo Engage und RT-CDP (B2B-Bearbeitung) koordinieren.
+title: Gemeinsam besser - Adobe [!DNL Marketo Engage] und Real-Time CDP
+description: Erfahren Sie, wie Sie B2B-Kampagnen mit [!DNL Marketo Engage] und RT-CDP (B2B Edition)
 solution: Marketo, Real-time Customer Data Platform
 role: Admin, Data Architect, Data Engineer, User
 level: Beginner, Intermediate, Experienced
 kt: 10570
 thumbnail: 343824.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: c3b4af01-047f-4634-a1bc-f7b0ec87936e
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 24%
+source-wordcount: '58'
+ht-degree: 0%
 
 ---
 
-# Gemeinsam besser – Adobe Marketo Engage und Real-Time CDP
+# Gemeinsam besser - Adobe [!DNL Marketo Engage] und Real-Time CDP
 
-In dieser Sitzung erfahren Sie, wie Sie B2B-Kampagnen mit Marketo Engage und RT-CDP (B2B-Bearbeitung) koordinieren und welche Anwendungsfälle und Vorteile am häufigsten genutzt werden.
+In dieser Sitzung erfahren Sie, wie Sie B2B-Kampagnen mit [!DNL Marketo Engage] und RT-CDP (B2B Edition) und was sind die wichtigsten Anwendungsfälle und Vorteile, die nicht gesperrt sind.
 
 *Mihai Prisacariu* Lösungsberater, CJM/Adobe
 

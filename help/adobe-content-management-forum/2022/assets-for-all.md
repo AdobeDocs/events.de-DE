@@ -7,9 +7,10 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner
 kt: 10788
 thumbnail: 345378.png
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 9d867d04-debc-4ebd-8c17-487ab83fc807
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
@@ -17,6 +18,6 @@ ht-degree: 0%
 
 # Assets für alle
 
-Erfahren Sie von Purnima Rachoor Roy, wie Assets Essentials das neue Digital Asset Management System für Abteilungen und mittelständische Unternehmen ist.
+Hören Sie von Purnima Rachoor Roy darüber, wie [!DNL Assets Essentials] ist das neue [!DNL Digital Asset Management] System für Abteilungen und mittelständische Unternehmen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345378/?quality=12&learn=on)

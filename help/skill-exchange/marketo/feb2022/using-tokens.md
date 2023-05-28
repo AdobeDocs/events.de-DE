@@ -1,21 +1,22 @@
 ---
-title: Skalierbarkeit und Effizienz mithilfe von Token im Marketo Engage
-description: Erfahren Sie, wie Sie Token außerhalb der Personalisierung verwenden können, um die Programmerstellung und -vorgänge in Marketo Engage effizienter zu gestalten.
+title: Skalierbarkeit und Effizienz mithilfe von Token in [!DNL Marketo Engage]
+description: Erfahren Sie, wie Sie Token außerhalb der Personalisierung verwenden können, um Ihre Programmerstellung und -vorgänge effizienter zu gestalten in [!DNL Marketo Engage].
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9770
 thumbnail: 340593.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 8f061a2b-2a7a-4186-be46-55690e21c0fd
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '81'
 ht-degree: 2%
 
 ---
 
-# Skalierbarkeit und Effizienz mithilfe von Token im Marketo Engage
+# Skalierbarkeit und Effizienz mithilfe von Token in [!DNL Marketo Engage]
 
-Erfahren Sie, wie Sie Token außerhalb der Personalisierung verwenden können, um die Programmerstellung und -vorgänge in Marketo Engage effizienter zu gestalten.
+Erfahren Sie, wie Sie Token außerhalb der Personalisierung verwenden können, um Ihre Programmerstellung und -vorgänge effizienter zu gestalten in [!DNL Marketo Engage].
 
 **Wichtige Schlussfolgerungen**
 
