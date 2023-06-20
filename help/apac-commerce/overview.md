@@ -2,9 +2,9 @@
 title: APAC Commerce-Webinar-Reihe
 description: Die APAC Commerce-Webinar-Reihe ist eine monatliche Reihe von Workshops für Adobe Commerce-Kunden, die eine breite Palette von Themen abdecken, von Best Practices über Produkt-Roadmap bis hin zu Branchentrends.
 exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: a5958d739ab6dbbc97626a8f95be6d46ee85cfbd
+source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -45,15 +45,15 @@ Die APAC Commerce-Webinar-Reihe ist eine monatliche Reihe von Workshops für Ado
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="New Relic Masterclass" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
+      <img alt="Kombinierbare Commerce-Strategien für skalierbaren und agilen E-Commerce" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>New Relic Masterclass</strong>
+        <strong>Kombinierbare Commerce-Strategien für skalierbaren und agilen E-Commerce</strong>
       </a>
     </div>
     <p>
-    <em>Nehmen Sie an diesem Webinar teil, um zu erfahren, wie Sie mit New Relic die Kontrolle über Ihre Infrastruktur übernehmen können. Wenden Sie sich mit absoluter Konfidenz an Ihre nächste Kampagne, indem Sie auf Ihre Infrastrukturdaten zugreifen und diese verstehen.</em>
+    <em>Nehmen Sie an einem Webinar teil, in dem Sie sich mit der Welt der komponierbaren Architektur beschäftigen und erfahren, wie sie die E-Commerce-Landschaft revolutioniert.</em>
     <p>
   </td>  
 </tr>
