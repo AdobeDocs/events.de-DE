@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Sammlung von Aufzeichnungen aus [!DNL Experience Makers Learn from your peers]"
-source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
+source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 23%
+source-wordcount: '80'
+ht-degree: 22%
 
 ---
 
@@ -32,6 +32,8 @@ ht-degree: 23%
    + Mai {#may2023}
       + [Verwalten von Inhalts- und Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + Juni {#june2023}
+      + [Marketing-Kampagnen verfolgen, analysieren und optimieren](marketo/june2023/marketing-campaigns.md)
    + Mai {#may2023}
       + [Cracken der Personalisierung bei Skalierungscode mithilfe von [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    + März {#mar2023}

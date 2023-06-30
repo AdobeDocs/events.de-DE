@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Sammlung von Aufzeichnungen von Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
+source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '379'
 ht-degree: 11%
 
 ---
@@ -15,6 +15,13 @@ ht-degree: 11%
 
 + [Übersicht](overview.md)
 + Analytics {#analytics}
+   + Mai 2023 {#may2023}
+      + [Tipps und Tricks zu Adobe Analytics](analytics/may2023/tips-and-tricks.md)
+      + [Migration zu EDDL/WebSDK](analytics/may2023/tips-and-tricks.md)
+      + [Rockstar-Tipps](analytics/may2023/rockstar-tips.md)
+      + [Produktivität steigern](analytics/may2023/productivity.md)
+      + [Grundlagen zu Metriken](analytics/may2023/metrics.md)
+      + [Grundlagen der Benutzeroberfläche](analytics/may2023/user-interface.md)
    + Oktober 2022 {#oct2022}
       + [Erste Schritte](analytics/oct2022/getting-started.md)
       + [Daten analysieren](analytics/oct2022/analyzing-the-data.md)
@@ -52,7 +59,7 @@ ht-degree: 11%
       + [Erste Schritte](analytics/sept2021/getting-started.md)
       + [Navigieren SPA Herausforderungen in Test Builds und Analysen](analytics/sept2021/navigate-spa.md)
       + [Alles zusammenbringen](analytics/sept2021/putting-all-together.md)
-   + Juni 2021 {#jun2021}
+   + Juni 2021{#jun2021}
       + [Tipps und Tricks zu Adobe Analytics](analytics/jun2021/tips-and-tricks.md)
       + [Adobe Analytics Rockstars](analytics/jun2021/analytics-rockstars.md)
       + [Daten analysieren](analytics/jun2021/analyze-data.md)
