@@ -1,14 +1,14 @@
 ---
 title: Best Practices der CDP - Personen und Prozesse
 description: Erfahren Sie, wie Sie Ihre Kundendatenplattform optimal nutzen können, indem Sie in die Mitarbeiter und Prozesse hinter den Technologien investieren. Nina Caruso von Adobe gibt Auskunft über die Einrichtung Ihrer Organisation ... (Die Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein.)
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10634
 thumbnail: 344313.jpeg
 exl-id: c7ff138e-0865-4b89-a1e6-be9cdd95059e
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 6%
