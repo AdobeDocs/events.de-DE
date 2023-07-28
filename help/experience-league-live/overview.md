@@ -1,16 +1,16 @@
 ---
 title: Experience League LIVE-Ereignisse
 description: Eine Sammlung von Links zu vorherigen Experience League LIVE-Ereignissen
-solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
+solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 4017a3a3d649af24fd668a24ceece6ed32598c35
+source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 54%
+source-wordcount: '167'
+ht-degree: 51%
 
 ---
 
@@ -24,8 +24,16 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 <table>
 <tr>
-  <td style="vertical-align: top;">
-    Auf dieser Seite finden Sie weitere Informationen zu unserer kommenden Augustshow vom August 2023!
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
+      <img alt="Experience League LIVE Apr. 21" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-8-23-23.md">
+        <strong>API-Trigger-Messaging in Adobe Journey Optimizer</strong>
+      </a>
+      <br/><em>mit Sandra Hausmann, Siddharth Jain, Nikhil Sharma und Chetan Prasad</em>
+      <br/><em>23. August 2023</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -67,7 +75,7 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
       <img alt="Experience League LIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - Die Inside-Scoop</strong></a>
+      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - Die interne Scoop</strong></a>
       <br/><em>mit Trevor Paulsen, Rohit Gossain, Alex Strawn</em>
       <br/><em>25. Januar 2021</em>
     </div>
