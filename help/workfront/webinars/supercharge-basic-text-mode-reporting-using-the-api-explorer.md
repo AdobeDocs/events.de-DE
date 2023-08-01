@@ -6,16 +6,16 @@ doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: ea4716c9-2c61-4c44-9d2a-cbd4f07699d5
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 5952a51bcc4ec25d14cf5527ec1af218ebc0ae11
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1662'
 ht-degree: 2%
 
 ---
 
 # Fragen Sie den Experten - Berichterstellung für den grundlegenden Textmodus mit Supercharge über den API Explorer.
 
-Erfahren Sie mehr über den API-Explorer, seine Verwendung und die Verbesserung Ihrer Berichte mithilfe des grundlegenden Textmodus. Dieses Webinar wurde am 22. Januar 2020 aufgenommen.
+Informationen zum [[!UICONTROL API-Explorer]](https://developer.adobe.com/workfront/api-explorer/), wie Sie sie verwenden und wie Sie Ihre Berichte mithilfe des grundlegenden Textmodus erweitern können. Dieses Webinar wurde am 22. Januar 2020 aufgenommen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
@@ -24,7 +24,7 @@ Erfahren Sie mehr über den API-Explorer, seine Verwendung und die Verbesserung 
 ![Eine Grafik mit Beispielen für Code-Regeln im Textmodus](assets/text-mode-chart.png)
 
 
-**Spalte &quot;Alle Auftragsrollen&quot;**
+**Endgültige Spalte &quot;Alle Auftragsrollen&quot;**
 
 ```
 description="Primary =" indicates the user's primary job role
@@ -109,7 +109,7 @@ Workfront unterstützt nicht [!DNL CSS] im Textmodus.
 
 **Frage**
 
-Was ist die beste und/oder schnellste Methode, einen benutzerdefinierten Feldnamen zu finden - für Textmodusberichte? Ich habe die HTML-Bearbeitungsoption im Browser ODER verwendet, indem ich ein Feld in einem Bericht hinzugefügt habe und in den Textmodus wechselte, um es zu erfassen.. merkwürdig, wie andere dies durchführen.
+Was ist die beste und/oder schnellste Methode, einen benutzerdefinierten Feldnamen zu finden - für Textmodusberichte? Ich habe die HTML-Bearbeitungsoption im Browser ODER verwendet, indem ich ein Feld in einem Bericht hinzugefügt habe und in den Textmodus wechselte, um es zu erfassen... merkwürdig, wie andere dies durchführen.
 
 **Antwort**
 
@@ -147,7 +147,7 @@ Ich möchte einen Bericht erstellen, der für jedes Projekt zeigt, an welchen ak
 
 **Antwort**
 
-Das ist richtig. Ein Aufgabenbericht wäre dafür am besten. Sie müssen &quot;Aktive Aufgaben&quot;definieren. Wenn Sie Vorgänger verwenden, wären dies Aufgaben, die bereit sind. Sie können also nach &quot;Bereit = True&quot;filtern. Dies würde alle Aufgaben einbringen, die startbereit sind. Dann empfehle ich Ihnen, eine Gruppierung nach Projektname durchzuführen, sodass Ihre Aufgaben alle gruppiert sind und Sie auf einen Blick sehen können, welche Aufgaben zu welchem Projekt gehören.
+Das ist richtig. Ein Aufgabenbericht wäre dafür am besten. Sie müssen &quot;Aktive Aufgaben&quot;definieren. Wenn Sie Vorgänger verwenden, wären dies Aufgaben, die bereit sind. Sie können also nach Bereit = True filtern. Dies würde alle Aufgaben einbringen, die startbereit sind. Dann empfehle ich Ihnen, eine Gruppierung nach Projektname durchzuführen, sodass Ihre Aufgaben alle gruppiert sind und Sie auf einen Blick sehen können, welche Aufgaben zu welchem Projekt gehören.
 
 **Frage**
 
