@@ -4,11 +4,12 @@ description: Erfahren Sie, wie Sie die Geschwindigkeit mit [!DNL Workfront] Beri
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9912
+jira: KT-9912
+last-substantial-update: 2023-08-14T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e087e65f2ddea9bf9ca11a5ae7b3dae516402d8c
 workflow-type: tm+mt
-source-wordcount: '3919'
+source-wordcount: '3918'
 ht-degree: 1%
 
 ---
@@ -30,7 +31,7 @@ Format: Datum
 Berechnung:
 
 ```
-IF(ISBLANK(First Commit Date),Default Baseline.Planned Completion Date,First Commit Date)
+IF(ISBLANK({DE:First Commit Date}),{defaultBaseline}.{plannedCompletionDate},{DE:First Commit Date})
 ```
 
 **Erste Dauer**
@@ -40,7 +41,7 @@ Format: Text
 Berechnung:
 
 ```
-IF(ISBLANK(First Duration),Default Baseline.Duration,First Duration)
+IF(ISBLANK({DE:First Duration}),{defaultBaseline}.{durationMinutes},{DE:First Duration})
 ```
 
 **Verhältnis zwischen Arbeit und Verpflichtung**
@@ -50,7 +51,7 @@ Format:Zahl
 Berechnung:
 
 ```
-ROUND(DIV(Actual Duration,First Duration),1)
+ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
 **Status des Verhältnisses zwischen Arbeit und Selbstverpflichtung**
@@ -60,7 +61,7 @@ Format:Text
 Berechnung:
 
 ```
-IF({Work-to-Commit Ratio}>2,"Terrible",IF({Work-to-CommitRatio}>1.6,"Poor",IF({Work-to-Commit Ratio}>1.2,"Not Bad","Exc ellent")))
+IF({DE:Work-to-Commit Ratio}>2,"Terrible",IF({DE:Work-to-Commit Ratio}>1.6,"Poor",IF({DE:Work-to-Commit Ratio}>1.2,"Not Bad","Excellent")))
 ```
 
 **Angepasste Geschwindigkeit**
@@ -70,7 +71,7 @@ Format:Zahl
 Berechnung:
 
 ```
-ROUND(DIV(Actual Duration,Duration),1)
+ROUND(DIV({actualDurationMinutes},{durationMinutes}),1)
 ```
 
 **Angepasster Velocity-Status**
@@ -80,7 +81,7 @@ Format:Text
 Berechnung:
 
 ```
-IF(Adjusted Velocity>2,"Terrible",IF(Adjusted Velocity>1.6,"Poor",IF(Adjusted Velocity>1.2,"Not Bad","Excellent")))
+IF({DE:Adjusted Velocity}>2,"Terrible",IF({DE:Adjusted Velocity}>1.6,"Poor",IF({DE:Adjusted Velocity}>1.2,"Not Bad","Excellent")))
 ```
 
 ## Fragen und Antworten
@@ -100,7 +101,7 @@ Hierzu sind folgende Schritte notwendig:
 1. Führen Sie den Bericht aus. Stellen Sie sicher, dass alle Projekte angezeigt werden (siehe Optionen unten rechts im Bericht).
 1. Aktivieren Sie das Kontrollkästchen oben links im Bericht in der Leiste mit Spaltenüberschriften. Dadurch werden alle Projekte im Bericht ausgewählt.
 1. Klicken Sie auf die Schaltfläche Bearbeiten oberhalb der Berichtliste.
-1. Setzen Sie den Bedingungstyp auf &quot;Manuell&quot;
+1. Setzen Sie den Bedingungstyp auf Manuell .
 1. Setzen Sie das Bedingungsfeld auf In Trouble .
 1. Klicken Sie auf Änderungen speichern
 
@@ -119,7 +120,7 @@ Die Formel hierfür ist die tatsächliche Dauer/die geplante Dauer (die im Feld 
 
 Verhältnis zwischen Arbeit und Verpflichtung
 
-Diese Formel ähnelt der angepassten Velocity, mit dem Unterschied, dass wir anstelle des Wertes für die geplante Dauer aus dem endgültigen Plan die geplante Dauer verwenden möchten, die dem Kunden zuerst versprochen wurde. Wir gehen davon aus, dass die ursprüngliche Grundlinie diese Informationen enthält (und wir planen von nun an, unsere Projektmanager aufzufordern, ihre Projekte auf diese Weise zu planen, damit wir genaue Daten erfassen können). Wir haben diesen Dauerwert aus der ursprünglichen Grundlinie erfasst und ihn &quot;Erste Dauer&quot;genannt.
+Diese Formel ähnelt der angepassten Velocity, mit dem Unterschied, dass wir anstelle des Wertes für die geplante Dauer aus dem endgültigen Plan die geplante Dauer verwenden möchten, die dem Kunden zuerst versprochen wurde. Wir gehen davon aus, dass die ursprüngliche Grundlinie diese Informationen enthält (und wir planen von jetzt an, unsere Projektmanager aufzufordern, ihre Projekte auf diese Weise zu planen, damit wir genaue Daten erfassen können). Wir haben diesen Dauerwert aus der ursprünglichen Grundlinie erfasst und ihn &quot;Erste Dauer&quot;genannt.
 
 Indem wir die tatsächliche Dauer entweder durch die geplante Dauer oder die erste Dauer teilen, erhalten wir eine Zahl, die uns mitteilt, wie nah wir am Ziel waren. Wenn die geplante Dauer oder die erste Dauer der tatsächlichen Dauer entspricht, entspricht der Index 1. Wenn die tatsächliche Dauer größer ist, lautet die Antwort mehr als 1. Je größer die Zahl, desto schlechter taten wir bei der Erfüllung unseres Datums.
 
@@ -147,7 +148,7 @@ Können Sie für Velocity verwendete Filter bereitstellen?
 Ich habe zwei Filterregeln für die Velocity-Berichte verwendet:
 
 * Kategorien >> ID >> Gleich > WPI-Projektdaten (dies ist das benutzerdefinierte Formular, das alle berechneten Felder enthält). Ich möchte nur Projekte sehen, die dieses benutzerdefinierte Formular verwenden.)
-* Projekt > Status > Gleich > Abgeschlossen (ich möchte nur abgeschlossene Projekte sehen, da sie einen Wert für die tatsächliche Dauer haben, der angibt, wie lange es dauerte, bis alles fertig gestellt war. Aktuelle Projekte würden keine genaue tatsächliche Berechnungsdauer liefern.)
+* Projekt > Status > Gleich > Abgeschlossen (ich möchte nur abgeschlossene Projekte sehen, da sie einen Wert für die tatsächliche Dauer haben, der angibt, wie lange es dauerte, bis alles fertig gestellt war. Laufende Projekte würden keine genaue tatsächliche Berechnungsdauer liefern.)
 
 Ich habe auch andere Filter hinzugefügt, um meinen Bericht klein genug zu halten, um ihn für das Webinar zu verwalten. In Ihrer Produktionsumgebung möchten Sie jedoch wahrscheinlich alle Projekte mit dem benutzerdefinierten WPI-Formular in einem bestimmten Zeitraum sehen. Möglicherweise möchten Sie nach dem tatsächlichen Abschlussdatum des Projekts filtern.
 
@@ -195,11 +196,11 @@ Können Sie Geschwindigkeit auf Aufgabenebene verwenden? Statt auf Projektebene?
 
 **Antwort**
 
-Ja, Sie müssen jedoch das benutzerdefinierte Projekt-Formular kopieren und ein benutzerdefiniertes Aufgabenformular daraus erstellen. Dann müssen Sie die Berechnung im Feld Erstes Sendedatum bearbeiten und den Verweis auf &quot;Standardgrundlinie&quot;in &quot;Standardgrundaufgabe&quot;ändern. Führen Sie dasselbe für die erste Dauer aus. Danach können Sie das benutzerdefinierte Aufgabenformular an alle Aufgaben anhängen, die Sie messen möchten. Sie müssen hierfür Aufgabenberichte anstelle von Projektberichten erstellen. Sie müssen jedoch weiterhin sicherstellen, dass die Grundlinie des Originalprojekts als Standardgrundlinie festgelegt ist. Alle Aufgabendaten werden mit den Projektdaten in derselben Grundlinie beibehalten.
+Ja, Sie müssen jedoch das benutzerdefinierte Projekt-Formular kopieren und ein benutzerdefiniertes Aufgabenformular daraus erstellen. Dann müssen Sie die Berechnung im Feld Erstes Sendedatum bearbeiten und den Verweis auf &quot;Standardgrundlinie&quot;in &quot;Standardgrundaufgabe&quot;ändern. Wiederholen Sie den Vorgang für die erste Dauer. Danach können Sie das benutzerdefinierte Aufgabenformular an alle Aufgaben anhängen, die Sie messen möchten. Sie müssen dafür Aufgabenberichte anstelle von Projektberichten erstellen. Sie müssen jedoch weiterhin sicherstellen, dass die Grundlinie des Originalprojekts als Standardgrundlinie festgelegt ist. Alle Aufgabendaten werden mit den Projektdaten in derselben Grundlinie beibehalten.
 
 **Frage**
 
-Muss das erste Commitdatum manuell vom Projekteigentümer festgelegt werden? Oder könnte sie aus vorhandenen Feldern abgerufen werden?
+Muss das erste Commit-Datum manuell vom Projekteigentümer festgelegt werden? Oder könnte sie aus vorhandenen Feldern abgerufen werden?
 
 **Antwort**
 
@@ -253,7 +254,7 @@ Ich versuche festzustellen, ob es möglich ist, ein Dashboard mit einem Bereich 
 
 Mal sehen, ob ich deine Frage verstehe. Angenommen, ich habe ein benutzerdefiniertes Aufgabenformular namens Tammy Form mit einem Feld namens Tammy Field.
 
-Sie möchten einen Aufgabenbericht erstellen, in dem alle Aufgaben angezeigt werden, denen das Tammy-Formular beigefügt ist und in denen das Tammy-Feld einen gewissen Wert hat.
+Sie möchten einen Aufgabenbericht erstellen, in dem alle Aufgaben angezeigt werden, die mit Tammy Form verbunden sind und in denen Tammy Field einen gewissen Wert hat.
 
 Ja, das kannst du machen. Sie benötigen lediglich einen Filter in Ihrem Aufgabenbericht mit zwei Filterregeln:
 
@@ -271,7 +272,7 @@ Ja. Sie müssen einen Dokumentbericht erstellen. Es scheint, dass Sie bei jeder 
 
 **Frage**
 
-Können Sie einen Farbe-/Hexadezimalwert wählen, der nicht auf der Registerkarte &quot;Diagramm&quot;aufgeführt ist, aber es handelt sich um eine neue Farbe, die einen neuen Hexadezimalwert darstellt. Beispielsweise eine neue Farbe aus meinen Markenfarben, damit ich die Berichte anpassen kann?
+Können Sie einen Farbe-/Hexadezimalwert wählen, der nicht auf der Registerkarte &quot;Diagramm&quot;aufgeführt ist, aber es handelt sich um eine neue Farbe, die ein neuer Hexadezimalwert ist. Beispielsweise eine neue Farbe aus meinen Markenfarben, damit ich die Berichte anpassen kann?
 
 **Antwort**
 
@@ -339,11 +340,11 @@ Ist es möglich, doppelte Einträge aus der Gruppierung in einem Zuweisungsberic
 
 Die beste Möglichkeit, über Gruppierungen in Listenberichten nachzudenken, ist:
 
-Zuerst steuern Sie auf der Registerkarte Filter , welche Elemente in der Liste angezeigt werden. Es gibt keine doppelten Einträge. Der Filter wird auf jedes Objekt angewendet. Wenn er den Filter durchläuft, wird er einmal in der Liste angezeigt, wenn er nicht angezeigt wird.
+Zuerst steuern Sie auf der Registerkarte Filter , welche Elemente in der Liste angezeigt werden. Es gibt keine doppelten Einträge. Der Filter wird auf jedes Objekt angewendet. Wenn er den Filter durchläuft, wird er einmal in der Liste angezeigt, wenn er nicht erscheint.
 
-Die nächste Gruppierung wird auf die gefilterte Liste angewendet. Eine Gruppierung identifiziert eine Sache mit den Objekten in der Liste, wie den Namen des Portfolios, in dem sie sich befindet (Sie können keine Liste von Elementen gruppieren, sondern nur eine einzige Sache). Dann werden alle Objekte mit demselben Wert in dieser Gruppierung angezeigt, wie alle Projekte im selben Portfolio. Alle Projekte, für die kein Portfolio ausgewählt wurde, werden in der Gruppe &quot;Kein Wert&quot;angezeigt.
+Die nächste Gruppierung wird auf die gefilterte Liste angewendet. Eine Gruppierung identifiziert eine Sache mit den Objekten in der Liste, wie den Namen des Portfolios, in dem sie sich befindet (Sie können keine Liste von Dingen gruppieren, sondern nur eine einzige Sache). Dann werden alle Objekte mit demselben Wert in dieser Gruppierung angezeigt, wie alle Projekte im selben Portfolio. Alle Projekte, für die kein Portfolio ausgewählt wurde, werden in der Gruppe &quot;Kein Wert&quot;angezeigt.
 
-Daher können Objekte nicht in mehr als einer Gruppierung angezeigt werden. Ob ein Objekt überhaupt in der Liste angezeigt wird, wird vollständig durch den Filter gesteuert (und wenn die Person, die den Bericht ausführt, über die Berechtigung zum Anzeigen verfügt).
+Daher können Objekte nicht in mehr als einer Gruppierung angezeigt werden. Und ob ein Objekt überhaupt in der Liste angezeigt wird, wird vollständig vom Filter gesteuert (und wenn die Person, die den Bericht ausführt, über die Berechtigung zum Anzeigen verfügt).
 
 **Frage**
 
@@ -353,7 +354,7 @@ Würden Sie einen anderen Bericht empfehlen, um Velocity zu verfolgen? Nur eine 
 
 Wie bei jedem Bericht müssen Sie zuerst entscheiden, was Sie wissen möchten. Der nächste Schritt besteht darin, auf diese Informationen zuzugreifen, was in einigen Fällen bedeutet, dass Sie mit dem Tracking beginnen müssen.
 
-Ein Grund, warum ich mich entschloss, die tatsächliche Dauer mit zwei Arten von geplanter Dauer zu vergleichen, war, dass ich dachte, dass sie interessante Einblicke über Geschwindigkeit liefern würde. Die Daten waren bereits verfügbar, sodass ich nicht anfangen musste, sie zu verfolgen. Mit ein paar Berechnungen konnte ich die Daten in einem Formular extrahieren, über das ich berichten könnte.
+Ein Grund, warum ich mich entschloss, die tatsächliche Dauer mit zwei Arten von geplanter Dauer zu vergleichen, war, dass ich dachte, dass sie interessante Einblicke über Geschwindigkeit liefern würde. Die Daten waren auch bereits verfügbar, sodass ich nicht anfangen musste, sie zu verfolgen. Mit ein paar Berechnungen konnte ich die Daten in einem Formular extrahieren, über das ich berichten könnte.
 
 Sie können aber auch andere Informationen über Aufgaben oder Projekte nachverfolgen, über die Sie Berichte erstellen können.
 
@@ -365,19 +366,19 @@ Können Sie irgendetwas auf SPALTENebene berechnen? Statt ein berechnetes FELD a
 
 **Antwort**
 
-Es wäre möglich gewesen, einen Werteausdruck im Textmodus für diese Berechnungen zu verwenden. Wir hätten aber nicht die erste Dauer oder das erste Datum der Zusage tun können, wir mussten sie an einem Ort erfassen, an dem sie sich nicht ändern würden.
+Es wäre möglich gewesen, einen Werteausdruck im Textmodus zu verwenden, um diese Berechnungen durchzuführen. Wir hätten aber nicht die erste Dauer oder das erste Datum der Zusage tun können, wir mussten sie an einem Ort erfassen, an dem sie sich nicht ändern würden.
 
-Was den Status der Arbeitsleistung-Selbstverpflichtung und den angepassten Velocity-Status anbelangt, so mussten diese benutzerdefinierten Felder sein, damit wir sie auf der Registerkarte Diagramm verwenden können. Auf der Registerkarte Diagramm werden Textmodusgruppierungen nicht erkannt. Es müssen benutzerdefinierte Felder angegeben werden. Und da wir das Verhältnis von Arbeit zu Selbstverpflichtung und die angepasste Velocity brauchten, um diese Status zu berechnen, mussten wir sie auch als benutzerdefinierte Felder verwenden. In diesem Fall mussten sie alle benutzerdefinierte Felder sein, aber es ist immer gut, beide Möglichkeiten zu berücksichtigen und zu wählen, was am besten funktioniert. Danke für die Frage!
+Was den Status der Arbeitsleistung-Selbstverpflichtung und den angepassten Velocity-Status anbelangt, so mussten diese benutzerdefinierten Felder sein, damit wir sie auf der Registerkarte Diagramm verwenden können. Auf der Registerkarte Diagramm werden Textmodusgruppierungen nicht erkannt. Es müssen benutzerdefinierte Felder angegeben werden. Und da wir das Verhältnis von Arbeit zu Selbstverpflichtung und die angepasste Velocity brauchten, um diese Status zu berechnen, mussten wir sie auch als benutzerdefinierte Felder verwenden. In diesem Fall mussten sie alle benutzerdefinierte Felder sein, aber es ist immer gut, beide Möglichkeiten in Betracht zu ziehen und zu wählen, was am besten funktioniert. Danke für die Frage!
 
 **Frage**
 
-Unsere Projekte ändern sich häufig aufgrund von Verzögerungen bei den Kunden oder Änderungen im gesamten Projekt. Unser Bericht könnte alle als &quot;schrecklich&quot; bezeichnen. Was ist eine Empfehlung, um Gründe für Veränderungen zu verfolgen? Es wurde überlegt, ein benutzerdefiniertes Formular auf Dokumentebene hinzuzufügen, das Gründe für eine Änderung angibt (entweder interne oder Client-Änderung), sich jedoch zu fragen, was eine Best Practice ist.
+Unsere Projekte ändern sich häufig aufgrund von Verzögerungen bei den Kunden oder Veränderungen im gesamten Projekt. Unser Bericht könnte alle als &quot;schrecklich&quot; bezeichnen. Was ist eine Empfehlung, um Gründe für Veränderungen zu verfolgen? Es wurde überlegt, ein benutzerdefiniertes Formular auf Dokumentebene hinzuzufügen, das Gründe für eine Änderung angibt (entweder interne oder Client-Änderung), sich jedoch zu fragen, was eine Best Practice ist.
 
 **Antwort**
 
 Die Best Practice besteht darin, dies mithilfe eines Dropdown-Menüs zu verfolgen. Fügen Sie so viele &quot;Gründe&quot;hinzu, wie Sie sich vorstellen können, und fügen Sie dann eine &quot;andere&quot;Option hinzu, um einen Grund zu erfassen, der nicht auf der Liste steht. Wenn dieser neue Grund aussieht oder häufig vorkommt, fügen Sie ihn Ihrem Dropdown-Menü hinzu. Sie können problemlos über Dinge in einer Dropdown-Liste berichten und sich auf dieses Feld gruppieren (Sie können keine Gruppen auf Kontrollkästchen oder eine Dropdown-Liste mit Mehrfachauswahl erstellen).
 
-Noch eine Bemerkung dazu. Möglicherweise möchten Sie nicht alle Projekte in Ihre Velocity-Berichte aufnehmen. Wenn Sie Fehler beheben oder &quot;dorthin gehen, wo noch niemand hingegangen ist&quot;, machen Sie wahrscheinlich nicht die gleiche Verpflichtung zu einem Abschlussdatum, als ob Sie ein Haus bauen würden, das Sie schon viele Male gebaut haben.
+Noch eine Bemerkung dazu. Möglicherweise möchten Sie nicht alle Projekte in Ihre Velocity-Berichte aufnehmen. Wenn Sie Fehler beheben oder &quot;dorthin gehen, wo niemand zuvor hingegangen ist&quot;, machen Sie wahrscheinlich nicht die gleiche Verpflichtung zu einem Abschlussdatum, als ob Sie ein Haus bauen würden, das Sie schon viele Male gebaut haben.
 
 Stellen Sie also sicher, dass Sie Ihre Velocity-Berichte auf Orte konzentrieren, an denen sie Ihnen bei der Erreichung Ihrer Ziele helfen können.
 
@@ -441,14 +442,14 @@ Die Analytics-Funktion in Workfront bietet eine hervorragende Möglichkeit, hist
 
 Sie können jedoch auch Statusänderungsinformationen mit einem Hinweis -Bericht erhalten. Sie können filtern, um Statusänderungen an Projekten anzuzeigen, wenn Sie das Feld Projektstatus verfolgen.
 
-Gehen Sie also zuerst zu Einrichtung > Schnittstelle > Feeds aktualisieren und stellen Sie sicher, dass der Projektstatus eines der integrierten Felder ist, die verfolgt werden. Wenn dies nicht der Fall ist, müssen Sie es hinzufügen.
+Gehen Sie also zuerst zu Einrichtung > Schnittstelle > Feeds aktualisieren und stellen Sie sicher, dass der Projektstatus eines der integrierten Felder ist, die verfolgt werden. Wenn es nicht ist, müssen Sie es hinzufügen.
 
 Erstellen Sie nun einen Hinweis -Bericht und gehen Sie wie folgt vor:
 
 Auf der Registerkarte Spalten (Ansicht):
 
 * Ersetzen Sie die Spalte &quot;Hinweistext&quot;für &quot;Audit-Text&quot;. Dadurch werden Informationen zu den Statusänderungen angezeigt, von und zu
-* Behalten Sie das Projekt bei: Name&quot;und die Spalten &quot;Datum der Einsendung&quot;
+* Behalten Sie die Spalten &quot;Projekt: Name&quot;und &quot;Datum der Eingabe&quot;bei.
 * Klicken Sie auf die Spalte &quot;Eingangsdatum&quot;und aktivieren Sie dann im Bereich &quot;Spalteneinstellungen&quot;die Option &quot;Nach dieser Spalte sortieren&quot;. Wenn Sie die neuesten Statusänderungen am oberen Bildschirmrand sehen möchten, werden sie in absteigender Reihenfolge sortiert.
 
 Im Tab Gruppierungen :
