@@ -5,11 +5,11 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
-last-substantial-update: 2023-08-14T00:00:00Z
+last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: e087e65f2ddea9bf9ca11a5ae7b3dae516402d8c
+source-git-commit: 063fb4f12e8f5b61f21c96cf86b00966d14b3da9
 workflow-type: tm+mt
-source-wordcount: '3918'
+source-wordcount: '3958'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,12 @@ Erfahren Sie, wie Sie die Geschwindigkeit mit [!DNL Workfront] Berichterstellung
 ## Benutzerdefinierte Felder, die in der Präsentation verwendet werden
 
 Sparen Sie Zeit, indem Sie die unten stehenden Berechnungen kopieren und einfügen.
+
+>[!NOTE]
+>
+>Die Syntax für benutzerdefinierte Feldberechnungen hat sich seit der Präsentation im Jahr 2019 geändert. Die in der Präsentation enthaltenen Konzepte und Anleitungen sind jedoch immer noch korrekt.
+
+Die folgenden Berechnungen wurden aktualisiert, um die neuesten Syntaxregeln widerzuspiegeln.
 
 **Erstes Veröffentlichungsdatum**
 
