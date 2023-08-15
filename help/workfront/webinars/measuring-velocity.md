@@ -7,7 +7,7 @@ team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: 063fb4f12e8f5b61f21c96cf86b00966d14b3da9
+source-git-commit: 5f6bb627a24b2b3018094ed31842c1e712785f48
 workflow-type: tm+mt
 source-wordcount: '3958'
 ht-degree: 1%
@@ -27,8 +27,7 @@ Sparen Sie Zeit, indem Sie die unten stehenden Berechnungen kopieren und einfüg
 >[!NOTE]
 >
 >Die Syntax für benutzerdefinierte Feldberechnungen hat sich seit der Präsentation im Jahr 2019 geändert. Die in der Präsentation enthaltenen Konzepte und Anleitungen sind jedoch immer noch korrekt.
-
-Die folgenden Berechnungen wurden aktualisiert, um die neuesten Syntaxregeln widerzuspiegeln.
+>**Die folgenden Berechnungen wurden aktualisiert, um die neuesten Syntaxregeln widerzuspiegeln.**
 
 **Erstes Veröffentlichungsdatum**
 
