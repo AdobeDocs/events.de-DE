@@ -3,7 +3,7 @@ title: Adobe Experience League-Ereignisse
 description: Eine Sammlung von Ereignisaufzeichnungen, die sich auf die Verwendung von Adobe Enterprise-Produkten konzentrieren
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
+source-git-commit: 0babdbc3b4429b9a691e6436f0973adadc68d5b1
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 9%
@@ -221,8 +221,6 @@ Lassen Sie sich von exklusiven Veranstaltungen und Webinaren begeistern, um Ihr 
          Marketo und Mochas helfen Ihnen, ein besseres Verständnis darüber zu gewinnen, wie Sie Adobe Marketo zur Unterstützung Ihres Unternehmens einsetzen können.
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/office-hours/overview.md">
       <img style="width:100%" alt="Office Hours" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
@@ -236,6 +234,8 @@ Lassen Sie sich von exklusiven Veranstaltungen und Webinaren begeistern, um Ihr 
          Office Hours bietet Kunden lösungsspezifische Webinare an, um die Fallumgehung proaktiv zu gestalten. 
       </p>
     </td>
+    </tr>
+    <tr>    
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI-Webinare" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -261,9 +261,7 @@ Lassen Sie sich von exklusiven Veranstaltungen und Webinaren begeistern, um Ihr 
         <br/>
          Skill Builder ist eine Webinarreihe, die darauf ausgelegt ist, Ihre Wissensgrundlage zu schaffen und Ihre Investition in Adobe Experience Cloud zu maximieren.
       </p>
-    </td>
-    </tr>
-    <tr>     
+    </td>   
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo und Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -276,7 +274,7 @@ Lassen Sie sich von exklusiven Veranstaltungen und Webinaren begeistern, um Ihr 
         <br/>
          Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundenlernereignisse, die sich auf die Vertiefung der Adobe Experience Cloud-Lösungen konzentrieren. Dieses Programm bietet Ihnen die Möglichkeit, durch den Austausch von Best Practices und Tipps und Tricks von Adobe-Produktexperten und Experten zu lernen.
       </p>
-    </td>
+    </td> 
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
