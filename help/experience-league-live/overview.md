@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
+source-git-commit: 6682d7be406a8922067c520b7c21cd2da001fd80
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 51%
+source-wordcount: '171'
+ht-degree: 50%
 
 ---
 
@@ -24,16 +24,8 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
-      <img alt="Experience League LIVE Apr. 21" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-8-23-23.md">
-        <strong>API-Trigger-Messaging in Adobe Journey Optimizer</strong>
-      </a>
-      <br/><em>mit Sandra Hausmann, Siddharth Jain, Nikhil Sharma und Chetan Prasad</em>
-      <br/><em>23. August 2023</em>
-    </div>
+  <td>
+    Besuchen Sie diese Seite in naher Zukunft, um mehr über bevorstehende Episoden zu erfahren, einschließlich der Episode vom September 2023 über Lookalike Audiences in Real-time Customer Data Platform!
   </td>
 </tr>
 </table>
