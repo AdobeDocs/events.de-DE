@@ -1,12 +1,12 @@
 ---
 user-guide-title: Adobe [!DNL Campaign] Insider-Ereignisse
 user-guide-breadcrumb: "[!DNL Campaign] Insider Events"
-user-guide-description: Tipps und Tricks und Anregungen für Adoben [!DNL Campaign] -Kunden, um sie bei der Entwicklung kanalübergreifender Marketingstrategien, der Verbesserung der Kenntnisse von Marketing-Experten im Team und der Unterstützung von Unternehmen beim Start fortschrittlicherer kanalübergreifender Marketingstrategien zu unterstützen.
+user-guide-description: Tipps und Tricks und Anregungen für Adobe [!DNL Campaign] -Kunden, um sie bei der Entwicklung kanalübergreifender Marketingstrategien, der Verbesserung der Kenntnisse von Marketing-Experten im Team und der Unterstützung von Unternehmen beim Start fortschrittlicherer kanalübergreifender Marketingstrategien zu unterstützen.
 feature-set: Campaign
 solution: Campaign
-source-git-commit: 4dab34d66617ff8cc6f4a4daaea06badc3987962
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '79'
 ht-degree: 32%
 
 ---
@@ -23,3 +23,5 @@ ht-degree: 32%
    + [Verbessern Sie Ihr kanalübergreifendes Marketing mit [!DNL Campaign Classic]](2022/cross-channel.md)
    + [Zur Unterstützung des Cross-Channel-Marketings erforderliche Teams, Kompetenzen und organisatorische Designs](2022/team-skills-org-design.md)
    + [Zeitsparende Tipps von einem Profi](2022/tips.md)
++ 2023 {#2023}
+   + [Kundenausblick](2023/customer-spotlight-center-parcs.md)
