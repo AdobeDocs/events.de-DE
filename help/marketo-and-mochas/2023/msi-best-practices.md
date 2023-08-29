@@ -9,7 +9,7 @@ doc-type: Event
 last-substantial-update: 2023-08-25T00:00:00Z
 jira: KT-13806
 thumbnail: KT-13806.jpeg
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+source-git-commit: debf0572678929709fdddb8ce098a34673fe3e7a
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -23,3 +23,4 @@ Haben Sie von Marketo Sales Insights oder MSI gehört? Vielleicht haben Sie eine
 
 Cynthia und James tauchen in die Funktionen von MSI, einschließlich interessanter Momente und beste Wetten. Sie erläutern, wie es in Salesforce integriert wird, die Lizenzverwaltung und Strategien zur Optimierung Ihrer betrieblichen Effizienz in den Vertriebs- und Marketingteams. Wir schließen mit einem Live-Q&amp;A der Teilnehmer.
 
+>[!VIDEO](https://video.tv.adobe.com/v/3422797?learn=on)
