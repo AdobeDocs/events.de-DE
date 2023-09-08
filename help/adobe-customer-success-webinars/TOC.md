@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinare
 breadcrumb-title: Adobe Customer Success Webinare
 user-guide-description: Adobe Customer Success-geführte Webinare, mit denen Sie Ihre Investition in Adobe Experience Cloud optimieren können. Erhalten Sie wertvolle Einblicke, um den Nutzen zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
+source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '79'
 ht-degree: 1%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 1%
    + [Priorisierung von Intelligenz und Messung](2023/intelligence-and-measurement.md)
    + [Vorbereitung der CDP-Migration in Echtzeit](2023/rtcdp-migration-readiness.md)
    + [Festlegen einer effektiven Audience Activation-Strategie](2023/audience-activation.md)
-   + [Übergang zur RTCDP](2023/aam-to-rtcdp.md)
+   + [Übergang zur Echtzeit-Kundendatenplattform](2023/aam-to-rtcdp.md)
