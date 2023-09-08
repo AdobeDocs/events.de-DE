@@ -14,9 +14,9 @@ kt: 11797
 thumbnail: kt-11797.jpeg
 event-start-time: 2023-2-22 08:30-8
 exl-id: 6749cb7d-9130-4855-8a6a-8818810339ae
-source-git-commit: 3f5c48bace5f449a8ce7f6ab40caaedef93063ce
+source-git-commit: c475497b293909a5ea8365463a0d075bc34d4e01
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '238'
 ht-degree: 100%
 
 ---
@@ -44,6 +44,5 @@ RDEs ermöglichen es Entwicklern, Änderungen schnell bereitzustellen und zu üb
 >[!NOTE]
 >
 >* Informationen zu sitzungsspezifischen Community-Interaktionen in der Experience League finden Sie in diesem [kontextuellen Thread](http://bit.ly/3x1Cl8x).
->* Informationen zu sitzungsspezifischen Community-Interaktionen in der Experience League finden Sie in diesem [kontextuellen Thread](https://bit.ly/3x1Cl8x).
 >
 >* Um automatische Benachrichtigungen zu Webinaren zu erhalten, registrieren Sie sich bitte bei der [AEM-Benutzergruppe von Adobe](https://aem-augs.adobe.com/).
