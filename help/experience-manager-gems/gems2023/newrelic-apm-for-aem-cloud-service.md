@@ -1,6 +1,6 @@
 ---
 title: Neue öffentliche App für AEM Cloud Service
-description: "Treten Sie uns bei und nehmen Sie an unserer Veranstaltung teil, in der wir Sie bei der Erkennung und Lösung von Problemen unterstützen, die sich auf Ihre Endkunden auswirken. Dies ermöglicht Ihnen ein herausragendes Erlebnis durch die Verbesserung der Effizienz Ihres AEM as a Cloud Service Projekts, die Messung des Einflusses externer Services für Ihr as a Cloud Service System und die bestmögliche Nutzung benutzerdefinierter und maßgeschneiderter Ansichten. Erfahren Sie mehr über den Zugriff auf New Relic, eine Funktion, die standardmäßig mit AEM as a Cloud Service integriert ist. Zögern Sie nicht, sich mit Ihren Anfragen und Fragen zu befassen."
+description: Treten Sie uns bei und nehmen Sie an unserer Veranstaltung teil, in der wir Sie bei der Erkennung und Lösung von Problemen unterstützen, die sich auf Ihre Endkunden auswirken. Dies ermöglicht Ihnen, durch die Verbesserung der Effizienz Ihres AEM as a Cloud Service Projekts, die Messung des Einflusses externer Services für Ihr as a Cloud Service System und die bestmögliche Nutzung benutzerdefinierter und maßgeschneiderter Ansichten ein herausragendes Erlebnis zu gewährleisten. Erfahren Sie mehr über den Zugriff auf New Relic, eine Funktion, die standardmäßig mit AEM as a Cloud Service integriert ist. Zögern Sie nicht, sich mit Ihren Anfragen und Fragen zu befassen.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 2bbbbeee2332f7353a6fe527fdc83718030ce23a
+source-git-commit: ac72726b967b526018640f76de930a4abb1e6b59
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 6%
@@ -35,7 +35,9 @@ Treten Sie uns in unsere Sitzung ein, in der wir Sie bei der Erkennung und Lösu
 
 * Verbesserung der Effizienz Ihres AEM as a Cloud Service Projekts
 * Messen des Einflusses externer Services für Ihr AEM as a Cloud Service System
-* Optimale Nutzung benutzerdefinierter und maßgeschneiderter Ansichten Entdecken Sie den Prozess für den Zugriff auf New Relic, eine Funktion, die standardmäßig mit AEM as a Cloud Service integriert ist. Zögern Sie nicht, sich mit Ihren Anfragen und Fragen zu befassen.
+* Optimale Nutzung benutzerdefinierter und benutzerdefinierter Ansichten
+
+Erfahren Sie mehr über den Zugriff auf New Relic, eine Funktion, die standardmäßig mit AEM as a Cloud Service integriert ist. Zögern Sie nicht, sich mit Ihren Anfragen und Fragen zu befassen.
 
 ## Moderatorinnen und Moderatoren
 
