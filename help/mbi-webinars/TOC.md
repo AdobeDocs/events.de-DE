@@ -1,26 +1,26 @@
 ---
-user-guide-title: MBI-Ereignisse
-breadcrumb-title: MBI-Ereignisse
-user-guide-description: MBI Events ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zu Adobe Commerce teilen.
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+user-guide-title: Commerce Intelligence-Ereignisse
+breadcrumb-title: Commerce Intelligence-Ereignisse
+user-guide-description: Commerce Intelligence Events ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zu Adobe Commerce Intelligence teilen.
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 37%
+source-wordcount: '65'
+ht-degree: 4%
 
 ---
 
 
-# MBI-Ereignisse  {#mbi-webinars-recordings}
+# Commerce Intelligence-Ereignisse  {#commerce-intelligence-webinar-recordings}
 
 + [Übersicht](overview.md)
 + 2023 {#2023}
-   + [Verwalten von Datensätzen in MBI](2023/manage-data-sets.md)
+   + [Verwalten von Datensätzen in Commerce Intelligence](2023/manage-data-sets.md)
 + 2021 {#2021}
-   + [Erste Schritte mit MBI](2021-22/getting-started.md)
-   + [Optimieren von MBI-Data Warehouse](2021-22/optimize-data-warehouse.md)
-   + [MBI-Dashboards - Tiefgang](2021-22/dashboards-deep-dive.md)
-   + [Holiday Readiness mit MBI](2021-22/holiday-readiness.md)
-   + [MBI – Fragen Sie einen Experten](2021-22/ask-expert.md)
+   + [Erste Schritte mit Commerce Intelligence](2021-22/getting-started.md)
+   + [Optimieren Ihrer Commerce Intelligence-Data Warehouse](2021-22/optimize-data-warehouse.md)
+   + [Deep-Dive-Vorgang für Commerce Intelligence-Dashboards](2021-22/dashboards-deep-dive.md)
+   + [Feierabstimmung mit Commerce Intelligence](2021-22/holiday-readiness.md)
+   + [Commerce Intelligence - Fragen an Experten](2021-22/ask-expert.md)
 
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)

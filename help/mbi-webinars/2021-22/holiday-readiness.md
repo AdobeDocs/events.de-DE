@@ -1,5 +1,5 @@
 ---
-title: Holiday Readiness mit MBI
+title: Feierabstimmung mit Commerce Intelligence
 description: In diesem Webinar erfahren Sie, wie Sie Ihre eCommerce-Daten für den Erfolg während der Weihnachtszeit verwenden.
 landing-page-description: Sehen Sie sich dieses aufgezeichnete Webinar an, um zu erfahren, wie Sie Ihre eCommerce-Daten für den Erfolg während der Weihnachtszeit verwenden können.
 short-description: Sehen Sie sich dieses aufgezeichnete Webinar an, um zu erfahren, wie Sie Ihre eCommerce-Daten für den Erfolg während der Weihnachtszeit verwenden können.
@@ -9,18 +9,22 @@ role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 958d2e09-e4bd-4f6c-91d8-3aa83368013f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 7%
+source-wordcount: '210'
+ht-degree: 3%
 
 ---
 
-# Holiday Readiness mit MBI
+# Feierabstimmung mit Commerce Intelligence
+
+>[!NOTE]
+>
+>Adobe Commerce Intelligence wurde früher als [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
 
 Verwenden Sie Ihre eCommerce-Daten für den Erfolg während der Weihnachtszeit. In diesem Webinar werden einige häufige Anwendungsfälle und Methoden für saisonale Analysen vorgestellt, um sie mithilfe wichtiger MBI-Funktionen anzugehen, darunter:
 
-- Vermeiden Sie Bestandsausfälle, indem Sie einen neuen Inventar-Tracking-Bericht erstellen und tägliche Aktualisierungen über die E-Mail-Zusammenfassung senden.
+- Vermeiden Sie Bestandsausfälle, indem Sie einen neuen Inventar-Tracking-Bericht erstellen und tägliche Aktualisierungen über eine E-Mail-Zusammenfassung versenden.
 - Bestimmen Sie die Auswirkungen Ihrer diesjährigen Umsatzstrategieanpassungen, indem Sie einen Bericht über die Jahresleistung rund um ein wichtiges Datum erstellen (z. B. Black Friday), indem Sie berechnete Spalten verwenden.
 - Reagieren Sie schnell auf wichtige Änderungen an der Weihnachtsleistung Ihres Stores über mehrere KPIs hinweg, indem Sie vorhandene und neue Berichte zu einem zentralen Holiday Reporting-Dashboard kombinieren.
 
@@ -35,9 +39,5 @@ Verwenden Sie Ihre eCommerce-Daten für den Erfolg während der Weihnachtszeit. 
 
 ## Nützliche Ressourcen
 
->[!TIP]
->
->Wenn Sie mit dem MBI noch nicht vertraut sind, wird die [Videoserien &quot;Erste Schritte&quot;](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) bietet einen umfassenden Überblick, um durch Datenaggregation, Analyse und Visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
-
-[MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de)
-[MBI-Unterstützung](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Benutzerhandbuch für Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de)
+[Commerce Intelligence-Unterstützung](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

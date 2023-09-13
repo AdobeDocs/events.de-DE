@@ -1,6 +1,6 @@
 ---
-title: Optimieren von MBI-Data Warehouse
-description: In diesem Webinar erfahren Sie mehr über Data Warehouse Manager.
+title: Optimieren Ihrer Commerce Intelligence-Data Warehouse
+description: Sehen Sie sich dieses Webinar an, um mehr über Data Warehouse Manager zu erfahren.
 landing-page-description: Sehen Sie sich dieses aufgezeichnete Webinar an
 short-description: Sehen Sie sich dieses aufgezeichnete Webinar an
 kt: 10403
@@ -9,16 +9,20 @@ role: Leader, User, Data Architect
 level: Intermediate, Experienced
 thumbnail: 342562.jpeg
 exl-id: 34e017c3-721d-459a-8f38-76cc165e2d02
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 7%
+source-wordcount: '136'
+ht-degree: 1%
 
 ---
 
-# Optimieren von MBI-Data Warehouse
+# Optimieren Ihrer Commerce Intelligence-Data Warehouse
 
-Mithilfe des Data Warehousen-Managers können Sie Einstellungen für die Tabellen- und Spaltensynchronisierung verwalten, einen Drilldown im Tabellenschema durchführen und berechnete Spalten für die Verwendung in Berichten erstellen.
+>[!NOTE]
+>
+>Adobe Commerce Intelligence wurde früher als [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
+
+Mithilfe des Data Warehouse-Managers können Sie Einstellungen für die Tabellen- und Spaltensynchronisierung verwalten, einen Drilldown im Schema einer Tabelle durchführen und berechnete Spalten für die Verwendung in Berichten erstellen.
 
 >[!NOTE]
 >
@@ -37,10 +41,6 @@ In diesem Webinar:
 >[!VIDEO](https://video.tv.adobe.com/v/342562?quality=12&learn=on)
 
 ## Nützliche Ressourcen
-
->[!TIP]
->
->Wenn Sie mit dem MBI noch nicht vertraut sind, wird die [Videoserien &quot;Erste Schritte&quot;](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) bietet einen umfassenden Überblick, um durch Datenaggregation, Analyse und Visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
 
 [Datenbank für Analysen optimieren](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
 [Empfohlene Daten-Dimensionen für Segmentierung und Filterung](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

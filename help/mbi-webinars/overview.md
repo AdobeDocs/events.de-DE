@@ -1,19 +1,23 @@
 ---
-title: MBI-Ereignisse
-description: Informieren Sie sich über die vom MBI aufgezeichneten Webinare, in denen eine Vielzahl von Themen und Best Practices für die Nutzung von MBI so weit wie möglich behandelt werden.
+title: Commerce Intelligence-Webinare
+description: Informieren Sie sich in den aufgezeichneten Webinaren von Commerce Intelligence , in denen eine Vielzahl von Themen und Best Practices für die Nutzung von Commerce Intelligence so weit wie möglich vorgestellt wird.
 exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 30%
+source-wordcount: '303'
+ht-degree: 19%
 
 ---
 
-# MBI-Webinare
+# Adobe Commerce Intelligence-Webinare
 
-Die MBI-Webinarreihe ist ein periodisches Ereignis für MBI-Kunden. Die Webinare decken eine breite Palette von Themen und Best Practices für die Nutzung von MBI ab, um das bestmögliche Potenzial zu nutzen.
+>[!NOTE]
+>
+>Adobe Commerce Intelligence wurde früher als [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
 
-Teilnehmer aus allen Ländern können live an den Veranstaltungen teilnehmen, um das Produkt besser zu verstehen und ihre Fragen zur MBI-Funktionalität direkt zu beantworten.
+Die Webinarreihe &quot;Commerce Intelligence&quot;ist ein periodisches Ereignis für MBI-Kunden. Die Webinare decken eine breite Palette von Themen und Best Practices für die Nutzung von Commerce Intelligence ab, um das bestmögliche Potenzial zu nutzen.
+
+Teilnehmer aus allen Ländern können an den Veranstaltungen teilnehmen, um das Produkt besser zu verstehen und ihre Fragen zur Commerce Intelligence-Funktion direkt zu beantworten.
 
 Die Themen werden gelegentlich wiederholt, um neue Fragen aufzugreifen, die von den Kunden gestellt werden können.
 
@@ -31,7 +35,7 @@ Die Themen werden gelegentlich wiederholt, um neue Fragen aufzugreifen, die von 
       </a>
     </div>
     <p>
-    <em>Erfahren Sie direkt vom Commerce Product-Team mehr über die Kernfunktionen von MBI. Sie erhalten dabei tiefe Einblicke in vorkonfigurierte Dashboards und die verfügbaren Anpassungsoptionen.</em>
+    <em>Informieren Sie sich direkt vom Produktteam über die Kernfunktionen von Commerce Intelligence und lernen Sie die vorkonfigurierten Dashboards und die verfügbaren Anpassungsoptionen eingehend kennen.</em>
     <p>
   </td>
   <td>
@@ -57,7 +61,7 @@ Die Themen werden gelegentlich wiederholt, um neue Fragen aufzugreifen, die von 
       </a>
     </div>
     <p>
-    <em>Mithilfe des Data Warehousen-Managers können Sie Einstellungen für die Tabellen- und Spaltensynchronisierung verwalten, einen Drilldown im Tabellenschema durchführen und berechnete Spalten für die Verwendung in Berichten erstellen.</em>
+    <em>Mithilfe des Data Warehouse-Managers können Sie Einstellungen für die Tabellen- und Spaltensynchronisierung verwalten, einen Drilldown im Schema einer Tabelle durchführen und berechnete Spalten für die Verwendung in Berichten erstellen.</em>
     <p>
   </td>
 </tr>
@@ -69,5 +73,5 @@ Die Themen werden gelegentlich wiederholt, um neue Fragen aufzugreifen, die von 
 
 ## Nützliche Ressourcen
 
-- [MBI-Videos und -Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [MBI-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de)
+- [Commerce Intelligence-Videos und -Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Benutzerhandbuch für Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de)
