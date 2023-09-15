@@ -4,12 +4,12 @@ description: Sehen Sie sich diese aufgezeichneten Webinare an, um einen tiefen E
 landing-page-description: Sehen Sie sich diese aufgezeichneten Webinare an, um einen tiefen Einblick in das Commerce Intelligence-Produktteam zu erhalten, einschließlich der geschäftlichen Transformation durch intelligente Daten.
 short-description: Sehen Sie sich diese aufgezeichneten Webinare an, um einen tiefen Einblick in das Commerce Intelligence-Produktteam zu erhalten, einschließlich der geschäftlichen Transformation durch intelligente Daten.
 kt: 10404
-solution: Commerce,Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader,User,Data Architect
 level: Beginner,Intermediate
 thumbnail: 342409.jpeg
 exl-id: a4590f96-8f23-4f14-9f69-dd15253184ed
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: 00ca556edca8e39734489d1385029c6b79f3587d
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 2%

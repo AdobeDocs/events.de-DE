@@ -4,12 +4,12 @@ description: In diesem Webinar erfahren Sie, wie Sie Ihre eCommerce-Daten für d
 landing-page-description: Sehen Sie sich dieses aufgezeichnete Webinar an, um zu erfahren, wie Sie Ihre eCommerce-Daten für den Erfolg während der Weihnachtszeit verwenden können.
 short-description: Sehen Sie sich dieses aufgezeichnete Webinar an, um zu erfahren, wie Sie Ihre eCommerce-Daten für den Erfolg während der Weihnachtszeit verwenden können.
 kt: 10409
-solution: Commerce,Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 958d2e09-e4bd-4f6c-91d8-3aa83368013f
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: 00ca556edca8e39734489d1385029c6b79f3587d
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 3%
