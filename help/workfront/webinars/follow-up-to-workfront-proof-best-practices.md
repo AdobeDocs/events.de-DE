@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
-exl-id: 19d73416-80b3-41b3-98ac-6065975ed6bb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '1638'
 ht-degree: 2%
@@ -43,7 +43,7 @@ In unserem Anwendungsfall lädt der Designer das Dokument hoch, doch der Kundenb
 
 **Antwort**
 
-Wenn Sie den Designer mit einer Zugriffsstufe oder einem Plan in Workfront einrichten, erhalten die Benutzer eine Testlizenz. Wenn ihre Testversandlizenz auf &quot;Supervisor&quot;oder &quot;Administrator&quot;festgelegt ist, können sie neue Versionen von Testsendungen erstellen, ohne die manuelle Umstellung des Kundenbetreuers auf die neue Version und die Anwendung eines Workflows durchführen zu müssen. Die neue Version übernimmt lediglich den Workflow aus der vorherigen Version (und kann jetzt auch geändert oder geändert werden).
+Wenn Sie den Designer mit einer Zugriffsstufe oder einem Plan in Workfront einrichten, erhalten die Benutzer eine Testlizenz. Wenn ihre Testversandlizenz auf &quot;Supervisor&quot;oder &quot;Administrator&quot;festgelegt ist, können sie neue Versionen von Testsendungen erstellen, ohne den Kundenbetreuer dazu zu bewegen, die neue Version zu konvertieren und einen Workflow anzuwenden. Die neue Version übernimmt lediglich den Workflow aus der vorherigen Version (und kann jetzt auch geändert oder geändert werden).
 
 **Frage**
 
@@ -55,11 +55,11 @@ Ich empfehle dem Testversand-Ersteller/-eigentümer für die E-Mail-Warnung &quo
 
 **Frage**
 
-Können Sie den Eigentümer des Testversands ändern, der bei der Entscheidungsfindung benachrichtigt wird? Wir versuchten, das Testodierungs-Tool zu verwenden, konnten jedoch den Dokumenteigentümer nicht von der Person ändern, die das Originaldokument hochgeladen hat. Beispiel: Ein Marketing-Manager hat das Originaldokument hochgeladen, aber es war ein Marketing-Spezialist, der letztendlich für Entscheidungen und Änderungen verantwortlich war.
+Können Sie den Eigentümer des Testversands ändern, der bei der Entscheidungsfindung benachrichtigt wird? Wir versuchten, das Testodierungs-Tool zu verwenden, konnten jedoch den Dokumenteigentümer nicht von der Person ändern, die das Originaldokument hochgeladen hat. Beispiel: Ein Marketing-Manager hat das Originaldokument hochgeladen, aber es war ein Marketing-Spezialist, der letztendlich für die Entscheidungsfindung und die Durchführung von Änderungen verantwortlich war.
 
 **Antwort**
 
-Um den Besitzer des Testversands zu ändern, folgen Sie diesem Pfad: Dokumente > Wählen Sie den Testversand > Klicken Sie auf &quot;Testversanddetails&quot; > Suchen Sie im Fenster mit den Testversanddetails den Empfänger, den Sie als Besitzer des Testversands einrichten möchten. Klicken Sie auf die Schaltfläche Eignung für den Empfänger und wählen Sie &quot;Inhaber&quot;.
+Um den Testversand-Besitzer zu ändern, gehen Sie wie folgt vor: Dokumente > Testversand auswählen > Klicken Sie auf &quot;Testversand-Details&quot; > Suchen Sie im Fenster der Testversanddetails den Empfänger, den Sie zum Testversand-Inhaber machen möchten. Klicken Sie auf die Schaltfläche Testversand und wählen Sie &quot;Inhaber&quot;.
 
 **Frage**
 
@@ -147,11 +147,11 @@ Können wir mehrere Personen eine neue Version hochladen? zum Beispiel lädt ein
 
 **Antwort**
 
-Testversand-Empfänger können neue Testsendungen erstellen lassen, wenn sie die folgenden Kriterien erfüllen: 1) Sie sind Eigentümer des Testversands - oder 2) Sie sind mit der Autor- oder Moderator-Testversandrolle auf dem Testversand eingerichtet - oder 3) Sie werden mit dem Berechtigungsnachweis des Supervisors oder Administrators eingerichtet.
+Testversand-Empfänger können neue Testsendungen erstellen lassen, wenn sie die folgenden Kriterien erfüllen: 1) Sie sind Inhaber des Testversands - oder 2) Sie werden mit der Testversandrolle Autor oder Moderator auf dem Testversand eingerichtet - oder 3) Sie werden mit dem Berechtigungsnachweis oder Administrator eingerichtet.
 
 **Frage**
 
-Wie geht man mit mehreren Testsendungen um (z. B. A, B und C) mit dem automatisierten Workflow. Fangen Sie wieder an?
+Wie werden mehrere Testsendungen durchgeführt (z. B. A, B und C) mit dem automatisierten Workflow. Fangen Sie wieder an?
 
 **Antwort**
 
@@ -171,7 +171,7 @@ Wo kann ich die Testversandeinstellungen sehen?
 
 **Antwort**
 
-Um die Testversandeinstellungen für einen vorhandenen Testversand anzuzeigen, gehen Sie wie folgt vor: Registerkarte &quot;Dokumente&quot;> Wählen Sie den Testversand > Klicken Sie auf &quot;Testversanddetails&quot; > Über das sich öffnende Fenster mit den Testdetails können Sie den Bereich &quot;Einstellungen&quot; erweitern.
+Um die Testversandeinstellungen für einen vorhandenen Testversand anzuzeigen, gehen Sie wie folgt vor: Registerkarte Dokumente > Testversand > Klicken Sie auf &quot;Testversanddetails&quot; > Über das sich öffnende Fenster mit den Testversanddetails können Sie den Bereich &quot;Einstellungen&quot;erweitern.
 
 **Frage**
 

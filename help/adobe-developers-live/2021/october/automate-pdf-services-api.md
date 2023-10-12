@@ -1,6 +1,6 @@
 ---
 title: Automatisieren der Erstellung und Bearbeitung von PDF mithilfe der PDF Services API
-description: Die PDF Services API von Adobe ermöglicht Entwicklern das Erstellen, Kombinieren, Exportieren, OCR und Extrahieren von Daten aus PDF über leistungsstarke und flexible Cloud-basierte APIs. In dieser Sitzung erfahren Sie, wie Sie mit der Adobe PDF Services API beginnen können, um Erlebnisse in Ihre Apps zu integrieren. Außerdem erfahren Sie, wie Sie mit der kostenlosen Adobe PDF-Einbettungs-API das PDF-Anzeigeerlebnis im Web mithilfe von Benutzeroberflächensteuerelementen transformieren und Benutzeranalysen von PDF ableiten können.
+description: Mit der Adobe PDF Services API können Entwickler Daten über leistungsstarke und flexible Cloud-basierte APIs erstellen, kombinieren, exportieren, OCR und aus PDF extrahieren. In dieser Sitzung erfahren Sie, wie Sie mit der Adobe PDF Services API beginnen können, um Erlebnisse in Ihre Apps zu integrieren. Außerdem erfahren Sie, wie Sie mit der kostenlosen Adobe PDF-Einbettungs-API das PDF-Anzeigeerlebnis im Web mithilfe von Benutzeroberflächensteuerelementen transformieren und Benutzeranalysen von PDF ableiten können.
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -8,8 +8,8 @@ role: Developer, Architect
 level: Experienced
 kt: 9209
 type: Event
-exl-id: cc887be7-3ef4-42f7-a58f-f93b85dea259
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6b0c3a6a-500b-4f7f-8872-0b6d9035a485
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 15%
@@ -18,7 +18,7 @@ ht-degree: 15%
 
 # Automatisieren der Erstellung und Bearbeitung von PDF mithilfe der PDF Services API
 
-Die PDF Services API von Adobe ermöglicht Entwicklern das Erstellen, Kombinieren, Exportieren, OCR und Extrahieren von Daten aus PDF über leistungsstarke und flexible Cloud-basierte APIs. In dieser Sitzung erfahren Sie, wie Sie mit der Adobe PDF Services API beginnen können, um Erlebnisse in Ihre Apps zu integrieren. Außerdem erfahren Sie, wie Sie mit der kostenlosen Adobe PDF-Einbettungs-API das PDF-Anzeigeerlebnis im Web mithilfe von Benutzeroberflächensteuerelementen transformieren und Benutzeranalysen von PDF ableiten können.
+Mit der Adobe PDF Services API können Entwickler Daten über leistungsstarke und flexible Cloud-basierte APIs erstellen, kombinieren, exportieren, OCR und aus PDF extrahieren. In dieser Sitzung erfahren Sie, wie Sie mit der Adobe PDF Services API beginnen können, um Erlebnisse in Ihre Apps zu integrieren. Außerdem erfahren Sie, wie Sie mit der kostenlosen Adobe PDF-Einbettungs-API das PDF-Anzeigeerlebnis im Web mithilfe von Benutzeroberflächensteuerelementen transformieren und Benutzeranalysen von PDF ableiten können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338039/?quality=12&learn=on&hidetitle=true)
 

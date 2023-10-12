@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 8938
-exl-id: 0fd3f0a3-d9cb-4258-a826-ff8111bc4692
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 93ca4320-8364-4f35-b52d-0bb3bd929d13
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 4%
@@ -22,7 +22,7 @@ ht-degree: 4%
 
 # Grundlagen zu Adobe Experience Manager Sites
 
-In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen können. Wir beginnen mit den Bausteinen der Inhaltsbearbeitung und stellen Ihnen die grundlegenden Konzepte und Vorgänge vor. Dazu gehören Sites-Admin-Funktionen und Grundlagen zum Umgang mit digitalen Assets in AEM. Im späteren Teil der Serie finden Sie Funktionen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie die Inhalte wiederverwenden und kanalübergreifend bereitstellen.
+In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen. Wir beginnen mit den Bausteinen der Inhaltsbearbeitung und stellen Ihnen die grundlegenden Konzepte und Vorgänge vor. Dazu gehören Sites-Admin-Funktionen und Grundlagen zum Umgang mit digitalen Assets in AEM. Im späteren Teil der Serie finden Sie Funktionen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie die Inhalte wiederverwenden und kanalübergreifend bereitstellen.
 
 ## Das Web und darüber hinaus - Die Macht des traditionellen und Headless Content Managements
 

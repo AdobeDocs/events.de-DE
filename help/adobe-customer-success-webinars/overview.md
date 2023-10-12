@@ -1,16 +1,17 @@
 ---
-title: Webinare zum Kundenerfolg in der Adobe
-description: Adobe Customer Success-geführte Webinare, mit denen Sie Ihre Investition in das Experience Cloud von Adobe optimieren können. Erhalten Sie wertvolle Einblicke, um den Nutzen zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 6ec7be7a69a315606e4c9aa11d700cca0f78b33f
+title: Adobe Customer Success Webinare
+description: Adobe Customer Success-geführte Webinare, mit denen Sie Ihre Investition in Adobe-Experience Cloud optimieren können. Erhalten Sie wertvolle Einblicke, um den Nutzen zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
+exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Webinare zum Kundenerfolg in der Adobe {#adobe-customer-success-webinars}
+# Adobe Customer Success Webinare {#adobe-customer-success-webinars}
 
-Adobe Customer Success-geführte Webinare, mit denen Sie Ihre Investition in das Experience Cloud von Adobe optimieren können. Erhalten Sie wertvolle Einblicke, um den Nutzen zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
+Adobe Customer Success-geführte Webinare, mit denen Sie Ihre Investition in Adobe-Experience Cloud optimieren können. Erhalten Sie wertvolle Einblicke, um den Nutzen zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
 
 <!-- 
 ## Featured Sessions

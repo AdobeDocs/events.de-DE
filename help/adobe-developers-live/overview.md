@@ -2,8 +2,8 @@
 title: Adobe Developers Live
 description: Eine Sammlung von Sitzungsaufzeichnungen aus Adobe Developers Live
 solution: Experience Cloud, Experience Manager
-exl-id: 912ad972-27ef-4b59-a742-26b49f935c8d
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 29%
@@ -16,7 +16,7 @@ ht-degree: 29%
 
 Adobe Developers Live führt Entwickler und Erlebnisentwickler mit unterschiedlichem Hintergrund und einem besonderen Zweck zusammen - um unglaubliche End-to-End-Erlebnisse zu schaffen. Diese zweitägige Konferenz wird wichtige Entwickleraktualisierungen, technische Sitzungen und Community-Netzwerkmöglichkeiten beinhalten.
 
-Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud präsentieren die neuesten technologischen Fortschritte und Entwickler-Tools, die Design-, Content-Erstellungs-Workflows, Dokumentendienste und Customer Experience Management branchenübergreifend ermöglichen.
+Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud präsentieren die neuesten technischen Fortschritte und Entwicklertools, die Design, Content-Erstellungs-Workflows, Dokumentendienste und Customer Experience Management branchenübergreifend ermöglichen.
 
 Für zukünftige Veranstaltungen registrieren **[here](https://developerevents.adobe.com/)**.
 

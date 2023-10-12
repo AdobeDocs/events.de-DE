@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-05-27T00:00:00Z
 jira: KT-13363
 thumbnail: 3419941.jpeg
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+exl-id: a8c9fc05-b80d-4c3a-a45a-c2b798757b57
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
-
 
 # Fireside Chat mit AEM Produktleiter
 

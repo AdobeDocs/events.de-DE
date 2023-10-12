@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 10311
 thumbnail: 342522.jpeg
-exl-id: b7231e62-e252-41d6-a5f6-41e1edd83eb2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6f77698c-9955-4555-a293-3dcd43de285f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 Die Einführung einer Arbeitsverwaltungslösung wie Workfront hat viele Facetten, aber eine der grundlegendsten ist, zu verstehen, wer in Ihrem Unternehmen sie verwenden wird und wie sie ihnen helfen können, die darin enthaltenen Vorteile zu verstehen.
 
-In dieser Sitzung werden wir uns genauer ansehen, auf wen wir unsere Adoptionsbemühungen konzentrieren (d.h. &quot;Wer&quot;) und Ermittlung und Berücksichtigung gemeinsamer Hindernisse, mit denen Organisationen konfrontiert sind, was die &quot;Gründe&quot; der Adoption angeht.
+In dieser Sitzung werden wir uns genauer ansehen, auf wen wir unsere Adoptionsbemühungen konzentrieren (d. h. &quot;wer&quot;) und welche gemeinsamen Hindernisse es für Organisationen gibt, die sich mit dem &quot;Grund&quot; der Adoption auseinander setzen.
 
-Wir werden Folgendes abdecken:
+Wir werden Folgendes behandeln:
 
 * 5 wichtige Persönlichkeiten, die bei der Adoption nicht berücksichtigt werden können
 * Wichtige Hindernisse, die routinemäßig mit der Übernahme der Workfront in Verbindung stehen und die berücksichtigt werden müssen (und im Laufe der Zeit erneut in Betracht gezogen werden müssen!)

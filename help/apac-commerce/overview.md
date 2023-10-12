@@ -1,8 +1,8 @@
 ---
 title: APAC Commerce-Webinar-Reihe
 description: Die APAC Commerce-Webinar-Reihe ist eine monatliche Reihe von Workshops für Adobe Commerce-Kunden, die eine breite Palette von Themen abdecken, von Best Practices über Produkt-Roadmap bis hin zu Branchentrends.
-exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
+exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Die APAC Commerce-Webinar-Reihe ist eine monatliche Reihe von Workshops für Ado
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-        <strong>Optimieren Sie Ihr Unternehmen mit dem PaaS Cloud Commerce von Adobe.</strong>
+        <strong>Optimieren Ihres Unternehmens mit Adobe PaaS Cloud Commerce</strong>
       </a>
     </div>
     <p>
-    <em>Nehmen Sie an unserem Webinar teil, um die Vorteile der Adobe Commerce Cloud PaaS-Lösung zu entdecken, unabhängig davon, ob Sie selbst hosten und sich für PaaS interessieren oder ob ein bestehender Kunde Ihre Einrichtung optimieren möchte.</em>
+    <em>Treten Sie unserem Webinar bei, um die Vorteile der Adobe Commerce Cloud PaaS-Lösung zu entdecken, ob Sie selbst hosten und sich für PaaS interessieren oder ob Sie bereits ein PaaS-Kunde sind, der Ihre Einrichtung optimieren möchte.</em>
     <p>
   </td>
   <td>
@@ -40,7 +40,7 @@ Die APAC Commerce-Webinar-Reihe ist eine monatliche Reihe von Workshops für Ado
       </a>
     </div>
     <p>
-    <em>Nutzen Sie die Vorteile von AI für außergewöhnliche Kundenerfahrungen durch die Investition der Adobe in KI und ihre Integration in Commerce.</em>
+    <em>Nutzen Sie die Vorteile von AI für ein außergewöhnliches Kundenerlebnis mit Adobe-Investitionen in KI und deren Integration in Commerce.</em>
     <p>
   </td>
   <td>

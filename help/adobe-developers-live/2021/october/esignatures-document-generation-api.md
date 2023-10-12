@@ -1,5 +1,5 @@
 ---
-title: Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe von Document Generation- und Sign-APIs
+title: Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe von Document Generation und Sign APIs
 description: Hier erfahren Sie, wie die Adobe Document Generation API eine leistungsstarke neue Möglichkeit bietet, wirkungsvolle Dokumente zu generieren. In dieser Sitzung erfahren Sie, wie die Adobe Document Generation API in Kombination mit der Adobe Sign-API auf einfache Weise dynamische Dokumente generieren kann, die über den Sign-Workflow verarbeitet werden können.
 solution: Acrobat Services
 feature: Developer Tools
@@ -8,15 +8,15 @@ role: Developer, Architect
 level: Experienced
 kt: 9210
 type: Event
-exl-id: e1189b02-92f4-495a-9192-9f4002fb13b7
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: ea4d1db5-b1d1-4e5b-ba16-db9bd493e150
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 20%
 
 ---
 
-# Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe von Document Generation- und Sign-APIs
+# Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe von Document Generation und Sign APIs
 
 Hier erfahren Sie, wie die Adobe Document Generation API eine leistungsstarke neue Möglichkeit bietet, wirkungsvolle Dokumente zu generieren. In dieser Sitzung erfahren Sie, wie die Adobe Document Generation API in Kombination mit der Adobe Sign-API auf einfache Weise dynamische Dokumente generieren kann, die über den Sign-Workflow verarbeitet werden können.
 

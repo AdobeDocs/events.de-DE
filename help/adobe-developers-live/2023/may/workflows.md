@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-05-27T00:00:00Z
 jira: KT-13356
 thumbnail: 3419947.jpeg
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+exl-id: 77f81cc0-6513-42a8-9c03-fbb97c4dbf29
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # Erfahren Sie mehr über Workflows und Tipps für schnellere Implementierungen mit Rapid Development Environments (RDE).
 

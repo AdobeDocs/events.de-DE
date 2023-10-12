@@ -8,8 +8,8 @@ feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-exl-id: 5f75ebf2-1a15-4d1d-b233-6de1cfecd11f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6e35763d-d18a-468c-9b34-df14da7c7e2f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%
@@ -55,4 +55,3 @@ Dadurch entfällt die Anforderung, dass die API viele Endpunkte bereitstellen mu
 >
 >* Informationen zu sitzungsspezifischen Community-Interaktionen in der Experience League finden Sie in diesem [kontextuellen Thread](https://adobe.ly/3r6P4nr).
 >* Um automatische Benachrichtigungen zu Webinaren zu erhalten, registrieren Sie sich bitte bei der [AEM-Benutzergruppe von Adobe](https://aem-augs.adobe.com/).
-

@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
-exl-id: c7333635-834d-4d78-9dea-f64e3205c78a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '5566'
 ht-degree: 2%
@@ -27,7 +27,7 @@ Um einem Empfänger die Möglichkeit zu geben, einen für ihn freigegebenen Test
 
 **Antwort**
 
-Dies kann von einem Administrator als Standard für einzelne Benutzer aktiviert/deaktiviert werden, indem Sie diesem Pfad folgen: PHQ-Anmeldung > Kontoeinstellungen > Benutzer > Klicken Sie auf &quot;Benutzername&quot;> &quot;Standardmäßige Testeinstellungen&quot;.
+Dieser kann von einem Administrator als Standard für einzelne Benutzer aktiviert/deaktiviert werden, indem Sie diesem Pfad folgen: PHQ-Anmeldung > Kontoeinstellungen > Benutzer > Klicken Sie auf den Link &quot;Benutzername&quot;> &quot;Standardmäßige Testeinstellungen&quot;.
 
 **Frage**
 
@@ -67,7 +67,7 @@ Wie können Sie eine Testversandvorlage erstellen?
 
 **Antwort**
 
-Als Administrator möchten Sie diesem Pfad folgen: PHQ-Anmeldung > Workflows > Neu > Neue Vorlage.
+Als Administrator möchten Sie folgenden Pfad verwenden: PHQ-Anmeldung > Workflows > Neu > Neue Vorlage.
 
 **Frage**
 
@@ -83,7 +83,7 @@ Gibt es beim Einreichen eines Testversands - unter &quot;Organisation&quot; - ei
 
 **Antwort**
 
-Diese Frage bezieht sich auf Workfront Proof Standalone. In eigenständigem Workfront-Testversand können Sie mithilfe von privaten Ordnern Ordner für bestimmte Benutzer ausblenden. Dies ermöglicht eine optimierte Liste von Ordnern, aus denen Sie wählen können. Beachten Sie, dass Sie auch die Typ-Ahead-Logik verwenden können, um den Ordner zu finden, dem Sie auch einen Testversand hinzufügen möchten.
+Diese Frage bezieht sich auf Workfront Proof Standalone. In eigenständigem Workfront-Testversand können Sie private Ordner verwenden, um Ordner für bestimmte Benutzer auszublenden. Dies ermöglicht eine optimierte Liste von Ordnern, aus denen Sie wählen können. Beachten Sie, dass Sie auch die Typ-Ahead-Logik verwenden können, um den Ordner zu finden, dem Sie auch einen Testversand hinzufügen möchten.
 
 **Frage**
 
@@ -105,7 +105,7 @@ Testversand-E-Mail-Warnhinweise sind völlig unabhängig von den globalen Benach
 
 **Frage**
 
-Wenn Überprüfer auf &quot;deaktiviert&quot;gesetzt sind, wie werden sie dann wissen, ob es einen neuen Testversand gibt, anhand dessen sie überprüfen können, ob sie einen früheren Test abgelehnt haben?
+Wenn Überprüfer auf &quot;deaktiviert&quot;gesetzt sind, wie werden sie dann wissen, ob es einen neuen Testversand gibt, anhand dessen sie überprüfen können, ob sie einen früheren Testversand abgelehnt haben?
 
 **Antwort**
 
@@ -149,7 +149,7 @@ Können Sie die Einstellung unter WF > Setup klarstellen - wenn Sie die Möglich
 
 **Antwort**
 
-Die Option Workfront-Einrichtung > E-Mail > Benachrichtigung zu Überprüfung und Genehmigung ist unabhängig von den Optionen für E-Mail-Warnhinweise auf der Testversand-Ebene. Wenn diese Option aktiviert ist, erhält jeder, der an jedem Testversand teilnimmt, jedes Mal eine E-Mail, wenn jemand auf Testsendungen einen Kommentar abgibt.
+Die Option Workfront-Einrichtung > E-Mail > Benachrichtigung zu Überprüfung und Genehmigung ist unabhängig von den Optionen für E-Mail-Warnhinweise auf der Testversand-Ebene. Wenn diese Option aktiviert ist, erhält jeder, der an jedem Testversand teilnimmt, jedes Mal eine E-Mail, wenn jemand einen Kommentar abgibt.
 
 **Frage**
 
@@ -225,19 +225,19 @@ Wenn Sie ein Gast oder ein Workfront-Benutzer mit einer Proofing-Lizenz für Man
 
 **Frage**
 
-Größtes Problem: E-Mail-Adresse %2B (doppelte E-Mail-Adressen). Warum und wie geschieht das und wie kann es behoben werden?
+Größtes Problem hier: E-Mail %2B-Adressierung (doppelte E-Mail-Adressen). Warum und wie geschieht das und wie kann es behoben werden?
 
 **Antwort**
 
-Dies kann vorkommen, wenn jemand mithilfe der falschen E-Mail-Adresse manuell jemanden zum Testversand hinzufügt. Wenn dies der Fall ist, kann ein Administrator die falsche E-Mail-Adresse aus dem Testkonto entfernen, indem er diesen Pfad verwendet: PHQ-Anmeldung > Kontakte > Wählen Sie die falsche E-Mail-/Gastinstanz > Löschen aus. Wenn Sie Probleme damit haben, dass Benutzer mit doppelten E-Mail-Adressen hinzugefügt werden, wenden Sie sich an unser Supportteam.
+Dies kann vorkommen, wenn jemand mithilfe der falschen E-Mail-Adresse manuell jemanden zum Testversand hinzufügt. Wenn Ihnen dies gelingt, kann ein Administrator die falsche E-Mail-Adresse aus dem Testkonto entfernen, indem er den folgenden Pfad verwendet: PHQ-Anmeldung > Kontakte > Wählen Sie die falsche E-Mail-/Gastinstanz > Löschen. Wenn Sie Probleme damit haben, dass Benutzer mit doppelten E-Mail-Adressen hinzugefügt werden, wenden Sie sich an unser Supportteam.
 
 **Frage**
 
-Sobald eine Entscheidung getroffen wurde und Sie den Testversand wieder in die Produktion zurücksetzen müssen. Welche Art von Zugriff benötigen Sie für das Produktionsteam, damit es die Aktion des Kommentars verwenden kann, wenn der Testversand gesperrt ist?
+Sobald eine Entscheidung getroffen wurde und Sie den Testversand wieder in die Produktion zurückversetzen müssen. Welche Art von Zugriff benötigen Sie für das Produktionsteam, damit es die Aktion des Kommentars verwenden kann, wenn der Testversand gesperrt ist?
 
 **Antwort**
 
-Wenn ein Testversand gesperrt ist, müssen Sie den Testversand entsperren, damit Benutzer Kommentare bearbeiten oder Antworten auf Kommentare senden können. Personen mit den folgenden Berechtigungen können den Testversand entsperren: Testversand-Inhaber, Workfront-Benutzer mit einem Proofing-Lizenzlevel Administrator oder Supervisor.
+Wenn ein Testversand gesperrt ist, müssen Sie den Testversand entsperren, damit Benutzer Kommentare bearbeiten oder Antworten auf Kommentare senden können. Personen mit den folgenden Berechtigungen können den Testversand freigeben: Der Testversand-Inhaber, Workfront-Benutzer mit einem Proofing-Lizenzlevel Administrator oder Supervisor.
 
 **Frage**
 
@@ -265,7 +265,7 @@ Dies hängt von ihrem Testversandniveau ab. Wenn sie mit der Manager- oder Super
 
 **Frage**
 
-In meiner Organisation sendet der Projektmanager eine Genehmigungsanfrage an die Stakeholder zur Überprüfung/Stellungnahme. Sie haben erwähnt, dass wir keine Namen zu den Validierungsfeldern hinzufügen sollten. Wie können Sie als PM den kreativen Beweis an Interessengruppen weitergeben?
+In meiner Organisation sendet der Projekt-Manager eine Genehmigungsanfrage an die Stakeholder zur Überprüfung/Stellungnahme. Sie haben erwähnt, dass wir keine Namen zu den Validierungsfeldern hinzufügen sollten. Wie können Sie als PM den kreativen Beweis an Interessengruppen weitergeben?
 
 **Antwort**
 
@@ -277,7 +277,7 @@ Wie fügen Sie Personen zu neuen Rollen bei einem bereits erstellten Testversand
 
 **Antwort**
 
-Gehen Sie wie folgt vor, um Testversand-Empfänger hinzuzufügen und ihre Testversandrolle in einem vorhandenen Testversand auszuwählen: Wählen Sie den Testversand im Tab Dokumente aus und klicken Sie auf Details des Testversands. Wenn das Fenster mit den Details des Testversands geöffnet wird, klicken Sie auf die Schaltfläche Eignung oben rechts in der Bühne und wählen Sie &quot;Freigeben&quot;. Danach können Sie die Empfänger hinzufügen und ihre Rolle als Testversand sowie die E-Mail-Warnung auswählen.
+Um Testversand-Empfänger hinzuzufügen und die Rolle Testversand in einem vorhandenen Testversand auszuwählen, gehen Sie wie folgt vor: Wählen Sie den Testversand im Tab Dokumente aus und klicken Sie auf Details des Testversands. Wenn das Fenster mit den Details des Testversands geöffnet wird, klicken Sie auf die Schaltfläche Elipses oben rechts in der Bühne und wählen Sie &quot;Freigeben&quot;. Danach können Sie die Empfänger hinzufügen und ihre Rolle als Testversand sowie die E-Mail-Warnung auswählen.
 
 **Frage**
 
@@ -325,7 +325,7 @@ Warum sehe ich beim Senden eines Updates im Abschnitt Testversand nur den Status
 
 **Antwort**
 
-Bei Verwendung der Funktion &quot;Nach Genehmigung fragen&quot; arbeiten Sie mit der Funktion für die Dokumentgenehmigung, die von der Prüfung und der SOCD-Fortschrittsleiste unabhängig ist. Wenn Sie die Testversand-Rolle eines Testversand-Empfängers aktualisieren müssen, gehen Sie wie folgt vor: Wählen Sie im Tab Dokumente den Testversand aus und klicken Sie auf Details des Testversands. Wenn das Fenster mit den Testversanddetails geöffnet wird, wird die Empfängerliste angezeigt und die Option Testversand-Rolle (sowie E-Mail-Warnhinweis) kann entsprechend angepasst werden. Auf diese Weise können Sie (z. B.) die Rolle &quot;Testversand&quot;von &quot;Überprüfer&quot;in &quot;Prüfer und Genehmiger&quot;ändern.
+Bei Verwendung der Funktion &quot;Nach Genehmigung fragen&quot; arbeiten Sie mit der Funktion für die Dokumentgenehmigung, die von der Prüfung und der SOCD-Fortschrittsleiste unabhängig ist. Wenn Sie die Testversand-Rolle eines Testversand-Empfängers aktualisieren müssen, folgen Sie diesem Pfad: Wählen Sie im Tab Dokumente den Testversand aus und klicken Sie auf Details des Testversands. Wenn das Fenster mit den Testversanddetails geöffnet wird, wird die Empfängerliste angezeigt und die Option Testversand-Rolle (sowie E-Mail-Warnhinweis) kann entsprechend angepasst werden. Auf diese Weise können Sie (z. B.) die Rolle &quot;Testversand&quot;von &quot;Überprüfer&quot;in &quot;Prüfer und Genehmiger&quot;ändern.
 
 **Frage**
 
@@ -349,15 +349,15 @@ Die Dashboard- und Reporting-Funktionen in ProofHQ stehen nur Administratoren zu
 
 **Antwort**
 
-Das stimmt. Sie können jedoch einen Support-Fall mit Workfront einreichen, um alle Benutzer Ihrer Proofing-Lizenz um Zugriff auf das Testsystem zu bitten.
+Das ist richtig. Sie können jedoch einen Support-Fall mit Workfront einreichen, um alle Benutzer Ihrer Proofing-Lizenz um Zugriff auf das Testsystem zu bitten.
 
 **Frage**
 
-Hallo, eine Frage zur Flexibilität des Testversands: Wenn ein neuer Testversand-Versionsupload erforderlich ist, ohne dass der ursprüngliche Eigentümer vorhanden ist, empfiehlt es sich für ihn, einen Kollegen zum Workflow als Autor hinzuzufügen und &quot;Nicht relevant&quot;zu entscheiden? (Die Übertragung des Eigentums scheint nur für eine einzige Version zu funktionieren.)
+Hallo, eine Frage zur Flexibilität des Testversands: Wenn ein neuer Testversand-Version-Upload erforderlich ist, ohne den ursprünglichen Eigentümer zu sein, ist dies die Best Practice für ihn, einen Kollegen zum Workflow als Autor hinzuzufügen, und er wird &quot;Nicht relevant&quot;entscheiden? (Die Übertragung des Eigentums scheint nur für eine einzige Version zu funktionieren.)
 
 **Antwort**
 
-Dieser Anwendungsfall und dieser Workflow wären absolut funktionstüchtig. Eine andere Möglichkeit besteht darin, Benutzer, die möglicherweise neue Versionen in Testsendungen hochladen müssen, die nicht der Besitzer sind, mit dem Berechtigungsniveau Supervisor oder Administrator einzurichten. Diese Berechtigungsebene ermöglicht es ihnen, neue Versionen in Testsendungen hochzuladen, die sie nicht besitzen, ohne sie als Autor oder Moderator zum Testversand hinzufügen zu müssen (beides erfordert eine Entscheidung).
+Dieser Anwendungsfall und dieser Workflow funktionieren wirklich. Eine andere Möglichkeit besteht darin, Benutzer, die möglicherweise neue Versionen in Testsendungen hochladen müssen, die nicht der Besitzer sind, mit dem Berechtigungsniveau Supervisor oder Administrator einzurichten. Diese Berechtigungsebene ermöglicht es ihnen, neue Versionen in Testsendungen hochzuladen, die sie nicht besitzen, ohne sie als Autor oder Moderator zum Testversand hinzufügen zu müssen (beides erfordert eine Entscheidung).
 
 **Frage**
 
@@ -389,7 +389,7 @@ Kann ein Benutzer auf Stufe 3 des Testversands eine weitere Person als Review &a
 
 **Antwort**
 
-Wenn der Benutzer über Bearbeitungsrechte für den Testversand verfügt, kann er dies tun. Benutzer mit Bearbeitungsrechten: Der Testversand-Inhaber, Testempfänger zum Testversand hinzugefügt mit der Rolle Autor oder Moderator, Testversandlizenzanwender mit dem Berechtigungsnachweis Supervisor oder Administrator.
+Wenn der Benutzer über Bearbeitungsrechte für den Testversand verfügt, kann er dies tun. Benutzer mit Bearbeitungsrechten: Der Testversand-Inhaber, Testempfänger, der zum Testversand mit der Rolle Autor oder Moderator hinzugefügt wurde, Testlizenzanwender mit dem Berechtigungsnachweis Supervisor oder Administrator.
 
 **Frage**
 
@@ -421,7 +421,7 @@ Melden Sie sich bezüglich des Problems der Weiterleitung von E-Mails tatsächli
 
 **Antwort**
 
-Dadurch werden Sie als die Person, die die E-Mail an Sie weitergeleitet hat, in den Testversand eingeloggt. Die Verwendung von Anmeldung erforderlich für Testsendungen und SSO verhindert den Zugriff auf den Testversand als die Person, die Sie die E-Mail weitergeleitet hat.
+Dadurch werden Sie als die Person, die die E-Mail an Sie weitergeleitet hat, beim Testversand angemeldet. Die Verwendung von Anmeldung erforderlich für Testsendungen und SSO verhindert den Zugriff auf den Testversand als die Person, die Sie die E-Mail weitergeleitet hat.
 
 **Frage**
 
@@ -433,7 +433,7 @@ Wenn Sie rechts neben Ihrer Suchleiste in Workfront über ein Kontrollkästchen 
 
 **Frage**
 
-Unter dem Abschnitt &quot;Rolle&quot;befinden sich 2 Häkchen am unteren Rand, die erwähnen, jemanden mit einer @mention usw. hinzuzufügen. In den Testversandeinstellungen können Sie für jede Person Standardrollen festlegen, es gibt jedoch keine Option, diese Auswahlfelder automatisch zu aktivieren. Daher müssen Sie dies jedes Mal tun, wenn Sie einen Testversand erstellen. Wie können Sie dies zu einer Standardeinstellung für einen Benutzer machen?
+Unter dem Abschnitt &quot;Rolle&quot;befinden sich 2 Häkchen am unteren Rand, die erwähnen, jemanden mit einer @mention usw. hinzuzufügen. In den Testversand-Einstellungen können Sie für jede Person Standardrollen festlegen, es gibt jedoch keine Option, diese Auswahlfelder automatisch zu aktivieren. Daher müssen Sie dies jedes Mal tun, wenn Sie einen Testversand erstellen. Wie können Sie dies zu einer Standardeinstellung für einen Benutzer machen?
 
 **Antwort**
 
@@ -445,7 +445,7 @@ Wie wechselt man zum Besitzer eines Testversands?
 
 **Antwort**
 
-Um den Besitzer eines Testversands zu wechseln, folgen Sie diesem Pfad: Wählen Sie im Tab Dokumente den Testversand aus und klicken Sie auf &quot;Testversand-Details&quot;. Der Tab Testversanddetails wird geöffnet. Wenn die Person, die Sie für den Testversand verantwortlich machen möchten, noch nicht im Testversand ist, können Sie sie als Empfänger hinzufügen, indem Sie in die Schaltfläche Eignung klicken und die Option Freigeben auswählen. Nachdem die Person zum Testversand hinzugefügt wurde (oder wenn sie bereits im Testversand ist), wählen Sie die entsprechende Elipses-Schaltfläche aus, um &quot;Inhaber&quot; zu wählen. Sie werden jetzt zum Besitzer des Testversands gemacht.
+Um den Besitzer eines Testversands zu wechseln, folgen Sie diesem Pfad: Wählen Sie im Tab Dokumente den Testversand aus und klicken Sie auf &quot;Testversanddetails&quot;. Der Tab Testversanddetails wird geöffnet. Wenn die Person, die Sie für den Testversand verantwortlich machen möchten, noch nicht im Testversand ist, können Sie sie als Empfänger hinzufügen, indem Sie in die Schaltfläche Eignung klicken und die Option Freigeben auswählen. Nachdem die Person zum Testversand hinzugefügt wurde (oder wenn sie bereits im Testversand ist), wählen Sie die entsprechende Elipses-Schaltfläche aus, um &quot;Inhaber&quot; zu wählen. Sie werden jetzt zum Besitzer des Testversands gemacht.
 
 **Frage**
 
@@ -453,7 +453,7 @@ Was die neuen Versionen von Testsendungen angeht... die einzige Möglichkeit, di
 
 **Antwort**
 
-Es wird empfohlen, neue Versionen auf diese Weise zu erstellen: Markieren Sie den Testversand im Tab Dokumente und klicken Sie auf die Schaltfläche Mehr und wählen Sie Neue Version > Testversand aus. Dadurch gelangen Sie zur Seite Neue Version , auf der der Workflow übertragen wird. Außerdem können Sie alle notwendigen Anpassungen vornehmen, bevor Sie die neue Version weiterleiten.
+Es wird empfohlen, auf diese Weise neue Versionen zu erstellen: Wählen Sie den Testversand auf der Registerkarte Dokumente aus, klicken Sie dann auf die Schaltfläche Mehr und wählen Sie Neue Version > Testversand aus. Dadurch gelangen Sie zur Seite Neue Version , auf der der Workflow übertragen wird. Außerdem können Sie alle notwendigen Anpassungen vornehmen, bevor Sie die neue Version weiterleiten.
 
 **Frage**
 
@@ -497,7 +497,7 @@ Beim Ziehen und Ablegen eines Dokuments als neue Version haben Sie Recht, dass d
 
 **Frage**
 
-Szenario - Weiterleitung von Testsendungen: Ein externer Kunde, der einen Testversand überprüft, sollte sich intern in seiner Organisation umsetzen, bevor er unseren Testversand genehmigt. Die anderen, die überprüfen werden nicht unbedingt im System, sodass es scheint nicht @ in den Kommentaren funktionieren würde. Wie sollten sie die E-Mail am besten freigeben - leiten Sie die E-Mail weiter und weisen Sie dem Empfänger gegenüber darauf hin, dass Kommentare nicht als ihr Name erscheinen würden?
+Szenario - Testsendungen weiterleiten: Ein externer Kunde, der einen Testversand überprüft, sollte sich vor der Genehmigung des Testversands intern in seiner Organisation umkreisen lassen. Die anderen, die überprüfen werden nicht unbedingt im System, sodass es nicht @ in den Kommentaren funktioniert. Wie sollten sie die E-Mail am besten freigeben - leiten Sie die E-Mail weiter und weisen Sie dem Empfänger gegenüber darauf hin, dass Kommentare nicht als ihr Name erscheinen würden?
 
 **Antwort**
 
@@ -521,7 +521,7 @@ Ja. Sie möchten die beiden Personen hinzufügen, die Sie als Prüfer und Genehm
 
 **Frage**
 
-Wir möchten einen Testversand an einen externen Kunden (Nicht-Workfront-Benutzer) senden, um diesen zu prüfen und zu kommentieren. Wir möchten ihnen einen sauberen Testversand (d. h. einen, der keine internen Kommentare dazu enthält) zukommen lassen. Was sind die richtigen Schritte, um dies zu erreichen, um sicherzustellen, dass der externe Kunde den Testversand erhält (nur den Testversand, keinen Zugriff auf das Projekt selbst) und wie &quot;schicken&quot; die externen Kunden uns ihren ausgestellten Testversand zurück? Derzeit werden keine Testversandvorlagen/automatisierten Workflows verwendet.
+Wir möchten einen Testversand an einen externen Kunden (Nicht-Workfront-Benutzer) senden, um diesen zu prüfen und zu kommentieren. Wir möchten ihnen einen sauberen Beweis (d. h. einen, der keine internen Kommentare dazu enthält) zukommen lassen. Was sind die richtigen Schritte, um dies zu erreichen, um sicherzustellen, dass der externe Kunde den Testversand erhält (nur den Testversand, keinen Zugriff auf das Projekt selbst) und wie &quot;schicken&quot; die externen Kunden uns ihren ausgestellten Testversand zurück? Derzeit werden keine Testversandvorlagen/automatisierten Workflows verwendet.
 
 **Antwort**
 
@@ -533,7 +533,7 @@ Ist es möglich, bestimmte Benutzer (auch als Korrekturleser bezeichnet) in eine
 
 **Antwort**
 
-Sobald jemand in einer Phase einer Testversand-Version hinzugefügt wurde, bleibt er in den verbleibenden Phasen auf dieser Testversion. Sie haben die Möglichkeit, ihre Bühne zu sperren, wenn die nächste Phase beginnt (oder manuell), was verhindert, dass sie weitere Kommentare abgeben können.
+Sobald jemand in einer Phase einer Testversand-Version hinzugefügt wurde, bleibt er in den verbleibenden Phasen auf dieser Testversion. Sie haben die Möglichkeit, ihre Bühne zu sperren, wenn die nächste Phase beginnt (oder manuell), wodurch sie keine weiteren Kommentare abgeben können.
 
 **Frage**
 
@@ -541,7 +541,7 @@ Wo können wir eine Liste aller Personen anzeigen, die einen Nachweis geprüft u
 
 **Antwort**
 
-Um eine Liste der Aktivitäten anzuzeigen, z. B. wann Kommentare und Entscheidungen getroffen wurden, klicken Sie im Abschnitt &quot;Details des Testversands&quot;auf den Aktivitätsverlauf. Gehen Sie wie folgt vor, um darauf zuzugreifen: Wählen Sie den Testversand auf der Registerkarte Dokumente > Klicken Sie auf Details des Testversands > Erweitern Sie den Abschnitt Aktivität . Wenn Sie diese Informationen auf Versionsebene sehen möchten, folgen Sie diesem Pfad: Wählen Sie den Testversand auf der Registerkarte Dokumente aus und klicken Sie auf die Registerkarte Details > Unten im Bildschirm wird der Abschnitt Versionen angezeigt. Von hier aus können Sie auf die Testversanddetails auf der Versionsebene zugreifen.
+Um eine Liste der Aktivitäten anzuzeigen, z. B. wann Kommentare und Entscheidungen getroffen wurden, klicken Sie im Abschnitt &quot;Details des Testversands&quot;auf den Aktivitätsverlauf. Gehen Sie dazu wie folgt vor: Wählen Sie auf der Registerkarte Dokumente den Testversand aus > Klicken Sie auf Details des Testversands > Erweitern Sie den Abschnitt Aktivität . Wenn Sie diese Informationen auf Versionsebene sehen möchten, gehen Sie wie folgt vor: Wählen Sie den Testversand auf der Registerkarte Dokumente aus > Klicken Sie auf die Registerkarte Details > Unten im Bildschirm wird der Abschnitt Versionen angezeigt. Von hier aus können Sie auf die Details des Testversands auf der Versionsebene zugreifen.
 
 **Frage**
 

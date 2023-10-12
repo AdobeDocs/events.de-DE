@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 10312
 thumbnail: 342521.jpeg
-exl-id: 97b22616-eb33-4276-a5da-51bb689371c9
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 352cbded-40d0-462d-960a-0abd93747de3
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Wollten Sie schon einmal hinter den Vorhang schauen, um zu sehen, wie einige der
 
 Nehmen Sie an unserer Experience Maker Spotlight-Sitzung teil, um von drei sehr unterschiedlichen Organisationen zu erfahren, wie sie Workfront verwenden. Sie werden über ihre Journey sprechen, und als Bonus wird jeder unserer Moderatoren seinen besten Ratschlag &quot;Was ich mir wünschte, was ich gewusst hätte&quot; teilen.
 
-Sie hören:
+Sie werden Folgendes hören:
 
 * Nutzung von Berichten durch Esri zur Verbesserung des Benutzererlebnisses und Messung der Marketing-KPIs
 * Lehren aus einem verworrenen Team in Capital One, das seinen Workfront-Pilotprojekt in einen umfassenden Rollout für die gesamte Organisation verwandelt hat

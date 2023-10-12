@@ -1,20 +1,20 @@
 ---
-title: Berichterstellung innerhalb von [!DNL Marketo Engage]
+title: Berichterstellung [!DNL Marketo Engage]
 description: In dieser Sitzung werden alle Reporting-Tools vorgestellt, die in [!DNL Marketo Engage] Einschließen von Berichten Smart Lists Analyzer MPI Email Insights
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 10325
 thumbnail: 342557.jpeg
-exl-id: fc869a40-a170-4eaa-a94a-cd5d206e2aaa
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: be7ce77f-d4e0-47fa-b811-f1792ef76be6
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 1%
 
 ---
 
-# Berichterstellung innerhalb von [!DNL Marketo Engage]
+# Berichterstellung [!DNL Marketo Engage]
 
 In dieser Sitzung werden alle Reporting-Tools vorgestellt, die in [!DNL Marketo Engage] einschließlich:
 

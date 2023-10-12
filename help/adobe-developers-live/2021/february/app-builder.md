@@ -10,8 +10,8 @@ version: Cloud Service
 kt: 7175
 type: Event
 thumbnail: 331741.jpg
-exl-id: 5c303ecd-d33e-48c6-94da-f8bbb07577f1
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: d1672427-b943-4b9f-84ed-ebf2c9c54933
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -26,4 +26,4 @@ Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://a
 
 >[!VIDEO](https://video.tv.adobe.com/v/331741/?quality=12&learn=on&hidetitle=true)
 
-Klicken **[here](/help/adobe-developers-live/assets/app-builder.pdf)** für die Sitzungsfolien.
+Klicks **[here](/help/adobe-developers-live/assets/app-builder.pdf)** für die Sitzungsfolien.

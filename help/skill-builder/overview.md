@@ -1,8 +1,8 @@
 ---
 title: Skill Builder - Überblick
 description: Aufgezeichnete Webinarreihen zum Aufbau Ihrer Wissensbasis und zur Maximierung Ihrer Investition in Adobe Experience Cloud.
-exl-id: a2c07218-6f1d-434a-8b69-f6686c9f3370
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+exl-id: 48b7a0ea-2fcf-4387-8f9e-0405d59acd7f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 3%
@@ -30,9 +30,9 @@ Skill Builder ist eine Webinarreihe, die darauf ausgelegt ist, Ihre Wissensgrund
     </a>
   </td>
   <td>
-    <img alt="Journey" src="assets/customer-journey.png" />
+    <img alt="Journey von Kunden" src="assets/customer-journey.png" />
     <div>
-      <strong>Journey</strong>
+      <strong>Journey von Kunden</strong>
     </div>
     <p>
     <em>Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen, um personalisierte, kanalübergreifende Journey zu erstellen.</em>
@@ -42,9 +42,9 @@ Skill Builder ist eine Webinarreihe, die darauf ausgelegt ist, Ihre Wissensgrund
     </a>
   </td>
   <td>
-    <img alt="Daten und Einblicke" src="assets/data-insights.png" />
+    <img alt="Daten und Erkenntnisse" src="assets/data-insights.png" />
     <div>
-      <strong>Daten und Einblicke</strong>
+      <strong>Daten und Erkenntnisse</strong>
     </div>
     <p>
     <em>Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online- und Offline-Dateneinblicken in Ihrer gesamten Organisation.</em>

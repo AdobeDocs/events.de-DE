@@ -1,5 +1,5 @@
 ---
-title: Erweiterbarkeit des Commerce Integration Framework über GraphQL
+title: Commerce integration framework-Erweiterbarkeit über GraphQL
 description: Erfahren Sie, wie Sie Commerce-Kernkomponenten mit GraphQL erweitern. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
@@ -12,15 +12,15 @@ version: Cloud Service
 kt: 7187
 type: Event
 thumbnail: 331850.jpg
-exl-id: c41fd457-a8aa-4ab5-a7e4-67562aa77d63
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 15776683-621e-4be4-b4ef-b9c58a4eedf4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# Erweiterbarkeit des Commerce Integration Framework über GraphQL
+# Commerce integration framework-Erweiterbarkeit über GraphQL
 
 Erfahren Sie, wie Sie Commerce-Kernkomponenten mit GraphQL erweitern.
 
@@ -28,4 +28,4 @@ Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://a
 
 >[!VIDEO](https://video.tv.adobe.com/v/331850/?quality=12&learn=on&hidetitle=true)
 
-Klicken **[here](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** für die Sitzungsfolien.
+Klicks **[here](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** für die Sitzungsfolien.

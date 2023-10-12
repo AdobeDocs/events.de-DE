@@ -11,8 +11,8 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9190
 type: Event
-exl-id: 95ce5b8f-d462-493c-965e-479df9ccbe3f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 578bb96c-a1c0-4f2d-b30b-d9ed75563de4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 16%
@@ -23,7 +23,7 @@ ht-degree: 16%
 
 Erfahren Sie mehr darüber, wie Sie die Adobe Experience Manager as a Cloud Service-Code-Refaktorierungs-Tools nutzen können, um die Journey zu Cloud Service zu beschleunigen, indem Sie den Cloud Service vorhandener Inhalte (Paketstruktur, Indizes, Adobe Experience Manager Asset-Verarbeitungs-Workflows, Dispatcher-Konfigurationen) über Automatisierung kompatibel machen.
 
-In dieser Sitzung werden wir zeigen, wie wir das NodeJS-Plug-in aio-cli-plugin-Adobe Experience Manager-cloud-service-migration (unser auf der Adobe I/O Extensible Command Line Interface (CLI) basierendes NodeJS-Plug-in, das für diese Code-Refaktorierungs-Tools eine einheitliche Erfahrung bietet und den Aufwand für Installation und Einrichtung minimiert) nutzen können, um die Code-Refactoring-Tools einfach zu installieren und zu verwenden.
+In dieser Sitzung werden wir zeigen, wie wir das NodeJS-Plug-in aio-cli-plugin-Adobe Experience Manager-cloud-service-migration (unser auf Adobe I/O Extensible Command Line Interface (CLI) basierendes NodeJS-Plug-in, das für diese Code-Refaktorierungs-Tools eine einheitliche Erfahrung bietet und den Aufwand für Installation und Einrichtung minimiert) nutzen können, um die Code-Refactoring-Tools einfach zu installieren und zu verwenden.
 
 Wir hoffen, Menschen dabei zu helfen, die Best Practices bei der Verwendung der Code-Refaktorierungs-Tools zu verstehen, indem wir die Ausführung der Tools auf der Basis des echten Adobe Experience Manager-Kundencodes zeigen.
 

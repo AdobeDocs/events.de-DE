@@ -1,6 +1,6 @@
 ---
-title: Entwicklererlebnis in Experience Cloud
-description: Nehmen Sie an Jonathan Roeder, Director of Developer Experience for Experience Cloud teil, um sich über die neuesten Entwickleraktualisierungen in Adobe Experience Cloud zu informieren. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+title: Entwicklererlebnis auf Experience Cloud
+description: Treten Sie Jonathan Roeder, Director of Developer Experience for Experience Cloud, bei, um sich über die neuesten Entwickleraktualisierungen in Adobe Experience Cloud zu informieren. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -9,20 +9,20 @@ solution: Experience Cloud
 kt: 7169
 type: Event
 thumbnail: 331770.jpg
-exl-id: caacac94-9d03-42f3-aa14-0bd7307c863e
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 8bf461e9-bf2d-4c96-b92c-c064df9650f5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Entwicklererlebnis in Experience Cloud
+# Entwicklererlebnis auf Experience Cloud
 
-Nehmen Sie an Jonathan Roeder, Director of Developer Experience for Experience Cloud teil, um sich über die neuesten Entwickleraktualisierungen in Adobe Experience Cloud zu informieren.
+Treten Sie Jonathan Roeder, Director of Developer Experience for Experience Cloud, bei, um sich über die neuesten Entwickleraktualisierungen in Adobe Experience Cloud zu informieren.
 
 Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331770/?quality=12&learn=on&hidetitle=true)
 
-Klicken **[here](/help/adobe-developers-live/assets/developer-experience.pdf)** für die Sitzungsfolien.
+Klicks **[here](/help/adobe-developers-live/assets/developer-experience.pdf)** für die Sitzungsfolien.

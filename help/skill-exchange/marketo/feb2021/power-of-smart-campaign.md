@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 9711
 thumbnail: 340310.jpeg
-exl-id: 6902443a-81b6-42d0-8fc1-0b7bf9ca52b9
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: f45ff2a5-f97a-45e6-b6c4-26064bebd854
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Die Leistungsfähigkeit einer intelligenten Kampagne
 
-In dieser Sitzung erfahren Sie alles über Smart-Kampagnen, einschließlich: Smart List - Trigger und Filter, Fluss, Zeitplan und Ergebnisse.
+In dieser Sitzung erfahren Sie alles über Smart-Kampagnen, einschließlich: Smart-Liste - Trigger und Filter, Fluss, Zeitplan und Ergebnisse.
 
 Sie werden diese Sitzung mit einem Verständnis dessen verlassen, was intelligente Kampagnen sind, wie sie eingesetzt werden, und Tipps und Tricks für Erfolg!
 

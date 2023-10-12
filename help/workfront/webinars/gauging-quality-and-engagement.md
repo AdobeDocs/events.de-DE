@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9914
-exl-id: 50dbcdf4-2e5d-420b-975e-1e3e683356fd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 76a8e418-71c7-414a-9938-e64e4e73c184
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '1211'
 ht-degree: 1%
@@ -100,7 +100,7 @@ Wenn Sie davon sprechen, eine Spalte ganz oben in der Liste der Textmodus-Spalte
 
 Wenn Sie den Bericht jedoch bereits erstellt haben, wobei die erste Spalte einige gemeinsame Spalten enthält, und Sie eine weitere gemeinsame Spalte ganz oben auf der Liste platzieren möchten, ist dies einfacher.
 
-Fügen Sie im Berichtseditor einfach einige neue Spalten hinzu und ziehen Sie sie ganz links in den Bildschirm Spalten (Ansicht). Nachdem Sie dies getan haben, sehen Sie, was früher die linke Spalte war, und Sie werden feststellen, dass die Spaltenzahlen im Textmodus inkrementiert wurden. Ziehen Sie so viele leere Spalten dorthin, wie Sie benötigen. Stellen Sie sicher, dass Sie etwas in diese leeren Spalten einfügen, bevor Sie es speichern, sonst werden sie entfernt.
+Fügen Sie im Berichtseditor einfach einige neue Spalten hinzu und ziehen Sie sie ganz links in den Bildschirm &quot;Spalten (Ansicht)&quot;. Nachdem Sie dies getan haben, sehen Sie, was früher die linke Spalte war, und Sie werden feststellen, dass die Spaltenzahlen im Textmodus inkrementiert wurden. Ziehen Sie so viele leere Spalten dorthin, wie Sie benötigen. Stellen Sie sicher, dass Sie etwas in diese leeren Spalten einfügen, bevor Sie es speichern, sonst werden sie entfernt.
 
 **Frage**
 
@@ -114,7 +114,7 @@ Sie können auch nach Anforderungswarteschlangen filtern. Möglicherweise möcht
 
 **Frage**
 
-Die ersten Berichte basieren auf Projekten/Projektnamen, können dies auch für Aufgaben durchgeführt werden und wenn ja, wie man sie am besten gruppiert, da der Aufgabenname möglicherweise öfter als nicht anders lautete..Danke!
+Die ersten Berichte basieren auf Projekten/Projektnamen, können dies auch für Aufgaben durchgeführt werden und wenn ja, wie man sie am besten gruppiert, da der Aufgabenname möglicherweise öfter als nicht anders wäre.. Danke!
 
 **Antwort**
 
@@ -124,7 +124,7 @@ Eine gängige Möglichkeit, Aufgaben zu gruppieren, besteht darin, sie zunächst
 
 **Frage**
 
-Ich möchte wissen, mit welchen Testsendungen, mit welchen Aufgaben und Projekten sie verbunden sind, wann sie weitergeleitet wurden, wann sie fällig sind und wer Moderator und Genehmiger ist.
+Ich möchte wissen, welche Testsendungen herausragend sind, welche Aufgabe und welches Projekt sie verbinden, wann sie weitergeleitet wurden, wann sie fällig sind und wer Moderator und Genehmiger ist.
 
 **Antwort**
 

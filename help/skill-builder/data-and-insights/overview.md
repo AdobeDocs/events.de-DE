@@ -1,15 +1,15 @@
 ---
 title: Skill Builder - Überblick
 description: Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online- und Offline-Dateneinblicken in Ihrer gesamten Organisation.
-exl-id: dbb8c5dc-596d-4f89-8a81-3ea201dd4b6b
-source-git-commit: d2a3a5edcdf1aa38a0d0daf469a6e83d4e0b996b
+exl-id: 8fd59178-ed35-4781-9bca-6438ba80d44d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 6%
 
 ---
 
-# Daten und Einblicke
+# Daten und Erkenntnisse
 
 Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online- und Offline-Dateneinblicken in Ihrer gesamten Organisation.
 
@@ -40,7 +40,7 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
       </a>
     </div>
     <p>
-    <em>In dieser Keynote-Sitzung erfahren Sie mehr über die wichtigsten Trends in D&amp;I. Lassen Sie sich von uns erforschen, wie Sie Ihre Daten sinnvoll nutzen können, indem Sie Ihre Experience Cloud-Investitionen maximieren und einen Blick in neue Innovationen werfen.</em>
+    <em>In dieser Keynote-Sitzung erfahren Sie mehr über die wichtigsten Trends in D&amp;I. Lernen Sie, wie Sie Ihre Experience Cloud-Investitionen optimal nutzen können, und lassen Sie sich mit uns in Verbindung setzen, um neue Innovationen zu entwickeln.</em>
     <p>
   </td>  
   <td>

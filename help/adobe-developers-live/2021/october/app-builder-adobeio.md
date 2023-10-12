@@ -1,14 +1,14 @@
 ---
 title: Eine Übersicht über Adobe Exchange, den Entwicklermarkt von Drittanbietern
-description: Erfahren Sie, wie Sie eine Service-to-Service-Integration in der Developer Console erstellen, sie in der Admin Console verwalten und eine öffentliche Anwendungsliste in Adobe Exchange veröffentlichen. Nachdem wir eine Verbindung zu einer Adobe-API hergestellt haben, werden wir die Schritte zur Registrierung als Adobe Exchange Partner, zur Erstellung einer öffentlichen Liste, zum Einreichen zur Genehmigung und zur Veröffentlichung durchlaufen.
+description: Erfahren Sie, wie Sie eine Service-to-Service-Integration in der Developer Console erstellen, sie in der Admin Console verwalten und eine öffentliche Anwendungsliste auf Adobe Exchange veröffentlichen. Nachdem wir eine Verbindung zu einer Adobe-API hergestellt haben, gehen wir durch die Schritte zur Registrierung als Adobe Exchange Partner, zur Erstellung einer öffentlichen Liste, zum Einreichen und Veröffentlichen der Liste.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Experienced
 kt: 9220
 type: Event
-exl-id: e5d8a8fc-20aa-416d-986a-765a756077b6
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e9a57c6d-8b98-4d9b-8967-b9ebfadf5d37
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 18%
@@ -17,7 +17,7 @@ ht-degree: 18%
 
 # Eine Übersicht über Adobe Exchange, den Entwicklermarkt von Drittanbietern
 
-Erfahren Sie, wie Sie eine Service-to-Service-Integration in der Developer Console erstellen, sie in der Admin Console verwalten und eine öffentliche Anwendungsliste in Adobe Exchange veröffentlichen. Nachdem wir eine Verbindung zu einer Adobe-API hergestellt haben, werden wir die Schritte zur Registrierung als Adobe Exchange Partner, zur Erstellung einer öffentlichen Liste, zum Einreichen zur Genehmigung und zur Veröffentlichung durchlaufen.
+Erfahren Sie, wie Sie eine Service-to-Service-Integration in der Developer Console erstellen, sie in der Admin Console verwalten und eine öffentliche Anwendungsliste auf Adobe Exchange veröffentlichen. Nachdem wir eine Verbindung zu einer Adobe-API hergestellt haben, gehen wir durch die Schritte zur Registrierung als Adobe Exchange Partner, zur Erstellung einer öffentlichen Liste, zum Einreichen und Veröffentlichen der Liste.
 
 Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/3ooiltm)**.
 

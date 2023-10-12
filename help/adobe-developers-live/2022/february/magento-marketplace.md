@@ -5,8 +5,8 @@ role: User
 level: Beginner
 kt: 9788
 thumbnail: 340626.jpeg
-exl-id: 669d8140-40db-4024-9968-3fca674b73cd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 16b8d3e2-fef0-4f90-b08d-39b087eed7d6
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Verbrauchsbasierte Lösungen im Magento Marketplace
 
-Handelsdienstleistungen, die auf strategischen Partnerschaften basieren, bieten Magento Open Source-Händlern branchenführende Lösungen, um ein nahtloses Kundenerlebnis zu bieten. Unter Berücksichtigung des Verbrauchs erleichtert die Adobe den Start kleiner Betriebssysteme, die Steigerung ihrer Nutzung und der Kosten im Laufe der Zeit und beschleunigt gleichzeitig ihr Wachstum. Wir führen Sie durch, wie Zahlungsdienste und zukünftige Erweiterungen von Commerce-Dienstleistungen Entwicklungszeit sparen und kostengünstige und einheitliche Lösungen aus der Adobe bieten.
+Handelsdienstleistungen, die auf strategischen Partnerschaften basieren, bieten Magento Open Source-Händlern branchenführende Lösungen, um ein nahtloses Kundenerlebnis zu bieten. Unter Berücksichtigung des Verbrauchs erleichtert Adobe es Betriebssystemen, klein zu beginnen, ihre Nutzung und Kosten zu erhöhen und gleichzeitig ihr Wachstum zu beschleunigen. Wir führen Sie durch, wie Zahlungsdienste und zukünftige Erweiterungen von Commerce-Dienstleistungen Entwicklungszeit sparen und kostengünstige und einheitliche Lösungen von Adobe bereitstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340626/?quality=12&learn=on)

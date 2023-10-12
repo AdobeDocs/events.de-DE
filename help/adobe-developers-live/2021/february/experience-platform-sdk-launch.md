@@ -11,8 +11,8 @@ level: Intermediate
 kt: 7179
 type: Event
 thumbnail: 331761.jpg
-exl-id: 93ee54d3-b522-47c8-91f9-eb9f9487afc9
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 86dd2104-fad4-4ad7-bf25-e76efa753a5d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://a
 
 >[!VIDEO](https://video.tv.adobe.com/v/331761/?quality=12&learn=on&hidetitle=true)
 
-Klicken **[here](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** für die Sitzungsfolien.
+Klicks **[here](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** für die Sitzungsfolien.

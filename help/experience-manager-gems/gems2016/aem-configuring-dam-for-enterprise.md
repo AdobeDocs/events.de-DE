@@ -5,8 +5,8 @@ uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
-exl-id: 4d9bd5a8-9052-42e6-87df-2c1bdfce575a
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 6c87ff99-3c15-4e15-a0b5-d9f72ff641c5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 81%
@@ -42,4 +42,3 @@ Die Teilnehmer werden dann besser verstehen, wie sie das DAM in ihrer Umgebung e
 >Informationen zu dieser Sitzung finden Sie unter *Versionshinweise zur Desktop App* in der Dokumentation zu AEM 6.2.
 
 * [Aktualisierungen der Dokumentation zu AEM Assets](https://docs.adobe.com/content/docs/de/aem/recent-documentation-updates.html)
-

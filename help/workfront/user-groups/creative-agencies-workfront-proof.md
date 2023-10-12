@@ -5,15 +5,15 @@ role: User
 level: Beginner, Intermediate
 kt: 9999
 thumbnail: 341411.jpeg
-exl-id: 02e598a3-3874-4dd7-b17b-0bf663d1e077
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 49e5bb0c-ffc5-4744-a272-4bba1c170fa7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
 
 ---
 
-# Kreativagenturen: Workfront-Testversand (11. August 2020)
+# Kreativagenturen: Workfront Proof (11. August 2020)
 
 Hören Sie sich Cindy Reichert an, wie Brown-Forman Workfront Proof nutzt.
 

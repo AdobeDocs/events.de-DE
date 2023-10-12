@@ -2,8 +2,8 @@
 title: Adobe Developers Live Oktober 2021
 description: Eine Sammlung von Videos und Tutorials für Adobe Experience Manager Sites, die im Rahmen des Adobe Developers Live-Ereignisses bereitgestellt werden.
 sub-product: sites, content-services
-exl-id: 0ad75a56-d7d1-401c-9a3f-c45fc2c78036
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: e6ebda58-dd9f-4d27-9f94-0233fc98d3c0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 26%
@@ -14,9 +14,9 @@ ht-degree: 26%
 
 <img alt="Adobe Developers Live" src="/help/adobe-developers-live/assets/adl.png" />
 
-Vom 4. bis 5. Oktober 2021 brachte Adobe Developers Live Adobe-Entwickler und Erlebnisentwickler mit unterschiedlichem Hintergrund und einem besonderen Zweck zusammen - um unglaubliche End-to-End-Erlebnisse zu schaffen. Auf dieser zweitägigen Konferenz wurden wichtige Entwickleraktualisierungen, technische Sitzungen und Community-Netzwerkmöglichkeiten vorgestellt.
+Vom 4. bis 5. Oktober 2021 brachte Adobe Developers Live Adobe-Entwickler und Erlebnisentwickler mit unterschiedlichem Hintergrund und einem einzigartigen Ziel zusammen - um unglaubliche End-to-End-Erlebnisse zu schaffen. Auf dieser zweitägigen Konferenz wurden wichtige Entwickleraktualisierungen, technische Sitzungen und Community-Netzwerkmöglichkeiten vorgestellt.
 
-Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud präsentierten die neuesten technologischen Fortschritte und Entwicklertools, die Design-, Content-Erstellungs-Workflows, Dokumentendienste und Customer Experience Management branchenübergreifend ermöglichen.
+Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud präsentierten die neuesten technologischen Fortschritte und Entwicklertools, die Design, Content-Erstellungs-Workflows, Dokumentendienste und Customer Experience Management branchenübergreifend ermöglichen.
 
 Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Gesprächen in Experience League Communities teil.
 * [Adobe Developer App Builder Vollständige Sitzungsliste](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
@@ -77,7 +77,7 @@ Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Gesprächen in 
 
 ### AEM
 
-* [Experience League - AEM](https://experienceleague.adobe.com/?lang=de#recommended/solutions/experience-manager)
+* [EXPERIENCE LEAGUE - AEM](https://experienceleague.adobe.com/?lang=de#recommended/solutions/experience-manager)
 * [AEM Sites Authoring - Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=de)
 * [AEM Sites-Entwicklungsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=de)
 * [Dokumentation zur Verwaltung von AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=de)

@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7341
-exl-id: 49ba105c-5a16-46dd-9457-dc065bada876
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 01149450-8d92-4ea8-a048-86559dd323b7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 6%
@@ -22,7 +22,7 @@ ht-degree: 6%
 
 # Dynamic Media - Adobe Experience Manager Asset Series
 
-Nutzen Sie diese fünfteilige Webinarreihe, um Ihre Wissensgrundlage zu schaffen und Ihre Investition in Adobe Experience Manager Assets zu maximieren. Wenn Sie ein Praktiker sind, der neu bei Adobe Experience Manager Assets ist oder seit einiger Zeit Adobe Experience Manager Assets verwendet und Ihre vorhandenen Fähigkeiten optimieren möchte, ist dies der ideale Weg, um einen tiefen Einblick in fünf der wichtigsten Lösungsbereiche zu erhalten. Experten für Adobe werden die Grundlagen überprüfen und Ihnen erweiterte Einblicke bieten, damit Sie sofort umsetzbare nächste Schritte durchführen können.
+Nutzen Sie diese fünfteilige Webinarreihe, um Ihre Wissensgrundlage zu schaffen und Ihre Investition in Adobe Experience Manager Assets zu maximieren. Wenn Sie ein Praktiker sind, der neu bei Adobe Experience Manager Assets ist oder seit einiger Zeit Adobe Experience Manager Assets verwendet und Ihre vorhandenen Fähigkeiten optimieren möchte, ist dies der ideale Weg, um einen tiefen Einblick in fünf der wichtigsten Lösungsbereiche zu erhalten. Adobe-Experten werden die Grundlagen überprüfen und Ihnen erweiterte Einblicke geben, die Ihnen umsetzbare nächste Schritte ermöglichen, die Sie sofort umsetzen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 

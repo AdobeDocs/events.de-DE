@@ -1,7 +1,8 @@
 ---
 title: Adobe [!DNL Campaign] Insider-Reihe
-description: Tipps und Tricks und Anregungen für Adoben [!DNL Campaign] -Kunden, um sie bei der Entwicklung kanalübergreifender Marketingstrategien, der Verbesserung der Kenntnisse von Marketing-Experten im Team und der Unterstützung von Unternehmen beim Start fortschrittlicherer kanalübergreifender Marketingstrategien zu unterstützen.
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+description: Tipps und Tricks und Anregungen für Adobe [!DNL Campaign] -Kunden, um sie bei der Entwicklung kanalübergreifender Marketingstrategien, der Verbesserung der Kenntnisse von Marketing-Experten im Team und der Unterstützung von Unternehmen beim Start fortschrittlicherer kanalübergreifender Marketingstrategien zu unterstützen.
+exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 10%
@@ -10,7 +11,7 @@ ht-degree: 10%
 
 # Adobe [!DNL Campaign] Insider-Reihe
 
-Tipps und Tricks und Anregungen für Adoben [!DNL Campaign] -Kunden, um sie bei der Entwicklung kanalübergreifender Marketingstrategien, der Verbesserung der Kenntnisse von Marketing-Experten im Team und der Unterstützung von Unternehmen beim Start fortschrittlicherer kanalübergreifender Marketingstrategien zu unterstützen.
+Tipps und Tricks und Anregungen für Adobe [!DNL Campaign] -Kunden, um sie bei der Entwicklung kanalübergreifender Marketingstrategien, der Verbesserung der Kenntnisse von Marketing-Experten im Team und der Unterstützung von Unternehmen beim Start fortschrittlicherer kanalübergreifender Marketingstrategien zu unterstützen.
 
 >[!TIP]
 >

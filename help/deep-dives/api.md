@@ -1,6 +1,6 @@
 ---
 title: APIs
-description: Erfahren Sie, wie Sie die Adobe Marketo-API nutzen, wie Sie Grundlinienverbindungen bilden, bewegte Erweiterungen nutzen und Ihre ersten API-Aufrufe durchführen können. Erfahren Sie mehr über Webhooks vs. API, damit Sie wissen, welches Tool in Ihrer Lösung am besten angewendet wird. Erfahren Sie mehr über die Best Practices für die Sicherheit, einschließlich der Minimierung Ihrer Berechtigungssätze. Integrieren Sie in die Cloud, nutzen Sie Speicher, nutzen Sie die Leistung der Bulk-API für Import-/Exportaufgaben.
+description: Erfahren Sie, wie Sie die Adobe Marketo-API nutzen, wie Sie Grundlinien-Verbindungen erstellen, Bergfahrerweiterungen nutzen und Ihre ersten API-Aufrufe durchführen können. Erfahren Sie mehr über Webhooks vs. API, damit Sie wissen, welches Tool in Ihrer Lösung am besten angewendet wird. Erfahren Sie mehr über die Best Practices für die Sicherheit, einschließlich der Minimierung Ihrer Berechtigungssätze. Integrieren Sie in die Cloud, nutzen Sie Speicher, nutzen Sie die Leistung der Bulk-API für Import-/Exportaufgaben.
 solution: Marketo Engage
 role: Admin, Architect, Developer, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Value Video
 last-substantial-update: 2023-08-07T00:00:00Z
 jira: KT-13773
 thumbnail: 3422479.jpeg
-source-git-commit: ec7e7cd800b0e3c78c259de4211190a090009c4d
+exl-id: 9620a016-8e4a-4cd9-9d63-2a731e0f226c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 3%
 
 ---
-
 
 # APIs
 

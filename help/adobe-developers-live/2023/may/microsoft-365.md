@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-05-27T00:00:00Z
 jira: KT-13358
 thumbnail: 3419945.jpeg
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+exl-id: fc3f0acb-cf81-4994-9ad4-ee2b00e10be8
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
 
 ---
-
 
 # Entwickeln einer guten Editor-Erfahrung mit Microsoft 365/Google Workspace
 

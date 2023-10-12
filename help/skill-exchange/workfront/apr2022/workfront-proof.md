@@ -6,8 +6,8 @@ role: User
 level: Intermediate, Experienced
 kt: 10315
 thumbnail: 342525.jpeg
-exl-id: 0dd2956c-2938-437b-877b-c53c297e93dd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 351b1ed4-ec55-43b0-9498-02da440ba593
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Verwenden Sie Workfront-Testsendungen für Prüfungs- und Genehmigungs-Workflows in Ihrem Unternehmen? Sie möchten wissen, wie Sie das Werkzeug optimal nutzen können und was wir für die Zukunft geplant haben? Caroline Ossmann, Produktmanager bei Adobe Workfront for Proof, wird folgende Themen gemeinsam nutzen:
 
-* Neuerungen
+* Highlights der letzten Innovationen
 * Beispiele dafür, wie wir unsere Kunden mithilfe von Testversand sehen
 * Ideen zur Verbesserung Ihres allgemeinen Prüfungs- und Genehmigungsprozesses
 * Was steht auf dem Fahrplan für das nächste Jahr (und darüber hinaus)?

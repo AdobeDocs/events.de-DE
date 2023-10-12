@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9913
-exl-id: 5993c6c3-0583-4d1c-94aa-2e64a699e7f1
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 49cce53f-457b-4973-a0d9-1b5ce2272884
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '2224'
 ht-degree: 1%
@@ -49,7 +49,7 @@ Im Webinar werden einige Ideen für benutzerdefinierte Eingabeaufforderungen erw
 
 **Frage**
 
-Wenn ich vier Kategorien in meinem Mix habe, kann ich dann für jeden ein Ziel erstellen und dann über die Unterschiede zwischen Prognose vs. Plan vs. tatsächlichen Werten berichten? (4 Kategorien: Campaign, Business Unit, Web und Produkt). Die Kategorien befinden sich auf Projektebene in benutzerdefinierten Formularen/Feldern. Ziel wäre die Erstellung einer vierteljährlichen Prognose (Budget/Prognose) und die anschließende Verfolgung der geplanten und letztlich tatsächlichen Stunden.
+Wenn ich vier Kategorien in meinem Mix habe, kann ich dann für jeden ein Ziel erstellen und dann über die Unterschiede zwischen Prognose vs. Plan vs. tatsächlichen Werten berichten? (4 Kategorien: Kampagne, Geschäftseinheit, Web und Produkt). Die Kategorien befinden sich auf Projektebene in benutzerdefinierten Formularen/Feldern. Ziel wäre die Erstellung einer vierteljährlichen Prognose (Budget/Prognose) und die anschließende Verfolgung der geplanten und letztlich tatsächlichen Stunden.
 
 **Antwort**
 
@@ -146,7 +146,7 @@ Stehen die Daten für das Dashboard zur Teamkapazität jedem zur Verfügung, fü
 
 **Antwort**
 
-Wenn ein Benutzer nicht über die Berechtigung zum Anzeigen des Objekts verfügt, ist es im Bericht/Dashboard nicht sichtbar. Wenn Sie jedoch möchten, dass alle die gleichen Ergebnisse sehen, können Sie &quot;Berichtaktionen&quot;> &quot;Bearbeiten&quot;> &quot;Berichtseinstellungen&quot;aufrufen und in das Feld &quot;Diesen Bericht mit Zugriffsrechten ausführen&quot;eingeben. Dadurch können die Benutzer, die für diesen Bericht freigegeben sind, die genauen Ergebnisse sehen, die Ihnen angezeigt werden. Sie erhalten keinen zusätzlichen Zugriff auf das Ergebnis selbst, sodass einige Ergebnisse angeklickt werden können oder nicht.
+Wenn ein Benutzer nicht über die Berechtigung zum Anzeigen des Objekts verfügt, ist es nicht im Bericht/Dashboard sichtbar. Wenn Sie jedoch möchten, dass alle die gleichen Ergebnisse sehen, können Sie &quot;Berichtaktionen&quot;> &quot;Bearbeiten&quot;> &quot;Berichtseinstellungen&quot;aufrufen und in das Feld &quot;Diesen Bericht mit Zugriffsrechten ausführen&quot;eingeben. Dadurch können die Benutzer, die für diesen Bericht freigegeben sind, die genauen Ergebnisse sehen, die Ihnen angezeigt werden. Sie erhalten keinen zusätzlichen Zugriff auf das Ergebnis selbst, sodass einige Ergebnisse angeklickt werden können oder nicht.
 
 **Frage**
 
@@ -168,13 +168,13 @@ valueformat=HTML
 
 **Frage**
 
-Ich möchte einen Bericht/ein Dashboard haben, der bzw. das die Funktionsweise meines Teams beinhaltet. Insbesondere die folgenden Szenarien: - Projekte, deren Inhaber ich bin/Projekte, die für mich erstellt wurden/Aufgaben, die ich anderen zugewiesen habe/Aufgaben, die mir zugewiesen sind
+Ich möchte einen Bericht/ein Dashboard haben, der bzw. das die Funktionsweise meines Teams beinhaltet. Insbesondere die folgenden Szenarien: - Projekte, deren Inhaber ich bin / Für mich erstellte Projekte / Aufgaben, die ich anderen zugewiesen habe / Aufgaben, die mir zugewiesen sind
 
 **Antwort**
 
 Projekte, die ich besitze
 
-Es gibt einen integrierten Bericht mit dem Namen &quot;Aktuelle Projekte&quot;, der alle aktuellen Projekte anzeigt. Sie können dieses Projekt bearbeiten und eine Filterregel hinzufügen: Projekt > Eigentümer-ID > Gleich > $$USER.IDTspeichern und den Bericht in &quot;Projekte, die ich besitze&quot;umbenennen.
+Es gibt einen integrierten Bericht mit dem Namen &quot;Aktuelle Projekte&quot;, in dem alle aktuellen Projekte angezeigt werden. Sie können dieses Projekt bearbeiten und eine Filterregel hinzufügen: Projekt > Eigentümer-ID > Gleich > $$USER.IDTspeichern und den Bericht in &quot;Projekte, die ich besitze&quot;umbenennen.
 
 Für mich erstellte Projekte
 

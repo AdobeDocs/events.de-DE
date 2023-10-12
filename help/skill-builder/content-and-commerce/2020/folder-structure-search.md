@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7338
-exl-id: f39da510-d4d6-447e-97cc-b3f9036e14ab
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b19bdea1-486a-400d-93b8-166f0f12d366
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 10%
@@ -22,7 +22,7 @@ ht-degree: 10%
 
 # Ordnerstruktur und Suche - Adobe Experience Manager Asset-Serie
 
-Nutzen Sie diese fünfteilige Webinarreihe, um Ihre Wissensgrundlage zu schaffen und Ihre Investition in Adobe Experience Manager Assets zu maximieren. Wenn Sie ein Praktiker sind, der neu bei Adobe Experience Manager Assets ist oder seit einiger Zeit Adobe Experience Manager Assets verwendet und Ihre vorhandenen Fähigkeiten optimieren möchte, ist dies der ideale Weg, um einen tiefen Einblick in fünf der wichtigsten Lösungsbereiche zu erhalten. Experten für Adobe werden die Grundlagen überprüfen und Ihnen erweiterte Einblicke bieten, damit Sie sofort umsetzbare nächste Schritte durchführen können.
+Nutzen Sie diese fünfteilige Webinarreihe, um Ihre Wissensgrundlage zu schaffen und Ihre Investition in Adobe Experience Manager Assets zu maximieren. Wenn Sie ein Praktiker sind, der neu bei Adobe Experience Manager Assets ist oder seit einiger Zeit Adobe Experience Manager Assets verwendet und Ihre vorhandenen Fähigkeiten optimieren möchte, ist dies der ideale Weg, um einen tiefen Einblick in fünf der wichtigsten Lösungsbereiche zu erhalten. Adobe-Experten werden die Grundlagen überprüfen und Ihnen erweiterte Einblicke geben, die Ihnen umsetzbare nächste Schritte ermöglichen, die Sie sofort umsetzen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 

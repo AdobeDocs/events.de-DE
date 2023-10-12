@@ -1,12 +1,12 @@
 ---
 title: Öffnungs-Keynote
-description: Das Entwicklungs-Ökosystem war immer entscheidend für den Erfolg von Magento, und das ist für Adobe Commerce und Magento Open Source heute nicht anders. Kick-off ... (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
+description: Das Entwickler-Ökosystem war immer für den Erfolg von Magento entscheidend, und das ist für Adobe Commerce und Magento Open Source heute nicht anders. Kick-off ... (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 role: User
 level: Beginner
 kt: 9791
 thumbnail: 340620.jpeg
-exl-id: 52a9fcb0-2e87-4413-9dae-01cf7329ec7a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: ea60443b-4736-490f-aeed-316d730037a1
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Öffnungs-Keynote
 
-Das Entwicklungs-Ökosystem war immer entscheidend für den Erfolg von Magento, und das ist für Adobe Commerce und Magento Open Source heute nicht anders. Starten Sie einen aufregenden Tag mit informativen Inhalten und nachdenklichen Diskussionen, in dem die Vision der Adobe für die Plattform, die Entwicklung von Open Source und bevorstehende Verbesserungen bei Entwicklererlebnissen, Erweiterbarkeit, Benutzererlebnisentwicklung und Best Practices für die Site-Wartung enthalten sind.
+Das Entwickler-Ökosystem war immer für den Erfolg von Magento entscheidend, und das ist für Adobe Commerce und Magento Open Source heute nicht anders. Beginnen Sie einen spannenden Tag mit informativen Inhalten und eindringlichen Diskussionen, die unter anderem die Adobe Vision für die Plattform, die Weiterentwicklung von Open Source und bevorstehende Verbesserungen bei Entwicklererlebnissen, Erweiterbarkeit, Benutzererlebnisentwicklung und Best Practices für die Site-Wartung beinhalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340620/?quality=12&learn=on)

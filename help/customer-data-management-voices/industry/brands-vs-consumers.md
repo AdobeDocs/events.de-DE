@@ -1,6 +1,6 @@
 ---
 title: Eine Geschichte von zwei Wahrnehmungen – Marken vs. Verbraucher
-description: Adobe macht das Verständnis und die Bereitschaft von Werbetreibenden und Werbetreibenden für eine Zukunft ohne Cookies, die Auswirkungen auf ihre Anwendungsfälle und deren Wahrnehmung des Ökosystems insgesamt deutlich.
+description: Adobe entpackt das Verständnis und die Bereitschaft von Werbetreibenden und Werbetreibenden für eine Zukunft ohne Cookies, die Auswirkungen auf ihre Anwendungsfälle und ihre Wahrnehmung des umfassenderen Ökosystems.
 solution: Real-Time Customer Data Platform
 feature: Identities
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -9,8 +9,8 @@ doc-type: Event
 thumbnail: 332060.jpg
 kt: 7335
 type: Event
-exl-id: e97f13cf-091c-4726-b1b1-e0f683fea93a
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: 9736dd6f-ff33-41b5-80d6-1bb981bfc0b7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 16%
@@ -19,7 +19,7 @@ ht-degree: 16%
 
 # Eine Tabelle mit zwei Wahrnehmungen: Marken vs. Verbraucher
 
-Für Marketing-Fachleute können heutzutage die Informationen zu Identitätspraktiken recht unübersichtlich sein. Und nur 37% der Marketingfachleute gaben an, sie seien für eine Zukunft ohne Cookies gerüstet, wie aktuelle Forschungsergebnisse aus der Adobe und [!DNL Advanis]. In dieser Webinar-Adobe werden das Verständnis und die Bereitschaft von Werbetreibenden und Werbetreibenden für eine Cookie-lose Zukunft, die Auswirkungen auf ihre Anwendungsfälle und deren Wahrnehmung des Ökosystems insgesamt aufgezeigt.
+Für Marketing-Fachleute können heutzutage die Informationen zu Identitätspraktiken recht unübersichtlich sein. Und nur 37% der Marketingfachleute gaben an, dass sie für eine Zukunft ohne Cookie gerüstet sind, wie aktuelle Forschungsergebnisse von Adobe und [!DNL Advanis]. In diesem Webinar entpackt Adobe das Verständnis und die Bereitschaft von Werbetreibenden und Werbetreibenden für eine Cookie-lose Zukunft, die Auswirkungen auf ihre Anwendungsfälle und ihre Wahrnehmung des weiteren Ökosystems.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332060/?quality=12&learn=on)
 

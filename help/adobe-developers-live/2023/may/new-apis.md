@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-05-27T00:00:00Z
 jira: KT-13354
 thumbnail: 3419946.jpeg
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+exl-id: 780834cf-fca5-4e3e-8f51-05744749222e
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
 
 ---
-
 
 # API-Tour - Lernen Sie die neuen APIs kennen, die wir in den letzten 6 Monaten ausgeliefert haben
 

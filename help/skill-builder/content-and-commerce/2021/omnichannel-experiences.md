@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 8935
-exl-id: a9a70885-9a3e-4699-8987-c11893f2bc92
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 0901bbc1-38bf-4c57-9680-77c7d82d24d4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 3%
@@ -22,7 +22,7 @@ ht-degree: 3%
 
 # Grundlagen zu Adobe Experience Manager Sites
 
-In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen können. Wir beginnen mit den Bausteinen der Inhaltsbearbeitung und stellen Ihnen die grundlegenden Konzepte und Vorgänge vor. Dazu gehören Sites-Admin-Funktionen und Grundlagen zum Umgang mit digitalen Assets in AEM. Im späteren Teil der Serie finden Sie Funktionen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie die Inhalte wiederverwenden und kanalübergreifend bereitstellen.
+In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen. Wir beginnen mit den Bausteinen der Inhaltsbearbeitung und stellen Ihnen die grundlegenden Konzepte und Vorgänge vor. Dazu gehören Sites-Admin-Funktionen und Grundlagen zum Umgang mit digitalen Assets in AEM. Im späteren Teil der Serie finden Sie Funktionen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie die Inhalte wiederverwenden und kanalübergreifend bereitstellen.
 
 ## Inhalt für ANYWHERE - Umsetzung von Omnichannel-Erlebnissen
 

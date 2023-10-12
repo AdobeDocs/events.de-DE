@@ -8,8 +8,8 @@ level: Beginner
 last-substantial-update: 2022-10-31T00:00:00Z
 kt: 11371
 thumbnail: 3410646.jpeg
-exl-id: 857c5b59-fc03-42ed-aed0-506c761cda37
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: e9c1249c-8584-43f9-a6d2-b98c6ad218f9
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Sie werden von Daniel Rios (Senior Manager, Product Management) hören, der folg
 
 * Daten in Werte umwandeln
 * Aufbau einer soliden Datenbasis
-* Kombinieren von MBI und [!DNL Analytics] data
+* MBI und [!DNL Analytics] data
 
 Sie werden auch eine Live-Demo der Plattform sehen, um diese Konzepte zum Leben zu erwecken.
 

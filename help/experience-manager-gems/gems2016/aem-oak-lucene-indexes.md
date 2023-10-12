@@ -4,8 +4,8 @@ description: Wir beschreiben die Eigenschaften der Oak Lucene-Indizes und wie si
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
-exl-id: 671b41ee-851b-460b-86d9-8b3a24587408
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: ed0e32b3-44bc-4e45-a80e-f9cfd0688e80
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 70%

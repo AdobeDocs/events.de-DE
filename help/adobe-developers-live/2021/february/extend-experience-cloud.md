@@ -8,8 +8,8 @@ level: Experienced
 kt: 7189
 type: Event
 thumbnail: 331852.jpg
-exl-id: fe442380-d52d-4718-84ff-fec4011ae8f2
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: d81729f3-be66-4f68-8f23-b9ca55c1154c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -24,4 +24,4 @@ Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://a
 
 >[!VIDEO](https://video.tv.adobe.com/v/331852/?quality=12&learn=on&hidetitle=true)
 
-Klicken **[here](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** für die Sitzungsfolien.
+Klicks **[here](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** für die Sitzungsfolien.

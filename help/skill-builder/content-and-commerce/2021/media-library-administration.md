@@ -1,6 +1,6 @@
 ---
 title: Verschwenden Sie keine Zeit, um Inhalte erneut zu finden.
-description: Werden Sie ein erfahrener Autor mit einem tiefen Einblick in die Benutzeroberfläche für AEM Sites und die Media Library-Verwaltung, mit Tipps und Tricks, um Ihre tägliche Effizienz zu steigern
+description: Werden Sie ein erfahrener Autor mit einem tiefen Einblick in die Benutzeroberfläche für AEM Sites und die Media Library-Verwaltung, mit Tipps und Tricks zur Steigerung der täglichen Effizienz.
 solution: Experience Manager, Experience Manager Sites
 feature-set: Experience Manager Assets
 product: experience manager
@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 8937
-exl-id: bed98c10-bc95-4981-863c-3756f06996c2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: f92344ca-9c74-4205-968c-b12a58bae241
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 2%
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 # Grundlagen zu Adobe Experience Manager Sites
 
-In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen können. Wir beginnen mit den Bausteinen der Inhaltsbearbeitung und stellen Ihnen die grundlegenden Konzepte und Vorgänge vor. Dazu gehören Sites-Admin-Funktionen und Grundlagen zum Umgang mit digitalen Assets in AEM. Im späteren Teil der Serie finden Sie Funktionen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie die Inhalte wiederverwenden und kanalübergreifend bereitstellen.
+In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen. Wir beginnen mit den Bausteinen der Inhaltsbearbeitung und stellen Ihnen die grundlegenden Konzepte und Vorgänge vor. Dazu gehören Sites-Admin-Funktionen und Grundlagen zum Umgang mit digitalen Assets in AEM. Im späteren Teil der Serie finden Sie Funktionen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie die Inhalte wiederverwenden und kanalübergreifend bereitstellen.
 
 ## Verschwenden Sie keine Zeit, um Inhalte erneut zu finden.
 

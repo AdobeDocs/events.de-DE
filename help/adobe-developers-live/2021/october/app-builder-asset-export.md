@@ -1,6 +1,6 @@
 ---
-title: Export von Adobe I/O Powered Experience Manager Assets
-description: In dieser Sitzung erhalten Sie einen Überblick über die Server-lose Adobe I/O-Plattform von "Events", "Actions to App Builder", auch aus der AEMaaCS-Perspektive, und erfahren, wie Adobe I/O bei der Implementierung von Anwendungsfällen wie dem Exportieren von Assets aus Adobe Experience Manager in externe Cloud-Speicher (Azure) oder Drittanbietersysteme (Marketo) entweder im Echtzeit- (Synchronisations-) oder Batch-Modus helfen kann.
+title: Adobe I/O Powered Experience Manager Assets Export
+description: In dieser Sitzung erhalten Sie einen Überblick über die Server-lose Adobe I/O-Plattform von "Events", "Actions to App Builder", auch aus der AEMaaCS-Perspektive, und erfahren, wie Adobe I/O bei der Implementierung von Anwendungsfällen wie dem Exportieren von Assets aus Adobe Experience Manager in externe Cloud-Speicher (Azure) oder Drittanbietersysteme (Marketo) entweder im Echtzeit- (Synchronisations-) oder Batch-Modus (async) helfen kann.
 solution: Experience Manager,Experience Manager Assets
 feature: Developer Tools
 topic: Development, Integrations
@@ -9,17 +9,17 @@ level: Experienced
 version: Cloud Service
 kt: 9218
 type: Event
-exl-id: ff56af62-8e02-43e9-bc65-bd97e04f3e79
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 38b5d4b1-f7ce-4540-a37b-c8f02321101c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 14%
 
 ---
 
-# Export von Adobe I/O Powered Experience Manager Assets
+# Adobe I/O Powered Experience Manager Assets Export
 
-In dieser Sitzung erhalten Sie einen Überblick über die Server-lose Adobe I/O-Plattform von &quot;Events&quot;, &quot;Actions to App Builder&quot;, auch aus der AEMaaCS-Perspektive, und erfahren, wie Adobe I/O bei der Implementierung von Anwendungsfällen wie dem Exportieren von Assets aus Adobe Experience Manager in externe Cloud-Speicher (Azure) oder Drittanbietersysteme (Marketo) entweder im Echtzeit- (Synchronisations-) oder Batch-Modus helfen kann.
+In dieser Sitzung erhalten Sie einen Überblick über die Server-lose Adobe I/O-Plattform von &quot;Events&quot;, &quot;Actions to App Builder&quot;, auch aus der AEMaaCS-Perspektive, und erfahren, wie Adobe I/O bei der Implementierung von Anwendungsfällen wie dem Exportieren von Assets aus Adobe Experience Manager in externe Cloud-Speicher (Azure) oder Drittanbietersysteme (Marketo) entweder im Echtzeit- (Synchronisations-) oder Batch-Modus (async) helfen kann.
 
 Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/3mkDXo6)**.
 

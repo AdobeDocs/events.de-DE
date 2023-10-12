@@ -10,8 +10,8 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-exl-id: 2b8158e3-3122-4ce6-ad0a-3124664fd0aa
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 9d5b5cd4-e401-43e1-a9ed-2c992decd45b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
@@ -32,7 +32,6 @@ Dieses Webinar wurde am 23. März 2022 abgehalten und von Duy Nguyen, Software D
 >
 >* [Entsprechender kontextueller Thread](https://adobe.ly/3LkSWdm)
 >* Registrieren Sie sich bei der [AEM-Benutzergruppe von Adobe](https://aem-augs.adobe.com/), um über bevorstehende Webinare informiert zu werden.
-
 
 
 <!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->

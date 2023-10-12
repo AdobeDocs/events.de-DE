@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-05-27T00:00:00Z
 jira: KT-13360
 thumbnail: 3419939.jpeg
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+exl-id: c7ac25f1-ec0d-4ba6-bc03-2ff393dd1699
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%
 
 ---
-
 
 # Eintauchen in AEM Kernkomponenten für E-Mail und Forms
 

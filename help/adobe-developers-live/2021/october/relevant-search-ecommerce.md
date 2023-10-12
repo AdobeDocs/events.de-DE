@@ -1,14 +1,14 @@
 ---
 title: Relevanz bei der Suche erzeugt ein relevantes E-Commerce-Erlebnis
-description: Die Site-Suche kann ein Geschäft auslösen. Bis zu einem Drittel des Traffics auf eine Site wird die Suche verwenden, und die Konversionsraten können für Benutzer der Site-Suche um 50 % höher sein. Die Live-Suche basiert ganz neu und konzentriert sich auf die Bereitstellung der relevantesten Ergebnisse mithilfe eines iterativen Ansatzes und der Nutzung von Adobe Sensei. In dieser Sitzung werden wir tief in die Errungenschaften eintauchen.
+description: Die Site-Suche kann ein Geschäft auslösen oder unterbrechen. Bis zu einem Drittel des Traffics auf eine Site wird die Suche verwenden, und die Konversionsraten können für Benutzer der Site-Suche um 50 % höher sein. Die Live-Suche basiert ganz neu und konzentriert sich auf die Bereitstellung der relevantesten Ergebnisse mithilfe eines iterativen Ansatzes und der Nutzung von Adobe Sensei. In dieser Sitzung werden wir tief in die Errungenschaften eintauchen.
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced
 kt: 9151
 type: Event
-exl-id: 5f6ef72e-20ea-410f-965d-200335bab9cb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: d1d39490-9ca1-4378-a856-a8aac0badd2e
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 18%
@@ -17,7 +17,7 @@ ht-degree: 18%
 
 # Relevanz bei der Suche erzeugt ein relevantes E-Commerce-Erlebnis
 
-Die Site-Suche kann ein Geschäft auslösen. Bis zu einem Drittel des Traffics auf eine Site wird die Suche verwenden, und die Konversionsraten können für Benutzer der Site-Suche um 50 % höher sein. Die Live-Suche basiert ganz neu und konzentriert sich auf die Bereitstellung der relevantesten Ergebnisse mithilfe eines iterativen Ansatzes und der Nutzung von Adobe Sensei. In dieser Sitzung werden wir tief in die Errungenschaften eintauchen.
+Die Site-Suche kann ein Geschäft auslösen oder unterbrechen. Bis zu einem Drittel des Traffics auf eine Site wird die Suche verwenden, und die Konversionsraten können für Benutzer der Site-Suche um 50 % höher sein. Die Live-Suche basiert ganz neu und konzentriert sich auf die Bereitstellung der relevantesten Ergebnisse mithilfe eines iterativen Ansatzes und der Nutzung von Adobe Sensei. In dieser Sitzung werden wir tief in die Errungenschaften eintauchen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337579/?quality=12&learn=on&hidetitle=true)
 

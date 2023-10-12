@@ -1,8 +1,8 @@
 ---
 title: Skill Builder - Journey
 description: Aufnahme einer Webinar-Reihe, die Sie bei der Entwicklung von Echtzeit-Kundenprofilen unterstützt, indem Daten aus allen Quellen abgerufen werden, um personalisierte, kanalübergreifende Journey zu erstellen.
-exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: a77be055-e53b-4062-9e02-ee589c0b0f4d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 9%
@@ -32,11 +32,11 @@ Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-      <img alt="Datenmodelle in Adobe entwickeln und anpassen [!DNL Campaign Classic]" src="assets/343829.jpeg" />
+      <img alt="Datenmodelle im Adobe entwickeln und anpassen [!DNL Campaign Classic]" src="assets/343829.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-        <strong>Datenmodelle in Adobe entwickeln und anpassen [!DNL Campaign Classic]</strong>
+        <strong>Datenmodelle im Adobe entwickeln und anpassen [!DNL Campaign Classic]</strong>
       </a>
     </div>
     <p>

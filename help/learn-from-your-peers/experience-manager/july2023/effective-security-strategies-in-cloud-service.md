@@ -12,17 +12,17 @@ doc-type: Event
 last-substantial-update: 2023-07-20T00:00:00Z
 jira: KT-13708
 thumbnail: KT-13708.jpeg
-source-git-commit: e52d34d59b96fcde3e964733c3cfec49f0a46cff
+exl-id: ffac5c39-a1db-4533-947f-609e4d8dc7b4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-
 # Effektive Sicherheitsstrategien im Cloud Service On-Demand-Webinar
 
-Unternehmen haben sich zunehmend auf Cloud-basierte Lösungen umgestellt. Es ist wichtig sicherzustellen, dass Ihre digitalen Erlebnisse sicher und geschützt sind. Treten Sie Adobe Experience Manager Customer Champion, Rami El Gamal, bei, da er verschiedene Sicherheitsaspekte in AEM Cloud Service behandelt, darunter:
+Unternehmen haben sich zunehmend auf Cloud-basierte Lösungen umgestellt. Es ist wichtig sicherzustellen, dass Ihre digitalen Erlebnisse sicher und geschützt sind. Treten Sie Adobe Experience Manager Customer Champion, Rami El Gamal, bei, da er verschiedene Sicherheitsaspekte in AEM Cloud Service erörtert, darunter:
 
 * Erstellen von Benutzern mit IMS und Zuweisen unterschiedlicher Rollen und Zuständigkeiten
 * Einrichten von Cloud Manager-Zugriff für Bereitstellungen und Repository-Zugriff

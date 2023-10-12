@@ -1,19 +1,19 @@
 ---
 title: Stimmen im Customer Data Management
 description: Ihr Ziel als technisches und Marketing-Praxisleiter und -Spezialist für das Kundendatenmanagement.  Diese Seite ist Ihre zentrale Anlaufstelle, um von Ihren Kollegen zu hören, sich inspirieren zu lassen und über Entwicklungen im Bereich Martech zu erfahren.
-exl-id: 44e1b706-d216-4ffe-8cbf-b352fc34de54
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 18%
+ht-degree: 19%
 
 ---
 
-# Customer Data Management - Stimmen {#overview}
+# Customer Data Management – Voices {#overview}
 
 <img alt="Stimmen im Customer Data Management" src="./assets/cdp-voices-banner.png" />
 
-Willkommen beim Customer Data Management Voices Ihr Ziel als technisches und Marketing-Experten für das Kundendatenmanagement. Diese Seite ist Ihre zentrale Anlaufstelle, um von Ihren Kollegen zu hören, sich inspirieren zu lassen und über Entwicklungen im Bereich Martech zu erfahren. Keine Registrierung erforderlich, klicken Sie einfach auf und beobachten Sie.
+Willkommen beim Customer Data Management Voices Ihr Ziel als technisches und Marketing-Experten für das Kundendatenmanagement. Diese Seite ist Ihre zentrale Anlaufstelle, um von Ihren Kollegen zu hören, sich inspirieren zu lassen und über Entwicklungen im Bereich Martech zu erfahren. Keine Registrierung erforderlich, nur klicken und beobachten.
 
 >[!TIP]
 >

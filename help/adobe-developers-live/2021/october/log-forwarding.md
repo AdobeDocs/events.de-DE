@@ -1,14 +1,14 @@
 ---
 title: App Builder-Anwendungen mit Protokollweiterleitung überwachen
-description: Greifen Sie auf alle App Builder-Anwendungsprotokolle in einer unterstützten Protokollverwaltungslösung Ihrer Wahl zu. In dieser Sitzung erhalten Sie eine exklusive Vorschau der bevorstehenden Protokollweiterleitungsfunktionen und darüber, wie Sie diese frühzeitig ausprobieren können.
+description: Greifen Sie in einer unterstützten Protokollverwaltungslösung auf alle App Builder-Anwendungsprotokolle zu. In dieser Sitzung erhalten Sie eine exklusive Vorschau der bevorstehenden Protokollweiterleitungsfunktionen und darüber, wie Sie diese frühzeitig ausprobieren können.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
 kt: 9123
 type: Event
-exl-id: 996b8d07-db06-49f2-8a31-a06fada7b846
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: a2e7d00e-e7b9-4ad7-aa3e-fd3850384d07
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 24%
@@ -17,7 +17,7 @@ ht-degree: 24%
 
 # App Builder-Anwendungen mit Protokollweiterleitung überwachen
 
-Greifen Sie auf alle App Builder-Anwendungsprotokolle in einer unterstützten Protokollverwaltungslösung Ihrer Wahl zu. In dieser Sitzung erhalten Sie eine exklusive Vorschau der bevorstehenden Protokollweiterleitungsfunktionen und darüber, wie Sie diese frühzeitig ausprobieren können.
+Greifen Sie in einer unterstützten Protokollverwaltungslösung auf alle App Builder-Anwendungsprotokolle zu. In dieser Sitzung erhalten Sie eine exklusive Vorschau der bevorstehenden Protokollweiterleitungsfunktionen und darüber, wie Sie diese frühzeitig ausprobieren können.
 
 Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/3zXM3rp)**.
 

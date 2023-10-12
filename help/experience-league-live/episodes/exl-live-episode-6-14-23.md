@@ -1,6 +1,6 @@
 ---
-title: Erkunden Sie die Zukunft von Adobe Journey Optimizer mit dem Webkanal und der Inhaltsexperimentierung
-description: Mit dem neuen Webkanal können Marketing-Experten Web-Kampagnen mit einem visuellen WYSIWYG-Designer erstellen. Darüber hinaus können Sie mit Journey Optimizer jetzt mit Inhalten in beliebigen Kanälen - E-Mail, Web, Push, In-App, SMS usw. - experimentieren.
+title: Erkunden Sie die Zukunft von Adobe Journey Optimizer mit dem Web-Kanal und Inhaltsexperimenten
+description: Mit dem neuen Web-Kanal können Marketing-Fachleute Web-Kampagnen mit einem visuellen WYSIWYG-Designer erstellen. Darüber hinaus können Sie mit Journey Optimizer jetzt mit Inhalten in jedem Kanal – E-Mail, Web, Push, In-App, SMS usw. – experimentieren.
 solution: Journey Optimizer
 kt: KT-13220
 thumbnail: https://video.tv.adobe.com/v/3420129?format=jpeg
@@ -8,16 +8,17 @@ event-cta-url-live: https://www.youtube.com/watch?v=sNsFedPnhL8
 event-cta-url-reg: null
 event-start-time: 2023-6-14 08:00-7
 event-guests: Sandra Hausmann,Robert Calangiu,Erik Wiener,Daniel Cristian Popescu
-source-git-commit: 83573ffbb7ec17ebb1b1d7030e661e8ce469c5d8
+exl-id: c5240612-29d4-4404-b12b-71e70bb780bd
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 80%
 
 ---
 
-# Erkunden Sie die Zukunft von Adobe Journey Optimizer mit dem Webkanal und der Inhaltsexperimentierung
+# Erkunden Sie die Zukunft von Adobe Journey Optimizer mit dem Web-Kanal und Inhaltsexperimenten
 
-Mit dem neuen Webkanal können Marketing-Experten Web-Kampagnen mit einem visuellen WYSIWYG-Designer erstellen. Darüber hinaus können Sie mit Journey Optimizer jetzt mit Inhalten in beliebigen Kanälen - E-Mail, Web, Push, In-App, SMS usw. - experimentieren.
+Mit dem neuen Web-Kanal können Marketing-Fachleute Web-Kampagnen mit einem visuellen WYSIWYG-Designer erstellen. Darüber hinaus können Sie mit Journey Optimizer jetzt mit Inhalten in jedem Kanal – E-Mail, Web, Push, In-App, SMS usw. – experimentieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420129/?learn=on)
 
