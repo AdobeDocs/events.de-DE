@@ -3,10 +3,10 @@ title: Versionsübersicht zu Adobe Experience Manager as a Cloud Service
 description: Schneller Überblick über die neuesten Funktionen in Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: f0440d855235c327a3649c9cfa68f108cca12443
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 92%
+ht-degree: 91%
 
 ---
 
@@ -15,6 +15,28 @@ ht-degree: 92%
 Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in Adobe Experience Manager as a Cloud Service. Dies sind kurze, etwa 10-minütige Videos, die vom AEM-Produkt-Team bereitgestellt werden und über die Highlights der neuesten Version informieren.
 
 ## Neueste Aktualisierung
+
+<table style="max-width: 50%;">
+  <tr>
+    <td>
+      <a href="2023/2023-9-0.md">
+        <img alt="Version 2023.9.0" src="2023/assets/2023-9-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2023/2023-8-0.md">
+          <strong>Version | 2023.9.0</strong>
+          <br/>
+        </a>
+          <em>Veröffentlichungsdatum Oktober 2023 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
+      <p>
+    </td>
+  </tr>  
+</table>
+
+## Frühere Updates
 
 <table style="max-width: 50%;">
   <tr>
@@ -33,13 +55,6 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
-  </tr>  
-</table>
-
-## Frühere Updates
-
-<table style="max-width: 50%;">
-  <tr>
     <td>
       <a href="2023/2023-7-0.md">
         <img alt="Version 2023.7.0" src="2023/assets/2023-7-0-thumb.png" />
@@ -70,6 +85,8 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
+   </tr>
+   <tr> 
     <td>
       <a href="2023/2023-4-0.md">
         <img alt="Version 2023.4.0" src="2023/assets/2023-4-0-thumb.png" />
@@ -85,8 +102,6 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="2023/2023-2-0.md">
         <img alt="Version 2023.2.0" src="2023/assets/2023-2-0-thumb.png" />
@@ -117,6 +132,8 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
+     </tr>
+    <tr>   
     <td>
       <a href="2022/2022-10-0.md">
         <img alt="Version 2022.10.0" src="2022/assets/2022-10-0-thumb.png" />
@@ -132,8 +149,6 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="2022/2022-8-0.md">
         <img alt="Version 2022.8.0" src="2022/assets/2022-8-0-thumb.png" />
@@ -164,20 +179,5 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
-    <td>
-      <a href="2022/2022-6-0.md">
-        <img alt="Version 2022.6.0" src="2022/assets/2022-6-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2022/2022-6-0.md">
-          <strong>Version | 2022.6.0</strong>
-        <br/>
-      </a>
-        <em>Veröffentlichungsdatum: 30. Juni 2022 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
-      <p>
-    </td>
-  </tr>
+        </tr>
 </table>
