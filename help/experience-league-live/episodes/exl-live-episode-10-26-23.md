@@ -8,10 +8,10 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231026.html
 event-start-time: 2023-10-26 09:00-7
 event-guests: Betsey West,Ben Robbins,Jamie Smith
 exl-id: f36c96ce-d889-4549-8595-a43d815dd9af
-source-git-commit: cdf440d1b1b0957986cfed4565e1af61dcd90693
+source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 1%
+source-wordcount: '190'
+ht-degree: 0%
 
 ---
 
@@ -19,12 +19,10 @@ ht-degree: 1%
 
 Erfahren Sie von Workfront-Kunden, wie die neue Startseite für sie und ihre Benutzer funktioniert. Erfahren Sie mehr über die neuen Home-Funktionen, die im August bereitgestellt werden, und unsere neuen Admin-Layout-Steuerelemente. Finden Sie heraus, was 2024 als Nächstes zu Hause ist.
 
-[![ExL LIVE 22. September 2023](../assets/Oct26_exl_live_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-231026.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3424606/?learn=on)
 
 Die komplett überarbeitete Workfront-Startseite wurde zu einem Produktivitätsmotor. Mit den anpassbaren Widgets können Sie Ihren Workflow optimieren und nahtlos durch Projekte, Aufgaben, Probleme, Anforderungen und Erwähnungen navigieren, um sicherzustellen, dass nichts durch die Risse fällt. Dank der Flexibilität, die Startseite an Ihre individuellen Bedürfnisse anzupassen, können Sie Ihren eigenen zentralen Workfront-Hub erstellen.
 
 In dieser Experience League Live Session führt Ihnen der Produktexperte Ben Robbins durch das neue Home-Erlebnis, einschließlich neuer Layoutsteuerungen für Administratoren und interessanter Verbesserungen aus dem Jahr 2024. Und Workfront-Kunde Jamie Smith wird Einblicke darüber geben, wie das neue Home-Erlebnis die Produktivität bei AT&amp;T steigert.
 
-Wie immer können Sie in dieser Live-Sitzung Fragen im Chat stellen und Antworten von Experten erhalten.
-
-**Klicken Sie auf das obige Bild, um sich für das Livestream-Ereignis zu registrieren!**
+**Um die Diskussion fortzusetzen, besuchen Sie bitte das [Experience League Community Post!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470)**
