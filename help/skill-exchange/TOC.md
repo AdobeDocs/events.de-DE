@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Sammlung von Aufzeichnungen von Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: b16db3497f0e9801b71294bcaa66ae3cd9a2eb5c
+source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 11%
+source-wordcount: '416'
+ht-degree: 12%
 
 ---
 
@@ -24,23 +24,23 @@ ht-degree: 11%
       + [Grundlagen der Benutzeroberfläche](analytics/may2023/user-interface.md)
    + Oktober 2022 {#oct2022}
       + [Erste Schritte](analytics/oct2022/getting-started.md)
-      + [Daten analysieren](analytics/oct2022/analyzing-the-data.md)
+      + [Analysieren der Daten](analytics/oct2022/analyzing-the-data.md)
       + [Zusammenfassung](analytics/oct2022/putting-it-all-together.md)
       + [Analytics-ROI](analytics/oct2022/analytics-roi.md)
       + [Analytics Experience Makers-Spotlight](analytics/oct2022/spotlight.md)
       + [Adobe Analytics-Tool-Gürtel meistern](analytics/oct2022/toolbelt.md)
    + September 2022 {#sept2022}
       + [Erste Schritte](analytics/sept2022/getting-started.md)
-      + [Daten analysieren](analytics/sept2022/analyzing-the-data.md)
+      + [Analysieren der Daten](analytics/sept2022/analyzing-the-data.md)
       + [Zusammenfassung](analytics/sept2022/putting-it-all-together.md)
       + [Adobe Analytics eigenständig gestalten](analytics/sept2022/making-analytics-your-own.md)
-      + [Analytics-Spotlight: Experience Maker-Wachstum](analytics/sept2022/grow-spotlight.md)
+      + [Analytics Grow Experience Makers Spotlight](analytics/sept2022/grow-spotlight.md)
       + [Analytics Experience Makers-Spotlight](analytics/sept2022/learn-spotlight.md)
       + [Adobe Analytics-Tool-Gürtel meistern](analytics/sept2022/toolbelt.md)
       + [Zeit ist auf Ihrer Seite](analytics/sept2022/time-is-on-your-side.md)
    + Mai 2022 {#may2022}
       + [Tipps und Tricks zu Adobe Analytics](analytics/may2022/tips-and-tricks.md)
-      + [Daten analysieren](analytics/may2022/analyze-data.md)
+      + [Analysieren der Daten](analytics/may2022/analyze-data.md)
       + [Experience Maker Spotlight](analytics/may2022/experience-makers-spotlight.md)
       + [Erste Schritte](analytics/may2022/getting-started.md)
       + [Alles zusammenbringen](analytics/may2022/putting-all-together.md)
@@ -49,25 +49,34 @@ ht-degree: 11%
       + [Adobe Analytics Rockstars](analytics/oct2021/analytics-rockstars.md)
       + [Tipps und Tricks zu Adobe Analytics](analytics/oct2021/tips-and-tricks.md)
       + [Tipps und Tricks zu Analysis Workspace](analytics/oct2021/analysis-workspace-tips-and-tricks.md)
-      + [Daten analysieren](analytics/oct2021/analyze-data.md)
+      + [Analysieren der Daten](analytics/oct2021/analyze-data.md)
       + [Erste Schritte](analytics/oct2021/getting-started.md)
       + [Alles zusammenbringen](analytics/oct2021/putting-all-together.md)
    + September 2021 {#sept2021}
       + [Adobe Analytics Rockstars](analytics/sept2021/analytics-rockstars.md)
       + [Tipps und Tricks zu Adobe Analytics](analytics/sept2021/tips-and-tricks.md)
-      + [Daten analysieren](analytics/sept2021/analyze-data.md)
+      + [Analysieren der Daten](analytics/sept2021/analyze-data.md)
       + [Erste Schritte](analytics/sept2021/getting-started.md)
       + [Navigieren SPA Herausforderungen in Test Builds und Analysen](analytics/sept2021/navigate-spa.md)
       + [Alles zusammenbringen](analytics/sept2021/putting-all-together.md)
    + Juni 2021{#jun2021}
       + [Tipps und Tricks zu Adobe Analytics](analytics/jun2021/tips-and-tricks.md)
       + [Adobe Analytics Rockstars](analytics/jun2021/analytics-rockstars.md)
-      + [Daten analysieren](analytics/jun2021/analyze-data.md)
+      + [Analysieren der Daten](analytics/jun2021/analyze-data.md)
       + [Erste Schritte](analytics/jun2021/getting-started.md)
       + [Marketingkanäle, bitte verantwortungsbewusst verwenden](analytics/jun2021/marketing-channels.md)
       + [Alles zusammenbringen](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
-   + August 2022 {#aug2022}
+   + August 2023 {#aug2023}
+      + Entwicklerverfolgung {#developer-track}
+         + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
+         + [Erstellen eines effektiven und skalierbaren Stilsystems](aem/aug2023/scalable-style-system.md)
+         + [Migrieren von - zum AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+      + Webtracking {#webtrack}
+         + [Erste Schritte mit AEM Assets](aem/aug2023/getting-started-aem-assets.md)
+         + [Nutzung eines kollaborativen DAM](aem/aug2023/collaborative-dam.md)
+         + [Skalierung für KI-Bereitschaft](aem/aug2023/metadata.md)
+   + August 2022 {#aug2022}
       + Entwicklerverfolgung {#developer-track}
          + [Experience Maker Spotlight](aem/aug2022/spotlight.md)
          + [AEM Champion Session Multi Tenancy](aem/aug2022/multi-tenancy.md)
@@ -91,16 +100,18 @@ ht-degree: 11%
       + [[!DNL Marketo Engage] Rockstars](marketo/aug2021/engage-rockstars.md)
       + [Leistung einer intelligenten Kampagne](marketo/aug2021/smart-campaign.md)
       + [Benutzerdefinierte Felder für Programmmitglieder](marketo/aug2021/program-member-custom-fields.md)
-      + [Berichterstellung innerhalb von [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
+      + [Berichterstellung [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
       + [Ihre Marketo-Roadmap](marketo/aug2021/marketo-roadmap.md)
    + Februar 2021 {#feb2021}
       + [Ein Top-Rope-Einstieg in benutzerdefinierte Objekte und Velocity](marketo/feb2021/custom-objects.md)
       + [Adobe [!DNL Marketo Engage] Rockstar-Segment](marketo/feb2021/rockstar.md)
-      + [Erstellen von Programmen innerhalb der Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
+      + [Erstellen von Programmen innerhalb von Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [Leistung einer intelligenten Kampagne](marketo/feb2021/power-of-smart-campaign.md)
-      + [Berichterstellung innerhalb von [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
+      + [Berichterstellung [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Tipps und Tricks für Ihre Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + August 2023 {#aug2023}
+      + [Resource Management Foundation](workfront/aug2023/resource-management.md)
    + April 2022 {#apr2022}
       + [10 Tipps zum Wow Your Workfront](workfront/apr2022/ten-tips.md)
       + [Berechnete Felder, die alle kennen sollten](workfront/apr2022/calculated-fields.md)
