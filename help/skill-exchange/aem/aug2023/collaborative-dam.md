@@ -11,15 +11,15 @@ doc-type: Event
 last-substantial-update: 2023-10-27T00:00:00Z
 jira: KT-14146
 thumbnail: 3424014.jpeg
-source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
+exl-id: 53380015-5bc4-4957-958f-dac466d80d91
+source-git-commit: ea3e051f624864b3f7dbccde998775cd10559f21
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-
-# Aug. 2022 - AEM Web Track - Connected Ecosystem: Nutzung eines kollaborativen DAM
+# Aug. 2023 - AEM Web Track - Connected Ecosystem: Nutzung eines kollaborativen DAM
 
 In dieser Sitzung lernen Sie die wichtigsten Excel-Formeln und generativen KI-Funktionen kennen, um die Metadaten zu erstellen, die Sie benötigen, um Ihr DAM organisiert zu halten oder neue AEM vorzubereiten. Nachdem wir die benötigten Werte erstellt haben, verwenden wir eine CSV-Datei, um Metadaten aus dem DAM zu importieren/exportieren und die neuen Metadaten für alle Assets in einem Ordner im Maßstab zu aktualisieren.
 
