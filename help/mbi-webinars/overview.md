@@ -2,7 +2,7 @@
 title: Commerce Intelligence-Webinare
 description: Informieren Sie sich in den aufgezeichneten Webinaren von Commerce Intelligence , in denen eine Vielzahl von Themen und Best Practices für die Nutzung von Commerce Intelligence so weit wie möglich vorgestellt wird.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 19%
@@ -26,11 +26,11 @@ Die Themen werden gelegentlich wiederholt, um neue Fragen aufzugreifen, die von 
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
       <img alt="Erste Schritte mit MBI" src="./assets/getting-started-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
         <strong>Erste Schritte mit MBI</strong>
       </a>
     </div>

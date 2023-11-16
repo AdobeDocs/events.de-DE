@@ -3,10 +3,10 @@ user-guide-title: Adobe Developers Live-Ereignisse
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Sammlung von Aufzeichnungen aus dem Adobe Developer Live Content-Ereignis
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 7%
+source-wordcount: '700'
+ht-degree: 9%
 
 ---
 
@@ -15,6 +15,22 @@ ht-degree: 7%
 
 + [Übersicht](overview.md)
 + 2023 {#2023}
+   + November {#nov2023}
+      + [Öffnungs-Keynote](2023/november/keynote.md)
+      + Edge-Bereitstellungsdienste
+         + [Website erstellen](2023/november/edge-breakout-1.md)
+         + [Website-Performance](2023/november/edge-breakout-2.md)
+         + [Kundenbereitstellung](2023/november/edge-breakout-3.md)
+         + [Dokumentenbasiertes Authoring](2023/november/deep-dive.md)
+      + Headless
+         + [Headless-APIs](2023/november/headless-breakout-1.md)
+         + [Universeller Editor](2023/november/headless-breakout-2.md)
+         + [Externe Datenquellen](2023/november/headless-breakout-3.md)
+      + Commerce
+         + [Katalogdienste](2023/novemnber/commerce-breakout-1.md)
+         + [Integrieren mit Amazon Sales Channel](2023/novemnber/commerce-breakout-2.md)
+         + [Ereignisgesteuerte Erweiterung](2023/novemnber/commerce-breakout-3.md)
+         + [API-Mesh](2023/novemnber/commerce-breakout-4.md)
    + Mai {#may2023}
       + [Öffnungs-Keynote](2023/may/keynote.md)
       + [API-Tour](2023/may/new-apis.md)
@@ -25,8 +41,8 @@ ht-degree: 7%
       + [Fireside Chat mit AEM Produktleiter](2023/may/fireside.md)
       + [JavaScript-Blöcke](2023/may/javascript-blocks.md)
       + [Nahtlose Integration von AEM Assets mit Anwendungen](2023/may/seamless-intergration.md)
-      + [Grundlegendes zur GraphQL-API](2023/may/graphql.md)
-      + [Universelle Editoren](2023/may/universal-editor.md)
+      + [Grundlegendes zur GraphQL API](2023/may/graphql.md)
+      + [Universeller Editor](2023/may/universal-editor.md)
 + 2022 {#2022}
    + Februar - Commerce {#feb2022}
       + [Übersicht](2022/february/overview.md)
@@ -58,8 +74,8 @@ ht-degree: 7%
       + [Adobe Experience Platform-SDKs](2021/february/experience-platform-sdk-launch.md)
       + [API-Authentifizierung mit Experience Manager Cloud Service](2021/february/api-authentication.md)
       + [Asset-Massenaufnahme](2021/february/asset-bulk-ingestion.md)
-      + [asset compute Service-Erweiterbarkeit](2021/february/asset-compute-service-extensibility.md)
-      + [CIF-Erweiterbarkeit über GraphQL](2021/february/cif-extensibility-graphql.md)
+      + [Asset compute Service-Erweiterbarkeit](2021/february/asset-compute-service-extensibility.md)
+      + [CIF der Erweiterbarkeit über GraphQL](2021/february/cif-extensibility-graphql.md)
       + [Inhalt und Handel mit Experience Manager](2021/february/content-commerce.md)
       + [Inhaltsbereitstellung mit Experience Manager Cloud Service](2021/february/content-delivery.md)
       + [Benutzerdefinierte Funktionstests](2021/february/custom-functional-tests-cicd.md)
@@ -93,7 +109,7 @@ ht-degree: 7%
       + [Adobe Commerce Live-Suchergebnisse](2021/october/adobe-commerce-search.md)
       + [Adobe Exchange - Drittanbieter-Entwicklermarkt](2021/october/app-builder-exchange.md)
       + [Adobe I/O Open Source-Projekte und -Beiträge](2021/october/app-builder-adobeio.md)
-      + [Export von Adobe I/O Powered Experience Manager Assets](2021/october/app-builder-asset-export.md)
+      + [Adobe I/O Powered Experience Manager Assets Export](2021/october/app-builder-asset-export.md)
       + [Erweiterte Vernetzung mit Experience Manager CS](2021/october/advanced-networking.md)
       + [Anomalieerkennungs-Tool basierend auf App Builder](2021/october/data-anomaly-detection.md)
       + [Architektur von App Builder und technischer Einblick](2021/october/app-builder-architecture.md)
@@ -104,7 +120,7 @@ ht-degree: 7%
       + [Inhaltsaktualisierung](2021/october/content-upkeep.md)
       + [Native Cloud-Erweiterbarkeit für Experience Manager](2021/october/aem-cloud-native.md)
       + [Partizipatives PWA-Storefront-Design mit XD](2021/october/commerce-storefront-xd.md)
-      + [Creative Cloud-App-Engine-APIs](2021/october/cc-app-api.md)
+      + [Creative Cloud App Engine-APIs](2021/october/cc-app-api.md)
       + [Datenerfassung](2021/october/data-collection.md)
       + [Commerce-Erlebnisse bereitstellen](2021/october/delivering-commerce-experiences.md)
       + [Schnelle Erlebnisse mit Experience Manager bereitstellen](2021/october/fast-experiences.md)
@@ -118,8 +134,8 @@ ht-degree: 7%
       + [Experience Manager-Erweiterung für PWA Studio](2021/october/aem-pwa-studio.md)
       + [Experience Manager Forms CS - Schnelles Tracking Ihrer Entwicklung mithilfe von APIs](2021/october/aem-forms-cs-apis.md)
       + [Experience Manager Forms CS - Sichere digitale Registrierung für mehrere Kanäle](2021/october/multichannel-digital-enrollment.md)
-      + [Destination SDK der Experience Platform](2021/october/destination-sdk.md)
-      + [Integration von Experience Platformen](2021/october/aep-integration.md)
+      + [Experience Platform Destination SDK](2021/october/destination-sdk.md)
+      + [Experience Platform-Integration](2021/october/aep-integration.md)
       + [AEM mit App Builder erweitern](2021/october/extend-aem-app-builder.md)
       + [Erweitern von Adobe Commerce mithilfe von Adobe I/O](2021/october/commerce-io.md)
       + [Ereignisgesteuerte Erlebnisse](2021/october/event-driven-experiences.md)
@@ -129,7 +145,7 @@ ht-degree: 7%
       + [Headless Experience Manager Sites](2021/october/headless.md)
       + [Wie vermeiden Sie häufige Fallstricke im Experience Manager?](2021/october/common-pitfalls-aem.md)
       + [Aufnehmen und Verarbeiten von Assets in Experience Manager Assets](2021/october/ingest-process-assets.md)
-      + [Integrieren von Experience Manager CS mit Adobe IO-Ereignissen](2021/october/integrate-aem-io-events.md)
+      + [Integrieren von Experience Manager CS mit Adobe-IO-Ereignissen](2021/october/integrate-aem-io-events.md)
       + [Einführung in App Builder](2021/october/introduction-app-builder.md)
       + [Einführung in die Adobe Developer-Konsole](2021/october/app-builder-adc.md)
       + [Einführung in Creative Cloud-Bibliotheken](2021/october/cc-libraries.md)
@@ -137,7 +153,7 @@ ht-degree: 7%
       + [Serverseitiges Launch](2021/october/launch-server-side.md)
       + [App Builder-Apps mit Protokollweiterleitung überwachen](2021/october/log-forwarding.md)
       + [Vergangenheit, Gegenwart und Zukunft des Experience Managers](2021/october/past-present-future-aem.md)
-      + [PDF Einbettungs-API](2021/october/pdf-embed-api.md)
+      + [PDF EinbettungsAPI](2021/october/pdf-embed-api.md)
       + [PDF Extract API](2021/october/pdf-extract-api.md)
       + [Einführung in die Adobe PDF Services-API](2021/october/pdf-services-api.md)
       + [Best Practices für Einsteiger in PWA Studio](2021/october/pwa-studio-best-practices.md)
