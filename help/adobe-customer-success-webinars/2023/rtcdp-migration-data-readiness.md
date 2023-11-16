@@ -1,6 +1,6 @@
 ---
 title: Echtzeit-Kundendatenvorbereitung
-description: 'Beschreibung: Erfahren Sie die Strategie für die organisatorische Abwehrbereitschaft aus der Perspektive der Datenbereitschaft für einen optimierten Start der Echtzeit-Kundendatenplattform. ​Wichtige Diskussionspunkte:Echtzeitdatenbereitschaft der Kundendatenplattform verstehen und Erfahren Sie, wie Sie Geschäftsanwendungsfälle als Organisation abstimmen.Wichtige Ressourcen und Aktionen für die Bereitschaft der Kundendatenplattform in Echtzeit'
+description: Erfahren Sie mehr über die Strategie für die organisatorische Abwehrbereitschaft aus der Perspektive der Datenbereitschaft für einen optimierten Start der Echtzeit-Kundendatenplattform. Grundlegendes zur Datenbereitschaft der Echtzeit-Kundendatenplattform und Erfahren Sie, wie Sie Geschäftsanwendungsfälle als Organisation abstimmen.Wichtige Ressourcen und Aktionen für die Echtzeit-Bereitschaft der Kundendatenplattform
 solution: Real-Time Customer Data Platform
 role: Admin, Architect, Data Architect, Data Engineer, Developer
 level: Intermediate
@@ -8,9 +8,9 @@ doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14386
 thumbnail: 3425603.jpeg
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: ee784fa4421919f0af180a36eca30644d27de7a1
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
