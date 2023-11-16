@@ -3,7 +3,7 @@ user-guide-title: Adobe Developers Live-Ereignisse
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Sammlung von Aufzeichnungen aus dem Adobe Developer Live Content-Ereignis
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 9%
@@ -17,20 +17,20 @@ ht-degree: 9%
 + 2023 {#2023}
    + November {#nov2023}
       + [Öffnungs-Keynote](2023/november/keynote.md)
-      + Edge-Bereitstellungsdienste
+      + Edge-Bereitstellungsdienste {#nov-edgedeliveryservices}
          + [Website erstellen](2023/november/edge-breakout-1.md)
          + [Website-Performance](2023/november/edge-breakout-2.md)
          + [Kundenbereitstellung](2023/november/edge-breakout-3.md)
          + [Dokumentenbasiertes Authoring](2023/november/deep-dive.md)
-      + Headless
+      + Headless {#nov-headless}
          + [Headless-APIs](2023/november/headless-breakout-1.md)
          + [Universeller Editor](2023/november/headless-breakout-2.md)
          + [Externe Datenquellen](2023/november/headless-breakout-3.md)
-      + Commerce
-         + [Katalogdienste](2023/novemnber/commerce-breakout-1.md)
-         + [Integrieren mit Amazon Sales Channel](2023/novemnber/commerce-breakout-2.md)
-         + [Ereignisgesteuerte Erweiterung](2023/novemnber/commerce-breakout-3.md)
-         + [API-Mesh](2023/novemnber/commerce-breakout-4.md)
+      + Commerce {#nov-commerce}
+         + [Katalogdienste](2023/november/commerce-breakout-1.md)
+         + [Integrieren mit Amazon Sales Channel](2023/november/commerce-breakout-2.md)
+         + [Ereignisgesteuerte Erweiterung](2023/november/commerce-breakout-3.md)
+         + [API-Mesh](2023/november/commerce-breakout-4.md)
    + Mai {#may2023}
       + [Öffnungs-Keynote](2023/may/keynote.md)
       + [API-Tour](2023/may/new-apis.md)
