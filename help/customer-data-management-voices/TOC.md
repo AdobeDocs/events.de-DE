@@ -2,8 +2,7 @@
 user-guide-title: Stimmen im Customer Data Management
 user-guide-breadcrumb: Customer Data Management Voices
 user-guide-description: Das Ziel des Kundendatenmanagements für den Leiter der technischen und Marketing-Praxis und Spezialisten
-feature-set: Experience Platform
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 21%
@@ -21,7 +20,7 @@ ht-degree: 21%
    + [Entwicklung Ihres Audience Center of Excellence](cdm/evolving-your-audience-center-of-excellence.md)
    + [Erstellen besserer Erlebnisse mit Kundenprofilen](cdm/building-better-experiences-with-customer-profiles.md)
    + [Verbesserung von Data Management-Strategien durch Marketing-Teams](cdm/how-marketing-teams-are-improving-data-management-strategies.md)
-+ Data Governance und Datenschutz in Zielgruppen und Profilen {#governance}
++ Zielgruppen und Profil Data Governance und Datenschutz {#governance}
    + [10 Überlegungen zum verantwortungsvollen Kundendaten-Management](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
    + [Erhöhen der Rolle des Marketingexperten als Data Steward](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
    + [Audience Profile Data Governance und Datenschutz](governance/healthcare-shield.md)

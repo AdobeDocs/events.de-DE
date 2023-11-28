@@ -1,10 +1,9 @@
 ---
 user-guide-title: Adobe Content Management-Forum
 user-guide-breadcrumb: Adobe Content Management Forum
-user-guide-description: Erfahren Sie von Experten der Adobe, wie sie über den aktuellen und künftigen Stand der Inhaltsverwaltungsstrategie, Lieferziele, Herausforderungen und technische Anforderungen diskutieren.
-feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
+user-guide-description: Erfahren Sie von Adobe-Experten, wie sie über den aktuellen und künftigen Stand der Content-Management-Strategie, Lieferziele, Herausforderungen und technische Anforderungen diskutieren.
 solution: Experience Manager
-source-git-commit: 4dab34d66617ff8cc6f4a4daaea06badc3987962
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 1%

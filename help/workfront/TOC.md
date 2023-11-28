@@ -2,8 +2,7 @@
 user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
-feature-set: Workfront
-source-git-commit: 07e92e59ba5c6b0b9ac7d66fb929d0be4d8b1f06
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 1%
@@ -42,8 +41,8 @@ ht-degree: 1%
    + [Verwenden von Timesheets in Workfront](user-groups/utilizing-timesheets-in-workfront.md)
 + Workfront-Testversand {#workfront-proof}
    + [Best Practices zur Maximierung des Workfront-Testversands](webinars/best-practices-to-maximize-workfront-proof.md)
-   + [Best Practices für Workfront-Testsendungen](webinars/follow-up-to-workfront-proof-best-practices.md)
+   + [Bewährte Verfahren für Workfront-Testsendungen](webinars/follow-up-to-workfront-proof-best-practices.md)
    + [Kreativagenturen: Workfront-Testversand](user-groups/creative-agencies-workfront-proof.md)
    + [Workfront-Testversand nutzen](user-groups/leveraging-workfront-proof.md)
 + Anforderungswarteschlangen und -aufnahme {#request-queues-and-intake}
-   + [Anforderungswarteschlangen und Aufnahme von Forms](user-groups/request-queues-and-intake-forms.md)
+   + [Anforderungswarteschlangen und Forms aufnehmen](user-groups/request-queues-and-intake-forms.md)
