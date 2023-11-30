@@ -3,10 +3,10 @@ title: Versionsübersicht zu Adobe Experience Manager as a Cloud Service
 description: Schneller Überblick über die neuesten Funktionen in Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
-source-git-commit: 8930660b21b70903e84902f05a2530a1575e1f3a
+source-git-commit: 8f7f3497e95dbaa2693c2271038e9f187c2163ae
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 85%
+source-wordcount: '223'
+ht-degree: 84%
 
 ---
 
@@ -15,6 +15,28 @@ ht-degree: 85%
 Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in Adobe Experience Manager as a Cloud Service. Dies sind kurze, etwa 10-minütige Videos, die vom AEM-Produkt-Team bereitgestellt werden und über die Highlights der neuesten Version informieren.
 
 ## Neueste Aktualisierung
+
+<table style="max-width: 50%;">
+  <tr>
+    <td>
+      <a href="2023/2023-11-0.md">
+        <img alt="Version 2023.11.0" src="2023/assets/2023-11-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2023/2023-11-0.md">
+          <strong>Version | 2023.11.0</strong>
+          <br/>
+        </a>
+          <em>Releasedatum November 2023 </em>
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
+      <p>
+    </td>
+  </tr>  
+</table>
+
+## Frühere Updates
 
 <table style="max-width: 50%;">
   <tr>
@@ -33,13 +55,6 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
-  </tr>  
-</table>
-
-## Frühere Updates
-
-<table style="max-width: 50%;">
-  <tr>
       <td>
       <a href="2023/2023-9-0.md">
         <img alt="Version 2023.9.0" src="2023/assets/2023-9-0-thumb.png" />
@@ -49,7 +64,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
           <strong>Version | 2023.9.0</strong>
           <br/>
         </a>
-          <em>Veröffentlichungsdatum Oktober 2023 </em>
+          <em>Veröffentlichungsdatum September 2023 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
@@ -70,6 +85,8 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
+</tr>
+<tr>    
     <td>
       <a href="2023/2023-7-0.md">
         <img alt="Version 2023.7.0" src="2023/assets/2023-7-0-thumb.png" />
@@ -85,8 +102,6 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
-   </tr>
-   <tr> 
     <td>
       <a href="2023/2023-6-0.md">
         <img alt="Version 2023.6.0" src="2023/assets/2023-6-0-thumb.png" />
@@ -117,6 +132,8 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
+   </tr>
+   <tr> 
     <td>
       <a href="2023/2023-2-0.md">
         <img alt="Version 2023.2.0" src="2023/assets/2023-2-0-thumb.png" />
@@ -132,8 +149,6 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
-     </tr>
-    <tr>   
     <td>
       <a href="2023/2023-1-0.md">
         <img alt="Version 2023.1.0" src="2023/assets/2023-1-0-thumb.png" />
@@ -164,191 +179,5 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
-    <td>
-      <a href="2022/2022-8-0.md">
-        <img alt="Version 2022.8.0" src="2022/assets/2022-8-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2022/2022-8-0.md">
-          <strong>Version | 2022.8.0</strong>
-          <br/>
-        </a>
-          <em>Veröffentlichungsdatum 1. September 2022 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
-      <p>
-    </td>
    </tr>
 </table>
-
-&lt;!— neue Aktualisierung —>
-<!---
-## Latest Update
-
-<table style="max-width: 50%;">
-  <tr>
-    <td>
-      <a href="2023/2023-11-0.md">
-        <img alt="2023.11.0 Release" src="2023/assets/2023-11-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-11-0.md">
-          <strong>Release | 2023.11.0</strong>
-          <br/>
-        </a>
-          <em>Release date November 2023 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
-    </td>
-  </tr>  
-</table> 
-
-## Past Updates
-
-<table style="max-width: 50%;">
-  <tr>
-    <td>
-      <a href="2023/2023-10-0.md">
-        <img alt="2023.10.0 Release" src="2023/assets/2023-10-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-10-0.md">
-          <strong>Release | 2023.10.0</strong>
-          <br/>
-        </a>
-          <em>Release date October 2023 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
-    </td>
-      <td>
-      <a href="2023/2023-9-0.md">
-        <img alt="2023.9.0 Release" src="2023/assets/2023-9-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-9-0.md">
-          <strong>Release | 2023.9.0</strong>
-          <br/>
-        </a>
-          <em>Release date September 2023 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
-    </td>
-    <td>
-      <a href="2023/2023-8-0.md">
-        <img alt="2023.8.0 Release" src="2023/assets/2023-8-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-8-0.md">
-          <strong>Release | 2023.8.0</strong>
-          <br/>
-        </a>
-          <em>Release date August 2023 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
-    </td>
-</tr>
-<tr>    
-    <td>
-      <a href="2023/2023-7-0.md">
-        <img alt="2023.7.0 Release" src="2023/assets/2023-7-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-7-0.md">
-          <strong>Release | 2023.7.0</strong>
-          <br/>
-        </a>
-          <em>Release date July 2023 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
-    </td>
-    <td>
-      <a href="2023/2023-6-0.md">
-        <img alt="2023.6.0 Release" src="2023/assets/2023-6-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-6-0.md">
-          <strong>Release | 2023.6.0</strong>
-          <br/>
-        </a>
-          <em>Release date June 2023 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
-    </td>
-    <td>
-      <a href="2023/2023-4-0.md">
-        <img alt="2023.4.0 Release" src="2023/assets/2023-4-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-4-0.md">
-          <strong>Release | 2023.4.0</strong>
-          <br/>
-        </a>
-          <em>Release date April 2023 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
-    </td>
-   </tr>
-   <tr> 
-    <td>
-      <a href="2023/2023-2-0.md">
-        <img alt="2023.2.0 Release" src="2023/assets/2023-2-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-2-0.md">
-          <strong>Release | 2023.2.0</strong>
-          <br/>
-        </a>
-          <em>Release date Mar 2023 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
-    </td>
-    <td>
-      <a href="2023/2023-1-0.md">
-        <img alt="2023.1.0 Release" src="2023/assets/2023-1-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-1-0.md">
-          <strong>Release | 2023.1.0</strong>
-          <br/>
-        </a>
-          <em>Release date  Feb 2023 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
-    </td>
-    <td>
-      <a href="2022/2022-10-0.md">
-        <img alt="2022.10.0 Release" src="2022/assets/2022-10-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2022/2022-10-0.md">
-          <strong>Release | 2022.10.0</strong>
-          <br/>
-        </a>
-          <em>Release date  Oct 13, 2022 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
-      <p>
-    </td>
-   </tr>
-</table>
---->
