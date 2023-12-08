@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Sammlung von Aufzeichnungen aus [!DNL Experience Makers Learn from your peers]"
-source-git-commit: e1b2587ab6b761998127b5486201bde9ee50fcd6
+source-git-commit: 787fd78cb2ceb61f296bfe63c5b4e6cf71712abf
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 19%
+source-wordcount: '128'
+ht-degree: 7%
 
 ---
 
@@ -15,18 +15,20 @@ ht-degree: 19%
 + [Experience Maker](overview.md)
 + Analytics {#analytics}
    + 2023 {#2023}
-      + August {#aug2023}
+      + November {#nov2023}
+         + [Effektive Datenvisualisierungen](analytics/nov2023/impactful-data-visualizations.md)
+      + August {#aug2023}
          + [Entsperren der Leistungsfähigkeit von Verarbeitungsregeln in Adobe Analytics](analytics/aug2023/processing-rules.md)
-      + Februar {#feb2023}
+      + Februar {#feb2023}
          + [Erstellen einer datengesteuerten Kultur](analytics/feb2023/data-driven-culture.md)
          + [Erstellen einer datengesteuerten Kultur-Weiterverfolgung - Fragen und Antworten](analytics/feb2023/data-driven-culture-q-and-a.md)
    + 2022 {#2022}
       + November {#nov2022}
          + [Tipps und Tricks](analytics/nov2022/tips-and-tricks.md)
          + [Tipps und Tricks zu den Champions-Up-Fragen und Antworten](analytics/nov2022/tips-and-tricks-q-and-a.md)
-      + August {#aug2022}
+      + August {#aug2022}
          + [Datenqualität und -akzeptanz](analytics/aug2022/data-quality.md)
-      + Juni {#jun2022}
+      + Juni {#jun2022}
          + [Dokumentationsmission möglich](analytics/june2022/mission-possible.md)
       + März {#mar2022}
          + [Ausschlaggebende Meldungen mit Daten anordnen](analytics/mar2022/stories-with-data.md)
@@ -44,7 +46,7 @@ ht-degree: 19%
       + [Marketo Engage und Dynamic Chat](marketo/nov2023/dynamic-chat.md)
    + September {#sept2023}
       + [E-Mail-Zustellbarkeit mit Marketo Engage steigern](marketo/sept2023/email-deliverability.md)
-   + Juni {#june2023}
+   + Juni {#june2023}
       + [Marketing-Kampagnen verfolgen, analysieren und optimieren](marketo/june2023/marketing-campaigns.md)
    + Mai {#may2023}
       + [Cracken der Personalisierung bei Skalierungscode mithilfe von [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
