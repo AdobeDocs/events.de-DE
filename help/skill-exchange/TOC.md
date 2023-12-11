@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Sammlung von Aufzeichnungen von Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
+source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 11%
+source-wordcount: '496'
+ht-degree: 9%
 
 ---
 
@@ -15,6 +15,16 @@ ht-degree: 11%
 
 + [Übersicht](overview.md)
 + Analytics {#analytics}
+   + August 2023 {#aug2023}
+      + [Alle Segmente](analytics/aug2023/spotlight-segments.md)
+      + [Daten analysieren](analytics/aug2023/analyze-the-data.md)
+      + [Gelegenheitsbenutzer des Arbeitsbereichs informieren](analytics/aug2023/spotlight.md)
+      + [Navigation reparieren](analytics/aug2023/fix-navigation.md)
+      + [Vier der verwendeten Funktionen](analytics/aug2023/data-analysis.md)
+      + [Erste Schritte](analytics/aug2023/getting-started.md)
+      + [Verbessern des Kundenerlebnisses](analytics/aug2023/anti-conversion.md)
+      + [Keynote](analytics/aug2023/keynote.md)
+      + [Zusammenfassung](analytics/aug2023/putting-together.md)
    + Mai 2023 {#may2023}
       + [Tipps und Tricks zu Adobe Analytics](analytics/may2023/tips-and-tricks.md)
       + [Migration zu EDDL/WebSDK](analytics/may2023/migrate.md)
@@ -67,11 +77,12 @@ ht-degree: 11%
       + [Marketingkanäle, bitte verantwortungsbewusst verwenden](analytics/jun2021/marketing-channels.md)
       + [Alles zusammenbringen](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
-   + August 2023 {#aug2023}
+   + August 2023 {#aug2023}
       + Entwicklerverfolgung {#developer-track}
          + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
          + [Erstellen eines effektiven und skalierbaren Stilsystems](aem/aug2023/scalable-style-system.md)
-         + [Migrieren von - zum AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+         + [Migrieren nach AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+         + [Personalisierte Marketing-E-Mails](aem/aug2023/personalized-marketing-emails.md)
       + Webtracking {#webtrack}
          + [Erste Schritte mit AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Nutzung eines kollaborativen DAM](aem/aug2023/collaborative-dam.md)
@@ -88,7 +99,7 @@ ht-degree: 11%
          + [Steigerung des Geschäftswerts durch die Personalisierung von Inhalten in AEM](aem/aug2022/personalization.md)
          + [Maximieren Ihrer AEM-Implementierung](aem/aug2022/implementation.md)
 + Marketo {#marketo}
-   + Februar 2022 {#feb2022}
+   + Februar 2022 {#feb2022}
       + [Datenwartung](marketo/feb2022/data-maintenance.md)
       + [Dynamische Inhalte und die Leistung der Personalisierung](marketo/feb2022/dynamic-content.md)
       + [Experience Maker Spotlight](marketo/feb2022/experience-makers-spotlight.md)
@@ -111,7 +122,7 @@ ht-degree: 11%
       + [Berichterstellung [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Tipps und Tricks für Ihre Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
-   + August 2023 {#aug2023}
+   + August 2023 {#aug2023}
       + [Einführung in Pinnwände](workfront/aug2023/introduction-to-boards.md)
       + [Experience Maker Spotlight](workfront/aug2023/spotlight.md)
       + [Wachstum und kontinuierliche Effizienz](workfront/aug2023/growth-continued-efficiencies.md)
