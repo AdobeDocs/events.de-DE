@@ -1,8 +1,8 @@
 ---
 title: Erstellen von stark personalisierten Marketing-E-Mails mit AEM
 description: E-Mail-Kommunikation ist eine der wichtigsten Möglichkeiten, um Ihre bestehenden und potenziellen neuen Kunden zu erreichen. Durch die effiziente Erstellung hochpersonalisierter E-Mails kann die Kundeninteraktion erheblich gesteigert werden. Wenn jemand an AEM (Adobe Experience Manager) denkt, denkt er oft an Websites und Webinhalte. Wussten Sie jedoch, dass AEM auch zum Erstellen von E-Mails verwendet werden kann?
-feaeture-set: Experience Manager Sites
-feature: Core components, Developing
+feature-set: Experience Manager Sites
+feature: Core Components, Developing
 topic: Personalization
 role: Developer
 level: Intermediate, Experienced
@@ -11,7 +11,7 @@ duration: 2198
 last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14650
 thumbnail: 3425982.jpeg
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
