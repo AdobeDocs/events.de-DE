@@ -8,9 +8,9 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231214.html
 event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
-source-git-commit: 0352149767e9366a1a125d3afbc632aa320b6f37
+source-git-commit: 9a3018b3e8ded0ded37a5c97f536db2eaa93416b
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit den 2023 veröffentlichten neuen Funktionen Zielgruppen effektiver und effizienter für eine wirkungsvolle Personalisierung aktivieren können.
 
-[![14. Dezember 2023 L LIVE](assets/Dec14_exl_live_banner_web_1920_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-231214.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
-**Klicken Sie auf das obige Bild, um sich für die Show zu registrieren!**.
+**Sehen Sie sich die Wiederholung oben an. Sie können die Aussprache über diese Sitzung auch auf der folgenden Seite fortsetzen: [Experience League-Community-Diskussion](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14)**.
 
 **Details:**
 Sind Sie ein aktueller Real-Time CDP-Anwender und suchen nach Einblicken in die neuen Funktionen des Produkts, warum es wichtig ist und wie Adobe Ihnen dabei helfen kann, Ihre Customer Data Management-Strategien zu verbessern? Schauen Sie nicht weiter - Sie sind an die richtige Stelle gekommen! In dieser Serie werden wir uns tief in die kürzlich in Real-Time CDP eingeführten Funktionen eintauchen, damit Sie die neuen Funktionen sofort nutzen und Ihre Organisation beeinflussen können.
@@ -41,6 +41,5 @@ Nach Abschluss dieser Sitzung sollten Sie Folgendes erwarten:
 * Nutzen Sie diese neuen Funktionen noch heute
 * Beginnen Sie noch heute mit der Verbesserung Ihrer Kundenpersonalisierung!
 
-Wie immer können Sie in dieser Live-Sitzung Fragen im Chat stellen und Antworten von Experten erhalten.
 
 
