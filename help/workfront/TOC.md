@@ -2,10 +2,10 @@
 user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: 0dc027b6c267c52b961b641d838571fc2d0a9fd6
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 1%
+source-wordcount: '133'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
    + [Nutzung von Custom Forms](user-groups/leveraging-custom-forms.md)
    + [Best Practices für Systemadministratoren](user-groups/system-admin-best-practices.md)
    + [Workfront-Systemwartung](user-groups/workfront-system-maintenance.md)
-+ Agil {#agile}
++ Agile {#agile}
    + [Agile in Marketing](user-groups/agile-in-marketing.md)
 + Reporting und Dashboards {#reporting-and-dashboards}
    + [Fortschrittliche Berichterstellung](user-groups/advanced-reporting.md)
@@ -46,3 +46,5 @@ ht-degree: 1%
    + [Workfront-Testversand nutzen](user-groups/leveraging-workfront-proof.md)
 + Anforderungswarteschlangen und -aufnahme {#request-queues-and-intake}
    + [Anforderungswarteschlangen und Forms aufnehmen](user-groups/request-queues-and-intake-forms.md)
++ Versionen 2024
+   + [Version 24.1](webinars/24-1-release-webinar.md)
