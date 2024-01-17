@@ -2,10 +2,10 @@
 user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
-source-git-commit: 0dc027b6c267c52b961b641d838571fc2d0a9fd6
+source-git-commit: 258dad6728f49c093121b6f7a8b49db5778d18fe
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -46,5 +46,6 @@ ht-degree: 0%
    + [Workfront-Testversand nutzen](user-groups/leveraging-workfront-proof.md)
 + Anforderungswarteschlangen und -aufnahme {#request-queues-and-intake}
    + [Anforderungswarteschlangen und Forms aufnehmen](user-groups/request-queues-and-intake-forms.md)
-+ Versionen 2024
-   + [Version 24.1](webinars/24-1-release-webinar.md)
++ Versionen {#releases}
+   + 2024 {#2024-releases}
+      + [Version 24.1](webinars/24-1-release-webinar.md)
