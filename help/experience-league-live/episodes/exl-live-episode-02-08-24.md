@@ -4,10 +4,10 @@ description: Erfahren Sie, wie Sie mit Case Playbooks problemlos bereitstellen u
 kt: KT-14791
 thumbnail: https://video.tv.adobe.com/v/3426930?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=EZGQ--J2M9I
-event-cta-url-reg: null
 event-start-time: 2024-02-08 09:00-7
 event-guests: Daniel Wright,Josée Monette-Healey,Rohit Basuri
-source-git-commit: 830d7210220293c9c9b6e7923213e9e7f5936d2c
+duration: 25
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

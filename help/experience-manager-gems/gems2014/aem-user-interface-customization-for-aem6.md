@@ -1,14 +1,14 @@
 ---
 title: Anpassung der Benutzeroberfläche für AEM 6
 description: Erfahren Sie, wie Sie die Benutzeroberfläche von AEM 6.0 erweitern. Mit der neuen Ressourcenzusammenführung ist es möglich, jede Verwaltungskonsole über eine Überlagerung zu modifizieren, um jeden Knoten oder jede Eigenschaft zu ändern, zu löschen oder hinzuzufügen.
-uuid: 2937bc6f-9ae8-4acf-a965-a16ef6e56a16
 discoiquuid: b1c4e69a-bc0e-445c-8e3e-c03ead18e76e
 targetaudience: target-audience advanced
 exl-id: c73a94ba-a21b-4dd4-90e1-334b91616a46
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3601
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 83%
+source-wordcount: '165'
+ht-degree: 97%
 
 ---
 

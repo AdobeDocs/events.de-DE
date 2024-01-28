@@ -1,14 +1,14 @@
 ---
 title: Einführung in die Auftragsverarbeitung und Abladung in AEM 5.6.1.
 description: Hier erhalten Sie eine technische Einführung in die erweiterten Funktionen zur Bearbeitung von Aufträgen. Die Auftragsverarbeitung ist die zugrunde liegende Infrastruktur für Funktionen wie Replikation und Workflow-Verarbeitung. Erfahren Sie mehr über das Erkennungsmodul sowie die verbesserte Auftragsverarbeitungs-API und neue Funktionen.
-uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
 exl-id: bd10465b-6f45-4117-b8a0-1310422f5825
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3750
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 96%
+source-wordcount: '198'
+ht-degree: 99%
 
 ---
 

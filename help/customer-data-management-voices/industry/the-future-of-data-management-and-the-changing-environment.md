@@ -1,5 +1,5 @@
 ---
-title: Die Zukunft des Daten-Managements und die sich verändernde Umgebung
+title: Die Zukunft des Data Managements und der sich wandelnden Umgebung
 description: Erfahren Sie, wie Adobe und 451 Research über die Zukunft von Technologie und Daten nachdenken, um die neue Marketingumgebung anzugehen und Ihr Unternehmen auf die Zukunft des Datenmanagements vorzubereiten.
 solution: Real-Time Customer Data Platform
 feature: Data Management
@@ -10,15 +10,16 @@ thumbnail: 332077.jpg
 kt: 7333
 type: Event
 exl-id: 9562892a-e6f4-45b5-a8e7-8aa162e8899d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3494
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 62%
+source-wordcount: '137'
+ht-degree: 25%
 
 ---
 
-# Die Zukunft des Daten-Managements und die sich verändernde Umgebung
+# Die Zukunft des Data Managements und der sich wandelnden Umgebung
 
-Da die Marktkräfte unsere digitale Landschaft verändern, müssen sich Unternehmen an eine neue Realität anpassen, was die Datenverwaltung, die Identitätsauflösung und das Ansprechen von potenziellen Kunden und pseudonymisierten Besuchern mit aussagekräftigen Inhalten betrifft. Zu diesem Zweck gibt es viele verschiedene Wege, um dauerhafte Identifikatoren mit externen Systemen zu nutzen, um eine Skalierung zu erreichen. In diesem Webinar erfahren Sie, wie Adobe und 451 Research über die Zukunft der Technologie und Daten denken und dabei die neue Marketing-Umgebung berücksichtigen, und beginnen Sie, Ihr Geschäft auf die Zukunft des Daten-Managements vorzubereiten.
+Da die Marktkräfte Veränderungen in unserer digitalen Landschaft bewirken, müssen sich Unternehmen an eine neue Realität anpassen, was Data Governance, Identitätsauflösung und die Interaktion von Interessenten und pseudonymen Besuchern mit aussagekräftigen Inhalten betrifft. Zu diesem Zweck gibt es viele verschiedene Wege, um dauerhafte Identifikatoren mit externen Systemen zu nutzen, um eine Skalierung zu erreichen. In diesem Webinar erfahren Sie, wie Adobe und 451 Research über die Zukunft der Technologie und Daten denken und dabei die neue Marketing-Umgebung berücksichtigen, und beginnen Sie, Ihr Geschäft auf die Zukunft des Daten-Managements vorzubereiten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332077/?quality=12&learn=on)

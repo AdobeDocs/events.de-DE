@@ -2,9 +2,10 @@
 title: Marketo und Mochas
 description: Marketo On-Demand Events ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zur optimalen Verwendung von Adobe Marketo teilen.
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 15
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---

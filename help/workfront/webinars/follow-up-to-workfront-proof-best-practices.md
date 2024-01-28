@@ -1,15 +1,15 @@
 ---
 title: Fragen Sie den Experten - Follow-up zu Best Practices für Workfront-Tests
 description: Erfahren Sie, warum Sie automatisierte Workflow-Vorlagen verwenden sollten, wie Sie diese erstellen und wie Sie die Testversandeinstellungen anpassen, um den Datenschutz zu gewährleisten. Dieses Webinar wurde am 4. März 2020 aufgenommen.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
 exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4083
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '1638'
-ht-degree: 2%
+source-wordcount: '1649'
+ht-degree: 1%
 
 ---
 

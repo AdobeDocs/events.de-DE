@@ -2,7 +2,8 @@
 title: Adobe Customer Success Webinare
 description: Adobe Customer Success-geführte Webinare, mit denen Sie Ihre Investition in Adobe-Experience Cloud optimieren können. Erhalten Sie wertvolle Einblicke, um den Nutzen zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 42
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

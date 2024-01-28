@@ -1,15 +1,15 @@
 ---
 title: Fragen Sie den Experten - Best Practices, um Workfront-Testversand zu maximieren.
 description: Erfahren Sie, wie Sie Einstellungen konfigurieren, hervorragende Berichte aktivieren und allgemeine Fallstricke in Testversand vermeiden. Dieses Webinar wurde am 26. Februar 2020 aufgenommen.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
 exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 5182
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '5566'
-ht-degree: 2%
+source-wordcount: '5572'
+ht-degree: 1%
 
 ---
 

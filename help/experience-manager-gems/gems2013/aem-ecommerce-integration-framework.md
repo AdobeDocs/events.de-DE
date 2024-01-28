@@ -1,13 +1,13 @@
 ---
 title: E-Commerce-Integrations-Framework
 description: Als Teil von Adobe Experience Manager bietet CQ 5.6 ein neues Commerce-Framework zur Erstellung von erlebnisgesteuerten Commerce-Websites auf der Grundlage einer Commerce-Plattform eines Drittanbieters. Diese Sitzung bietet einen Überblick über das Framework aus der Sicht der Architektur und stellt einige Details der Referenzimplementierung vor, die auf dem JCR-Repository basiert.
-uuid: cf925889-3538-4ae4-a82c-a8e5d30ad1ab
 discoiquuid: c2876633-70b8-46d9-b63d-581b40ec0fef
 targetaudience: target-audience advanced
 exl-id: 7751d49e-7981-463e-ba3f-e62f32adbae0
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2787
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '130'
 ht-degree: 100%
 
 ---

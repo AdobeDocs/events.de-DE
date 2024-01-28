@@ -3,10 +3,11 @@ title: Adobe Developers Live Oktober 2021
 description: Eine Sammlung von Videos und Tutorials für Adobe Experience Manager Sites, die im Rahmen des Adobe Developers Live-Ereignisses bereitgestellt werden.
 sub-product: sites, content-services
 exl-id: e6ebda58-dd9f-4d27-9f94-0233fc98d3c0
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 110
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 26%
+source-wordcount: '385'
+ht-degree: 16%
 
 ---
 
@@ -77,12 +78,12 @@ Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Gesprächen in 
 
 ### AEM
 
-* [EXPERIENCE LEAGUE - AEM](https://experienceleague.adobe.com/?lang=de#recommended/solutions/experience-manager)
-* [AEM Sites Authoring - Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=de)
-* [AEM Sites-Entwicklungsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=de)
-* [Dokumentation zur Verwaltung von AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=de)
-* [Dokumentation zur AEM Sites-Bereitstellung](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=de)
-* [Tutorials für AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=de)
+* [Experience League – AEM-Erkundung](https://experienceleague.adobe.com/?lang=de#recommended/solutions/experience-manager)
+* [AEM Sites-Dokumentation zum Authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=de)
+* [AEM Sites-Dokumentation zur Entwicklung](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=de)
+* [AEM Sites-Dokumentation zur Verwaltung](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=de)
+* [AEM Sites-Dokumentation zur Bereitstellung](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=de)
+* [AEM as a Cloud Service Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=de)
 * [AEM Assets-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=de)
 * [Tutorials zu AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=de)
 * [Tutorials zu AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=de)
@@ -93,7 +94,7 @@ Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Gesprächen in 
 * [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 * [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)
 
-### App Builder
+### App-Entwicklung
 
 * [App Builder - Übersicht](https://adobe.ly/aem-appbuilder)
 * [App Builder-Entwicklerhandbuch](https://adobe.ly/appbuilder)

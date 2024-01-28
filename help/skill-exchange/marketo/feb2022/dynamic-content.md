@@ -7,10 +7,11 @@ level: Beginner
 kt: 9766
 thumbnail: 340597.jpeg
 exl-id: f96fb348-ff59-4dac-ad7d-048a2ba96afc
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2343
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +19,7 @@ ht-degree: 2%
 
 In dieser Sitzung erfahren Sie, wie Sie dynamische Inhalte nutzen können, um zielgerichtetere und relevantere Inhalte an Ihre Datenbank zu senden.
 
-**Wichtige Schlussfolgerungen**
+**Wichtige Takeaways**
 
 * Optimieren Ihrer [!DNL Marketo Engage] Programmaufbau und Zeitersparnis durch Verwendung von Dynamic Content
 * Erfahren Sie, wie Sie Ihre Datenbank segmentieren, um Dynamic Content zu nutzen.

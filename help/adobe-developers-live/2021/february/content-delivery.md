@@ -1,6 +1,6 @@
 ---
-title: Bereitstellung von Inhalten durch den Experience Manager Cloud-Service
-description: Adobe Experience Manager as a Cloud Service verfügt über eine leistungsstarke vorkonfigurierte Inhaltsbereitstellungsarchitektur. Demonstrieren Sie, wie Sie optimierte Konfigurationen für die Bereitstellung von Inhalten am besten nutzen können. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+title: Inhaltsbereitstellung auf dem Experience Manager Cloud Service
+description: Adobe Experience Manager as a Cloud Service verfügt über eine leistungsstarke vorkonfigurierte Inhaltsbereitstellungsarchitektur. Veranschaulichen Sie, wie Sie optimierte Konfigurationen für die Inhaltsbereitstellung optimal nutzen. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -12,16 +12,17 @@ kt: 7270
 type: Event
 thumbnail: 332022.jpg
 exl-id: dd585d52-bf00-4f7f-86cb-86b6d67c5b9d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1597
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 29%
+source-wordcount: '97'
+ht-degree: 0%
 
 ---
 
 # Inhaltsbereitstellung auf Experience Manager Cloud Service - Einrichten des Projekts zur Bereitstellung schneller Erlebnisse
 
-Adobe Experience Manager as a Cloud Service verfügt über eine leistungsstarke vorkonfigurierte Inhaltsbereitstellungsarchitektur. Demonstrieren Sie, wie Sie optimierte Konfigurationen für die Bereitstellung von Inhalten am besten nutzen können.
+Adobe Experience Manager as a Cloud Service verfügt über eine leistungsstarke vorkonfigurierte Inhaltsbereitstellungsarchitektur. Veranschaulichen Sie, wie Sie optimierte Konfigurationen für die Inhaltsbereitstellung optimal nutzen.
 
 Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 

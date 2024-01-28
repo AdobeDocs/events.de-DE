@@ -1,5 +1,5 @@
 ---
-title: Eine Geschichte von zwei Wahrnehmungen – Marken vs. Verbraucher
+title: Eine Tabelle mit zwei Wahrnehmungen - Marken im Vergleich zu Verbrauchern
 description: Adobe entpackt das Verständnis und die Bereitschaft von Werbetreibenden und Werbetreibenden für eine Zukunft ohne Cookies, die Auswirkungen auf ihre Anwendungsfälle und ihre Wahrnehmung des umfassenderen Ökosystems.
 solution: Real-Time Customer Data Platform
 feature: Identities
@@ -10,10 +10,11 @@ thumbnail: 332060.jpg
 kt: 7335
 type: Event
 exl-id: 9736dd6f-ff33-41b5-80d6-1bb981bfc0b7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2404
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 16%
+source-wordcount: '128'
+ht-degree: 10%
 
 ---
 

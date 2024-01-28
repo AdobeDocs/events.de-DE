@@ -11,9 +11,10 @@ event-cta-url: https://www.youtube.com/watch?v=f1T9XU9TCJU
 event-start-time: 2022-10-25 09:00-7
 event-guests: Sandra Hausmann,Ben Tepfer,Brandon Poyfair,Jason Hickey
 exl-id: 468f1e46-7b69-41c3-8c49-948aaf2e92a3
-source-git-commit: 26cd8c02afc6f8cf506d82b363ccfd0482c3bafd
+duration: 3666
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -26,6 +27,6 @@ Da die meisten Journey heute über mehrere Oberflächen und Multi-Touchpoint ver
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410560/?quality=12&learn=on)
 
-Bei diesem Live-Stream-Ereignis haben Produktexperten von Adobe die neuesten intelligenten Angebotsranking-Funktionen eingeführt und gezeigt, wie Journey und Kampagnen in Adobe Journey Optimizer Angebote hinzugefügt werden können.  Außerdem wurde gezeigt, wie Angebote in nativen Journey Optimizer-Kanälen wie E-Mail, SMS und Mobile Apps sowie in externen Systemen und integrierten Anwendungen wie Adobe Target platziert werden können.
+Bei diesem Live-Stream-Ereignis stellten Adobe-Produktexperten die neuesten intelligenten Angebotsranking-Funktionen vor und zeigten, wie Journey und Kampagnen in Adobe Journey Optimizer Angebote hinzugefügt werden können.  Außerdem wurde gezeigt, wie Angebote in nativen Journey Optimizer-Kanälen wie E-Mail, SMS und Mobile Apps sowie in externen Systemen und integrierten Anwendungen wie Adobe Target platziert werden können.
 
 Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).

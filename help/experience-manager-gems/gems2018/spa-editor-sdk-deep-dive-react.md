@@ -1,13 +1,13 @@
 ---
 title: Detaillierte Einblicke in SPA-Editor-SDK - Teil 1 – React
 description: Detaillierte Einblicke in die Entwicklung von Single Page Applications, die mit dem AEM-Seiteneditor bearbeitet werden können.
-uuid: 535ebce7-bbd9-4e84-a7a8-52254d01550e
 discoiquuid: 4aac1fad-0b99-461b-8f09-6d775de5bbec
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: cdb5b891-8501-464a-bdd7-1b89dd17944c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3218
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '140'
 ht-degree: 100%
 
 ---

@@ -2,10 +2,11 @@
 title: Adobe [!DNL Campaign] Insider-Reihe
 description: Tipps und Tricks und Anregungen für Adobe [!DNL Campaign] -Kunden, um sie bei der Entwicklung kanalübergreifender Marketingstrategien, der Verbesserung der Kenntnisse von Marketing-Experten im Team und der Unterstützung von Unternehmen beim Start fortschrittlicherer kanalübergreifender Marketingstrategien zu unterstützen.
 exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 36
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 10%
+ht-degree: 0%
 
 ---
 
@@ -41,10 +42,10 @@ Tipps und Tricks und Anregungen für Adobe [!DNL Campaign] -Kunden, um sie bei d
    </td>
    <td>
       <a href="2022/tips.md">
-      <img alt="Zeitsparende Tipps von einem Profi" src="./assets/tips.png"/>
+      <img alt="Zeitspartipps von Profis" src="./assets/tips.png"/>
       </a>
       <div>
-         <a href="2022/tips.md"><strong>Zeitsparende Tipps von einem Profi</strong></a>
+         <a href="2022/tips.md"><strong>Zeitspartipps von Profis</strong></a>
          <br/>
       </div>
    </td>

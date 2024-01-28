@@ -1,11 +1,11 @@
 ---
 title: Tipps und Tricks für die Touch-optimierte Benutzeroberfläche von AEM Sites
 description: Erfahren Sie mehr über die besten Tipps und Tricks für die Touch-optimierte Benutzeroberfläche von  [!DNL AEM Sites] . Entdecken Sie die Funktionen der Touch-optimierten Benutzeroberfläche, die Sie vielleicht noch nicht kennen und die es Ihnen ermöglichen, mehr zu erreichen und schneller zu arbeiten. Egal, ob Sie ein Content-Stratege oder ein Content-Marketer sind, Sie werden einige der verborgenen Schätze der Touch-optimierten Benutzeroberfläche entdecken, die Sie effizienter und produktiver machen werden.
-uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
 exl-id: e5575c26-8725-4857-973f-b0991d48497b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3140
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%

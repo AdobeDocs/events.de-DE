@@ -1,15 +1,15 @@
 ---
 title: Fragen an Experten - Messen der Geschwindigkeit
 description: Erfahren Sie, wie Sie die Geschwindigkeit mit [!DNL Workfront] Berichterstellung. Diese Werkstatt wurde am 14. August 2019 aufgenommen.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4630
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '3958'
+source-wordcount: '3967'
 ht-degree: 1%
 
 ---
@@ -473,4 +473,4 @@ Als Planer können Sie Berichte für andere Benutzer abrufen?
 
 **Antwort**
 
-Ein Planer kann Berichte erstellen und für beliebige Benutzer freigeben, auch für Personen, die keine Benutzer sind. Gehen Sie beim Anzeigen des Berichts zu Berichtaktionen > Freigabe und klicken Sie dann auf das Zahnradsymbol oben rechts im Feld Zugriff auf Bericht . Wählen Sie &quot;Veröffentlichen Sie diese für externe Benutzer&quot;. Option. Sie können den bereitgestellten Link kopieren und an jeden senden. Der Bericht wird in Echtzeit im Browser angezeigt.
+Ein Planer kann Berichte erstellen und für beliebige Benutzer freigeben, auch für Personen, die keine Benutzer sind. Gehen Sie beim Anzeigen des Berichts zu Berichtaktionen > Freigabe und klicken Sie dann auf das Zahnradsymbol oben rechts im Feld Zugriff auf Bericht . Wählen Sie &quot;Veröffentlichen Sie diese für externe Benutzer&quot;. -Option. Sie können den bereitgestellten Link kopieren und an jeden senden. Der Bericht wird in Echtzeit im Browser angezeigt.

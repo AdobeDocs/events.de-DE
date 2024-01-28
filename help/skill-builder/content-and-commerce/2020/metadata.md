@@ -13,16 +13,17 @@ version: Cloud Service
 type: Event
 kt: 7339
 exl-id: b988b7ca-316f-4a14-9ca1-a9dc6b24aa5d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2964
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 15%
+source-wordcount: '169'
+ht-degree: 6%
 
 ---
 
 # Metadaten - Adobe Experience Manager Asset-Serie
 
-Nutzen Sie diese fünfteilige Webinarreihe, um Ihre Wissensgrundlage zu schaffen und Ihre Investition in Adobe Experience Manager Assets zu maximieren. Wenn Sie ein Praktiker sind, der neu bei Adobe Experience Manager Assets ist oder seit einiger Zeit Adobe Experience Manager Assets verwendet und Ihre vorhandenen Fähigkeiten optimieren möchte, ist dies der ideale Weg, um einen tiefen Einblick in fünf der wichtigsten Lösungsbereiche zu erhalten. Adobe-Experten werden die Grundlagen überprüfen und Ihnen erweiterte Einblicke geben, die Ihnen umsetzbare nächste Schritte ermöglichen, die Sie sofort umsetzen können.
+Nutzen Sie diese fünfteilige Webinar-Reihe, um Ihre Wissensbasis aufzubauen und Ihre Investitionen in Adobe Experience Manager Assets zu maximieren. Wenn Sie ein Praktiker sind, der neu in Adobe Experience Manager Assets ist oder Adobe Experience Manager Assets seit einer Weile verwendet und Ihre vorhandenen Fähigkeiten verbessern möchte, ist dies der ideale Weg, um einen tiefen Einblick in fünf der wichtigsten Bereiche der Lösung zu erhalten. Adobe-Experten werden die Grundlagen überprüfen und Ihnen erweiterte Einblicke geben, die Ihnen umsetzbare nächste Schritte ermöglichen, die Sie sofort umsetzen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 
@@ -39,7 +40,7 @@ Einrichten einer klaren Strategie zur Optimierung der Entdeckung.
 
 ## Serienaufnahmen
 
-* [Asset-Link](asset-link.md)
-* [Brand Portal ](brand-portal.md)
+* [Asset Link](asset-link.md)
+* [Brand Portal](brand-portal.md)
 * [Dynamische Medien](dynamic-media.md)
-* [Folder Structure and Search (Ordnerstruktur und Suche)](folder-structure-search.md)
+* [Ordnerstruktur und Suche](folder-structure-search.md)

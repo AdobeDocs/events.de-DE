@@ -1,13 +1,13 @@
 ---
 title: AEM – Best Practices für die Bereitstellung von AEM-Wartungsversionen
 description: Lernen Sie die Best Practices für die Bereitstellung von AEM-Wartungsversionen kennen, d. h. Service Packs und kumulative Fix Packs. Wir werden auch auf die üblichen Herausforderungen bei der Bereitstellung eingehen und Verbesserungen im Package Manager demonstrieren. In dieser Sitzung lernen Sie Best Practices, Validierungen und Tipps zur Überwachung für Bereitstellungen von Wartungsversionen kennen.
-uuid: ff4d7884-c3df-44a9-9863-78a79fa58fad
 discoiquuid: 9020b761-503f-4e4a-9d4f-eb615919d716
 targetaudience: target-audience advanced
 exl-id: 02ac66bc-46d4-4384-a719-23020b9285f9
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2534
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '150'
 ht-degree: 100%
 
 ---

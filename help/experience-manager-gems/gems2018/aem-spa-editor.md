@@ -1,13 +1,13 @@
 ---
 title: Der SPA-Editor von AEM
 description: Da Single Page Applications (SPA) das gesamte Besuchererlebnis interaktiver gestalten, gewinnen sie an Popularität, auch für inhaltsorientierte Erlebnisse. In dieser Einführung erfahren Sie mehr über den SPA-Editor.
-uuid: d61f7398-c3e8-475a-a3c3-f71a8106c8f4
 discoiquuid: 8c6673c0-635e-453d-abf0-5d0db313329a
 targetaudience: target-audience advanced
 exl-id: 99684051-9a66-4d33-8ed0-1362de6d2a04
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3565
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '210'
 ht-degree: 100%
 
 ---

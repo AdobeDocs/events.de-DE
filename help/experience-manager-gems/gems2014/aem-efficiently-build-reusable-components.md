@@ -1,13 +1,13 @@
 ---
 title: Effizientes Erstellen wiederverwendbarer Komponenten
 description: Erfahren Sie, warum es für die Effizienz Ihres Teams entscheidend ist, dass die HTML-Web-Entwickler vollständig in das AEM-Projekt integriert werden können, und wie dies möglich gemacht werden kann. Lernen Sie auch die neuen Basiskomponenten kennen, die mit Server-seitigem JavaScript und HTL erstellt wurden, und erfahren Sie, wie Sie diese wiederverwenden und erweitern können.
-uuid: 445d4ead-8055-4624-a618-edd67ee3ec2d
 discoiquuid: 8c411732-3462-4ea1-9bca-e3e1cd6ac3f0
 targetaudience: target-audience advanced
 exl-id: 6cffa7ca-4b83-4564-8674-51ec7d2d734c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 5792
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '192'
 ht-degree: 100%
 
 ---

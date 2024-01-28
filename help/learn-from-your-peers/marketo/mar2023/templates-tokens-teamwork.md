@@ -9,10 +9,11 @@ last-substantial-update: 2023-03-03T00:00:00Z
 jira: KT-12415
 thumbnail: 3416250.jpeg
 exl-id: 2526c088-08da-4839-a1f4-27aa1f620340
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3440
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +21,7 @@ ht-degree: 1%
 
 Die Inhaltserstellung für Ihre Marketingprogramme ist ein langer Weg. Durch die Anwendung von Vorlagen und Token können Sie skalierbare Prozesse in allen Teams erstellen und mit weniger in mehr erreichen [!DNL Marketo Engage]. Hören Sie Lauren McCormack, einen preisgekrönten Marketingleiter - und 2x Adobe [!DNL Marketo Engage] Champion - wie sie ihre Jahre der Weisheit teilt, um Ihre [!DNL Marketo Engage] Inhalt skalierbar.
 
-Informationen:
+Erfahren Sie mehr über:
 
 * Verwenden von Token und Vorlagen, um Programme effektiver und effizienter zu erstellen
 * Tipps, wie Sie die vorhandene Inhaltsbibliothek optimal nutzen können

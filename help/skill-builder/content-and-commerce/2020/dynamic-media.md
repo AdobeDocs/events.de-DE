@@ -13,16 +13,17 @@ version: Cloud Service
 type: Event
 kt: 7341
 exl-id: 01149450-8d92-4ea8-a048-86559dd323b7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3081
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 6%
+source-wordcount: '164'
+ht-degree: 5%
 
 ---
 
 # Dynamic Media - Adobe Experience Manager Asset Series
 
-Nutzen Sie diese fünfteilige Webinarreihe, um Ihre Wissensgrundlage zu schaffen und Ihre Investition in Adobe Experience Manager Assets zu maximieren. Wenn Sie ein Praktiker sind, der neu bei Adobe Experience Manager Assets ist oder seit einiger Zeit Adobe Experience Manager Assets verwendet und Ihre vorhandenen Fähigkeiten optimieren möchte, ist dies der ideale Weg, um einen tiefen Einblick in fünf der wichtigsten Lösungsbereiche zu erhalten. Adobe-Experten werden die Grundlagen überprüfen und Ihnen erweiterte Einblicke geben, die Ihnen umsetzbare nächste Schritte ermöglichen, die Sie sofort umsetzen können.
+Nutzen Sie diese fünfteilige Webinar-Reihe, um Ihre Wissensbasis aufzubauen und Ihre Investitionen in Adobe Experience Manager Assets zu maximieren. Wenn Sie ein Praktiker sind, der neu in Adobe Experience Manager Assets ist oder Adobe Experience Manager Assets seit einer Weile verwendet und Ihre vorhandenen Fähigkeiten verbessern möchte, ist dies der ideale Weg, um einen tiefen Einblick in fünf der wichtigsten Bereiche der Lösung zu erhalten. Adobe-Experten werden die Grundlagen überprüfen und Ihnen erweiterte Einblicke geben, die Ihnen umsetzbare nächste Schritte ermöglichen, die Sie sofort umsetzen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
@@ -37,7 +38,7 @@ Automatisieren Sie die Ausgabe von Assets für alle Kanäle und Bildschirme mit 
 
 ## Serienaufnahmen
 
-* [Asset-Link](asset-link.md)
-* [Brand Portal ](brand-portal.md)
-* [Folder Structure and Search (Ordnerstruktur und Suche)](folder-structure-search.md)
+* [Asset Link](asset-link.md)
+* [Brand Portal](brand-portal.md)
+* [Ordnerstruktur und Suche](folder-structure-search.md)
 * [Metadaten](metadata.md)

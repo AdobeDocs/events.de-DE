@@ -2,10 +2,11 @@
 title: Stimmen im Customer Data Management
 description: Ihr Ziel als technisches und Marketing-Praxisleiter und -Spezialist für das Kundendatenmanagement.  Diese Seite ist Ihre zentrale Anlaufstelle, um von Ihren Kollegen zu hören, sich inspirieren zu lassen und über Entwicklungen im Bereich Martech zu erfahren.
 exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 117
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 19%
+source-wordcount: '306'
+ht-degree: 4%
 
 ---
 
@@ -101,10 +102,10 @@ Willkommen beim Customer Data Management Voices Ihr Ziel als technisches und Mar
    </td> 
    <td>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html">
-      <img alt="10 Überlegungen zum verantwortungsvollen Kundendaten-Management" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
+      <img alt="10 Überlegungen zum verantwortungsvollen Customer Data Management" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 Überlegungen zum verantwortungsvollen Kundendaten-Management</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 Überlegungen zum verantwortungsvollen Customer Data Management</strong></a>
          <br/>
       </div>
       <p>
@@ -141,17 +142,17 @@ Willkommen beim Customer Data Management Voices Ihr Ziel als technisches und Mar
     </td>
      <td>
       <a href="./industry/data-collaboration-in-the-first-party-data-context.md">
-      <img alt="Erfassung von First-Party-Daten" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
+      <img alt="Datenerfassung im Erstanbieter-Datenkontext" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Erfassung von First-Party-Daten</strong></a>
+         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Datenerfassung im Erstanbieter-Datenkontext</strong></a>
       </div>
       <p>
       </p>
     </td>
      <td>
       <a href="./industry/the-future-of-data-management-and-the-changing-environment.md">
-      <img alt="Die Zukunft des Daten-Managements und die sich verändernde Umgebung" src="./assets/the-future-of-data-management-and-the-changing-environment.png"/>
+      <img alt="Die Zukunft des Data Managements und der sich wandelnden Umgebung" src="./assets/the-future-of-data-management-and-the-changing-environment.png"/>
       </a>
       <div>
          <a href="./industry/the-future-of-data-management-and-the-changing-environment.md"><strong>Die Zukunft des Daten-Managements und die sich verändernde Umgebung</strong></a>
@@ -161,10 +162,10 @@ Willkommen beim Customer Data Management Voices Ihr Ziel als technisches und Mar
     </td>
    <td>
       <a href="./industry/brands-vs-consumers.md">
-      <img alt="Eine Geschichte von zwei Wahrnehmungen – Marken vs. Verbraucher" src="./assets/brands-vs-consumers.png"/>
+      <img alt="Eine Tabelle mit zwei Wahrnehmungen - Marken im Vergleich zu Verbrauchern" src="./assets/brands-vs-consumers.png"/>
       </a>
       <div>
-         <a href="./industry/brands-vs-consumers.md"><strong>Eine Geschichte von zwei Wahrnehmungen – Marken vs. Verbraucher</strong></a>
+         <a href="./industry/brands-vs-consumers.md"><strong>Eine Tabelle mit zwei Wahrnehmungen - Marken im Vergleich zu Verbrauchern</strong></a>
          <br/>
       </div>
     </td>

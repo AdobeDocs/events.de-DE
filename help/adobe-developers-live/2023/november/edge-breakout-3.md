@@ -13,13 +13,14 @@ doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14423
 thumbnail: 3425634.jpeg
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+exl-id: 0760b690-eb3f-4a27-aa14-42d5f21214ba
+duration: 1767
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Developers Live Edge Delivery Services - Verteilung 3 - November 2023
 
@@ -28,4 +29,3 @@ Josh Wadsworth erzählt mit Edge Delivery Services in Adobe Experience Manager d
 Fahren Sie mit dem Gespräch fort in [Experience League Communities](https://adobe.ly/3rD9rMV).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425634/?learn=on)
-

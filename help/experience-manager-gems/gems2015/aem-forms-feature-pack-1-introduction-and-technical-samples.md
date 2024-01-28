@@ -1,13 +1,13 @@
 ---
 title: AEM  [!DNL Forms]  Feature Pack 1 – Einführung und technische Beispiele
 description: AEM  [!DNL Forms]  Feature Pack 1 ist der Upgrade-Pfad für LiveCycle-Bereitstellungen und erweitert die Reichweite dieser Bereitstellungen um alle Funktionen von AEM  [!DNL Forms]  und mehr. Zusätzlich wurde eine Einführung in kundenorientierte Beispiele veröffentlicht.
-uuid: da167766-78b9-44ef-80d9-88f7d7897611
 discoiquuid: db0f097d-9796-466d-b923-35be1e6483e1
 targetaudience: target-audience advanced
 exl-id: f651ed2b-a329-49d3-9595-64768cab9205
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2730
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '111'
 ht-degree: 100%
 
 ---

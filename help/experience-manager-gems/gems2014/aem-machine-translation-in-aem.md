@@ -1,13 +1,13 @@
 ---
 title: Maschinelle Übersetzung in AEM
 description: Erfahren Sie, wie AEM und Microsoft Translator maschinelle Übersetzungen bereitstellen, um die Reichweite Ihrer Inhalte zu erhöhen, die Markteinführungszeit für Inhalte zu verkürzen, die Kosten zu optimieren und die Auffindbarkeit für Benutzer durch Suchmaschinenoptimierung zu verbessern, was zu einer besseren Nutzung von Ressourcen und einem höheren ROI führt.
-uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
 exl-id: e4f4d4ec-f702-4958-913e-fb3d34421855
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3062
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 100%
 
 ---

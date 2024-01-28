@@ -1,11 +1,11 @@
 ---
 title: In Echtzeit und kompakt – Erstellen ereignisgesteuerter Integrationen mit AEM mithilfe von Adobe I/O Events
 description: Sind Sie es leid, Connectoren für AEM zu erstellen? Erfahren Sie, wie Sie interne OSGi-Ereignisse von AEM über Adobe I/O Events bereitstellen können, um ereignisgesteuerte Workflows für mehrere Systeme zu erstellen. Mit I/O Events können Sie in Echtzeit sowohl auf administrative Ereignisse als auch auf Kundenverhalten reagieren.
-uuid: 78a98ffd-cdca-462a-8915-fd936a270232
 discoiquuid: 4c239cfb-5c0f-45d7-a856-acdfd015df5d
 targetaudience: target-audience advanced
 exl-id: 18613ec9-a2d9-4c9d-958d-a324d9e4a1a7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2315
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%

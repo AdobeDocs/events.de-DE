@@ -2,10 +2,11 @@
 title: Skill Builder - Journey
 description: Aufnahme einer Webinar-Reihe, die Sie bei der Entwicklung von Echtzeit-Kundenprofilen unterstützt, indem Daten aus allen Quellen abgerufen werden, um personalisierte, kanalübergreifende Journey zu erstellen.
 exl-id: a77be055-e53b-4062-9e02-ee589c0b0f4d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 54
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 9%
+source-wordcount: '167'
+ht-degree: 2%
 
 ---
 

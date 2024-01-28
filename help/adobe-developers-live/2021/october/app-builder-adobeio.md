@@ -8,10 +8,11 @@ level: Experienced
 kt: 9220
 type: Event
 exl-id: e9a57c6d-8b98-4d9b-8967-b9ebfadf5d37
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1653
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 18%
+source-wordcount: '155'
+ht-degree: 8%
 
 ---
 

@@ -2,7 +2,8 @@
 title: Experience Maker the Skill Exchange
 description: Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundenlernereignisse, die sich auf die Vertiefung der Adobe Experience Cloud-Lösungen konzentrieren.
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
-source-git-commit: ba3b7d08ae9e9b703bc48df1c5963b8576f51733
+duration: 57
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%

@@ -10,14 +10,15 @@ role: Developer
 level: Beginner
 kt: 10470
 exl-id: 70564929-78c2-4a3d-bcf7-8708fd458812
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3289
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '178'
 ht-degree: 100%
 
 ---
 
-# Genauer betrachtet: Cloud Manager 2022
+# Im Hintergrund – Cloud Manager 2022
 
 *Dieses Webinar wurde am 15. Juni um 15.00 Uhr UTC abgehalten. Bitte sehen Sie sich die Aufnahme unten an.*
 

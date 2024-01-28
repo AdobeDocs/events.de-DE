@@ -1,13 +1,13 @@
 ---
 title: Einführung in HTL
 description: Hier erhalten Sie eine Einführung in HTL, ein neues Vorlagenmodul und neue Sprachimplementierung. HTL ist auf einem guten Weg, JSP als Skriptsprache für Apache Sling und CQ/AEM-Komponenten abzulösen, und strebt eine klare Trennung von Präsentation und Logik an.
-uuid: 980bc4ee-8b7f-4bce-9933-8b8af4cce3d2
 discoiquuid: e53db2da-f9a4-45b8-9203-1e4084937bba
 targetaudience: target-audience advanced
 exl-id: 504fa5bb-43e7-4b8c-9291-928fb4f37d0f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4010
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '167'
 ht-degree: 100%
 
 ---

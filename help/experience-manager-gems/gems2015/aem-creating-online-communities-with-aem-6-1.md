@@ -1,13 +1,13 @@
 ---
 title: Erstellen von Online-Communities mit AEM 6.1
 description: Erfahren Sie, wie Sie die leistungsstarke Authoring-Oberfläche von AEM nutzen können, um eine lebendige Kunden-Community aufzubauen, und lernen Sie die Tools kennen, mit denen Sie Ihre Fan-Gemeinde auch lange nach dem Start bei der Stange halten können.
-uuid: 5b685948-697f-4095-85ad-f62db189bb30
 discoiquuid: 62b6b8d4-b763-4801-9918-447a2c5deb01
 targetaudience: target-audience advanced
 exl-id: 86ceb0d8-b8ce-4ab9-8b54-68ac3dfeea95
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3473
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '149'
 ht-degree: 100%
 
 ---

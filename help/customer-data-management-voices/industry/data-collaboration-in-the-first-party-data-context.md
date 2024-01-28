@@ -1,5 +1,5 @@
 ---
-title: Erfassung von First-Party-Daten
+title: Datenerfassung im Erstanbieter-Datenkontext
 description: Dieses Webinar wird dazu beitragen, die Möglichkeiten der Datenzusammenarbeit in Zukunft ohne Drittanbieter-Cookies zu nutzen.
 solution: Real-Time Customer Data Platform
 feature: Data Management
@@ -9,20 +9,21 @@ type: Event
 thumbnail: 337665.jpg
 kt: 9145
 exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2560
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 33%
+source-wordcount: '118'
+ht-degree: 19%
 
 ---
 
-# Erfassung von First-Party-Daten
+# Datenerfassung im Erstanbieter-Datenkontext
 
 Bereitstellung von Erlebnissen trotz eingeschränkten Datenzugriffs. Unabhängig davon, ob Sie Advertiser, Herausgeber oder Agentur sind, wird dieses Webinar dazu beitragen, die Möglichkeiten der Datenzusammenarbeit in Zukunft ohne Drittanbieter-Cookies zu erschließen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337665/?quality=12&learn=on)
 
-## Wichtige Schlussfolgerungen:
+## Wichtige Vorteile:
 
 * So integrieren Sie Datenzusammenarbeitsmodelle mit Zustimmung des Verbrauchers in den Erstanbieterdatenkontext.
 * Erstellen von Marken-zu-Marke- und Herausgeber-direkten Partnerschaften, die das Erlebnisversprechen einhalten.
@@ -34,4 +35,4 @@ Bereitstellung von Erlebnissen trotz eingeschränkten Datenzugriffs. Unabhängig
 
 [Audience Marketplace für Datenkäufer](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
-[Benutzerbezogene Ziele](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=de)
+[Benutzerbasierte Ziele](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=de)

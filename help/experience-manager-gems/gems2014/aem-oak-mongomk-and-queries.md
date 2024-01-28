@@ -1,13 +1,13 @@
 ---
 title: AEM 6 Oak – MongoMK und Abfragen
 description: Lernen Sie das Abfragemodul von Oak kennen und erfahren Sie, wie es im Vergleich zu Jackrabbit 2.x funktioniert. Die Sitzung bietet Hinweise zur Analyse der Abfrageleistung und zur Verwaltung benutzerdefinierter Indizes. Im zweiten Teil geht es um MongoMK, wobei der Schwerpunkt auf den Konsistenzgarantien liegt, die die neue Cluster-Implementierung in AEM bietet.
-uuid: 110e7e51-6e0c-4eae-9bc3-063e16b0ec92
 discoiquuid: 51d59018-e137-4370-8530-9c38dca34343
 targetaudience: target-audience advanced
 exl-id: dea6d73e-0659-4b9a-b338-ee5eac0bc342
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3968
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 100%
 
 ---

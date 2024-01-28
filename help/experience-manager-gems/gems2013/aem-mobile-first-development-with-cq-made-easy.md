@@ -1,14 +1,14 @@
 ---
 title: Vereinfachte Mobile-First-Entwicklung mit CQ
 description: Erfahren Sie mehr über die Muster für responsives Design in CQ und darüber, wie Sie ein mobiles medienlastiges HTML5-Erlebnis bereitstellen, das auch mit Verbindungen mit geringer Bandbreite funktioniert. Zur Veranschaulichung dieser Muster gehen wir die Umwandlung einer CQ-Website von einer reinen Desktop-Website zu einer Mobile-First-Website durch. Wir gehen darauf ein, wie Mobile-First-Design-Prinzipien, adaptive Bilder und progressive Verbesserungen eingesetzt wurden, um die Website zu erstellen, und erörtern die Fallstricke, die auf dem Weg dorthin aufgetreten sind. Die Sitzung basiert auf dem Vortrag von Bruce auf der CQ-Konferenz in Basel, Schweiz (CQCON, 2013).
-uuid: 20f50539-8299-4080-818c-77201047022b
 discoiquuid: 5d79cfc0-a128-445b-9745-fd3722b550ac
 targetaudience: target-audience advanced
 exl-id: 712d673f-3016-4b18-8dcd-480a6eda3e13
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3497
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 97%
+source-wordcount: '192'
+ht-degree: 99%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: Toughday2 – Ein neues und verbessertes Stresstest- und Benchmarking-Tool
 description: „Tough Day“ war ein Test-Tool, das die tägliche Belastung in Worst-Case-Szenarien simulierte, wobei alle Vorgänge gleichzeitig abliefen. Wir haben das Feedback unserer Nutzer im Laufe der Jahre gesammelt und beschlossen, das Programm neu zu schreiben, um den Anforderungen gerecht zu werden.
-uuid: 6bf40482-6152-421b-bdfe-9a50176b98b7
 discoiquuid: d60dbb18-7938-4446-9928-7f5f5d1f83a1
 targetaudience: target-audience advanced
 exl-id: 5e6541c4-83e3-4505-b827-407f112f2437
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3141
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 100%

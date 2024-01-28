@@ -1,13 +1,13 @@
 ---
 title: Einrichten und Konfigurieren von AEM Dynamic Media
 description: Mit AEM Dynamic Media können Kunden skalierbar und kosteneffizient ansprechende Rich-Media-Erlebnisse für alle Bildschirme und Kunden-Touchpoints bereitstellen, und das alles von einem einzigen primären Bild oder Video aus!  In dieser Sitzung vermitteln wir Ihnen alles, was Sie für die erfolgreiche Implementierung von Kunden in Dynamic Media wissen müssen, einschließlich eines Überblicks über die Anwendungsfälle, die technische Architektur und die Konfigurationsschritte.
-uuid: 7074c98e-f9d1-4c15-b9db-dae3efda0ea0
 discoiquuid: c58473c1-d8d8-44a7-ac40-65843c77c937
 targetaudience: target-audience advanced
 exl-id: 93ae20fb-d6fe-4275-9692-93c25edba0ef
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3537
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '162'
 ht-degree: 100%
 
 ---

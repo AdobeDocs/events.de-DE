@@ -13,10 +13,11 @@ version: Cloud Service
 type: Event
 kt: 8937
 exl-id: f92344ca-9c74-4205-968c-b12a58bae241
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3712
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 

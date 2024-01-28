@@ -1,5 +1,5 @@
 ---
-title: Integration von AEM- und CIF-Framework, um ein eindrucksvolles E-Commerce-Erlebnis zu schaffen
+title: Integration von AEM und dem CIF-Framework, um ein vielfältiges und beeindruckendes E-Commerce-Erlebnis zu schaffen
 description: Erfahren Sie, wie Sie mit dem CIF-Framework von Adobe ein konsistentes und inhaltsreiches Commerce-Erlebnis schaffen können.
 solution: Experience Manager
 feature-set: Experience Manager
@@ -10,14 +10,15 @@ role: User
 level: Intermediate
 kt: 10220
 exl-id: 3f893f4f-8d4e-4877-9520-8d2012eb724a
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3561
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '213'
 ht-degree: 100%
 
 ---
 
-# Integration von AEM- und CIF-Framework, um ein eindrucksvolles E-Commerce-Erlebnis zu schaffen
+# Integration von AEM und dem CIF-Framework, um ein vielfältiges und beeindruckendes E-Commerce-Erlebnis zu schaffen
 
 Dieses Webinar aus der Reihe AEM GEMs enthält eine Präsentation und eine Demo, die Ihnen zeigen, wie das CIF-Framework von Adobe verwendet werden kann, um ein konsistentes, inhaltsreiches und beeindruckendes Commerce-Erlebnis zu schaffen. Experience Manager und Adobe Commerce werden über das Commerce Integration Framework (CIF) nahtlos integriert. CIF ermöglicht AEM über die GraphQL-APIs von Adobe Commerce den direkten Zugriff auf und die Kommunikation mit der Commerce-Instanz (siehe die nachstehende Agenda).
 

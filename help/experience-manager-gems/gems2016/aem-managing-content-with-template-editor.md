@@ -1,14 +1,14 @@
 ---
 title: Verwalten von Inhalten mit dem Vorlageneditor von Adobe Experience Manager
 description: Mit Adobe Experience Manager 6.2 wurde ein neuer Vorlageneditor eingeführt, der neue, leistungsstarke Möglichkeiten zur Erstellung, Strukturierung und Konfiguration digitaler Eigenschaften bietet. Erkunden Sie die Funktion aus der Perspektive eines Superautors, um zu verstehen, wie sie es ermöglicht, verschiedene Seitenvorlagen zu erstellen und genau zu kontrollieren, was Autoren auf den entsprechenden Seiten tun dürfen. Schließlich sollten Sie sich mit der inneren Mechanik befassen, um zu verstehen, wie es technisch gesehen funktioniert.
-uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: 0f447b26-e145-48ea-8b75-a9c03b047da9
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2962
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 78%
+source-wordcount: '263'
+ht-degree: 77%
 
 ---
 

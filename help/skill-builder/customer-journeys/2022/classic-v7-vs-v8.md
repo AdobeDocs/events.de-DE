@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Campaign Classic] V7 vs V8
-description: Nehmen Sie an dieser Sitzung teil, um sich über die neuesten Produktaktualisierungen zu informieren und die Unterschiede zwischen V7 und V8 unserer Produktmanager zu verstehen.
+description: Nehmen Sie an dieser Sitzung teil, um sich über die neuesten Produktaktualisierungen zu informieren und die Unterschiede zwischen V7 und V8 von unseren Produktmanagern zu verstehen.
 solution: Campaign Classic v7, Campaign v8
 role: Admin, User
 level: Intermediate, Experienced
@@ -8,7 +8,8 @@ kt: 10566
 thumbnail: 343823.jpeg
 hideFromToc: true
 hideFromSearch: true
-source-git-commit: 9c440ff136ecaa7634ca3be666851fbeff298c86
+duration: 2282
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 # Adobe [!DNL Campaign Classic] V7 vs V8
 
-Nehmen Sie an dieser Sitzung teil, um sich über die neuesten Produktaktualisierungen zu informieren und die Unterschiede zwischen V7 und V8 unserer Produktmanager zu verstehen.
+Nehmen Sie an dieser Sitzung teil, um sich über die neuesten Produktaktualisierungen zu informieren und die Unterschiede zwischen V7 und V8 von unseren Produktmanagern zu verstehen.
 
 *Christophe Protat* Produkt-Manager/Adobe
 

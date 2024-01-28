@@ -1,13 +1,13 @@
 ---
 title: Detaillierte Einblicke in SPA-Editor-SDK - Teil 2 – Angular
 description: Detaillierte Einblicke in die Entwicklung von Single Page Applications, die mit dem AEM-Seiteneditor bearbeitet werden können.
-uuid: 4ac2d85b-63f9-4d74-a8c0-7857be6b3d84
 discoiquuid: 3b050b88-e1c3-4a42-81ce-bd1b321a01e7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: da77b44b-5bf2-43de-bf72-9f302398decf
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2754
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '144'
 ht-degree: 100%
 
 ---
