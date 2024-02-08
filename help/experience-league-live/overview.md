@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 42%
+source-wordcount: '167'
+ht-degree: 44%
 
 ---
 
@@ -25,15 +25,15 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-08-24.md">
-      <img alt="Experience League LIVE Feb 08" src="episodes/assets/WebBanner-Feb08-2024.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-29-24.md">
+      <img alt="Experience League LIVE Feb 29" src="assets/Feb29_2024_WebBanner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-02-08-24.md">
-        <strong>Anwendungsbeispiele, Self-Service-Vorlagen, um Anwendungsfälle mit wenigen Klicks für Real-Time CDP und Journey Optimizer bereitzustellen</strong>
+      <a href="episodes/exl-live-episode-02-29-24.md">
+        <strong>Die neue Adobe Campaign v8-Benutzeroberfläche vorantreiben</strong>
       </a>
-      <br/><em>mit Daniel Wright, Josée Monette-Healey und Rohit Basuri</em>
-      <br/><em>8. Februar 2024</em>
+      <br/><em>mit Sandra Hausmann, Eric Perrin, Gaël Mouëllo, Bruce Swann</em>
+      <br/><em>29.02.2024</em>
     </div>
   </td>
 </tr>

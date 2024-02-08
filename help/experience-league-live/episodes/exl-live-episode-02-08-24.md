@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=EZGQ--J2M9I
 event-start-time: 2024-02-08 09:00-7
 event-guests: Daniel Wright,Josée Monette-Healey,Rohit Basuri
 duration: 25
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,6 @@ ht-degree: 0%
 
 Einführung in Nutzungsszenarios-Playbooks - ein ausführbarer Katalog branchenspezifischer Anwendungsfallbücher in Real-Time CDP und Journey Optimizer. In diesem Webinar erfahren Sie mehr über Nutzungsszenario-Playbooks und wie diese Ihre Marketing-Ziele in Implementierungsobjekte übersetzen. Wir zeigen Ihnen, wie Sie Ihr Unternehmen beim Erstellen und Bereitstellen von häufig bekannten Anwendungsfällen für eine beschleunigte geschäftliche Wirkung und Zusammenarbeit vorantreiben können.
 
-[![ExL LIVE Februar 2024](assets/WebBanner-Feb08-2024.jpg)](https://www.youtube.com/watch?v=EZGQ--J2M9I)
+>[!VIDEO](https://video.tv.adobe.com/v/3426930/?quality=12&learn=on)
 
-**Klicken Sie auf das obige Bild, um eine YouTube Live-Erinnerung festzulegen.**.
-
+**Haben Sie Fragen dazu?** Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
