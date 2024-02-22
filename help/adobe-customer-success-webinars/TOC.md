@@ -2,10 +2,10 @@
 user-guide-title: Adobe Customer Success Webinare
 breadcrumb-title: Adobe Customer Success Webinare
 user-guide-description: Adobe Customer Success-geführte Webinare, mit denen Sie Ihre Investition in Adobe Experience Cloud optimieren können. Erhalten Sie wertvolle Einblicke, um den Nutzen zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '112'
+ht-degree: 1%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 0%
 # Adobe Customer Success Webinare {#adobe-customer-success-webinar-recordings}
 
 + [Adobe Customer Success Webinare](overview.md)
++ 2024 {#2024}
+   + [Data Stream-Priorisierung](2024/data-stream-prioritization.md)
+   + [Strategische Führung](2024/strategic-leadership.md)
 + 2023 {#2023}
    + [Erstellen der Grundlage für die Personalisierung im Maßstab](2023/personalization-at-scale.md)
    + [Change Management](2023/change-management.md)
