@@ -1,15 +1,15 @@
 ---
 title: Die neue Adobe Campaign-Web-Benutzeroberfläche vorantreiben
-description: Nehmen Sie am 29. Februar teil, um zu erfahren, wie Sie kanalübergreifende Strategien mithilfe der neuen Adobe Campaign Web-Benutzeroberfläche planen, starten und messen können, einschließlich der generativen KI-Funktionen in der Beta-Phase.
+description: Nehmen Sie am 29. Februar teil, um zu erfahren, wie Sie kanalübergreifende Strategien mithilfe der neuen Adobe Campaign Web-Benutzeroberfläche planen, starten und messen können.
 kt: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: 46cb6d3ed306f7f03116124912bcbdb0a5f24529
+source-git-commit: ebfe862ab1219b40a957f4cf5db552ff09292bef
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
