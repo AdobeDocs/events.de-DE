@@ -3,9 +3,9 @@ title: Commerce Intelligence-Webinare
 description: Informieren Sie sich in den aufgezeichneten Webinaren von Commerce Intelligence , in denen eine Vielzahl von Themen und Best Practices für die Nutzung von Commerce Intelligence so weit wie möglich vorgestellt wird.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 17a9052c99275eff0599c64be3d6872e60c52fe1
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '251'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Die Themen werden gelegentlich wiederholt, um neue Fragen aufzugreifen, die von 
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
-      <img alt="Erste Schritte mit Commerce Intelligence" src="./assets/getting-started.png" />
+      <img alt="Erste Schritte mit Commerce Intelligence" src="https://video.tv.adobe.com/v/3425736?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
@@ -40,21 +40,21 @@ Die Themen werden gelegentlich wiederholt, um neue Fragen aufzugreifen, die von 
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-      <img alt="Verwalten von Datensätzen in MBI" src="./assets/managing-data-sets-mbi.png" />
+    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <img alt="Verwalten von Datensätzen in Adobe Commerce Intelligence" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-        <strong>Verwalten von Datensätzen in MBI</strong>
+      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+        <strong>Verwalten von Datensätzen in Adobe Commerce Intelligence</strong>
       </a>
     </div>
     <p>
-    <em>Erfahren Sie mehr über einige der leistungsstarken Funktionen des MBI-Data Warehouse-Managers direkt vom Adobe Commerce-Produktteam. Gehen Sie über die grundlegende Berichterstellung hinaus und lernen Sie, wie Sie mit Ihren Daten mehr erreichen können.</em>
+    <em>Entdecken Sie die robusten Funktionen des Commerce Intelligence Data Warehouse Manager direkt vom Produktteam.</em>
     <p>
   </td>
    <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
-      <img alt="Optimieren Ihres MBI-Data Warehouse" src="./assets/optimize-data-warehouse.png" />
+      <img alt="Optimieren Ihres MBI-Data Warehouse" src="https://video.tv.adobe.com/v/342562?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
