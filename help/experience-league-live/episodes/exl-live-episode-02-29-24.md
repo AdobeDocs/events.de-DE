@@ -7,10 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: e0c633c24b493c757eb7c47d472e9e07df789fc3
+source-git-commit: be09d9c0bda9c1fdf2f37092ee4ac6ec284b39ce
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 2%
 
 ---
 
@@ -22,6 +22,13 @@ Nehmen Sie an dieser Experience League Live-Sitzung teil, in der Adobe Campaign-
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
-Eine ausführliche Dokumentation darüber, was derzeit in der Adobe Campaign-Web-Benutzeroberfläche verfügbar ist, finden Sie unter [Campaign-Webbenutzeroberfläche - Schlüsselfunktionen](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=de){target="_blank"}.
+**Haben Sie Fragen?** Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
 
-**Haben Sie Fragen dazu?** Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+## Zusätzliche Ressourcen
+
+* **[Campaign-Webbenutzeroberfläche - Schlüsselfunktionen](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=de){target="_blank"}**
+*Eine ausführliche Dokumentation darüber, was derzeit in der Adobe Campaign-Web-Benutzeroberfläche verfügbar ist, finden Sie unter [Campaign-Webbenutzeroberfläche - Schlüsselfunktionen](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=de){target="_blank"}.
+
+* **[Adobe Campaign-Webbenutzeroberfläche - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+*Anleitungen zu Videos und Tutorials zu den Funktionen der Adobe Campaign-Webbenutzeroberfläche.
+
