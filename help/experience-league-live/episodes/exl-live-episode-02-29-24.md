@@ -7,10 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: be09d9c0bda9c1fdf2f37092ee4ac6ec284b39ce
+source-git-commit: e8ecba0a2c066e881e53be13f07352e636058de2
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 2%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
@@ -27,8 +27,8 @@ Nehmen Sie an dieser Experience League Live-Sitzung teil, in der Adobe Campaign-
 ## Zusätzliche Ressourcen
 
 * **[Campaign-Webbenutzeroberfläche - Schlüsselfunktionen](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=de){target="_blank"}**
-*Eine ausführliche Dokumentation darüber, was derzeit in der Adobe Campaign-Web-Benutzeroberfläche verfügbar ist, finden Sie unter [Campaign-Webbenutzeroberfläche - Schlüsselfunktionen](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=de){target="_blank"}.
+  *Detaillierte Dokumentation darüber, was derzeit in der Adobe Campaign-Web-Benutzeroberfläche verfügbar ist.*
 
 * **[Adobe Campaign-Webbenutzeroberfläche - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
-*Anleitungen zu Videos und Tutorials zu den Funktionen der Adobe Campaign-Webbenutzeroberfläche.
+  *Anleitungen zu Videos und Tutorials zu den Funktionen der Adobe Campaign-Webbenutzeroberfläche.*
 
