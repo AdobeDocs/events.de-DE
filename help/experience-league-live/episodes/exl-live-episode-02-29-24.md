@@ -1,15 +1,16 @@
 ---
-title: Die neue Adobe Campaign-Web-Benutzeroberfläche vorantreiben
-description: Nehmen Sie am 29. Februar teil, um zu erfahren, wie Sie kanalübergreifende Strategien mithilfe der neuen Adobe Campaign Web-Benutzeroberfläche planen, starten und messen können.
-kt: KT-14433
+title: Verbessern der Marketingeffizienz in Social Media mit der neuen Adobe Campaign Web-Benutzeroberfläche
+description: Lernen Sie, bei der Planung, dem Start und der Messung kanalübergreifender Marketingstrategien, einschließlich E-Mail-Marketing und Social-Media-Marketing, mithilfe der neuen Adobe Campaign-Web-Benutzeroberfläche effizienter zu sein.
+jira: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: e8ecba0a2c066e881e53be13f07352e636058de2
+exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
+source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '424'
 ht-degree: 1%
 
 ---
@@ -22,7 +23,25 @@ Nehmen Sie an dieser Experience League Live-Sitzung teil, in der Adobe Campaign-
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
-**Haben Sie Fragen?** Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+>[!BEGINSHADEBOX &quot;Haben Sie Fragen?&quot;]
+
+Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+
+>[!ENDSHADEBOX]
+
+Die neue Campaign-Webbenutzeroberfläche ist wichtig, da sie für Adobe Campaign-Benutzer eine einheitliche und moderne Benutzererfahrung bietet. Er optimiert den Kampagnenerstellungsprozess, ermöglicht eine einfache Navigation und Konfiguration und bietet Funktionen wie die Erstellung von Zielgruppen, das Inhaltserstellung und das Kampagnenmanagement. Die neue Benutzeroberfläche ist auch mit anderen Adobe Experience Cloud-Lösungen integriert, sodass Benutzer auf verschiedene Tools innerhalb des Ökosystems zugreifen und diese nutzen können. Darüber hinaus ist die neue Benutzeroberfläche von Webbrowsern aus zugänglich, sodass Benutzer nicht zwischen verschiedenen Plattformen oder Anwendungen wechseln müssen. Insgesamt verbessert die neue Campaign-Webbenutzeroberfläche die Effizienz, das Benutzererlebnis und die Zusammenarbeit für Marketing-Experten und Kampagnenmanager.
+
+## Haupterkenntnisse
+
+* Die neue Adobe-Campaign-Webbenutzeroberfläche wurde gestartet und steht Kunden mit Version 8.6 von Adobe Campaign zur Verfügung.
+* Die Web-Benutzeroberfläche bietet ein einheitliches und konsistentes Benutzererlebnis für alle Adobe Experience Cloud-Produkte.
+* Die Startseite der Web-Benutzeroberfläche ermöglicht einen schnellen Zugriff auf alle Experience Cloud-Anwendungen und bietet Benachrichtigungen und Support-Optionen.
+* Die Web-Benutzeroberfläche vereinfacht die Erstellung von Audiences, die Definition von Kampagnen und die Erstellung von E-Mail-Inhalten.
+* Die Web-Benutzeroberfläche ermöglicht die Integration von Datenbanken von Drittanbietern und bietet Zugriff auf Adobe Experience Platform und Adobe Analytics.
+* Die JavaScript-Aktivität kann noch nicht in der Web-Benutzeroberfläche bearbeitet werden, sie kann jedoch weiterhin ausgeführt und angezeigt werden.
+* Die Web-Benutzeroberfläche unterstützt die Verwendung vordefinierter Filter und ermöglicht die Anpassung der Explorer-Navigation.
+* Die Web-Benutzeroberfläche wird kontinuierlich mit neuen Funktionen aktualisiert.
+
 
 ## Zusätzliche Ressourcen
 
@@ -31,4 +50,3 @@ Nehmen Sie an dieser Experience League Live-Sitzung teil, in der Adobe Campaign-
 
 * **[Adobe Campaign-Webbenutzeroberfläche - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *Anleitungen zu Videos und Tutorials zu den Funktionen der Adobe Campaign-Webbenutzeroberfläche.*
-
