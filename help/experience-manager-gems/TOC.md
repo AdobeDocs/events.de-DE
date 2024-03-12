@@ -2,10 +2,10 @@
 user-guide-title: GEMS-Veranstaltungen für Adobe Experience Manager
 user-guide-description: Erfahren Sie mehr über AEM GEMs, eine Reihe detaillierter technischer Einblicke, die von Adobe Experience Manager-Experten angeboten werden.
 breadcrumb-title: GEMS-Veranstaltungen für AEM
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 98%
+source-wordcount: '696'
+ht-degree: 95%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 98%
 # GEMS-Veranstaltungen für Experience Manager {#experience-manager-gems-recordings}
 
 + [Übersicht](overview.md)
++ 2024 {#gems2024}
+   + [Erste Schritte mit AEM Authoring und Edge Delivery Services](/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [Erstellen von Storefronts auf Edge Delivery Services in Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [New Relic APM für AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM-Zertifizierung - Technisch](gems2023/aem-certification-technical.md)
@@ -20,8 +23,8 @@ ht-degree: 98%
    + [AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
    + [Kunden-Anwendungsfall und Implementierung von AEM Headless in Verwendung](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
-   + [Genauer betrachtet: Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
-   + [Integration von AEM- und CIF-Framework, um ein eindrucksvolles E-Commerce-Erlebnis zu schaffen](gems2022/aem-and-cif-framework-integration.md)
+   + [Im Hintergrund – Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
+   + [Integration von AEM und dem CIF-Framework, um ein vielfältiges und beeindruckendes E-Commerce-Erlebnis zu schaffen](gems2022/aem-and-cif-framework-integration.md)
    + [Schnellere Erstellung von Websites mit AEM Headless und App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service: Rückblick auf 2021 und Ausblick auf 2022.](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
