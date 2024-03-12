@@ -2,7 +2,7 @@
 user-guide-title: GEMS-Veranstaltungen für Adobe Experience Manager
 user-guide-description: Erfahren Sie mehr über AEM GEMs, eine Reihe detaillierter technischer Einblicke, die von Adobe Experience Manager-Experten angeboten werden.
 breadcrumb-title: GEMS-Veranstaltungen für AEM
-source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
+source-git-commit: 1bef27ae79d023817407b9ac838fae2505116c4c
 workflow-type: tm+mt
 source-wordcount: '696'
 ht-degree: 95%
@@ -14,8 +14,8 @@ ht-degree: 95%
 
 + [Übersicht](overview.md)
 + 2024 {#gems2024}
-   + [Erste Schritte mit AEM Authoring und Edge Delivery Services](/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
-   + [Erstellen von Storefronts auf Edge Delivery Services in Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+   + [Erste Schritte mit AEM Authoring und Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [Erstellen von Storefronts auf Edge Delivery Services in Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [New Relic APM für AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM-Zertifizierung - Technisch](gems2023/aem-certification-technical.md)
