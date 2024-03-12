@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM-Sitzungen
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
+source-git-commit: 4fbbc6c8f1abfaaa7b26b8e9ef6e0d0685217d7b
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 77%
@@ -47,7 +47,7 @@ ht-degree: 77%
 -->
 Unser aktuellstes AEM GEMs-Webinar auf **Erstellen von Storefronts auf Edge Delivery Services mit Adobe Commerce** wurde durchgeführt am *6. März 2024*.
 Die **Aufzeichnen** finden Sie hier:
-[Erstellen von Storefronts auf Edge Delivery Services mit Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[Erstellen von Storefronts auf Edge Delivery Services mit Adobe Commerce](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 
 >[!NOTE]
 >
