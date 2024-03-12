@@ -11,18 +11,18 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
-source-git-commit: 0d2af4fa23c16fc5407b224a715510c957b2e4b5
+source-git-commit: 92e19dbdd92d8d901a48edff751487b42a5d9f2c
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 0%
+source-wordcount: '276'
+ht-degree: 2%
 
 ---
 
+# Webinar-Datum: 6. März 2024
 
-# Webinar-Datum: 13. März 2024
-Zeit: 17.00 Uhr MEZ / 9.00 Uhr PDT / 21.30 Uhr IST Bitte registrieren Sie sich über den unten stehenden Link der Veranstaltungsseite.
+Zeit: 17.00 Uhr MEZ / 9.00 Uhr PDT / 21.30 Uhr IST Dieses Webinar ist abgeschlossen. Bitte sehen Sie sich die Aufnahme unten an.
 
-# Erstellen von Storefronts auf Edge Delivery Services mit Adobe Commerce
+## Erstellen von Storefronts auf Edge Delivery Services mit Adobe Commerce
 
 In diesem AEM GEMs-Webinar erfahren Sie, wie Sie eine leistungsstarke Storefront für Edge Delivery Services für Adobe Commerce erstellen. Wir führen Sie durch den Einrichtungsprozess Ihres Projekts mit der Commerce-Vorlage und wie Sie sie mit den neuen Commerce SaaS-Services verbinden, um eine schnelle und benutzeroberflächenoptimierte Produktkatalogintegration mit Sensei zu ermöglichen. Wir führen Drop-in-Komponenten ein, eine Reihe von anpassbaren Frontend-Komponenten, die die Storefront-Entwicklung beschleunigen. Sie lernen Best Practices zur Erweiterung und Formatierung kennen. Schließlich werden wir die neuen Authoring-Funktionen der Edge-Bereitstellung hervorheben, um Ihre Commerce-Erlebnisse mit erstellten Inhalten anzureichern.
 
@@ -31,11 +31,11 @@ In diesem AEM GEMs-Webinar erfahren Sie, wie Sie eine leistungsstarke Storefront
 * Stephen Rugh, Senior Software Engineer
 * Hannes Hertach, Software Development Engineer
 
-## Webinarregistrierung
+## Webinar-Aufzeichnung
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427729)
 
 >[!NOTE]
->
->* Bitte melden Sie sich über an diesem Webinar an. [Ereignisseite](https://adobe.ly/48cmKCV).
 > 
 >* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf dem Experience League unsere [kontextueller Thread](https://adobe.ly/48m4dEm).
 >
