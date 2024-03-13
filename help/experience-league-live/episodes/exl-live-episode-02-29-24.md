@@ -1,5 +1,5 @@
 ---
-title: Verbessern der Marketingeffizienz in Social Media mit der neuen Adobe Campaign Web-Benutzeroberfläche
+title: Die neue Adobe Campaign-Web-Benutzeroberfläche vorantreiben
 description: Lernen Sie, bei der Planung, dem Start und der Messung kanalübergreifender Marketingstrategien, einschließlich E-Mail-Marketing und Social-Media-Marketing, mithilfe der neuen Adobe Campaign-Web-Benutzeroberfläche effizienter zu sein.
 jira: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
@@ -8,9 +8,9 @@ event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
 exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 8872c95059c96fc4b565563add254f3b359ea216
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '422'
 ht-degree: 1%
 
 ---
