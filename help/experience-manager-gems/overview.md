@@ -12,10 +12,10 @@ type: Event
 user-guide-description: AEM GEM-Sitzungen
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4fbbc6c8f1abfaaa7b26b8e9ef6e0d0685217d7b
+source-git-commit: 44db30f1def4682ed40a703c3e38b787d556621b
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 77%
+source-wordcount: '279'
+ht-degree: 72%
 
 ---
 
@@ -45,13 +45,13 @@ ht-degree: 77%
 </table>
 
 -->
-Unser aktuellstes AEM GEMs-Webinar auf **Erstellen von Storefronts auf Edge Delivery Services mit Adobe Commerce** wurde durchgeführt am *6. März 2024*.
+Unser aktuellstes AEM GEMs-Webinar auf **Erste Schritte mit AEM Authoring und Edge Delivery Services** wurde durchgeführt am *13. März 2024*.
 Die **Aufzeichnen** finden Sie hier:
-[Erstellen von Storefronts auf Edge Delivery Services mit Adobe Commerce](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[Erste Schritte mit AEM Authoring und Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
 
 >[!NOTE]
 >
-> Registrieren Sie sich, um über bevorstehende AEM GEMs-Sitzungen in der [AEM-Benutzergruppe von Adobe](https://aem-augs.adobe.com/) benachrichtigt zu werden.
+> Melden Sie sich an, um über bevorstehende AEM GEMs-Webinare informiert zu werden - [Adobe AEM Benutzergruppe](https://aem-augs.adobe.com/).
 
 ## AEM GEMs - technische Webinare rund um AEM - für Entwickler, die von Entwicklern bereitgestellt werden
 
