@@ -12,16 +12,16 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
+source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 # Webinar-Datum: 13. März 2024
 
-Zeit: 17.00 Uhr MEZ / 8.00 Uhr PST / 21.30 Uhr IST Bitte registrieren Sie sich über den unten stehenden Link der Veranstaltungsseite.
+Dieses Webinar ist abgeschlossen - sehen Sie sich bitte die Aufzeichnung unten an.
 
 ## Erste Schritte mit AEM Authoring und Edge Delivery Services
 
@@ -31,11 +31,11 @@ Dieses AEM GEMs-Webinar enthält eine Präsentation und eine Demo, in der Sie er
 
 * Dirk Rudolph, Mgr, Software Development, Adobe
 
-## Webinarregistrierung
+## Webinar-Aufzeichnung
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427919/)
 
 >[!NOTE]
->
->* Bitte registrieren Sie sich über dieses Webinar. [Ereignisseite](https://adobe.ly/4bz9T0H).
 > 
 >* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf dem Experience League unsere [kontextueller Thread](https://adobe.ly/3uIj6D7).
 >
