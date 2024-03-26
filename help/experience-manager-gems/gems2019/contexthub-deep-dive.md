@@ -5,10 +5,10 @@ discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: c56b8724-a97e-4671-a1ad-0a87a9260ed6
 duration: 3199
-source-git-commit: bc69fa95cfc24710f3e80a30a133fbf7be76f043
+source-git-commit: ae6a36cb22adfba05ae36af34440f72dbdfad942
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 93%
+ht-degree: 94%
 
 ---
 
@@ -28,6 +28,6 @@ Präsentationsfolien, Datum: 20. März 2019
 
 ContextHub-Beispielpaket:
 
-Das von Artur erwähnte ContextHub-Beispielpaket ist als ZIP-Datei verfügbar:
+Das von Artur erwähnte ContextHub-Beispielpaket ist hier als ZIP-Datei verfügbar:
 
-[ZIP-Datei abrufen](/assets/contexthub-gems-deep-dive-1.0.zip)
+[Datei abrufen](/assets/contexthub-gems-deep-dive-1.0.zip)
