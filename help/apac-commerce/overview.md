@@ -3,9 +3,9 @@ title: APAC Commerce-Webinar-Reihe
 description: Die APAC Commerce-Webinar-Reihe ist eine monatliche Reihe von Workshops für Adobe Commerce-Kunden, die eine breite Palette von Themen abdecken, von Best Practices über Produkt-Roadmap bis hin zu Branchentrends.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,19 @@ Die APAC Commerce-Webinar-Reihe ist eine monatliche Reihe von Workshops für Ado
 
 <table>
 <tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+      <img alt="Adobe Commerce Innovation Spotlight-Webinar" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+        <strong>Adobe Commerce Innovation Spotlight-Webinar</strong>
+      </a>
+    </div>
+    <p>
+    <em>Lassen Sie sich von uns inspirieren, wie Sie die neuesten Funktionen und Architekturen übernehmen können, um Ihren Kunden das beste Erlebnis zu bieten und Ihr Unternehmen zu erweitern!In diesem Webinar.</em>
+    <p>
+  </td> 
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
       <img alt="Adobe Commerce Site-weites Analyse-Tool" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
@@ -44,19 +57,6 @@ Die APAC Commerce-Webinar-Reihe ist eine monatliche Reihe von Workshops für Ado
     <em>Nutzen Sie die Vorteile von AI für ein außergewöhnliches Kundenerlebnis mit Adobe-Investitionen in KI und deren Integration in Commerce.</em>
     <p>
   </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="Kombinierbare Commerce-Strategien für skalierbaren und agilen E-Commerce" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>Kombinierbare Commerce-Strategien für skalierbaren und agilen E-Commerce</strong>
-      </a>
-    </div>
-    <p>
-    <em>Nehmen Sie an einem Webinar teil, in dem Sie sich mit der Welt der komponierbaren Architektur beschäftigen und erfahren, wie sie die E-Commerce-Landschaft revolutioniert.</em>
-    <p>
-  </td>  
 </tr>
 </table>
 
