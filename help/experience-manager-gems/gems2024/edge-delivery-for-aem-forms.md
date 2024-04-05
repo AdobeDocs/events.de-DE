@@ -9,9 +9,10 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
+exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
+source-git-commit: cf730e65edcd42ce99b7064c7e7a1c98abbdebf2
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -30,10 +31,10 @@ Erfahren Sie, wie Sie AEM Forms mit Edge Delivery Services erstellen und veröff
 * Arun Taneja, Product Management Director, Adobe
 * Vijay Kumar Jalagari, Leiter Engineering, Adobe
 
-## Webinar-Aufzeichnung
+## Webinar-Community-Interaktion
 
 >[!NOTE]
 > 
->* Für sitzungsspezifische Community-Interaktionen auf dem Experience League wird in Kürze ein kontextueller Thread verfügbar sein.
+>* Informationen zu sitzungsspezifischen Community-Interaktionen auf Experience League finden Sie unter [Kontextueller Thread](https://adobe.ly/4aCz0OE).
 >
 >* Um Benachrichtigungen zu unseren bevorstehenden Webinaren zu erhalten, registrieren Sie sich bitte unter [Adobe AEM Benutzergruppe](https://aem-augs.adobe.com/).
