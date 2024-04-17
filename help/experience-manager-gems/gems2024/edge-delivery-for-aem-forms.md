@@ -10,17 +10,16 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
-source-git-commit: cf730e65edcd42ce99b7064c7e7a1c98abbdebf2
+source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
 
 # Webinar-Datum: 17. April 2024
 
-Dieses Webinar wird am 17. April 2024 um 17:00 Uhr CEST / 8:00 Uhr PDT / 20:30 Uhr IST durchgeführt.
-Bitte [rsvp / hier registrieren](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/).
+Dieses Webinar ist abgeschlossen - sehen Sie sich bitte die Aufzeichnung unten an.
 
 ## Erste Schritte mit Edge Delivery Services für AEM Forms
 
@@ -30,6 +29,10 @@ Erfahren Sie, wie Sie AEM Forms mit Edge Delivery Services erstellen und veröff
 
 * Arun Taneja, Product Management Director, Adobe
 * Vijay Kumar Jalagari, Leiter Engineering, Adobe
+
+## Webinar-Aufzeichnung
+
+>[!VIDEO](https://video.tv.adobe.com/v/3428434/)
 
 ## Webinar-Community-Interaktion
 
