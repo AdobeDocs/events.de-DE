@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM-Sitzungen
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: c8635305f4754d6001108357799a80f50d58b4ac
+source-git-commit: 2f4720df0080c4121892fbdfab1a0cbcf1be850e
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 64%
@@ -26,7 +26,7 @@ ht-degree: 64%
 ## Kommendes AEM GEMs-Ereignis
 
 29. Mai 2024 - **Edge Delivery Services und AEM Assets**
-Die Registrierung wird demnächst eröffnet.
+Die Registrierung wird bald eröffnet...
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
