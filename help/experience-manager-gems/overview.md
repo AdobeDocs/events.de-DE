@@ -12,10 +12,10 @@ type: Event
 user-guide-description: AEM GEM-Sitzungen
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
+source-git-commit: c8635305f4754d6001108357799a80f50d58b4ac
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 67%
+source-wordcount: '285'
+ht-degree: 64%
 
 ---
 
@@ -53,11 +53,11 @@ Die Registrierung wird demnächst eröffnet.
 
 Unser aktuellstes AEM GEMs-Webinar auf **Erste Schritte mit Edge Delivery Services für AEM Forms** wurde durchgeführt am *17. April 2024*.
 Die **Aufzeichnen** finden Sie hier:
-[Erste Schritte mit Edge Delivery Services für AEM Forms](/gems2024/edge-delivery-for-aem-forms.md)
+[Erste Schritte mit Edge Delivery Services für AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
 
 >[!NOTE]
 >
-> Melden Sie sich an, um über bevorstehende AEM GEMs-Webinare informiert zu werden - [Adobe AEM Benutzergruppe](https://aem-augs.adobe.com/).
+> Melden Sie sich an, um über bevorstehende AEM GEMs-Webinare und andere AEM Veranstaltungen informiert zu werden - [Adobe AEM Benutzergruppe](https://aem-augs.adobe.com/).
 
 ## AEM GEMs - technische Webinare rund um AEM - für Entwickler, die von Entwicklern bereitgestellt werden
 
@@ -69,8 +69,6 @@ Die Webinare werden regelmäßig durchgeführt und haben folgende Merkmale:
 * Fragen und Antworten am Ende und Expertinnen und Experten im Chat im gesamten Webinar
 * Nach jedem Webinar ist eine Aufzeichnung verfügbar
 * Alle AEM GEMs Webinare sind kostenlos und werden praktisch durchgeführt, nur eine Registrierung ist erforderlich.
-
-Registrieren Sie sich bei der [AEM-Benutzergruppe von Adobe](https://aem-augs.adobe.com/), um über unsere kommenden Webinare informiert zu werden.
 
 ## Experience League-Community
 
