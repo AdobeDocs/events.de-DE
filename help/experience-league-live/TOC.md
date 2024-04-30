@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 858f7011039c59a4bb34860d05904f03131d2dc4
+source-git-commit: 4590f2cfc142bc5520b2c9cd12f7af1b6906b33b
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '404'
 ht-degree: 5%
 
 ---
@@ -21,8 +21,9 @@ ht-degree: 5%
 
 + [Übersicht](overview.md)
 + Episoden {#episodes}
+   + [Ep 36: So migrieren Sie Analytics auf das Web SDK](episodes/exl-live-episode-05-16-24.md)
    + [Ep 35: Neuer code-basierter Erlebniskanal in Journey Optimizer](episodes/exl-live-episode-04-24-24.md)
-   + [Ep 34: Neue Discover-Dashboards von Marketo Measure](episodes/exl-live-episode-04-18-24.md)
+   + [Ep 34: Marketo Measures neue Discover-Dashboards](episodes/exl-live-episode-04-18-24.md)
    + [Ep 33: Vorantreiben der neuen Adobe Campaign v8-Benutzeroberfläche](episodes/exl-live-episode-02-29-24.md)
    + [Ep 32: Anwendungsbeispiele, Self-Service-Vorlagen, um Anwendungsfälle mit wenigen Klicks bereitzustellen](episodes/exl-live-episode-02-08-24.md)
    + [Ep 31: Einbinden Ihrer Adobe Analytics-Daten und -Analysen in Customer Journey Analytics](episodes/exl-live-episode-01-17-24.md)
