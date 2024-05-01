@@ -2,13 +2,13 @@
 title: Experten fragen - Grundlagen des Web SDK
 description: Erfahren Sie mehr über das Web SDK. Wir zeigen Ihnen alle Grundlagen des Web SDK, einschließlich der Begründung, der Funktionsweise und wichtigen Anwendungsfällen, auf die es basiert.
 solution: Data Collection,Experience Platform
+feature: Data Collection
 kt: 10412
-thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
 duration: 3863
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
@@ -37,3 +37,4 @@ In dieser ersten von drei Livestream-Sitzungen zur Datenerfassung für die Adobe
 * [Überblick über Adobe Experience Platform Debugger und Download](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [Mobile SDK-Dokumente](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [Hybride App-Sammlungsinformationen](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+

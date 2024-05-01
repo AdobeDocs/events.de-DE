@@ -1,14 +1,15 @@
 ---
 title: Verbessern Sie die E-Commerce-Interaktion mit Anwendungsfall-Playbooks und Self-Service-Vorlagen, um E-Commerce-Anwendungsfälle mit wenigen Klicks bereitzustellen.
-description: Erfahren Sie, wie Sie mit Case Playbooks in Adobe Real-Time CDP und Adobe Journey Optimizer problemlos bereitstellen und das E-Commerce-Kundenmanagement verbessern können.
+description: Erfahren Sie, wie Sie mit Case Playbooks in Adobe Real-Time CDP und Adobe Journey Optimizer einfach bereitstellen und die Interaktion mit E-Commerce-Kunden optimieren können.
 jira: KT-14791
-thumbnail: https://video.tv.adobe.com/v/3426930?format=jpeg
+solution: Experience Platform, Real-Time Customer Data Platform
+feature: Playbooks
 event-cta-url-live: https://www.youtube.com/watch?v=EZGQ--J2M9I
 event-start-time: 2024-02-08 09:00-7
 event-guests: Daniel Wright,Josée Monette-Healey,Rohit Basuri
 duration: 25
 exl-id: 8e820234-2c73-46dc-aa85-f1f089e4ae8e
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '662'
 ht-degree: 0%

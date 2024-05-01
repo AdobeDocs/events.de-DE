@@ -2,14 +2,15 @@
 title: Countdown bis 2024 mit den fünf wichtigsten neuen Funktionen in Adobe Real-Time CDP
 description: Erfahren Sie, wie Sie mit neuen Funktionen Zielgruppen effektiver und effizienter für eine wirkungsvolle Personalisierung aktivieren können.
 jira: KT-14415
-thumbnail: https://video.tv.adobe.com/v/3425754?format=jpeg
+solution: Real-Time Customer Data Platform, Experience Platform
+feature: Destinations, Audiences
 event-cta-url-live: https://www.youtube.com/watch?v=s4WhnJifWLk
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231214.html
 event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
 duration: 3701
-source-git-commit: b2114296a518f633d4b409838ae640ddb4817d79
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 1%
@@ -48,3 +49,4 @@ Nach Abschluss dieser Sitzung sollten Sie Folgendes erwarten:
 * Erfahren Sie, warum diese Funktionen von Bedeutung sind und Ihnen als Praktikant Effizienz und Nutzen bieten.
 * Nutzen Sie diese neuen Funktionen noch heute
 * Beginnen Sie noch heute mit der Verbesserung Ihrer Kundenpersonalisierung!
+

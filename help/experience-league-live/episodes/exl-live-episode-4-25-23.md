@@ -2,15 +2,15 @@
 title: Mit nur wenigen Klicks können Sie die Datenerfassung und Ereignisweiterleitung einrichten und nutzen!
 description: Mit wenigen Klicks richten Adobe-Datenerfassungs-Schnellstartarbeitsabläufe mehrere Dinge im Backend ein, um Zeit zu sparen und sicherzustellen, dass Ihr Setup korrekt ist.
 solution: Data Collection,Experience Platform,Analytics,Real-Time Customer Data Platform,Customer Journey Analytics
+feature: Data Collection
 kt: 13041
-thumbnail: https://video.tv.adobe.com/v/3417927?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=jGjIKIWFNsM
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230425.html
 event-start-time: 2023-04-25 09:00-8
 event-guests: Rudi Shumpert,Travis Jordan,Doug Moore
 exl-id: 1c5c5c90-9772-440e-a7eb-5138d4adadb9
 duration: 3694
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 24%
@@ -28,3 +28,4 @@ Wenn Sie mit den modernen Datenerfassungs-Tools von Adobe noch nicht vertraut si
 Starten Sie das Video oben, um eine Wiederholung dieses Live-Stream-Ereignisses anzuzeigen.
 
 Haben Sie Fragen dazu? Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+
