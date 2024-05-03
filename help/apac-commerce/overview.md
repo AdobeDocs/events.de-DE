@@ -1,18 +1,18 @@
 ---
-title: APAC Commerce-Webinar-Reihe
-description: Die APAC Commerce-Webinar-Reihe ist eine monatliche Reihe von Workshops für Adobe Commerce-Kunden, die eine breite Palette von Themen abdecken, von Best Practices über Produkt-Roadmap bis hin zu Branchentrends.
+title: APAC Commerce Webinar-Reihe
+description: Die APAC Commerce Webinar-Reihe ist eine monatliche Zusammenstellung von Workshops für Adobe Commerce-Kunden, die eine breite Palette von Themen abdeckt, von Best Practices über Produkt-Roadmap bis hin zu Branchentrends.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
+source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
-# APAC Commerce-Webinar-Reihe
+# APAC Commerce Webinar-Reihe
 
-Die APAC Commerce-Webinar-Reihe ist eine monatliche Reihe von Workshops für Adobe Commerce-Kunden, die eine breite Palette von Themen abdecken, von Best Practices über Produkt-Roadmap bis hin zu Branchentrends. Hören Sie von verschiedenen Produktexperten aus dem gesamten Unternehmen und nehmen Sie an Live teil, um Fragen zu stellen und direkt mit dem Team zu interagieren. Diese Reihe hilft Ihnen, erfolgreich zu sein und Ihre Investitionen in die Adobe Commerce-Plattform zu maximieren.
+Die APAC Commerce Webinar-Reihe ist eine monatliche Zusammenstellung von Workshops für Adobe Commerce-Kunden, die eine breite Palette von Themen abdeckt, von Best Practices über Produkt-Roadmap bis hin zu Branchentrends. Hören Sie von verschiedenen Produktexperten aus dem gesamten Unternehmen und nehmen Sie an Live teil, um Fragen zu stellen und direkt mit dem Team zu interagieren. Diese Reihe hilft Ihnen, erfolgreich zu sein und Ihre Investitionen in die Adobe Commerce-Plattform zu maximieren.
 
 ## Neuerungen
 
@@ -32,29 +32,29 @@ Die APAC Commerce-Webinar-Reihe ist eine monatliche Reihe von Workshops für Ado
     <p>
   </td> 
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-      <img alt="Adobe Commerce Site-weites Analyse-Tool" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
+      <img alt="Adobe Commerce Site-weites Analyse-Tool" src="https://video.tv.adobe.com/v/3428818?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-        <strong>Optimieren Ihres Unternehmens mit Adobe PaaS Cloud Commerce</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
+        <strong>Der kreative Edge - Wie das visionäre Denken Commerce verändert</strong>
       </a>
     </div>
     <p>
-    <em>Treten Sie unserem Webinar bei, um die Vorteile der Adobe Commerce Cloud PaaS-Lösung zu entdecken, ob Sie selbst hosten und sich für PaaS interessieren oder ob Sie bereits ein PaaS-Kunde sind, der Ihre Einrichtung optimieren möchte.</em>
+    <em>Lernen Sie die Integration von Kreativität und Handel kennen.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-      <img alt="Vorteile der Aktualisierung auf Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3419107?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
+      <img alt="Vorteile der Aktualisierung auf Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3428817?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-        <strong>KI-gestützte Personalisierung</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
+        <strong>7 Möglichkeiten, ein E-Commerce-Geschäft organisch zu erweitern</strong>
       </a>
     </div>
     <p>
-    <em>Nutzen Sie die Vorteile von AI für ein außergewöhnliches Kundenerlebnis mit Adobe-Investitionen in KI und deren Integration in Commerce.</em>
+    <em>Gewinnen Sie wertvolle Einblicke und praktische Tipps für das ökologische Wachstum eines E-Commerce-Geschäfts mithilfe von SEO-Strategien.</em>
     <p>
   </td>
 </tr>
