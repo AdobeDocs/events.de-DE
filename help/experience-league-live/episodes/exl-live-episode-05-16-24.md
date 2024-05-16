@@ -9,9 +9,9 @@ event-start-time: 2024-05-16 09:00-7
 event-guests: Doug Moore,Mitch Rice,Joe Khoury
 duration: 25
 exl-id: c762dfe2-07b8-4eac-afa4-d94636d0b5b5
-source-git-commit: 3240741ecbade0921e29ff72ea6a52b5f8b59baa
+source-git-commit: 34b3c72c487bd43cd8b1ec0e94e107dfb72be850
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -20,14 +20,14 @@ ht-degree: 0%
 
 Erfahren Sie mehr über die neueste und beste (NEU) Methode zur Migration von Adobe Analytics zum Web SDK.
 
-[![ExL LIVE 16. Mai 2024](assets/WebBanner-May16-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240516.html)
-
-**[Melden Sie sich für die Veranstaltung an!](https://engage.adobe.com/ExpLeagueLive-240516.html)**
-
+>[!VIDEO](https://video.tv.adobe.com/v/3428791/?quality=12&learn=on)
 
 **Details**: In dieser Sitzung erfahren Sie die neueste und beste (NEUE) Möglichkeit, Adobe Analytics zum Web SDK zu migrieren. Auf diese Weise können Sie die neuen, schnelleren Bibliotheken, viele neue Funktionen und eine zukunftssichere Implementierung verwenden, während Sie Adobe Experience Platform verwenden, während Sie gleichzeitig Daten einfach an Adobe Analytics (und Target und AAM) senden.
 
-Wir konfigurieren einen Datenstrom am Edge und installieren und konfigurieren die Web SDK-Erweiterung in unserer Tags-Eigenschaft. Wir werden zeigen, wie Sie verschiedene Regeltypen von der Analytics-Erweiterung zum Web SDK migrieren.
+Wir konfigurieren einen Datenstrom am Rand und installieren und konfigurieren die Web SDK-Erweiterung in unserer Eigenschaft &quot;Tags&quot;. Wir zeigen, wie Sie verschiedene Regeltypen von der Analytics-Erweiterung zum Web SDK migrieren.
 
-Verpassen Sie nicht diese Gelegenheit, während dieser Livestream-Veranstaltung Fragen im Chat zu stellen und Antworten von den Experten zu erhalten.
+Wenn Sie Fragen stellen oder eine Schnittstelle mit Adobe-Experten und anderen Personen herstellen möchten, besuchen Sie bitte das [Experience League-Community-Diskussion](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
 
+Weitere Informationen finden Sie unter [Implementieren von Adobe Analytics mit dem Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview).
+
+So nehmen Sie an einem bevorstehenden **Webinar über strategische Schritte zur Implementierung des Web SDK** registrieren [HIER](https://engage.adobe.com/step_by_step_guide_implement.html).
