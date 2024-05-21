@@ -1,9 +1,9 @@
 ---
 title: Commerce Intelligence-Webinare
-description: Informieren Sie sich in den aufgezeichneten Webinaren von Commerce Intelligence , in denen eine Vielzahl von Themen und Best Practices für die Nutzung von Commerce Intelligence so weit wie möglich vorgestellt wird.
+description: Informieren Sie sich über die im Rahmen von Commerce Intelligence aufgezeichneten Webinare, in denen eine Vielzahl von Themen und Best Practices für die Nutzung von Commerce Intelligence so weit wie möglich behandelt werden.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
-source-git-commit: 17a9052c99275eff0599c64be3d6872e60c52fe1
+source-git-commit: 78cb08c0aabfa98db97e1b7c1cee466e7c3578df
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 1%
@@ -16,7 +16,7 @@ ht-degree: 1%
 >
 >Adobe Commerce Intelligence wurde früher als [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
 
-Die Webinarreihe &quot;Commerce Intelligence&quot;ist ein periodisches Ereignis für Commerce Intelligence-Kunden. Die Webinare decken eine breite Palette von Themen und Best Practices für die Nutzung von Commerce Intelligence ab, um das bestmögliche Potenzial zu nutzen.
+Die Commerce Intelligence-Webinarreihe ist ein periodisches Ereignis für Commerce Intelligence-Kunden. Die Webinare decken eine breite Palette von Themen und Best Practices für die Nutzung von Commerce Intelligence nach Möglichkeit ab.
 
 Teilnehmer aus allen Ländern können an den Veranstaltungen teilnehmen, um das Produkt besser zu verstehen und ihre Fragen zur Commerce Intelligence-Funktion direkt zu beantworten.
 
@@ -40,11 +40,11 @@ Die Themen werden gelegentlich wiederholt, um neue Fragen aufzugreifen, die von 
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
       <img alt="Verwalten von Datensätzen in Adobe Commerce Intelligence" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
         <strong>Verwalten von Datensätzen in Adobe Commerce Intelligence</strong>
       </a>
     </div>
@@ -75,4 +75,4 @@ Die Themen werden gelegentlich wiederholt, um neue Fragen aufzugreifen, die von 
 ## Nützliche Ressourcen
 
 - [Commerce Intelligence-Videos und -Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [Benutzerhandbuch für Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de)
+- [Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de)
