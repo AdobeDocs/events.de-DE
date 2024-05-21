@@ -2,10 +2,10 @@
 user-guide-title: APAC Commerce-Ereignisse
 breadcrumb-title: APAC Commerce-Ereignisse
 user-guide-description: Adobe Commerce Events ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zur Verwendung von Adobe Commerce teilen.
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 4%
+source-wordcount: '136'
+ht-degree: 2%
 
 ---
 
@@ -14,6 +14,18 @@ ht-degree: 4%
 
 + [Übersicht](overview.md)
 + 2024 {#2024}
+   + [Accelerator Day](2024/accelerator-day/overview.md)
+   + Accelerator Day{#accelerator-day}
+      + [Ausgeblendet: Morgen navigieren](./2024/accelerator-day/navigating-tomorrow.md)
+      + [Ausgeblendet: Bedienfeld über Grenzen](./2024/accelerator-day/panel-beyond-borders.md)
+      + [Ausgeblendet: Erlebnisentwicklung](./2024/accelerator-day/experience-evolution.md)
+      + [Ausgeblendet: Bereichszuordnung in morgen](./2024/accelerator-day/panel-tapping-into-tomorrow.md)
+      + [Ausgeblendet: Commerce der nächsten Generation](./2024/accelerator-day/next-gen-commerce.md)
+      + [Ausgeblendet: Unter der Oberfläche](./2024/accelerator-day/beneath-the-surface.md)
+      + [Ausgeblendet: Blitzgeschwindigkeit](./2024/accelerator-day/lightning-speed.md)
+      + [Ausgeblendet: Composability](./2024/accelerator-day/composability.md)
+      + [Ausgeblendet: Kanalübergreifende Symphonie](./2024/accelerator-day/cross-channel-symphony.md)
+      + [Verborgen: Die Kunst Commerces](./2024/accelerator-day/the-art-of-commerce.md)
    + [Webinar zum Innovations-Spotlight](2024/innovation-spotlight.md)
    + [Wie das visionäre Denken Commerce verändert](2024/visionary-thinking.md)
    + [7 Möglichkeiten, ein E-Commerce-Geschäft organisch zu erweitern](2024/grow-ecommerce-business.md)
