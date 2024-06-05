@@ -1,20 +1,21 @@
 ---
-user-guide-title: Versionsübersicht zu Adobe Experience Manager as a Cloud Service
+user-guide-title: Versionshinweise zu Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEMCS Release Events
 user-guide-description: Schneller Überblick über die neuesten Funktionen in Adobe Experience Manager as a Cloud Service
-breadcrumb-title: Aktualisierungen zu AEM CS-Versionen
-source-git-commit: c22e8000c84765100c5b3c70bb249d38b4ed6178
+breadcrumb-title: AEM CS-Versionsaktualisierungen
+source-git-commit: cbf8d71cd9d7071ea70907e550ed3e602a026304
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 97%
+source-wordcount: '101'
+ht-degree: 4%
 
 ---
 
 
-# Aktualisierungen zu Adobe Experience Manager as a Cloud Service-Versionen {#aemcs-release-update-recordings}
+# Adobe Experience Manager as a Cloud Service-Versionshinweise {#aemcs-release-update-recordings}
 
 + [Übersicht](overview.md)
 + 2024 {#2024}
+   + [2024.5.0](2024/2024-5-0.md)
    + [2024.4.0](2024/2024-4-0.md)
    + [2024.3.0](2024/2024-3-0.md)
    + [2024.1.0](2024/2024-1-0.md)
@@ -29,11 +30,11 @@ ht-degree: 97%
    + [2023.2.0](2023/2023-2-0.md)
    + [2023.1.0](2023/2023-1-0.md)
 + 2022 {#2022}
-   + [2022.10.0](2022/2022-10-0.md)
-   + [2022.8.0](2022/2022-8-0.md)
+   + [2022,10,0](2022/2022-10-0.md)
+   + [2022,8,0](2022/2022-8-0.md)
    + [2022.7.0](2022/2022-7-0.md)
    + [2022.6.0](2022/2022-6-0.md)
-   + [2022.5.0](2022/2022-5-0.md)
+   + [2022,5,0](2022/2022-5-0.md)
    + [2022.4.0](2022/2022-4-0.md)
    + [2022.3.0](2022/2022-3-0.md)
    + [2022.1.0](2022/2022-1-0.md)
@@ -41,7 +42,7 @@ ht-degree: 97%
    + [2021.11.0](2021/2021-11-0.md)
    + [2021.10.0](2021/2021-10-0.md)
    + [2021.9.0](2021/2021-9-0.md)
-   + [2021.8.0](2021/2021-8-0.md)
+   + [2021,8,0](2021/2021-8-0.md)
    + [2021.7.0](2021/2021-7-0.md)
    + [2021.6.0](2021/2021-6-0.md)
    + [2021.5.0](2021/2021-5-0.md)
