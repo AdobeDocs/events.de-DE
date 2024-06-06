@@ -4,10 +4,10 @@ description: Schneller Überblick über die neuesten Funktionen in Adobe Experie
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: cbf8d71cd9d7071ea70907e550ed3e602a026304
+source-git-commit: 6d8e23f544f23b09f545eb2e09978b8bb26b647e
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 14%
+source-wordcount: '177'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
           <strong>Version | 2024.5.0</strong>
         </a>
       </div>
-      <p><em>Veröffentlichungsdatum Mai 2024 </em></p>
+      <em>Veröffentlichungsdatum Mai 2024 </em>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       </p>
@@ -49,10 +49,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
           <strong>Version | 2024.4.0</strong>
         </a>
       </div>
-      <p><em>Veröffentlichungsdatum April 2024 </em></p>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
-      </p>
+      <em>Veröffentlichungsdatum April 2024 </em>
     </td>
     <td>
       <a href="2024/2024-3-0.md">
@@ -63,10 +60,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
           <strong>Version | 2024.3.0</strong>
         </a>
       </div>
-      <p><em>Veröffentlichungsdatum April 2024 </em></p>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
-      </p>
+      <em>Veröffentlichungsdatum April 2024 </em>
     </td>
     <td>
       <a href="2024/2024-1-0.md">
@@ -79,9 +73,6 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         </a>
           <em>Veröffentlichungsdatum Januar 2024 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
-      <p>
     </td>
   </tr>
   <tr>
@@ -96,9 +87,6 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         </a>
           <em>Releasedatum November 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-10-0.md">
@@ -111,9 +99,6 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         </a>
           <em>Veröffentlichungsdatum Oktober 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-9-0.md">
@@ -126,9 +111,6 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         </a>
           <em>Veröffentlichungsdatum September 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
-      <p>
     </td>
   </tr>
   <tr>    
@@ -143,9 +125,6 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         </a>
           <em>Veröffentlichungsdatum August 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-7-0.md">
@@ -158,9 +137,6 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         </a>
           <em>Veröffentlichungsdatum Juli 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-6-0.md">
@@ -173,9 +149,6 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         </a>
           <em>Veröffentlichungsdatum Juni 2023 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
-      <p>
     </td>
   </tr>
 </table>
