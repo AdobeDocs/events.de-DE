@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience League-Ereignisaufzeichnungen
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Eine Sammlung von Ereignisaufzeichnungen, die für die Verwendung von Adobe Enterprise-Produkten erzwungen wurden
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 15%
+source-wordcount: '351'
+ht-degree: 14%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 15%
    + [Acrobat Sign-Webinare](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
    + [Adobe Campaign Insider-Reihe](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
    + [Adobe Content Management-Forum](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
+   + [Adobe Commerce Intelligence-Webinare](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
    + [Adobe Commerce-Produktaktualisierungen](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [AEM Champion Office Hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
@@ -26,12 +27,11 @@ ht-degree: 15%
    + [Stimmen im Customer Data Management](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=de)
    + [Tieftauchgänge](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Experience League LIVE ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-   + [EXPERIENCE MANAGER GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=de)
+   + [EXPERIENCE MANAGER GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
    + [Experience Manager-Versionsübersicht](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=de)
    + [Erfahren Sie von Ihren Kollegen](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo und Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [Geschäftszeiten](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
-   + [MBI-Webinare](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
    + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [Kompetenzaustausch](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
@@ -59,7 +59,7 @@ ht-degree: 15%
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [APAC Commerce-Ereignisse](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
       + [Commerce und Kaffee](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
-      + [MBI-Webinare](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
+      + [Adobe Commerce Intelligence-Webinare](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
       + [Geschäftszeiten](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Customer Journey Analytics {#cja}
@@ -70,7 +70,7 @@ ht-degree: 15%
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [AEM Champion Office Hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-      + [EXPERIENCE MANAGER GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=de)
+      + [EXPERIENCE MANAGER GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
       + [Experience Manager-Versionsübersicht](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=de)
       + [Erfahren Sie von Ihren Kollegen](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Geschäftszeiten](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)

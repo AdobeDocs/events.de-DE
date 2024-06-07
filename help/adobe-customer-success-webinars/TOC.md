@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinare
 breadcrumb-title: Adobe Customer Success Webinare
 user-guide-description: Adobe Customer Success-geführte Webinare, mit denen Sie Ihre Investition in Adobe Experience Cloud optimieren können. Erhalten Sie wertvolle Einblicke, um den Nutzen zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 2cf8e724088594be85182d65ac106e8118920474
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '142'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,15 @@ ht-degree: 1%
 
 + [Adobe Customer Success Webinare](overview.md)
 + 2024 {#2024}
+   + [Adobe Workfront - Leere Teams](2024/workfront-lean-teams.md)
    + [Data Stream-Priorisierung](2024/data-stream-prioritization.md)
+   + [Effektive Änderungsverwaltung](2024/effective-change-management.md)
    + [Empowering Lean Teams](2024/empowering-lean-teams.md)
    + [Expedia wechselt von Adobe Analytics zu Customer Journey Analytics](2024/expedia-aa-to-cja.md)
+   + [Hyperpersonalisierung](2024/hyperpersonalization.md)
    + [Strategische Führung](2024/strategic-leadership.md)
+   + [Zuordnung von Nutzungsszenarios zu Lösungsfunktionen](2024/use-case-mapping.md)
+   + [Grundlagen zur Web SDK-Migration](2024/web-sdk-migration.md)
 + 2023 {#2023}
    + [Erstellen der Grundlage für die Personalisierung im Maßstab](2023/personalization-at-scale.md)
    + [Change Management](2023/change-management.md)
