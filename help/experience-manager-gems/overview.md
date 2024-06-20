@@ -1,6 +1,6 @@
 ---
 title: AEM GEM-Sitzungen
-description: Dies ist die Landingpage für AEM GEMs mit Informationen über die Webinar-Reihe und Informationen zur Registrierung und zu früheren und kommenden Webinaren
+description: Dies ist die Landingpage für AEM GEMs, einschließlich Informationen zur Webinarreihe und zu Registrierungsinformationen, vorherigen und kommenden Webinaren
 role: Leader
 cloud: Experience Cloud
 product: adobe experience manager
@@ -12,21 +12,20 @@ type: Event
 user-guide-description: AEM GEM-Sitzungen
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 2f4720df0080c4121892fbdfab1a0cbcf1be850e
+source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 64%
+source-wordcount: '290'
+ht-degree: 0%
 
 ---
 
-# GEMS zu Adobe Experience Manager
+# Adobe Experience Manager Gems
 
 <img alt="Digitale Erlebnisse" src="./assets/ADX_Gems.png"/>
 
 ## Kommendes AEM GEMs-Ereignis
 
-29. Mai 2024 - **Edge Delivery Services und AEM Assets**
-Die Registrierung wird bald eröffnet...
+Die kommenden Webinare werden im Juli 2024 angekündigt.
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +50,9 @@ Die Registrierung wird bald eröffnet...
 
 ## Vorheriges AEM GEMs-Ereignis
 
-Unser aktuellstes AEM GEMs-Webinar auf **Erste Schritte mit Edge Delivery Services für AEM Forms** wurde durchgeführt am *17. April 2024*.
+Unser aktuellstes AEM GEMs-Webinar auf **Verbessern des Entwicklererlebnisses für AEM Assets mit unseren neuen APIs und Ereignissen** wurde durchgeführt am *19. Juni 2024*.
 Die **Aufzeichnen** finden Sie hier:
-[Erste Schritte mit Edge Delivery Services für AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
+[Verbessern des Entwicklererlebnisses für AEM Assets mit unseren neuen APIs und Ereignissen](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >
@@ -61,19 +60,19 @@ Die **Aufzeichnen** finden Sie hier:
 
 ## AEM GEMs - technische Webinare rund um AEM - für Entwickler, die von Entwicklern bereitgestellt werden
 
-Willkommen bei **AEM GEMs** – unsere Webinar-Reihe detaillierter technischer Einblicke in Adobe Experience Manager, bereitgestellt von Adobe-Experten. Diese Reihe ergänzt die Produktdokumentation und alle anderen technischen Kanäle zu Adobe Experience Manager und ermöglicht es Entwicklern, sich mit einem bestimmten Thema vertraut zu machen.
+Willkommen bei **AEM GEMs** - unsere Webinar-Reihe technischer Vertiefungen auf Adobe Experience Manager, bereitgestellt von Adobe-Experten. Diese Reihe ergänzt die Produktdokumentation und alle anderen technischen Kanäle zu Adobe Experience Manager und ermöglicht es Entwicklern, sich mit einem bestimmten Thema vertraut zu machen.
 
-Die Webinare werden regelmäßig durchgeführt und haben folgende Merkmale:
+Die Webinare werden regelmäßig durchgeführt, darunter:
 
 * Maximale Dauer von 60 Minuten
-* Fragen und Antworten am Ende und Expertinnen und Experten im Chat im gesamten Webinar
-* Nach jedem Webinar ist eine Aufzeichnung verfügbar
+* Fragen und Antworten am Ende und Chatexperten im gesamten Webinar
+* Nach jedem Webinar verfügbare Aufzeichnung
 * Alle AEM GEMs Webinare sind kostenlos und werden praktisch durchgeführt, nur eine Registrierung ist erforderlich.
 
-## Experience League-Community
+## Experience League Community
 
-Unsere [Experience Manager-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=de) spielt eine entscheidende Rolle bei der Unterstützung der Produktakzeptanz und des Kundenerfolgs.
+Unsere [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=de) eine entscheidende Rolle bei der Unterstützung der Produktakzeptanz und des Kundenerfolgs spielen.
 
-* Vernetzung: Netzwerk mit Fachkollegen und Adobe-Mitarbeitern für Beratung und Best Practices bei der Implementierung und Erweiterung der Produktnutzung
-* Schnelle Antworten: Umfangreicher Pool mit Antworten auf praktische Anwendungsfälle zur Unterstützung des erfolgreichen Einsatzes von Adobe-Lösungen
-* Ideen und Feedback: Berücksichtigung von Produktideen der Kunden und Bereitstellung von wertvollem VoC-Feedback für die Produkt-Teams
+* Verbindung: Netzwerk mit Peer- und Adobe-Mitarbeitern für Anleitungen und Best Practices von der Implementierung bis zur erweiterten Produktverwendung
+* Schnelle Antworten: Umfassendes Angebot an realen Anwendungsfallantworten, um eine erfolgreiche aktive Nutzung von Adobe-Lösungen zu unterstützen
+* Ideen und Feedback: Nehmen Sie Produktideen von Kunden auf und geben Sie Produktteams wertvolles VoC-Feedback.
