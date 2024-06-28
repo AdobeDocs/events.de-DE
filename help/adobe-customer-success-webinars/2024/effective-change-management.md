@@ -7,19 +7,42 @@ doc-type: Event
 duration: 3340
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15557
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: 6e71cc1e-f1bd-4c78-9fee-90ba0e0bce47
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Navigieren im Wandel: Ein Webinar für Führungskräfte mit hoher Führungsrolle zur effektiven Änderungsverwaltung
 
 Lernen Sie die Nuancen des Change Managements kennen und liefern Sie strategische Einblicke, um Sie bei der Steuerung Ihrer Organisation durch transformative Journey zu unterstützen.
 
-Wichtige Diskussionspunkte: Erfahren Sie, wie Sie die Änderungsbemühungen mit übergeordneten organisatorischen Zielen abstimmen. Master of the art of communication change to the different partners Implementieren einer effizienten Aktivierungsstrategie und -planung\
-Erfahren Sie mehr über proaktive Strategien zur Risikominderung und zur Sicherstellung eines reibungslosen Übergangs.
+## Wichtige Diskussionspunkte
+
+* Erfahren Sie, wie Sie die Änderungsbemühungen mit übergeordneten organisatorischen Zielen und Zielen abstimmen.
+* Die Kunst der Kommunikation von Änderungen mit verschiedenen Interessengruppen erlernen
+* Implementieren einer effizienten Aktivierungsstrategie und -planung
+* Erfahren Sie mehr über proaktive Strategien zur Risikominderung und zur Sicherstellung eines reibungslosen Übergangs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429286/?learn=on)
+
+## Die 3 wichtigsten Punkte bei der effektiven Änderungsverwaltung
+
+**Wesentliche Aspekte des Change Managements**
+
+* Das Änderungs-Management passt die organisatorischen Ziele an die individuelle Leistung an.
+* Erhöht die Agilität und erhöht die Effizienz innerhalb des Unternehmens.
+
+**Kernkompetenzen für effektives Change Management**
+
+* Die Einbeziehung der Interessenträger ist von entscheidender Bedeutung.
+* Entscheidend ist eine effektive Kommunikation.
+* Ausbildung und Unterstützung sind für eine erfolgreiche Übernahme des Wandels erforderlich.
+
+**Überwindung der Herausforderungen im Change Management**
+
+* Umgang mit Veränderungen der Ermüdung und Resistenzmanagement.
+* Die Definition von Erfolgsmetriken ist von entscheidender Bedeutung.
+* Regelmäßige Messung der Auswirkungen und Bekämpfung der Ursachen von Resistenzen sind wesentliche Komponenten.

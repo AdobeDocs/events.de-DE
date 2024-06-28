@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3480
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15605
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: e9061413-76b5-496c-91a2-a8bb54e1d21d
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
-
 
 # Commerce &amp; Coffee: E-Commerce-Grundlagen meistern
 
@@ -22,3 +22,25 @@ In dieser Sitzung untersucht Senior Commerce Strategy Consultant, Corey Gelato, 
 Corey wird auch eine Live-Demonstration von Kategorievermarktungstechniken von manueller Organisation über automatisiertere Smart-Product-Zuweisungen bis hin zu Best Practices für Content und Customer Management präsentieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429437/?learn=on)
+
+## Wichtigste Punkte
+
+Die 3 wichtigsten Takeaways aus dem Webinar &quot;Mastering eCommerce Essentials&quot; mit Cory Gelato:
+
+**Merchandising und Personalization**
+
+* Die Verwendung maschineller Lernalgorithmen für Merchandising kann den Umsatz und die Kundenzufriedenheit erheblich beeinträchtigen.
+* Personalisierte Produktempfehlungen, die auf individuellen Kundenerlebnissen basieren, erhöhen die Interaktions- und Konversionsraten.
+* Effektive Merchandising-Regeln in Kombination mit maschinellem Lernen führen zu maßgeschneiderten Empfehlungen, die das Einkaufserlebnis insgesamt verbessern.
+
+**Marketing- und Promotionsstrategie**
+
+* Marketing und Promotions sind für erfolgreiche E-Commerce-Strategien unerlässlich, die sowohl auf Verbraucher als auch auf Unternehmen ausgerichtet sind.
+* Strategien wie Rabatte, Sonderangebote und Treueprogramme fördern Käufe, fördern Konversionen und fördern die Kundentreue.
+* Die Nutzung mehrerer Kanäle wie Social Media, E-Mail-Marketing und SEO verbessert die Kundeninteraktion und -bindung.
+
+**Kundensegmentierung für personalisierte Erlebnisse**
+
+* Die Verwendung von Kundenattributen und Segmentierung ermöglicht die Erstellung personalisierter Erlebnisse auf der Grundlage von Kundeninteressen wie Fitness-Voreinstellungen, was zu erhöhter Kundeninteraktion und -zufriedenheit führt.
+* Die Implementierung von Treueprogrammen mit Prämienpunkten für verschiedene Aktionen wie Registrierung, Newsletter-Anmeldungen und Verweise kann die Kundenbindung steigern und Anreize für gewünschte Verhaltensweisen schaffen, was letztlich zur Kundenloyalität beiträgt.
+* Das Anpassen von Promotions auf der Grundlage spezifischer Datenpunkte und das Erstellen spezieller Kataloge für verschiedene Kundengruppen durch Kategorieberechtigungen und freigegebene Kataloge kann das Einkaufserlebnis erheblich verbessern und die Kundeninteraktion und Konversionsraten steigern.

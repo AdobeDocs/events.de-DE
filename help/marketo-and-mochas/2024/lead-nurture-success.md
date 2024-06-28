@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3544
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15604
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
-
 
 # Marketo und Mochas: Die Grundlage für den Erfolg der Führungsförderung schaffen
 
@@ -24,3 +24,24 @@ Mit einer Lead-Pflege können Marketing-Experten über verschiedene Kanäle hinw
 Carly führt auch eine Live-Demonstration durch, die Sie durch die Einrichtung eines Interaktionsprogramms mithilfe der Best Practice-Vorlage aus der Marketo-Programmbibliothek führt. Wie immer beantworten wir auch Ihre Fragen live während der Q&amp;A!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429436/?learn=on)
+
+## Die 3 wichtigsten Maßnahmen zur Förderung der Führungskräfte
+
+
+**Wichtigkeit der Lead-Krankenpflege**
+
+* Die Lead-Pflege ist für den Aufbau effektiver Beziehungen zu potenziellen Kunden von entscheidender Bedeutung.
+* Es umfasst die gemeinsame Nutzung von Ressourcen, die Bereitstellung nützlicher Informationen, die Schulung zu Produkten und Dienstleistungen und die Personalisierung von Interaktionen.
+* Hilft die Kaufneigung eines Interessenten zu steigern, Vertrauen aufzubauen, Marke und Denkführung zu verbessern und den Verkaufszyklus zu verkürzen.
+
+**Strategien für eine effektive Lead-Krankenpflege**
+
+* Definieren Sie klare Ziele, richten Sie Marketing- und Verkaufsbemühungen aus, identifizieren Sie Zielgruppen und segmentieren Sie Daten effektiv.
+* Wählen Sie die richtigen Arten von Pflegekampagnen aus, verwenden Sie vorhandene Inhalte neu, erstellen Sie neue Inhalte und verwenden Sie Tools wie Marketo.
+* Nutzen Sie vorhandenen Inhalt, segmentieren Sie Zielgruppen, personalisieren Sie Inhalte, optimieren Sie basierend auf Leistungsmetriken und messen Sie den Erfolg.
+
+*Optimieren von E-Mail-Kampagnen und Entscheidungsfindung*
+
+* Erwägen Sie die Verwendung verschachtelter Programme oder Vorlagen für Erlebnisprogramme für komplexe E-Mail-Kampagnen.
+* Stimmen Sie die Entscheidung ab, die Förderung von Leads zu beenden, mit dem Ziel der Aufwuchskampagne.
+* Förderung der Interaktion durch Zugriff auf vergangene Aufzeichnungen, bevorstehende Ereignisse, Herunterladen von Ressourcen, Ausfüllen von Umfragen und Kontaktaufnahme mit Account-Managern für Abfragen.
