@@ -19,6 +19,6 @@ ht-degree: 0%
 
 In dieser Keynote-Sitzung erfahren Sie mehr über die wichtigsten Trends in D&amp;I. Lernen Sie, wie Sie Ihre Experience Cloud-Investitionen optimal nutzen können, und lassen Sie sich mit uns in Verbindung setzen, um neue Innovationen zu entwickeln.
 
-*Axel Schaefer* Leiter des Produktmarketing, Analytics EMEA/Adobe
+*Axel Schaefer* Head of Product Marketing, Analytics EMEA/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343818/?quality=12&learn=on)

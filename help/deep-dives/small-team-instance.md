@@ -1,6 +1,6 @@
 ---
-title: Erfahren Sie, wie ein kleines Team seine Adobe maximiert. [!DNL Marketo Engage] instance
-description: Erfahren Sie, wie Sie unterstützte Instanzen von Adobe [!DNL Marketo Engage] mit einem kleinen Team oder Team von einem.
+title: Erfahren Sie, wie ein kleines Team seine Adobe [!DNL Marketo Engage] Instanz maximiert.
+description: Erfahren Sie, wie Sie unterstützte Instanzen von Adobe [!DNL Marketo Engage] mit einem kleinen Team oder Team von einer Instanz besprechen können.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Erfahren Sie, wie ein kleines Team seine Instanz maximiert.
 
-Bitte treten Sie der aktuellen Adobe bei [!DNL Marketo Engage] Champions, Darshil Shah, Jenny Robertson &amp; Joy Martinez besprechen, wie sie Instanzen von Adobe unterstützt haben [!DNL Marketo Engage] mit einem kleinen Team oder Team von einem. Unsere Champions werden auch besprechen, wie sie ohne jede Menge Ressourcen erfolgreich sein konnten, wie dies ihrer Karriere half und welche positiven Ergebnisse sie in ihrer Instanz sehen konnten.
+Nehmen Sie an den aktuellen Adobe [!DNL Marketo Engage] Champions, Darshil Shah, Jenny Robertson &amp; Joy Martinez teil, wenn sie mit einem kleinen Team oder Team von einem von ihnen besprechen, wie sie Instanzen von Adobe [!DNL Marketo Engage] unterstützt haben. Unsere Champions werden auch besprechen, wie sie ohne jede Menge Ressourcen erfolgreich sein konnten, wie dies ihrer Karriere half und welche positiven Ergebnisse sie in ihrer Instanz sehen konnten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417670/?quality=12&learn=on)
 
-Klicks **[here](assets/small-team-instance.pdf){target="_blank"}** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](assets/small-team-instance.pdf){target="_blank"}** .

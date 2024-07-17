@@ -28,7 +28,7 @@ Die APAC Commerce Webinar-Reihe ist eine monatliche Zusammenstellung von Worksho
       </a>
     </div>
     <p>
-    <em>Adobe und Commonwealth Bank of Australia (CBA) präsentieren Innovationen in Commerce-, Cloud- und Zahlungslösungen.</em>
+    <em>Adobe und Commonwealth Bank of Australia (CBA) stellen Innovationen in Commerce-, Cloud- und Zahlungslösungen vor.</em>
     <p>
   </td>
   <td>
@@ -41,7 +41,7 @@ Die APAC Commerce Webinar-Reihe ist eine monatliche Zusammenstellung von Worksho
       </a>
     </div>
     <p>
-    <em>Lassen Sie sich von uns inspirieren, wie Sie die neuesten Funktionen und Architekturen übernehmen können, um Ihren Kunden das beste Erlebnis zu bieten und Ihr Unternehmen zu erweitern!In diesem Webinar.</em>
+    <em>Lassen Sie sich von uns inspirieren, wie Sie die neuesten Funktionen und Architekturen übernehmen können, um Ihren Kunden das beste Erlebnis zu bieten und Ihr Unternehmen zu erweitern!In diesem Webinar</em>
     <p>
   </td> 
   <td>
@@ -50,11 +50,11 @@ Die APAC Commerce Webinar-Reihe ist eine monatliche Zusammenstellung von Worksho
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
-        <strong>Der kreative Edge - Wie das visionäre Denken Commerce verändert</strong>
+        <strong>Die Creative Edge - Wie das visionäre Denken Commerce verändert</strong>
       </a>
     </div>
     <p>
-    <em>Lernen Sie die Integration von Kreativität und Handel kennen.</em>
+    <em>Erkunden Sie die Integration von Kreativität und Commerce.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ Die APAC Commerce Webinar-Reihe ist eine monatliche Zusammenstellung von Worksho
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.

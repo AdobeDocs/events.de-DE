@@ -32,13 +32,13 @@ Insights-Strategien und praktische Ansätze für Organisationen, deren Ziel die 
 
 Im Mittelpunkt des Treffens standen Teams, die mit Adobe Workfront möglichst effizient arbeiten. Im Folgenden finden Sie eine Zusammenfassung der wichtigsten behandelten Punkte.
 
-**Mittlere Teams und Effizienz**
+**Schlankes Team und Effizienz**
 
 * Erörtert die Herausforderungen, denen sich Lean-Teams gegenübersehen.
 * Hervorgehobene Ziele und Vorteile des Lean-Managements.
 * Hervorgehobene Grundsätze im Zusammenhang mit dem Lean Management.
 
-**Strategien für Effizienz**
+**Effizienzstrategien**
 
 * Bedeutung einer kontinuierlichen Verbesserung.
 * Straffung der Kommunikation.
@@ -48,7 +48,7 @@ Im Mittelpunkt des Treffens standen Teams, die mit Adobe Workfront möglichst ef
 
 * Nutzung von Workfront-Tools wie Blueprints, Ressourcenplanern und Integrationen für den Erfolg.
 
-**Wichtige Takeaways**
+**Tastenanschläge**
 
 * Strategien für Effizienz.
 * Kommunikationsrationalisierung.

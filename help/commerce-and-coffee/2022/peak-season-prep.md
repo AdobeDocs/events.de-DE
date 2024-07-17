@@ -1,5 +1,5 @@
 ---
-title: Handel und Kaffee - Vorbereitung der Hochsaison
+title: Commerce und Kaffee - Vorbereitung der Hochsaison
 description: In dieser Sitzung werden Strategien, Tipps und Best Practices für Ihre Commerce-Site während der Hochsaison erläutert. Wir besprechen die Weihnachtserwartungen für 2022, den mobilen Handel, die Promotion- und Kassenoptionen sowie die Bedeutung des Marketing für eine erfolgreiche Spitzensaison. Die Präsentation und die Demo werden von einem Live-Q&A mit Corey Gelato begleitet.
 solution: Commerce
 topic: Commerce
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Handel und Kaffee: Vorbereitung der Hochsaison
+# Commerce und Kaffee: Vorbereitung der Hochsaison
 
 In dieser Sitzung werden Strategien, Tipps und Best Practices für Ihre Commerce-Site während der Hochsaison erläutert. Wir besprechen die Weihnachtserwartungen für 2022, den mobilen Handel, die Promotion- und Kassenoptionen sowie die Bedeutung des Marketing für eine erfolgreiche Spitzensaison. Die Präsentation und die Demo werden von einem Live-Q&amp;A mit Corey Gelato begleitet.
 

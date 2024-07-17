@@ -1,6 +1,6 @@
 ---
-title: Kreativagenturen - Workfront-Testversand (11. August 2020)
-description: Hören Sie sich Cindy Reichert an, wie Brown-Forman Workfront Proof nutzt.
+title: Kreativagenturen - Workfront Proof (11. August 2020)
+description: Hören Sie sich Cindy Reichert an, der darüber spricht, wie Brown-Forman Workfront Proof nutzt.
 role: User
 level: Beginner, Intermediate
 kt: 9999
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Kreativagenturen: Workfront Proof (11. August 2020)
 
-Hören Sie sich Cindy Reichert an, wie Brown-Forman Workfront Proof nutzt.
+Hören Sie sich Cindy Reichert an, der darüber spricht, wie Brown-Forman Workfront Proof nutzt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341411/?quality=12&learn=on)

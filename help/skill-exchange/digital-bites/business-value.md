@@ -1,6 +1,6 @@
 ---
 title: Entsperren des Geschäftswerts für die gesamte Journey
-description: Erfahren Sie, wie Adobe Consulting Ihren Kreativ-, Marketing- und Technologieteams dabei hilft, Best Practices im kundenorientierten digitalen Marketing zu evaluieren und zu identifizieren, um quantifizierbare Ergebnisse und großartige Kundenerlebnisse zu erzielen und Ihr Unternehmen an der kundenspezifischen Journey auszurichten.
+description: Erfahren Sie, wie Adobe Consulting Ihren Kreativ-, Marketing- und Technologieteams dabei hilft, Best Practices im kundenorientierten digitalen Marketing zu bewerten und zu identifizieren, um quantifizierbare Ergebnisse und großartige Kundenerlebnisse zu erzielen und Ihr Unternehmen an der kundenspezifischen Journey auszurichten.
 role: Leader, User
 level: Intermediate
 kt: 11122
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Entsperren des Geschäftswerts für die gesamte Journey
 
-Erfahren Sie, wie Adobe Consulting Ihren Kreativ-, Marketing- und Technologieteams dabei hilft, Best Practices im kundenorientierten digitalen Marketing zu evaluieren und zu identifizieren, um quantifizierbare Ergebnisse und großartige Kundenerlebnisse zu erzielen und Ihr Unternehmen an der kundenspezifischen Journey auszurichten.
+Erfahren Sie, wie Adobe Consulting Ihren Kreativ-, Marketing- und Technologieteams dabei hilft, Best Practices im kundenorientierten digitalen Marketing zu bewerten und zu identifizieren, um quantifizierbare Ergebnisse und großartige Kundenerlebnisse zu erzielen und Ihr Unternehmen an der kundenspezifischen Journey auszurichten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409235/?quality=12&learn=on)

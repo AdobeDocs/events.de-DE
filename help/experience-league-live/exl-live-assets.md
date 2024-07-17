@@ -1,5 +1,5 @@
 ---
-title: Experience League LIVE Assets
+title: EXPERIENCE LEAGUE LIVE ASSETS
 description: Auf dieser Seite finden Sie Assets für Experience League LIVE
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Experience League LIVE Assets
+# EXPERIENCE LEAGUE LIVE ASSETS
 
 Auf dieser Seite finden Sie Assets für Experience League LIVE
 

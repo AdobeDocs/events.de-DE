@@ -28,7 +28,7 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
       </a>
     </div>
     <p>
-    <em>In dieser Sitzung erfahren Sie mehr über die wichtigsten Konzepte der Automatisierung und Optimierung von Adobe Target-Funktionen mithilfe von automatischem Targeting und automatischer Personalisierung.</em>
+    <em>Treten Sie dieser Sitzung bei, um die Kernkonzepte der Automatisierung und Optimierung von Adobe Target-Funktionen mithilfe von automatischem Targeting und automatischer Personalisierung kennenzulernen.</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
-        <strong>2022 Innovationen und Trends</strong>
+        <strong>Innovationen und Trends 2022</strong>
       </a>
     </div>
     <p>
-    <em>In dieser Keynote-Sitzung erfahren Sie mehr über die wichtigsten Trends in D&amp;I. Lernen Sie, wie Sie Ihre Experience Cloud-Investitionen optimal nutzen können, und lassen Sie sich mit uns in Verbindung setzen, um neue Innovationen zu entwickeln.</em>
+    <em>In dieser Keynote-Sitzung erfahren Sie mehr über die wichtigsten Trends in D&amp;I. Lernen Sie, wie Sie Ihre Daten sinnvoll nutzen können, indem Sie Ihre Experience Cloud-Investitionen maximieren und einen Blick in neue Innovationen werfen.</em>
     <p>
   </td>  
   <td>
@@ -54,7 +54,7 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
       </a>
     </div>
     <p>
-    <em>In dieser Sitzung erfahren Sie mehr über Best Practices für die Verwendung von Analytics-Dashboards auf Mobilgeräten sowie über die Personalisierung von Apps über Target.</em>
+    <em>In dieser Sitzung erfahren Sie mehr über Best Practices zur Verwendung von Analytics-Dashboards auf Mobilgeräten sowie über die Personalisierung von Apps über Target.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.

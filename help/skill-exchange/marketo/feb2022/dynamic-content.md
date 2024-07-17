@@ -1,5 +1,5 @@
 ---
-title: Dynamische Inhalte und die Leistung der Personalisierung
+title: Dynamische Inhalte und die Leistungsfähigkeit von Personalization
 description: In dieser Sitzung erfahren Sie, wie Sie dynamische Inhalte nutzen können, um zielgerichtetere und relevantere Inhalte an Ihre Datenbank zu senden.
 solution: Marketo Engage
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Dynamische Inhalte und die Leistung der Personalisierung
+# Dynamische Inhalte und die Leistungsfähigkeit von Personalization
 
 In dieser Sitzung erfahren Sie, wie Sie dynamische Inhalte nutzen können, um zielgerichtetere und relevantere Inhalte an Ihre Datenbank zu senden.
 
-**Wichtige Takeaways**
+**Tastenanschläge**
 
-* Optimieren Ihrer [!DNL Marketo Engage] Programmaufbau und Zeitersparnis durch Verwendung von Dynamic Content
+* Optimieren Sie Ihre [!DNL Marketo Engage]-Programmbuilds und sparen Sie Zeit, indem Sie dynamische Inhalte verwenden.
 * Erfahren Sie, wie Sie Ihre Datenbank segmentieren, um Dynamic Content zu nutzen.
 * Bericht über die Auswirkungen Ihres dynamischen Inhalts als Orientierung für zukünftige Marketing-Entscheidungen
 

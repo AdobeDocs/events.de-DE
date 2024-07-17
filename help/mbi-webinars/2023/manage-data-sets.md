@@ -1,8 +1,8 @@
 ---
 title: Verwalten von Datensätzen in Commerce Intelligence
-description: Sehen Sie sich dieses Webinar an, um mehr über die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse Manager zu erfahren.
-landing-page-description: Sehen Sie sich dieses Webinar an, um mehr über die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse Manager zu erfahren.
-short-description: Sehen Sie sich dieses Webinar an, um mehr über die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse Manager zu erfahren.
+description: In diesem Webinar erfahren Sie mehr über die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse Managers.
+landing-page-description: In diesem Webinar erfahren Sie mehr über die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse Managers.
+short-description: In diesem Webinar erfahren Sie mehr über die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse Managers.
 kt: 10410
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -13,7 +13,7 @@ duration: 3410
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 22%
+ht-degree: 21%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 22%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence wurde früher als [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
+>Adobe Commerce Intelligence hieß vorher [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
 
 Erfahren Sie direkt vom Adobe Commerce Product-Team mehr über die leistungsstarken Funktionen von MBI Data Warehouse Manager. Lernen Sie, was Sie, von der grundlegenden Berichterstellung abgesehen, mit Ihren Daten anfangen können.
 
@@ -34,4 +34,4 @@ In diesem aufgezeichneten Webinar erfahren Sie, wie Sie den ROI Ihrer Werbekampa
 ## Nützliche Ressourcen
 
 [Eine Übersicht über den Data Warehouse-Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[Daten verbinden](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[Verbinden Ihrer Daten](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

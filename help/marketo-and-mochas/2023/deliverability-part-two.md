@@ -1,6 +1,6 @@
 ---
 title: Marketo und Modelle - Zustellbarkeit (Teil 2)
-description: Diese Sitzung von Marketo und Mochas beinhaltet Marketo Deliverability Manager, Sean Wirt, Best Practices zur Zustellbarkeit, Hervorhebung der Zustellbarkeit in Gmail, Apple Mail Privacy und eine Zusammenstellung von freigegebenen und dedizierten IPs. Sean durchläuft eine lange Produktdemonstration zum Zustellbarkeits-Tool in [!DNL Marketo Engage] , wie Sie Seed-Listen importieren, Smart-Listen und Berichte erstellen und vieles mehr. Die Veranstaltung schließt mit einer erweiterten Q&A-Sitzung ab, in der Sean Fragen von Registranten und Teilnehmern beantwortet.
+description: Diese Sitzung von Marketo und Mochas beinhaltet Marketo Deliverability Manager, Sean Wirt, Best Practices zur Zustellbarkeit, Hervorhebung der Zustellbarkeit in Gmail, Apple Mail Privacy und eine Zusammenstellung von freigegebenen und dedizierten IPs. Sean führt eine langwierige Produktdemonstration des Zustellbarkeits-Tools in [!DNL Marketo Engage] durch, ebenso wie das Importieren von Seed-Listen, das Erstellen von Smart-Listen, Berichten und mehr. Die Veranstaltung schließt mit einer erweiterten Q&A-Sitzung ab, in der Sean Fragen von Registranten und Teilnehmern beantwortet.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Marketo und Modelle - Zustellbarkeit (Teil 2)
 
-Diese Sitzung von Marketo und Mochas beinhaltet Marketo Deliverability Manager, Sean Wirt, Best Practices zur Zustellbarkeit, Hervorhebung der Zustellbarkeit in Gmail, Apple Mail Privacy und eine Zusammenstellung von freigegebenen und dedizierten IPs. Sean durchläuft eine lange Produktdemonstration zum Zustellbarkeits-Tool in [!DNL Marketo Engage] , wie Sie Seed-Listen importieren, Smart-Listen und Berichte erstellen und vieles mehr. Die Veranstaltung schließt mit einer erweiterten Q&amp;A-Sitzung ab, in der Sean Fragen von Registranten und Teilnehmern beantwortet.
+Diese Sitzung von Marketo und Mochas beinhaltet Marketo Deliverability Manager, Sean Wirt, Best Practices zur Zustellbarkeit, Hervorhebung der Zustellbarkeit in Gmail, Apple Mail Privacy und eine Zusammenstellung von freigegebenen und dedizierten IPs. Sean führt eine langwierige Produktdemonstration des Zustellbarkeits-Tools in [!DNL Marketo Engage] durch, ebenso wie das Importieren von Seed-Listen, das Erstellen von Smart-Listen, Berichten und mehr. Die Veranstaltung schließt mit einer erweiterten Q&amp;A-Sitzung ab, in der Sean Fragen von Registranten und Teilnehmern beantwortet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418668/?learn=on)

@@ -23,4 +23,4 @@ Erfahren Sie mehr über die Vorteile von In-App-Nachrichten als Echtzeit-Interak
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419194/?quality=12&learn=on)
 
-Haben Sie Fragen dazu? Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-maximize-your/td-p/599638)).
+Haben Sie Fragen dazu? Fahren Sie mit der Diskussion über dieses Thema im Adobe Experience League- [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-maximize-your/td-p/599638) fort.

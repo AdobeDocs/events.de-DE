@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Marketo Engage] Rockstar-Segment
-description: Vier "Rockstar"-Kunden werden jeweils ihr Bestes geben [!DNL Marketo Engage] Tipp oder Trick. Wer wird dich über jeden Glauben hinwegtäuschen?
+title: Adobe [!DNL Marketo Engage]  Rockstar-Segment
+description: Vier "Rockstar"-Kunden präsentieren jeweils ihren besten [!DNL Marketo Engage] Tipp oder Trick. Wer wird dich über jeden Glauben hinwegtäuschen?
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Adobe [!DNL Marketo Engage] Rockstar-Segment
 
-Vier &quot;Rockstar&quot;-Kunden werden jeweils ihr Bestes geben [!DNL Marketo Engage] Tipp oder Trick. Wer wird dich über jeden Glauben hinwegtäuschen?
+Vier &quot;Rockstar&quot;-Kunden werden jeweils ihren besten [!DNL Marketo Engage] Tipp oder Trick präsentieren. Wer wird dich über jeden Glauben hinwegtäuschen?
 
 >[!VIDEO](https://video.tv.adobe.com/v/340311/?quality=12&learn=on)

@@ -13,7 +13,7 @@ duration: 1664
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 14%
+ht-degree: 9%
 
 ---
 
@@ -21,12 +21,12 @@ ht-degree: 14%
 
 Erfahren Sie, wie Adobe Workfront und Adobe Experience Manager Assets zusammenarbeiten.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/3kHfJED)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3kHfJED)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337578/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de)
-- [Übersicht über Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=de)
-- [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=de)
+- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

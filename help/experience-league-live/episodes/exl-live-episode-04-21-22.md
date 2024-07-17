@@ -23,7 +23,7 @@ Treten Sie Gastgeber Danny Gordon und die Gäste Amol Anand, Sachin Mali und Sea
 
 >[!VIDEO](https://video.tv.adobe.com/v/342475/?quality=12&learn=on)
 
-**Aufnahme vom 21. April, 9 Uhr PST**
+**Aufgenommen am 21. April, 9 Uhr PST**
 
 ## Präsentationsfolien
 

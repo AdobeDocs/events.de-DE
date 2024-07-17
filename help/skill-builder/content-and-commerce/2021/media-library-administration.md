@@ -1,6 +1,6 @@
 ---
 title: Verschwenden Sie keine Zeit, um Inhalte erneut zu finden.
-description: Werden Sie ein erfahrener Autor mit einem tiefen Einblick in die Benutzeroberfläche für AEM Sites und die Media Library-Verwaltung, mit Tipps und Tricks zur Steigerung der täglichen Effizienz.
+description: Werden Sie ein erfahrener Autor mit Tipps und Tricks, um Ihre Effizienz im Alltag zu steigern, und tauchen Sie tief in die AEM Sites- und Media Library-Administrations-Benutzeroberfläche ein.
 solution: Experience Manager, Experience Manager Sites
 feature-set: Experience Manager Assets
 product: experience manager
@@ -29,7 +29,7 @@ In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Man
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-Werden Sie ein erfahrener Autor mit einem tiefen Einblick in die Benutzeroberfläche für AEM Sites und die Media Library-Verwaltung, mit Tipps und Tricks, um Ihre tägliche Effizienz zu steigern.
+Werden Sie ein erfahrener Autor mit Tipps und Tricks, um Ihre Effizienz im Alltag zu steigern, und tauchen Sie tief in AEM Sites- und Media Library-Administrationsbenutzeroberfläche ein.
 
 ## Serienaufnahmen
 

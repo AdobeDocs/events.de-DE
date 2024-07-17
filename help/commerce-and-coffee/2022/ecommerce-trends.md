@@ -1,5 +1,5 @@
 ---
-title: Handel und Kaffee - E-Commerce-Trends
+title: Commerce und Kaffee - E-Commerce-Trends
 description: Diese Sitzung vertieft sich in fünf der wichtigsten Trends im eCommerce von heute. Wir diskutieren Strategien und Taktiken über die wichtigsten Trends sowie über die Auswirkungen, die sie bei der Implementierung auf Ihr Unternehmen haben. Corey durchläuft dann eine Demonstration von Event-Tickern, Kategorieberechtigungen, B2B-Funktionen und mehr. Die Präsentation und die Demo werden von einem Live-Q&A mit Corey begleitet.
 solution: Commerce
 topic: Commerce
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Handel und Kaffee - E-Commerce-Trends
+# Commerce und Kaffee - E-Commerce-Trends
 
 Diese Sitzung vertieft sich in fünf der wichtigsten Trends im eCommerce von heute. Wir diskutieren Strategien und Taktiken über die wichtigsten Trends sowie über die Auswirkungen, die sie bei der Implementierung auf Ihr Unternehmen haben. Corey durchläuft dann eine Demonstration von Event-Tickern, Kategorieberechtigungen, B2B-Funktionen und mehr. Die Präsentation und die Demo werden von einem Live-Q&amp;A mit Corey begleitet.
 

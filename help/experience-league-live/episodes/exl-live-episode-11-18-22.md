@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Analytics im Büro oder unterwegs
 
-**Einblicke ohne Grenzen jederzeit und überall mit Adobe[!DNL Analytics]**
+**Unberührbare Einblicke jederzeit und überall mit Adobe[!DNL Analytics]**
 
 Mit so vielen Anforderungen an Ihre Zeit und Aufmerksamkeit müssen Sie in der Lage sein, geschäftliche Einblicke in jeder Umgebung zu erstellen und zu erhalten - egal ob Sie hinter einem Schreibtisch oder draußen sind und so weiter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410834/?quality=12&learn=on)
 
-Sehen Sie sich das Video oben an, um dieses Live-Stream-Ereignis anzuzeigen, bei dem Adobe [!DNL Analytics] Experten gaben Tipps zur Anpassung und zum Zugriff auf Einblicke in Analysis Workspace und die [!DNL Analytics] Dashboards-App.
+Sehen Sie sich das Video oben an, um sich dieses Live-Stream-Ereignis anzusehen, bei dem Adobe [!DNL Analytics]-Experten Tipps zum Anpassen und Aufrufen von Einblicken in Analysis Workspace und der [!DNL Analytics] Dashboards-App gegeben haben.
 
-Haben Sie Fragen dazu? Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
+Haben Sie Fragen dazu? Fahren Sie mit der Diskussion über dieses Thema im Adobe Experience League [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037) fort.
 

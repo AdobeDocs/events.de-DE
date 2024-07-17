@@ -33,7 +33,7 @@ ht-degree: 2%
    + [7 Möglichkeiten, ein E-Commerce-Geschäft organisch zu erweitern](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
    + [KI-gestützte Personalization](2023/ai-personalisation.md)
-   + [Adobe PaaS](2023/adobes-paas-cloud-commerce.md)
+   + [Adobe PaaS Cloud](2023/adobes-paas-cloud-commerce.md)
    + [E-Commerce-Konversionen steigern](2023/ecommerce-conversions.md)
    + [Kombinierte Commerce-Strategien](2023/composable-commerce.md)
    + [Marktplätze als Wachstumskraft](2023/marketplaces.md)

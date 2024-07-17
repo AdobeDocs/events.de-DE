@@ -6,7 +6,7 @@ duration: 48
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -21,10 +21,10 @@ Skill Builder ist eine Webinarreihe, die darauf ausgelegt ist, Ihre Wissensgrund
   <td>
     <img alt="Content und Commerce" src="assets/commerce.png" />
     <div>
-      <strong>Content and Commerce</strong>
+      <strong>Inhalt und Commerce</strong>
     </div>
     <p>
-    <em>Erstellen und verwalten Sie eine Reihe ansprechender Websites, mobiler Apps und Formulare. Darüber hinaus erfahren Sie, wie Sie mit unserer flexiblen, KI-gestützten Commerce-Lösung auf einer einzigen Plattform Commerce-Erlebnisse für mehrere Kanäle erstellen können.</em>
+    <em>Erstellen und verwalten Sie eine Reihe ansprechender Websites, mobiler Apps und Formulare. Darüber hinaus erfahren Sie, wie Sie mit unserer flexiblen, KI-gestützten Commerce-Lösung auf einer einzigen Plattform Commerce-Erlebnisse für mehrere Kanäle erstellen.</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sitzungen durchsuchen</span>
@@ -33,7 +33,7 @@ Skill Builder ist eine Webinarreihe, die darauf ausgelegt ist, Ihre Wissensgrund
   <td>
     <img alt="Journey von Kunden" src="assets/customer-journey.png" />
     <div>
-      <strong>Journey von Kunden</strong>
+      <strong>Kunden-Journey</strong>
     </div>
     <p>
     <em>Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen, um personalisierte, kanalübergreifende Journey zu erstellen.</em>
@@ -45,7 +45,7 @@ Skill Builder ist eine Webinarreihe, die darauf ausgelegt ist, Ihre Wissensgrund
   <td>
     <img alt="Daten und Erkenntnisse" src="assets/data-insights.png" />
     <div>
-      <strong>Daten und Erkenntnisse</strong>
+      <strong>Daten und Einblicke</strong>
     </div>
     <p>
     <em>Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online- und Offline-Dateneinblicken in Ihrer gesamten Organisation.</em>
@@ -59,4 +59,4 @@ Skill Builder ist eine Webinarreihe, die darauf ausgelegt ist, Ihre Wissensgrund
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.

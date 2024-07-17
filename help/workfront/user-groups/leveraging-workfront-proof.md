@@ -1,5 +1,5 @@
 ---
-title: Workfront-Testversand nutzen (9. November 2021)
+title: Nutzung von Workfront Proof (9. November 2021)
 description: Lernen Sie die verschiedenen Möglichkeiten kennen, Workfront Proof zu nutzen, um Ihre Arbeit zu verbessern.
 role: Admin, User
 level: Beginner, Intermediate
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Workfront-Testversand nutzen (9. November 2021)
+# Nutzung von Workfront Proof (9. November 2021)
 
 Lernen Sie die verschiedenen Möglichkeiten kennen, Workfront Proof zu nutzen, um Ihre Arbeit zu verbessern.
 

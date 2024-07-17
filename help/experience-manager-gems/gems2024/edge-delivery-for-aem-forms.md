@@ -25,7 +25,7 @@ Dieses Webinar ist abgeschlossen - sehen Sie sich bitte die Aufzeichnung unten a
 
 Erfahren Sie, wie Sie AEM Forms mit Edge Delivery Services erstellen und veröffentlichen und diese als außergewöhnliche Erlebnisse bereitstellen. Wir werden zwei Möglichkeiten zum Authoring dieser Formulare behandeln: Verwendung von dokumentbasiertem Authoring und AEM basiertes Authoring. Sie erfahren, wie Sie ein AEM Forms Edge Delivery Services-Projekt zur Anpassung von Forms-Bausteinen und -Komponenten und zur Verwendung serverseitiger Erweiterungen einrichten. Außerdem erfahren Sie, wie Sie AEM Forms as a Cloud Service für die Backend-Verarbeitung von Forms nach der Übermittlung nutzen können.
 
-## Moderatorinnen und Moderatoren
+## Moderatoren
 
 * Arun Taneja, Product Management Director, Adobe
 * Vijay Kumar Jalagari, Leiter Engineering, Adobe
@@ -38,6 +38,6 @@ Erfahren Sie, wie Sie AEM Forms mit Edge Delivery Services erstellen und veröff
 
 >[!NOTE]
 > 
->* Informationen zu sitzungsspezifischen Community-Interaktionen auf Experience League finden Sie unter [Kontextueller Thread](https://adobe.ly/4aCz0OE).
+>* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf Experience League den entsprechenden [kontextuellen Thread](https://adobe.ly/4aCz0OE).
 >
->* Um Benachrichtigungen zu unseren bevorstehenden Webinaren zu erhalten, registrieren Sie sich bitte unter [Adobe AEM Benutzergruppe](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).

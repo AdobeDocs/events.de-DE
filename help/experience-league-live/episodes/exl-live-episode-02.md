@@ -23,5 +23,5 @@ Nehmen Sie an einer Diskussion mit drei Adobe-Experten teil, die sich für diese
 
 >[!VIDEO](https://video.tv.adobe.com/v/336422/?quality=12&learn=on)
 
-Um diese Sitzung zu besprechen, besuchen Sie bitte das [Diskussion in der Experience League-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/questions-and-discussion-for-experience-league-live-ep-2-make/m-p/420645#M68){target="_blank"}.
+Um diese Sitzung zu besprechen, besuchen Sie bitte die [Diskussion in der Experience League-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/questions-and-discussion-for-experience-league-live-ep-2-make/m-p/420645#M68){target="_blank"}.
 

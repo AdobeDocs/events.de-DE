@@ -1,6 +1,6 @@
 ---
 title: AEM Champion Office Hours - April Edition
-description: Nehmen Sie an der April-Ausgabe der Adobe AEM Champion Office Hours teil, besprechen Sie als Panel of Adobe Experience Manager Champions Best Practices, tauschen Sie Tipps aus und machen Sie sich mit einem Live-Q&A rund um AEM as a Cloud Service. Ob Sie neu AEM sind, eine Frage über Ihren Übergang zum Cloud Service haben oder einfach verstehen möchten, wie der Übergang zu AEM as a Cloud Service den Anforderungen Ihrer Organisation gerecht werden kann, Sie werden sicher wertvolle Einblicke von unseren Adobe Experience Manager Champions erhalten.
+description: Nehmen Sie an der April-Ausgabe der Adobe AEM Champion Office Hours teil, besprechen Sie als Panel of Adobe Experience Manager Champions Best Practices, tauschen Sie Tipps aus und machen Sie sich mit einem Live-Q&A rund um AEM as a Cloud Service vertraut. Egal ob Sie neu AEM sind, eine Frage über Ihren Übergang zum Cloud Service haben oder einfach verstehen möchten, wie der Übergang zu AEM as a Cloud Service den Anforderungen Ihres Unternehmens gerecht werden kann, Sie werden sicher wertvolle Einblicke von unseren Adobe Experience Manager Champions erhalten.
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 # AEM Champion Office Hours - April Edition
 
-Nehmen Sie an der April-Ausgabe der Adobe AEM Champion Office Hours teil, als Panel of [Adobe Experience Manager Champions |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]Erfahren Sie mehr über Best Practices, tauschen Sie Tipps aus und machen Sie sich mit einem Live-Forum rund um AEM as a Cloud Service Themen vertraut.
+Nehmen Sie an der April-Ausgabe von Adobe AEM Champion Office Hours teil, als Podiumsdiskussion von [Adobe Experience Manager Champions |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]besprechen Sie Best Practices, geben Sie Tipps und machen Sie Live-Fragen und -Antworten rund um AEM as a Cloud Service.
 
-Ob Sie neu AEM sind, eine Frage über Ihren Übergang zum Cloud Service haben oder einfach verstehen möchten, wie der Übergang zu AEM as a Cloud Service den Anforderungen Ihrer Organisation gerecht werden kann, Sie werden sicher wertvolle Einblicke von unseren Adobe Experience Manager Champions erhalten.
+Egal ob Sie neu AEM sind, eine Frage über Ihren Übergang zum Cloud Service haben oder einfach verstehen möchten, wie der Übergang zu AEM as a Cloud Service den Anforderungen Ihres Unternehmens gerecht werden kann, Sie werden sicher wertvolle Einblicke von unseren Adobe Experience Manager Champions erhalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419001/?learn=on)

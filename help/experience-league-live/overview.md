@@ -27,7 +27,7 @@ Experience League LIVE ist eine Live-Streaming-Show des Experience League-Teams.
 <tr>
 
 <td style="vertical-align: top;">
-      <b>Kommen Sie bald zurück, um von neuen, kommenden Shows zu lernen! In der Zwischenzeit können Sie unsere vorherigen Episoden sehen, indem Sie auf Links unter oder im linken Navigationsbereich klicken.</b>
+      <b>Komm bald zurück, um mehr über neue, bevorstehende Shows zu erfahren! Sehen Sie sich in der Zwischenzeit unsere vorherigen Episoden an, indem Sie auf Links unter oder im linken Navigationsbereich klicken.</b>
   </td>
 </tr>
 </table>
@@ -68,7 +68,7 @@ Experience League LIVE ist eine Live-Streaming-Show des Experience League-Teams.
       <img alt="Experience League LIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - Die interne Scoop</strong></a>
+      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - Der innere Schott</strong></a>
       <br/><em>mit Trevor Paulsen, Rohit Gossain, Alex Strawn</em>
       <br/><em>25. Januar 2021</em>
     </div>
@@ -93,4 +93,4 @@ Experience League LIVE ist eine Live-Streaming-Show des Experience League-Teams.
 
 >[!TIP]
 >
->Weitere Lernmethoden finden Sie in unserem kostenlosen [Kurse](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie einzelne [Übungen](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
+>Weitere Lernmethoden finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).

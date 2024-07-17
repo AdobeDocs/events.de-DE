@@ -7,7 +7,7 @@ duration: 110
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 16%
+ht-degree: 9%
 
 ---
 
@@ -20,8 +20,8 @@ Vom 4. bis 5. Oktober 2021 brachte Adobe Developers Live Adobe-Entwickler und Er
 Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud präsentierten die neuesten technologischen Fortschritte und Entwicklertools, die Design, Content-Erstellungs-Workflows, Dokumentendienste und Customer Experience Management branchenübergreifend ermöglichen.
 
 Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Gesprächen in Experience League Communities teil.
-* [Adobe Developer App Builder Vollständige Sitzungsliste](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [AEM vollständige Sitzungsliste](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=de#M120517)
+* [Adobe Developer App Builder-Liste für vollständige Sitzung ](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
+* [AEM Vollständige Sitzungsliste](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=de#M120517)
 
 ## Highlights
 
@@ -45,7 +45,7 @@ Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Gesprächen in 
       <img alt="Überblick über die Integration von Adobe Experience Platform" src="/help/adobe-developers-live/assets/eric.png"/>
       </a>
       <div>
-         <a href="aep-integration.md"><strong>Überblick über die Integration von Adobe Experience Platform</strong></a>
+         <a href="aep-integration.md"><strong>Überblick über die Adobe Experience Platform-Integration</strong></a>
          <br/><em>mit Eric Knee, Principal Enterprise Solution Architect</em>
       </div>
       <p>
@@ -72,30 +72,30 @@ Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Gesprächen in 
 
 >[!TIP]
 >
->**Alle Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle Sitzungen werden in der Navigation auf der linken Seite angezeigt**.
 
 ## Weitere Ressourcen
 
 ### AEM
 
-* [Experience League – AEM-Erkundung](https://experienceleague.adobe.com/?lang=de#recommended/solutions/experience-manager)
-* [AEM Sites-Dokumentation zum Authoring](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=de)
-* [AEM Sites-Dokumentation zur Entwicklung](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=de)
-* [AEM Sites-Dokumentation zur Verwaltung](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=de)
-* [AEM Sites-Dokumentation zur Bereitstellung](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=de)
+* [Experience League - AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
+* [Dokumentation zur AEM Sites-Bearbeitung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
+* [AEM Sites-Entwicklungsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
+* [AEM Sites-Verwaltungsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [AEM Sites-Bereitstellungsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=de)
 * [AEM as a Cloud Service Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=de)
 * [AEM Assets-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=de)
-* [Tutorials zu AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=de)
-* [Tutorials zu AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=de)
+* [Tutorials zu AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
+* [Tutorials zu AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
 
 ### Adobe Experience Platform
 
-* [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+* [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 * [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 * [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)
 
-### App-Entwicklung
+### App Builder
 
-* [App Builder - Übersicht](https://adobe.ly/aem-appbuilder)
+* [Überblick über App Builder](https://adobe.ly/aem-appbuilder)
 * [App Builder-Entwicklerhandbuch](https://adobe.ly/appbuilder)
-* [Registrierung des App Builder-Testprogramms](https://adobe.ly/appbuilder-trial)
+* [Registrieren des App Builder-Testprogramms](https://adobe.ly/appbuilder-trial)

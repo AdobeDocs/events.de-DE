@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Öffnungs-Keynote
 
-Das Entwickler-Ökosystem war immer für den Erfolg von Magento entscheidend, und das ist für Adobe Commerce und Magento Open Source heute nicht anders. Beginnen Sie einen spannenden Tag mit informativen Inhalten und eindringlichen Diskussionen, die unter anderem die Adobe Vision für die Plattform, die Weiterentwicklung von Open Source und bevorstehende Verbesserungen bei Entwicklererlebnissen, Erweiterbarkeit, Benutzererlebnisentwicklung und Best Practices für die Site-Wartung beinhalten.
+Das Entwickler-Ökosystem war immer für den Erfolg von Magento entscheidend, und das ist für Adobe Commerce und Magento Open Source heute nicht anders. Beginnen Sie mit einem spannenden Tag mit informativen Inhalten und eindringlichen Diskussionen, zu denen die Adobe Vision für die Plattform, die Weiterentwicklung von Open Source und bevorstehende Verbesserungen bei Entwicklererlebnissen, Erweiterbarkeit, Benutzererlebnisentwicklung und Best Practices für die Site-Wartung gehören.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340620/?quality=12&learn=on)

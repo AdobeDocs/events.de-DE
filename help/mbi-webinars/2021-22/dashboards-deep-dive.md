@@ -1,6 +1,6 @@
 ---
-title: Deep-Dive-Vorgang für Commerce Intelligence-Dashboards
-description: In diesem Webinar erhalten Sie eine Führung durch die vier Dashboards, die bei der Einrichtung jedes Commerce Intelligence-Kontos enthalten sind.
+title: Commerce Intelligence-Dashboards - Tief tauchen
+description: Sehen Sie sich dieses Webinar an, um sich einen Überblick über die vier Dashboards zu verschaffen, die bei der Einrichtung jedes Commerce Intelligence-Kontos zur Verfügung stehen.
 landing-page-description: Sehen Sie sich dieses aufgezeichnete Webinar an, um sich einen Überblick über die vier Dashboards zu verschaffen, die bei der Einrichtung jedes Commerce Intelligence-Kontos zur Verfügung stehen.
 short-description: Sehen Sie sich dieses aufgezeichnete Webinar an, um sich einen Überblick über die vier Dashboards zu verschaffen, die bei der Einrichtung jedes Commerce Intelligence-Kontos zur Verfügung stehen.
 kt: 10496
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ---
 
-# Deep-Dive-Vorgang für Commerce Intelligence-Dashboards
+# Commerce Intelligence-Dashboards - Tief tauchen
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence wurde früher als [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
+>Adobe Commerce Intelligence hieß vorher [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
 
-Führen Sie bei jedem Commerce Intelligence-Konto eine Führung durch die vier bei der Einrichtung enthaltenen Dashboards durch. In diesem aufgezeichneten Webinar wird die Rolle hervorgehoben, die Ihre Standard-Dashboards bei der Nutzung Ihrer E-Commerce-Store-Daten spielen, und es werden die allgemeinen Ziele der einzelnen Dashboards behandelt. Außerdem werden einige gängige Anwendungsfälle der vordefinierten Berichte behandelt, z. B.:
+Führen Sie bei jedem Commerce Intelligence-Konto eine Führung durch die vier Dashboards, die bei der Einrichtung enthalten sind. In diesem aufgezeichneten Webinar wird die Rolle hervorgehoben, die Ihre Standard-Dashboards bei der Nutzung Ihrer E-Commerce-Store-Daten spielen, und es werden die allgemeinen Ziele der einzelnen Dashboards behandelt. Außerdem werden einige gängige Anwendungsfälle der vordefinierten Berichte behandelt, z. B.:
 
 - Identifizieren Sie die Auswirkungen von Kundenakquisekampagnen, indem Sie die Beziehungen zwischen dem Monat und dem Lebenszeitwert der Kundenakquise visualisieren.
 - Ermitteln Sie Trends bei der Platzierung stündlicher Bestellungen, die auf den Lagerbestand oder den Personalbedarf hinweisen.

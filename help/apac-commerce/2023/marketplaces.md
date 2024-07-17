@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Dürfen Sie wachsen? Mirakl Marketplace als Wachstumsmotor
 
-Wir freuen uns, in der Septemberausgabe der APAC Commerce Webinar Series Gastredner, Cheryl Jones und Joael Pereira, begrüßen zu dürfen, die sich uns von Adobe Mirakl, einem Partner von Premier Technology, anschließen. In dieser Sitzung erfahren Sie, wie Sie Marktplätze nutzen können, um inkrementelle Umsätze zu steigern und gleichzeitig ein außergewöhnliches Kundenerlebnis zu bieten. Außerdem lernen Sie, wie Sie sich an einen immer anspruchsvolleren Verbrauchermarkt anpassen können. Sie werden die Einfachheit und Einfachheit der Integration von Marktplätzen in Ihren Adobe Commerce-Shop mit einer Demo genießen und die Möglichkeit haben, unsere Redner live zu fragen.
+Wir freuen uns, in der Septemberausgabe der APAC Commerce Webinar Series Gastredner, Cheryl Jones und Joael Pereira, begrüßen zu dürfen, die sich uns von Mirakl, einem der Adobe Premier Technology Partner, anschließen. In dieser Sitzung erfahren Sie, wie Sie Marktplätze nutzen können, um inkrementelle Umsätze zu steigern und gleichzeitig ein außergewöhnliches Kundenerlebnis zu bieten. Außerdem lernen Sie, wie Sie sich an einen immer anspruchsvolleren Verbrauchermarkt anpassen können. Sie werden die Einfachheit und Einfachheit der Integration von Marktplätzen in Ihren Adobe Commerce-Shop mit einer Demo genießen und die Möglichkeit haben, unsere Redner live zu fragen.
 
 Entdecken Sie:
 

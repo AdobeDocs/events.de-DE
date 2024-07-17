@@ -30,18 +30,18 @@ Lernen Sie die Nuancen des Change Managements kennen und liefern Sie strategisch
 
 ## Die 3 wichtigsten Punkte bei der effektiven Änderungsverwaltung
 
-**Wesentliche Aspekte des Change Managements**
+**Wesentliche Aspekte der Änderungsverwaltung**
 
 * Das Änderungs-Management passt die organisatorischen Ziele an die individuelle Leistung an.
 * Erhöht die Agilität und erhöht die Effizienz innerhalb des Unternehmens.
 
-**Kernkompetenzen für effektives Change Management**
+**Kernkompetenzen für die effektive Änderungsverwaltung**
 
 * Die Einbeziehung der Interessenträger ist von entscheidender Bedeutung.
 * Entscheidend ist eine effektive Kommunikation.
 * Ausbildung und Unterstützung sind für eine erfolgreiche Übernahme des Wandels erforderlich.
 
-**Überwindung der Herausforderungen im Change Management**
+**Bevorstehende Herausforderungen bei der Änderungsverwaltung**
 
 * Umgang mit Veränderungen der Ermüdung und Resistenzmanagement.
 * Die Definition von Erfolgsmetriken ist von entscheidender Bedeutung.

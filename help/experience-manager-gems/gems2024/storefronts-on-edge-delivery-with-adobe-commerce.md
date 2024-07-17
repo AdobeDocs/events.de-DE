@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Storefronts auf Edge Delivery Services mit Adobe Commerce
-description: In diesem AEM GEMs-Webinar erfahren Sie, wie Sie eine leistungsstarke Storefront für Edge Delivery Services für Adobe Commerce erstellen. Wir führen Sie durch den Einrichtungsprozess Ihres Projekts mit der Commerce-Vorlage und wie Sie sie mit den neuen Commerce SaaS-Services verbinden, um eine schnelle und benutzeroberflächenoptimierte Produktkatalogintegration mit Sensei zu ermöglichen. Wir führen Drop-in-Komponenten ein, eine Reihe von anpassbaren Frontend-Komponenten, die die Storefront-Entwicklung beschleunigen. Sie lernen Best Practices zur Erweiterung und Formatierung kennen. Schließlich werden wir die neuen Authoring-Funktionen der Edge-Bereitstellung hervorheben, um Ihre Commerce-Erlebnisse mit erstellten Inhalten anzureichern.
+description: In diesem AEM GEMs-Webinar erfahren Sie, wie Sie eine leistungsstarke Storefront für Edge Delivery Services für Adobe Commerce erstellen. Wir führen Sie durch den Einrichtungsprozess Ihres Projekts mit der Commerce-Bauvorlage und wie Sie sie mit den neuen Commerce SaaS-Diensten verbinden können, um eine schnelle und benutzeroberflächenoptimierte Produktkatalogintegration mit Sensei zu ermöglichen. Wir führen Drop-in-Komponenten ein, eine Reihe von anpassbaren Frontend-Komponenten, die die Storefront-Entwicklung beschleunigen. Sie lernen Best Practices zur Erweiterung und Formatierung kennen. Schließlich werden wir neue Edge Delivery-Authoring-Funktionen hervorheben, um Ihre Commerce-Erlebnisse mit erstellten Inhalten zu bereichern.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -12,22 +12,24 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
-source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
+exl-id: 6294fa1b-4807-484b-ac51-f01bb1dd9656
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
 # Webinar-Datum: 6. März 2024
 
-Zeit: 17.00 Uhr MEZ / 9.00 Uhr PDT / 21.30 Uhr IST Dieses Webinar ist abgeschlossen. Bitte sehen Sie sich die Aufnahme unten an.
+Zeit: 17.00 Uhr MEZ/9.00 Uhr PDT/21.30 Uhr IST
+Dieses Webinar ist abgeschlossen. Bitte sehen Sie sich die Aufnahme unten an.
 
 ## Erstellen von Storefronts auf Edge Delivery Services mit Adobe Commerce
 
-In diesem AEM GEMs-Webinar erfahren Sie, wie Sie eine leistungsstarke Storefront für Edge Delivery Services für Adobe Commerce erstellen. Wir führen Sie durch den Einrichtungsprozess Ihres Projekts mit der Commerce-Vorlage und wie Sie sie mit den neuen Commerce SaaS-Services verbinden, um eine schnelle und benutzeroberflächenoptimierte Produktkatalogintegration mit Sensei zu ermöglichen. Wir führen Drop-in-Komponenten ein, eine Reihe von anpassbaren Frontend-Komponenten, die die Storefront-Entwicklung beschleunigen. Sie lernen Best Practices zur Erweiterung und Formatierung kennen. Schließlich werden wir die neuen Authoring-Funktionen der Edge-Bereitstellung hervorheben, um Ihre Commerce-Erlebnisse mit erstellten Inhalten anzureichern.
+In diesem AEM GEMs-Webinar erfahren Sie, wie Sie eine leistungsstarke Storefront für Edge Delivery Services für Adobe Commerce erstellen. Wir führen Sie durch den Einrichtungsprozess Ihres Projekts mit der Commerce-Bauvorlage und wie Sie sie mit den neuen Commerce SaaS-Diensten verbinden können, um eine schnelle und benutzeroberflächenoptimierte Produktkatalogintegration mit Sensei zu ermöglichen. Wir führen Drop-in-Komponenten ein, eine Reihe von anpassbaren Frontend-Komponenten, die die Storefront-Entwicklung beschleunigen. Sie lernen Best Practices zur Erweiterung und Formatierung kennen. Schließlich werden wir neue Edge Delivery-Authoring-Funktionen hervorheben, um Ihre Commerce-Erlebnisse mit erstellten Inhalten zu bereichern.
 
-## Moderatorinnen und Moderatoren
+## Moderatoren
 
 * Stephen Rugh, Senior Software Engineer
 * Hannes Hertach, Software Development Engineer
@@ -38,6 +40,6 @@ In diesem AEM GEMs-Webinar erfahren Sie, wie Sie eine leistungsstarke Storefront
 
 >[!NOTE]
 > 
->* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf dem Experience League unsere [kontextueller Thread](https://adobe.ly/48m4dEm).
+>* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf Experience League unseren [kontextuellen Thread](https://adobe.ly/48m4dEm).
 >
->* Um Benachrichtigungen zu unseren bevorstehenden Webinaren zu erhalten, registrieren Sie sich bitte unter [Adobe AEM Benutzergruppe](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).

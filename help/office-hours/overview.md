@@ -16,7 +16,7 @@ Das Customer Office Hours-Programm bietet Kunden lösungsspezifische Webinare, d
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.
 
 <!--
 

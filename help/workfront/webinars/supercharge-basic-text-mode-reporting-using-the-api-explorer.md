@@ -9,22 +9,22 @@ duration: 4068
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '1658'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Fragen Sie den Experten - Berichterstellung für den grundlegenden Textmodus mit Supercharge über den API Explorer.
 
-Informationen zum [[!UICONTROL API-Explorer]](https://developer.adobe.com/workfront/api-explorer/), wie Sie sie verwenden und wie Sie Ihre Berichte mithilfe des grundlegenden Textmodus erweitern können. Dieses Webinar wurde am 22. Januar 2020 aufgenommen.
+Erfahren Sie mehr über den [[!UICONTROL API-Explorer]](https://developer.adobe.com/workfront/api-explorer/), seine Verwendung und die Verbesserung Ihrer Berichte mithilfe des grundlegenden Textmodus. Dieses Webinar wurde am 22. Januar 2020 aufgenommen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
 ## Weitere Ressourcen
 
-![Eine Grafik mit Beispielen für Code-Regeln im Textmodus](assets/text-mode-chart.png)
+![Ein Diagramm mit Beispielen für Textmodus-Code-Regeln](assets/text-mode-chart.png)
 
 
-**Endgültige Spalte &quot;Alle Auftragsrollen&quot;**
+**Schlussspalte &quot;Alle Auftragsrollen&quot;**
 
 ```
 description="Primary =" indicates the user's primary job role
@@ -101,11 +101,11 @@ Wenn Sie einen Problembericht erstellen, können Sie Aufgabeninformationen anzei
 
 **Frage**
 
-Können Sie das Textformat ([!DNL CSS]) Beispiele?
+Können Sie Beispiele für das Textformat ([!DNL CSS]) freigeben?
 
 **Antwort**
 
-Workfront unterstützt nicht [!DNL CSS] im Textmodus.
+Workfront unterstützt [!DNL CSS] im Textmodus nicht.
 
 **Frage**
 
@@ -135,7 +135,8 @@ Wenn Sie Objekte im Textmodus referenzieren, sollten Sie sie genau so schreiben,
 valuefield=project:name
 ```
 
-Im Fall von Problemen werden diese jedoch im API Explorer als opTasks bezeichnet. Wenn Sie also einen Stunden-Bericht ausführen und eine Spalte für den Problemnamen hinzufügen möchten, würde das Wertefeld wie folgt aussehen:
+Im Fall von Problemen werden diese jedoch im API Explorer als opTasks bezeichnet. Wenn Sie also einen Stunden-Bericht ausführen und eine Spalte für den Problemnamen hinzufügen möchten, würde das Wertefeld
+sieht wie folgt aus:
 
 ```
 valuefield=opTask:name

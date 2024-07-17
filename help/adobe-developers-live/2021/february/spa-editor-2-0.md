@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Laden Sie Ihre vorhandene React- oder Angular-SPA in den Seiteneditor und ermöglichen Sie Autoren bei minimalem Eingreifen, Inhalte einzufügen, die sie im Kontext bearbeiten.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)
 
-Klicks **[here](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)** .

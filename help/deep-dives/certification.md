@@ -1,6 +1,6 @@
 ---
-title: In Sie selbst investieren - Adobe [!DNL Marketo Engage] Zertifizierung
-description: Haben Sie sich für den Zertifizierungsprozess interessiert und wie er Ihrer Marketing-Karriere helfen kann? Oder vielleicht interessieren Sie sich für das Studium, die Vorbereitung und die Prüfung? Adobe beitreten [!DNL Marketo Engage] Champions, die ihre Journey besprechen, um Marketo-zertifizierter Experte oder Architekt zu werden!
+title: Selbstinvestition - Adobe [!DNL Marketo Engage] Zertifizierung
+description: Haben Sie sich für den Zertifizierungsprozess interessiert und wie er Ihrer Marketing-Karriere helfen kann? Oder vielleicht interessieren Sie sich für das Studium, die Vorbereitung und die Prüfung? Treten Sie Adobe [!DNL Marketo Engage] Champions bei, wenn sie ihre Journey besprechen, um ein Marketo-zertifizierter Experte oder Architekt zu werden!
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# In Sie selbst investieren - Adobe [!DNL Marketo Engage] Zertifizierung
+# Selbstinvestition - Adobe [!DNL Marketo Engage]-Zertifizierung
 
-Haben Sie sich für den Zertifizierungsprozess interessiert und wie er Ihrer Marketing-Karriere helfen kann? Oder vielleicht interessieren Sie sich für das Studium, die Vorbereitung und die Prüfung? Adobe beitreten [!DNL Marketo Engage] Champions, die ihre Journey besprechen, um Marketo-zertifizierter Experte oder Architekt zu werden!
+Haben Sie sich für den Zertifizierungsprozess interessiert und wie er Ihrer Marketing-Karriere helfen kann? Oder vielleicht interessieren Sie sich für das Studium, die Vorbereitung und die Prüfung? Treten Sie Adobe [!DNL Marketo Engage] Champions bei, wenn sie ihre Journey besprechen, um ein Marketo-zertifizierter Experte oder Architekt zu werden!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416760/?quality=12&learn=on)
 
-Klicks **[here](assets/certification.pdf){target="_blank"}** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](assets/certification.pdf){target="_blank"}** .

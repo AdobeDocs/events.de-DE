@@ -24,19 +24,19 @@ Einführung in Nutzungsszenarios-Playbooks - ein ausführbarer Katalog branchens
 
 >[!BEGINSHADEBOX &quot;Haben Sie Fragen?&quot;]
 
-Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
+Fahren Sie mit der Diskussion über dieses Thema im Adobe Experience League [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488) fort.
 
 >[!ENDSHADEBOX]
 
 Die Fallbücher wurden erstellt, um zwei große Herausforderungen zu bewältigen:
 
-1. **Leeres Seitensyndrom** - Viele Kunden, vor allem neue, fühlen sich überwältigt, wenn sie zum ersten Mal auf die Adobe Experience Platform zugreifen und nicht wissen, wo sie beginnen oder wie sie ihre Leistung nutzen können. Die Anwendungsfallbücher helfen Kunden, diese anfängliche Hürde zu überwinden, indem sie kuratierte Sets von Anwendungsfallvorlagen bereitstellen, die sie durch den Prozess der Implementierung spezifischer Marketing-Ziele führen.
+1. **Leeres Seitensyndrom** - Viele Kunden, insbesondere neue, fühlen sich überwältigt, wenn sie zum ersten Mal auf die Adobe Experience Platform zugreifen und nicht wissen, wo sie beginnen oder wie sie ihre Leistung nutzen können. Die Anwendungsfallbücher helfen Kunden, diese anfängliche Hürde zu überwinden, indem sie kuratierte Sets von Anwendungsfallvorlagen bereitstellen, die sie durch den Prozess der Implementierung spezifischer Marketing-Ziele führen.
 
-1. **Größere Akzeptanz und Interaktion** - Die Spielbücher sollen den Kunden dabei helfen, sich schneller zu etablieren und ihre Investitionen in Adobe-Produkte optimal zu nutzen, indem sie vordefinierte Vorlagen und technische Anleitungen bereitstellen.  Dies hilft Kunden, Anwendungsfälle schneller zu implementieren, Stakeholdern Wert zu zeigen und die Zusammenarbeit zwischen IT- und Marketingteams zu fördern.  Letztlich zielen die Spielbücher darauf ab, die Akzeptanz zu maximieren und den Wert zu maximieren, den Kunden von der Adobe Experience Platform erhalten.
+1. **Größere Akzeptanz und Interaktion** - Die Spielbücher sollen Kunden dabei helfen, sich schneller anzueignen und ihre Investitionen in Adobe-Produkte optimal zu nutzen, indem sie vordefinierte Vorlagen und technische Anleitungen bereitstellen.  Dies hilft Kunden, Anwendungsfälle schneller zu implementieren, Stakeholdern Wert zu zeigen und die Zusammenarbeit zwischen IT- und Marketingteams zu fördern.  Letztlich zielen die Spielbücher darauf ab, die Akzeptanz zu maximieren und den Wert zu maximieren, den Kunden von der Adobe Experience Platform erhalten.
 
 Ein Beispiel für einen Anwendungsfall, der in dieser Sitzung besprochen wird, ist ein Anwendungsfall für abgebrochenes Browsen und Waren. Dieser Anwendungsfall soll die Herausforderung bewältigen, dass Kunden ihre Browser-Sitzung verlassen, bevor sie einen Kauf tätigen. Das resultierende Zielgruppensegment für diesen Anwendungsfall wären Kunden, die ihre Browser-Sitzung abgebrochen haben, ohne einen Kauf abzuschließen. Dieses Segment kann dann mit personalisierten Nachrichten oder Angeboten angesprochen werden, um ihn dazu anzuregen, zurückzukehren und seinen Kauf abzuschließen.
 
-## Haupterkenntnisse
+## Wichtige Schritte
 
 * Anwendungsfallbücher sind kuratierte Sets von Anwendungsfallvorlagen, mit denen Kunden die Leistungsfähigkeit der Adobe Experience Platform nutzen und ermitteln können.
 * Die wichtigsten Herausforderungen, die mit Fallbüchern angegangen werden sollen, sind das &quot;leere Seitensyndrom&quot;und die Notwendigkeit einer stärkeren Akzeptanz und Interaktion über Tools hinweg.
@@ -51,11 +51,11 @@ Ein Beispiel für einen Anwendungsfall, der in dieser Sitzung besprochen wird, i
 
 ## Zusätzliche Ressourcen
 
-* **[Anwendungsbeispiele - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
-  *Mit Case Playbooks können Sie das Problem bei den ersten Schritten mit Real-Time CDP oder Adobe Journey Optimizer beheben, wenn Sie nicht genau wissen, was Sie tun sollten oder wie Sie die richtigen Assets erstellen, um Ihre gewünschten Anwendungsfälle zu erreichen.*
+* **[Übersicht über die Anwendungsfälle-Playbooks](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+  *Mit Fallspielen können Sie das Problem bei den ersten Schritten mit Real-Time CDP oder Adobe Journey Optimizer beheben, wenn Sie möglicherweise nicht genau wissen, was Sie mit beginnen oder wie Sie die richtigen Assets erstellen, um Ihre gewünschten Anwendungsfälle zu erreichen.*
 
-* **[Erste Schritte mit Anwendungsfall-Playbooks](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=de){target="_blank"}**
-  *Erfahren Sie, wie Sie Ihr Konto für Anwendungsfall-Playbooks einrichten, die für Real-time Customer Data Platform und Adobe Journey Optimizer entwickelt wurden.*
+* **[Erste Schritte mit dem Anwendungsfall &quot;Playbooks&quot;](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=de){target="_blank"}**
+  *Erfahren Sie, wie Sie Ihr Konto für Anwendungsbeispiele für Real-time Customer Data Platform und Adobe Journey Optimizer einrichten.*
 
-* **[Verfügbare Anwendungsfälle Playbooks](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=de){target="_blank"}**
+* **[Verfügbare Nutzungsszenarios für Bücher ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=de){target="_blank"}**
   *Lesen Sie diese Seite, um einen Überblick über alle verfügbaren Playbooks zu erhalten, die Sie in Real-time Customer Data Platform und Adobe Journey Optimizer entdecken und verwenden können.*

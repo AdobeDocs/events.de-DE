@@ -1,5 +1,5 @@
 ---
-title: Fragen Sie den Experten - Best Practices, um Workfront-Testversand zu maximieren.
+title: Experten fragen - Best Practices zur Maximierung von Workfront Proof
 description: Erfahren Sie, wie Sie Einstellungen konfigurieren, hervorragende Berichte aktivieren und allgemeine Fallstricke in Testversand vermeiden. Dieses Webinar wurde am 26. Februar 2020 aufgenommen.
 doc-type: feature video
 team: Technical Marketing
@@ -9,11 +9,11 @@ duration: 5182
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '5572'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Fragen Sie den Experten - Best Practices, um Workfront-Testversand zu maximieren.
+# Experten fragen - Best Practices zur Maximierung von Workfront Proof
 
 Erfahren Sie, wie Sie Einstellungen für Erfolg konfigurieren und auf Ansichten (und andere Tricks) zugreifen können, um eine hervorragende Berichterstellung zu ermöglichen, und wie Sie allgemeine Fallstricke in Testversand vermeiden können. Dieses Webinar wurde am 26. Februar 2020 aufgenommen.
 
@@ -83,7 +83,7 @@ Gibt es beim Einreichen eines Testversands - unter &quot;Organisation&quot; - ei
 
 **Antwort**
 
-Diese Frage bezieht sich auf Workfront Proof Standalone. In eigenständigem Workfront-Testversand können Sie private Ordner verwenden, um Ordner für bestimmte Benutzer auszublenden. Dies ermöglicht eine optimierte Liste von Ordnern, aus denen Sie wählen können. Beachten Sie, dass Sie auch die Typ-Ahead-Logik verwenden können, um den Ordner zu finden, dem Sie auch einen Testversand hinzufügen möchten.
+Diese Frage bezieht sich auf Workfront Proof Standalone. In eigenständigen Workfront Proof können Sie private Ordner verwenden, um Ordner für bestimmte Benutzer auszublenden. Dies ermöglicht eine optimierte Liste von Ordnern, aus denen Sie wählen können. Beachten Sie, dass Sie auch die Typ-Ahead-Logik verwenden können, um den Ordner zu finden, dem Sie auch einen Testversand hinzufügen möchten.
 
 **Frage**
 
@@ -429,7 +429,7 @@ Wo greife ich beim Testen auf das Dashboard und die Berichte zu?
 
 **Antwort**
 
-Wenn Sie rechts neben Ihrer Suchleiste in Workfront über ein Kontrollkästchen verfügen, bedeutet dies, dass Sie über ein integriertes Workfront- und Testkonto verfügen. Wenn Sie dieses Kontrollkästchen aktivieren, gelangen Sie zum Workfront-Testversand und der Startbildschirm wird zum Dashboard. Berichte können mit der Option Ansichten in Ihrem linken Bedienfeld erstellt werden.
+Wenn Sie rechts neben Ihrer Suchleiste in Workfront über ein Kontrollkästchen verfügen, bedeutet dies, dass Sie über ein integriertes Workfront- und Testkonto verfügen. Wenn Sie auf dieses Kontrollkästchen klicken, gelangen Sie zu Workfront Proof und der Startbildschirm wird zum Dashboard. Berichte können mit der Option Ansichten in Ihrem linken Bedienfeld erstellt werden.
 
 **Frage**
 
@@ -465,11 +465,11 @@ Ich empfehle die Verwendung von automatisierten Workflow-Vorlagen, die Ihnen die
 
 **Frage**
 
-Fügt die Workfront-Testphase nur hinzu, wenn automatisierte Workflows verwendet werden und jemand, der dem Workflow nicht hinzugefügt wurde, den Testversand öffnet?
+Fügt die Workfront Proof-Bühne nur hinzu, wenn automatisierte Workflows verwendet werden und jemand, der dem Workflow nicht hinzugefügt wurde, den Testversand öffnet?
 
 **Antwort**
 
-Die Phase &quot;Workfront-Testversand&quot;wird zu Testsendungen hinzugefügt, wenn ein Nicht-Empfänger auf den Testversand klickt. Sie wird auch angewendet, wenn ein Benutzer einen einfachen Workflow-Testversand in einen automatisierten Workfront-Testversand konvertiert.
+Die Phase &quot;Workfront Proof&quot;wird zu Testsendungen hinzugefügt, wenn ein Nicht-Empfänger auf den Testversand klickt. Sie wird auch angewendet, wenn ein Benutzer einen einfachen Workflow-Proof in einen automatisierten Workfront Proof konvertiert.
 
 **Frage**
 

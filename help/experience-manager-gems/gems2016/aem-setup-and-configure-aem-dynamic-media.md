@@ -1,6 +1,6 @@
 ---
 title: Einrichten und Konfigurieren von AEM Dynamic Media
-description: Mit AEM Dynamic Media können Kunden skalierbar und kosteneffizient ansprechende Rich-Media-Erlebnisse für alle Bildschirme und Kunden-Touchpoints bereitstellen, und das alles von einem einzigen primären Bild oder Video aus!  In dieser Sitzung vermitteln wir Ihnen alles, was Sie für die erfolgreiche Implementierung von Kunden in Dynamic Media wissen müssen, einschließlich eines Überblicks über die Anwendungsfälle, die technische Architektur und die Konfigurationsschritte.
+description: AEM Dynamic Media ermöglicht es Kunden, skalierbar und kostengünstig ansprechende Rich-Media-Erlebnisse für alle Bildschirme und Kunden-Touchpoints bereitzustellen - alles von einem einzigen Master-Bild oder -Video aus!  In dieser Sitzung erhalten Sie alle Informationen, die Sie für die erfolgreiche Implementierung von Kunden in Dynamic Media benötigen, einschließlich eines Überblicks zu Anwendungsfällen, technischer Architektur und Konfigurationsschritten.
 discoiquuid: c58473c1-d8d8-44a7-ac40-65843c77c937
 targetaudience: target-audience advanced
 exl-id: 93ae20fb-d6fe-4275-9692-93c25edba0ef
@@ -8,30 +8,30 @@ duration: 3537
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
 # Einrichten und Konfigurieren von AEM Dynamic Media{#setup-and-configure-aem-dynamic-media}
 
-Mit AEM Dynamic Media können Kunden skalierbar und kosteneffizient ansprechende Rich-Media-Erlebnisse für alle Bildschirme und Kunden-Touchpoints bereitstellen, und das alles von einem einzigen primären Bild oder Video aus!  In dieser Sitzung vermitteln wir Ihnen alles, was Sie für die erfolgreiche Implementierung von Kunden in Dynamic Media wissen müssen, einschließlich eines Überblicks über die Anwendungsfälle, die technische Architektur und die Konfigurationsschritte.
+AEM Dynamic Media ermöglicht es Kunden, skalierbar und kostengünstig ansprechende Rich-Media-Erlebnisse für alle Bildschirme und Kunden-Touchpoints bereitzustellen - alles von einem einzigen Master-Bild oder -Video aus!  In dieser Sitzung erhalten Sie alle Informationen, die Sie für die erfolgreiche Implementierung von Kunden in Dynamic Media benötigen, einschließlich eines Überblicks zu Anwendungsfällen, technischer Architektur und Konfigurationsschritten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19297/?quality=9)
 
-*Veröffentlicht am 17.08.2016*
+*Ausgestellt am 17. August 2016*
 
-**Präsentiert von:**
+**Vorgestellt von:**
 
 * Cynthia Tillo, Principal Product Manager, Adobe
 * Bob van Manen, Engineering Manager, Adobe
 
-**Präsentationsfolien**
+**Presenter-Folien**
 
-[Datei herunterladen](assets/aemgems-081716-dynamic-media-configuration.pdf)
+[Datei abrufen](assets/aemgems-081716-dynamic-media-configuration.pdf)
 
-## Siehe auch: {#related-links}
+## Verwandte Links {#related-links}
 
-[Konfigurieren von Dynamic Media](https://docs.adobe.com/docs/de/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
+[ Konfigurieren von Dynamic Media](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -5,7 +5,7 @@ user-guide-description: Workfront-Ereignisse
 source-git-commit: e5c41210809983e9b6d2854f6ecf75e44976d019
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 1%
    + [Workfront-Systemwartung](user-groups/workfront-system-maintenance.md)
 + Agile {#agile}
    + [Agile in Marketing](user-groups/agile-in-marketing.md)
-+ Reporting und Dashboards {#reporting-and-dashboards}
++ Berichterstellung und Dashboards {#reporting-and-dashboards}
    + [Fortschrittliche Berichterstellung](user-groups/advanced-reporting.md)
    + [Kreativagenturen: Reporting und Dashboards](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [Qualität und Interaktion der Ergebnisse](webinars/gauging-quality-and-engagement.md)
@@ -39,12 +39,12 @@ ht-degree: 1%
    + [IT-Workflows und -Genehmigungen](user-groups/it-workflows-and-approvals.md)
 + Timesheets {#timesheets}
    + [Verwenden von Timesheets in Workfront](user-groups/utilizing-timesheets-in-workfront.md)
-+ Workfront-Testversand {#workfront-proof}
-   + [Best Practices zur Maximierung des Workfront-Testversands](webinars/best-practices-to-maximize-workfront-proof.md)
-   + [Bewährte Verfahren für Workfront-Testsendungen](webinars/follow-up-to-workfront-proof-best-practices.md)
-   + [Kreativagenturen: Workfront-Testversand](user-groups/creative-agencies-workfront-proof.md)
-   + [Workfront-Testversand nutzen](user-groups/leveraging-workfront-proof.md)
-+ Anforderungswarteschlangen und -aufnahme {#request-queues-and-intake}
++ Workfront Proof {#workfront-proof}
+   + [Best Practices zur Maximierung von Workfront Proof](webinars/best-practices-to-maximize-workfront-proof.md)
+   + [Best Practices für Workfront Proof](webinars/follow-up-to-workfront-proof-best-practices.md)
+   + [Kreativagenturen: Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
+   + [Nutzung von Workfront Proof](user-groups/leveraging-workfront-proof.md)
++ Anforderungswarteschlangen und Aufnahme {#request-queues-and-intake}
    + [Anforderungswarteschlangen und Forms aufnehmen](user-groups/request-queues-and-intake-forms.md)
 + Versionen {#releases}
    + [Version 24.1](webinars/24-1-release-webinar.md)

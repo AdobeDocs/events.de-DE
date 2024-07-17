@@ -1,5 +1,5 @@
 ---
-title: Ankündigungen
+title: Mitteilungen
 description: Diese Seite wird angezeigt, wenn bevorstehende Sitzungen noch nicht definiert sind.
 version: Cloud Service
 feature: Release Information
@@ -11,15 +11,15 @@ duration: 11
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
-# GEMS zu Adobe Experience Manager
+# Adobe Experience Manager Gems
 
 ![](assets/ADX_Gems.png)
 
 >[!NOTE]
 >
->* Informationen zu den nächsten Sitzungen werden Anfang November 2022 folgen.
->* Registrieren Sie sich bei der [AEM-Benutzergruppe von Adobe](https://aem-augs.adobe.com/), um automatisch über bevorstehende Webinare benachrichtigt zu werden.
+>* Informationen zu anstehenden Sitzungen werden Anfang November 2022 folgen.
+>* Registrieren Sie sich bei [Adobe AEM Benutzergruppe](https://aem-augs.adobe.com/), um automatisch über bevorstehende Webinare benachrichtigt zu werden.

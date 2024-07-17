@@ -22,7 +22,7 @@ In dieser zweiten von drei Livestream-Sitzungen zur Datenerfassung für die Adob
 
 >[!VIDEO](https://video.tv.adobe.com/v/344251/?quality=12&learn=on)
 
-**Fortsetzung der Aussprache** im [Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195#M285){target="_blank"}!
+**Fahren Sie die Diskussion** in der [Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195#M285){target="_blank"} fort!
 
 ## Zusätzliche Experience League LIVE-Sitzungen aus dieser Datenerfassungsreihe
 

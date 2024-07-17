@@ -17,7 +17,7 @@ duration: 3081
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 5%
+ht-degree: 1%
 
 ---
 
@@ -34,11 +34,11 @@ Automatisieren Sie die Ausgabe von Assets für alle Kanäle und Bildschirme mit 
 *[Dynamic Media-Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
 *[Schnellstartanleitung zur Rich-Media-Strategie](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Anleitung zur Bildvorgabe für die Rich-Media-Strategie](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Bild ist alles in der Blog-Reihe](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
+*[Bild ist alles, was Blog-Serie](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
 
 ## Serienaufnahmen
 
-* [Asset Link](asset-link.md)
+* [Asset-Link](asset-link.md)
 * [Brand Portal](brand-portal.md)
 * [Ordnerstruktur und Suche](folder-structure-search.md)
 * [Metadaten](metadata.md)

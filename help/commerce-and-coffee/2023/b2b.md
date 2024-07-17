@@ -1,6 +1,6 @@
 ---
 title: Ermöglichen des B2B-Erfolgs
-description: Der B2B-Handel hat in den letzten Jahren ein unglaubliches Wachstum erlebt und ebenso die B2B-Funktionen von Adobe Commerce. Sr Commerce Strategy Consultant, Corey Gelato, skizziert Strategien für Erfolg bei der Navigation der bedeutsamen Transformationen im B2B-Handel, und bleibt dabei dem Wettbewerb überlegen. Corey diskutiert Wege, um das Wachstum zu beschleunigen und Ihre B2B-Unternehmen erfolgreich zu machen. Er führt durch eine Demonstration von freigegebenen Katalogen, Anführungszeichen, Beschreibungslisten, Schnellbestellungen, Kaufaufträgen, Genehmigungs-Workflows, Unternehmens-Setup und mehr!
+description: Der B2B-Handel hat in den letzten Jahren ein unglaubliches Wachstum erlebt und ebenso die B2B-Funktionen von Adobe Commerce. Sr Commerce Strategy Consultant, Corey Gelato, skizziert Erfolgsstrategien, während er die wichtigen Transformationen im B2B-Handel durchläuft, während er gleichzeitig dem Wettbewerb voraus bleibt. Corey diskutiert Wege, um das Wachstum zu beschleunigen und Ihre B2B-Unternehmen erfolgreich zu machen. Er führt durch eine Demonstration von freigegebenen Katalogen, Anführungszeichen, Beschreibungslisten, Schnellbestellungen, Kaufaufträgen, Genehmigungs-Workflows, Unternehmens-Setup und mehr!
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Ermöglichen des B2B-Erfolgs
 
-Der B2B-Handel hat in den letzten Jahren ein unglaubliches Wachstum erlebt und ebenso die B2B-Funktionen von Adobe Commerce. Sr Commerce Strategy Consultant, Corey Gelato, skizziert Strategien für Erfolg bei der Navigation der bedeutsamen Transformationen im B2B-Handel, und bleibt dabei dem Wettbewerb überlegen. Corey diskutiert Wege, um das Wachstum zu beschleunigen und Ihre B2B-Unternehmen erfolgreich zu machen. Er führt durch eine Demonstration von freigegebenen Katalogen, Anführungszeichen, Beschreibungslisten, Schnellbestellungen, Kaufaufträgen, Genehmigungs-Workflows, Unternehmens-Setup und mehr!
+Der B2B-Handel hat in den letzten Jahren ein unglaubliches Wachstum erlebt und ebenso die B2B-Funktionen von Adobe Commerce. Sr Commerce Strategy Consultant, Corey Gelato, skizziert Erfolgsstrategien, während er die wichtigen Transformationen im B2B-Handel durchläuft, während er gleichzeitig dem Wettbewerb voraus bleibt. Corey diskutiert Wege, um das Wachstum zu beschleunigen und Ihre B2B-Unternehmen erfolgreich zu machen. Er führt durch eine Demonstration von freigegebenen Katalogen, Anführungszeichen, Beschreibungslisten, Schnellbestellungen, Kaufaufträgen, Genehmigungs-Workflows, Unternehmens-Setup und mehr!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421687/?learn=on)

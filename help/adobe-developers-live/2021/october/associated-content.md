@@ -1,5 +1,5 @@
 ---
-title: Anreicherung von Commerce-Erlebnissen mit zugehörigen Inhalten
+title: Anreichern von Commerce-Erlebnissen mit zugehörigen Inhalten
 description: Das CIF Add-on wurde kürzlich mit dem Produkt Experience Management eingeführt, das die Authoring-Funktionen von Assets, Inhaltsfragmenten und Experience Fragments erweitert, um Adobe Experience Manager-Inhalte mit Produktdaten zu verknüpfen. Durch die Nutzung der Vorteile verknüpfter Inhalte können Sie Ihren vollständig dynamischen Produktkatalog anreichern, der mit CIF Kernkomponenten erstellt wurde, um Daten aus Adobe Commerce und Adobe Experience Manager anzuzeigen. In dieser Sitzung erfahren Sie, wie Sie Ihr Storefront-Projekt mit verschiedenen Ebenen von marketinggesteuerten Erlebnissen anreichern. Wir stellen Ihnen außerdem erweiterte Anwendungsfälle vor, in denen wir zeigen, wie benutzerdefinierte Komponenten verknüpfte Inhalte nutzen können.
 solution: Commerce,Experience Manager
 feature: Developer Tools
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ---
 
-# Anreicherung von Commerce-Erlebnissen mit zugehörigen Inhalten
+# Anreichern von Commerce-Erlebnissen mit zugehörigen Inhalten
 
 Das CIF Add-on wurde kürzlich mit dem Produkt Experience Management eingeführt, das die Authoring-Funktionen von Assets, Inhaltsfragmenten und Experience Fragments erweitert, um Adobe Experience Manager-Inhalte mit Produktdaten zu verknüpfen. Durch die Nutzung der Vorteile verknüpfter Inhalte können Sie Ihren vollständig dynamischen Produktkatalog anreichern, der mit CIF Kernkomponenten erstellt wurde, um Daten aus Adobe Commerce und Adobe Experience Manager anzuzeigen. In dieser Sitzung erfahren Sie, wie Sie Ihr Storefront-Projekt mit verschiedenen Ebenen von marketinggesteuerten Erlebnissen anreichern. Wir stellen Ihnen außerdem erweiterte Anwendungsfälle vor, in denen wir zeigen, wie benutzerdefinierte Komponenten verknüpfte Inhalte nutzen können.
 
@@ -25,6 +25,6 @@ Das CIF Add-on wurde kürzlich mit dem Produkt Experience Management eingeführt
 
 ## Weitere Ressourcen
 
-- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

@@ -12,8 +12,8 @@ ht-degree: 0%
 
 # Marketo und Mochas
 
-Willkommen bei den Marketo- und Mochas-Aufnahmen. Verwenden dieser Ressourcen in Kombination mit der Adobe Marketo [Dokumentation](https://experienceleague.adobe.com/docs/marketo-engage.html) und [Übungen](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html), erhalten Sie ein besseres Verständnis, wie Sie Adobe Marketo zur Unterstützung Ihres Unternehmens einsetzen können.
+Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in Verbindung mit der Adobe Marketo [documentation](https://experienceleague.adobe.com/docs/marketo-engage.html) und den [Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) erhalten Sie ein besseres Verständnis, wie Sie Adobe Marketo zur Unterstützung Ihres Unternehmens einsetzen können.
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.

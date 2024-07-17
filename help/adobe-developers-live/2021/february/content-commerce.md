@@ -1,6 +1,6 @@
 ---
-title: Inhalte und Handel mit Adobe Experience Manager as a Cloud Service
-description: Diese Sitzung hilft Entwicklern bei den ersten Schritten mit Commerce in Adobe Experience Manager as a Cloud Service - von der lokalen Einrichtung des Adobe Experience Manager SDK + Commerce integration framework bis zu Adobe Experience Manager und Magento in der Cloud. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+title: Inhalt und Commerce mit Adobe Experience Manager as a Cloud Service
+description: Diese Sitzung hilft Entwicklern bei den ersten Schritten mit Commerce auf Adobe Experience Manager as a Cloud Service - von der lokalen Einrichtung des Adobe Experience Manager SDK + Commerce integration framework bis zu Adobe Experience Manager und Magento in der Cloud. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
 solution: Experience Manager,Experience Manager Sites, Commerce
 product: experience manager
 sub-product: sites
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 ---
 
-# Inhalte und Handel mit Adobe Experience Manager as a Cloud Service
+# Inhalt und Commerce mit Adobe Experience Manager as a Cloud Service
 
-Diese Sitzung hilft Entwicklern bei den ersten Schritten mit Commerce in Adobe Experience Manager as a Cloud Service - von der lokalen Einrichtung des Adobe Experience Manager SDK + Commerce integration framework bis zu Adobe Experience Manager und Magento in der Cloud.
+Diese Sitzung hilft Entwicklern bei den ersten Schritten mit Commerce auf Adobe Experience Manager as a Cloud Service - von der lokalen Einrichtung des Adobe Experience Manager SDK + Commerce integration framework bis zu Adobe Experience Manager und Magento in der Cloud.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
 
-Klicks **[here](/help/adobe-developers-live/assets/content-commerce.pdf)** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/content-commerce.pdf)** .

@@ -22,9 +22,9 @@ Push-Benachrichtigungen helfen Ihnen, Ihre Mobile-App-Benutzer jederzeit zu erre
 
 >[!VIDEO](https://video.tv.adobe.com/v/342810/?quality=12&learn=on)
 
-[IOS AEPSampleAPP herunterladen](https://github.com/adobe/aepsdk-sample-app-ios)
+[Laden Sie die iOS AEPSampleAPP herunter](https://github.com/adobe/aepsdk-sample-app-ios)
 
-[Android AEPSampleAPP herunterladen](https://github.com/adobe/aepsdk-sample-app-android)
+[Laden Sie die Android AEPSampleAPP herunter](https://github.com/adobe/aepsdk-sample-app-android)
 
-Um das Gespräch über diese Sitzung fortzusetzen, besuchen Sie bitte die [Experience League Community-Post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+Um die Unterhaltung über diese Sitzung fortzusetzen, besuchen Sie bitte den [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
 

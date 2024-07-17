@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur"'
-description: Mitglied werden [!DNL Adobe Analytics] Champion Gitai Ben-Ammi erläutert, wie eine datengesteuerte Kultur aussieht, und teilt Strategien für die Verwendung von [!DNL Adobe Analytics] , um eine zu erstellen.
+title: "[!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur"
+description: Treten Sie [!DNL Adobe Analytics] Champion Gitai Ben-Ammi bei, da er erläutert, wie eine datengesteuerte Kultur aussieht, und Strategien zur Verwendung von [!DNL Adobe Analytics] für die Erstellung einer solchen Kultur teilt.
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Erstellen einer datengesteuerten Kultur
 
-Mitglied werden [!DNL Adobe Analytics] Champion Gitai Ben-Ammi erläutert, wie eine datengesteuerte Kultur aussieht, und teilt Strategien für die Verwendung von [!DNL Adobe Analytics] , um eine zu erstellen.
+Treten Sie [!DNL Adobe Analytics] Champion Gitai Ben-Ammi bei, während er erklärt, wie eine datengesteuerte Kultur aussieht, und teilt Strategien für die Verwendung von [!DNL Adobe Analytics] zum Erstellen einer solchen Kultur.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414131/?quality=12&learn=on)

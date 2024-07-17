@@ -17,7 +17,7 @@ duration: 3317
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 6%
+ht-degree: 2%
 
 ---
 
@@ -31,17 +31,17 @@ Die Grundlagen der Einrichtung und Verwendung Ihres DAM.
 
 ## Ressourcen
 
-* [AEM Assets-Benutzerhandbuch](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=de)
+* [AEM Assets-Benutzerhandbuch](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
 * [Einrichten der AEM Assets-Ordnerstruktur](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
 * [Einrichten von AEM Assets-Ordnerberechtigungen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=de)
 * [Verwenden von Sammlungen zum Organisieren und Freigeben von Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [Suchen visuell ähnlicher Assets mit maschinellem Lernen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=de)
-* [Abrufen genauer und präziser Suchergebnisse mit dynamischen Suchfacetten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=de)
-* [Erweiterte Syntax für die Volltextsuche](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
+* [Suchen visuell ähnlicher Assets mit maschinellem Lernen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [Abrufen genauer und genauer Suchergebnisse mit dynamischen Suchfacetten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [Erweiterte Volltextsuchsyntax](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
 
 ## Serienaufnahmen
 
-* [Asset Link](asset-link.md)
+* [Asset-Link](asset-link.md)
 * [Brand Portal](brand-portal.md)
 * [Dynamische Medien](dynamic-media.md)
 * [Metadaten](metadata.md)

@@ -1,6 +1,6 @@
 ---
 title: Kanalübergreifendes Marketing mit Adobe [!DNL Campaign Classic]
-description: Deep-Dive-Webinar mit Schwerpunkt auf Workflows, Automatisierung, Personalisierung und Messung für Adobe [!DNL Campaign Classic] -Kunden.
+description: Deep-Dive-Webinar, das sich auf Workflows, Automatisierung, Personalisierung und Messung für Adobe [!DNL Campaign Classic] Kunden konzentriert.
 version: Classic v7
 solution: Campaign
 kt: 10506
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Kanalübergreifendes Marketing mit Adobe [!DNL Campaign Classic]
 
-Deep-Dive-Webinar mit Schwerpunkt auf Workflows, Automatisierung, Personalisierung und Messung für Adobe [!DNL Campaign Classic] -Kunden.
+Deep-Dive-Webinar, das sich auf Workflows, Automatisierung, Personalisierung und Messung für Adobe [!DNL Campaign Classic]-Kunden konzentriert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343524/?quality=12&learn=on)

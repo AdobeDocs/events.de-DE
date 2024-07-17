@@ -20,7 +20,7 @@ ht-degree: 5%
 # Tieftauchgänge {#deep-dives-recordings}
 
 + [Übersicht](overview.md)
-+ Tiefen in Marketo {#deep-dives-marketo}
++ Tieftauchgänge in Marketo {#deep-dives-marketo}
    + [Migration von Admin Consolen](admin-console.md)
    + [APIs](api.md)
    + [Zertifizierung](certification.md)

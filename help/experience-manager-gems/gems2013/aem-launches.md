@@ -1,6 +1,6 @@
 ---
-title: AEM Launches – gleichzeitige Vorbereitung mehrerer Versionen einer Website (AEM 5.6)
-description: Erfahren Sie, wie Sie AEM Launches verwenden können, um gleichzeitig an mehreren Versionen einer Website zu arbeiten und Änderungen zwischen ihnen zu synchronisieren. Erfahren Sie, wie AEM Launches in AEM integriert wurden, und lernen Sie die grundlegenden Mechanismen kennen.
+title: AEM Launches - gleichzeitige Vorbereitung mehrerer Versionen einer Website (AEM 5.6)
+description: Erfahren Sie, wie Sie AEM Launches verwenden können, um gleichzeitig auf mehreren Versionen einer Site zu arbeiten und Änderungen zwischen ihnen zu synchronisieren. Erfahren Sie, wie AEM Launches in AEM integriert wurden, und lernen Sie die grundlegenden Mechanismen kennen.
 discoiquuid: a18d345a-fbb4-4ace-b569-96fd95503a39
 targetaudience: target-audience advanced
 exl-id: 5a80f708-3536-4009-a76d-38611d505a89
@@ -8,27 +8,27 @@ duration: 2897
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 99%
+ht-degree: 0%
 
 ---
 
-# AEM Launches: gleichzeitige Vorbereitung mehrerer Versionen einer Website (AEM 5.6) {#launches-concurrent-preparation-of-multiple-versions-of-a-website-aem}
+# AEM: gleichzeitige Vorbereitung mehrerer Versionen einer Website (AEM 5.6) {#launches-concurrent-preparation-of-multiple-versions-of-a-website-aem}
 
-Adobe Experience Manager bietet Funktionen zum einfachen Erstellen und Veröffentlichen digitaler Inhalte über Websites und mobile Websites. Die Autoren von Inhalten möchten jedoch möglicherweise gleichzeitig an mehreren Versionen einer Website arbeiten und Änderungen zwischen diesen Versionen synchronisieren. Dies lässt sich mit den AEM Launches erreichen. In dieser Sitzung erfahren Sie, wie die Funktion in AEM integriert wurde, und lernen ihre grundlegenden Mechanismen kennen.
+Adobe Experience Manager bietet Funktionen zum einfachen Erstellen und Veröffentlichen digitaler Inhalte über Websites und mobile Sites. Allerdings können Ersteller von Inhalten gleichzeitig an mehreren Versionen derselben Site arbeiten und Änderungen zwischen ihnen synchronisieren. Dies lässt sich mit den AEM Launches erreichen. In dieser Sitzung werden Sie feststellen, wie die Funktion in AEM integriert wurde, und ihre grundlegenden Mechanismen verstehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19579/?quality=9)
 
-*Veröffentlicht am 12.06.2013*
+*Ausgestellt am 12. Juni 2013*
 
-**Präsentiert von:**
+**Vorgestellt von:**
 
 Gilles Knobloch, Lead Developer, Adobe
 
-**Präsentationsfolien**
+**Presenter-Folien**
 
-[Datei herunterladen](assets/2013-06-12-launches-cqgems.pdf)
+[Datei abrufen](assets/2013-06-12-launches-cqgems.pdf)
 
-## Siehe auch: {#related-links}
+## Verwandte Links {#related-links}
 
 [Dokumentation](https://docs.adobe.com/docs/en/cq/current/wcm/launches.html)
 

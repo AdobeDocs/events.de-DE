@@ -1,5 +1,5 @@
 ---
-title: Handel und Kaffee - Biologisches Wachstum
+title: Commerce & Kaffee - Biologisches Wachstum
 description: In dieser Sitzung lesen wir einige der Top-Strategien von Adobe, um eine E-Commerce-Site organisch zu erweitern. Bei der Erzeugung von organischem Wachstum ist es unerlässlich, das digitale Ökosystem Ihres Unternehmens als Ganzes zu betrachten. Wir untersuchen 7 Möglichkeiten, ein E-Commerce-Geschäft organisch von SEO und Social Media zu erweitern, um Verknüpfungen zu erstellen und vor Ort zu optimieren. Corey führt eine Live-Demonstration der Adobe Commerce-Funktionen durch, einschließlich URL-Neuschreibungen, Sitemap-Generierung, Canonical-Meta-Tags, Metadaten und mehr. Wie immer schließen wir die Sitzung mit einem Live-Q&A ab.
 solution: Commerce
 topic: Commerce
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# Handel und Kaffee: Biologisches Wachstum
+# Commerce &amp; Kaffee: Biologisches Wachstum
 
 In dieser Sitzung lesen wir einige der Top-Strategien von Adobe, um eine E-Commerce-Site organisch zu erweitern. Bei der Erzeugung von organischem Wachstum ist es unerlässlich, das digitale Ökosystem Ihres Unternehmens als Ganzes zu betrachten. Wir untersuchen 7 Möglichkeiten, ein E-Commerce-Geschäft organisch von SEO und Social Media zu erweitern, um Verknüpfungen zu erstellen und vor Ort zu optimieren. Corey führt eine Live-Demonstration der Adobe Commerce-Funktionen durch, einschließlich URL-Neuschreibungen, Sitemap-Generierung, Canonical-Meta-Tags, Metadaten und mehr. Wie immer schließen wir die Sitzung mit einem Live-Q&amp;A ab.
 

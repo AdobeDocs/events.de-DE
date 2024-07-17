@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Umgebungsvariablen mit Adobe Experience Manager as a Cloud Service verwalten und im Kontext eines Build-Prozesses oder von OSGi-Konfigurationsvariablen verwenden.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332304/?quality=12&learn=on&hidetitle=true)
 
-Klicks **[here](/help/adobe-developers-live/assets/environment-variables-aemcs.pdf)** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/environment-variables-aemcs.pdf)** .

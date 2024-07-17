@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1273
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15301
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 4b21e52d-5ecb-4d82-b66b-784b51395bc2
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen und Verwenden von Workflows von Anfang bis Ende
 
@@ -40,4 +40,3 @@ In der Sitzung werden folgende Themen behandelt:
 * Benutzeroberfläche zur Steuerung des Arbeitsablaufs: Die Oberfläche zum Definieren der Benutzer, die auf den Workflow zugreifen können, wurde aktualisiert. Sie enthält Änderungen an Textbeschriftungen und die Verwendung eines einzigen Dropdown-Menüs zur Auswahl einzelner Gruppen.
 * Aktualisierte Textbeschriftungen: Die Textbeschriftungen für Optionen wie die Einbeziehung aller Gruppenbenutzer in das Konto wurden geändert, um Klarheit zu schaffen.
 * Vorlagendefinierte Platzierung von Signaturen: Diese Funktion ermöglicht die Erstellung eines vollständig aktivierten Formulars mit allen möglichen Empfängerfeldern, das definiert ist. Der im Workflow-Designer definierte Index des Empfängers wird strikt durchgesetzt, unabhängig von Feldern, die ausgelassenen optionalen Empfängern beim Senden der Vereinbarung zugewiesen wurden.
-

@@ -1,6 +1,6 @@
 ---
 title: Fragen an Experten - Messen der Geschwindigkeit
-description: Erfahren Sie, wie Sie die Geschwindigkeit mit [!DNL Workfront] Berichterstellung. Diese Werkstatt wurde am 14. August 2019 aufgenommen.
+description: Erfahren Sie, wie Sie die Geschwindigkeit mit der Berichterstellung [!DNL Workfront] messen und verfolgen können. Diese Werkstatt wurde am 14. August 2019 aufgenommen.
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
@@ -10,13 +10,13 @@ duration: 4630
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '3967'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Fragen an Experten - Messen der Geschwindigkeit
 
-Erfahren Sie, wie Sie die Geschwindigkeit mit [!DNL Workfront] Berichterstellung. Diese Werkstatt wurde am 14. August 2019 aufgenommen.
+Erfahren Sie, wie Sie die Geschwindigkeit mit der Berichterstellung [!DNL Workfront] messen und verfolgen können. Diese Werkstatt wurde am 14. August 2019 aufgenommen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341057/?quality=12)
 
@@ -29,7 +29,7 @@ Sparen Sie Zeit, indem Sie die unten stehenden Berechnungen kopieren und einfüg
 >Die Syntax für benutzerdefinierte Feldberechnungen hat sich seit der Präsentation im Jahr 2019 geändert. Die in der Präsentation enthaltenen Konzepte und Anleitungen sind jedoch immer noch korrekt.
 >**Die folgenden Berechnungen wurden aktualisiert, um die neuesten Syntaxregeln widerzuspiegeln.**
 
-**Erstes Veröffentlichungsdatum**
+**Erstes Sendedatum**
 
 Format: Datum
 
@@ -49,7 +49,7 @@ Berechnung:
 IF(ISBLANK({DE:First Duration}),{defaultBaseline}.{durationMinutes},{DE:First Duration})
 ```
 
-**Verhältnis zwischen Arbeit und Verpflichtung**
+**Verhältnis zwischen Arbeit und Befehl**
 
 Format:Zahl
 
@@ -59,7 +59,7 @@ Berechnung:
 ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
-**Status des Verhältnisses zwischen Arbeit und Selbstverpflichtung**
+**Status des Verhältnisses zwischen Arbeit und Befehl**
 
 Format:Text
 
@@ -99,7 +99,7 @@ Hallo, vielen Dank für die Organisation dieses Webinars. Ich habe eine Frage zu
 
 In einer solchen Situation können Sie die Filterung und Massenbearbeitung verwenden, um die Speicherung des Ausfüllens des Bedingungsfelds basierend auf Ihrem benutzerdefinierten Statusfeld zu halbieren.
 
-Hierzu sind folgende Schritte notwendig:
+Im Folgenden werden die Schritte beschrieben:
 
 1. Bestimmen Sie, welche Statuswerte Sie Bedingungswerten zuordnen möchten. Angenommen, Sie haben den Statuswert &quot;Late&quot;und &quot;Sehr spät&quot;, die beide dem Bedingungswert &quot;In Trouble&quot;zugeordnet sind.
 1. Erstellen Sie einen Projektbericht, der alle Projekte mit dem Status &quot;Verspätet&quot;und &quot;Sehr spät&quot;anzeigt.
@@ -413,7 +413,7 @@ Ja. Sie müssen einen Dokumentbericht erstellen. Es scheint, dass Sie bei jeder 
 
 **Frage**
 
-Warum sind in Berichten Werte als Spalte verfügbar, können aber nicht ausgewählt oder gruppiert werden? Beispiel: Problemquelle.
+Warum sind in Berichten Werte als Spalte verfügbar, können aber nicht ausgewählt oder gruppiert werden? Beispiel: Problem Source.
 
 **Antwort**
 

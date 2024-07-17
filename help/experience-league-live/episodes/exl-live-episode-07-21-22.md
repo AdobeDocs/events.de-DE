@@ -28,5 +28,5 @@ In dieser Sitzung zur Datenerfassung für die Adobe Experience Cloud werden unse
 * [Experten fragen - Grundlagen des Web SDK](exl-live-episode-05-26-22.md)
 * [Fragen Sie die Experten - RTCDP-Verbindungen](exl-live-episode-06-23-22.md)
 
-Weitere Diskussionen zu diesem Thema finden Sie auf der Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503).
+Weitere Informationen zu diesem Thema finden Sie im Experience League [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503).
 

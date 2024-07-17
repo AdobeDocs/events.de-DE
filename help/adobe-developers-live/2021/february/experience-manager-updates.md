@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Schließen Sie sich Gabriel Walt, Produktmanager für Experience Manager, an, um einen Überblick über die großen Themen zu erhalten, die den Fahrplan von Adobe Experience Manager bestimmen, und wie die Sitzungen zusammenhängen.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331279/?quality=12&learn=on&hidetitle=true)
 
-Klicks **[here](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** .

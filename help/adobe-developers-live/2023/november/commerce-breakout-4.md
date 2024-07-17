@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Cristian Partica befasst sich mit den Herausforderungen der API-Integration in Adobe Commerce in dieser informativen Sitzung, die am 6. November 2023 live aufgezeichnet wurde. Erfahren Sie, wie API Measurement die effiziente Verwaltung verschiedener Workflows, die Gewährleistung von Datenkonsistenz und die Bereitstellung optimierter Benutzererlebnisse in der heutigen digitalen Commerce-Landschaft unterstützt. Diese Sitzung eignet sich ideal für Entwickler, die effektive Strategien für die API-Integration in der sich schnell entwickelnden Umgebung von Adobe Commerce suchen.
 
-Fahren Sie mit dem Gespräch fort in [Experience League Communities](https://adobe.ly/3ttN8tz).
+Fahren Sie mit der Unterhaltung in [Experience League Communities](https://adobe.ly/3ttN8tz) fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425628/?learn=on)

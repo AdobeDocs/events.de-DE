@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Die Leistungsfähigkeit einer intelligenten Kampagne
 
-In dieser Sitzung erfahren Sie alles über *Smart-Kampagnen* einschließlich: Smart List - Trigger &amp; Filter, Fluss, Zeitplan und Ergebnisse.
+In dieser Sitzung erfahren Sie mehr über *Smart-Kampagnen*, darunter: Smart-Liste - Trigger und Filter, Fluss, Zeitplan und Ergebnisse.
 
 Sie werden diese Sitzung mit einem Verständnis dessen verlassen, was intelligente Kampagnen sind, wie sie eingesetzt werden, und Tipps und Tricks für Erfolg!
 

@@ -1,5 +1,5 @@
 ---
-title: Optimieren Ihrer Commerce Intelligence-Data Warehouse
+title: Optimieren der Commerce Intelligence-Data Warehouse
 description: Sehen Sie sich dieses Webinar an, um mehr über Data Warehouse Manager zu erfahren.
 landing-page-description: Sehen Sie sich dieses aufgezeichnete Webinar an
 short-description: Sehen Sie sich dieses aufgezeichnete Webinar an
@@ -13,15 +13,15 @@ duration: 3154
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Optimieren Ihrer Commerce Intelligence-Data Warehouse
+# Optimieren der Commerce Intelligence-Data Warehouse
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence wurde früher als [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
+>Adobe Commerce Intelligence hieß vorher [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
 
 Mithilfe des Data Warehouse-Managers können Sie Einstellungen für die Tabellen- und Spaltensynchronisierung verwalten, einen Drilldown im Schema einer Tabelle durchführen und berechnete Spalten für die Verwendung in Berichten erstellen.
 
@@ -43,5 +43,5 @@ In diesem Webinar:
 
 ## Nützliche Ressourcen
 
-[Datenbank für Analysen optimieren](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
+[Datenbankoptimierung für Analysen](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
 [Empfohlene Daten-Dimensionen für Segmentierung und Filterung](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

@@ -1,6 +1,6 @@
 ---
 title: Verbinden der Dots - Gründungsstrategie für Campaign Orchestration
-description: Grundlagen von Campaign Orchestration Die Rolle von Campaign Orchestration innerhalb von Personalization @ Scale Foundation-Säulen und Leitprinzipien Orchestrierung Best Practices - Häufige Herausforderungen und Lösungen
+description: Grundlagen von Campaign Orchestration Die Rolle von Campaign Orchestration in Personalization @ Scale Foundation Pillars & Guiding Principles Orchestration Best Practices - Häufige Herausforderungen und Lösungen
 solution: Campaign
 feature-set: Campaign
 feature: Personalization
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 # Verbinden der Dots - Gründungsstrategie für Campaign Orchestration
 
-*Grundlagen von Campaign Orchestration*
+*Gründungen von Campaign Orchestration*
 
-* Die Rolle von Campaign Orchestration innerhalb von Personalization @ Scale
+* Die Rolle von Campaign Orchestration in Personalization @ Scale
 * Grundprinzipien und Leitprinzipien
 * Best Practices für die Orchestrierungsmessung
 * Häufige Herausforderungen und Lösungen

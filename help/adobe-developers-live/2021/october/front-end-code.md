@@ -14,7 +14,7 @@ duration: 1805
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 14%
+ht-degree: 9%
 
 ---
 
@@ -22,12 +22,12 @@ ht-degree: 14%
 
 Erfahren Sie, wie Sie die neue Frontend-Code-Pipeline verwenden, die kürzlich in Cloud Manager eingeführt wurde.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/2XVcBg8)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/2XVcBg8)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337886/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de)
-- [Übersicht über Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=de)
-- [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=de)
+- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

@@ -1,6 +1,6 @@
 ---
-title: Einbetten der neuesten Asset-Auswahl in andere Benutzeroberflächen/Produkte und Integration in Anwendungen von Drittanbietern mithilfe der API
-description: Wie Sie unsere neueste Asset-Auswahl in andere Benutzeroberflächen/Produkte einbetten und mithilfe von APIL in Anwendungen von Drittanbietern integrieren, erfahren Sie, wie Sie alle Optionen nutzen können, die Sie für die Integration von Assets in andere Anwendungen haben. Finden Sie es sehr schwierig, AEM Assets-Cloud Service mit diesen CMS zu integrieren? Möchten Sie wissen, wie Sie stabile, prüfbare und wartbare AEM Assets-Integrationen in Minuten anstatt in Stunden/Tagen schreiben? Durch unsere Erfahrungen werden wir die Leistungsfähigkeit und Vielseitigkeit von Mikro-Fronten demonstrieren, indem wir zwei React-Projekte - Destination Selector und Asset Selector - in modulare, unabhängige und einfach zu implementierende Frontend-Komponenten umwandeln.
+title: Einbetten der neuesten Assets-Auswahl in andere Benutzeroberflächen/Produkte und Integration in Drittanbieteranwendungen mithilfe der API
+description: Wie Sie unsere neueste Assets-Auswahl in andere Benutzeroberflächen/Produkte einbetten und mithilfe von APIL mit Drittanbieteranwendungen integrieren, erfahren Sie, wie Sie alle Möglichkeiten nutzen können, die Ihnen bei der Integration von Assets in andere Anwendungen zur Verfügung stehen. Finden Sie es sehr schwierig, AEM Assets-Cloud Service mit diesen CMS zu integrieren? Möchten Sie wissen, wie Sie stabile, prüfbare und wartbare AEM Assets-Integrationen in Minuten anstatt in Stunden/Tagen schreiben? Durch unsere Erfahrungen werden wir die Leistungsfähigkeit und Vielseitigkeit von Mikro-Fronten demonstrieren, indem wir zwei React-Projekte - Destination Selector und Asset Selector - in modulare, unabhängige und einfach zu implementierende Frontend-Komponenten umwandeln.
 product: experience manager
 sub-product: assets
 topic: Development
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ---
 
-# Einbetten der neuesten Asset-Auswahl in andere Benutzeroberflächen/Produkte und Integration in Anwendungen von Drittanbietern mithilfe der API
+# Einbetten der neuesten Assets-Auswahl in andere Benutzeroberflächen/Produkte und Integration in Drittanbieteranwendungen mithilfe der API
 
-Einbetten der neuesten Asset-Auswahl in andere Benutzeroberflächen/Produkte und Integration in Anwendungen von Drittanbietern mithilfe der API
+Einbetten der neuesten Assets-Auswahl in andere Benutzeroberflächen/Produkte und Integration in Drittanbieteranwendungen mithilfe der API
 
 Erfahren Sie, wie Sie alle Möglichkeiten nutzen können, die Sie für die Integration von Assets in andere Anwendungen haben. Finden Sie es sehr schwierig, AEM Assets-Cloud Service mit diesen CMS zu integrieren? Möchten Sie wissen, wie Sie stabile, prüfbare und wartbare AEM Assets-Integrationen in Minuten anstatt in Stunden/Tagen schreiben? Durch unsere Erfahrungen werden wir die Leistungsfähigkeit und Vielseitigkeit von Mikro-Fronten demonstrieren, indem wir zwei React-Projekte - Destination Selector und Asset Selector - in modulare, unabhängige und einfach zu implementierende Frontend-Komponenten umwandeln. → Fahren Sie mit dem Gespräch fort unter: https://adobe.ly/3LqELUM
 

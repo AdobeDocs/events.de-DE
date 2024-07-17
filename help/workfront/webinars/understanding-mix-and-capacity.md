@@ -249,7 +249,7 @@ Ja, wie folgt:
    Project Users > ID > Equal >$$USER.ID 
 ```
 
-* Wenn nicht, setzen Sie den Benutzernamen anstelle von [!DNL $$USER.ID]. Dadurch werden alle Projekte angezeigt, bei denen diese Person mit einer Aufgabe betraut ist oder der Eigentümer oder Sponsor ist. Wenn Sie nur Projekte sehen möchten, denen Aufgaben zugewiesen sind, sollten Sie diese beiden zusätzlichen Filterregeln hinzufügen:
+* Wenn nicht, setzen Sie den Benutzernamen an die Stelle von [!DNL $$USER.ID]. Dadurch werden alle Projekte angezeigt, bei denen diese Person mit einer Aufgabe betraut ist oder der Eigentümer oder Sponsor ist. Wenn Sie nur Projekte sehen möchten, denen Aufgaben zugewiesen sind, sollten Sie diese beiden zusätzlichen Filterregeln hinzufügen:
 
 ```
    Project > Owner ID > Not Equal > $$USERID

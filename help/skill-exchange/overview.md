@@ -18,7 +18,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundenler
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

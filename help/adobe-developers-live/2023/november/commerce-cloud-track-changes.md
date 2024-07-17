@@ -1,6 +1,6 @@
 ---
 title: Verfolgen von Änderungen in Adobe Commerce Cloud
-description: Verfolgen Sie die Implementierungsereignisse Ihrer Commerce-Projekte in New Relic, indem Sie eine Skriptintegration erstellen. Einfaches Aktivieren der New Relic-Funktion zum Verfolgen von Änderungen, um Bereitstellungsereignisse in Ihrem Commerce-Projekt in der Cloud-Infrastruktur zu überwachen. Die Datenerfassung für Bereitstellungen hilft bei der Analyse der Auswirkungen von Implementierungsänderungen auf die Gesamtleistung, wie CPU, Speicher, Transaktionsreaktionszeiten und mehr.
+description: Verfolgen Sie die Bereitstellungsereignisse Ihrer Commerce-Projekte in New Relic, indem Sie eine Skriptintegration erstellen. Einfaches Aktivieren der New Relic-Funktion zum Verfolgen von Änderungen, um Bereitstellungsereignisse in Ihrer Commerce im Cloud-Infrastrukturprojekt zu überwachen. Die Datenerfassung für Bereitstellungen hilft bei der Analyse der Auswirkungen von Implementierungsänderungen auf die Gesamtleistung, wie CPU, Speicher, Transaktionsreaktionszeiten und mehr.
 solution: Commerce
 feature-set: Commerce
 feature: Cloud, Deploy
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Verfolgen von Änderungen in Adobe Commerce Cloud
 
-Verfolgen Sie die Implementierungsereignisse Ihrer Commerce-Projekte in New Relic, indem Sie eine Skriptintegration erstellen. Einfaches Aktivieren der New Relic-Funktion zum Verfolgen von Änderungen, um Bereitstellungsereignisse in Ihrem Commerce-Projekt in der Cloud-Infrastruktur zu überwachen. Die Datenerfassung für Bereitstellungen hilft bei der Analyse der Auswirkungen von Implementierungsänderungen auf die Gesamtleistung, wie CPU, Speicher, Transaktionsreaktionszeiten und mehr.
+Verfolgen Sie die Bereitstellungsereignisse Ihrer Commerce-Projekte in New Relic, indem Sie eine Skriptintegration erstellen. Einfaches Aktivieren der New Relic-Funktion zum Verfolgen von Änderungen, um Bereitstellungsereignisse in Ihrer Commerce im Cloud-Infrastrukturprojekt zu überwachen. Die Datenerfassung für Bereitstellungen hilft bei der Analyse der Auswirkungen von Implementierungsänderungen auf die Gesamtleistung, wie CPU, Speicher, Transaktionsreaktionszeiten und mehr.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426313/?learn=on)

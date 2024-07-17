@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Assets für alle
 
-Hören Sie von Purnima Rachoor Roy darüber, wie [!DNL Assets Essentials] ist das neue [!DNL Digital Asset Management] System für Abteilungen und mittelständische Unternehmen.
+Erfahren Sie von Purnima Rachoor Roy, wie [!DNL Assets Essentials] das neue [!DNL Digital Asset Management]-System für Abteilungen und mittelständische Unternehmen ist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345378/?quality=12&learn=on)

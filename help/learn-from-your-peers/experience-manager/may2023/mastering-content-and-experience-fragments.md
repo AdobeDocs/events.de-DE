@@ -34,6 +34,6 @@ In dieser Sitzung lernen Sie Folgendes:
 * Tipps und Tricks zu bearbeitbaren Vorlagen
 * Zusammenführen und Erstellen leistungsstarker Inhaltsbausteine
 
-Sie können auf die Präsentationsfolien zugreifen [here](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf).
+Sie können die Präsentationsfolien [hier](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf) aufrufen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)

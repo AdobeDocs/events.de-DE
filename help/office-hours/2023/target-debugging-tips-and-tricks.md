@@ -1,5 +1,5 @@
 ---
-title: Übersicht über die JavaScript-Bibliothek, Tipps und Tricks zum Debuggen
+title: Übersicht über die JavaScript-Bibliothek, Tipps und Tricks zum Debugging
 description: Neueste Versionen und Funktionen, Debugging von at.js, Fehlerbehebung bei Live-Demos, Selbsthilfe-Ressourcen und Support-Interaktionen.
 role: Admin, User
 level: Beginner
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Übersicht über die JavaScript-Bibliothek, Tipps und Tricks zum Debuggen
+# Übersicht über die JavaScript-Bibliothek, Tipps und Tricks zum Debugging
 
 Erfahren Sie mehr über: Neueste Versionen und Funktionen, wie Sie at.js debuggen, eine Live-Demo Fehlerbehebung durchführen, Ressourcen zur Selbsthilfe bereitstellen und wie Sie mit dem Support interagieren können.
 

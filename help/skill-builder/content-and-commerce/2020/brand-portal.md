@@ -17,7 +17,7 @@ duration: 3095
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 6%
+ht-degree: 2%
 
 ---
 
@@ -31,13 +31,13 @@ Brand Portal ermöglicht die einfache Freigabe von Assets für interne und exter
 
 ## Ressourcen
 
-* [Überblick über Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=de)
+* [Überblick über Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
 * [Brand Portal-Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal.html)
-* [Asset-Beschaffung](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=de)
+* [Asset-Beschaffung](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
 
 ## Serienaufnahmen
 
-* [Asset Link](asset-link.md)
+* [Asset-Link](asset-link.md)
 * [Dynamische Medien](dynamic-media.md)
 * [Ordnerstruktur und Suche](folder-structure-search.md)
 * [Metadaten](metadata.md)

@@ -18,6 +18,6 @@ ht-degree: 0%
 
 In dieser Sitzung erfahren Sie mehr über die Vorteile der Verwendung von Workflows für Ihre Asset-Verwaltung und darüber, wie Sie diese schnell erstellen.
 
-*Chris Sofokleous* Lösungsberater, AEM/Adobe
+*Chris Sofokleous* Solutions Consultant, AEM/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343817/?quality=12&learn=on)

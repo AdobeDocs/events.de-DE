@@ -1,5 +1,5 @@
 ---
-title: Handel und Kaffee
+title: Commerce und Kaffee
 description: Die Adobe Commerce- und Coffee-Serie konzentriert sich auf Commerce-Strategien und -Taktiken, unterstützt durch Statistiken, die das Ereignisthema widerspiegeln.
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Handel und Kaffee
+# Commerce und Kaffee
 
-Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden aller Fachrichtungen und bietet Sr. Commerce Strategy Consultant, Corey Gelato. Die Reihe konzentriert sich auf Commerce-Strategien und -Taktiken, unterstützt durch Statistiken, die das Ereignisthema widerspiegeln. Im Anschluss an die Präsentation wird in einer Live-Demonstration gezeigt, wie die diskutierten Strategien in einer Commerce-Plattform umgesetzt werden können. Jede Veranstaltung schließt ab, indem die Teilnehmer die Möglichkeit haben, Fragen live zu stellen und direkt mit den Adobe-Experten zu interagieren. Sie hinterlassen bei jedem Event ein neues Gefühl dafür, warum und wie Sie wettbewerbsfähig bleiben und Erfolg erzielen können, und maximieren gleichzeitig das Angebot Ihrer Adobe Commerce-Plattform.
+Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden mit allen Qualifikationsstufen und Funktionen von Sr. Commerce Strategy Consultant, Corey Gelato. Die Serie konzentriert sich auf Commerce-Strategien und -Taktiken, unterstützt durch Statistiken, die das Ereignisthema widerspiegeln. Im Anschluss an die Präsentation wird in einer Live-Demonstration gezeigt, wie die diskutierten Strategien in einer Commerce-Plattform umgesetzt werden können. Jede Veranstaltung schließt ab, indem die Teilnehmer die Möglichkeit haben, Fragen live zu stellen und direkt mit den Adobe-Experten zu interagieren. Sie hinterlassen bei jedem Event ein neues Gefühl dafür, warum und wie Sie wettbewerbsfähig bleiben und Erfolg erzielen können, und maximieren gleichzeitig das Angebot Ihrer Adobe Commerce-Plattform.
 
 <!--
 ## What's New
@@ -64,4 +64,4 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.

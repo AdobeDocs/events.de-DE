@@ -25,5 +25,5 @@ Erfahren Sie, wie Sie Ihre Kundendatenplattform optimal nutzen können, indem Si
 ## Zusätzliche Informationen
 
 * [Optimierung Ihrer ersten Rolle im Data Management](first-mile.md)
-* [Erhöhen der Rolle des Marketingexperten als Data Steward](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+* [Erhöhen der Rolle des Marketingexperten als Datensteve](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
 * [10 Überlegungen zum verantwortungsvollen Kundendaten-Management](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)

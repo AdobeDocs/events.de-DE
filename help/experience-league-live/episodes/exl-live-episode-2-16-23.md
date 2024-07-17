@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Beschleunigen Sie Ihre Web-Erlebnisse!
 
-**Unterschiede zwischen schnell und am schnellsten verstehen**
+**Verstehen des Unterschieds zwischen schnell und am schnellsten**
 
 Die Ladezeiten von Sites und die Gesamtleistung wirken sich direkt auf die Kundenzufriedenheit aus und fördern die Konversion.
 
@@ -27,5 +27,5 @@ Die Ladezeiten von Sites und die Gesamtleistung wirken sich direkt auf die Kunde
 
 Sehen Sie sich das Video oben an, um sich dieses Live-Stream-Ereignis anzusehen, bei dem Experten für Adobe-Erlebnisbereitstellung besprachen, was zu beachten ist und welche Schritte Sie zur Leistungssteigerung unternehmen können.
 
-**Haben Sie Fragen dazu?** Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836).
+**Haben Sie Fragen dazu?** Fahren Sie die Diskussion zu diesem Thema im Adobe Experience League [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836) fort.
 

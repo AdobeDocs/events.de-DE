@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Datenqualität und -akzeptanz in [!DNL Analytics]
 
-Unternehmen haben Daten als eine wichtige Voraussetzung für den zukünftigen Geschäftserfolg identifiziert. Dazu sind ein hohes Maß an Datenqualität und die Übernahme eines ausgereiften Datenstapels erforderlich. Erfahren Sie, wie Sie Datenqualität in allen Aspekten von [!DNL Adobe Analytics] und eine gemeinsame Kultur zu schaffen.
+Unternehmen haben Daten als eine wichtige Voraussetzung für den zukünftigen Geschäftserfolg identifiziert. Dazu sind ein hohes Maß an Datenqualität und die Übernahme eines ausgereiften Datenstapels erforderlich. Erfahren Sie, wie Sie Datenqualität in jedem Aspekt von [!DNL Adobe Analytics] erstellen und eine gemeinsame Kultur dafür erstellen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414203/?quality=12&learn=on)

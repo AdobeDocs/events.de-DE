@@ -23,4 +23,4 @@ Als Plattformen, die die Verwaltung von Kundendaten erleichtern, müssen sich au
 
 >[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
 
-Als Ergänzung zu diesem Video können Sie auch [Whitepaper herunterladen](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)
+Um dieses Video zu ergänzen, können Sie auch ein Whitepaper herunterladen](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)[

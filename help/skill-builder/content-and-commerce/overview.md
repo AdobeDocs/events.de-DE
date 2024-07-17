@@ -1,6 +1,6 @@
 ---
-title: Skill Builder - Inhalte und Handel
-description: Aufgezeichnete Webinarreihen zum Aufbau Ihrer Wissensbasis und zur Maximierung Ihrer Investition in Adobe Content- und Commerce-Lösungen
+title: Skill Builder - Inhalte und Commerce
+description: Aufgezeichnete Webinarreihen zum Aufbau Ihrer Wissensbasis und zur Maximierung Ihrer Investition in Adobe Content und Commerce Solutions
 exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
 duration: 58
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -24,7 +24,7 @@ Erstellen und verwalten Sie eine Reihe ansprechender Websites, mobiler Apps und 
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-        <strong>Bereitstellen von Headless-Erlebnissen mit Adobe Experience Manager</strong>
+        <strong> Bereitstellen von Headless-Erlebnissen mit Adobe Experience Manager</strong>
       </a>
     </div>
     <p>
@@ -37,11 +37,11 @@ Erstellen und verwalten Sie eine Reihe ansprechender Websites, mobiler Apps und 
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-        <strong>Metadaten für Ihr Unternehmen in Adobe Experience Manager Assets verwenden</strong>
+        <strong>Machen Sie Metadaten für Ihr Unternehmen in Adobe Experience Manager Assets funktionsfähig</strong>
       </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie Ihre Metadaten in AEM Assets optimal nutzen können, indem Sie den Arbeitsaufwand für das Tagging von Assets reduzieren und Ihre Assets durchsuchbarer gestalten.</em>
+    <em>Erfahren Sie, wie Sie Ihre Metadaten in AEM Assets optimal nutzen können, indem Sie den Arbeitsaufwand für das Taggen von Assets reduzieren und Ihre Assets durchsuchbarer gestalten.</em>
     <p>
   </td>  
   <td>
@@ -50,11 +50,11 @@ Erstellen und verwalten Sie eine Reihe ansprechender Websites, mobiler Apps und 
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
-        <strong>Optimale Nutzung des Enterprise Workflow Management</strong>
+        <strong>Optimale Nutzung der Enterprise Workflow-Verwaltung</strong>
       </a>
     </div>
     <p>
-    <em>In dieser Sitzung erfahren Sie mehr über die Vorteile der Verwendung von Workflows für Ihre Asset-Verwaltung und darüber, wie Sie diese schnell erstellen.</em>
+    <em>In dieser Sitzung lernen Sie die Vorteile der Verwendung von Workflows für die Asset-Verwaltung kennen und erfahren, wie Sie diese schnell erstellen.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ Erstellen und verwalten Sie eine Reihe ansprechender Websites, mobiler Apps und 
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.

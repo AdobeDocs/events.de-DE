@@ -19,6 +19,6 @@ ht-degree: 0%
 
 In dieser Keynote-Sitzung erfahren Sie mehr über die neuesten Trends im Customer Journey Management für B2B und B2C. Wir werden Ihnen auch die neuesten Innovationen in wichtigen Journey-Applikationen und der umfassenderen Adobe Experience Cloud und Platform präsentieren. Einer, der nicht verpasst!
 
-*Timo Kohlberg* Senior Manager und EMEA Lead Product Marketing/Adobe
+*Timo Kohlberg* Senior Manager &amp; EMEA Lead Product Marketing/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343822/?quality=12&learn=on)

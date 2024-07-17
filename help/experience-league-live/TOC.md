@@ -57,5 +57,5 @@ ht-degree: 5%
    + [Ep 4: Wer hat darauf geklickt? Und was hat er dann gemacht?](episodes/exl-live-episode-04.md)
    + [Ep 3: Expertentipps, um Ihre Urlaubskampagnen zu gestalten](episodes/exl-live-episode-03.md)
    + [Ep 2: Gestalten Sie Ihr nächstes Zielgruppensegment schlauer als je zuvor.](episodes/exl-live-episode-02.md)
-   + [Ep 1: Meine drei Favoriten-Adobe [!DNL Analytics] Tipps zur Implementierung](episodes/exl-live-episode-01.md)
-+ [Experience League LIVE Assets](exl-live-assets.md)
+   + [Ep 1: Meine drei Lieblingstipps für die Adobe [!DNL Analytics] Implementierung](episodes/exl-live-episode-01.md)
++ [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)

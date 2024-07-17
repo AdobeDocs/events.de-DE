@@ -26,6 +26,6 @@ ht-degree: 0%
 
 Ekrem Dogan befasst sich in dieser Sitzung von Adobe Developers Live mit den entscheidenden Aspekten der Optimierung der Website-Performance. Aufgenommen am 6. November 2023, erlernen Sie Strategien für das Erreichen und Verwalten eines Top-Lighthouse-Punkts und stellen Sie mit Adobe Experience Manager effiziente und benutzerfreundliche Websites sicher. Dieser Vortrag enthält praktische Tipps und Beispiele aus der Praxis, was es zu einem Muss für Entwickler macht, die sich auf die Optimierung der Webleistung konzentrieren.
 
-Fahren Sie mit dem Gespräch fort in [Experience League Communities](https://adobe.ly/3rC7TTm).
+Fahren Sie mit der Unterhaltung in [Experience League Communities](https://adobe.ly/3rC7TTm) fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425625/?learn=on)

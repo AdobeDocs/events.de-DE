@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur-Weiterverfolgung von Fragen und Antworten'
-description: Während [!DNL Adobe Analytics] Erstellen eines datengesteuerten Kultur-Webinars wurden über 35 Fragen von [!DNL Adobe Analytics] Benutzer auf der ganzen Welt. Da [!DNL Adobe Analytics] Champion war nicht in der Lage, all diese Fragen während der Live-Q&A zu beantworten, wir brachten sie zurück und veranstalteten eine Nachbesprechung über Fragen und Fragen, um Ihre Fragen zu beantworten, und teilten noch mehr Fachwissen mit.
+title: '''[!DNL Adobe Analytics] Erstellen von datengesteuerten kulturellen Folgenachrichten'
+description: Während des Webinars [!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur wurden von  [!DNL Adobe Analytics] Benutzern weltweit über 35 Fragen gestellt. Da unser [!DNL Adobe Analytics] Champion nicht alle Fragen beantworten konnte, haben wir sie wieder aufgenommen und eine Nachbesprechung über Fragen und Antworten veranstaltet, um Ihre Fragen zu beantworten und noch mehr Fachwissen zu teilen.
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-16T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur-Weiterverfolgung - Fragen und Antworten
+# [!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur - Nachfragen und Antworten
 
-Während [!DNL Adobe Analytics] Erstellen eines datengesteuerten Kultur-Webinars wurden über 35 Fragen von [!DNL Adobe Analytics] Benutzer auf der ganzen Welt. Da [!DNL Adobe Analytics] Champion war nicht in der Lage, all diese Fragen während der Live-Q&amp;A zu beantworten, wir brachten sie zurück und veranstalteten eine Nachbesprechung über Fragen und Fragen, um Ihre Fragen zu beantworten, und teilten noch mehr Fachwissen mit.
+Während des Webinars [!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur wurden mehr als 35 Fragen von [!DNL Adobe Analytics] Benutzern auf der ganzen Welt gestellt. Da unser [!DNL Adobe Analytics] Champion all diese Fragen während der Live-Q&amp;A nicht beantworten konnte, brachten wir sie zurück und veranstalteten eine Nachbesprechung über Fragen und Antworten, um IHRE Fragen zu beantworten, und teilten uns noch mehr Expertenwissen mit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415614/?quality=12&learn=on)

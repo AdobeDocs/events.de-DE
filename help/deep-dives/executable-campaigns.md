@@ -1,6 +1,6 @@
 ---
 title: Ausführbare Kampagnen - Erfahren Sie, wie ausführbare Dateien Effizienz und Wirkung steigern können.
-description: Die Veranstaltung ist auf Marketo-Administratoren und Kampagnenverantwortliche zugeschnitten und konzentriert sich auf das Verständnis und die Bereitstellung ausführbarer Kampagnen, um Kampagnen und Programme aufzuwerten, Effizienzsteigerungen zu erzielen und das Wachstum zu fördern.
+description: Die Sitzung ist auf Marketo-Admins und -Kampagnenverantwortliche zugeschnitten und konzentriert sich auf das Verständnis und die Bereitstellung von ausführbaren Kampagnen, um Kampagnen und Programme aufzuwerten, Effizienzsteigerungen zu erzielen und Wachstum zu fördern.
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -12,7 +12,7 @@ exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
 source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3427704/?learn=on)
 
 **Moderiert von** Chris Willis
-**Redner** Courtny Edwards-Jones und Jane Musatova
+**Redner** Höflicher Edwards-Jones und Jane Musatova
 
 ## Übersicht
 

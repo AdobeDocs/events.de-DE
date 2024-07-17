@@ -1,6 +1,6 @@
 ---
-title: DataFacts - Das erste Anomalieerkennungstool von AEP basiert auf App Builder
-description: Software nutzt Adobe App Builder, um eine Anwendung zu entwickeln, die dazu beiträgt, Dateninkonsistenzen innerhalb der Adobe Experience Platform (AEP) zu identifizieren.
+title: DataFacts - Das erste auf App Builder aufbauende Tool zur Anomalieerkennung von AEP
+description: Software nutzt Adobe App Builder zur Entwicklung einer Anwendung, die dazu beiträgt, Dateninkonsistenzen innerhalb der Adobe Experience Platform (AEP) zu identifizieren.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -16,14 +16,14 @@ ht-degree: 16%
 
 ---
 
-# DataFacts - Das erste Anomalieerkennungstool von AEP basiert auf App Builder
+# DataFacts - Das erste auf App Builder aufbauende Tool zur Anomalieerkennung von AEP
 
-Software nutzt Adobe App Builder, um eine Anwendung zu entwickeln, die dazu beiträgt, Dateninkonsistenzen innerhalb der Adobe Experience Platform (AEP) zu identifizieren.
+Software nutzt Adobe App Builder zur Entwicklung einer Anwendung, die dazu beiträgt, Dateninkonsistenzen innerhalb der Adobe Experience Platform (AEP) zu identifizieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337710/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

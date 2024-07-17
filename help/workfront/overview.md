@@ -36,7 +36,7 @@ Eine Bibliothek aufgezeichneter Workfront-Ereignisse, bei denen Experten und Kol
       <img alt="Reporting und Dashboards" src="assets/reporting-and-dashboards.png"/>
       </a>
       <div>
-         <a href="user-groups/reporting-and-dashboards.md"><strong>Reporting und Dashboards</strong></a>
+         <a href="user-groups/reporting-and-dashboards.md"><strong>Berichterstellung und Dashboards</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

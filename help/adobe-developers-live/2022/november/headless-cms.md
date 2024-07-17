@@ -16,7 +16,7 @@ duration: 2356
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 21%
+ht-degree: 0%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 21%
 
 In dieser Sitzung erfahren Sie, wie Sie Headless-CMS über Adobe Experience Manager auf verschiedene Arten implementieren können. Diese Sitzung wird sich mit folgenden Themen befassen:
 
-* Inhalts-Services über Exporter/Servlets
+* Inhaltsdienste über Exporter/Servlets
 * Inhaltsfragment über Asset-API (Demo)
 * Inhaltsfragment über Grafik (Demo)
-* Einige Echtzeitanwendungsfälle rund um die Verwendung von Inhaltsfragmenten und ihre jeweiligen Ansätze
-* SPA-Editor-Lernprozesse (Lösungsansatz zur Auswahlentscheidung) (Demo)
+* Einige Echtzeitanwendungsfälle rund um die Verwendung von Inhaltsfragmenten und deren Ansätzen
+* SPA Editor-Lernprozesse (Lösungsansätze zur Auswahl) (Demo)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411299/?quality=12&learn=on)

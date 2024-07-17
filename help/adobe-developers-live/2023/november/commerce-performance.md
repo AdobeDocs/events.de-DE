@@ -1,5 +1,5 @@
 ---
-title: Commerce-Performance über die Plattform bereitstellen
+title: Commerce-Leistung über die Plattform bereitstellen
 description: In dieser inspirierenden Präsentation lernen wir unsere Geschichte "Besser zusammen"kennen, in der Adobe Commerce nahtlos in unsere umfassende Technologiesuite integriert ist. Entdecken Sie, wie diese Synergie Effizienz, Innovation und ganzheitliche Kundenerlebnisse fördert und Ihr Unternehmen auf neue Höhen erhöht.
 solution: Commerce
 feature-set: Commerce
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Commerce-Performance über die Plattform bereitstellen
+# Commerce-Leistung über die Plattform bereitstellen
 
 In dieser inspirierenden Präsentation lernen wir unsere Geschichte &quot;Besser zusammen&quot;kennen, in der Adobe Commerce nahtlos in unsere umfassende Technologiesuite integriert ist. Entdecken Sie, wie diese Synergie Effizienz, Innovation und ganzheitliche Kundenerlebnisse fördert und Ihr Unternehmen auf neue Höhen erhöht.
 

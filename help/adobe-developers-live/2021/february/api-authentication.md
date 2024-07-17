@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Wie neue Mechanismen in der Adobe Experience Manager Dev Console eine Authentifizierung für Instanzen von Adobe Experience Manager in der Cloud ermöglichen, sowohl als Entwickler als auch von Drittanbieteranwendungen.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331768/?quality=12&learn=on&hidetitle=true)
 
-Klicks **[here](/help/adobe-developers-live/assets/api-authentication.pdf)** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/api-authentication.pdf)** .

@@ -1,5 +1,5 @@
 ---
-title: Entwicklungsumgebung für Edge-Bereitstellung und dokumentbasiertes Authoring - Tiefgang
+title: Edge Delivery und Document-basiertes Authoring - Tief Dive
 description: Amol Anand und Darin Kuntze, in dieser tiefen Tauchsitzung von Adobe Developers Live, erkunden die innovativen Edge Delivery Services in Adobe Experience Manager (AEM) und die neuesten in der Dokumentenbearbeitung. Am 6. November 2023 wurde darüber diskutiert, wie diese Tools die Inhaltserstellung revolutionieren, sie schneller und einfacher machen und Interaktion und Konversion mit kontinuierlicher Optimierung fördern. Diese Sitzung eignet sich ideal für Entwickler, die ihre Web-Entwicklungsstrategien mit AEM GraphQL API und anderen flexiblen Tools verbessern möchten.
 solution: Experience Manager,Experience Manager Sites
 feature-set: Experience Manager
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Live Edge Delivery and Document-based Authoring - Deep Dive - November 2023
+# Adobe Developers Live Edge Delivery und Document-based Authoring - Tiefengang - November 2023
 
 Amol Anand und Darin Kuntze, in dieser tiefen Tauchsitzung von Adobe Developers Live, erkunden die innovativen Edge Delivery Services in Adobe Experience Manager (AEM) und die neuesten in der Dokumentenbearbeitung. Am 6. November 2023 wurde darüber diskutiert, wie diese Tools die Inhaltserstellung revolutionieren, sie schneller und einfacher machen und Interaktion und Konversion mit kontinuierlicher Optimierung fördern. Diese Sitzung eignet sich ideal für Entwickler, die ihre Web-Entwicklungsstrategien mit AEM GraphQL API und anderen flexiblen Tools verbessern möchten.
 
-Fahren Sie mit dem Gespräch fort in [Experience League Communities](https://adobe.ly/46KMTsh).
+Fahren Sie mit der Unterhaltung in [Experience League Communities](https://adobe.ly/46KMTsh) fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425622/?learn=on)

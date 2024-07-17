@@ -4,8 +4,8 @@ user-guide-breadcrumb: Customer Data Management Voices
 user-guide-description: Das Ziel des Kundendatenmanagements für den Leiter der technischen und Marketing-Praxis und Spezialisten
 source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 21%
+source-wordcount: '130'
+ht-degree: 6%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 21%
    + [Entwicklung Ihres Audience Center of Excellence](cdm/evolving-your-audience-center-of-excellence.md)
    + [Erstellen besserer Erlebnisse mit Kundenprofilen](cdm/building-better-experiences-with-customer-profiles.md)
    + [Verbesserung von Data Management-Strategien durch Marketing-Teams](cdm/how-marketing-teams-are-improving-data-management-strategies.md)
-+ Zielgruppen und Profil Data Governance und Datenschutz {#governance}
++ Zielgruppen- und Profildatenverwaltung und Datenschutz {#governance}
    + [10 Überlegungen zum verantwortungsvollen Kundendaten-Management](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [Erhöhen der Rolle des Marketingexperten als Data Steward](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+   + [Erhöhen der Rolle des Marketingexperten als Datensteg](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
    + [Audience Profile Data Governance und Datenschutz](governance/healthcare-shield.md)
 + Branchendiskussionen {#industry}
    + [Erstellen hervorragender Erlebnisse mit Ihren Erstanbieterdaten](industry/build-superb-experiences-with-your-first-party-data.md)
-   + [Erfassung von First-Party-Daten](industry/data-collaboration-in-the-first-party-data-context.md)
-   + [Die Zukunft des Daten-Managements und die sich verändernde Umgebung](industry/the-future-of-data-management-and-the-changing-environment.md)
-   + [Eine Geschichte von zwei Wahrnehmungen – Marken vs. Verbraucher](industry/brands-vs-consumers.md)
+   + [Data Collaboration im Erstanbieter-Datenkontext](industry/data-collaboration-in-the-first-party-data-context.md)
+   + [Die Zukunft des Data Managements und der sich wandelnden Umgebung](industry/the-future-of-data-management-and-the-changing-environment.md)
+   + [Eine Tabelle mit zwei Wahrnehmungen - Marken im Vergleich zu Verbrauchern](industry/brands-vs-consumers.md)

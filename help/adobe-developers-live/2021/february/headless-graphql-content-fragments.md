@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Erfahren Sie mehr über die neuen Headless-Funktionen mit den neuesten Inhaltsfragmentverbesserungen. Im Mittelpunkt dieser Sitzung steht die GraphQL API für Adobe Experience Manager Cloud Service.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331280/?quality=12&learn=on&hidetitle=true)
 
-Klicks **[here](/help/adobe-developers-live/assets/headless-graphql-content-fragments.pdf)** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/headless-graphql-content-fragments.pdf)** .

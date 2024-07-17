@@ -22,7 +22,7 @@ ht-degree: 14%
    + Adobe Campaign {#adobe-campaign-office-hours}
       + [Tipps zur SMS-Kanalübersicht und Fehlerbehebung](2023/ac-sms-channel-overview.md)
    + Adobe Commerce {#adobe-commerce-office-hours}
-      + [Site-weites Analyse-Tool](2023/site-wide-analysis-tool.md)
+      + [ Site-weites Analyse-Tool](2023/site-wide-analysis-tool.md)
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
       + [Berechtigungen der Admin Console](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager {#adobe-experience-manager-office-hours}
@@ -33,6 +33,6 @@ ht-degree: 14%
    + Adobe Marketo {#adobe-marketo-office-hours}
       + [Erweiterte intelligente Listenlogik und häufige Fehler](2023/marketo-common-pitfalls.md)
    + Adobe Target {#adobe-target-office-hours}
-      + [Übersicht über die JavaScript-Bibliothek, Tipps und Tricks zum Debuggen](2023/target-debugging-tips-and-tricks.md)
+      + [Übersicht über die JavaScript-Bibliothek, Tipps und Tricks zum Debugging](2023/target-debugging-tips-and-tricks.md)
    + Workfront {#workfront-office-hours}
       + [Duplizierte Kontakte reparieren](2023/workfront-fix-duplicate-contacts.md)

@@ -1,6 +1,6 @@
 ---
-title: App Builder-Anwendungen mit Protokollweiterleitung überwachen
-description: Greifen Sie in einer unterstützten Protokollverwaltungslösung auf alle App Builder-Anwendungsprotokolle zu. In dieser Sitzung erhalten Sie eine exklusive Vorschau der bevorstehenden Protokollweiterleitungsfunktionen und darüber, wie Sie diese frühzeitig ausprobieren können.
+title: Überwachen von App Builder-Anwendungen mit der Protokollweiterleitung
+description: Greifen Sie auf alle Ihre App Builder-Anwendungsprotokolle in einer unterstützten Protokollverwaltungslösung Ihrer Wahl zu. In dieser Sitzung erhalten Sie eine exklusive Vorschau der bevorstehenden Protokollweiterleitungsfunktionen und darüber, wie Sie diese frühzeitig ausprobieren können.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -16,16 +16,16 @@ ht-degree: 11%
 
 ---
 
-# App Builder-Anwendungen mit Protokollweiterleitung überwachen
+# Überwachen von App Builder-Anwendungen mit der Protokollweiterleitung
 
-Greifen Sie in einer unterstützten Protokollverwaltungslösung auf alle App Builder-Anwendungsprotokolle zu. In dieser Sitzung erhalten Sie eine exklusive Vorschau der bevorstehenden Protokollweiterleitungsfunktionen und darüber, wie Sie diese frühzeitig ausprobieren können.
+Greifen Sie auf alle Ihre App Builder-Anwendungsprotokolle in einer unterstützten Protokollverwaltungslösung Ihrer Wahl zu. In dieser Sitzung erhalten Sie eine exklusive Vorschau der bevorstehenden Protokollweiterleitungsfunktionen und darüber, wie Sie diese frühzeitig ausprobieren können.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/3zXM3rp)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3zXM3rp)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337568/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

@@ -40,6 +40,6 @@ AEM Entwickler haben die Möglichkeit, die neu eingeführten Assets Open APIs un
 
 >[!NOTE]
 > 
->* Sitzungsspezifische Community-Interaktionen auf diesem Webinar auf Experience League finden Sie unter [Kontextueller Thread](https://adobe.ly/3UQXwFO).
+>* Besuchen Sie für sitzungsspezifische Community-Interaktionen in diesem Webinar auf Experience League den entsprechenden [kontextuellen Thread](https://adobe.ly/3UQXwFO).
 >
->* Um Benachrichtigungen zu unseren bevorstehenden Webinaren zu erhalten, registrieren Sie sich bitte unter [Adobe AEM Benutzergruppe](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).

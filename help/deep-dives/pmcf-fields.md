@@ -26,7 +26,7 @@ Im Video &quot;Adobe Marketo Engage Champion Deep Dive&quot;besprechen die Moder
 
 ## Wichtige Schritte
 
-**Benutzerdefinierte Felder für Programmmitglieder (PMCs)**
+**Benutzerdefinierte Felder für Programmteilnehmer (PMCs)**
 
 * Spezifische Datenfelder für ein Programm.
 * Zulassen von Kontextdaten auf Programmebene.

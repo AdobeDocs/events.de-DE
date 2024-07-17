@@ -16,7 +16,7 @@ ht-degree: 1%
 + [Vorbereiten Ihrer Vereinbarungen auf die elektronische Signatur](./skill-builders/e-signature-setup.md)
 + [Arbeiten mit e-Signaturen in Ihren Microsoft-Apps](./skill-builders/e-signature-microsoft.md)
 + [Erweiterte Tipps zum Senden von Dokumenten für Signaturen](./skill-builders/advanced-sending-documents-signature.md)
-+ [Posten eines ausgefüllten, signierbaren Webformulars](./skill-builders/fillable-signable-web-form.md)
++ [Post: ein ausfüllbares, signierbares Webformular](./skill-builders/fillable-signable-web-form.md)
 + [Sammeln vieler Signaturen mit einem Klick](./skill-builders/collect-signatures.md)
 + [Autorenumgebung](./skill-builders/authoring-environment.md)
 + [Sichtbarkeit in den Vertragsstatus](./skill-builders/agreement-status.md)

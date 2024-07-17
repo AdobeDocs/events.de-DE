@@ -1,6 +1,6 @@
 ---
-title: Experience League LIVE, Episode 1 - Meine drei Favoriten Adobe [!DNL Analytics] Tipps zur Implementierung
-description: Sie haben ihn beim Summit auf der Bühne gesehen. Sie haben ihn bei Adobe Insider Tours erlebt, wo er Expertentipps vortrug. Sie haben vielleicht sogar den Vorteil gehabt, mit ihm auf Ihrer eigenen Adobe zu arbeiten [!DNL Analytics] Implementierung. Eric Matisoff bringt seine Drei-Favoriten-Adobe [!DNL Analytics] Implementierung Tipps zu dieser exklusiven Experience League Live-Diskussion.
+title: Experience League LIVE, Episode 1 - Meine drei Favoriten Adobe [!DNL Analytics] Implementierungshinweise
+description: Sie haben ihn beim Summit auf der Bühne gesehen. Sie haben ihn bei Adobe Insider Tours erlebt, wo er Expertentipps vortrug. Möglicherweise hatten Sie sogar den Vorteil, mit ihm an Ihrer eigenen Adobe [!DNL Analytics] Implementierung zu arbeiten. Nun bringt Eric Matisoff seine 3 Favoriten-Adobe [!DNL Analytics] Implementierungshinweise zu dieser exklusiven Experience League-Live-Diskussion.
 solution: Analytics
 feature: Implementation Basics
 kt: 8553
@@ -15,11 +15,11 @@ ht-degree: 23%
 
 ---
 
-# Experience League LIVE, Episode 1: Meine drei Favoriten Adobe [!DNL Analytics] Tipps zur Implementierung
+# Experience League LIVE, Episode 1: My Three Favorite Adobe [!DNL Analytics] Implementation Tips
 
-Sie haben ihn beim Summit auf der Bühne gesehen. Sie haben ihn bei Adobe Insider Tours erlebt, wo er Expertentipps vortrug. Sie haben vielleicht sogar den Vorteil gehabt, mit ihm auf Ihrer eigenen Adobe zu arbeiten [!DNL Analytics] Implementierung. Eric Matisoff bringt seine Drei-Favoriten-Adobe [!DNL Analytics] Implementierung Tipps zu dieser exklusiven Experience League Live-Diskussion.
+Sie haben ihn beim Summit auf der Bühne gesehen. Sie haben ihn bei Adobe Insider Tours erlebt, wo er Expertentipps vortrug. Möglicherweise hatten Sie sogar den Vorteil, mit ihm an Ihrer eigenen Adobe [!DNL Analytics]-Implementierung zu arbeiten. Nun bringt Eric Matisoff seine 3 Favoriten Adobe [!DNL Analytics] Implementierungshinweise zu dieser exklusiven Experience League Live-Diskussion.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335921/?quality=12&learn=on)
 
-Um diese Sitzung zu besprechen, besuchen Sie bitte das [Diskussion in der Experience League-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}.
+Um diese Sitzung zu besprechen, besuchen Sie bitte die [Diskussion in der Experience League-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}.
 

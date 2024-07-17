@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Um die Vorteile von Adobe Experience Manager-Cloud Services zu maximieren, müssen Sie Ihre Codebasis so anpassen, dass sie Cloud-freundlich und kugelsicher ist.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332308/?quality=12&learn=on&hidetitle=true)
 
-Klicks **[here](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** .

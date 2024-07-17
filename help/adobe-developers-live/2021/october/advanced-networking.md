@@ -13,7 +13,7 @@ duration: 1693
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 5%
+ht-degree: 3%
 
 ---
 
@@ -23,12 +23,12 @@ Die Cloud-Migration kann eine Herausforderung darstellen, wenn andere Dienste On
 
 Wir werden zeigen, wie Sie eine dedizierte IP- oder VPN-Verbindung anfordern, und die Optionen erläutern, die für Kunden verfügbar sind.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/3EUTdAo)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3EUTdAo)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337898/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de)
-- [Übersicht über Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=de)
-- [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=de)
+- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

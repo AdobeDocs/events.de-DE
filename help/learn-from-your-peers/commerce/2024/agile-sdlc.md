@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Straffung des E-Commerce: Ein fokussierter Ansatz für Kommunikation, Anforderungen und Tests in Agile SDLC
+# Optimieren von E-Commerce: Ein fokussierter Ansatz für Kommunikation, Anforderungen und Tests in Agile SDLC
 
 Treten Sie Adobe Commerce-Experte und -Fürsprecher, Tyler Granlund, bei, während er sich mit den SDLC-Verfahren (Agile Software Development Life Cycle) für die Optimierung des E-Commerce einsetzt.
 
@@ -30,6 +30,6 @@ In diesem Webinar lernen Sie:
 * Testing Excellence - Tipps für Testverfahren, die in verschiedenen Phasen zur Entwicklung robuster und zuverlässiger E-Commerce-Websites gelten.
 * Kommunikation zwischen Interessengruppen und Teams - Tipps zur Förderung einer effektiven Kommunikation. Betonung von Transparenz und Rechenschaftspflicht als Schlüsselfaktoren für eine erfolgreiche Projektdurchführung.
 
-Sie können auf die Folien zugreifen [here](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"}.
+Sie können auf die Folien [hier](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"} zugreifen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427501/?learn=on)

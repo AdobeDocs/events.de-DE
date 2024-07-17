@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Verwenden Sie Sitevorlagen, um in wenigen Klicks neue Sites zu erstellen und die Frontend-Entwicklung mit der schnellen Bereitstellung von Frontend-Assets wie CSS und JS zu unterstützen.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 
-Klicks **[here](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** .

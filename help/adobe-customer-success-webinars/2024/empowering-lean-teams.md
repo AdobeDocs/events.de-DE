@@ -8,13 +8,13 @@ duration: 2499
 last-substantial-update: 2024-03-11T00:00:00Z
 jira: KT-15114
 thumbnail: 3427800.jpeg
-source-git-commit: 2489f9e31da2de8e7955843baed3ff05d5cc7b64
+exl-id: 1dc9fcb7-66d8-4394-a97f-deff20813794
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 0%
 
 ---
-
 
 # Empowering Lean Teams
 
@@ -42,7 +42,7 @@ In diesem Webinar werden die Herausforderungen für schlanke Teams erläutert un
 
 * Optimierter Kreativprozess: Mit Creative Cloud-Bibliotheken können Benutzer Assets direkt in ihre Projekte ziehen und dort ablegen. Dadurch wird der kreative Prozess optimiert und die zum Ausführen von Aufgaben erforderliche Zeit verringert, z. B. das Hinzufügen von Bildern oder das Anwenden bestimmter Farben oder Textstile.
 
-* Zusammenarbeit und Echtzeit-Updates: Creative Cloud-Bibliotheken erleichtern die Zusammenarbeit zwischen Teammitgliedern, indem sie es Benutzern ermöglichen, Bibliotheken oder Assets für andere freizugeben. Dadurch wird sichergestellt, dass alle Benutzer mit denselben Materialien arbeiten und Echtzeitaktualisierungen möglich sind. Wenn ein Team-Mitglied ein Asset in einer freigegebenen Bibliothek aktualisiert, steht die Änderung automatisch jedem zur Verfügung, der darauf zugreift.
+* Collaboration- und Echtzeit-Updates: Creative Cloud-Bibliotheken erleichtern die Zusammenarbeit zwischen Teammitgliedern, indem sie es Benutzern ermöglichen, Bibliotheken oder Assets für andere freizugeben. Dadurch wird sichergestellt, dass alle Benutzer mit denselben Materialien arbeiten und Echtzeitaktualisierungen möglich sind. Wenn ein Team-Mitglied ein Asset in einer freigegebenen Bibliothek aktualisiert, steht die Änderung automatisch jedem zur Verfügung, der darauf zugreift.
 
 * Versionskontrolle: Creative Cloud-Bibliotheken erleichtern die Verwaltung verschiedener Asset-Versionen. Dadurch wird das Risiko von Inkonsistenzen mit Assets verringert und sichergestellt, dass Teammitglieder immer die neueste Version verwenden.
 
@@ -58,7 +58,7 @@ Zu den Herausforderungen bei der Arbeit mit einem schlanken Team gehören:
 
 * Branding und Arbeitslast verwalten: Mit einem schlanken Team trägt jedes Teammitglied oft mehrere Hüte, was zu höheren Arbeitslasten, hohem Druck und einem höheren Brandrisiko führt. Die Vereinbarkeit von Berufs- und Lebensqualität wird eine Herausforderung und kann sich im Laufe der Zeit auf Moral und Produktivität auswirken.
 
-* Zusammenarbeit und Kommunikation: Effektive Zusammenarbeit und Kommunikation sind für schlanke Teams entscheidend, damit sie effizient arbeiten können. Die Koordinierung über verschiedene Projekte hinweg und die Sicherstellung, dass alle Teammitglieder aufeinander abgestimmt sind, können jedoch ohne ausreichend Personal zur Verwaltung verschiedener Workflows schwierig sein. Diese Herausforderung wird noch verstärkt, wenn das Team remote verteilt oder arbeitet.
+* Collaboration und Kommunikation: Effiziente Zusammenarbeit und Kommunikation sind für schlanke Teams von entscheidender Bedeutung, damit sie effizient arbeiten können. Die Koordinierung über verschiedene Projekte hinweg und die Sicherstellung, dass alle Teammitglieder aufeinander abgestimmt sind, können jedoch ohne ausreichend Personal zur Verwaltung verschiedener Workflows schwierig sein. Diese Herausforderung wird noch verstärkt, wenn das Team remote verteilt oder arbeitet.
 
 * Diese Herausforderungen lassen sich bewältigen, indem Aufgaben gestrafft, die Effizienz gesteigert, die Lebensqualität verbessert, Qualifikationslücken verringert und wichtige Produktfunktionen und Integrationen von Adobe Solutions genutzt werden.
 

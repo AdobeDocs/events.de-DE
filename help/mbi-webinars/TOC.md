@@ -20,9 +20,9 @@ ht-degree: 5%
    + [Erste Schritte mit Commerce Intelligence](2023/getting-started.md)
    + [Verwalten von Datensätzen in Commerce Intelligence](2023/manage-data-sets.md)
 + 2021 {#2021}
-   + [Optimieren Ihres Commerce Intelligence-Data Warehouse](2021-22/optimize-data-warehouse.md)
-   + [Commerce Intelligence Dashboards - Deep Dive](2021-22/dashboards-deep-dive.md)
-   + [Feierabstimmung mit Commerce Intelligence](2021-22/holiday-readiness.md)
+   + [Optimieren der Commerce Intelligence-Data Warehouse](2021-22/optimize-data-warehouse.md)
+   + [Commerce Intelligence-Dashboards - Tief tauchen](2021-22/dashboards-deep-dive.md)
+   + [Feiertagsbereitschaft mit Commerce Intelligence](2021-22/holiday-readiness.md)
    + [Commerce Intelligence - Fragen an Experten](2021-22/ask-expert.md)
 
 <!--+ Commerce Events {#commerce-events}

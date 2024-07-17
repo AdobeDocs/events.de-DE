@@ -1,6 +1,6 @@
 ---
-title: KI-gestützte Personalisierung
-description: Künstliche Intelligenz ist überall um uns herum und beginnt, viele unserer täglichen Interaktionen zu durchdringen. Wenn AI auf die richtige Weise genutzt wird, kann es Ihnen helfen, Ihren Kunden ein überrelevantes und unvergessliches Erlebnis zu bieten. Adobe investiert seit vielen Jahren stark in KI, und in jüngerer Zeit haben wir erlebt, dass KI-Funktionen in Commerce in den Vordergrund gerückt sind. In diesem Webinar werden wir von Jason Ford, Manager - Commerce Solutions Consulting APAC, begleitet, um mehr darüber zu erfahren, wie Sie das Adobe-Toolkit nutzen können, um Ihre Personalisierungsstrategie zu überlasten.
+title: KI-gestützte Personalization
+description: Künstliche Intelligenz ist überall um uns herum und beginnt, viele unserer täglichen Interaktionen zu durchdringen. Wenn AI auf die richtige Weise genutzt wird, kann es Ihnen helfen, Ihren Kunden ein überrelevantes und unvergessliches Erlebnis zu bieten. Adobe investiert seit vielen Jahren stark in KI und in jüngerer Zeit haben wir in Commerce KI-Funktionen in den Vordergrund gestellt. In diesem Webinar werden wir von Jason Ford, Manager - Commerce Solutions Consulting APAC, begleitet, um mehr darüber zu erfahren, wie Sie das Adobe-Toolkit nutzen können, um Ihre Personalisierungsstrategie zu überlasten.
 feature-set: Commerce
 feature: Upgrade
 solution: Commerce
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# KI-gestützte Personalisierung
+# KI-gestützte Personalization
 
-Künstliche Intelligenz ist überall um uns herum und beginnt, viele unserer täglichen Interaktionen zu durchdringen. Wenn AI auf die richtige Weise genutzt wird, kann es Ihnen helfen, Ihren Kunden ein überrelevantes und unvergessliches Erlebnis zu bieten. Adobe investiert seit vielen Jahren stark in KI, und in jüngerer Zeit haben wir erlebt, dass KI-Funktionen in Commerce in den Vordergrund gerückt sind. In diesem Webinar werden wir von Jason Ford, Manager - Commerce Solutions Consulting APAC, begleitet, um mehr darüber zu erfahren, wie Sie das Adobe-Toolkit nutzen können, um Ihre Personalisierungsstrategie zu überlasten.
+Künstliche Intelligenz ist überall um uns herum und beginnt, viele unserer täglichen Interaktionen zu durchdringen. Wenn AI auf die richtige Weise genutzt wird, kann es Ihnen helfen, Ihren Kunden ein überrelevantes und unvergessliches Erlebnis zu bieten. Adobe investiert seit vielen Jahren stark in KI und in jüngerer Zeit haben wir in Commerce KI-Funktionen in den Vordergrund gestellt. In diesem Webinar werden wir von Jason Ford, Manager - Commerce Solutions Consulting APAC, begleitet, um mehr darüber zu erfahren, wie Sie das Adobe-Toolkit nutzen können, um Ihre Personalisierungsstrategie zu überlasten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419107/?learn=on)

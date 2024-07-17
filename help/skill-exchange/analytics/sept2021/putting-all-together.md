@@ -1,5 +1,5 @@
 ---
-title: Zusammenfassung
+title: Alles zusammenbringen
 description: Wie Adobe Analytics Website-Daten verfolgt, wie gespeichert, freigegeben und zusammengearbeitet werden kann.
 solution: Analytics
 feature-set: Analytics
@@ -14,11 +14,11 @@ duration: 2141
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 15%
+ht-degree: 0%
 
 ---
 
-# Zusammenfassung
+# Alles zusammenbringen
 
 Wir werden die Dinge zusammenfassen, indem wir verstehen, wie Adobe Analytics Website-Daten verfolgt, wie man sie speichert, teilt und zusammenarbeitet. Lassen Sie diese Sitzung mit Tipps, um Ihre Produktivität zu steigern und Ihren Lernprozess fortzusetzen Journey.
 

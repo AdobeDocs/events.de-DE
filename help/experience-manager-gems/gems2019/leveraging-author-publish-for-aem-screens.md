@@ -1,6 +1,6 @@
 ---
-title: Nutzung von „author-publish“ für AEM Screens
-description: Hier erhalten Sie ein vollständiges Produktions-Setup für AEM Screens und lernen alle notwendigen Schritte für die Veröffentlichung von Inhalten auf Screens/Digital Signage-Playern kennen.
+title: Nutzung von author-publish für AEM Screens
+description: Verschaffen Sie sich ein vollständiges Produktions-Setup für AEM Screens und lernen Sie alle erforderlichen Schritte zum Veröffentlichen von Inhalten in Screens / Digital Signage Player kennen.
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 27bf6d01-d720-41a1-87b2-7d1d6d29a10c
@@ -8,22 +8,22 @@ duration: 3012
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
-# Nutzung von „author-publish“ für AEM Screens{#leveraging-author-publish-for-aem-screens}
+# Nutzung von author-publish für AEM Screens{#leveraging-author-publish-for-aem-screens}
 
-In dieser GEMs-Sitzung werden wir ein vollständiges Produktions-Setup für AEM Screens durchführen und alle notwendigen Schritte für die Veröffentlichung von Inhalten in Screens/auf Digital Signage-Playern erklären. Erfahren Sie, wie Sie die „author-publish“-Topologie für AEM Screens nutzen können. Sie erhalten eine Vorschau der Schritte, die ein Autor durchführen muss, um Aktualisierungen von Inhalten zu veröffentlichen und an die Geräte zu verteilen. Außerdem werden wir uns die Architektur hinter diesem Fluss genauer ansehen. Darüber hinaus erfahren Sie, welche Konfiguration für den Veröffentlichungs-Cluster, die Replikation und die Geräte erforderlich ist.
+In dieser Gems-Sitzung führen wir ein vollständiges Produktions-Setup für AEM Screens durch und erläutern alle erforderlichen Schritte zum Veröffentlichen von Inhalten in Screens / Digital Signage Player. Erfahren Sie, wie Sie die Autoren- und Veröffentlichungstopologie für AEM Screens nutzen können. Sehen Sie sich die Schritte an, die ein Autor ausführen muss, um Inhaltsaktualisierungen zu veröffentlichen und sie an die Geräte zu verteilen. Außerdem werden wir uns die Architektur, die diesem Fluss zugrunde liegt, näher ansehen. Darüber hinaus erfahren Sie mehr über die Konfiguration, die für den Veröffentlichungscluster, die Replikation und die Geräte erforderlich ist.
 
-**Präsentiert von:**
+**Vorgestellt von:**
 
-Iulia Grumaz, Computer Scientist, Software Development, Adobe
+Iulia Grumaz, Informatikerin, Softwareentwicklung, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/28706/?quality=9)
 
-*Veröffentlicht am 04.09.2019*
+*Ausgestellt am 4. September 2019*
 
 Präsentation
 
-[Datei herunterladen](assets/leveraging-author-publish-aem-screens-final.pdf)
+[Datei abrufen](assets/leveraging-author-publish-aem-screens-final.pdf)

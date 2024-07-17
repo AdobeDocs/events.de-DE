@@ -28,7 +28,7 @@ Während die Sicherheit mit zahlreichen technischen und geschäftlichen Faktoren
 
 ## Wichtige Schritte
 
-**Sicherheit der E-Commerce-Industrie**
+**E-Commerce-Branchensicherheit**
 
 * Hoch Targeting von Cyber-Angreifern für Diebstahl von Kreditkartendaten.
 

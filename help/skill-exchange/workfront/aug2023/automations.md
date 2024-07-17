@@ -22,10 +22,12 @@ ht-degree: 0%
 
 Die Nutzung von Automatisierungen kann ein enormes Effizienzpotenzial entfalten, indem sie es Ihren Benutzern ermöglichen, sich auf die Arbeit zu konzentrieren, die ihre einzigartigen Fähigkeiten und Kenntnisse erfordert, anstatt sich auf die routinemäßigen und wiederholten Aufgaben zu konzentrieren, die sie ausführen können.
 
-In dieser Sitzung werden Jennafer Higgs, Jonathan Cabre und Malcom Benites von Zimmerman Advertising praktische Beispiele für Automatisierungen vorstellen, die nachweislich einen effizienteren Arbeitsablauf schaffen.
+In dieser Sitzung werden Jennafer Higgs, Jonathan Cabre und Malcom Benites von Zimmerman Advertising praktische Beispiele für Automatisierungen vorstellen, die sich als effizienterer Workflow erwiesen haben.
 
 Sie werden sowohl Fusion- als auch Nicht-Fusion-Automatisierungen gemeinsam nutzen, darunter:
 
-・ Wie werden Projekte automatisch geschlossen ・ Erstellung von Untervorlagen ・ Konsolidierte Überprüfung genehmigter Assets
+・ Wie werden Projekte automatisch geschlossen?
+・ Generierung von Untervorlagen
+・ Konsolidierte Prüfung genehmigter Vermögenswerte
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425812/?learn=on)

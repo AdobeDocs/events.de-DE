@@ -1,5 +1,5 @@
 ---
-title: Der kreative Edge - Wie das visionäre Denken Commerce verändert
+title: Die Creative Edge - Wie das visionäre Denken Commerce verändert
 description: In diesem Webinar wird die Integration von Kreativität und Commerce untersucht, wie Adobe-Tools und -Technologien dazu beitragen können, Assets zu verwalten, die Inhaltserstellung zu skalieren und die Inhaltsversorgungskette zu optimieren. Es wird erläutert, wie wichtig es ist, Kreativität und Commerce zusammenzuführen, und behandelt Themen wie personalisierte Erlebnisse, Asset-Verwaltung und die Verwendung von Tools wie Adobe Workfront, Adobe Experience Manager und Adobe Stock zur Optimierung des Inhaltserstellungsprozesses.
 solution: Commerce
 topic: Commerce
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
+source-git-commit: 441e5d9313ea3c46ce09d1d6cfbe358fce8e0b83
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
+# Die Creative Edge: Wie das visionäre Denken Commerce verändert
 
-# Der Creative Edge: Wie das visionäre Denken Commerce verändert
-
-Der kreative Edge: Wie das visionäre Denken den Ecommerce transformiert, taucht in die Vorreiterrolle der Innovation ein, in der Gen AI die kreative Landschaft revolutioniert und beispiellose Einblicke und Möglichkeiten bietet. Teilnehmer erfahren, wie AI die Verwaltung von Marken- und Stilrichtlinien optimiert und so die Konsistenz über verschiedene Plattformen und Kanäle hinweg sicherstellt.
+Die Creative Edge: Wie das visionäre Denken den Ecommerce transformiert, macht sich zu einer Innovationsspitze, in der die Gen AI die kreative Landschaft revolutioniert und beispiellose Einblicke und Möglichkeiten bietet. Teilnehmer erfahren, wie AI die Verwaltung von Marken- und Stilrichtlinien optimiert und so die Konsistenz über verschiedene Plattformen und Kanäle hinweg sicherstellt.
 
 Durch nahtlose Integration erfahren Sie, wie Sie Ihre kreativen Assets mühelos in die Marketing-Ausführung und den Handel integrieren und so die Kundeninteraktion und Konversionsraten steigern können.
 

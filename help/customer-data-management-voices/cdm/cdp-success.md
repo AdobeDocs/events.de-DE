@@ -24,6 +24,6 @@ Aufgrund des Lärms auf dem Markt über CDPs ist es schwierig zu wissen, wo man 
 
 ## Zusätzliche Informationen
 
-*[Best Practices für Personen und Prozesse für das Customer Data Management](people-and-process.md)
-*[Erstellen hervorragender Erlebnisse mit Ihren Erstanbieterdaten](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
-*[Case Study - TSB setzt auf die Echtzeit-Personalisierung von Daten für jeden Kunden.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)
+*[Personen und Best Practices für das Customer Data Management](people-and-process.md)
+*[Erstellen großartiger Erlebnisse mit Ihren Erstanbieterdaten](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
+*[Fallstudie - TSB wird auf die Echtzeit-Datenpersonalisierung für jeden Kunden umgestellt.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)

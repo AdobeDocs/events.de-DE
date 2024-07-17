@@ -1,6 +1,6 @@
 ---
-title: AEM-Indizierung und JCR-Abfrage
-description: Best Practices für Indizierung und Abfragen in AEM. Fehlerbehebung bei Abfrageproblemen in AEM und Konfiguration und Verwaltung von Indizes.
+title: AEM und JCR-Abfrage
+description: Best Practices für AEM Indizierung und Abfragen. Fehlerbehebung bei Abfrageproblemen in AEM und Konfiguration und Verwaltung von Indizes.
 topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
@@ -9,39 +9,39 @@ duration: 3510
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 47%
+ht-degree: 0%
 
 ---
 
-# AEM-Indizierung und JCR-Abfrage{#aem-indexing-and-jcr-query}
+# AEM und JCR-Abfrage{#aem-indexing-and-jcr-query}
 
 >[!VIDEO](https://video.tv.adobe.com/v/19133/?quality=9)
 
-*Präsentiert am 19. Juli 2017*
+*Vorgestellt am 19. Juli 2017*
 
 **Thomas Müller, Senior Software Engineer, Adobe**
 
-**Präsentationsfolien**
+**Presenter-Folien**
 
-[Datei herunterladen](assets/aem-gems-aem-indexing-and-jcr-query.pdf)
+[Datei abrufen](assets/aem-gems-aem-indexing-and-jcr-query.pdf)
 
-## Siehe auch: {#related-links}
+## Verwandte Links {#related-links}
 
-Dokumentation zu AEM
+AEM Dokumentation
 
 >[!CAUTION]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.
 
 >[!WARNING]
 >
->AEM Versionen 6.4 und älter sind End of Life und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).  Auf archivierte Versionen der Dokumentation kann über diese [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
+>AEM Versionen 6.4 und älter sind End of Life und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Auf archivierte Versionen der Dokumentation kann von dieser [Seite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de) aus zugegriffen werden.
 >
->Informationen zu dieser Sitzung finden Sie unter *Oak-Abfragen und Indizierung* und *Best Practices für Abfragen und Indizierung* in der Dokumentation zu AEM 6.3.
+>Informationen zu dieser Sitzung finden Sie unter *Oak-Abfragen und -Indizierung* und *Best Practices für Abfragen und Indizierung* in der AEM 6.3-Dokumentation.
 
 Dokumentation zu Oak
 
-* [Abfrage und Indizes in Oak](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html?lang=de)
+* [Oak-Abfrage und -Indizes](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -49,9 +49,9 @@ Dokumentation zu Oak
 
 >[!MORELIKETHIS]
 >
->* [AEM-Indizierung und JCR-Abfrage](aem-indexing-jcr-query.md)
->* [Fehlerbehebung bei der AEM-Replikation](aem-troubleshooting-aem-replication.md)
->* [Fehlerbehebung für Sling-Inhaltsverteilung](aem-troubleshooting-sling.md)
+>* [AEM Indizierung und JCR-Abfrage](aem-indexing-jcr-query.md)
+>* [Fehlerbehebung AEM Replikation](aem-troubleshooting-aem-replication.md)
+>* [Fehlerbehebung bei der Sling-Inhaltsverteilung](aem-troubleshooting-sling.md)
 <!-- 
 >* linking to helpx, removed for now [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
 -->

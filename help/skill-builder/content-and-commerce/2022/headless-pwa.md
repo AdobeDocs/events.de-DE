@@ -1,5 +1,5 @@
 ---
-title: Headless für Handel und PWA Studio
+title: Headless für Commerce und PWA Studio
 description: Erfahren Sie mehr über das schnelle und kostengünstige Erstellen von PWA-Implementierungen und -Optimierungen mit PWA Studio in Adobe Commerce.
 solution: Commerce
 role: Admin, Architect, Developer, Leader, User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Headless für Handel und PWA Studio
+# Headless für Commerce und PWA Studio
 
 Headless- und progressive Web-Apps (PWA) definieren neu, wie Verbraucher ihre Mobilgeräte nutzen, indem sie schnelle, ansprechende und App-ähnliche Browsing-Erlebnisse bereitstellen. Nehmen Sie an dieser Sitzung teil, um mehr über das schnelle und kostengünstige Erstellen von PWA-Implementierungen und -Optimierungen mit PWA Studio in Adobe Commerce zu erfahren.
 

@@ -1,5 +1,5 @@
 ---
-title: Inhalt und Erlebnisse - das entscheidende Herzstück der Personalisierung
+title: Inhalt und Erlebnisse - Das schlagende Herz von Personalization
 description: Ermittlung und Überwindung häufiger Herausforderungen beim Erstellen von Inhalten und Erlebnissen Entwicklung von Anwendungsfällen zur Förderung von Inhalten auf der Journey
 solution: General
 topic: Personalization
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Inhalt und Erlebnisse: Das schlagende Herzstück der Personalisierung
+# Inhalt und Erlebnisse: Das schlagende Herz von Personalization
 
-*Inhalt und Erlebnisse: Das schlagende Herzstück der Personalisierung*
+*Inhalte und Erlebnisse: Das schlagende Herz von Personalization*
 
 * Ermittlung und Überwindung gemeinsamer Herausforderungen beim Erstellen von Inhalts- und Erlebnisfunktionen
 * Erstellen von Anwendungsfällen zur Förderung von Inhalten auf der gesamten Journey

@@ -25,8 +25,8 @@ ht-degree: 0%
 
 In dieser Sitzung werden die neue Funktion der Asset-Massenaufnahme im Cloud-Service sowie deren Skalierbarkeit und Leistung vorgestellt.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331769/?quality=12&learn=on&hidetitle=true)
 
-Klicks **[here](/help/adobe-developers-live/assets/asset-bulk-ingestion.pdf)** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/asset-bulk-ingestion.pdf)** .

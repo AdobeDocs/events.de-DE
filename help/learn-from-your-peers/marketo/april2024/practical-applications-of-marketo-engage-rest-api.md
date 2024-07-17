@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
-source-git-commit: 21784d00fa8a5a6d700c92b2e824a8b3f36d03ee
+exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
+source-git-commit: 18df838cce497b57c9bee0229bd2e7fc2ffde999
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
 
 ---
-
 
 # Entsperren der leistungsstarken Workflow-Automatisierung: Praktische Anwendungen der Marketo Engage REST API
 
@@ -29,4 +29,4 @@ In diesem Webinar werden Sie:
 >[!VIDEO](https://video.tv.adobe.com/v/3428435/?learn=on)
 
 
-Nehmen Sie an der Unterhaltung teil. [Community-Webinar-Thread von Marketing Nation](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}.
+Nehmen Sie an der Unterhaltung im Webinar Thread ](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"} der Marketing Nation Community teil.[

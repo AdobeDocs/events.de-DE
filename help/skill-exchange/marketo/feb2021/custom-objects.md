@@ -17,6 +17,8 @@ ht-degree: 0%
 
 # Ein Top-Rope-Einstieg in benutzerdefinierte Objekte und Velocity
 
-Eins-zu-viele-relationale Daten sowie eine bewährte Vorlagenmodul-Engine, das perfekte Tag-Team für erweiterte E-Mail-Inhalte. Erfahren Sie mehr über die Konzeption von CO-Schemas, das Sortieren, Filtern und Aggregieren von CO-Datensätzen, die Erkennung von Datensatzaktualisierungen und die Integration von Pseudo-COs mithilfe von JSON. Wir werden auch allgemeine Velocity-Anforderungen wie die Lokalisierung von Daten, Uhrzeiten und Währungen behandeln.
+Eins-zu-viele-relationale Daten sowie eine bewährte Vorlagenmodul-Engine, das perfekte Tag-Team für erweiterte E-Mail-Inhalte. Erfahren Sie mehr über CO
+Schema-Design, Sortieren, Filtern und Aggregieren von CO-Datensätzen; Erkennung von Datensatzaktualisierungen und Integration von Pseudo-COs mithilfe von JSON. Wir werden
+umfassen auch allgemeine Velocity-Aufgaben wie die Lokalisierung von Daten, Uhrzeiten und Währungen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340313/?quality=12&learn=on)

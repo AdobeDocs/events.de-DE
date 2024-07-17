@@ -10,7 +10,7 @@ exl-id: c5240612-29d4-4404-b12b-71e70bb780bd
 duration: 3627
 source-git-commit: 566bddf933c20c7673b4cf574180852d81027514
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Mit dem neuen Webkanal können Marketing-Experten Web-Kampagnen mit einem visuel
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420129/?learn=on)
 
-Haben Sie Fragen dazu? Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366#M121).
+Haben Sie Fragen dazu? Fahren Sie mit der Diskussion über dieses Thema im Adobe Experience League [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366#M121) fort.

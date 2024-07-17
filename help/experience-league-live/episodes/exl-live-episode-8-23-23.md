@@ -28,7 +28,7 @@ Mit API-ausgelösten Kampagnen können Unternehmen eine Kampagne einrichten und 
 
 In dieser Experience League-Live-Sitzung erläutern Adobe-Produktexperten, wie Sie Transaktions- und Marketing-Anwendungsfälle mit API-Trigger-Messaging-Funktionen in AJO ausführen können.
 
-**Klicken Sie auf das Bild oben, um die Sendung zu sehen!**
+**Klicken Sie auf das Bild oben, um die Sendung anzuzeigen!**
 
-Fortsetzung der Beratungen über [Experience League Community-Post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Fahren Sie mit der Diskussion über den [Experience League-Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132) fort.
 

@@ -23,10 +23,10 @@ ht-degree: 0%
 
 # Lokale Build-Analyse mit Adobe Experience Manager as a Cloud Service
 
-Machen Sie sich mit der ereignisgesteuerten API von ACDL vertraut. Ein Commerce-Beispiel zeigt, wie die Kernkomponenten es hydrieren und die Launch-Erweiterung Schnittstellen mit AA und AT enthält.
+Machen Sie sich mit der ereignisgesteuerten API von ACDL vertraut. Ein Commerce-Beispiel zeigt, wie die Kernkomponenten es hydrieren und die Launch-Erweiterungs-Schnittstellen mit AA und AT.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332307/?quality=12&learn=on&hidetitle=true)
 
-Klicks **[here](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** .

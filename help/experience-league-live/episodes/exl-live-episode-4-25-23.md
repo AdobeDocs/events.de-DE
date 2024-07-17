@@ -27,5 +27,5 @@ Wenn Sie mit den modernen Datenerfassungs-Tools von Adobe noch nicht vertraut si
 
 Starten Sie das Video oben, um eine Wiederholung dieses Live-Stream-Ereignisses anzuzeigen.
 
-Haben Sie Fragen dazu? Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+Haben Sie Fragen dazu? Fahren Sie mit der Diskussion über dieses Thema im Adobe Experience League [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476) fort.
 

@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Vorlagen, Token und Teamwork - Erstellen Sie Ihre Adobe [!DNL Marketo Engage] Inhalt skalierbar
+# Vorlagen, Token und Teamwork - Gestalten Sie den Inhalt von Adobe [!DNL Marketo Engage] skalierbar
 
-Die Inhaltserstellung für Ihre Marketingprogramme ist ein langer Weg. Durch die Anwendung von Vorlagen und Token können Sie skalierbare Prozesse in allen Teams erstellen und mit weniger in mehr erreichen [!DNL Marketo Engage]. Hören Sie Lauren McCormack, einen preisgekrönten Marketingleiter - und 2x Adobe [!DNL Marketo Engage] Champion - wie sie ihre Jahre der Weisheit teilt, um Ihre [!DNL Marketo Engage] Inhalt skalierbar.
+Die Inhaltserstellung für Ihre Marketingprogramme ist ein langer Weg. Durch die Anwendung von Vorlagen und Token können Sie skalierbare Prozesse über Teams hinweg erstellen und mit weniger in [!DNL Marketo Engage] mehr erreichen. Hören Sie Lauren McCormack, eine preisgekrönte Marketingführerin - und 2x Adobe [!DNL Marketo Engage] Champion -, da sie ihre jahrelange Weisheit teilt, um Ihren [!DNL Marketo Engage]-Inhalt skalierbar zu machen.
 
 Erfahren Sie mehr über:
 

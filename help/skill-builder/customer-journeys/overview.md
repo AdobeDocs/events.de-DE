@@ -28,7 +28,7 @@ Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen
       </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie B2B-Kampagnen mit [!DNL Marketo Engage] und RT-CDP (B2B Edition) und was sind die wichtigsten Anwendungsfälle und Vorteile, die nicht gesperrt sind.</em>
+    <em>Erfahren Sie, wie Sie B2B-Kampagnen mit [!DNL Marketo Engage] und RT-CDP (B2B-Bearbeitung) organisieren und welche Anwendungsfälle und Vorteile am häufigsten nicht gesperrt sind.</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-        <strong>Datenmodelle im Adobe entwickeln und anpassen [!DNL Campaign Classic]</strong>
+        <strong>Entwickeln und Anpassen von Datenmodellen in Adobe [!DNL Campaign Classic]</strong>
       </a>
     </div>
     <p>
-    <em>Treten Sie dieser Sitzung mit unserem Campaign-Trainer bei, um zu erfahren, wie Sie ein Datenschema innerhalb eines Datenmodells in [!DNL Campaign Classic].</em>
+    <em>Treten Sie dieser Sitzung mit unserem Campaign-Trainer bei, um zu erfahren, wie Sie ein Datenschema innerhalb eines Datenmodells in [!DNL Campaign Classic] entwickeln.</em>
     <p>
   </td>  
   <td>
@@ -54,7 +54,7 @@ Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen
       </a>
     </div>
     <p>
-    <em>Fügen Sie Ihre Adobe Campaign Standard-Instanz ein und entdecken Sie Best Practices rund um Targeting, Personalisierung und Marketing-Müdigkeit, um ACS besser zu nutzen.</em>
+    <em>Verbinden Sie Ihre Adobe Campaign Standard-Instanz und lernen Sie die Best Practices für Targeting, Personalisierung und Marketing-Müdigkeit kennen, um ACS besser zu nutzen.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.

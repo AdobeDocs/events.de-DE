@@ -27,6 +27,6 @@ Treten Sie Adobe Experience Manager Champion, Cindy Underwood, bei, da sie Erken
 * Ordner-Metadatenschemata - Entdecken Sie die Leistungsfähigkeit des strukturierten Content Managements durch Ordner-Metadatenschemata.
 * Metadatenschemata - Steigern Sie die Inhaltsrelevanz und das Benutzererlebnis, indem Sie das Metadatenschema-Design meistern. Einrichtung von Berichten: Nutzen Sie datengesteuerte Einblicke für strategische Entscheidungen, indem Sie umfassende Berichte erstellen.
 
-Sie können auf die Präsentationsfolien zugreifen [here](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf).
+Sie können die Präsentationsfolien [hier](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf) aufrufen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424735/?learn=on)

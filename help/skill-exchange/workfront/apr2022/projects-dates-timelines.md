@@ -25,4 +25,4 @@ Nehmen Sie an Chris Knittle, Leiter Training und Versand bei Workfront teil, um 
 * Die Grundlagen der Aufgabendauer und -vorherigen
 * Einführung in Aufgabenbeschränkungen
 
->[!VIDEO](https://video.tv.adobe.com/v/Cannot suchen Sie MPC Link/?quality=12&amp;learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/Cannot find MPC Link/?quality=12&amp;learn=on)

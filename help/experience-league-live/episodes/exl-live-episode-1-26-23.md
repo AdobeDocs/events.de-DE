@@ -19,7 +19,7 @@ ht-degree: 17%
 
 # Datenerfassungs-Highlights und Roadmap
 
-**Was wir veröffentlicht haben und was sich mit der Adobe-Datenerfassung herausstellt**
+**Was wir veröffentlicht haben und was mit der Adobe-Datenerfassung herauskommt**
 
 Die Datenerfassung ist bei Adobe von größter Bedeutung! Die Daten, mit denen Sie arbeiten, müssen verlässlich sein. Wir hatten letztes Jahr eine ereignisreiche Zeit mit Releases und haben tolle Dinge auf uns zukommen lassen.
 
@@ -27,5 +27,5 @@ Die Datenerfassung ist bei Adobe von größter Bedeutung! Die Daten, mit denen S
 
 Sehen Sie sich das Video oben an, um sich dieses Live-Stream-Ereignis anzusehen, bei dem Adobe-Datenerfassungsexperten eine Zusammenfassung wichtiger aktueller Aktualisierungen sowie einen Überblick über bevorstehende Roadmap-Elemente gaben.
 
-Haben Sie Fragen dazu? Fortsetzung der Beratungen über dieses Thema über die Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+Haben Sie Fragen dazu? Fahren Sie mit der Diskussion über dieses Thema im Adobe Experience League [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316) fort.
 

@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Diese Sitzung konzentriert sich auf die Journey von Forms von On-Premise zu Cloud. Sie wird auch die Aktivierung von Anwendungsfällen für digitale Registrierungen über Demos abdecken.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332305/?quality=12&learn=on&hidetitle=true)
 
-Klicks **[here](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)** .

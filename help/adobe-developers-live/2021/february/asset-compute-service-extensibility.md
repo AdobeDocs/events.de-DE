@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Adobe Developer App Builder benutzerdefinierten Asset compute Worker für die Asset-Verarbeitung während der Erfassung in Adobe Experience Manager erstellen.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331849/?quality=12&learn=on&hidetitle=true)

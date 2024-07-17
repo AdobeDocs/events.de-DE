@@ -16,7 +16,7 @@ ht-degree: 1%
 + [Adobe Content Management-Forum](overview.md)
 + 2022 {#2022}
    + [Willkommensadresse und AEM - Übersicht](2022/welcome.md)
-   + [Adobe erweitern [!DNL Experience Manager] Headless mit [!DNL Adobe App Builder]](2022/headless.md)
+   + [Erweitern von Adobe [!DNL Experience Manager] Headless mit [!DNL Adobe App Builder]](2022/headless.md)
    + [Best Practices für Entwickler](2022/developer-best-practices.md)
    + [Personalisierung von Inhalten bereitstellen](2022/personalization.md)
    + [Erstellen einer Inhaltslieferkette, die skaliert](2022/supply-chain.md)

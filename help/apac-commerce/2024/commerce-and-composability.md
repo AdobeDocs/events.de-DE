@@ -1,19 +1,19 @@
 ---
 title: Aktivieren diverser Geschäftsmodelle mit Commerce & Composability
-description: Im Mittelpunkt des Treffens standen die Ermöglichung vielfältiger Geschäftsmodelle in Adobe Commerce, die Hervorhebung von B2B-Commerce-Wachstumstrends, die Hervorhebung der Bedeutung von Integrationen für nahtlose Upgrades, die Präsentation personalisierter B2B- zu B2C-Interaktionen durch eine Demo, die Erörterung von Adobe Commerce-Funktionen wie Omnichannel-Unterstützung und API-Messintegration, die Hervorhebung der Vorteile kombinierbarer Commerce-Dienste, die Einführung des App Builder skalierbaren Anpassungen und Abonnementverwaltung innerhalb der Plattform.
+description: Im Mittelpunkt des Treffens standen die Ermöglichung vielfältiger Geschäftsmodelle in Adobe Commerce, die Hervorhebung von B2B-Commerce-Wachstumstrends, die Hervorhebung der Bedeutung von Integrationen für nahtlose Upgrades, die Präsentation personalisierter B2B- zu B2C-Interaktionen durch eine Demo, die Erörterung von Adobe Commerce-Funktionen wie Omnichannel-Unterstützung und API-Messintegration, die Hervorhebung der Vorteile von kombinierbaren Commerce-Services, die Einführung der App Builder für skalierbare Anpassungen und Abonnementverwaltung innerhalb der Plattform.
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
-source-git-commit: e2beb9336151eddc3cb29470fab12e77a4f8ffb0
+exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
+source-git-commit: 74f9d5e2e3f3a5830e96422b58222d3c3a9b7acc
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # Aktivieren diverser Geschäftsmodelle mit Commerce &amp; Composability
 
@@ -46,7 +46,7 @@ Unternehmen nutzen Adobe Commerce, um mehrere Geschäftsmodelle auf derselben Pl
 
 * Omnichannel-Unterstützung
 * Personalisierte Erlebnisse
-* Integration mit Drittanbietersystemen über API-Netz und App Builder
+* Integration mit Drittanbietersystemen über API-Maschen und App Builder
 
 ### Vorgestellte technische Aspekte
 

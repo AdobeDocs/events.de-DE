@@ -1,5 +1,5 @@
 ---
-title: Handel und Kaffee - Retrospektive für den Urlaub 2021
+title: Commerce und Kaffee - Retrospektive für Urlaub 2021
 description: In dieser Sitzung wird die eCommerce-Landschaft während der einzigartigen Weihnachtssaison 2021 gelungen. Mithilfe dieser Erkenntnisse besprechen wir, wie Sie Ihre Adobe Commerce-Strategie 2022 besser beeinflussen können. Corey zeigt dann Produktwarnungen, BOPIS/Curbside-Abholung, Belohnungen und Loyalität und vieles mehr. Die Präsentation und die Demo werden von einem Live-Q&A mit Corey begleitet.
 solution: Commerce
 topic: Commerce

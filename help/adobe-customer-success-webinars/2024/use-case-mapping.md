@@ -29,21 +29,21 @@ In diesem Webinar werden die wichtigsten Möglichkeiten untersucht, Anwendungsf�
 
 ## Zusammenfassung der Sitzung
 
-**Herausforderungen der Echtzeit-Kundendatenplattform**
+**Von der Echtzeit-Kundendatenplattform angesprochene Herausforderungen**
 
 * Segmentierte Marketing-Tools
 * Getrennte Datenquellen
 * Verlagerung von Governance-Vorschriften
 
-**Auswirkung der Einstellung von Drittanbieter-Cookies**
+**Auswirkungen der Einstellung von Drittanbieter-Cookies**
 
 * Auswirkungen auf Anwendungsfälle wie Retargeting und Personalisierung von Paid Media
 
-**Vergleich der Echtzeit-Kundendatenplattform mit dem DMP-Audience Manager**
+**Vergleich der Echtzeit-Kundendatenplattform mit DMP-Audience Manager**
 
 * Fokus auf Datenaufnahme, Zielgruppen-Management und Datenausgabestrukturen
 
-**Bedeutung von Ausrichtung und Priorisierung**
+**Wichtigkeit der Ausrichtung und Priorisierung**
 
 * Abstimmung der Fähigkeiten der CDP auf strategische Prioritäten
 * Anwendungsfälle priorisieren

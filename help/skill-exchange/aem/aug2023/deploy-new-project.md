@@ -1,6 +1,6 @@
 ---
 title: AEM Developer Starter Kit
-description: Dieser Austausch von Kompetenzen konzentriert sich darauf, wie ein neuer AEM-Entwickler ein neues Projekt starten und bereitstellen kann. Der Schwerpunkt liegt auf Themen wie AEM Projektarchetyp, Cloud Manager-Einrichtung und Entwicklungstools.
+description: Dieser Austausch von Kompetenzen konzentriert sich darauf, wie ein neuer AEM-Entwickler ein neues Projekt starten und bereitstellen kann. Der Schwerpunkt liegt auf Themen wie AEM Projektarchetyp, Einrichten von Cloud Manager und Entwicklungstools.
 solution: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Sites
 feature: AEM Project Archetype, Developing
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 # Schulungsaustauschereignis August 2023 - AEM Entwicklerpfad - AEM Developer Starter Kit
 
-Dieser Kompetenzaustausch konzentriert sich darauf, wie ein neuer AEM-Entwickler ein neues Projekt starten und bereitstellen kann. Der Schwerpunkt liegt auf Themen wie AEM Projektarchetyp, Cloud Manager-Einrichtung und Entwicklungstools.
+Dieser Kompetenzaustausch konzentriert sich darauf, wie ein neuer AEM-Entwickler ein neues Projekt starten und bereitstellen kann. Der Schwerpunkt liegt auf Themen wie AEM Projektarchetyp, Einrichten von Cloud Manager und Entwicklungstools.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)

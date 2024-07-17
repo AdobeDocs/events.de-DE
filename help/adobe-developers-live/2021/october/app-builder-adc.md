@@ -1,6 +1,6 @@
 ---
-title: Einführung in die Adobe Developer-Konsole
-description: Die Adobe Developer-Konsole ist das Gateway zu Adobe-APIs, Ereignissen, Runtime und App Builder. Greifen Sie mit uns auf einen Überblick über die im Adobe Developer Ecosystem verfügbaren Dienstleistungen und Werkzeuge zu.
+title: Einführung in die Adobe Developer Console
+description: Die Adobe Developer Console ist das Gateway zu Adobe-APIs, Events, Runtime und App Builder. Greifen Sie mit uns auf einen Überblick über die im Adobe Developer Ecosystem verfügbaren Dienstleistungen und Werkzeuge zu.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -18,16 +18,16 @@ ht-degree: 12%
 
 ---
 
-# Einführung in die Adobe Developer-Konsole
+# Einführung in die Adobe Developer Console
 
-Die Adobe Developer-Konsole ist das Gateway zu Adobe-APIs, Ereignissen, Runtime und App Builder. Greifen Sie mit uns auf einen Überblick über die im Adobe Developer Ecosystem verfügbaren Dienstleistungen und Werkzeuge zu.
+Die Adobe Developer Console ist das Gateway zu Adobe-APIs, Events, Runtime und App Builder. Greifen Sie mit uns auf einen Überblick über die im Adobe Developer Ecosystem verfügbaren Dienstleistungen und Werkzeuge zu.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/2Y2DDld)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/2Y2DDld)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337771/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

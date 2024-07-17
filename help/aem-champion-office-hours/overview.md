@@ -66,4 +66,4 @@ Wenn Sie Ihr Wissen und Ihre Nutzung von Adobe Experience Manager erweitern möc
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.

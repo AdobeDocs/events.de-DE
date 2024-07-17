@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Iryna Lagno und Valerii Naida präsentieren in dieser Live-Sitzung am 6. November 2023 einen innovativen Ansatz zum Content Management in Adobe Experience Manager. Erfahren Sie, wie Sie externe Datenquellen wie die Google Places-API in Inhaltsfragmente integrieren und die Canvas-Daten-API und benutzerdefinierte UI-Elemente ermitteln. Diese Sitzung bietet Entwicklern und Content-Managern praktische Kenntnisse, die Workflows optimieren und datengesteuerte Elemente in ihre Inhaltsstrategien einführen möchten.
 
-Fahren Sie mit dem Gespräch fort in [Experience League Communities](https://adobe.ly/48Rl57B).
+Fahren Sie mit der Unterhaltung in [Experience League Communities](https://adobe.ly/48Rl57B) fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425626/?learn=on)

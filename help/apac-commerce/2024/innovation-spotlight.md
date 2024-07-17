@@ -9,13 +9,13 @@ doc-type: Event
 duration: 3392
 last-substantial-update: 2024-03-18T00:00:00Z
 jira: KT-15182
-source-git-commit: 598a8b46ed2e2dff796bb076c5323da3639fe837
+exl-id: dcdf76f7-3327-4564-b68f-925506715ac4
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce Innovation Spotlight-Webinar
 
@@ -26,11 +26,11 @@ In diesem Webinar erfahren Sie mehr über:
 
 * Schnelles, bestes Erlebnis mit PWA Studio
 * Nutzung von App Builder für Out-of-Process-Erweiterbarkeit
-* Innovative Commerce-Funktionen von Miter10, Mitsubishi Motors und anderen wichtigen Einzelhändlern in APAC
+* Innovative Commerce-Funktionen, die von Miter10, Mitsubishi Motors und anderen wichtigen Einzelhändlern in APAC genutzt werden
 
-Da sich die Commerce-Landschaft weiterentwickelt und verändert, ist es wichtig sicherzustellen, dass Sie das Potenzial Ihrer Commerce-Plattform maximieren, um wettbewerbsfähig zu bleiben und Ihren Kunden ein einzigartiges Erlebnis zu bieten. In dieser Sitzung werden wir untersuchen, wie Unternehmen moderne Architektur und die neuesten Funktionen in Adobe Commerce einführen, um weiter voranzukommen.
+Da sich die Commerce-Landschaft weiterentwickelt und verändert, müssen Sie unbedingt sicherstellen, dass Sie das Potenzial Ihrer Commerce-Plattform maximieren, um wettbewerbsfähig zu bleiben und Ihren Kunden ein einzigartiges Erlebnis zu bieten. In dieser Sitzung werden wir untersuchen, wie Unternehmen moderne Architektur und die neuesten Funktionen in Adobe Commerce einführen, um weiter voranzukommen.
 
-## Haupterkenntnisse
+## Wichtige Schritte
 
 * Adobe Commerce bietet eine Reihe von Funktionen, die an spezifische Geschäftsanforderungen angepasst werden können.
 * Der Einsatz von PWI Studio ermöglicht eine schnelle und effiziente Entwicklung und Implementierung innovativer Lösungen.

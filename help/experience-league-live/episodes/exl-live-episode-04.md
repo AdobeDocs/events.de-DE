@@ -1,6 +1,6 @@
 ---
 title: Wer hat darauf geklickt? Und was hat er dann gemacht?
-description: Die Journey Ihres Kunden zu verstehen ist alles. Und die Berichterstellung über Benutzerinteraktionen mit Ihrer Web- oder mobilen Eigenschaft ermöglicht es Ihnen, dieses Verständnis zu erreichen. Adobe [!DNL Analytics] zeigt Ihnen, wer, was, warum und wo von jedem Klick in Ihrer Anwendung, und wir werden tief in die Frage eintauchen, wie wir bei unserer Live-Veranstaltung am 21. Oktober das Beste daraus machen können. Wir zeigen Ihnen, wie Sie Classifications mit der Activity Map verwenden können, um das Benutzerverhalten besser zu verstehen und einfach zu erkennen, welche Klicks zu wertvollen Site-Aktivitäten führen.
+description: Die Journey Ihres Kunden zu verstehen ist alles. Und die Berichterstellung über Benutzerinteraktionen mit Ihrer Web- oder mobilen Eigenschaft ermöglicht es Ihnen, dieses Verständnis zu erreichen. Adobe [!DNL Analytics] zeigt Ihnen, wer, was, warum und wo von jedem Klick in Ihrer Anwendung, und wir werden uns eingehend damit befassen, wie wir bei unserem Live-Event am 21. Oktober das Beste daraus machen können. Wir zeigen Ihnen, wie Sie Classifications mit der Activity Map verwenden können, um das Benutzerverhalten besser zu verstehen und einfach zu erkennen, welche Klicks zu wertvollen Site-Aktivitäten führen.
 landing-page-description: Erfahren Sie, wie Sie Klassifizierungen mit der Activity Map verwenden können, um das Benutzerverhalten besser zu verstehen und zu erkennen, welche Klicks zu wertvollen Site-Aktivitäten führen.
 short-description: Erfahren Sie, wie Sie Klassifizierungen mit der Activity Map verwenden können, um das Benutzerverhalten besser zu verstehen und zu erkennen, welche Klicks zu wertvollen Site-Aktivitäten führen.
 solution: Analytics
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 Die Journey Ihres Kunden zu verstehen ist alles.
 
-Und die Berichterstellung über Benutzerinteraktionen mit Ihrer Web- oder mobilen Eigenschaft ermöglicht es Ihnen, dieses Verständnis zu erreichen. Adobe [!DNL Analytics] zeigt Ihnen, wer, was, warum und wo von jedem Klick in Ihrer Anwendung, und wir werden tief in die Frage eintauchen, wie wir bei unserer Live-Veranstaltung am 21. Oktober das Beste daraus machen können. Wir zeigen Ihnen, wie Sie Classifications mit der Activity Map verwenden können, um das Benutzerverhalten besser zu verstehen und einfach zu erkennen, welche Klicks zu wertvollen Site-Aktivitäten führen.
+Und die Berichterstellung über Benutzerinteraktionen mit Ihrer Web- oder mobilen Eigenschaft ermöglicht es Ihnen, dieses Verständnis zu erreichen. Adobe [!DNL Analytics] zeigt Ihnen, wer, was, warum und wo von jedem Klick in Ihrer Anwendung, und wir werden tief in die Möglichkeiten eintauchen, das Beste aus unserer Live-Veranstaltung am 21. Oktober zu machen. Wir zeigen Ihnen, wie Sie Classifications mit der Activity Map verwenden können, um das Benutzerverhalten besser zu verstehen und einfach zu erkennen, welche Klicks zu wertvollen Site-Aktivitäten führen.
 
 Wir werden auch Tipps zum Verständnis und zur Nutzung von Attributionsberichten enthalten.
 

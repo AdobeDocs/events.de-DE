@@ -1,5 +1,5 @@
 ---
-title: Maschinelles Lernen in AEM – Verbesserte Smart-Tags, intelligentes Layout und mehr
+title: Machine Learning in AEM - Verbesserte Smart-Tags, intelligentes Layout und mehr
 description: Erfahren Sie, wie maschinelles Lernen die Produktivität steigert und neue Anwendungsfälle in Experience Manager 6.4 freischaltet.
 topic-tags: smart-tags
 discoiquuid: c0b3b1f6-5765-44f7-ba12-e17267e1c89e
@@ -9,27 +9,27 @@ duration: 3539
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 100%
+ht-degree: 1%
 
 ---
 
-# Maschinelles Lernen in AEM: Optimierte Smart-Tags, intelligentes Layout und mehr{#machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more}
+# Machine Learning in AEM: Erweiterte Smart-Tags, intelligentes Layout und mehr{#machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more}
 
 >[!VIDEO](https://video.tv.adobe.com/v/22255/?quality=9)
 
-*Veröffentlicht am 18.04.2018*
+*Ausgestellt am 18. April 2018*
 
-**Präsentiert von:**
+**Vorgestellt von:**
 
 Jonas Dahl, Product Manager, Adobe
 
-**Präsentationsfolien**
+**Presenter-Folien**
 
-[Datei herunterladen](assets/aem+gems+ml+and+ai+in+aem+4+17+18.pdf)
+[Datei abrufen](assets/aem+gems+ml+and+ai+in+aem+4+17+18.pdf)
 
 ## Ressourcen {#resources}
 
-[Optimierte Smart-Tags - AEM Assets](https://helpx.adobe.com/de/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
+[Verbesserte Smart-Tags - AEM Assets](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -37,4 +37,4 @@ Jonas Dahl, Product Manager, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Maschinelles Lernen in AEM: Optimierte Smart-Tags, intelligentes Layout und mehr](aem-machine-learning.md)
+>* [Machine Learning in AEM: Erweiterte Smart-Tags, intelligentes Layout und mehr](aem-machine-learning.md)

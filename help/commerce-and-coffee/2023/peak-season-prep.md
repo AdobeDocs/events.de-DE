@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Vorbereitung der Spitzensaison
 
-Während dieser Sitzung von Commerce &amp; Coffee, Corey Gelato einen tiefen Einblick in die besten Best Practices und Strategien der Spitzensaison für 2023, ob Ihre in der traditionellen Weihnachtszeit oder einer branchenspezifischen geschäftigen Zeit. ECommerce ist weiterhin der &quot;Go-to-Channel&quot;für alle Käufer, ob B2C oder B2B. Mithilfe von Techniken, die während dieser Sitzung geteilt werden, kann Ihr Team Ihre Waren und/oder Dienstleistungen auf Ihrer/Ihren Site(s) erfolgreich und effektiv fördern und während einer Spitzensaison jederzeit wettbewerbsfähig bleiben.
+Während dieser Sitzung von Commerce &amp; Coffee taucht Corey Gelato eingehend in die Best Practices und Strategien der Spitzensaison für 2023 ein, egal ob Sie in der traditionellen Weihnachtszeit oder in einer branchenspezifischen geschäftigen Zeit auftreten. ECommerce ist weiterhin der &quot;Go-to-Channel&quot;für alle Käufer, ob B2C oder B2B. Mithilfe von Techniken, die während dieser Sitzung geteilt werden, kann Ihr Team Ihre Waren und/oder Dienstleistungen auf Ihrer/Ihren Site(s) erfolgreich und effektiv fördern und während einer Spitzensaison jederzeit wettbewerbsfähig bleiben.
 
 Nach einer Demonstration von Funktionen wie Inhaltstaging und -vorschau, Promotions, Katalog- und Warenkorbpreisregeln und mehr beantwortet Corey Fragen während einer Live-Q&amp;A-Sitzung.
 

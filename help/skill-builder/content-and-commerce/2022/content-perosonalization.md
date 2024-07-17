@@ -1,5 +1,5 @@
 ---
-title: Innovationen bei der Personalisierung von Inhalten, die einen Geschäftswert bieten
+title: Innovationen in Content Personalization, die einen Geschäftswert bieten
 description: Erfahren Sie mehr über die neuesten Innovationen in der Adobe Content-Lösung und darüber, wie Adobe Innovationen in Commerce-Lösungen vorantreibt.
 solution: Experience Manager, Commerce
 role: Admin, Leader, User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Innovationen bei der Personalisierung von Inhalten, die einen Geschäftswert bieten
+# Innovationen in Content Personalization, die einen Geschäftswert bieten
 
 Content &amp; Commerce
 
@@ -23,6 +23,6 @@ Lernen Sie die neuesten Innovationen der Adobe-Inhaltslösung kennen, die Ihnen 
 
 *Shaun McCran* Produktmarketing für Adobe Commerce/Adobe
 
-*Jamie Brighton* Leiter der Abteilung Produkt und Industrie Marketing EMEA/Adobe
+*Jamie Brighton* Leiter von Product &amp; Industry Marketing EMEA/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343810/?quality=12&learn=on)

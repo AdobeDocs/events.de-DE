@@ -1,6 +1,6 @@
 ---
-title: Konfigurieren des DAM für Unternehmen
-description: Diese Sitzung soll Benutzern helfen, die Nutzung von AEM Assets erfolgreich zu verbessern. Arnold Espos wird sich auf die Anwendungsfälle echter DAM Enterprise-Kunden, ihre Probleme und die Lösungen konzentrieren, die entwickelt wurden, um sie bei der Steigerung ihres Erfolgs bei der Nutzung des DAM zu unterstützen.   Die Teilnehmer werden dann besser verstehen, wie sie das DAM in ihrer Umgebung einsetzen können. Anhand von Fallstudien von echten Kunden können die Teilnehmer, die mit bestehenden DAM-Kunden arbeiten, die neuen Lösungen verstehen, die durch dieses Angebot bereitgestellt werden. Dies kann ihre bestehenden Arbeitsabläufe und ihr Verständnis der Technologie unterstützen.
+title: DAM für Unternehmen konfigurieren
+description: Diese Sitzung soll Benutzern helfen, die Nutzung von AEM Assets erfolgreich zu verbessern. Arnold Espos wird sich auf die Anwendungsfälle echter DAM-Unternehmenskunden, ihre Herausforderungen und die Lösungen konzentrieren, die entwickelt wurden, um sie bei der Steigerung ihres Erfolgs mit DAM zu unterstützen.   Teilnehmer können besser verstehen, wie DAM in ihren Umgebungen verwendet wird. Durch Fallstudien von echten Kunden können Teilnehmer, die mit bestehenden DAM-Kunden zusammenarbeiten, die neuen Lösungen dieses Angebots verstehen, die ihren bestehenden Workflows und dem Verständnis der Technologie helfen können.
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
@@ -9,36 +9,36 @@ duration: 3576
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 80%
+ht-degree: 0%
 
 ---
 
-# Konfigurieren des DAM für Unternehmen{#configuring-the-dam-for-enterprise}
+# DAM für Unternehmen konfigurieren{#configuring-the-dam-for-enterprise}
 
-Diese Sitzung soll den Benutzern helfen, [!DNL AEM Assets] erfolgreicher zu nutzen. Arnold Espos wird sich auf die Anwendungsfälle echter DAM Enterprise-Kunden, ihre Probleme und die Lösungen konzentrieren, die entwickelt wurden, um sie bei der Steigerung ihres Erfolgs bei der Nutzung des DAM zu unterstützen.
+Diese Sitzung soll Benutzern dabei helfen, die Erfolgsauswertung von [!DNL AEM Assets] zu verbessern. Arnold Espos wird sich auf die Anwendungsfälle echter DAM-Unternehmenskunden, ihre Herausforderungen und die Lösungen konzentrieren, die entwickelt wurden, um sie bei der Steigerung ihres Erfolgs mit DAM zu unterstützen.
 
-Die Teilnehmer werden dann besser verstehen, wie sie das DAM in ihrer Umgebung einsetzen können. Anhand von Fallstudien von echten Kunden können die Teilnehmer, die mit bestehenden DAM-Kunden arbeiten, die neuen Lösungen verstehen, die durch dieses Angebot bereitgestellt werden. Dies kann ihre bestehenden Arbeitsabläufe und ihr Verständnis der Technologie unterstützen.
+Teilnehmer können besser verstehen, wie DAM in ihren Umgebungen verwendet wird. Durch Fallstudien von echten Kunden können Teilnehmer, die mit bestehenden DAM-Kunden zusammenarbeiten, die neuen Lösungen dieses Angebots verstehen, die ihren bestehenden Workflows und dem Verständnis der Technologie helfen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19298/?quality=9)
 
-*Veröffentlicht am 05.10.2016*
+*Ausgestellt am 5. Oktober 2016*
 
-**Präsentiert von:**
+**Vorgestellt von:**
 
-* Arnold Espos, Sr. Product Manager, Adobe
+* Arnold Espos, Produkt-Manager, Adobe
 * Josh Ramirez, Head of Product, [!DNL AEM Assets], Adobe
 * Greg Klebus, Group Product Manager, Adobe
 
-**Präsentationsfolien**
+**Presenter-Folien**
 
-[Datei herunterladen](assets/assets-webinar-oct5final.pdf)
+[Datei abrufen](assets/assets-webinar-oct5final.pdf)
 
-## Siehe auch: {#related-links}
+## Verwandte Links {#related-links}
 
 >[!WARNING]
 >
->AEM Versionen 6.4 und älter sind End of Life und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).  Auf archivierte Versionen der Dokumentation kann über diese [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
+>AEM Versionen 6.4 und älter sind End of Life und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Auf archivierte Versionen der Dokumentation kann von dieser [Seite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de) aus zugegriffen werden.
 >
->Informationen zu dieser Sitzung finden Sie unter *Versionshinweise zur Desktop App* in der Dokumentation zu AEM 6.2.
+>Informationen zu dieser Sitzung finden Sie unter *Versionshinweise zur Desktop App* in der AEM 6.2-Dokumentation.
 
-* [Aktualisierungen der Dokumentation zu AEM Assets](https://docs.adobe.com/content/docs/de/aem/recent-documentation-updates.html)
+* [Aktualisierungen der Dokumentation zu AEM Assets](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)

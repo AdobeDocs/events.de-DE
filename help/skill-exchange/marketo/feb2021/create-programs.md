@@ -19,6 +19,6 @@ ht-degree: 0%
 
 In dieser Sitzung erfahren Sie alles über die Programmstruktur einschließlich - Programmtypen, Kanäle und Status und Tags. Außerdem erfahren Sie mehr über das Konzept des Foundation-Programms und über das Programm.
 
-Sie werden diese Sitzung mit einem Verständnis der Einrichtung Ihrer [!DNL Marketo Engage] , um Ihre geschäftlichen Anforderungen möglichst effizient zu erfüllen und Programme zur Ausführung von E-Mails und Webinaren zu erstellen.
+Sie werden in dieser Sitzung erfahren, wie Sie Ihre [!DNL Marketo Engage] -Instanz so einrichten, dass Sie Ihren geschäftlichen Anforderungen möglichst effizient gerecht werden und wie Sie Programme zum Ausführen von E-Mails und Webinaren erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340308/?quality=12&learn=on)

@@ -16,13 +16,13 @@ duration: 3332
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 11%
+ht-degree: 0%
 
 ---
 
 # Master the Art Experience Manager Certification: Get Ready, Get Set, Get Certified!
 
-Dieses Webinar wurde durchgeführt am **28. Juni**, 2023. Bitte sehen Sie sich die Aufnahme unten an.
+Dieses Webinar wurde am 28. Juni 2023 durchgeführt. **** Bitte sehen Sie sich die Aufnahme unten an.
 
 ## Sitzungsbeschreibung
 
@@ -34,17 +34,17 @@ Verpassen Sie nicht diese wunderbare Gelegenheit, Ihre Karrierechancen zu verbes
 
 Fordern Sie noch heute Ihren Spot an und starten Sie mit der Experience Manager-Zertifizierung auf eine Journey in neue Höhen!
 
-## Moderatorinnen und Moderatoren
+## Moderatoren
 
 * Ayana Nickerson, Sr. Credential Certification Program Manager, Adobe
 * Payal Banerjee, Sr. Solutions Consultant, Adobe
 
-## Webinar-Aufzeichnung – 28.06.2023
+## Webinar-Aufzeichnung - 28.06.2023
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421028)
 
 >[!NOTE]
 >
->* Informationen zu sitzungsspezifischen Community-Interaktionen in der Experience League finden Sie in diesem [kontextuellen Thread](https://adobe.ly/3p2CmbA).
+>* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf Experience League diesen [kontextuellen Thread](https://adobe.ly/3p2CmbA)
 >
->* Um automatische Benachrichtigungen zu Webinaren zu erhalten, registrieren Sie sich bitte bei der [AEM-Benutzergruppe von Adobe](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).

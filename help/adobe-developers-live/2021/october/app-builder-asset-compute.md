@@ -14,7 +14,7 @@ duration: 1724
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -22,12 +22,12 @@ ht-degree: 4%
 
 Adobe Experience Manager als Asset compute-Microservices von Cloud Service unterstützen die Entwicklung und Bereitstellung von benutzerdefinierten Sekundären, die benutzerdefinierte Asset-Ausgabedarstellungen generieren. Neben der vordefinierten Inhaltsautomatisierung für die Asset-Produktion im Maßstab können Entwickler mithilfe von Photoshop-APIs auch eigene asset compute-Sekundäre erstellen, die für benutzerspezifischere Anwendungsfälle geeignet sind. In dieser Sitzung werden wir alle Schritte zum Entwickeln eines asset compute-Sekundärs mit App Builder-SDKs und Photoshop-APIs durchlaufen, um benutzerdefinierte Asset-Ausgabedarstellungen zu automatisieren.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/3F6f5sG)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3F6f5sG)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337769/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de)
-- [Übersicht über Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=de)
-- [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=de)
+- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

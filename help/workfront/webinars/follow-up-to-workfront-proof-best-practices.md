@@ -1,5 +1,5 @@
 ---
-title: Fragen Sie den Experten - Follow-up zu Best Practices für Workfront-Tests
+title: Experten fragen - Best Practices für Workfront Proof im Nachgang
 description: Erfahren Sie, warum Sie automatisierte Workflow-Vorlagen verwenden sollten, wie Sie diese erstellen und wie Sie die Testversandeinstellungen anpassen, um den Datenschutz zu gewährleisten. Dieses Webinar wurde am 4. März 2020 aufgenommen.
 doc-type: feature video
 team: Technical Marketing
@@ -9,11 +9,11 @@ duration: 4083
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '1649'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Fragen Sie den Experten - Follow-up zu Best Practices für Workfront-Tests
+# Experten fragen - Best Practices für Workfront Proof im Nachgang
 
 Erfahren Sie, warum Sie automatisierte Workflow-Vorlagen verwenden sollten, wie Sie diese erstellen und wie Sie die Testversandeinstellungen anpassen, um den Datenschutz zu gewährleisten. Dieses Webinar wurde am 4. März 2020 aufgenommen.
 
@@ -43,7 +43,7 @@ In unserem Anwendungsfall lädt der Designer das Dokument hoch, doch der Kundenb
 
 **Antwort**
 
-Wenn Sie den Designer mit einer Zugriffsstufe oder einem Plan in Workfront einrichten, erhalten die Benutzer eine Testlizenz. Wenn ihre Testversandlizenz auf &quot;Supervisor&quot;oder &quot;Administrator&quot;festgelegt ist, können sie neue Versionen von Testsendungen erstellen, ohne den Kundenbetreuer dazu zu bewegen, die neue Version zu konvertieren und einen Workflow anzuwenden. Die neue Version übernimmt lediglich den Workflow aus der vorherigen Version (und kann jetzt auch geändert oder geändert werden).
+Wenn Sie die Designer mit einer Zugriffsebene für Workfront einrichten, erhalten die Benutzer eine Testlizenz. Wenn ihre Testversandlizenz auf &quot;Supervisor&quot;oder &quot;Administrator&quot;festgelegt ist, können sie neue Versionen von Testsendungen erstellen, ohne den Kundenbetreuer dazu zu bewegen, die neue Version zu konvertieren und einen Workflow anzuwenden. Die neue Version übernimmt lediglich den Workflow aus der vorherigen Version (und kann jetzt auch geändert oder geändert werden).
 
 **Frage**
 
@@ -83,7 +83,7 @@ Können Sie bestehende Workflows bearbeiten?
 
 **Antwort**
 
-Ja, Sie möchten zum Workfront-Testversand navigieren und dann im Menü links die Option Workflows auswählen. Dort können Sie Bühnen bearbeiten, Benutzer hinzufügen, Benutzer entfernen, Bühnen hinzufügen usw.
+Ja, Sie möchten zu Workfront Proof navigieren und dann im Menü auf der linken Seite die Option Workflows auswählen. Dort können Sie Bühnen bearbeiten, Benutzer hinzufügen, Benutzer entfernen, Bühnen hinzufügen usw.
 
 **Frage**
 

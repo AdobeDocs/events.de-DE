@@ -22,12 +22,12 @@ Erfahren Sie mehr über die neueste und beste (NEU) Methode zur Migration von Ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428791/?quality=12&learn=on)
 
-**Details**: In dieser Sitzung erfahren Sie die neueste und beste (NEUE) Möglichkeit, Adobe Analytics zum Web SDK zu migrieren. Auf diese Weise können Sie die neuen, schnelleren Bibliotheken, viele neue Funktionen und eine zukunftssichere Implementierung verwenden, während Sie Adobe Experience Platform verwenden, während Sie gleichzeitig Daten einfach an Adobe Analytics (und Target und AAM) senden.
+**Details**: In dieser Sitzung erfahren Sie die neueste und beste (NEU) Methode zur Migration von Adobe Analytics zum Web SDK. Auf diese Weise können Sie die neuen, schnelleren Bibliotheken, viele neue Funktionen und eine zukunftssichere Implementierung verwenden, während Sie Adobe Experience Platform verwenden, während Sie gleichzeitig Daten einfach an Adobe Analytics (und Target und AAM) senden.
 
 Wir konfigurieren einen Datenstrom am Rand und installieren und konfigurieren die Web SDK-Erweiterung in unserer Eigenschaft &quot;Tags&quot;. Wir zeigen, wie Sie verschiedene Regeltypen von der Analytics-Erweiterung zum Web SDK migrieren.
 
-Wenn Sie Fragen stellen oder eine Schnittstelle mit Adobe-Experten und anderen Personen herstellen möchten, besuchen Sie bitte das [Experience League-Community-Diskussion](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
+Um Fragen zu stellen oder eine Schnittstelle mit Adobe-Experten sowie Ihren Kollegen zu erhalten, besuchen Sie bitte die [Experience League Community-Diskussion](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
 
 Weitere Informationen finden Sie unter [Implementieren von Adobe Analytics mit dem Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview).
 
-So nehmen Sie an einem bevorstehenden **Webinar über strategische Schritte zur Implementierung des Web SDK** registrieren [HIER](https://engage.adobe.com/step_by_step_guide_implement.html).
+Um an einem anstehenden **Webinar über strategische Schritte zur Implementierung des Web SDK** teilzunehmen, registrieren Sie [HIER](https://engage.adobe.com/step_by_step_guide_implement.html).

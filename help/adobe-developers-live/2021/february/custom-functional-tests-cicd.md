@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Ihren Code mithilfe benutzerdefinierter Funktionstests zuverlässig in der Produktion bereitstellen können. Qualität sollte nicht schwer sein, auch nicht an einem geschäftigen Freitagnachmittag.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332309/?quality=12&learn=on&hidetitle=true)
 
-Klicks **[here](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** für die Sitzungsfolien.
+Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** .

@@ -19,11 +19,11 @@ Adobe Developers Live führt Entwickler und Erlebnisentwickler mit unterschiedli
 
 Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud präsentieren die neuesten technischen Fortschritte und Entwicklertools, die Design, Content-Erstellungs-Workflows, Dokumentendienste und Customer Experience Management branchenübergreifend ermöglichen.
 
-Für zukünftige Veranstaltungen registrieren **[here](https://developerevents.adobe.com/)**.
+Registrieren Sie sich für zukünftige Ereignisse **[hier](https://developerevents.adobe.com/)**.
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.
 
 <!--
 

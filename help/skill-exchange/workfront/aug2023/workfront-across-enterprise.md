@@ -27,6 +27,8 @@ Dale Whitchurch, EVP, Production Intelligence bei IPG Health wird gemeinsam erl�
 
 Sie werden hören,
 
-Wie sie ihre Prozesse und ihre Infrastruktur im Laufe der Zeit weiterentwickelt haben Praxisbezogene Beratung zur Integration von Workfront in Ihren umfassenderen technischen Stack und ausgereiften wichtigen Workflows wie IPG die Grundlagen für die Inhaltsversorgungskette legt
+Entwicklung von Prozess und Infrastruktur im Laufe der Zeit
+Praktische Ratschläge zur Integration von Workfront in Ihren umfassenderen Technologiestapel und zur Weiterentwicklung wichtiger Workflows
+Wie IPG die Grundlagen für die Inhaltsversorgungskette schafft
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)

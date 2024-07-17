@@ -1,5 +1,5 @@
 ---
-title: 'Commerce & Coffee - Hochsaison: "Fragen Sie mich etwas!"'
+title: 'Commerce & Kaffee - Hochsaison: "Fragen Sie mich etwas!"'
 description: Diese "Fragen Sie mich alles"-Sitzung berührt die Anpassung an Änderungen in letzter Minute für Ihre Commerce-Site während der Spitzensaison. Wir besprechen die Urlaubserwartungen von 2022, Last Minute-Promotions, Checkout-Optionen und Marketing-Strategien, um eine erfolgreiche Spitzensaison zu fördern. Die Präsentation und die Demo werden von einem Live-Q&A mit Corey Gelato begleitet.
 solution: Commerce
 topic: Commerce
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Commerce &amp; Coffee - Hochsaison: &quot;Fragen Sie mich etwas!&quot;
+# Commerce &amp; Kaffee - Hochsaison: &quot;Fragen Sie mich etwas!&quot;
 
 Diese &quot;Fragen Sie mich alles&quot;-Sitzung berührt die Anpassung an Änderungen in letzter Minute für Ihre Commerce-Site während der Spitzensaison. Wir besprechen die Urlaubserwartungen von 2022, Last Minute-Promotions, Checkout-Optionen und Marketing-Strategien, um eine erfolgreiche Spitzensaison zu fördern. Die Präsentation und die Demo werden von einem Live-Q&amp;A mit Corey Gelato begleitet.
 

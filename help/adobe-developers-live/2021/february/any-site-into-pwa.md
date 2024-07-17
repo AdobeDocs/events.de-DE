@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Stellen Sie Ihre Website mit nur einem Klick auf Mobilgeräten und offline verfügbar, unabhängig davon, ob es sich um eine Web-App oder eine herkömmliche Site handelt.
 
-Fahren Sie mit dem Gespräch fort in **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
+Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331742/?quality=12&learn=on&hidetitle=true)

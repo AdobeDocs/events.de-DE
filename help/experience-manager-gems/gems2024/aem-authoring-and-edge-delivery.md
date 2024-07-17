@@ -12,7 +12,8 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
+exl-id: ef0cf02c-1670-4286-bf2e-1563a5307820
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -27,7 +28,7 @@ Dieses Webinar ist abgeschlossen - sehen Sie sich bitte die Aufzeichnung unten a
 
 Dieses AEM GEMs-Webinar enthält eine Präsentation und eine Demo, in der Sie erfahren, wie AEM Authoring mit Edge Delivery Services funktioniert. Wir führen Sie durch den Prozess der Erstellung eines neuen Edge Delivery Services-Projekts, das für AEM Authoring mit AEM Cloud Service als Inhaltsquelle aktiviert ist. Wir zeigen Ihnen, wie Sie von dem schlanken und agilen Entwicklungs-Erlebnis profitieren können, das mit Edge Delivery Services geliefert wird, aber für den Anwender ein WYSIWYG-Authoring-Erlebnis erhalten.
 
-## Moderatorinnen und Moderatoren
+## Moderatoren
 
 * Dirk Rudolph, Mgr, Software Development, Adobe
 
@@ -37,6 +38,6 @@ Dieses AEM GEMs-Webinar enthält eine Präsentation und eine Demo, in der Sie er
 
 >[!NOTE]
 > 
->* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf dem Experience League unsere [kontextueller Thread](https://adobe.ly/3uIj6D7).
+>* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf Experience League unseren [kontextuellen Thread](https://adobe.ly/3uIj6D7).
 >
->* Um Benachrichtigungen zu unseren bevorstehenden Webinaren zu erhalten, registrieren Sie sich bitte unter [Adobe AEM Benutzergruppe](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).

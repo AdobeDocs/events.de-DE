@@ -19,13 +19,13 @@ Nehmen Sie an den folgenden Sitzungen teil, um mehr zu erfahren:
 * So modernisieren Sie das Erlebnismanagement, das die Inhaltserstellung demokratisiert, die kanalübergreifende Bereitstellung zu einem Kinderspiel macht und die Personalisierung skaliert, um jedes Erlebnis zu zählen.
 * So erstellen Sie eine Inhaltslieferkette, die für die Personalisierung skaliert
 * So beschleunigen Sie die Markteinführung neuer Standorte und reduzieren die Abhängigkeit von technischen Ressourcen
-* Die neuesten Innovationen für [!DNL Experience Manager] als Cloud-nativer Service angeboten werden und wie Sie sich an die sich ständig ändernden Markterwartungen anpassen und gleichzeitig die Zukunft beibehalten
+* Die neuesten Innovationen für [!DNL Experience Manager] wurden als Cloud-nativer Service angeboten und wie Sie sich an die sich ständig ändernden Markterwartungen anpassen und gleichzeitig die Zukunft sichern
 * So erstellen Sie Sites schneller mit Adobe [!DNL Experience Manager] als Headless-CMS unter Verwendung von GraphQL und Inhaltsfragmenten
 * Best Practices für Entwickler zur Beschleunigung der Markteinführungszeit für Adobe Experience Manager Sites
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite aufgeführt**.
+>**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.
 
 <table>
   <tr>
@@ -34,7 +34,7 @@ Nehmen Sie an den folgenden Sitzungen teil, um mehr zu erfahren:
       <img alt="Willkommensadresse und AEM - Übersicht" src="assets/welcome.png" >
       </a>
       <div>
-         <a href="2022/welcome.md"><strong>Willkommensadresse und AEM - Übersicht</strong></a>         
+         <a href="2022/welcome.md"><strong>Begrüßungsadresse und AEM - Übersicht</strong></a>         
          <br/><em>mit Elliot Sedegah, Haresh Kumar und Kurt Benkert</em>
       </div>
       <p>
@@ -48,11 +48,11 @@ Nehmen Sie an den folgenden Sitzungen teil, um mehr zu erfahren:
       </a>
       <div>
          <a href="2022/assets-for-all.md"><strong>Erweitern von Adobe [!DNL Experience Manager] Headless mit Adobe [!DNL App Builder]</strong></a>         
-         <br/><em>mit Purnima Rachoor Roy</em>
+         <br/><em>mit Purnima Rachor Roy</em>
       </div>
       <p>
         <br/>
-          Erfahren Sie mehr über [!DNL Assets Essentials] ist das neue [!DNL Digital Asset Management] System für Abteilungen und mittelständische Unternehmen.
+          Erfahren Sie, wie [!DNL Assets Essentials] das neue [!DNL Digital Asset Management]-System für Abteilungen und mittelständische Unternehmen ist.
       </p>
    </td>
    <td>
@@ -60,7 +60,7 @@ Nehmen Sie an den folgenden Sitzungen teil, um mehr zu erfahren:
       <img alt="Erstellen einer skalierbaren Inhaltsversorgungskette" src="assets/supply-chain.png" />
       </a>
       <div>
-         <a href="2022/supply-chain.md"><strong>Erstellen einer skalierbaren Inhaltsversorgungskette</strong></a>         
+         <a href="2022/supply-chain.md"><strong> Erstellen einer skalierbaren Content-Supply-Kette</strong></a>         
          <br/><em>mit Marc Angelinovich</em>
       </div>
       <p>

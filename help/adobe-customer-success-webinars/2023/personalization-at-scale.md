@@ -1,5 +1,5 @@
 ---
-title: Erstellen der Grundlage für die Personalisierung im Maßstab
+title: Erstellen der Foundation für Personalization im Maßstab
 description: Dieses Webinar konzentriert sich auf das Verständnis der Grundlagen, die für die skalierte Orchestrierung der Personalisierung erforderlich sind
 solution: Experience Cloud
 topic: Personalization
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Erstellen der Grundlage für die Personalisierung im Maßstab
+# Erstellen der Foundation für Personalization im Maßstab
 
 Dieses Webinar konzentriert sich auf das Verständnis der Grundlagen, die für die skalierte Orchestrierung der Personalisierung erforderlich sind
 

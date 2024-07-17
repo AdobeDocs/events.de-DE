@@ -1,5 +1,5 @@
 ---
-title: Feierabstimmung mit Commerce Intelligence
+title: Feiertagsbereitschaft mit Commerce Intelligence
 description: In diesem Webinar erfahren Sie, wie Sie Ihre eCommerce-Daten für den Erfolg während der Weihnachtszeit verwenden.
 landing-page-description: Sehen Sie sich dieses aufgezeichnete Webinar an, um zu erfahren, wie Sie Ihre eCommerce-Daten für den Erfolg während der Weihnachtszeit verwenden können.
 short-description: Sehen Sie sich dieses aufgezeichnete Webinar an, um zu erfahren, wie Sie Ihre eCommerce-Daten für den Erfolg während der Weihnachtszeit verwenden können.
@@ -13,15 +13,15 @@ duration: 3197
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Feierabstimmung mit Commerce Intelligence
+# Feiertagsbereitschaft mit Commerce Intelligence
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence wurde früher als [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
+>Adobe Commerce Intelligence hieß vorher [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
 
 Verwenden Sie Ihre eCommerce-Daten für den Erfolg während der Weihnachtszeit. In diesem Webinar werden einige häufige Anwendungsfälle und Methoden für saisonale Analysen vorgestellt, um sie mithilfe wichtiger MBI-Funktionen anzugehen, darunter:
 
@@ -40,5 +40,5 @@ Verwenden Sie Ihre eCommerce-Daten für den Erfolg während der Weihnachtszeit. 
 
 ## Nützliche Ressourcen
 
-[Benutzerhandbuch für Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de)
+[Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de)
 [Commerce Intelligence-Unterstützung](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

@@ -1,6 +1,6 @@
 ---
 title: Wachstumspfad von August 2023 - Experience Makers Spotlight
-description: Aufsteigend - Schulung des Anwenders von Casual Workspace
+description: Aufstieg - Aufklärung der Casual Workspace-Benutzer
 feature-set: Analytics
 feature: Workspace Basics
 role: User
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Aug. 2023: Kompetenzaustausch - Wachstumskurs - Experience Makers Spotlight
 
-Aufsteigend - Schulung des Anwenders von Casual Workspace
+Aufstieg - Aufklärung der Casual Workspace-Benutzer
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)
