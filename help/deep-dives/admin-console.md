@@ -9,9 +9,9 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: 06283989c8d9da03fca8af3d8ceec65097732be4
+source-git-commit: c1716eac12bc496f866db8dce1f67235dc75c319
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,8 @@ ht-degree: 0%
 
 # Vorbereiten auf Marketo Engage auf Adobe Identity
 
-Eine exklusive Schulung zur bevorstehenden Adobe Admin Console-Migration. Dieses Meeting wird im Stil des &quot;Trainers&quot;durchgeführt, sodass Sie Ihre Lerninhalte mitnehmen und Ihre Kapitel über diese bevorstehende Änderung informieren können.
-
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Übersicht
 
-Die Schulungssitzung konzentrierte sich in erster Linie auf die Migration von Marketo Engage zu Adobe Identity mithilfe der Adobe Admin Console. Es wurden wesentliche Aspekte wie die Benutzermigration, Rollen, Berechtigungen, die Arbeitsbereichsverwaltung und den Übergang zur Unterstützung abgedeckt. In der Sitzung wurde der Migrationsprozess detailliert beschrieben, einschließlich der Migration von Abonnements, der Benutzerüberprüfung, der Systemadministratorrollen und der Benutzerverwaltung in der neuen Konsole. Der Schwerpunkt lag dabei auf der E-Mail-Verifizierung, der Verwaltung des Benutzerzugriffs und den Rollen der verschiedenen an der Migration beteiligten Administratoren. Häufige Fragen zu deaktivierten Benutzern, zur Einrichtung von Arbeitsbereichen und zur Unterstützung der Marketo Engage-Community während der Migration wurden ebenfalls beantwortet.
+Der Hauptschwerpunkt dieser Schulungssitzung ist die Migration von Marketo Engage auf Adobe Identity und Adobe Admin Console. Er behandelt wesentliche Aspekte in jeder Phase (Produkt-, Benutzer- und Support-Übergang) der Migration und legt den Schwerpunkt auf die Benutzermigration. Dabei geht es um Änderungen oder Änderungen, Maßnahmen, die von den Administratoren oder Benutzern Ihrer Organisation benötigt werden, sowie um die Kommunikation von Adobe zu jedem Meilenstein. Sie werden tiefer in wichtige Bereiche eingebunden, wie z. B. die Planung eines Migrationsdatums in der Phase vor der Migration, was während der Benutzermigration erwartet wird und wie Sie während der Selbstmigration in der Migrationskonsole navigieren. Schließen Sie die Links zu hilfreichen Ressourcen und 4 wichtige Schritte zur Vorbereitung Ihrer Organisation ab.
