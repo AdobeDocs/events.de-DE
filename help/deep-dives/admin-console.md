@@ -9,18 +9,27 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: c1716eac12bc496f866db8dce1f67235dc75c319
+exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
+source-git-commit: 7358d62eee1468e65b4ec073de1344a54dac41ce
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-
 # Vorbereiten auf Marketo Engage auf Adobe Identity
+
+Dies ist eine Schulung zur Migration von [Adobe Marketo Engage-Abonnements zur Integration in das Adobe Identity Management-System](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Der Inhalt eignet sich am besten für Marketo Engage-Administratoren. Diese Schulung vermittelt Ihnen das notwendige Wissen, um Ihre Organisation funktionsübergreifend vorzubereiten und interne Benutzer über diese bevorstehende Änderung zu informieren.
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Übersicht
 
-Der Hauptschwerpunkt dieser Schulungssitzung ist die Migration von Marketo Engage auf Adobe Identity und Adobe Admin Console. Er behandelt wesentliche Aspekte in jeder Phase (Produkt-, Benutzer- und Support-Übergang) der Migration und legt den Schwerpunkt auf die Benutzermigration. Dabei geht es um Änderungen oder Änderungen, Maßnahmen, die von den Administratoren oder Benutzern Ihrer Organisation benötigt werden, sowie um die Kommunikation von Adobe zu jedem Meilenstein. Sie werden tiefer in wichtige Bereiche eingebunden, wie z. B. die Planung eines Migrationsdatums in der Phase vor der Migration, was während der Benutzermigration erwartet wird und wie Sie während der Selbstmigration in der Migrationskonsole navigieren. Schließen Sie die Links zu hilfreichen Ressourcen und 4 wichtige Schritte zur Vorbereitung Ihrer Organisation ab.
+Diese Schulungssitzung konzentriert sich auf die Migration von Marketo Engage-Abonnements zu Adobe Identity und Adobe Admin Console. Er behandelt wesentliche Aspekte in jeder Phase (Produkt-, Benutzer- und Support-Übergang) der Migration-Journey, wobei der Schwerpunkt auf der Benutzermigration liegt.
+
+## In dieser Sitzung werden Sie voraussichtlich Folgendes hören:
+
+1. Übersicht über Änderungen oder Änderungen, Migrationsaktionen, die von den Administratoren oder Benutzern Ihrer Organisation benötigt werden, und Mitteilungen von Adobe zu jedem Meilenstein.
+1. Zu den wichtigsten Migrationsaktionen gehören die Planung eines Migrationsdatums während der Vormigration, die Erwartung während der Benutzermigration und die Navigation in der Migrationskonsole für Instanzen, die für die Selbstmigration infrage kommen.
+1. Hilfreiche Ressourcen und vier wichtige Schritte, die Administratoren durchführen sollten, um Ihr Unternehmen auf die bevorstehenden Änderungen vorzubereiten.
