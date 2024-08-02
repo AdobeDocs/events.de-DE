@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: 8191106e64cbfb6337e37c411e56630d59aabe2e
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,6 @@ Im Rahmen dieses AEM GEMs-Webinars werden wir zeigen, wie Sie Ihr eigenes privat
 
 >[!NOTE]
 >
->* Für webinar-/themenspezifische Community-Interaktionen auf diesem Webinar auf Experience League besuchen Sie bitte den entsprechenden [kontextuellen Thread](tbd).
+>* Für webinar-/themenspezifische Community-Interaktionen auf diesem Webinar auf Experience League besuchen Sie bitte den entsprechenden [kontextuellen Thread](https://adobe.ly/4f1jhMo).
 >
 >* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).
