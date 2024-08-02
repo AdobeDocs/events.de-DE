@@ -9,16 +9,17 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # Webinar-Datum: 31. Juli 2024
 
-Dieses Webinar wird am Mittwoch, den 31. Juli bis 17.00 Uhr CEST / 8.00 Uhr PDT / 20.30 Uhr IST stattfinden. Bitte beachten Sie, dass nur eine Registrierung für dieses Webinar erforderlich ist - registrieren Sie [hier](https://adobe.ly/3LmXfGk).
+Dieses Webinar ist abgeschlossen - sehen Sie sich bitte die Aufzeichnung unten an.
 
 ## Integrieren privater GitHub-Repositorys in AEM Cloud Manager
 
@@ -34,12 +35,14 @@ Im Rahmen dieses AEM GEMs-Webinars werden wir zeigen, wie Sie Ihr eigenes privat
 * Shankari Panchapakesan, Principal Product Manager, Adobe
 * Florin Stancu, Software Development Engineer, Adobe
 
-## Webinarregistrierung
+## Webinar-Aufzeichnung
+
+>[!VIDEO](https://video.tv.adobe.com/v/3432350)
+
+## Webinar-Community-Interaktion
 
 >[!NOTE]
-> 
->* Dieses Webinar ist kostenlos, nur eine Registrierung ist erforderlich. Registrieren Sie [hier](https://adobe.ly/3LmXfGk).
 >
->* Für webinar-/themenspezifische Community-Interaktionen auf diesem Webinar auf Experience League besuchen Sie bitte den entsprechenden [kontextuellen Thread](https://adobe.ly/4f1jhMo).
+>* Für webinar-/themenspezifische Community-Interaktionen auf diesem Webinar auf Experience League besuchen Sie bitte den entsprechenden [kontextuellen Thread](tbd).
 >
 >* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).
