@@ -8,7 +8,7 @@ doc-type: Event
 duration: 2740
 last-substantial-update: 2024-08-05T00:00:00Z
 jira: KT-15890
-source-git-commit: aa6147e16b48c10fa163e3a939d1edde30f7989c
+source-git-commit: d2954c2c4ed7b83ca6084395e3d414f76109acb9
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 ---
 
 
-# Die Marketing-Karte: Ein umfassender Leitfaden zur Strategien, Erstellung und Analyse von Marketo-Kampagnen
+# Die Marketing-Karte: Ein umfassender Leitfaden zur Strategie, Erstellung und Analyse von Marketo-Kampagnen
 
 In dieser Marketo-Benutzergruppensitzung erfahren Sie, wie wichtig die Planung im Kampagnenerstellungsprozess ist, einschließlich des Verständnisses der Marketingstrategie und der Validierung dieser Strategie innerhalb der Marketo-Architektur.
 
