@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
+source-git-commit: d692337e230540fe667072bd12351fd62c5aa4d2
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '432'
 ht-degree: 5%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 5%
 
 + [Übersicht](overview.md)
 + Episoden {#episodes}
+   + [Ep 38: Spotlight im Sommer - In Adobe Journey Optimizer müssen drei Funktionen getestet werden](episodes/exl-live-episode-08-28-24.md)
    + [Ep 37: Wie die neuesten Adobe Real-Time CDP-Versionen die Nadel für Ihr Unternehmen bewegen können](episodes/exl-live-episode-06-26-24.md)
    + [Ep 36: So migrieren Sie Analytics auf das Web SDK](episodes/exl-live-episode-05-16-24.md)
    + [Ep 35: Neuer code-basierter Erlebniskanal in Journey Optimizer](episodes/exl-live-episode-04-24-24.md)
