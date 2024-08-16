@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinare
 breadcrumb-title: Adobe Customer Success Webinare
 user-guide-description: Adobe Customer Success-geführte Webinare, mit denen Sie Ihre Investition in Adobe Experience Cloud optimieren können. Erhalten Sie wertvolle Einblicke, um den Nutzen zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: 32b9aa55a48d744e695ca23b88f927c9fc538bb0
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '163'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,9 @@ ht-degree: 1%
    + [Strategische Führung](2024/strategic-leadership.md)
    + [Zuordnung von Nutzungsszenarios zu Lösungsfunktionen](2024/use-case-mapping.md)
    + [Grundlagen zur Web SDK-Migration](2024/web-sdk-migration.md)
+   + [Integrationen der AEP-App-Dienste für Kundenanwendungsfälle](2024/aep-apps-services-integrations.md)
+   + [Commerce &amp; Kaffee: Strategien für B2B eCommerce](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
+   + [Marketo Measure und Modelle: Aktivitäten und benutzerdefinierte Modelle](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023 {#2023}
    + [Erstellen der Foundation für Personalization im Maßstab](2023/personalization-at-scale.md)
    + [Change Management](2023/change-management.md)
