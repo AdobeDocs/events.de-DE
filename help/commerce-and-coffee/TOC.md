@@ -2,10 +2,10 @@
 user-guide-title: Commerce- und Kaffeeereignisse
 breadcrumb-title: Commerce- und Kaffeeereignisse
 user-guide-description: Adobe Commerce und Coffee sind eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zur Verwendung von Adobe Commerce teilen.
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: c68bc0fbcdefc563819294a6f9a2dc842951c4b2
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 6%
+source-wordcount: '85'
+ht-degree: 5%
 
 ---
 
@@ -16,6 +16,7 @@ ht-degree: 6%
 + 2024 {#2024}
    + [E-Commerce-Grundlagen](2024/ecommerce-essentials.md)
    + [Personalisieren von eCommerce-Erlebnissen mit KI](2024/personalize-ecommerce.md)
+   + [Strategien für B2B eCommerce](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
 + 2023 {#2023}
    + [Fragen Sie mich irgendwas](2023/ask-me-anything.md)
    + [Vorbereitung der Spitzensaison](2023/peak-season-prep.md)
