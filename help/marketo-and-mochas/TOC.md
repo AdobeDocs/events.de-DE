@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 6c14ae9f4f638b202afa922fe814429a8742160e
+source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 7%
+source-wordcount: '59'
+ht-degree: 6%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 7%
    + [Lead-Krankenpflege erfolgreich](2024/lead-nurture-success.md)
    + [Neue Discover-Dashboards](2024/new-discover-dashboard.md)
    + [Aufzeichnung von Attributions-Dashboards](2024/attribution-dashboard-recording.md)
+   + [Aktivitäten und benutzerdefinierte Modelle](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023 {#2023}
    + [Attribution](2023/attribution.md)
    + [Zustellbarkeit - Teil 1](2023/deliverability-part-one.md)

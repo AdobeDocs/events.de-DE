@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinare
 breadcrumb-title: Adobe Customer Success Webinare
 user-guide-description: Adobe Customer Success-geführte Webinare, mit denen Sie Ihre Investition in Adobe Experience Cloud optimieren können. Erhalten Sie wertvolle Einblicke, um den Nutzen zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 3bcce2d2a01f5ed1abbc8fccd59512fe8a070fae
+source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 1%
 
 ---
@@ -14,17 +14,20 @@ ht-degree: 1%
 
 + [Adobe Customer Success Webinare](overview.md)
 + 2024 {#2024}
+   + [Integrationen der AEP-App-Dienste für Kundenanwendungsfälle](2024/aep-apps-services-integrations.md)
+   + [AEP-Anwendungsfallplanung](2024/aep-use-case-planning.md)
    + [Adobe Workfront - Leere Teams](2024/workfront-lean-teams.md)
    + [Data Stream-Priorisierung](2024/data-stream-prioritization.md)
    + [Effektive Änderungsverwaltung](2024/effective-change-management.md)
    + [Empowering Lean Teams](2024/empowering-lean-teams.md)
    + [Expedia wechselt von Adobe Analytics zu Customer Journey Analytics](2024/expedia-aa-to-cja.md)
+   + [Grundlagen des Workfront-Systems und der Gruppenadministratorsicherheit](2024/workfront-admin-guardianship.md)
    + [Hyperpersonalisierung](2024/hyperpersonalization.md)
+   + [Journey Optimizer Mobile-Funktionen](2024/journey-optimizer-mobile-capabilities.md)
    + [Strategische Führung](2024/strategic-leadership.md)
    + [Zuordnung von Nutzungsszenarios zu Lösungsfunktionen](2024/use-case-mapping.md)
    + [Grundlagen zur Web SDK-Migration](2024/web-sdk-migration.md)
-   + [Integrationen der AEP-App-Dienste für Kundenanwendungsfälle](2024/aep-apps-services-integrations.md)
-   + [Marketo Measure und Modelle: Aktivitäten und benutzerdefinierte Modelle](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
+
 + 2023 {#2023}
    + [Erstellen der Foundation für Personalization im Maßstab](2023/personalization-at-scale.md)
    + [Change Management](2023/change-management.md)
