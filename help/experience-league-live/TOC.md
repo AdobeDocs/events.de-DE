@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
+source-git-commit: eacc80e3015303ec35d1a3d115b3117b11fb868e
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '461'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Übersicht](overview.md)
 + Episoden {#episodes}
+   + [Ep 40: KI-Bash - Entsperren der Leistung des KI-Assistenten in Adobe Experience Platform-Anwendungen und Campaign](episodes/exl-live-episode-09-26-24.md)
    + [Ep 39: Sind Sie bereit, Ihre mobile Analytics-App zu optimieren?](episodes/exl-live-episode-09-18-24.md)
    + [Ep 38: Spotlight im Sommer - In Adobe Journey Optimizer müssen drei Funktionen getestet werden](episodes/exl-live-episode-08-28-24.md)
    + [Ep 37: Wie die neuesten Adobe Real-Time CDP-Versionen die Nadel für Ihr Unternehmen bewegen können](episodes/exl-live-episode-06-26-24.md)
