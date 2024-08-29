@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Sammlung von Aufzeichnungen von Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '581'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,16 @@ ht-degree: 5%
 # The Skill Exchange {#the-skill-exchange-recordings}
 
 + [Übersicht](overview.md)
++ Adobe Commerce {#commerce}
+   + August 2024 {#aug2024}
+      + [Leistungssteigerung in Adobe Commerce](commerce/aug2024/commerce-performance.md)
+      + [Maximieren von SEO über alle Migrationsarbeitsabläufe hinweg](commerce/aug2024/seo-migration-workflows.md)
 + Analytics {#analytics}
+   + August 2024 {#aug2024}
+      + [Allgemeine Attributionskonzepte](analytics/aug2024/attribution-concepts.md)
+      + [Aufdecken wertvoller Einblicke](analytics/aug2024/uncover-valuable-insights.md)
+      + [Verwenden berechneter Metriken](analytics/aug2024/calculated-metrics.md)
+      + [Visualisierungen mit Analysis Workspace](analytics/aug2024/spotlight-visualizations.md)
    + August 2023 {#aug2023}
       + [Alle Segmente](analytics/aug2023/spotlight-segments.md)
       + [Daten analysieren](analytics/aug2023/analyze-the-data.md)
@@ -77,6 +86,10 @@ ht-degree: 5%
       + [Marketingkanäle, bitte verantwortungsbewusst verwenden](analytics/jun2021/marketing-channels.md)
       + [Alles zusammenbringen](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + August 2024 {#aug2024}
+      + [AEM Sites mit Universal Editor](aem/aug2024/universal-editor.md)
+      + [Master-Headless- und SPA-Editor-Ansätze](aem/aug2024/headless-spa-editor.md)
+      + [Digital Asset Management Strategies](aem/aug2024/spotlight-dam-strategies.md)
    + August 2023 {#aug2023}
       + Entwicklerverfolgung {#developer-track}
          + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
@@ -125,10 +138,13 @@ ht-degree: 5%
    + August 2024 {#aug2024}
       + [Öffnungs-Keynote](workfront/aug2024/keynote.md)
       + [Anpassen des Lastenausgleichs](workfront/aug2024/workload-balancer.md)
+      + [Datenqualität](workfront/aug2024/data-quality.md)
       + [Verbessern des Genehmigungserlebnisses](workfront/aug2024/approval-experience.md)
+      + [Workfront Fusion und Foren](workfront/aug2024/fusion-boards.md)
       + [Marketing Content Supply Chain](workfront/aug2024/content-supply-chain.md)
       + [Prozessverbesserungen und operative Effizienz](workfront/aug2024/spotlight-process-operations.md)
       + [Journey für Kundenbindung und Interaktion](workfront/aug2024/retention-engagement-journey.md)
+      + [Anpassen der Workfront-Startseiten](workfront/aug2024/tailoring-homepages.md)
       + [Transformieren von Prozessflüssen zu Workfront gewinnt](workfront/aug2024/spotlight-process-flows.md)
    + August 2023 {#aug2023}
       + [Einführung in Pinnwände](workfront/aug2023/introduction-to-boards.md)
