@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Sammlung von Aufzeichnungen von Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+source-git-commit: 28a55b5e5e6716f970585d721edd5ab411d3aa45
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '613'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 5%
 + [Übersicht](overview.md)
 + Adobe Commerce {#commerce}
    + August 2024 {#aug2024}
-      + [Öffnungs-Keynote](workfront/aug2024/keynote.md)
+      + [Öffnungs-Keynote](commerce/aug2024/keynote.md)
       + [Leistungssteigerung in Adobe Commerce](commerce/aug2024/commerce-performance.md)
       + [Effektive Erweiterbarkeit](commerce/aug2024/extensibility.md)
       + [Maximieren von SEO über alle Migrationsarbeitsabläufe hinweg](commerce/aug2024/seo-migration-workflows.md)
@@ -94,7 +94,6 @@ ht-degree: 5%
       + [AEM Sites mit Universal Editor](aem/aug2024/universal-editor.md)
       + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
       + [Zusammenhängende Erlebnisse mit AEM Anpassung und Governance](aem/aug2024/customize-elements.md)
-      + [Elemente anpassen](aem/aug2024/customize-elements.md)
       + [Master-Headless- und SPA-Editor-Ansätze](aem/aug2024/headless-spa-editor.md)
       + [Digital Asset Management Strategies](aem/aug2024/spotlight-dam-strategies.md)
    + August 2023 {#aug2023}
