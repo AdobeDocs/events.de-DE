@@ -2,10 +2,10 @@
 user-guide-title: Adobe Customer Success Webinare
 breadcrumb-title: Adobe Customer Success Webinare
 user-guide-description: Adobe Customer Success-geführte Webinare, mit denen Sie Ihre Investition in Adobe Experience Cloud optimieren können. Erhalten Sie wertvolle Einblicke, um den Nutzen zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
+source-git-commit: 04f746e0ad3429f2810a2a8cd9eae123a70ac05a
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 1%
+source-wordcount: '212'
+ht-degree: 0%
 
 ---
 
@@ -14,21 +14,24 @@ ht-degree: 1%
 
 + [Adobe Customer Success Webinare](overview.md)
 + 2024 {#2024}
-   + [Integrationen der AEP-App-Dienste für Kundenanwendungsfälle](2024/aep-apps-services-integrations.md)
-   + [AEP-Anwendungsfallplanung](2024/aep-use-case-planning.md)
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront - Leere Teams](2024/workfront-lean-teams.md)
+   + [Integrationen der AEP-App-Dienste für Kundenanwendungsfälle](2024/aep-apps-services-integrations.md)
+   + [AEP-Anwendungsfallplanung](2024/aep-use-case-planning.md)
+   + [KI-gestütztes Kopieren von Kopien](2024/ai-copywriting.md)
    + [Data Stream-Priorisierung](2024/data-stream-prioritization.md)
    + [Effektive Änderungsverwaltung](2024/effective-change-management.md)
    + [Empowering Lean Teams](2024/empowering-lean-teams.md)
    + [Expedia wechselt von Adobe Analytics zu Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Grundlagen des Workfront-Systems und der Gruppenadministratorsicherheit](2024/workfront-admin-guardianship.md)
    + [Erste Schritte mit Adobe Journey Optimizer Analysis](2024/getting-started-ajo-analysis.md)
+   + [Erste Schritte mit Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
    + [Leere Teams und Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Verwalten von Cookies und Datenschutz](2024/mastering-cookies-data-privacy.md)
    + [Target Personalization](2024/target-personalization.md)
    + [Hyperpersonalisierung](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile-Funktionen](2024/journey-optimizer-mobile-capabilities.md)
+   + [Integration von Real-time Customer Data Platform und Marketo](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platform-Migrationsbereitschaft](2024/rtcdp-migration-readiness.md)
    + [Strategische Führung](2024/strategic-leadership.md)
    + [Zuordnung von Nutzungsszenarios zu Lösungsfunktionen](2024/use-case-mapping.md)
