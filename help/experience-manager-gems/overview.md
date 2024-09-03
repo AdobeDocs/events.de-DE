@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM-Sitzungen
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 ## Bevorstehende AEM GEMs-Webinar - Was gibt es Neues in Rapid Development Environments für AEM?
 
 Dieses Webinar wird am Mittwoch, den 4. September bis 17.00 Uhr CEST / 8.00 Uhr PDT / 20.30 Uhr IST stattfinden. Bitte beachten Sie, dass für dieses Webinar nur eine Registrierung erforderlich ist.
-Wenn Sie Interesse haben, sich anzumelden, registrieren Sie bitte [hier](https://adobe.ly/3LTT3hg).
+Wenn Sie Interesse haben, sich anzumelden, registrieren Sie bitte [hier](https://adobe.ly/3yWr9OY).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
