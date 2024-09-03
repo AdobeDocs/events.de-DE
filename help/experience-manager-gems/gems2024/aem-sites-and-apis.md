@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
+source-git-commit: 8727d2d86d807d31ca35e3951fd65da78acd9cbd
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -24,8 +24,7 @@ Um Mitglied zu werden, registrieren Sie bitte [hier](https://adobe.ly/4g6TYck).
 
 ## Entsperren der Macht von AEM Sites: Master der Content Management-APIs
 
-Die Methoden zur Verwendung von AEM Sites entwickeln sich schnell und fügen den herkömmlichen Benutzerinteraktionen API-First-Muster hinzu. Ob Sie Ihre Vorgänge optimieren oder Ihre Automatisierung verbessern möchten, diese Trends zu übertreffen, ist von entscheidender Bedeutung. Nehmen Sie an einer ausführlichen Sitzung teil, in der wir Ihnen mit zukunftsweisenden Updates in AEM Sites begegnen und erfahren, wie diese Ihre Content-Management-Strategie stärken können.
-In dieser Sitzung werden Sie Folgendes entdecken:
+Die Methoden zur Verwendung von AEM Sites entwickeln sich schnell und fügen den herkömmlichen Benutzerinteraktionen API-First-Muster hinzu. Ob Sie Ihre Vorgänge optimieren oder Ihre Automatisierung verbessern möchten, diese Trends zu übertreffen, ist von entscheidender Bedeutung. Nehmen Sie an einer ausführlichen Sitzung teil, in der wir Ihnen mit zukunftsweisenden Updates in AEM Sites begegnen und erfahren, wie diese Ihre Content-Management-Strategie stärken können. In dieser Sitzung werden Sie Folgendes entdecken:
 * Erweiterte OpenAPI-Standards: Informieren Sie sich über die neuesten OpenAPI-Implementierungen für nahtlose CRUD-Vorgänge in AEM strukturierten Inhalten.
 * Eventing und Webhooks: Erfahren Sie, wie die Eventing- und Webhook-Funktionen von Adobe I/O Prozesse anhand von Inhalten und Statusänderungen in AEM automatisieren können.
 * Neue REST-APIs für die Automatisierung von Übersetzungen: Machen Sie sich mit den neuen REST-APIs vertraut, die Ihre Arbeitsabläufe für die Übersetzung von Inhalten in AEM vereinfachen und optimieren.
