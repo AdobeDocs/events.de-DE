@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Sammlung von Aufzeichnungen von Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+source-git-commit: e3f251f2b3030f4d9fdf072aee05be25f06d89b4
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '663'
 ht-degree: 4%
 
 ---
@@ -102,6 +102,7 @@ ht-degree: 4%
       + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
       + [Verbesserung der Inhaltsversorgungskette](aem/aug2024/spotlight-content-supply-chain.md)
       + [Master-Headless- und SPA-Editor-Ansätze](aem/aug2024/headless-spa-editor.md)
+      + [Metadaten, Inhaltsstruktur und Taxonomie](aem/aug2024/dam-performance.md)
       + [Print Production](aem/aug2024/print-production.md)
    + August 2023 {#aug2023}
       + Entwicklerverfolgung {#developer-track}
