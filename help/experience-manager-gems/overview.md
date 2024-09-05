@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM-Sitzungen
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
+source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 <img alt="Digitale Erlebnisse" src="./assets/ADX_Gems.png"/>
 
-## Bevorstehende AEM GEMs-Webinar - Was gibt es Neues in Rapid Development Environments für AEM?
+## Bevorstehende AEM GEMs-Webinar - Entsperren der Macht von AEM Sites: Master der Content Management-APIs
 
-Dieses Webinar wird am Mittwoch, den 4. September bis 17.00 Uhr CEST / 8.00 Uhr PDT / 20.30 Uhr IST stattfinden. Bitte beachten Sie, dass für dieses Webinar nur eine Registrierung erforderlich ist.
-Wenn Sie Interesse haben, sich anzumelden, registrieren Sie bitte [hier](https://adobe.ly/3yWr9OY).
+Dieses Webinar wird am Mittwoch, den 9. Oktober bis 17.00 Uhr CEST / 8.00 Uhr PDT / 20.30 Uhr IST stattfinden. Bitte beachten Sie, dass für dieses Webinar nur eine Registrierung erforderlich ist.
+Wenn Sie Interesse haben, sich anzumelden, registrieren Sie bitte [**hier**](https://adobe.ly/4g6TYck).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +51,12 @@ Wenn Sie Interesse haben, sich anzumelden, registrieren Sie bitte [hier](https:/
 
 ## Vorheriges AEM GEMs-Webinar
 
-Unser aktuellstes AEM GEMs-Webinar zum Thema **Integrieren von AEM Assets in Edge Delivery Services** wurde am 21. August 2024 durchgeführt.**
-Die **Aufnahme** finden Sie hier:
-[Integrieren von AEM Assets mit Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
+Unser aktuellstes AEM GEMs-Webinar zu **Neuigkeiten in der schnellen Entwicklungsumgebung für AEM?** wurde am *4. September 2024* durchgeführt.
+Die **Aufnahme** wird bald verfügbar sein...
+
+<!--
+[What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
+-->
 
 >[!NOTE]
 >
