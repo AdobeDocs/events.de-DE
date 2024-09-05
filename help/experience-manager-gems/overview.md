@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM-Sitzungen
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
+source-git-commit: 3e9a442e67fab387b886d57bebcc1940631c6ffe
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 <img alt="Digitale Erlebnisse" src="./assets/ADX_Gems.png"/>
 
-## Bevorstehende AEM GEMs-Webinar - Entsperren der Macht von AEM Sites: Master der Content Management-APIs
+## Bevorstehende AEM GEMs-Webinar - AEM Sites: Master der Content Management-APIs
 
 Dieses Webinar wird am Mittwoch, den 9. Oktober bis 17.00 Uhr CEST / 8.00 Uhr PDT / 20.30 Uhr IST stattfinden. Bitte beachten Sie, dass für dieses Webinar nur eine Registrierung erforderlich ist.
 Wenn Sie Interesse haben, sich anzumelden, registrieren Sie bitte [**hier**](https://adobe.ly/4g6TYck).
