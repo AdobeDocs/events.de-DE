@@ -3,9 +3,9 @@ user-guide-title: Versionshinweise zu Adobe Experience Manager as a Cloud Servic
 user-guide-breadcrumb: AEMCS Release Events
 user-guide-description: Schneller Überblick über die neuesten Funktionen in Adobe Experience Manager as a Cloud Service
 breadcrumb-title: AEM CS-Versionsaktualisierungen
-source-git-commit: 259d6cf68792ea0f1aa9140b48006a747b63a89c
+source-git-commit: b6a23208f526ff5f32f7ac2b6cf4259cbfd4c39f
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '107'
 ht-degree: 4%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 4%
 
 + [Übersicht](overview.md)
 + 2024 {#2024}
+   + [2024.8.0](2024/2024-8-0.md)
    + [2024.7.0](2024/2024-7-0.md)
    + [2024.6.0](2024/2024-6-0.md)
    + [2024.5.0](2024/2024-5-0.md)
