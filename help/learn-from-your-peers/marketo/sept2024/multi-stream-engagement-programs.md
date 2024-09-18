@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: ac811378b605024bc49232b84932b029fe783c45
+source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -33,3 +33,11 @@ In diesen Sitzungen unter &quot;Ihr Peer&quot;-Team wurde die Einrichtung und Ve
 * Übergangsstrategien: Die Verwendung intelligenter Kampagnen für die Umstellung zwischen Streams innerhalb eines Interaktionsprogramms bietet Kontrolle und Automatisierung. &#x200B; Für eine effektive Lead-Pflege ist es unerlässlich, zu verstehen, wann und wie Transitionsschritte auf Grundlage von Faktoren wie Lebenszyklusphasen oder Inhaltserschöpfung erfolgen.
 
 * Erfolgsmetriken des Programms: Die Definition klarer Erfolgsmetriken für Interaktionsprogramme ist für die Messung der Effektivität von entscheidender Bedeutung. &#x200B; Ob E-Mail-Klicks, Website-Besuche oder andere Aktionen, wenn Erfolgskriterien definiert sind, hilft bei der genauen Bewertung der Leistung und Wirkung der Interaktionsprogramme. &#x200B;
+
+## In dieser Präsentation referenzierte Ressourcen
+
+* [Grundlegendes zu Interaktionsprogrammen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [Grundlegendes zur Interaktionsbewertung](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [Hinzufügen eines Programms zu einem Interaktionsprogramm-Stream](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [Übersicht über die Programmimportbibliothek](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [Community-Diskussionsthread der Marketing-Nation](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
