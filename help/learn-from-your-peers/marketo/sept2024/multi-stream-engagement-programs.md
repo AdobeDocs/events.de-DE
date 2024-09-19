@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
+source-git-commit: 33ed1cb1bc4a5a62fb590ac07ae788a6df812ef4
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Erfahren Sie, wie Sie bei jedem Schritt des Journey systematisch Kundenbeziehung
 
 ## Zusammenfassung 
 
-In diesen Sitzungen unter &quot;Ihr Peer&quot;-Team wurde die Einrichtung und Verwaltung von Interaktionsprogrammen in Marketo besprochen. Es wurden Themen wie Planung, Aufbau und Berichterstellung im Rahmen von Interaktionsprogrammen behandelt. Zu den wichtigsten Punkten gehörten die Wahl zwischen Reisevorschub- und Interaktionsprogrammen, die Verwendung intelligenter Kampagnen für Übergänge, die Entscheidung zwischen E-Mails und Standardprogrammen und das Verständnis der Erfolgsmetriken des Programms. &#x200B; In der Diskussion ging es auch um Themen wie die Umstellung von Inhalten, die Verwaltung verschiedener Sprachen, die Nutzung dynamischer Inhalte und die Einrichtung mehrerer Streams auf der Grundlage von Lebenszyklusphasen oder Produktfamilien. Im Webinar wurde die Bedeutung von Tests, Programmverfügbarkeit und Nutzung von Interaktionsbewertungen für Berichtszwecke hervorgehoben. &#x200B;
+In dieser Sitzung Lernen von Ihren Peers wurde die Einrichtung und Verwaltung von Interaktionsprogrammen in Marketo Engage besprochen. Es wurden Themen wie Planung, Aufbau und Berichterstellung im Rahmen von Interaktionsprogrammen behandelt. Zu den wichtigsten Punkten gehörten die Auswahl zwischen Drip-Pflege- und Interaktionsprogrammen, die Verwendung intelligenter Kampagnen für Übergänge, die Entscheidung zwischen E-Mails und Standardprogrammen und das Verständnis der Erfolgsmetriken des Programms. &#x200B; In der Diskussion ging es auch um Themen wie die Umstellung von Inhalten, die Verwaltung verschiedener Sprachen, die Nutzung dynamischer Inhalte und die Einrichtung mehrerer Streams auf der Grundlage von Lebenszyklusphasen oder Produktfamilien. Im Webinar wurde die Bedeutung von Tests, Programmverfügbarkeit und Nutzung von Interaktionsbewertungen für Berichtszwecke hervorgehoben. &#x200B;
 
 ## Wichtige Schlussfolgerungen
 
-* Die Wahl des richtigen Programmtyps: Es ist von entscheidender Bedeutung, den Unterschied zwischen Reiseförderungs- und Interaktionsprogrammen zu verstehen. &#x200B; Interaktionsprogramme bieten mehr Flexibilität und Komplexität bei der effektiven Pflege von Leads im Vergleich zu Reiseförderprogrammen. &#x200B;
+* Die Wahl des richtigen Programmtyps: Es ist entscheidend, den Unterschied zwischen tropfender Pflege und Interaktionsprogrammen zu verstehen. &#x200B; Interaktionsprogramme bieten mehr Flexibilität und Komplexität bei der Pflege von Leads im Vergleich zu tropfenden Pflegeprogrammen. &#x200B;
 
 * Übergangsstrategien: Die Verwendung intelligenter Kampagnen für die Umstellung zwischen Streams innerhalb eines Interaktionsprogramms bietet Kontrolle und Automatisierung. &#x200B; Für eine effektive Lead-Pflege ist es unerlässlich, zu verstehen, wann und wie Transitionsschritte auf Grundlage von Faktoren wie Lebenszyklusphasen oder Inhaltserschöpfung erfolgen.
 
