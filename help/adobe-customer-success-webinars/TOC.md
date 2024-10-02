@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success Webinare
 breadcrumb-title: Adobe Customer Success Webinare
 user-guide-description: Adobe Customer Success-geführte Webinare, mit denen Sie Ihre Investition in Adobe Experience Cloud optimieren können. Erhalten Sie wertvolle Einblicke, um den Nutzen zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+source-git-commit: 2552636b85de07bec762083103a50b207798d71f
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 0%
    + [Grundlagen des Workfront-Systems und der Gruppenadministratorsicherheit](2024/workfront-admin-guardianship.md)
    + [Erste Schritte mit Adobe Journey Optimizer Analysis](2024/getting-started-ajo-analysis.md)
    + [Erste Schritte mit Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
+   + [Nutzung von KI für Kundenerlebnisse](2024/ai-customer-experience.md)
    + [Leere Teams und Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Verwalten von Cookies und Datenschutz](2024/mastering-cookies-data-privacy.md)
    + [Target Personalization](2024/target-personalization.md)
