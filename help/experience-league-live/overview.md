@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 5475b8048816bfded3e1fdfc9483553d29bed43a
+source-git-commit: aeef8e994a4c54f6884e3090fba028a9888abe4d
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 3%
 
 ---
@@ -30,10 +30,10 @@ Experience League LIVE ist eine Live-Streaming-Show des Experience League-Teams.
       <img alt="Experience League LIVE Okt. 24" src="episodes/assets/ep41-web-banner.png">
     </a>
     <div>
-      <strong>Erfahren Sie, wie die Federated Audience Komposition einen umfassenden Ansatz zur Kuratierung und Aktivierung von Zielgruppen mit Real-Time CDP und Journey Optimizer bietet. </strong>
+      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong>Erfahren Sie, wie die Federated Audience Komposition einen umfassenden Ansatz zur Kuratierung und Aktivierung von Zielgruppen mit Real-Time CDP und Journey Optimizer bietet. </strong></a>
       <br/><em>mit Alyssa Espiritu, Abhijit Ghosh und Arthur Lacroix</em>
       <br/><em>24. Oktober 2024 um 8:30 PT</em>
-      <br/><br/><a href="https://youtube.com/live/ghN-XWdBLvg"> Lesezeichen für die Sendung auf YouTube</a>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241024.html">Für dieses Ereignis registrieren</a>
     </div>
   </td>
 </tr>
