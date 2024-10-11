@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM-Sitzungen
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
+source-git-commit: 670b69aea8b574567487f169579d7c81db7550ad
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,16 @@ ht-degree: 0%
 
 <img alt="Digitale Erlebnisse" src="./assets/ADX_Gems.png"/>
 
-## Bevorstehende AEM GEMs-Webinar - AEM Sites: Master der Content Management-APIs
+## Künftige AEM GEMs-Webinare werden in Kürze bekannt gegeben
 
-Dieses Webinar wird am Mittwoch, den 9. Oktober bis 17.00 Uhr CEST / 8.00 Uhr PDT / 20.30 Uhr IST stattfinden. Bitte beachten Sie, dass für dieses Webinar nur eine Registrierung erforderlich ist.
-Wenn Sie Interesse haben, sich anzumelden, registrieren Sie bitte [**hier**](https://adobe.ly/4g6TYck).
+Registrieren Sie sich bei [Adobe AEM Benutzergruppe](https://aem-augs.adobe.com/), um benachrichtigt zu werden.
 
-<!--  Remove the comment marks, and put the upcoming event in the below table
+<!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
+
+This webinar will be conducted on Wednesday, October 9th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
+If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
+
+
 
 <table style="max-width: 1214px;">
 <tr>
@@ -51,9 +55,9 @@ Wenn Sie Interesse haben, sich anzumelden, registrieren Sie bitte [**hier**](htt
 
 ## Vorheriges AEM GEMs-Webinar
 
-Unser aktuellstes AEM GEMs-Webinar zu **Neuigkeiten in der schnellen Entwicklungsumgebung für AEM?** wurde am *4. September 2024* durchgeführt.
+Unser neuestes AEM GEMs-Webinar zum Thema **Entsperren der Macht von AEM Sites - Master der Content Management-APIs** wurde am *9. Oktober 2024* durchgeführt.
 Die **Aufzeichnung** kann hier angezeigt werden:
-[Was ist neu in den Rapid Development Environments für AEM?](gems2024/rapid-development-environment-news.md)
+[Entsperren der Macht von AEM Sites - Master der Content Management-APIs](gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
