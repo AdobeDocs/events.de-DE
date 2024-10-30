@@ -2,10 +2,10 @@
 user-guide-title: Experience Cloud-Tech-Sitzungen
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud Tech-Sitzungen bieten Kunden lösungsspezifische Webinare an, um die Fallumlenkung proaktiv zu gestalten.
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 14%
+source-wordcount: '119'
+ht-degree: 15%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 14%
 + [Experience Cloud-Tech-Sitzungen](overview.md)
 + 2024 {#2024}
    + Echtzeit-Datenplattform für Inhalte {#rtcdp-office-hours-2024}
+      + [KI-Assistent](2024/ai-assistant.md)
       + [Echtzeit-Timings der Inhaltsdatenplattform](2024/rtcdp-timings.md)
    + Adobe Experience Manager {#aem-office-hours-2024}
       + [Besucher verfolgen](2024/tracking-visitors.md)
