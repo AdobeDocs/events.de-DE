@@ -7,7 +7,7 @@ feature: Audiences
 event-cta-url-live: https://www.youtube.com/watch?v=xp3WRr4XmWM
 event-start-time: 2024-10-30 08:30-7
 event-guests: Sandra Hausmann, Don Huynh, Pravin Prakash Kumar
-source-git-commit: 9b5b41db0e530cc11f0e534d80dbdc4e62f95030
+source-git-commit: 637f0256c1033c6ad016c5289103b09304ae5002
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 In dieser Sitzung stellen Don Huynh und Pravin Prakash Kumar Inhaltskarten vor, einen neuen vielseitigen Messaging-Kanal für Adobe Journey Optimizer, der die Benutzerinteraktion und die Förderung von Unterhaltungen über mobile und Webanwendungen hinweg verbessern soll. Im Gegensatz zu herkömmlichen Push- und In-App-Benachrichtigungen stellen die Inhaltskarten wichtige Aktualisierungen, Promotions und Nachrichten nahtlos in Ihrer App oder Website bereit und sorgen so für ein nicht störendes Benutzererlebnis.
 
 
-![Erlebnisklasse live](assets/30Oct24-webbanner.png)
+![Erlebnisklasse live](/help/experience-league-live/assets/WebBanner-Nov-6-2024.jpg)
 
 [Für dieses Ereignis registrieren](https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=)
 
