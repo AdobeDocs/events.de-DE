@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d45de3bc6cb4ad657cdb29566e2d206641e1532d
+source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '493'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Übersicht](overview.md)
 + Episoden {#episodes}
+   + [Ep 43: Einführung des KI-Assistenten für Zielgruppen für Marketingexperten in Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [Ep 42: Einblenden von Inhaltskarten für Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
    + [Ep 41: Harmonisieren von Zielgruppen mithilfe der Federated Audience Komposition in Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep 40: KI-Bash - Entsperren der Leistung des KI-Assistenten in Adobe Experience Platform-Anwendungen und Campaign](episodes/exl-live-episode-09-26-24.md)
