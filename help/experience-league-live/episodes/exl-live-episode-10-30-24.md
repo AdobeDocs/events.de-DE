@@ -7,22 +7,20 @@ feature: Audiences
 event-cta-url-live: https://www.youtube.com/watch?v=xp3WRr4XmWM
 event-start-time: 2024-10-30 08:30-7
 event-guests: Sandra Hausmann, Don Huynh, Pravin Prakash Kumar
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: fe04eef54d34f1bcc0ce9d164d4d212096908f0a
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # Einblenden von Inhaltskarten für Adobe Journey Optimizer
 
-**Revolutionieren Sie Ihre Interaktionsstrategie mit nahtlosem, nicht störendem persistentem Messaging**
+Erfahren Sie, wie Sie mithilfe von Inhaltskarten in Adobe Journey Optimizer Ihre Interaktionsstrategie mit nahtlosem, nicht störendem persistentem Messaging revolutionieren können.
 
-In dieser Sitzung stellen Don Huynh und Pravin Prakash Kumar Inhaltskarten vor, einen neuen vielseitigen Messaging-Kanal für Adobe Journey Optimizer, der die Benutzerinteraktion und die Förderung von Unterhaltungen über mobile und Webanwendungen hinweg verbessern soll. Im Gegensatz zu herkömmlichen Push- und In-App-Benachrichtigungen stellen die Inhaltskarten wichtige Aktualisierungen, Promotions und Nachrichten nahtlos in Ihrer App oder Website bereit und sorgen so für ein nicht störendes Benutzererlebnis.
+>[!VIDEO](https://video.tv.adobe.com/v/3436281/?quality=12&learn=on)
 
+**Details anzeigen**:
 
-![Erlebnisklasse live](/help/experience-league-live/assets/WebBanner-Nov-6-2024.jpg)
-
-[Für dieses Ereignis registrieren](https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=)
-
+In dieser Sitzung stellen Don Huynh und Pravin Prakash Kumar Inhaltskarten vor und demonstrieren sie, einen vielseitigen Messaging-Kanal für Adobe Journey Optimizer, mit dem die Benutzerinteraktion verbessert und die Kommunikation über mobile und Webanwendungen hinweg gefördert werden soll. Im Gegensatz zu herkömmlichen Push- und In-App-Benachrichtigungen stellen die Inhaltskarten wichtige Aktualisierungen, Promotions und Nachrichten nahtlos in Ihrer App oder Website bereit und sorgen so für ein nicht störendes Benutzererlebnis.
 
