@@ -7,9 +7,10 @@ feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/DYsyii7ldck
 event-start-time: 2024-11-13 09:00-8
 event-guests: Doug Moore,Shivakumar Vaithyanathan,Ali Nazer,Horia Galatanu
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+exl-id: 9740700f-ebc7-488a-acf3-d28eeebefe3d
+source-git-commit: 2abf56d9dea80f750aa77b002ede38e9d2aa96cb
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -18,6 +19,6 @@ ht-degree: 0%
 
 Nehmen Sie an einer spannenden Live-Sitzung teil, in der Adobe Produkt- und Ingenieurexperten Ihnen einen spannenden Einblick in unsere neueste bahnbrechende Innovation geben: AI Assistant for Audiences, der in Kürze nach Adobe Real-Time CDP kommt, um Einblicke und Aktionen von Zielgruppen zu gewinnen. Mithilfe natürlicher Sprache können Marketingexperten den KI-Assistenten für Zielgruppen als neue Ergänzung ihres Teams nutzen, um die Zielgruppengröße zu schätzen, Gründe für Fluktuationen zu verstehen und leistungsstarke, zielorientierte Zielgruppen zu definieren, mehr Anwendungsfälle zu erschließen und Zielgruppen zu erreichen, auf die es ankommt.
 
-[![ExL LIVE 13. November 2024](assets/WebBanner_nov13_2024.jpg)](https://engage.adobe.com/ExpLeagueLive-241113.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3438012/?quality=12&learn=on)
 
-[**Registrieren Sie sich für dieses Ereignis**](https://engage.adobe.com/ExpLeagueLive-241113.html)
+[**Fahren Sie die Diskussion auf der Experience League Community fort**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720)
