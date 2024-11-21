@@ -1,19 +1,19 @@
 ---
 title: Einblicke in Edge Network und Mobile Personalization mit Adobe-Lösungen
-description: Erfahren Sie, wie die Edge-Architektur funktioniert und wie Implementierungen mithilfe von Assurance debuggt werden. Technische Anleitungen zum Einrichten und Konfigurieren des Mobile SDKewusst wie mit Target und AJO personalisierte Erlebnisse bereitgestellt werden
+description: Erfahren Sie, wie Sie mobile Strategien verbessern, die Benutzerinteraktion verbessern und personalisierte Erlebnisse mithilfe von Adobe-Lösungen effektiv bereitstellen können.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3460
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-16137
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+exl-id: 235124fa-ff68-44d7-8e8e-70ce67a19134
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
-
 
 # Einblicke in Edge Network und Mobile Personalization mit Adobe-Lösungen
 
@@ -41,6 +41,6 @@ Bereitstellen personalisierter Erlebnisse mit Target und AJO
 
 * Implementieren spezifischer Erweiterungen wie Zustimmung, Identität und Analytics für benutzerdefinierte Funktionen.
 * Konfigurieren von Erweiterungen für Campaign Classic und Media Messaging.
-* Nutzen von Assurance für Debugging, Validierung und Simulation von Datenerfassungsprozessen.
+* Nutzung von Assurance für Debugging, Validierung und Simulation von Datenerfassungsprozessen.
 
 Indem Unternehmen sich auf diese wichtigen Vorgehensweisen konzentrieren, können sie ihre Mobilgerätestrategien verbessern, die Benutzerinteraktion verbessern und mithilfe von Adobe-Lösungen effektiv personalisierte Erlebnisse bereitstellen.

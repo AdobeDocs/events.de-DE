@@ -1,6 +1,6 @@
 ---
 title: Expedia und führende Marken erweitern ihre Organisation von Adobe Analytics zu Customer Journey Analytics
-description: Erkunden Sie die nächste Analysephase mit Jake Winter, Hauptleitung bei Adswerve, Erika Ulmer, Senior Manager, Data Product Management bei Expedia, Ben Gaines, Director of Product Management bei Adobe und Trevor Paulsen, Director of Product Management bei Adobe, die ihre Erfahrungen mit der organisationsübergreifenden Integration mit Adobe Customer Journey Analytics austauschen. Wir besprechen die neuesten Trends und Best Practices in der Analyse sowie die Herausforderungen und Chancen, die mit der Nutzung von Customer Journey Analytics verbunden sind. Unabhängig davon, ob Sie Analytics-Experte oder Geschäftsführer sind, um die Analysefunktionen Ihres Unternehmens zu verbessern, ist dieses Webinar nicht zu verpassen.
+description: Treten Sie Branchenführern aus Adswerve, Expedia und Adobe bei, während sie Einblicke, Trends und Best Practices für die Nutzung von Adobe Customer Journey Analytics teilen, um die organisatorische Analyse in diesem Muss besuchten Webinar umzuwandeln.
 solution: Analytics, Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Adobe Analytics Integration
@@ -12,9 +12,9 @@ duration: 3933
 last-substantial-update: 2024-05-09T00:00:00Z
 jira: KT-15435
 exl-id: a6bb36bb-6bea-4ee0-b5e3-021d02d3de20
-source-git-commit: 1ee9b50eca2e167af477bd17bceb6c1d4b59311b
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,6 @@ Wir besprechen die neuesten Trends und Best Practices in der Analyse sowie die H
 
 
 ## Wichtige Schlussfolgerungen
-
 
 * Verschaffen Sie sich ein tieferes Verständnis der Daten, einschließlich der Modellierung von Daten mit Feldergruppen und des Verständnisses von Identität und Ereignisumfang.
 * Übermitteln Sie den Zweck und die Vorteile von Customer Journey Analytics (CJA) an Interessengruppen und bieten Sie Schulungen, um Einzelpersonen zu datengesteuerten Entscheidungen zu befähigen.

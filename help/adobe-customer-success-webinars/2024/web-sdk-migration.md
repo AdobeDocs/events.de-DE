@@ -1,6 +1,6 @@
 ---
 title: Grundlagen zur Web SDK-Migration
-description: Machen Sie sich mit den Unterschieden in App Measurement/AT.js im Vergleich zum Web SDK vertraut, mit der Migration, mit Überlegungen zum Zeitpunkt der Migration, den Optionen für die Migration und den erwarteten Datenunterschieden.Wichtige Diskussionspunkte - Was ist das Web SDK? Migrationsschritte und Überlegungen Timing der gemeinsamen Migrationsschritte und Fallstricke zur Vermeidung von Migrationsbewegungen
+description: Machen Sie sich mit den Unterschieden in App Measurement/AT.js im Vergleich zum Web SDK vertraut, mit der Migration, mit Überlegungen zum Zeitpunkt der Migration, den Optionen für die Migration und den erwarteten Datenunterschieden.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3280
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15561
 exl-id: 862e7cf3-079e-4a43-a4c2-3f7157e8efe9
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---

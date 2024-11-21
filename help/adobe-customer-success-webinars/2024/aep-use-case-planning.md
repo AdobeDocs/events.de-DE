@@ -1,6 +1,6 @@
 ---
 title: Von Vision zu Wert - AEP-Anwendungsplanung
-description: Erfahren Sie, wie Sie durch die Definition einer Strategie mit klaren Zielen und Erfolgsfaktoren wirkungsvolle Kundenerlebnisse bereitstellen können. 1) richten Sie sich an Geschäftsergebnisse und KPIs aus, 2) erstellen Sie einen Fahrplan für die Erreichung erreichbarer Werte und 3) nutzen Sie effektiv Adobe-Lösungsfunktionen.
+description: Erfahren Sie, wie Sie effektive Kundenerlebnisse bereitstellen können, indem Sie eine Strategie mit klaren Zielen und Erfolgsfaktoren festlegen, die mit Geschäftsergebnissen und KPIs übereinstimmen, eine Roadmap zur Erreichung erreichbarer Werte erstellen und die Funktionen von Adobe-Lösungen effektiv nutzen.
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
-
 
 # Von Vision zu Wert: AEP-Anwendungsplanung
 

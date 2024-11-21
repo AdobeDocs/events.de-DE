@@ -1,6 +1,6 @@
 ---
 title: Grundlagen des Workfront-Systems und der Gruppenadministratorsicherheit
-description: Erfahren Sie, wie Sie das richtige Verhältnis zwischen Systemadministratoren und Gruppenadministratoren Ihrer Workfront-Instanz ermitteln können und warum es nicht so riskant oder beängstigend sein muss, einige Tasten in das Königreich zu lassen, wie man es ursprünglich wahrnehmen könnte. Diese Aufzeichnung bietet einen Überblick über die Best Practices in Bezug auf die Personalbesetzung für Administratoren, die Verteilung des Verwaltungsaufwands, die Wahrung der Datenintegrität und Skalierbarkeit in den Unternehmensinstanzen, während gleichzeitig ein Teil des Aufwands genutzt wird.
+description: Entdecken Sie Best Practices zur Bestimmung des richtigen Gleichgewichts zwischen Workfront-System- und Gruppenadministratoren, zur Verteilung von Arbeitslasten und zur Wahrung der Datenintegrität, um Ihr Unternehmen effizient und sicher zu skalieren.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16037
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: b5997fdf-7e5c-4a96-8968-0898dd8f1ab7
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
-
 
 # Grundlagen des Workfront-Systems und der Gruppenadministratorsicherheit
 

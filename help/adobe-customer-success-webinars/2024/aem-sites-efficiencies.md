@@ -1,6 +1,6 @@
 ---
 title: AEM Sites-Effizienz - Leistungsoptimierung, Konfiguration und Fehlerbehebung
-description: 'Grundlagen zur Fehlerbehebung bei Adobe Experience Manager (AEM) Sites. Unabhängig davon, ob Sie Leistungsprobleme haben oder sich mit komplexen Konfigurationen befassen, bietet diese Sitzung praktische Fertigkeiten zur Pflege und Optimierung Ihrer AEM. Wir werden Live-Demos über Folien priorisieren und praktische Erfahrung bei der Bewältigung von Herausforderungen in der realen Welt bieten​Wichtige Diskussionspunkte: Virtual-Host-Konfiguration und Domänenzuordnung - Leistungsprobleme - Autorisierung, Identifizierung, Benutzerberechtigungen'
+description: In dieser Sitzung werden die grundlegenden Problembehebungsfähigkeiten für Adobe Experience Manager (AEM) Sites behandelt, die sich auf praktische, praktische Lösungen für Leistungsprobleme, komplexe Konfigurationen und Benutzerberechtigungen konzentrieren.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -9,13 +9,13 @@ doc-type: Event
 duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
-
 
 # AEM Sites-Effizienz: Leistungsoptimierung, Konfiguration und Fehlerbehebung
 

@@ -1,6 +1,6 @@
 ---
 title: Real-Time CDP - Zuordnung von Nutzungsszenarios zu Lösungsfunktionen
-description: In diesem Webinar werden die wichtigsten Möglichkeiten untersucht, Anwendungsfälle zu untersuchen und zu priorisieren, sie bestimmten RTCDP-Funktionen zuzuordnen und sicherzustellen, dass sie sich an geschäftliche Ergebnisse und Werte anpassen. Wichtige Diskussionspunkte - Anwendungsbeispiele RT-CDP löst die spezifischen geschäftlichen Ergebnisse aus und priorisiert sie ​ RT-CDP-Funktionen an priorisierte Anwendungsfälle anzupassen
+description: In diesem Webinar werden die wichtigsten Möglichkeiten untersucht, Anwendungsfälle zu untersuchen und zu priorisieren, sie bestimmten Funktionen der Echtzeit-Kundendatenplattform zuzuordnen und die Ausrichtung an Geschäftsergebnissen und -nutzen sicherzustellen.
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ In diesem Webinar werden die wichtigsten Möglichkeiten untersucht, Anwendungsf�
 
 * Auswirkungen auf Anwendungsfälle wie Retargeting und Personalisierung von Paid Media
 
-**Vergleich der Echtzeit-Kundendatenplattform mit DMP-Audience Manager**
+**Vergleich der Echtzeit-Kundendatenplattform mit DMP Audience Manager**
 
 * Fokus auf Datenaufnahme, Zielgruppen-Management und Datenausgabestrukturen
 
