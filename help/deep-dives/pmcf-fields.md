@@ -1,8 +1,8 @@
 ---
 title: Nutzung von PMCF-Feldern für Skalierbarkeit
-description: Hier wird die Verwendung benutzerdefinierter Felder für Programmmitglieder (PMCF) in Marketo zur Skalierbarkeit behandelt. In der Sitzung werden Definitionen, Zwecke, Regeln und Anwendungsfälle für PMCFs behandelt. Best Practices für die Verwendung von PMCFs zum Ändern von Daten, Referenzinformationen und zur Verfolgung eindeutiger Ereignisdaten wie UTM-Parameter für Webinare. Insgesamt sind PMCFs ein wertvolles Tool für Marketing-Experten, die komplexe Marketingprogramme in Marketo verwalten und skalieren möchten.
+description: Erfahren Sie, wie Sie in Marketo benutzerdefinierte Programmfelder (PMCF) für die Skalierbarkeit nutzen können, einschließlich Best Practices für Datenverwaltung, personalisierte Kommunikation und genauer Berichterstellung, wie im Adobe Marketo Engage Champion Deep Dive-Video erläutert wird.
 solution: Marketo Engage
-feature-set: "Marketo Engage"
+feature-set: Marketo Engage
 feature: Field Management
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -10,13 +10,13 @@ doc-type: Event
 duration: 3059
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15784
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+exl-id: 9fd094c3-d6ad-410e-aeae-1b6bf3f012bd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # Nutzung von PMCF-Feldern für Skalierbarkeit
 

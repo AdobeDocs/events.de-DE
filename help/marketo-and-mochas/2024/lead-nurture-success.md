@@ -1,6 +1,6 @@
 ---
 title: 'Marketo und Mochas: Die Grundlage für den Erfolg der Führungsförderung schaffen'
-description: Treten Sie Unternehmensberatern, Cynthia Chang und Carly Gaver bei, da sie Erkenntnisse über die Maximierung der Lead-Pflege in Adobe Marketo Engage teilen. Mit einer Lead-Pflege können Marketing-Experten über verschiedene Kanäle hinweg konsistent kommunizieren und so die Lücke zwischen anfänglicher Interaktion und Kauf schließen. Außerdem untersuchen wir den Einsatzprogrammtyp, der die Inhaltsverteilung für spezifische Zielgruppen nach einem festgelegten Zeitplan ermöglicht. Mit Marketo Engage-Programmen können Marketingexperten jederzeit Kampagnen entwerfen, Leads und Kunden durch personalisierte Inhalte und Erlebnisse ansprechen. Carly führt auch eine Live-Demonstration durch, die Sie durch die Einrichtung eines Interaktionsprogramms mithilfe der Best Practice-Vorlage aus der Marketo-Programmbibliothek führt. Wie immer beantworten wir auch Ihre Fragen live während der Q&A!
+description: Nehmen Sie an Business Advisoren Cynthia Chang und Carly Gaver teil, um zu erfahren, wie Sie die Lead-Pflege in Adobe Marketo Engage maximieren, Interaktionsprogramme für die Inhaltsverteilung erkunden und eine Live-Demonstration zur Einrichtung eines Interaktionsprogramms mit der Best Practice-Vorlage mit Live-Fragen und Antworten sehen.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3544
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15604
 exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---

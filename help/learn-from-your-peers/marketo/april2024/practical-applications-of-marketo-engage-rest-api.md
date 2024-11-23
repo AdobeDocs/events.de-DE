@@ -1,6 +1,6 @@
 ---
 title: Entsperren der leistungsstarken Workflow-Automatisierung - Praktische Anwendungen der Marketo Engage REST-API
-description: Erfahren Sie mehr über die Leistungsfähigkeit der Marketo Engage REST-API, mit der Sie Ihre Marketing-Vorgangs-Workflows optimieren, manuelle Arbeit reduzieren und Zeit für umsatzsteigernde Aktivitäten sparen können. Mithilfe der REST-API können Sie Automatisierungstools wie Zapier nutzen, um automatisierte Workflows und Programmiersprachen wie Python für massenweise Aktionen durchzuführen. In diesem Webinar erfahren Sie:- Was die Marketo Engage-REST-API ist, wie Sie Ihren ersten API-Benutzer erstellen und wie Sie die API-Nutzung benutzerübergreifend überwachen können.- Erfahren Sie, wie die REST-API in Tools wie Zapier und Programmiersprachen wie Python verwendet werden kann.- Lassen Sie sich von Anwendungsfällen in der Praxis inspirieren, wie die REST-API zur Optimierung typischer Marketing-Operation-Workflows verwendet werden kann, z. B. Zusammenführen von Leads, Erstellen von UTM-Tracking-Programmen und Extraktion von Aktivitätsdaten.
+description: Erschließung des Potenzials der Marketo Engage REST-API zur Automatisierung von Marketing-Workflows, Integration von Tools wie Zapier, Nutzung von Python für Massenaktionen und Optimierung von Aufgaben wie Lead-Zusammenführung, UTM-Tracking und Aktivitätsdatenextraktion.
 feature: REST API
 role: Admin
 level: Beginner, Intermediate
@@ -9,9 +9,9 @@ duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
 exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
-source-git-commit: 18df838cce497b57c9bee0229bd2e7fc2ffde999
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ein gezielter Ansatz für Kommunikation, Anforderungen und Tests in Agile SDLC
-description: Machen Sie sich mit den SDLC-Verfahren (Agile Software Development Life Cycle) vertraut und optimieren Sie den E-Commerce.  Erfahren Sie Anforderungsanalyse und -planung, Strategien für die Verwaltung von Bug- und Feature-Backlogs, Projektplanung für großmaßstäbliche Initiativen, Tipps für Testverfahren, die in verschiedenen Phasen zur Anwendung kommen, Sicherstellung der Entwicklung robuster und zuverlässiger E-Commerce-Websites, Tipps zur Förderung einer effektiven Kommunikation. Die Betonung von Transparenz und Verantwortlichkeit als Schlüsselfaktoren für eine erfolgreiche Projektausführung. Sie können hier auf die Folien zugreifen.
+description: Optimieren Sie die Entwicklung des E-Commerce mit den Agile SDLC-Verfahren, die Anforderungsanalyse, die Verwaltung von Rückständen, Projektplanung, Teststrategien und die Förderung einer transparenten, rechenschaftspflichtigen Kommunikation für eine erfolgreiche Ausführung umfassen.
 solution: Commerce
 feature-set: Commerce
 feature: Best Practices
@@ -13,9 +13,9 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15011
 thumbnail: 3427501.jpeg
 exl-id: 2bb76c43-fda5-4ebb-832e-4ab54166076a
-source-git-commit: a0a222e6636182df97d49c5fce629bf25381394c
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

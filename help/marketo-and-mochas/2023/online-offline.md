@@ -1,6 +1,6 @@
 ---
 title: Online- und Offline-Kanäle
-description: Sehen Sie sich die strategische Konfiguration von Kanälen und Subkanälen, die informative Übersicht über das Online- und Offline-Kanal-Management, die Funktionsweise der Kanäle und die Präsentation produktinterner Demonstrationen und Best Practices von Attributionsexperten an.
+description: Treten Sie Adobe Marketing Automation Business Advisors, Kate Colbert und Elizabeth Lundberg, zu einer ausführlichen 90-minütigen Sitzung zum Optimieren von Online- und Offline-Kanälen mit Marketo Measure Attribution mit strategischen Konfigurationen, Best Practices und Live-Fragen und Antworten ein.
 solution: Marketo Measure
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +10,9 @@ jira: KT-13750
 thumbnail: 3422363.jpeg
 exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
 duration: 5434
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---

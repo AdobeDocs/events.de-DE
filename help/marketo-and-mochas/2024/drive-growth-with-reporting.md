@@ -1,6 +1,6 @@
 ---
 title: Marketo und Mochas - Wachstumsförderung mit Berichterstellung (Fälligkeit Pt 3)
-description: Treten Sie Adobe Business Advisors, Cynthia Chang und Carly Gaver, für Teil 3 unserer Marketo-Webinarreihe zur Steigerung des Geschäftswachstums mit den Reporting-Tools von Marketo bei. In unserem letzten Webinar der Serie besprechen wir, wie Sie die Berichterstellungsfunktionen von Marketo nutzen können, um Ihre Nutzung von Marketo zu optimieren. Wir beginnen mit Tipps, wie Sie die nativen Funktionen und Berichte von Marketo nutzen können, um die Leistung Ihrer Instanz zu überwachen. Anschließend werden wir durch die grundlegende und erweiterte Berichterstellung von Marketo navigieren, um genaue, wirkungsvolle Metriken bereitzustellen, die Ihren Entscheidungsprozess verbessern und zur Erreichung Ihrer Geschäftsziele beitragen. Verpassen Sie diese Gelegenheit nicht, um das Potenzial Ihrer Marketing-Berichte und -Analysen zu maximieren. Wie immer beantworten wir Ihre Fragen während der Q&A Sitzung live!
+description: Treten Sie Adobe Business Advisors, Cynthia Chang und Carly Gaver, bei, um Teil 3 der Marketo-Webinarreihe zur Reife von Unternehmen zu erfahren, wie Sie mit Live-Q&A die Reporting-Tools von Marketo nutzen können, um das Geschäftswachstum zu steigern, die Leistung zu überwachen und wirkungsvolle Metriken bereitzustellen.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
-
 
 # Marketo und Mochas: Wachstumsförderung mit Reporting (Laufzeitrichtlinie 3)
 

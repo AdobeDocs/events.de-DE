@@ -1,6 +1,6 @@
 ---
 title: Commerce & Coffee - E-Commerce-Grundlagen meistern
-description: In dieser Sitzung untersucht Senior Commerce Strategy Consultant, Corey Gelato, die wesentlichen Elemente des E-Commerce-Erfolgs auf Adobe Commerce. Erfahren Sie, wie Sie mühelos maßgeschneiderte Promotions erstellen und Treueprogramme nutzen können, damit Kunden Konversionen fördern und gleichzeitig Kundenerlebnisse personalisieren können. Wir bieten Ihnen einen Überblick darüber, wie Sie Ihre Zahlungen und Sendungen mit nativer Unterstützung von Zahlungsmethoden und Versandunternehmen optimieren können. Corey wird auch eine Live-Demonstration von Kategorievermarktungstechniken von manueller Organisation über automatisiertere Smart-Product-Zuweisungen bis hin zu Best Practices für Content und Customer Management präsentieren.
+description: Corey Gelato behandelt E-Commerce-Grundlagen zu Adobe Commerce und hebt Strategien für personalisierte Merchandising, Treueprogramme, optimierte Zahlungen und Versand sowie wirksame Marketingkampagnen hervor, um Kundeninteraktionen, Kundenbindung und Konversionen zu fördern.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3480
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15605
 exl-id: e9061413-76b5-496c-91a2-a8bb54e1d21d
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---

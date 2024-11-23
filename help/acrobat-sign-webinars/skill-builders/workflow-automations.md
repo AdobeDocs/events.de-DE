@@ -9,9 +9,9 @@ duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
 exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,8 @@ Nutzen Sie alle Automatisierungsfunktionen mit der Lösung Power Automate von Mi
 
 ## Weitere Informationen zur Leistungsautomatisierung
 
-* Power Automate soll eine Lösung ohne Code/Code bereitstellen, die es Nicht-Entwicklern ermöglicht, komplexe Workflows oder Flüsse in Microsoft zu erstellen.
-* Benutzer können damit Aufgaben und Prozesse automatisieren, indem sie vordefinierte Connectoren nutzen, um mit Hunderten anderer Systeme und Anwendungen zu arbeiten. Power Automate ermöglicht Benutzern das Lesen und Schreiben von Daten, das Starten von Prozessen und das Ausführen von Aktionen mithilfe dieser Connectoren durch eine grafische Drag &amp; Drop-Konfiguration. Die Daten werden automatisch bereitgestellt und stehen für die Verwendung in nachfolgenden Triggern und Aktionen zur Verfügung.
-* &#x200B; Power Automate ermöglicht es Benutzern, automatisierte Workflows innerhalb von Adobe Acrobat Sign zu erstellen und zu verwenden, ohne IT-Mitarbeiter einbeziehen zu müssen.
+* Power Automate bietet eine Lösung ohne Code/Code, die es Nicht-Entwicklern ermöglicht, komplexe Workflows oder Flüsse in Microsoft zu erstellen.
+* Benutzer können damit Aufgaben und Prozesse automatisieren, indem sie vordefinierte Connectoren nutzen, um mit Hunderten anderer Systeme und Anwendungen zu arbeiten. Power Automate ermöglicht Benutzern das Lesen und Schreiben von Daten, das Starten von Prozessen und das Ausführen von Aktionen mithilfe dieser Connectoren durch eine grafische Drag &amp; Drop-Konfiguration. Die Daten werden automatisch bereitgestellt und können in nachfolgenden Triggern und Aktionen verwendet werden.
+* &#x200B; Power Automate ermöglicht es Benutzern, automatisierte Workflows in Adobe Acrobat Sign zu erstellen und zu verwenden, ohne IT-Mitarbeiter einzubinden.
 * Diese automatisierten Workflows können die Effizienz und Produktivität steigern und Fehler reduzieren.
 * Power Automate ermöglicht es auch Nicht-Administratoren, Workflows zu erstellen, die Benutzern eine Plattform zur Automatisierung von Aufgaben und Prozessen bieten, indem sie Flüsse erstellen, die verschiedene Anwendungen und Dienste miteinander verbinden. Es bietet eine breite Palette von Triggern und Aktionen, die zum Erstellen benutzerdefinierter Workflows verwendet werden können, die auf spezifischen Geschäftsanforderungen basieren.

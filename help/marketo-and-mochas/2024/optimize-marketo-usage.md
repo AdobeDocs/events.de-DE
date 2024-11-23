@@ -1,6 +1,6 @@
 ---
 title: Marketo und Mochas - Laufzeitpart 2 - Optimierung der Marketo-Nutzung
-description: Einblicke zur Optimierung Ihrer Marketo-Nutzung in Teil 2 unserer 3-teiligen Serie zur Marketo-Reife. Diese Sitzung beginnt mit Best Practices für das Daten-Management, die sich auf Tools wie ein Datenwörterbuch und System-Smart-Listen konzentrieren, um die Datennormalisierung und die Datensatzverwaltung zu verbessern. Anschließend erhalten Sie einen Überblick über die Best Practices für die Integration, in dem sowohl native CRM-Integrationen als auch Plug-ins von Drittanbietern hervorgehoben werden. Unsere Geschäftsberater geben auch Tipps zur Programmoptimierung, um die Personalisierung zu verbessern und Ihre Zielgruppen zu erweitern.
+description: Treten Sie Adobe Optimizer Business Advisors, Cynthia Chang und Carly Gaver, für Teil 2 der Marketo-Reifegeschichte bei, der sich mit den Themen Datenmanagement, CRM-Integrationen und Kampagnenoptimierung befasst, um Ihre Marketo-Nutzung mit Live-Fragen und Antworten zu verbessern.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
-
 
 # Marketo und Mochas: Laufzeitpart 2 - Optimierung der Marketo-Nutzung
 

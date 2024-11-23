@@ -1,6 +1,6 @@
 ---
 title: Marketo und Mochas - Best Practices für die Programmverwaltung
-description: Programme sind eines der wichtigsten Elemente in Marketo. Ob Sie Ordner einrichten, an Benennungskonventionen arbeiten, nach Mitgliedern suchen, den Programmstatus überprüfen oder einfach an der Verwaltung von Best Practices interessiert sind.  Neueste Aktualisierungen der Vorlagen für Programmbibliotheken und der Kreativ-Assets sowie die Freigabe von Best Practices für die Programmverwaltung und eine Demonstration.
+description: Erfahren Sie mehr über die wichtigsten Elemente von Marketo-Programmen, einschließlich Ordnereinrichtung, Benennungskonventionen, Mitgliedersuchen und Prüfungen des Programmstatus, mit aktuellen Updates zu Vorlagen für Programmbibliotheken, Kreativ-Assets und Best Practices-Demonstrationen.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates
@@ -12,9 +12,9 @@ jira: KT-14226
 thumbnail: 3425070.jpeg
 exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
 duration: 3501
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---

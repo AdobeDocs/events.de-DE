@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '76'
 ht-degree: 5%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 5%
 
 + [Übersicht](overview.md)
 + 2024 {#2024}
+   + [Fragen Sie mich irgendwas](2024/ask-me-anything.md)
    + [Fälligkeit Teil 1: Verlegen der Stiftung](2024/maturity-part1-foundation.md)
    + [Fälligkeitsteil 2 - Optimierung der Marketo-Nutzung](2024/optimize-marketo-usage.md)
    + [Fälligkeit Teil 3 - Wachstumsförderung mit Berichterstellung](2024/drive-growth-with-reporting.md)

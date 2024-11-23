@@ -1,6 +1,6 @@
 ---
 title: Vorbereitung der Spitzensaison
-description: Corey Gelato taucht tief in die Best Practices und Strategien der Spitzensaison ein, lernt erfolgreich und effektiv Ihre Waren und/oder Dienstleistungen auf Ihren Seiten zu fördern und bleibt während einer Spitzensaison jederzeit wettbewerbsfähig. Nach einer Demonstration von Funktionen wie Inhaltstaging und -vorschau, Promotions, Katalog- und Warenkorbpreisregeln und mehr beantwortet Corey Fragen während einer Live-Q&A-Sitzung.
+description: Lassen Sie sich von Corey Gelato anschließen, um die Spitzen-Saisonstrategien zu erkunden, einschließlich Promotions, Content Staging und Preisregeln, mit Live-Demonstrationen und Experten-Tipps, die Ihnen helfen, Ihre eCommerce-Site ganzjährig wettbewerbsfähig zu halten.
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
@@ -12,9 +12,9 @@ jira: KT-13992
 thumbnail: 3424390.jpeg
 exl-id: 48986967-b794-4dc9-8a17-d38800ae90aa
 duration: 3580
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
