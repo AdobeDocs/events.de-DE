@@ -3,9 +3,9 @@ title: '[!DNL Experience Makers - Learn from your peers]'
 description: Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optimal nutzen können. [!DNL Experience Makers - Learn from your peers] ist eine globale Reihe virtueller Customer-Lernereignisse, die sich auf die Vertiefung der [!DNL Adobe Experience Cloud] Lösungen konzentrieren.
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
 ### Commerce
 
 <!-- CARDS
-* commerce/2024/agile-sdlc.md
+* commerce/2024/agile-sdlc.md {cta  = Watch event}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -28,7 +28,7 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2024/agile-sdlc.md" title="Ein gezielter Ansatz für Kommunikation, Anforderungen und Tests in Agile SDLC" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1732311562555" alt="Ein gezielter Ansatz für Kommunikation, Anforderungen und Tests in Agile SDLC"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1732325316536" alt="Ein gezielter Ansatz für Kommunikation, Anforderungen und Tests in Agile SDLC"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -41,7 +41,7 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
                     <p class="is-size-6">Optimieren Sie die Entwicklung des E-Commerce mit den Agile SDLC-Verfahren, die Anforderungsanalyse, die Verwaltung von Rückständen, Projektplanung, Teststrategien und die Förderung einer transparenten, rechenschaftspflichtigen Kommunikation für eine erfolgreiche Ausführung umfassen.</p>
                 </div>
                 <a href="commerce/2024/agile-sdlc.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>
@@ -52,19 +52,43 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
 ### Marketo
 
 <!-- CARDS
-* marketo/sept2024/multi-stream-engagement-programs.md
-* marketo/july2024/marketers-map-marketo-campaigns.md
-* marketo/april2024/practical-applications-of-marketo-engage-rest-api.md
-* marketo/jan2024/person-scoring-mastery.md
+* marketo/nov2024/advanced-segmentation.md {cta  = Watch event}
+* marketo/sept2024/multi-stream-engagement-programs.md {cta  = Watch event}
+* marketo/july2024/marketers-map-marketo-campaigns.md {cta  = Watch event}
+* marketo/april2024/practical-applications-of-marketo-engage-rest-api.md {cta  = Watch event}
+* marketo/jan2024/person-scoring-mastery.md {cta  = Watch event}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Advanced Segmentation Audits - Ensuring Precision and Performance in Marketo Engage">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/nov2024/advanced-segmentation.md" title="Erweiterte Segmentierungsprüfungen - Gewährleistung von Präzision und Leistung beim Marketo Engage" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1732325316991" alt="Erweiterte Segmentierungsprüfungen - Gewährleistung von Präzision und Leistung beim Marketo Engage"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/nov2024/advanced-segmentation.md" target="_blank" rel="referrer" title="Erweiterte Segmentierungsprüfungen - Gewährleistung von Präzision und Leistung beim Marketo Engage">Erweiterte Segmentierungsprüfungen - Gewährleistung von Präzision und Leistung in Marketo Engage</a>
+                    </p>
+                    <p class="is-size-6">Nehmen Sie an Adobe Marketo Engage Champion Darshil Shah teil, um erweiterte Segmentierungs-Audits zu meistern, und lernen Sie dabei, Segmentierungsstrategien zu optimieren, Kundenverhalten zu berücksichtigen, die DSGVO-Konformität zu wahren und die Marketing-Performance durch Best Practices und Echtzeit-Aktualisierungen zu verbessern.</p>
+                </div>
+                <a href="marketo/nov2024/advanced-segmentation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Master complex customer journeys with Multi-Stream Engagement Programs">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/sept2024/multi-stream-engagement-programs.md" title="Master komplexer Journey mit Multi-Stream-Interaktionsprogrammen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1732311562876" alt="Master komplexer Journey mit Multi-Stream-Interaktionsprogrammen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1732325316984" alt="Master komplexer Journey mit Multi-Stream-Interaktionsprogrammen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -77,7 +101,7 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
                     <p class="is-size-6">Erfahren Sie, wie Sie bei jedem Schritt des Journey systematisch Kundenbeziehungen mit Multi-Touch- und Multi-Stream-Interaktionsprogrammen fördern und fördern können. Mithilfe von Interaktionsprogrammen können Sie auf die Bedürfnisse und das Verhalten Ihrer Kunden hören und ihnen die nötigen Journey und Inhalte zur Verfügung stellen.</p>
                 </div>
                 <a href="marketo/sept2024/multi-stream-engagement-programs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>
@@ -87,7 +111,7 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/july2024/marketers-map-marketo-campaigns.md" title="Die Marketing-Karte - Ein umfassender Leitfaden zur Strategien, Erstellung und Analyse von Marketo-Kampagnen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1732311562878" alt="Die Marketing-Karte - Ein umfassender Leitfaden zur Strategien, Erstellung und Analyse von Marketo-Kampagnen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1732325316975" alt="Die Marketing-Karte - Ein umfassender Leitfaden zur Strategien, Erstellung und Analyse von Marketo-Kampagnen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -100,7 +124,7 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
                     <p class="is-size-6">Erfahren Sie, wie Sie Marketo Engage-Programme effizient erstellen können, einschließlich Import, Klonen und Erstellen von Grund auf. Passen Sie Marketo Engage-Vorlagen an, um Markenstandards zu erfüllen und Assets und Zeitraumkosten zu verwalten.</p>
                 </div>
                 <a href="marketo/july2024/marketers-map-marketo-campaigns.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>
@@ -110,7 +134,7 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" title="Entsperren der leistungsstarken Workflow-Automatisierung - Praktische Anwendungen der Marketo Engage REST-API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1732311562886" alt="Entsperren der leistungsstarken Workflow-Automatisierung - Praktische Anwendungen der Marketo Engage REST-API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1732325316995" alt="Entsperren der leistungsstarken Workflow-Automatisierung - Praktische Anwendungen der Marketo Engage REST-API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -123,7 +147,7 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
                     <p class="is-size-6">Erschließung des Potenzials der Marketo Engage REST-API zur Automatisierung von Marketing-Workflows, Integration von Tools wie Zapier, Nutzung von Python für Massenaktionen und Optimierung von Aufgaben wie Lead-Zusammenführung, UTM-Tracking und Aktivitätsdatenextraktion.</p>
                 </div>
                 <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>
@@ -133,7 +157,7 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Personenscoring-Mastering mit Marketo Engage - Lokalisierte Nuancen in einem globalen Framework" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1732311562883" alt="Personenscoring-Mastering mit Marketo Engage - Lokalisierte Nuancen in einem globalen Framework"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1732325316999" alt="Personenscoring-Mastering mit Marketo Engage - Lokalisierte Nuancen in einem globalen Framework"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -146,7 +170,7 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
                     <p class="is-size-6">Als Administrator entwickeln Sie das Marketo Engage-Personen-Scoring-Modell basierend auf dem tatsächlichen Geschäftswert der Scoring-Elemente im Vergleich. Aber was ist, wenn dieser Wert auf verschiedenen Märkten variiert? Wie können lokale Einflüsse ermöglicht werden, ohne dass die Konsistenz innerhalb Ihres Unternehmens beeinträchtigt wird? Erfahren Sie, wie Sie das Gleichgewicht finden, indem Sie lokale Flexibilität in das Scoring-Modell integrieren.</p>
                 </div>
                 <a href="marketo/jan2024/person-scoring-mastery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>
@@ -157,7 +181,7 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
 ### Workfront
 
 <!-- CARDS
-* workfront/2024/04/staffing-your-workfront-system-admin-practice.md
+* workfront/2024/04/staffing-your-workfront-system-admin-practice.md {cta  = Watch event}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -166,7 +190,7 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2024/04/staffing-your-workfront-system-admin-practice.md" title="Webinar zur Verwaltung von Workfront-Systemadministratoren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1732311563219" alt="Webinar zur Verwaltung von Workfront-Systemadministratoren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1732325318283" alt="Webinar zur Verwaltung von Workfront-Systemadministratoren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +203,7 @@ Erfahren Sie von Adobe-Experten und Kollegen, wie Sie die Adobe-Lösungen optima
                     <p class="is-size-6">In unserem On-Demand-Webinar erfahren Sie von Dell- und Adobe Workfront-Experten über die strategische Bedeutung von Systemadministratoren. Entdecken Sie Tipps zum Sichern der Vollzeit-Headcount, zur Nutzung der Gruppenadministratorrolle und zur Definition von Rollenprofilen für eine effektive Einrichtung und Skalierbarkeit in Adobe Workfront.</p>
                 </div>
                 <a href="workfront/2024/04/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>

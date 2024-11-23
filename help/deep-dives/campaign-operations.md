@@ -1,5 +1,5 @@
 ---
-title: Adobe Marketo Engage Champion Deep Dive - Automatisierung und Optimierung von Kampagnenoperationen mit der Marketo-API
+title: Automatisieren und Optimieren von Kampagnenoperationen mit der Marketo-API
 description: Erfahren Sie in diesem tiefen Einblick, wie Sie Ihre Marketing-Vorgänge mit der Marketo-API optimieren können. Hier erfahren Sie, wie Sie sich wiederholende Aufgaben automatisieren können, wie z. B. die Erstellung von E-Mail-Newslettern, die Verfolgung von Programmen, die Fusion von Duplikaten, die Aktualisierung von Programmkosten und das Klonen von Programmen, sodass Sie sich auf strategische Initiativen konzentrieren können.
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -7,9 +7,9 @@ doc-type: Event
 duration: 4370
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16520
-source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
+source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '339'
 ht-degree: 1%
 
 ---

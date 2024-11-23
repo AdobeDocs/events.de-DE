@@ -3,9 +3,9 @@ title: Marketo und Mochas
 description: Marketo On-Demand Events ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zur optimalen Verwendung von Adobe Marketo teilen.
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
-source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
+source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
 workflow-type: tm+mt
-source-wordcount: '1083'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
@@ -18,24 +18,24 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
 
 <!-- CARDS
 
-* 2024/ask-me-anything.md
-* 2024/attribution-dashboard-recording.md
-* 2024/drive-growth-with-reporting.md
-* 2024/lead-nurture-success.md
-* 2024/marketo-measure-and-mochas-activities-and-custom-models.md
-* 2024/maturity-part1-foundation.md
-* 2024/new-discover-dashboard.md
-* 2024/optimize-marketo-usage.md
+* 2024/ask-me-anything.md {cta  = Watch event}
+* 2024/attribution-dashboard-recording.md {cta  = Watch event}
+* 2024/drive-growth-with-reporting.md {cta  = Watch event}
+* 2024/lead-nurture-success.md {cta  = Watch event}
+* 2024/marketo-measure-and-mochas-activities-and-custom-models.md {cta  = Watch event}
+* 2024/maturity-part1-foundation.md {cta  = Watch event}
+* 2024/new-discover-dashboard.md {cta  = Watch event}
+* 2024/optimize-marketo-usage.md {cta  = Watch event}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Ask Me Anything Recording">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Ask Me Anything">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/ask-me-anything.md" title="Irgendwelche Aufzeichnung fragen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1732314757478" alt="Irgendwelche Aufzeichnung fragen"
+                    <a href="2024/ask-me-anything.md" title="Fragen Sie mich irgendwas" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1732325112850" alt="Fragen Sie mich irgendwas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -43,12 +43,12 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/ask-me-anything.md" target="_blank" rel="referrer" title="Irgendwelche Aufzeichnung fragen">Fragen Sie mich nach einer Aufzeichnung</a>
+                        <a href="2024/ask-me-anything.md" target="_blank" rel="referrer" title="Fragen Sie mich irgendwas">Fragen Sie mich nach etwas</a>
                     </p>
                     <p class="is-size-6">Treten Sie dem letzten interaktiven Webinar von Adobe mit Kate Kolbert und James Letham bei, in dem Webinaroptimierung, Programmaktualisierungen, nicht genutzte Marketo-Funktionen, Best Practices für das E-Mail-Marketing, Datenbankverwaltung, Benutzerberechtigungen, Synchronisierung zwischen Marketo und Salesforce, dynamische Chat und Lebenszyklusphasen behandelt werden.</p>
                 </div>
                 <a href="2024/ask-me-anything.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>
@@ -58,7 +58,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/attribution-dashboard-recording.md" title="Marketo und Mochas - Grundlagen der Aufzeichnung von Attribution Dashboards" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1732314757481" alt="Marketo und Mochas - Grundlagen der Aufzeichnung von Attribution Dashboards"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1732325112863" alt="Marketo und Mochas - Grundlagen der Aufzeichnung von Attribution Dashboards"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,7 +71,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
                     <p class="is-size-6">Schließen Sie sich an Adobe Sr. Business Advisor, Cynthia Chang, und den technischen Berater James Leedom, an, um sich ausführlich mit dem Master des Marketo-Attributionsmodells und der Performance Insights (MPI)-Dashboards zu befassen, die Setup, Programm-Tracking, Datensynchronisation und Darstellung der Auswirkungen des Marketing auf Umsatz und Kundenakquise abdecken.</p>
                 </div>
                 <a href="2024/attribution-dashboard-recording.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>
@@ -81,7 +81,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/drive-growth-with-reporting.md" title="Marketo und Mochas - Wachstumsförderung mit Berichterstellung (Fälligkeit Pt 3)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1732314757487" alt="Marketo und Mochas - Wachstumsförderung mit Berichterstellung (Fälligkeit Pt 3)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1732325112839" alt="Marketo und Mochas - Wachstumsförderung mit Berichterstellung (Fälligkeit Pt 3)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +94,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
                     <p class="is-size-6">Treten Sie Adobe Business Advisors, Cynthia Chang und Carly Gaver, bei, um Teil 3 der Marketo-Webinarreihe zur Reife von Unternehmen zu erfahren, wie Sie mit Live-Q&amp;A die Reporting-Tools von Marketo nutzen können, um das Geschäftswachstum zu steigern, die Leistung zu überwachen und wirkungsvolle Metriken bereitzustellen.</p>
                 </div>
                 <a href="2024/drive-growth-with-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>
@@ -104,7 +104,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lead-nurture-success.md" title="Marketo und Mochas: Die Grundlage für den Erfolg der Führungsförderung schaffen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1732314757472" alt="Marketo und Mochas: Die Grundlage für den Erfolg der Führungsförderung schaffen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1732325112847" alt="Marketo und Mochas: Die Grundlage für den Erfolg der Führungsförderung schaffen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +117,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
                     <p class="is-size-6">Nehmen Sie an Business Advisoren Cynthia Chang und Carly Gaver teil, um zu erfahren, wie Sie die Lead-Pflege in Adobe Marketo Engage maximieren, Interaktionsprogramme für die Inhaltsverteilung erkunden und eine Live-Demonstration zur Einrichtung eines Interaktionsprogramms mit der Best Practice-Vorlage mit Live-Fragen und Antworten sehen.</p>
                 </div>
                 <a href="2024/lead-nurture-success.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>
@@ -127,7 +127,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" title="Marketo Measure- und Mochas-Aktivitäten und benutzerdefinierte Modelle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1732314757490" alt="Marketo Measure- und Mochas-Aktivitäten und benutzerdefinierte Modelle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1732325112842" alt="Marketo Measure- und Mochas-Aktivitäten und benutzerdefinierte Modelle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +140,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
                     <p class="is-size-6">Nehmen Sie an der Adobe Business Advisor Kate Colbert und dem technischen Kundenberater James Leedom teil, der Strategien zur Nutzung benutzerspezifischer Attributionsmodelle und Aktivitäten-Attribution in Adobe Marketo Measure untersucht, Beispiele aus dem realen Leben demonstriert und mit einer Live-Q&amp;A-Sitzung abgeschlossen hat.</p>
                 </div>
                 <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>
@@ -150,7 +150,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/maturity-part1-foundation.md" title="Marketo &amp; Mochas - Reifegrad Teil 1 - Verlegen der Stiftung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1732314757496" alt="Marketo &amp; Mochas - Reifegrad Teil 1 - Verlegen der Stiftung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1732325112852" alt="Marketo &amp; Mochas - Reifegrad Teil 1 - Verlegen der Stiftung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +163,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
                     <p class="is-size-6">Treten Sie Adobe Optimia Business Advisors, Cynthia Chang und Carly Gaver bei, während sie die Marketo-Reifenkurve erkunden, und bieten Sie Einblicke in die Einrichtung von Technologien, die Implementierung von Best Practices und die Verwaltung einer effektiven Dokumentation und Plattform-Governance mit einer Live-Demonstration der Programmvorlagen-Bibliothek.</p>
                 </div>
                 <a href="2024/maturity-part1-foundation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>
@@ -173,7 +173,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/new-discover-dashboard.md" title="Neue Discover-Dashboards" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1732314757493" alt="Neue Discover-Dashboards"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1732325112860" alt="Neue Discover-Dashboards"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
                     <p class="is-size-6">Treten Sie Adobe Senior Business Advisor, Köln Colordirektor und Technical Advisor, James Leedom, bei, während sie die 9 neuen Discover Dashboards in Marketo Measure erkunden. Diese bieten dynamische Einblicke in Metriken wie Umsatz, ROI, Interaktion und Lead-Geschwindigkeit mit einer Live-Demonstration und Q&amp;A-Sitzung.</p>
                 </div>
                 <a href="2024/new-discover-dashboard.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>
@@ -196,7 +196,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/optimize-marketo-usage.md" title="Marketo und Mochas - Laufzeitpart 2 - Optimierung der Marketo-Nutzung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1732314757499" alt="Marketo und Mochas - Laufzeitpart 2 - Optimierung der Marketo-Nutzung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1732325112857" alt="Marketo und Mochas - Laufzeitpart 2 - Optimierung der Marketo-Nutzung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +209,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
                     <p class="is-size-6">Treten Sie Adobe Optimizer Business Advisors, Cynthia Chang und Carly Gaver, für Teil 2 der Marketo-Reifegeschichte bei, der sich mit den Themen Datenmanagement, CRM-Integrationen und Kampagnenoptimierung befasst, um Ihre Marketo-Nutzung mit Live-Fragen und Antworten zu verbessern.</p>
                 </div>
                 <a href="2024/optimize-marketo-usage.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
                 </a>
             </div>
         </div>
@@ -238,7 +238,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/attribution.md" title="Marketo und Mochas - Marketo Measure-Attribution" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1732314758614" alt="Marketo und Mochas - Marketo Measure-Attribution"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1732325113341" alt="Marketo und Mochas - Marketo Measure-Attribution"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -261,7 +261,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/deliverability-part-one.md" title="Marketo und Modelle - Zustellbarkeit (Teil 1)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1732314758610" alt="Marketo und Modelle - Zustellbarkeit (Teil 1)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1732325113335" alt="Marketo und Modelle - Zustellbarkeit (Teil 1)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -284,7 +284,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/deliverability-part-two.md" title="Marketo und Modelle - Zustellbarkeit (Teil 2)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1732314758617" alt="Marketo und Modelle - Zustellbarkeit (Teil 2)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1732325113338" alt="Marketo und Modelle - Zustellbarkeit (Teil 2)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -307,7 +307,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/lead-scoring.md" title="Marketo und Mochas - Lead-Scoring" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1732314758606" alt="Marketo und Mochas - Lead-Scoring"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1732325113346" alt="Marketo und Mochas - Lead-Scoring"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -330,7 +330,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/lifecycle-modeling.md" title="Customer Journey Management - Lebenszyklusmodellierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1732314758621" alt="Customer Journey Management - Lebenszyklusmodellierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1732325113348" alt="Customer Journey Management - Lebenszyklusmodellierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -353,7 +353,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/msi-best-practices.md" title="Best Practices und Optimierung für MSI" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1732314758630" alt="Best Practices und Optimierung für MSI"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1732325113352" alt="Best Practices und Optimierung für MSI"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -376,7 +376,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/online-offline.md" title="Online- und Offline-Kanäle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1732314758624" alt="Online- und Offline-Kanäle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1732325113350" alt="Online- und Offline-Kanäle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -399,7 +399,7 @@ Willkommen bei den Marketo- und Mochas-Aufnahmen. Mithilfe dieser Ressourcen in 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/program-management.md" title="Marketo und Mochas - Best Practices für die Programmverwaltung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1732314758627" alt="Marketo und Mochas - Best Practices für die Programmverwaltung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1732325113343" alt="Marketo und Mochas - Best Practices für die Programmverwaltung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
