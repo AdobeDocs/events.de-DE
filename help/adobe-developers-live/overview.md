@@ -4,10 +4,10 @@ description: Eine Sammlung von Sitzungsaufzeichnungen aus Adobe Developers Live
 solution: Experience Cloud, Experience Manager
 exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
 duration: 156
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 29%
+source-wordcount: '360'
+ht-degree: 8%
 
 ---
 
@@ -19,114 +19,115 @@ Adobe Developers Live führt Entwickler und Erlebnisentwickler mit unterschiedli
 
 Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud präsentieren die neuesten technischen Fortschritte und Entwicklertools, die Design, Content-Erstellungs-Workflows, Dokumentendienste und Customer Experience Management branchenübergreifend ermöglichen.
 
-Registrieren Sie sich für zukünftige Ereignisse **[hier](https://developerevents.adobe.com/)**.
+## Wissenswertes
 
->[!TIP]
->
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.
+**[Registrieren Sie](https://developerevents.adobe.com/)** für zukünftige Ereignisse.
 
-<!--
+## Sitzungen vom November 2024
 
-## October 2021
+<!-- CARDS
 
-Adobe product teams across Adobe Experience Cloud, Document Cloud and Creative Cloud showcased the latest tech advances and developer tools powering design, content creation workflows, document services and customer experience management across industries.
+{cta = Watch}
 
-Check out the all of the other [sessions](2021/october/overview.md) !
-
-<table>
-  <tr>
-   <td>
-      <a href="2021/october/headless.md">
-      <img alt="Headless Sites" src="assets/mathias.png"/>
-      </a>
-      <div>
-         <a href="2021/october/headless.md"><strong>Headless Sites</strong></a>         
-         <br/><em>with Mathias Siegl, Principal Product Manager, AEM Sites</em>
-      </div>
-      <p>
-        <br/>
-         With GraphQL for Content Fragments available for AEM 6.5 and Adobe Experience Manager as a Cloud Service, let's explore how Adobe Experience Manager can be used as a headless CMS.
-      </p>
-     </td>   
-     <td>
-      <a href="2021/october/aep-integration.md">
-      <img alt="Overview of Adobe Experience Platform integration" src="assets/eric.png"/>
-      </a>
-      <div>
-         <a href="2021/october/aep-integration.md"><strong>Overview of Adobe Experience Platform integration</strong></a>
-         <br/><em>with Eric Knee, Principal Enterprise Solution Architect</em>
-      </div>
-      <p>
-        <br/>
-         This session will give you an overall view of different ways that Adobe Experience Platform can integrate within your ecosystem and things to consider when planning the integration work.
-      </p>
-   </td>
-   </td>
-     <td>
-      <a href="2021/october/pdf-services-api.md">
-      <img alt="Generating documents and capturing e-signatures in your apps using Adobe Sign API" src="assets/ben.png"/>
-      </a>
-      <div>
-         <a href="2021/october/pdf-services-api.md"><strong>Generating documents and capturing e-signatures in your apps using Adobe Sign API</strong></a>
-         <br/><em>with Ben Vanderberg, Principal Developer Evangelist</em>
-      </div>
-      <p>
-        <br/>
-         Adobe Document Generation API is a powerful document creation service driven by Microsoft Word templates merged with your data. When combined with Adobe Sign API, developers have an easy way to generate dynamic documents ready to be processed through the Sign workflow.
-      </p>
-   </td> 
-  </tr>
-</table>
-
-## February 2021
-
-This two-day conference featured important Adobe Experience Manager developer updates, such as Headless and GraphQL, Adobe Experience Manager as a Cloud Service, technical sessions and community networking opportunities.
-
-Check out the all of the other [sessions](2021/february/overview.md).
-
-<table>
-  <tr>
-   <td>
-      <a href="2021/february/headless-graphql-content-fragments.md">
-      <img alt="Headless - GraphQL with Content Fragments" src="assets/jabran.png"/>
-      </a>
-      <div>
-         <a href="2021/february/headless-graphql-content-fragments.md"><strong>Headless - GraphQL with Content Fragments</strong></a>         
-         <br/><em>with Jabran Asghar, Sr. Software Engineer</em>
-      </div>
-      <p>
-        <br/>
-         Learn about the new headless capabilities with the most recent Content Fragment enhancements. This session will focus on the GraphQL API for AEM Cloud Service.
-      </p>
-     </td>   
-     <td>
-      <a href="2021/february/rapid-frontend-devlopment.md">
-      <img alt="Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site." src="assets/gabriel.png"/>
-      </a>
-      <div>
-         <a href="2021/february/rapid-frontend-devlopment.md"><strong>Frontend Dev - Your future workflow to rapidly build & deploy the frontend of your site.</strong></a>
-         <br/><em>with Gabriel Walt, Sr. Product Manager</em>
-      </div>
-      <p>
-        <br/>
-         Use Site Templates to create new sites in few clicks, and bring back the fun of frontend development with the rapid deployment of frontend assets like CSS&JS.
-      </p>
-   </td>
-   </td>
-     <td>
-      <a href="2021/february/get-ready-aem-cloud.md">
-      <img alt="Get ready for the Cloud Service - Migration best practices" src="assets/andreea.png"/>
-      </a>
-      <div>
-         <a href="2021/february/get-ready-aem-cloud.md"><strong>Get ready for the Cloud Service - Migration best practices</strong></a>
-         <br/><em>with Andreea Moise, Sr. Software Engineer</em>
-      </div>
-      <p>
-        <br/>
-         Adapting your code base to make it cloud-friendly and bulletproof against future upgrades handled under the hood is key to maximize AEM Cloud Service benefits.
-      </p>
-   </td>
-  </tr>
-</table>
+* 2024/nov/ai-and-personalization.md
+* 2024/nov/commerce-api-headless.md
+* 2024/nov/extension-manager.md
+* 2024/nov/html-and-web-components.md
 
 -->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Bringing AI and Personalization to Adobe Experience Manager Edge Delivery Services">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/nov/ai-and-personalization.md" title="Bringing AI and Personalization to Adobe Experience Manager Edge Delivery Services" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440405/?format=jpeg&nocache=1732582481854" alt="Bringing AI and Personalization to Adobe Experience Manager Edge Delivery Services"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/nov/ai-and-personalization.md" target="_blank" rel="referrer" title="Bringing AI and Personalization to Adobe Experience Manager Edge Delivery Services"> AI und Personalization in Adobe Experience Manager-Edge Delivery Services bringen</a>
+                    </p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie KI und Personalisierung mit einer von Andreas Haller, Principal Solution Architect bei Cognizant Netcentric demonstrierten grundlegenden Architektur, semantischen Suche und erweiterten Anwendungsfällen in Adobe Experience Manager-Edge Delivery Services integrieren können.</p>
+                </div>
+                <a href="2024/nov/ai-and-personalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Orchestrating Commerce APIs for Headless Implementations">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/nov/commerce-api-headless.md" title="Orchestrieren von Commerce-APIs für Headless-Implementierungen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440402/?format=jpeg&nocache=1732582481844" alt="Orchestrieren von Commerce-APIs für Headless-Implementierungen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/nov/commerce-api-headless.md" target="_blank" rel="referrer" title="Orchestrieren von Commerce-APIs für Headless-Implementierungen">Orchestrieren von Commerce-APIs für Headless-Implementierungen</a>
+                    </p>
+                    <p class="is-size-6">Erfahren Sie, wie Revanth Kumar, Softwareingenieur bei der Adobe, mithilfe von API-Mesh mehrere Datenquellen für leistungsstarke, Headless-Commerce-Erlebnisse integrieren und verwalten kann, mit Vorteilen wie verbesserter Sicherheit, Leistung und vereinfachter Entwicklung.</p>
+                </div>
+                <a href="2024/nov/commerce-api-headless.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Extension Manager for Adobe Experience Manager Sites">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/nov/extension-manager.md" title="Extension Manager für Adobe Experience Manager Sites" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440404/?format=jpeg&nocache=1732582481858" alt="Extension Manager für Adobe Experience Manager Sites"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/nov/extension-manager.md" target="_blank" rel="referrer" title="Extension Manager für Adobe Experience Manager Sites">Extension Manager für Adobe Experience Manager Sites</a>
+                    </p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie die Adobe Experience Manager-Funktionalität mit dem Extension Manager erweitern, unternehmensübergreifende Benutzeroberflächen-Erweiterungen und Anpassungen ermöglichen, ohne die gesamte Anwendung neu bereitzustellen, wie Iryna Lagno, Sr. Software Engineer bei der Adobe demonstriert hat.</p>
+                </div>
+                <a href="2024/nov/extension-manager.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Roll Your Own HTML with Web Components">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2024/nov/html-and-web-components.md" title="Eigene HTML mit Webkomponenten rollen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440406/?format=jpeg&nocache=1732582481863" alt="Eigene HTML mit Webkomponenten rollen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2024/nov/html-and-web-components.md" target="_blank" rel="referrer" title="Eigene HTML mit Webkomponenten rollen">Eigene HTML mit Webkomponenten rollen</a>
+                    </p>
+                    <p class="is-size-6">Lernen Sie die Grundlagen von Webkomponenten mit Raymond Camden, Sr. Developer Evangelist auf der Adobe kennen, einschließlich benutzerdefinierter Elemente, Shadow DOM- und HTML-Vorlagen, mit praktischen Beispielen wie dem Einbetten von PDF und dem Erstellen von sortierbaren Tabellen zur Anwendungsverbesserung.</p>
+                </div>
+                <a href="2024/nov/html-and-web-components.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
