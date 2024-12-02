@@ -2,7 +2,7 @@
 user-guide-title: Adobe Developers Live-Ereignisse
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Sammlung von Aufzeichnungen aus dem Adobe Developer Live Content-Ereignis
-source-git-commit: a5b6c2c3150fcc98686fe74d68f186bfe4e1befa
+source-git-commit: a27c81e245b1dae18bb62135ed2c9e4a60bc0694
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 4%
@@ -16,13 +16,13 @@ ht-degree: 4%
 + 2024 {#2024}
    + November {#nov2024}
       + [Keynote](2024/nov/keynote.md)
-      + [AEM Cloud Service] {#aem-cloud-service}
+      + AEM Cloud Service {#aem-cloud-service}
          + [AEM APIs und Eventing](2024/nov/apis-eventing.md)
          + [AI und Personalization in AEM EDS bringen](2024/nov/ai-and-personalization.md)
          + [CDN- und WAF-Konfiguration in AEM CS](2024/nov/cdn-waf-aemcs.md)
          + [Magische Schaltflächen und Erstellen](2024/nov/magic-buttons.md)
          + [Schnelle Entwicklungsumgebungen](2024/nov/rapid-development-environments.md)
-      + [AEM Sites] {#aem-sites}
+      + AEM Sites {#aem-sites}
          + [Journey an Edge Delivery Services in Echtzeit](2024/nov/journey-to-edge-delivery-services.md)
          + [Edge Delivery Services - ab einem Jahr, sechs Wege besser](2024/nov/edge-delivery-services.md)
          + [Extension Manager für AEM Sites](2024/nov/extension-manager.md)
@@ -30,15 +30,15 @@ ht-degree: 4%
          + [HTML mit Webkomponenten](2024/nov/html-and-web-components.md)
          + [Tabellen aus 200 Trends](2024/nov/tales-200-trenches.md)
          + [Universeller Editor, AEM Authoring und Edge Delivery Services](2024/nov/universal-editor-eds.md)
-      + [AEM Assets] {#aem-assets}
+      + AEM Assets {#aem-assets}
          + [Assets-MigrationsBlueprint](2024/nov/asset-migration-blueprint.md)
          + [Best Practices für die Leistungsbereitstellung](2024/nov/performant-delivery.md)
          + [Verwenden von Dynamic Media mit Open API](2024/nov/dynamic-media-open-api.md)
-      + [AEM Forms] {#aem-forms}
+      + AEM Forms {#aem-forms}
          + [Forms auf der Edge!](2024/nov/forms-on-the-edge.md)
-      + [Cloud Manager] {#cloud-manager}
+      + Cloud Manager {#cloud-manager}
          + [Optimieren von DevOps mit Cloud Manager](2024/nov/dev-ops-cloud-manager.md)
-      + [Adobe Commerce] {#commerce}
+      + Adobe Commerce {#commerce}
          + [Adobe Commerce mit dem Integrationsstarter-Kit](2024/nov/back-office-integrations.md)
          + [Commerce mit AEM Assets und GenAI](2024/nov/commerce-aem-assets-gen-ai.md)
          + [Edge Delivery Services und Adobe Commerce](2024/nov/commerce-storefront-eds.md)
