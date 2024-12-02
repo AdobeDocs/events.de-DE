@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur"
+title: '[!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur'
 description: Treten Sie [!DNL Adobe Analytics] Champion Gitai Ben-Ammi bei, da er erläutert, wie eine datengesteuerte Kultur aussieht, und Strategien zur Verwendung von [!DNL Adobe Analytics] für die Erstellung einer solchen Kultur teilt.
 role: User
 doc-type: Event

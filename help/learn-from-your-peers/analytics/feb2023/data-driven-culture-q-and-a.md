@@ -1,5 +1,5 @@
 ---
-title: '''[!DNL Adobe Analytics] Erstellen von datengesteuerten kulturellen Folgenachrichten'
+title: '[!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur - Nachfragen und Antworten'
 description: Während des Webinars [!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur wurden von  [!DNL Adobe Analytics] Benutzern weltweit über 35 Fragen gestellt. Da unser [!DNL Adobe Analytics] Champion nicht alle Fragen beantworten konnte, haben wir sie wieder aufgenommen und eine Nachbesprechung über Fragen und Antworten veranstaltet, um Ihre Fragen zu beantworten und noch mehr Fachwissen zu teilen.
 role: User
 doc-type: Event

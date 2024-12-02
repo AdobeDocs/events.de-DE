@@ -1,7 +1,7 @@
 ---
-user-guide-title: „[!DNL Experience Makers Learn from your peers]“
+user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
-user-guide-description: "Sammlung von Aufzeichnungen von  [!DNL Experience Makers Learn from your peers]"
+user-guide-description: Sammlung von Aufzeichnungen von  [!DNL Experience Makers Learn from your peers]
 source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
 source-wordcount: '302'

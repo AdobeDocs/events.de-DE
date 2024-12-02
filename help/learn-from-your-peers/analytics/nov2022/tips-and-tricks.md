@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Adobe Analytics] Champion Tips and Tricks"
+title: '[!DNL Adobe Analytics] Champion Tips and Tricks'
 description: Treten Sie fünf [!DNL Adobe Analytics] Champions aus der ganzen Welt bei, da sie die Tipps und Tricks teilen, die ihnen beim Meister  [!DNL Adobe Analytics] geholfen haben.
 role: User
 doc-type: Event
