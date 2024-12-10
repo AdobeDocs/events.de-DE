@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
 
 ---
-
 
 # Die strategische Leistung der Messung: Umsetzung von Daten in Maßnahmen
 
@@ -29,7 +29,7 @@ Erfahren Sie mehr über die wesentlichen Elemente einer ganzheitlichen Messstrat
 * Die regelmäßige Einbindung der Interessengruppen in die Bereitstellung ihrer Eingaben gewährleistet die Vertrautheit mit den erfassten Daten.
 * Wenn es Interessengruppen ermöglicht wird, selbstbewusst Berichte zu erstellen und selbst Entscheidungen zu treffen, wird das Zögern verringert.
 
-**Trust
+**Trust**
 
 * Vertrauen beruht auf proaktiver Beteiligung, Transparenz, Data Governance und Qualitätskontrolle.
 * Die Ausrichtung der Akteure und die Einbeziehung in die strategische Planung sind von entscheidender Bedeutung.
@@ -52,4 +52,3 @@ Erfahren Sie mehr über die wesentlichen Elemente einer ganzheitlichen Messstrat
 * Kuratieren von Ressourcen für neue Benutzer und Nicht-Analyst-Rollen
 * Abhalten regelmäßiger QuickInfo-Sitzungen und Sitzungen zum Wissensaustausch.
 * Verwenden von Newslettern und interner Kommunikation, um Erkenntnisse und Updates zu teilen.
-
