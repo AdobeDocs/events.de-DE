@@ -1,6 +1,6 @@
 ---
-title: Adobe I/O Powered Experience Manager Assets Export
-description: In dieser Sitzung wird eine Übersicht über die Server-lose Adobe I/O-Plattform von "Events", "Actions to App Builder"aus Sicht von AEMaaCS vorgestellt. Hier erfahren Sie, wie Adobe I/O bei der Implementierung von Anwendungsfällen wie dem Exportieren von Assets aus Adobe Experience Manager in externe Cloud-Speicher (Azure) oder Drittanbietersysteme (Marketo) entweder im Echtzeit- (Synchronisations-) oder Batch-Modus (async) helfen kann.
+title: Export von Adobe I/O-Experience Manager Assets
+description: In dieser Sitzung erhalten Sie einen Überblick über das Adobe I/O von Server-losen Plattformen aus den Bereichen Ereignisse, Aktionen für App Builder sowie aus der AEMaaCS-Perspektive. Hier erfahren Sie, wie Adobe I/O Ihnen bei der Implementierung von Anwendungsfällen helfen kann, z. B. beim Exportieren von Assets aus Adobe Experience Manager in externe Cloud-Speicher (Azure) oder Drittanbietersysteme (Marketo), entweder im Echtzeit-Modus (Sync) oder im Batch-Modus (Async).
 solution: Experience Manager,Experience Manager Assets
 feature: Developer Tools
 topic: Development, Integrations
@@ -18,16 +18,16 @@ ht-degree: 3%
 
 ---
 
-# Adobe I/O Powered Experience Manager Assets Export
+# Export von Adobe I/O-Experience Manager Assets
 
-In dieser Sitzung wird eine Übersicht über die Server-lose Adobe I/O-Plattform von &quot;Events&quot;, &quot;Actions to App Builder&quot;aus Sicht von AEMaaCS vorgestellt. Hier erfahren Sie, wie Adobe I/O bei der Implementierung von Anwendungsfällen wie dem Exportieren von Assets aus Adobe Experience Manager in externe Cloud-Speicher (Azure) oder Drittanbietersysteme (Marketo) entweder im Echtzeit- (Synchronisations-) oder Batch-Modus (async) helfen kann.
+In dieser Sitzung erhalten Sie einen Überblick über das Adobe I/O von Server-losen Plattformen aus den Bereichen Ereignisse, Aktionen für App Builder sowie aus der AEMaaCS-Perspektive. Hier erfahren Sie, wie Adobe I/O Ihnen bei der Implementierung von Anwendungsfällen helfen kann, z. B. beim Exportieren von Assets aus Adobe Experience Manager in externe Cloud-Speicher (Azure) oder Drittanbietersysteme (Marketo), entweder im Echtzeit-Modus (Sync) oder im Batch-Modus (Async).
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3mkDXo6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/3mkDXo6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337842/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

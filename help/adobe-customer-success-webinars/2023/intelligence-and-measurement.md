@@ -1,6 +1,6 @@
 ---
 title: Priorisierung von Intelligenz und Messung
-description: Dieses Webinar soll Ihnen helfen, lösungsübergreifende Konversationen bei Messungen zu fördern, die die Nadel in Ihrer Organisation bewegen. Sie werden mit einem Verständnis der Herausforderungen, der Rolle, die Daten spielen können, und der Art und Weise fortfahren, wie ein stärkeres Fundament aufgebaut werden kann.
+description: Dieses Webinar soll Sie in die Lage versetzen und dazu inspirieren, lösungsübergreifende Gespräche zur Messung zu führen, die die Nadel in Ihrem Unternehmen bewegen. Ihr werdet ein Verständnis für die Herausforderungen, die Rolle, die Daten spielen können, und wie ihr eine solidere Grundlage für die Zukunft aufbauen könnt haben.
 solution: Experience Cloud
 role: Admin, Data Architect, Data Engineer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Priorisierung von Intelligenz und Messung
 
-Dieses Webinar soll Ihnen helfen, lösungsübergreifende Konversationen bei Messungen zu fördern, die die Nadel in Ihrer Organisation bewegen. Sie werden mit einem Verständnis der Herausforderungen, der Rolle, die Daten spielen können, und der Art und Weise fortfahren, wie ein stärkeres Fundament aufgebaut werden kann.
+Dieses Webinar soll Sie in die Lage versetzen und dazu inspirieren, lösungsübergreifende Gespräche zur Messung zu führen, die die Nadel in Ihrem Unternehmen bewegen. Ihr werdet ein Verständnis für die Herausforderungen, die Rolle, die Daten spielen können, und wie ihr eine solidere Grundlage für die Zukunft aufbauen könnt haben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421756/?learn=on)

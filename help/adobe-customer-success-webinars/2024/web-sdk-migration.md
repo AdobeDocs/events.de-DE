@@ -1,6 +1,6 @@
 ---
-title: Grundlagen zur Web SDK-Migration
-description: Machen Sie sich mit den Unterschieden in App Measurement/AT.js im Vergleich zum Web SDK vertraut, mit der Migration, mit Überlegungen zum Zeitpunkt der Migration, den Optionen für die Migration und den erwarteten Datenunterschieden.
+title: Web SDK Migration Essentials
+description: Machen Sie sich mit den Unterschieden zwischen App Measurement/AT.js und Web SDK vertraut und erfahren Sie, wie Sie migrieren, was Sie über den Zeitpunkt der Migration wissen und welche Optionen Sie für die Migration verwenden und welche Unterschiede Sie bei den Daten erwarten.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -15,20 +15,20 @@ ht-degree: 0%
 
 ---
 
-# Grundlagen zur Web SDK-Migration
+# Web SDK Migration Essentials
 
-Machen Sie sich mit den Unterschieden in App Measurement/AT.js im Vergleich zum Web SDK vertraut, mit der Migration, mit Überlegungen zum Zeitpunkt der Migration, den Optionen für die Migration und den erwarteten Datenunterschieden.
+Machen Sie sich mit den Unterschieden zwischen App Measurement/AT.js und Web SDK vertraut und erfahren Sie, wie Sie migrieren, was Sie über den Zeitpunkt der Migration wissen und welche Optionen Sie für die Migration verwenden und welche Unterschiede Sie bei den Daten erwarten.
 
-## Wichtigste Themen
+## Wichtige behandelte Themen
 
-* Was ist das Web SDK?
+* Was ist Web SDK?
 * Migrationsschritte und -überlegungen
-* Timing der Migrationen
-* Häufige Fehler und Fallstricke zur Vermeidung
+* Zeitplan für die Migrationen
+* Häufige Fehler und Fallstricke, die zu vermeiden sind
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429291/?learn=on)
 
 
 ## Zusammenfassung 
 
-Im Mittelpunkt des Treffens standen die Grundlagen für die Migration zum Web SDK, einer JavaScript-Bibliothek, die Vorteile für die lösungsunabhängige Interaktion mit Diensten bietet. &#x200B;Zu den wichtigsten behandelten Punkten gehörten Schritte für die Migration wie das Konfigurieren von Berechtigungen, das Einrichten von Schemas, das Erstellen von Datenströmen und das Zuordnen von Daten. Es wurden Überlegungen zum Umgang mit Datenabweichungen und zur Bestimmung der Migrationsreihenfolge für Kunden mit Analytics und Target vorgenommen. Einblicke wurden für geräteübergreifende Tracking-Methoden, das Auslösen von Analysen beim Seitenladestart und die Bedeutung der Verwendung von Adobe-Tags freigegeben. Das Treffen schloss mit Empfehlungen zum Abschluss der Umfrage, zur Registrierung für bevorstehende Webinare und zum Ausdruck des Dankes an die Moderatoren und Teilnehmer für ihre Zeit und ihre Interaktion.
+Das Meeting konzentrierte sich auf die Grundlagen der Migration zu Web SDK, einer JavaScript-Bibliothek, die Vorteile für die lösungsunabhängige Interaktion mit Services bietet. &#x200B;Zu den wichtigsten besprochenen Punkten gehörten Schritte zur Migration wie die Konfiguration von Berechtigungen, die Einrichtung von Schemata, die Erstellung von Datenströmen und die Zuordnung von Daten. Es wurden Überlegungen zum Umgang mit Datenvarianzen und zur Bestimmung der Migrationsreihenfolge für Clients mit Analytics und Target angestellt. Es wurden Einblicke zu geräteübergreifenden Tracking-Methoden, zum Auslösen von Analysen beim Seitenladestart und zur Bedeutung der Verwendung von Adobe-Tags gegeben. Das Meeting endete mit Empfehlungen zum Abschließen der Umfrage, zur Anmeldung für bevorstehende Webinare und Danksagungen an die Moderatoren und Teilnehmer für ihre Zeit und ihr Engagement.

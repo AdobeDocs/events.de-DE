@@ -1,6 +1,6 @@
 ---
-title: Einführung in Creative Cloud App Engine-APIs
-description: Machen Sie sich mit unserem Creative Cloud-App-Engine-API-Angebot vertraut, das Dienste von Photoshop, Lightroom und InDesign umfasst. Unser Produktteam wird mehr über unsere Cloud Extensibility Platform (CXP) und darüber erfahren, wie Sie heute beginnen können.
+title: Einführung in die APIs für Creative Cloud-App-Engines
+description: Erhalten Sie einen Überblick über unser Creative Cloud-App-Engine-API-Angebot, das Services von Photoshop, Lightroom und InDesign umfasst. Unser Produkt-Team wird Ihnen mehr über unsere Cloud-Erweiterbarkeitsplattform (CXP) erzählen und darüber, wie Sie noch heute loslegen können!
 solution: Creative Cloud
 feature: Developer Tools
 topic: Development
@@ -17,14 +17,14 @@ ht-degree: 11%
 
 ---
 
-# Einführung in Creative Cloud App Engine-APIs
+# Einführung in die APIs für Creative Cloud-App-Engines
 
-Machen Sie sich mit unserem Creative Cloud-App-Engine-API-Angebot vertraut, das Dienste von Photoshop, Lightroom und InDesign umfasst. Unser Produktteam wird mehr über unsere Cloud Extensibility Platform (CXP) und darüber erfahren, wie Sie heute beginnen können.
+Erhalten Sie einen Überblick über unser Creative Cloud-App-Engine-API-Angebot, das Services von Photoshop, Lightroom und InDesign umfasst. Unser Produkt-Team wird Ihnen mehr über unsere Cloud-Erweiterbarkeitsplattform (CXP) erzählen und darüber, wie Sie noch heute loslegen können!
 
 >[!VIDEO](https://video.tv.adobe.com/v/337594/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

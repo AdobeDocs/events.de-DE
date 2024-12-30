@@ -1,6 +1,6 @@
 ---
-title: 'Post: ein ausfüllbares, signierbares Webformular'
-description: Erfahren Sie, wie Sie ein Webformular erstellen, das es jedem ermöglicht, das Formular auszufüllen und zu unterschreiben, ohne dass Sie die Transaktion einleiten müssen oder die E-Mail-Adresse des Unterzeichners kennen müssen.
+title: Posten eines ausfüllbaren, signierbaren Web-Formulars
+description: Erfahren Sie, wie Sie ein Web-Formular erstellen, mit dem jeder ausfüllen und signieren kann, ohne die Transaktion initiieren oder sogar die E-Mail-Adresse des Unterzeichners kennen zu müssen.
 feature: Sign, Form
 role: User
 level: Beginner
@@ -16,21 +16,21 @@ ht-degree: 0%
 
 ---
 
-# Post: ein ausfüllbares, signierbares Webformular
+# Posten eines ausfüllbaren, signierbaren Web-Formulars
 
-Erfahren Sie, wie Sie ein Webformular erstellen, das es jedem ermöglicht, das Formular auszufüllen und zu unterschreiben, ohne dass Sie die Transaktion einleiten müssen oder die E-Mail-Adresse des Unterzeichners kennen müssen. Außerdem erfahren Sie, wie Sie eine Dokumentvorlage vorbereiten, die für einzelne Signaturtransaktionen verwendet werden kann, und wie Sie für die Freigabe an eine eindeutige URL posten können.
+Erfahren Sie, wie Sie ein Web-Formular erstellen, mit dem jeder ausfüllen und signieren kann, ohne die Transaktion initiieren oder sogar die E-Mail-Adresse des Unterzeichners kennen zu müssen. Außerdem erfahren Sie, wie Sie eine Dokumentvorlage vorbereiten, die für einzelne Signaturtransaktionen sowie für die Bereitstellung an eine eindeutige URL für eine umfassende Freigabe verwendet werden kann.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
 
 ## Wichtigste Punkte
 
-* Stellen Sie vor dem Erstellen von Webformularen in Adobe Acrobat Sign sicher, dass Sie bei Ihrem Konto angemeldet sind und die erforderlichen Einstellungen aktiviert haben.
-* Die Einstellungen für Webformulare können auf Kontoebene oder für eine bestimmte Benutzergruppe aktiviert werden.
-* Zu den Optionen für Webformulareinstellungen gehören das Zulassen von Webformularen, das Aktivieren kopierter Empfänger mit Kohlenstoffbindung, die PDF-Vorschau, das Anfordern von E-Mail-Kleidung im Signaturblock und die E-Mail-Verifizierung für Unterzeichner.
-* Zusätzliche Teilnehmer können einem Webformular hinzugefügt werden, um einen Workflow zu erstellen.
-* Geben Sie beim Erstellen eines Webformulars die Benutzergruppe, den Namen des Formulars, die Teilnehmerrollen und Authentifizierungsoptionen an.
-* Fügen Sie E-Mail-Adressen von Zähler-Signierern, von CO2 kopierten Empfängern und sich selbst zum Workflow hinzu.
-* Schließen Sie das Dokument oder Formular von Ihrem Computer oder Cloud-Speicher an.
-* Formularfelder können mithilfe von Adobe Sensei manuell platziert oder automatisch erkannt werden.
-* Passen Sie Formularfelder an, indem Sie sie umbenennen, die Feldzuweisung anpassen, den Feldtyp angeben und Felder zur Anforderung machen.
-* Adobe bietet Ressourcen wie das Help Center, Experience League, die Support-Community, Skill Builder-Webinare und Resource Hub, um mehr über Dokumentprozesse zu erfahren.
+* Bevor Sie Web-Formulare in Adobe Acrobat Sign erstellen, stellen Sie sicher, dass Sie bei Ihrem -Konto angemeldet sind und die erforderlichen Einstellungen aktiviert sind.
+* Einstellungen für Web-Formulare können auf Kontoebene oder für eine bestimmte Benutzergruppe aktiviert werden.
+* Zu den Optionen für Web-Formulareinstellungen gehören das Zulassen von Web-Formularen, das Aktivieren von Empfängerinnen und Empfängern mit Kohlenstoffkopie, die PDF-Vorschau, das Erfordernis einer E-Mail-Kleidung im Signaturblock und die E-Mail-Überprüfung für Unterzeichner.
+* Zusätzliche Teilnehmer können einem Web-Formular hinzugefügt werden, um einen Workflow zu erstellen.
+* Geben Sie beim Erstellen eines Web-Formulars die Benutzergruppe, den Formularnamen, die Teilnehmerrollen und Authentifizierungsoptionen an.
+* Fügen Sie dem Workflow E-Mail-Adressen von Zähler-Unterzeichnern, kopierten Empfängern und sich selbst hinzu.
+* Hängen Sie das Dokument oder Formular von Ihrem Computer oder Cloud-Speicher an.
+* Formularfelder können manuell platziert oder mithilfe von Adobe Sensei automatisch erkannt werden.
+* Anpassen von Formularfeldern durch Umbenennen, Anpassen der Feldzuweisung, Festlegen des Feldtyps und Anfordern von Feldern.
+* Adobe bietet Ressourcen wie das Hilfezentrum, das Experience League, die Support-Community, Skill Builder-Webinare und den Ressourcen-Hub, um mehr über Dokumentprozesse zu erfahren.

@@ -1,6 +1,6 @@
 ---
 title: Entwickeln mit Adobe Experience Manager Forms in der Cloud
-description: Diese Sitzung hilft Entwicklern bei den ersten Schritten mit Forms auf Adobe Experience Manager as a Cloud Service - von der lokalen Einrichtung von Adobe Experience Manager Forms bis hin zur Anpassung.
+description: Diese Sitzung hilft Entwicklerinnen und Entwicklern bei den ersten Schritten mit Forms auf Adobe Experience Manager as a Cloud Service - vom lokalen Setup von Adobe Experience Manager Forms bis hin zur Anpassung.
 solution: Experience Manager,Experience Manager Forms
 product: experience manager
 sub-product: forms
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 # Entwickeln mit Adobe Experience Manager Forms in der Cloud
 
-Diese Sitzung hilft Entwicklern bei den ersten Schritten mit Forms auf Adobe Experience Manager as a Cloud Service - von der lokalen Einrichtung von Adobe Experience Manager Forms bis hin zur Anpassung.
+Diese Sitzung hilft Entwicklerinnen und Entwicklern bei den ersten Schritten mit Forms auf Adobe Experience Manager as a Cloud Service - vom lokalen Setup von Adobe Experience Manager Forms bis hin zur Anpassung.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332306/?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/developing-aem-forms-cloud.pdf)** .
+Klicken Sie **[hier](/help/adobe-developers-live/assets/developing-aem-forms-cloud.pdf)** für die Sitzungsfolien.

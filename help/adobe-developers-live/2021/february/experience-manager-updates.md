@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager-Updates
-description: Schließen Sie sich Gabriel Walt, Produktmanager für Experience Manager, an, um einen Überblick über die großen Themen zu erhalten, die den Fahrplan von Adobe Experience Manager bestimmen, und wie die Sitzungen zusammenhängen. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+description: Seien Sie dabei, wenn Gabriel Walt, Product Manager für Experience Manager, einen Überblick über die großen Themen der Adobe Experience Manager-Roadmap und die Zusammenhänge der Sessions erhält. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 # Adobe Experience Manager-Updates
 
-Schließen Sie sich Gabriel Walt, Produktmanager für Experience Manager, an, um einen Überblick über die großen Themen zu erhalten, die den Fahrplan von Adobe Experience Manager bestimmen, und wie die Sitzungen zusammenhängen.
+Seien Sie dabei, wenn Gabriel Walt, Product Manager für Experience Manager, einen Überblick über die großen Themen der Adobe Experience Manager-Roadmap und die Zusammenhänge der Sessions erhält.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331279/?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** .
+Klicken Sie **[hier](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** für die Sitzungsfolien.

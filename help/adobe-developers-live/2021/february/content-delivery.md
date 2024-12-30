@@ -1,6 +1,6 @@
 ---
 title: Inhaltsbereitstellung auf dem Experience Manager Cloud Service
-description: Adobe Experience Manager as a Cloud Service verfügt über eine leistungsstarke vorkonfigurierte Inhaltsbereitstellungsarchitektur. Veranschaulichen Sie, wie Sie optimierte Konfigurationen für die Inhaltsbereitstellung optimal nutzen. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+description: Adobe Experience Manager as a Cloud Service verfügt über eine leistungsstarke vorkonfigurierte Architektur zur Inhaltsbereitstellung. Demonstrieren Sie, wie Sie optimierte Konfigurationen zur Inhaltsbereitstellung optimal nutzen können. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ---
 
-# Inhaltsbereitstellung auf Experience Manager Cloud Service - Einrichten des Projekts zur Bereitstellung schneller Erlebnisse
+# Inhaltsbereitstellung auf dem Experience Manager Cloud Service : Richten Sie Ihr Projekt ein, um schnelle Erlebnisse bereitzustellen.
 
-Adobe Experience Manager as a Cloud Service verfügt über eine leistungsstarke vorkonfigurierte Inhaltsbereitstellungsarchitektur. Veranschaulichen Sie, wie Sie optimierte Konfigurationen für die Inhaltsbereitstellung optimal nutzen.
+Adobe Experience Manager as a Cloud Service verfügt über eine leistungsstarke vorkonfigurierte Architektur zur Inhaltsbereitstellung. Demonstrieren Sie, wie Sie optimierte Konfigurationen zur Inhaltsbereitstellung optimal nutzen können.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332022/?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/content-delivery-on-aemcs.pdf)** .
+Klicken Sie **[hier](/help/adobe-developers-live/assets/content-delivery-on-aemcs.pdf)** für die Sitzungsfolien.

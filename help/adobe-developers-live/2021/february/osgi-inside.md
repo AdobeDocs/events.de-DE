@@ -1,6 +1,6 @@
 ---
-title: OSGi drinnen - warum wir es lieben und warum Sie sich nicht wirklich kümmern müssen
-description: Ein Panel mit Carsten Ziegeler, Karl Pauls und David Bosschaert darüber, warum wir OSGi verwenden, warum es in der Cloud relevant ist und was Adobe Experience Manager-Entwickler darüber wissen müssen. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+title: OSGi im Inneren - warum wir es lieben und warum es Ihnen eigentlich egal sein sollte
+description: Ein Panel mit Carsten Ziegeler, Karl Pauls und David Bosschaert darüber, warum wir OSGi verwenden, warum es in der Cloud relevant ist und was Adobe Experience Manager-Entwickler darüber wissen müssen. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# OSGi drinnen - warum wir es lieben und warum Sie sich nicht wirklich kümmern müssen
+# OSGi im Inneren - warum wir es lieben und warum es Ihnen eigentlich egal sein sollte
 
 Ein Panel mit Carsten Ziegeler, Karl Pauls und David Bosschaert darüber, warum wir OSGi verwenden, warum es in der Cloud relevant ist und was Adobe Experience Manager-Entwickler darüber wissen müssen.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331740/?quality=12&learn=on&hidetitle=true)

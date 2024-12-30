@@ -1,6 +1,6 @@
 ---
-title: Integration von Anmerkungen
-description: Integration notarialisieren - die schnellere und einfachere Möglichkeit, Ihre Dokumente zu notarialisieren.
+title: Integration notariell bestätigen
+description: Integration notarialisieren - der schnellere und einfachere Weg, Ihre Dokumente zu notarialisieren.
 feature: Integrations
 role: User
 level: Intermediate
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 ---
 
-# Integration von Anmerkungen
+# Integration notariell bestätigen
 
-Integration notarialisieren - die schnellere und einfachere Möglichkeit, Ihre Dokumente zu notarialisieren.
+Integration notarialisieren - der schnellere und einfachere Weg, Ihre Dokumente zu notarialisieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428195/?learn=on)
 
-## Wichtigste Themen
+## Wichtige behandelte Themen
 
-* Weston Romero, Technischer Produkt-Evangelist bei Adobe, teilt seine Erfahrung in der Zusammenarbeit mit Kunden, um ihre Dokument- und Signatur-Workflows digital umzuwandeln.
-* Wichtige Aktualisierungen, die in der Adobe Sign-Version vom September 2021 eingeführt wurden, darunter die Adobe Sign-Sandbox, neue Trust Service-Provider des Cloud Signature-Konsortiums und die Nutzungsbedingungen für unbekannte Unterzeichner.
-* Eine Übersicht und Demonstration anderer bemerkenswerter Funktionen, die im Laufe des Jahres veröffentlicht wurden. Zu diesen Funktionen gehören Benutzer in mehreren Gruppen, Liquid Mode für mobile adaptive Signiererlebnisse und Adobe Sign für Microsoft Teams-Genehmigungen.
-* Zusammenfassung der Adobe Sign- und Notarisierungspartnerschaft, einschließlich einer Demonstration dessen, was Benutzer von der Partnerschaft erwarten können. Dies bietet eine schnellere und einfachere Möglichkeit, Dokumente direkt von Adobe Sign zu kommentieren.
+* Weston Romero, Technical Product Evangelist bei Adobe, teilt seine Erfahrungen bei der Arbeit mit Kunden, um deren Dokument- und Signatur-Workflows digital umzuwandeln.
+* Wichtige Aktualisierungen, die in der Adobe Sign-Version vom September 2021 eingeführt wurden, einschließlich der Adobe Sign Sandbox, neuer Trust-Service-Anbieter vom Cloud Signature Consortium und der Adobe-Nutzungsbedingungen für unbekannte Unterzeichner.
+* Ein Überblick über andere wichtige Funktionen, die im Laufe des Jahres veröffentlicht wurden, und deren Demonstration. Zu diesen Funktionen gehören Benutzende in mehreren Gruppen, Liquid Mode für mobile adaptive Signiererlebnisse und Adobe Sign for Microsoft Teams-Genehmigungen.
+* Zusammenfassung der Partnerschaft zwischen Adobe Sign und Notariate, einschließlich einer Demonstration dessen, was Benutzende von der Partnerschaft erwarten können, die eine schnellere und einfachere Möglichkeit bietet, Dokumente direkt von Adobe Sign zu notarialisieren.

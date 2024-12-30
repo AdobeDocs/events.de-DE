@@ -1,8 +1,8 @@
 ---
 title: Beschleunigung des Wechsels zu Adobe Experience Manager as a Cloud Service
-description: Erfahren Sie mehr darüber, wie Sie die Adobe Experience Manager as a Cloud Service-Code-Refaktorierungs-Tools nutzen können, um die Journey zu Cloud Service zu beschleunigen, indem Sie den Cloud Service vorhandener Inhalte (Paketstruktur, Indizes, Adobe Experience Manager Asset-Verarbeitungs-Workflows, Dispatcher-Konfigurationen) über Automatisierung kompatibel machen.
-landing-page-description: Verwenden Sie die AEM as a Cloud Service-Code-Refaktorierungs-Tools, um den Übergang zum Cloud Service zu beschleunigen.
-short-description: Verwenden Sie die AEM as a Cloud Service-Code-Refaktorierungs-Tools, um den Übergang zum Cloud Service zu beschleunigen.
+description: Erfahren Sie mehr darüber, wie Sie die Adobe Experience Manager as a Cloud Service-Code-Refaktorierungs-Tools nutzen können, um den Wechsel von Journey zu Cloud Service zu beschleunigen, indem Sie Ihren bestehenden Content (Paketstruktur, Indizes, Adobe Experience Manager Asset-Verarbeitungs-Workflows, Dispatcher-Konfigurationen) über die Automatisierung mit Cloud Service kompatibel machen.
+landing-page-description: Verwenden Sie die Code-Refaktorierungs-Tools von AEM as a Cloud Service, um den Übergang zum Cloud Service zu beschleunigen.
+short-description: Verwenden Sie die Code-Refaktorierungs-Tools von AEM as a Cloud Service, um den Übergang zum Cloud Service zu beschleunigen.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -22,18 +22,18 @@ ht-degree: 10%
 
 # Beschleunigung des Wechsels zu Adobe Experience Manager as a Cloud Service
 
-Erfahren Sie mehr darüber, wie Sie die Adobe Experience Manager as a Cloud Service-Code-Refaktorierungs-Tools nutzen können, um die Journey zu Cloud Service zu beschleunigen, indem Sie den Cloud Service vorhandener Inhalte (Paketstruktur, Indizes, Adobe Experience Manager Asset-Verarbeitungs-Workflows, Dispatcher-Konfigurationen) über Automatisierung kompatibel machen.
+Erfahren Sie mehr darüber, wie Sie die Adobe Experience Manager as a Cloud Service-Code-Refaktorierungs-Tools nutzen können, um den Wechsel von Journey zu Cloud Service zu beschleunigen, indem Sie Ihren bestehenden Content (Paketstruktur, Indizes, Adobe Experience Manager Asset-Verarbeitungs-Workflows, Dispatcher-Konfigurationen) über die Automatisierung mit Cloud Service kompatibel machen.
 
-In dieser Sitzung werden wir zeigen, wie wir das NodeJS-Plug-in aio-cli-plugin-Adobe Experience Manager-cloud-service-migration (unser auf Adobe I/O Extensible Command Line Interface (CLI) basierendes NodeJS-Plug-in, das für diese Code-Refaktorierungs-Tools eine einheitliche Erfahrung bietet und den Aufwand für Installation und Einrichtung minimiert) nutzen können, um die Code-Refactoring-Tools einfach zu installieren und zu verwenden.
+In dieser Sitzung zeigen wir, wie wir das aio-cli-plugin-Adobe Experience Manager-cloud-service-migration (unser auf Adobe I/O Extensible Command Line Interface (CLI) basierendes NodeJS-Plug-in, das ein einheitliches Erlebnis für diese Code-Refaktorierungs-Tools bietet und den Installations- und Einrichtungsaufwand minimiert) verwenden können, um das Tool einfach zu installieren und die Code-Refaktorierungs-Tools zu verwenden.
 
-Wir hoffen, Menschen dabei zu helfen, die Best Practices bei der Verwendung der Code-Refaktorierungs-Tools zu verstehen, indem wir die Ausführung der Tools auf der Basis des echten Adobe Experience Manager-Kundencodes zeigen.
+Wir hoffen, den Teilnehmern dabei zu helfen, die Best Practices für die Verwendung der Code-Refaktorierungs-Tools zu verstehen, indem wir die Ausführung der Tools auf der echten Adobe Experience Manager-Kunden-Code-Basis zeigen.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3ETr7FI)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/3ETr7FI)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338036/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

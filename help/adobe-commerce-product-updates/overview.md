@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Adobe Commerce-Produktaktualisierungen
 
-Treten Sie dem Webinar Adobe Commerce Product Update bei, um zu erfahren, wie wir die Plattform mit vielen neuen und aufregenden Funktionen umgestalten! Wir präsentieren Ihnen die neuesten Commerce-Innovationen und wie sie Ihnen dabei helfen, Ihren Umsatz zu steigern, die Entwicklung zu optimieren und die Leistung zu steigern.
+Nehmen Sie am Webinar zur Adobe Commerce-Produktaktualisierung teil, um zu erfahren, wie wir die Plattform mit vielen neuen und aufregenden Funktionen umgestalten! Wir präsentieren Ihnen die neuesten Innovationen von Commerce und zeigen Ihnen, wie Sie damit Ihren Umsatz steigern, die Entwicklung optimieren und die Leistung steigern können.
 
 ## Neueste Aktualisierung
 

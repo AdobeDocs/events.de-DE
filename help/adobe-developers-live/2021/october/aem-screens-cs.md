@@ -1,6 +1,6 @@
 ---
 title: Screens Cloud Service
-description: Erfahren Sie mehr über die Unterschiede zwischen der Bereitstellung von Inhalten für den Digital Signage-Kanal und der Bereitstellung einer Website und darüber, wie Screens as a Cloud Service einen kanalspezifischen Bereitstellungsmechanismus bietet, um die einzigartigen Anforderungen an Digital Signage zu erfüllen.
+description: Erfahren Sie mehr über die Unterschiede zwischen der Bereitstellung von Inhalten für den Digital-Signage-Kanal und der Bereitstellung einer Website und darüber, wie Screens as a Cloud Service einen kanalspezifischen Bereitstellungsmechanismus für die individuellen Anforderungen an Digital Signage bietet.
 solution: Experience Manager,Experience Manager Screens
 feature: Developer Tools
 topic: Development
@@ -20,14 +20,14 @@ ht-degree: 5%
 
 # Screens Cloud Service
 
-Erfahren Sie mehr über die Unterschiede zwischen der Bereitstellung von Inhalten für den Digital Signage-Kanal und der Bereitstellung einer Website und darüber, wie Screens as a Cloud Service einen kanalspezifischen Bereitstellungsmechanismus bietet, um die einzigartigen Anforderungen an Digital Signage zu erfüllen.
+Erfahren Sie mehr über die Unterschiede zwischen der Bereitstellung von Inhalten für den Digital-Signage-Kanal und der Bereitstellung einer Website und darüber, wie Screens as a Cloud Service einen kanalspezifischen Bereitstellungsmechanismus für die individuellen Anforderungen an Digital Signage bietet.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3umX8Be)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/3umX8Be)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337885/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

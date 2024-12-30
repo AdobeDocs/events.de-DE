@@ -1,6 +1,6 @@
 ---
-title: Customer Journey Analytics-Integrationsgrundlagen
-description: Erfahren Sie, wie Sie CJA für die Zusammenarbeit mit anderen Adobe-Lösungen optimieren können, um die Fähigkeit Ihres Unternehmens zur Ausführung datengesteuerter Personalization zu erhöhen.
+title: Customer Journey Analytics Integration Essentials
+description: Erfahren Sie, wie Sie CJA für die Zusammenarbeit mit anderen Adobe-Lösungen optimieren können, um die Fähigkeit Ihres Unternehmens zur Ausführung datengesteuerter Personalization zu steigern.
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics, Experience Platform Integration
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ---
 
-# Customer Journey Analytics-Integrationsgrundlagen
+# Customer Journey Analytics Integration Essentials
 
-Erfahren Sie, wie Sie CJA für die Zusammenarbeit mit anderen Adobe-Lösungen optimieren können, um die Fähigkeit Ihres Unternehmens zur Ausführung datengesteuerter Personalization zu erhöhen.
+Erfahren Sie, wie Sie CJA für die Zusammenarbeit mit anderen Adobe-Lösungen optimieren können, um die Fähigkeit Ihres Unternehmens zur Ausführung datengesteuerter Personalization zu steigern.
 
-* Übersicht über die vorgestellten CJA-Integrationsfunktionen
+* Übersicht über die Funktionen der vorgestellten CJA-Integration
 * Anwendungsfälle für die Customer Journey Analytics-Integration
-* Wichtige Aspekte und Aktivierung von Insights
+* Wichtige Aspekte und Insights - Aktivierung
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425521/?learn=on)

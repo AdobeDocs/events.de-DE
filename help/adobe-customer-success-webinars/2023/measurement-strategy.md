@@ -1,6 +1,6 @@
 ---
-title: Festlegung einer effektiven Messstrategie
-description: Elemente einer effektiven Messstrategie Häufige Herausforderungen und Lösungsbeispiele für strategische Rahmenpläne
+title: Entwicklung einer effektiven Messstrategie
+description: Elemente einer effektiven Messstrategie Gemeinsame Herausforderungen und Lösungen Beispiele für strategische Rahmenwerke
 solution: Analytics
 role: Admin, Data Architect, Data Engineer, Leader, User
 level: Intermediate
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 ---
 
-# Festlegung einer effektiven Messstrategie
+# Entwicklung einer effektiven Messstrategie
 
-Adobe Analytics Booster Pack-Eröffnungssitzung, die von Adobe-Experten veranstaltet wird und in der Best Practices für eine Messprogrammstrategie geteilt werden.
+Adobe Analytics Booster Pack-Eröffnungssitzung, gehostet von Adobe-Experten, in der Best Practices für eine Messprogrammstrategie geteilt werden.
 
 * Elemente einer effektiven Messstrategie
 * Häufige Herausforderungen und Lösungen
-* Beispiele für strategische Rahmenpläne
+* Beispiele für strategische Rahmen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422527/?learn=on)

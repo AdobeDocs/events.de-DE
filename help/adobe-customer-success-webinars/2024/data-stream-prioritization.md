@@ -1,6 +1,6 @@
 ---
-title: Data Stream-Priorisierung
-description: Erfahren Sie, wie Sie die Priorisierung von Datenstreams für die Kampagnenorchestrierung verwalten, um die Fähigkeit Ihres Unternehmens zur Ausführung datengesteuerter Personalization zu überlasten.
+title: Datenstrom-Priorisierung
+description: Erfahren Sie, wie Sie die Priorisierung von Daten-Streams für die Kampagnenorchestrierung verwalten, um die Fähigkeit Ihres Unternehmens zur Ausführung datengesteuerter Personalization zu steigern.
 solution: Experience Platform
 feature-set: Experience Platform
 feature: Personalization
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ---
 
-# Data Stream-Priorisierung
+# Datenstrom-Priorisierung
 
-Erfahren Sie, wie Sie die Priorisierung von Datenstreams für die Kampagnenorchestrierung verwalten, um die Fähigkeit Ihres Unternehmens zur Ausführung datengesteuerter Personalization zu überlasten
+Erfahren Sie, wie Sie die Priorisierung von Daten-Streams für die Kampagnenorchestrierung verwalten, um die Fähigkeit Ihres Unternehmens zur Ausführung datengesteuerter Personalization zu steigern
 
 - Steuerung der Kampagnenorchestrierung mit Kundendaten
-- Bedeutung und Best Practices der Priorisierung von Datenstreams verstehen
+- Verständnis der Bedeutung von und Best Practices für die Priorisierung von Datenstrom
 - Marketing-Kampagnen in Echtzeit optimieren
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427302/?learn=on)

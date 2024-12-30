@@ -1,6 +1,6 @@
 ---
-title: Asset compute Service-Erweiterbarkeit
-description: Erfahren Sie, wie Sie mit Adobe Developer App Builder benutzerdefinierten Asset compute Worker für die Asset-Verarbeitung während der Erfassung in Adobe Experience Manager erstellen. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+title: Asset compute-Service-Erweiterbarkeit
+description: Erfahren Sie, wie Sie mit Adobe Developer App Builder einen benutzerdefinierten Asset compute-Worker für die Asset-Verarbeitung während der Aufnahme in Adobe Experience Manager erstellen. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 solution: Experience Manager,Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 ---
 
-# Asset compute Service-Erweiterbarkeit
+# Asset compute-Service-Erweiterbarkeit
 
-Erfahren Sie, wie Sie mit Adobe Developer App Builder benutzerdefinierten Asset compute Worker für die Asset-Verarbeitung während der Erfassung in Adobe Experience Manager erstellen.
+Erfahren Sie, wie Sie mit Adobe Developer App Builder einen benutzerdefinierten Asset compute-Worker für die Asset-Verarbeitung während der Aufnahme in Adobe Experience Manager erstellen.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331849/?quality=12&learn=on&hidetitle=true)

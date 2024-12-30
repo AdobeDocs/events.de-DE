@@ -1,6 +1,6 @@
 ---
 title: HTTP? Wie es begann, wie es läuft
-description: Ein Interview mit Roy Fielding, Mitautor des HTTP-Protokolls und Erfinder von REST, über die Entwicklung von HTTP von frühen Tagen bis zur aktuellen Arbeit an QUIC & HTTP/3. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+description: Ein Interview mit Roy Fielding, Mitautor des HTTP-Protokolls und Erfinder von REST, über die Entwicklung des HTTP von den frühen Tagen bis zur aktuellen Arbeit an QUIC & HTTP/3. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # HTTP? Wie es begann, wie es läuft
 
-Ein Interview mit Roy Fielding, Mitautor des HTTP-Protokolls und Erfinder von REST, über die Entwicklung von HTTP von frühen Tagen bis zur aktuellen Arbeit an QUIC &amp; HTTP/3.
+Ein Interview mit Roy Fielding, Mitautor des HTTP-Protokolls und Erfinder von REST, über die Entwicklung des HTTP von den frühen Tagen bis zur aktuellen Arbeit an QUIC &amp; HTTP/3.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331738/?quality=12&learn=on&hidetitle=true)

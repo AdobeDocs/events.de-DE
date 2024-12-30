@@ -1,6 +1,6 @@
 ---
-title: Grundlagen des Workfront-Systems und der Gruppenadministratorsicherheit
-description: Entdecken Sie Best Practices zur Bestimmung des richtigen Gleichgewichts zwischen Workfront-System- und Gruppenadministratoren, zur Verteilung von Arbeitslasten und zur Wahrung der Datenintegrität, um Ihr Unternehmen effizient und sicher zu skalieren.
+title: Grundlagen der Workfront-System- und Gruppenverwaltungs-Vormundschaft
+description: Entdecken Sie Best Practices für die Bestimmung des richtigen Gleichgewichts zwischen Workfront-System- und Gruppenadministratoren, die Verteilung von Arbeitslasten und die Aufrechterhaltung der Datenintegrität, um Ihr Unternehmen effizient und sicher zu skalieren.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 ---
 
-# Grundlagen des Workfront-Systems und der Gruppenadministratorsicherheit
+# Grundlagen der Workfront-System- und Gruppenverwaltungs-Vormundschaft
 
-Erfahren Sie, wie Sie das richtige Verhältnis zwischen Systemadministratoren und Gruppenadministratoren Ihrer Workfront-Instanz ermitteln können und warum es nicht so riskant oder beängstigend sein muss, einige Tasten in das Königreich zu lassen, wie man es ursprünglich wahrnehmen könnte. Diese Aufzeichnung bietet einen Überblick über die Best Practices in Bezug auf die Personalbesetzung für Administratoren, die Verteilung des Verwaltungsaufwands, die Wahrung der Datenintegrität und Skalierbarkeit in den Unternehmensinstanzen, während gleichzeitig ein Teil des Aufwands genutzt wird.
+Erfahren Sie, wie Sie das richtige Verhältnis zwischen Systemadministratoren und Gruppenadministratoren in Ihrer Workfront-Instanz ermitteln können und warum das Loslassen einiger Schlüssel für das Königreich nicht so riskant oder beängstigend sein muss, wie man es anfänglich wahrnehmen würde. Diese Aufzeichnung bietet einen Überblick über Best Practices in Bezug auf Admin-Personal, die Verteilung des administrativen Arbeitsaufwands, die Aufrechterhaltung der Datenintegrität und -skalierbarkeit in den Unternehmensinstanzen sowie einen Teil des Aufwands.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433002/?learn=on)
 
@@ -26,30 +26,30 @@ Erfahren Sie, wie Sie das richtige Verhältnis zwischen Systemadministratoren un
 
 **Rollen in der Governance**
 
-* Systemadministratoren sind strategisch tätig, führen Anwendungsfälle von Adobe Workfront aus und treiben Veränderungen voran.
-* Gruppenadministratoren haben eine taktische Rolle, verwalten Konfigurationen und kommunizieren mit Endbenutzern.
+* Systemadmins sind strategisch, führen Anwendungsfälle für Adobe Workfront aus und fördern Veränderungen.
+* Gruppenadmins haben eine taktische Rolle bei der Verwaltung von Konfigurationen und der Kommunikation mit Endbenutzern.
 
-**Wichtigkeit der rechten Größe**
+**Die Bedeutung der richtigen Größe**
 
-* Die Anpassung der Systemadministratorpraxis an die Größe der Organisation und die Zugriffsanforderungen ist von entscheidender Bedeutung.
+* Die Anpassung der Systemadmin-Praxis auf der Grundlage der Größe der Organisation und der Zugriffsanforderungen ist von entscheidender Bedeutung.
 
-**Strategien zum Hinzufügen von Mehrwert**
+**Wertschöpfungsstrategien**
 
 * Die Verwendung von Blueprints und Dashboards kann die Verwaltung von Workfront erheblich verbessern.
-* Für eine effiziente Verwaltung der Admin-Arbeit werden Anforderungswarteschlangen empfohlen.
+* Anforderungswarteschlangen werden für ein effizientes Admin-Arbeitsmanagement empfohlen.
 
 **Best Practices für die Anpassung**
 
-* Die Anpassung von Status, Zugriffsebenen und Layoutvorlagen sollte sorgfältig durchgeführt werden, um Duplizierung und Komplexität zu vermeiden.
+* Das Anpassen von Status, Zugriffsebenen und Layout-Vorlagen sollte sorgfältig erfolgen, um Duplizierungen und Komplexität zu vermeiden.
 
 **Wartung und Governance**
 
-* Die Erstellung eines Wartungsplans und die Einführung von Governance sind wichtige Schritte in der Journey sysadmin.
-* Regelmäßige Audits und Systemwartung sind für einen reibungslosen Betrieb und die Effizienz von entscheidender Bedeutung.
+* Die Erstellung eines Wartungsplans und die Einrichtung von Governance sind wesentliche Schritte auf der Sysadmin-Journey.
+* Regelmäßige Audits und Systemwartung sind für einen reibungslosen Betrieb und Effizienz von entscheidender Bedeutung.
 
 **Zusätzliche Einblicke**
 
-* Teilnehmer wurden aufgefordert, eine Umfrage auszufüllen, die über QR-Code oder Link bereitgestellt wird.
-* Die Verwaltung der unterschiedlichen Fertigkeiten der Benutzer wurde als eine Herausforderung herausgestellt.
-* Es wurden Aktivierungsressourcen und Möglichkeiten für Bootcamps, Zertifizierungen und die Anhebung erwähnt.
-* Das Webinar schloss mit Dankesbekundungen der Redner an die Teilnehmer.
+* Die Teilnehmer wurden aufgefordert, eine Umfrage auszufüllen, die über QR-Code oder Link bereitgestellt wurde.
+* Die Verwaltung der unterschiedlichen Fähigkeiten der Benutzer wurde als herausfordernder Aspekt hervorgehoben.
+* Es wurden Ressourcen und Möglichkeiten für die Aktivierung von Bootcamps, Zertifizierungen und Abstufungen nach oben erwähnt.
+* Zum Abschluss des Webinars sprachen die Referenten den Teilnehmern ihre Dankbarkeit aus.

@@ -1,6 +1,6 @@
 ---
 title: Sammeln vieler Signaturen mit einem Klick
-description: Erfahren Sie, wie Sie mit der Funktion "Massenversand"in Acrobat Sign Zeit sparen können.
+description: Erfahren Sie, wie Sie mit der Funktion „In Bulk senden“ in Acrobat Sign Zeit sparen können.
 feature: Sign
 role: User
 level: Beginner
@@ -18,16 +18,16 @@ ht-degree: 0%
 
 # Sammeln vieler Signaturen mit einem Klick
 
-Erfahren Sie, wie Sie mit der Funktion &quot;Massenversand&quot;in Acrobat Sign Zeit sparen können. Wenn Sie mehrere Personen benötigen müssen, um eindeutige Kopien einer unternehmensweiten Richtlinienaktualisierung, einer NDA oder eines anderen Dokuments zu signieren, können Sie die Datei mit &quot;Massen senden&quot;einmal vorbereiten, mit einem Klick an mehrere Unterzeichner senden und die Antworten einfach verfolgen.
+Erfahren Sie, wie Sie mit der Funktion „In Bulk senden“ in Acrobat Sign Zeit sparen können. Wenn Sie mehrere Personen benötigen, um eindeutige Kopien einer unternehmensweiten Richtlinienaktualisierung, einer NDA oder eines anderen Dokuments zu signieren, können Sie die Datei durch Massenversand vorbereiten, mit einem Klick an mehrere Unterzeichner senden und Antworten einfach verfolgen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
 
 ## Wichtigste Punkte
 
-* Ein Überblick darüber, wie Sie Vereinbarungen in großen Mengen mit Adobe Acrobat Sign versenden.
-* Der Prozess umfasst das Vorbereiten einer CSV-Datei mit Empfängerdetails und das Zusammenführen dieser Daten in das Dokument.
+* Eine Übersicht darüber, wie Sie mit Adobe Acrobat Sign Vereinbarungen stapelweise senden können.
+* Der Prozess umfasst die Vorbereitung einer CSV-Datei mit Empfängerdetails und das Zusammenführen dieser Daten zum Dokument.
 * Die CSV-Datei enthält Spalten für E-Mail-Adressen und optionale empfängerspezifische Daten.
-* Hier erfahren Sie, wie Sie die CSV-Datei hochladen und die Vereinbarungen gleichzeitig an mehrere Empfänger senden.
-* Jeder Empfänger erhält ein personalisiertes Dokument mit seinen spezifischen Daten, die in die Formularfelder eingefügt werden.
-* Erfahren Sie, wie Sie die stapelweise gesendeten Vereinbarungen verwalten und verfolgen, einschließlich der Übermittlung von Erinnerungen an Empfänger, die noch nicht unterzeichnet haben.
-* Im Webinar wurde die Option erwähnt, GigaSign für mehrere Unterzeichner-Workflows zu verwenden.
+* Hier sehen Sie eine Demonstration dazu, wie Sie die CSV-Datei hochladen und die Vereinbarungen an mehrere Empfänger gleichzeitig senden.
+* Jeder Empfänger erhält ein personalisiertes Dokument, in dem seine spezifischen Daten in die Formularfelder eingefügt werden.
+* Erfahren Sie, wie Sie die Vereinbarungen verwalten und verfolgen, die stapelweise gesendet werden, einschließlich des Versands von Erinnerungen an Empfänger, die noch nicht unterzeichnet haben.
+* Im Webinar wurde die Möglichkeit erwähnt, GigaSign für mehrere Unterzeichner-Workflows zu verwenden.

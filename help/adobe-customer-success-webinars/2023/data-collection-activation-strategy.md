@@ -1,6 +1,6 @@
 ---
-title: Entwickeln einer Echtzeit-Datenerfassungs- und Aktivierungsstrategie
-description: Nutzen und aktivieren Sie Ihre Datenerfassungsstrategie, um eine zeitnahe Interaktion mit Ihren Kunden und potenziellen Kunden zu ermöglichen.
+title: Entwicklung einer Strategie für die Echtzeit-Datenerfassung und -Aktivierung
+description: Nutzen und aktivieren Sie Ihre Datenerfassungsstrategie, um schneller mit Ihren Kunden und potenziellen Kunden interagieren zu können.
 role: Admin, Developer, Leader
 level: Intermediate
 doc-type: Event
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ---
 
-# Entwickeln einer Echtzeit-Datenerfassungs- und Aktivierungsstrategie
+# Entwicklung einer Strategie für die Echtzeit-Datenerfassung und -Aktivierung
 
-Nutzen und aktivieren Sie Ihre Datenerfassungsstrategie, um eine zeitnahe Interaktion mit Ihren Kunden und potenziellen Kunden zu ermöglichen.
+Nutzen und aktivieren Sie Ihre Datenerfassungsstrategie, um eine zeitnahere Interaktion mit Ihren Kunden und potenziellen Kunden zu ermöglichen.
 
-* Navigieren in der Terminologie der Echtzeit-Kundendatenplattform
+* Navigieren in der Terminologie von Real-Time CDP
 * Vorteile der Modernisierung Ihrer Datenerfassungs- und Aktivierungsfunktionen
 * Überblick über die allgemeine Architektur
 * Überlegungen zur Datenerfassungs- und Aktivierungsstrategie

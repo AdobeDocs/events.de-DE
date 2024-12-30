@@ -1,6 +1,6 @@
 ---
-title: Best Practices für Entwickler zur Beschleunigung der Markteinführungszeit
-description: Pauline Hyunh und Gabriel Walt decken modulare Ansätze, schnelle Site-Erstellung , Best Practices für Entwickler, Tools mit geringem Code, Vorlagen und mehr ab. (Sollte zwischen 60 und 160 Zeichen lang sein, jedoch 177 Zeichen lang sein)
+title: Best Practices für Entwickler zur Verkürzung der Time-to-Market
+description: Pauline Hyunh und Gabriel Walt berichten über modulare Ansätze für AEM Sites, schnelle Site-Erstellung , Best Practices… Entwickler-Best-Practices, Low-Code-Tools, Vorlagen und mehr. (Sollte zwischen 60 und 160 Zeichen lang sein, beträgt aber 177 Zeichen)
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Development
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Best Practices für Entwickler zur Beschleunigung der Time-to-Market mit AEM Sites
+# Best Practices für Entwickler zur Verkürzung der Time-to-Market mit AEM Sites
 
-Pauline Hyunh und Gabriel Walt decken modulare Ansätze, schnelle Site-Erstellung, Best Practices, Best Practices für Entwickler, Tools mit geringem Code, Vorlagen und mehr ab.
+Pauline Hyunh und Gabriel Walt berichten über modulare Ansätze für AEM Sites, schnelle Site-Erstellung , Best Practices, Best Practices für Entwickler, Low-Code-Tools, Vorlagen und mehr.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345381/?quality=12&learn=on)

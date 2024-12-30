@@ -1,6 +1,6 @@
 ---
-title: Erweiterte Tipps zum Senden von Dokumenten für Signaturen
-description: Erfahren Sie mehr über das Senden an mehrere Empfänger Verfügbare Empfängerrollen (Unterzeichner, Formularbenutzer, Delegator usw.) Hinzufügen eines Kennwortschutzes für CC-Felder und mehr.
+title: Erweiterte Tipps zum Senden von Dokumenten zur Signatur
+description: Erfahren Sie mehr über das Senden an mehrere Empfängerinnen und Empfänger Verfügbare Empfängerrollen (Unterzeichner, Formularausfüller, Delegator und andere) Hinzufügen eines CC-Kennwortschutzes und mehr.
 feature: Sign
 role: User
 level: Intermediate
@@ -16,14 +16,14 @@ ht-degree: 0%
 
 ---
 
-# Erweiterte Tipps zum Senden von Dokumenten für Signaturen
+# Erweiterte Tipps zum Senden von Dokumenten zur Signatur
 
-Machen Sie sich mit allen Optionen vertraut, die beim Senden von Verträgen zur Unterzeichnung zur Verfügung stehen. In dieser Sitzung erfahren Sie mehr über: Senden an mehrere Empfänger Verfügbare Empfängerrollen (Unterzeichner, Formularbenutzer, Delegator und andere) Hinzufügen eines CC-Felds Kennwortschutz und mehr.
+Machen Sie sich mit allen Optionen vertraut, die beim Senden von Vereinbarungen zur Unterzeichnung verfügbar sind. In dieser Sitzung erfahren Sie mehr über: Senden an mehrere Empfänger Verfügbare Empfängerrollen (Unterzeichner, Formularausfüller, Delegator usw.) Hinzufügen eines CC-Felds, Passwortschutz und mehr.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428186/?learn=on)
 
-Das Webinar bietet Einblicke in die erweiterten Funktionen von Acrobat Sign zum Einrichten von Workflows mit mehreren Teilnehmern, zum Konfigurieren von Empfängerrollen und zum Verwenden von Empfängergruppen und privaten Nachrichten. Diese Lerninhalte können dazu beitragen, den Prozess des Versands von Dokumenten zur Signatur zu optimieren und die Zusammenarbeit zwischen den unterzeichnenden Teilnehmern zu verbessern.
+Das Webinar bietet Einblicke in die erweiterten Funktionen von Acrobat Sign zum Einrichten von Workflows mit mehreren Teilnehmern, zum Konfigurieren von Empfängerrollen und zum Verwenden von Empfängergruppen und privaten Nachrichten. Dieses Lernen kann dazu beitragen, den Prozess des Versands von Dokumenten zur Signatur zu optimieren und die Zusammenarbeit zwischen den Unterzeichnungsteilnehmern zu verbessern.
 
-Es umfasst verschiedene Identitätsauthentifizierungsoptionen, die für die Unterzeichner verfügbar sind, darunter E-Mail-Verifizierung, Kennwortschutz, Telefonauthentifizierung, wissensbasierte Authentifizierung und Verifizierung der Behörden-ID. Das Verständnis dieser Optionen kann dazu beitragen, die Sicherheit und Authentizität der unterzeichneten Vereinbarungen sicherzustellen.
+Es behandelt verschiedene Identitätsauthentifizierungsoptionen, die für die Unterzeichnungsteilnehmer verfügbar sind, einschließlich E-Mail-Verifizierung, Passwortschutz, Telefonauthentifizierung, wissensbasierte Authentifizierung und Authentifizierung mit amtlichen Lichtbildausweisen. Wenn Sie diese Optionen verstehen, können Sie die Sicherheit und Authentizität der unterzeichneten Vereinbarungen sicherstellen.
 
-Das Webinar unterstreicht die Bedeutung von Vertragsnachrichten und die Möglichkeit, Dateianlagen zu Vereinbarungen hinzuzufügen. Dieses Lernen kann die Kommunikation verbessern und zusätzliche Kontexte oder unterstützende Dokumente während des Signiervorgangs bereitstellen. Darüber hinaus wurden im Webinar die Optionen zum Festlegen von Erinnerungsfrequenzen und Ablaufdaten für Vereinbarungen hervorgehoben, die dazu beitragen können, Zeitpläne zu verwalten und den rechtzeitigen Abschluss von Unterschriftsaufgaben sicherzustellen.
+Im Webinar wird die Bedeutung von Vereinbarungsnachrichten und die Möglichkeit hervorgehoben, Dateianhänge zu Vereinbarungen hinzuzufügen. Dieses Lernen kann die Kommunikation verbessern und zusätzlichen Kontext oder unterstützende Dokumente während des Signaturprozesses bereitstellen. Darüber hinaus wurden im Webinar die Optionen zum Festlegen der Häufigkeit von Erinnerungen und Ablaufdaten für Vereinbarungen hervorgehoben, was dazu beitragen kann, Zeitpläne zu verwalten und den rechtzeitigen Abschluss von Unterzeichnungsaufgaben sicherzustellen.

@@ -1,6 +1,6 @@
 ---
 title: Asset-Massenaufnahme
-description: In dieser Sitzung werden die neue Funktion der Asset-Massenaufnahme im Cloud-Service sowie deren Skalierbarkeit und Leistung vorgestellt. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+description: In dieser Sitzung werden die neue Funktion der Massenaufnahme von Assets in Cloud Service und ihre Skalierbarkeit und Leistung vorgestellt. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 solution: Experience Manager,Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 # Asset-Massenaufnahme
 
-In dieser Sitzung werden die neue Funktion der Asset-Massenaufnahme im Cloud-Service sowie deren Skalierbarkeit und Leistung vorgestellt.
+In dieser Sitzung werden die neue Funktion der Massenaufnahme von Assets in Cloud Service sowie deren Skalierbarkeit und Leistung vorgestellt.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331769/?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/asset-bulk-ingestion.pdf)** .
+Klicken Sie **[hier](/help/adobe-developers-live/assets/asset-bulk-ingestion.pdf)** für die Sitzungsfolien.

@@ -1,6 +1,6 @@
 ---
-title: Change Management
-description: Überblick über die Strategien für das Change Management, die Einbeziehung von Interessengruppen, Lernen und Aktivierung sowie Kommunikation beinhalten, die einen strukturierten Ansatz für die Umstellung vom aktuellen Status auf den gewünschten künftigen Status bieten. Was ist Change Management Change Management Strategies Resistenz Mitigation Messen Erfolg
+title: Änderungsverwaltung
+description: Überblick über Strategien zum Änderungs-Management, die die Interaktion mit Stakeholdern, Lernen und Einarbeitung sowie Kommunikation umfassen, die einen strukturierten Ansatz für den Übergang vom aktuellen Status zum gewünschten zukünftigen Status bieten. Was ist Change Management Change Management-Strategien Widerstandsmäßigkeit Messung des Erfolgs von Änderungen
 solution: General
 role: Architect, Data Architect, Data Engineer, Developer, Leader
 level: Intermediate
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ---
 
-# Change Management
+# Änderungsverwaltung
 
-Überblick über die Strategien für das Change Management, die Einbeziehung von Interessengruppen, Lernen und Aktivierung sowie Kommunikation beinhalten, die einen strukturierten Ansatz für die Umstellung vom aktuellen Status auf den gewünschten künftigen Status bieten.
+Überblick über Strategien zum Änderungs-Management, die die Interaktion mit Stakeholdern, Lernen und Einarbeitung sowie Kommunikation umfassen, die einen strukturierten Ansatz für den Übergang vom aktuellen Status zum gewünschten zukünftigen Status bieten.
 
-* Was ist die Änderungsverwaltung
-* Managementstrategien ändern
-* Resistenzminderung
-* Messen des Erfolgs von Änderungen
+* Was ist Änderungsmanagement?
+* Strategien für das Änderungsmanagement
+* Widerstandsminderung
+* Erfolgreiche Messung von Änderungen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425734/?learn=on)

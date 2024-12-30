@@ -1,6 +1,6 @@
 ---
 title: Customer Journey Analytics-Migrationsbereitschaft
-description: Überblick über den Customer Journey Analytics-Wert, Highlights nach Branche, empfohlene Ressourcen
+description: Überblick über den Customer Journey Analytics-Wert, Highlights nach Branche, Empfohlene Ressourcen
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 # Customer Journey Analytics-Migrationsbereitschaft
 
-* Überblick über den CJA-Wert
-* CJA-Anwendungsbeispiele nach Branche
+* Übersicht über den CJA-Wert
+* Höhepunkte der CJA-Anwendungsfälle nach Branche
 * Empfohlene Ressourcen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423904/?learn=on)

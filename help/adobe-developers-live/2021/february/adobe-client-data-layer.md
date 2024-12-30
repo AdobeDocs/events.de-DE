@@ -1,6 +1,6 @@
 ---
-title: Adobe Client-Datenschicht - Tracking Ihrer Besucherdaten
-description: Machen Sie sich mit der ereignisgesteuerten API von ACDL vertraut. Ein Commerce-Beispiel zeigt, wie die Kernkomponenten es hydrieren und die Launch-Erweiterungs-Schnittstellen mit AA und AT. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+title: 'Adobe-Client-Datenschicht : Verfolgen Sie Ihre Besucherdaten'
+description: Verstehen der ereignisgesteuerten API von ACDL. In einem Commerce-Beispiel wird gezeigt, wie die Kernkomponenten sie hydrieren und die Launch-Erweiterung eine Schnittstelle mit AA und AT bildet. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 solution: Experience Manager, Experience Manager Sites, Analytics, Target
 product: experience manager
 sub-product: sites
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe Client-Datenschicht - Tracking Ihrer Besucherdaten
+# Adobe-Client-Datenschicht : Verfolgen Sie Ihre Besucherdaten
 
-Machen Sie sich mit der ereignisgesteuerten API von ACDL vertraut. Ein Commerce-Beispiel zeigt, wie die Kernkomponenten es hydrieren und die Launch-Erweiterungs-Schnittstellen mit AA und AT.
+Verstehen der ereignisgesteuerten API von ACDL. In einem Commerce-Beispiel wird gezeigt, wie die Kernkomponenten sie hydrieren und die Launch-Erweiterung eine Schnittstelle mit AA und AT bildet.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331733/?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/adobe-client-data-layer.pdf)** .
+Klicken Sie **[hier](/help/adobe-developers-live/assets/adobe-client-data-layer.pdf)** für die Sitzungsfolien.

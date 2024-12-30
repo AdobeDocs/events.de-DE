@@ -19,11 +19,11 @@ ht-degree: 42%
 
 # Festlegen einer effektiven Audience Activation-Strategie
 
-Diese Sitzung behandelt:
+Diese Sitzung behandelt Folgendes:
 
-- Bedeutung einer Data-Management-Strategie
-- Übersicht und Funktionen von Adobe Audience Manager
-- Anwendungsfälle für Adobe Audience Manager
-- Aktionsplan zur Einrichtung einer Data-Management-Strategie
+- Bedeutung einer Datenverwaltungsstrategie
+- Überblick über Adobe Audience Manager und Funktionen
+- Adobe Audience Manager-Anwendungsfälle
+- Aktionsplan zur Entwicklung einer Datenverwaltungsstrategie
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423008/?learn=on)

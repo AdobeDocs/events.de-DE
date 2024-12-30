@@ -1,6 +1,6 @@
 ---
-title: Echtzeit-Kundendatenvorbereitung
-description: Erfahren Sie mehr über die Strategie für die organisatorische Abwehrbereitschaft aus der Perspektive der Datenbereitschaft für einen optimierten Start der Echtzeit-Kundendatenplattform. Grundlegendes zur Datenbereitschaft der Echtzeit-Kundendatenplattform und Erfahren Sie, wie Sie Geschäftsanwendungsfälle als Organisation abstimmen.Wichtige Ressourcen und Aktionen für die Echtzeit-Bereitschaft der Kundendatenplattform
+title: Bereitschaft für Real-Time CDP-Daten
+description: Lernen Sie die Strategie hinter der organisatorischen Vorbereitung aus der Perspektive der Datenbereitschaft für einen optimierten Real-Time CDP-Launch kennen. Verstehen der Datenbereitschaft der Real-Time CDP und Erfahren Sie, wie Sie geschäftliche Anwendungsfälle als Organisation aufeinander abstimmenWichtige Ressourcen und Aktionen für die Bereitschaft der Real-Time CDP
 solution: Real-Time Customer Data Platform
 role: Admin, Architect, Data Architect, Data Engineer, Developer
 level: Intermediate
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 ---
 
-# Echtzeit-Kundendatenvorbereitung
+# Bereitschaft für Real-Time CDP-Daten
 
-Erfahren Sie mehr über die Strategie für die organisatorische Abwehrbereitschaft aus der Perspektive der Datenbereitschaft für einen optimierten Start der Echtzeit-Kundendatenplattform.
+Lernen Sie die Strategie hinter der organisatorischen Vorbereitung aus der Perspektive der Datenbereitschaft für einen optimierten Real-Time CDP-Launch kennen.
 
-* Grundlegendes zur Datenbereitschaft der Realtime CDP
-* Erfahren Sie, wie Sie Geschäftsanwendungsfälle als Organisation abstimmen.
-* Wichtige Ressourcen und Aktionen für die Vorbereitung auf die Realtime CDP
+* Verstehen der Bereitschaft von Real-Time CDP-Daten
+* Erfahren Sie, wie Sie als Organisation geschäftliche Anwendungsfälle abstimmen können
+* Wichtige Ressourcen und Aktionen für die Bereitschaft von Real-Time CDP
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Erweitern von Adobe Commerce mithilfe von Adobe I/O
-description: Erfahren Sie, wie Adobe Commerce es Entwicklern und Händlern ermöglicht, Commerce-Erlebnisse mit benutzerdefinierter Geschäftslogik, interaktiven Inhalten und Integrationen mit anderen Interaktionspunkten anzureichern.
+description: Erfahren Sie, wie Adobe Commerce es Entwickelnden und Händlern ermöglicht, Commerce-Erlebnisse mit benutzerdefinierter Geschäftslogik, beeindruckenden Inhalten und Integrationen mit anderen Interaktionspunkten zu bereichern.
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
@@ -18,12 +18,12 @@ ht-degree: 16%
 
 # Erweitern von Adobe Commerce mithilfe von Adobe I/O
 
-Erfahren Sie, wie Adobe Commerce es Entwicklern und Händlern ermöglicht, Commerce-Erlebnisse mit benutzerdefinierter Geschäftslogik, interaktiven Inhalten und Integrationen mit anderen Interaktionspunkten anzureichern.
+Erfahren Sie, wie Adobe Commerce es Entwickelnden und Händlern ermöglicht, Commerce-Erlebnisse mit benutzerdefinierter Geschäftslogik, beeindruckenden Inhalten und Integrationen mit anderen Interaktionspunkten zu bereichern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337727/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

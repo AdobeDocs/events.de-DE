@@ -1,6 +1,6 @@
 ---
-title: Vorbereitung der CDP-Migration in Echtzeit
-description: Der Aufwand für die Migration zur Echtzeit-Kundendatenplattform, organisatorische Umbrüche mit sofortiger Umstellung und zusätzliche Adobe-Ressourcen für den Adobe Audience Manager-Support
+title: Bereitschaft für die Migration der Real-Time CDP
+description: Der Aufwand für die Migration zu Real-Time CDP, organisatorische Veränderungen mit einem Wechsel und zusätzliche Adobe-Ressourcen für den Adobe Audience Manager-Support
 solution: Real-Time Customer Data Platform
 role: Admin, Data Architect, Data Engineer, Leader
 level: Intermediate
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 ---
 
-# Vorbereitung der CDP-Migration in Echtzeit
+# Bereitschaft für die Migration der Real-Time CDP
 
-Erfahren Sie mehr über die Migration zur Adobe-Echtzeit-Kundendatenplattform.
+Erfahren Sie mehr über die Migration zu Adobe Real-Time CDP.
 
-* Umfang des Migrationsaufwands
-* Organisatorische Veränderungen mit Migration
+* Der Umfang des Migrationsaufwands
+* Organisatorische Veränderungen durch Migration
 * Zusätzliche Adobe-Ressourcen für Adobe Audience Manager-Unterstützung
 
 

@@ -1,6 +1,6 @@
 ---
-title: Verwalten von Vereinbarungen - Erhalten der Echtzeit-Sichtbarkeit des Vertragsstatus
-description: Lernen Sie die Vorteile und Möglichkeiten der Tools und Best Practices für die Vertragsverwaltung kennen, damit Sie jederzeit über den Status Ihrer Vereinbarungen informiert sind.
+title: Vereinbarungen verwalten - Echtzeit-Einblick in den Vertragsstatus erhalten
+description: Lernen Sie die Tools und Best Practices für die Vertragsverwaltung kennen, damit Sie jederzeit über den Status Ihrer Verträge informiert sind.
 role: User
 level: Beginner
 doc-type: Event
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Vereinbarungen verwalten: Echtzeit-Sichtbarkeit in den Vertragsstatus
+# Vereinbarungen verwalten: Echtzeit-Einblick in den Vertragsstatus erhalten
 
-Lernen Sie die Vorteile und Möglichkeiten der Tools und Best Practices für die Vertragsverwaltung kennen, damit Sie jederzeit über den Status Ihrer Vereinbarungen informiert sind. In dieser Sitzung werden folgende Themen behandelt: Welche Aktionen können Sie auf der Registerkarte &quot;Verwalten&quot;für Dokumente durchführen, wie Daten aus Web-Formularen und Massen-Sendungen verarbeitet und verwendet werden und wie Sie nach den benötigten Dokumenten suchen und filtern können.
+Lernen Sie die Tools und Best Practices für die Vertragsverwaltung kennen, damit Sie jederzeit über den Status Ihrer Verträge informiert sind. In dieser Sitzung wird Folgendes behandelt: Welche Aktionen Sie mit Dokumenten auf der Registerkarte Verwalten durchführen können, wie Daten aus Web-Formularen und Massensendungen verarbeitet und verwendet werden und wie Sie nach den benötigten Dokumenten suchen und filtern können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428190/?learn=on)
 
-In dieser Sitzung wird erläutert, wie Vereinbarungen mit Adobe Acrobat Sign verwaltet und verfolgt werden können. &#x200B; Sie erläutern den unterschiedlichen Vertragsstatus, zeigen Maßnahmen auf, die in Bezug auf laufende Vereinbarungen ergriffen werden können, und bieten Ressourcen für weitere Lernprozesse.
+In dieser Sitzung erörtert der Sprecher, wie Vereinbarungen mithilfe von Adobe Acrobat Sign verwaltet und verfolgt werden können. &#x200B; Sie erläutern die verschiedenen Vertragsstatus, zeigen Maßnahmen auf, die in Bezug auf laufende Vereinbarungen ergriffen werden können, und stellen Ressourcen für weiteres Lernen bereit.

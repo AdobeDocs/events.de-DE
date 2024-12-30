@@ -1,6 +1,6 @@
 ---
 title: API-Authentifizierung mit Adobe Experience Manager as a Cloud Service
-description: Wie neue Mechanismen in der Adobe Experience Manager Dev Console eine Authentifizierung für Instanzen von Adobe Experience Manager in der Cloud ermöglichen, sowohl als Entwickler als auch von Drittanbieteranwendungen. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+description: Wie neue Mechanismen in der Adobe Experience Manager-Entwicklungskonsole die Authentifizierung für Instanzen von Adobe Experience Manager in der Cloud ermöglichen, sowohl als Entwicklungsperson als auch von Drittanbieteranwendungen. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 solution: Experience Manager
 product: experience manager
 feature: APIs
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 # API-Authentifizierung mit Adobe Experience Manager as a Cloud Service
 
-Wie neue Mechanismen in der Adobe Experience Manager Dev Console eine Authentifizierung für Instanzen von Adobe Experience Manager in der Cloud ermöglichen, sowohl als Entwickler als auch von Drittanbieteranwendungen.
+Wie neue Mechanismen in der Adobe Experience Manager-Entwicklungskonsole die Authentifizierung für Instanzen von Adobe Experience Manager in der Cloud ermöglichen, sowohl als Entwicklungsperson als auch von Drittanbieteranwendungen.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331768/?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/api-authentication.pdf)** .
+Klicken Sie **[hier](/help/adobe-developers-live/assets/api-authentication.pdf)** für die Sitzungsfolien.

@@ -1,6 +1,6 @@
 ---
-title: PWA - Konvertieren einer Site in eine progressive Web-App
-description: Stellen Sie Ihre Website mit nur einem Klick auf Mobilgeräten und offline verfügbar, unabhängig davon, ob es sich um eine Web-App oder eine herkömmliche Site handelt. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+title: PWA - Verwandeln einer Site in eine Progressive Web App
+description: Machen Sie Ihre Site mit nur einem Klick auf Mobilgeräte installierbar und offline verfügbar, unabhängig davon, ob es sich um eine Web-App oder eine herkömmliche Site handelt. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 ---
 
-# PWA - Konvertieren einer Site in eine progressive Web-App
+# PWA - Verwandeln einer Site in eine Progressive Web App
 
-Stellen Sie Ihre Website mit nur einem Klick auf Mobilgeräten und offline verfügbar, unabhängig davon, ob es sich um eine Web-App oder eine herkömmliche Site handelt.
+Machen Sie Ihre Site mit nur einem Klick auf Mobilgeräte installierbar und offline verfügbar, unabhängig davon, ob es sich um eine Web-App oder eine herkömmliche Site handelt.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331742/?quality=12&learn=on&hidetitle=true)

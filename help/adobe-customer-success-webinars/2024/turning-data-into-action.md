@@ -1,6 +1,6 @@
 ---
-title: Die strategische Bedeutung der Messung - Umsetzung von Daten in Maßnahmen
-description: Effektive Messungsstrategien bauen Vertrauen und Ermächtigung auf, indem sie Interessengruppen einbeziehen, die Vertrautheit mit Daten sicherstellen und das Vertrauen in die Entscheidungsfindung fördern, während Vertrauen durch Transparenz, Data Governance und die Abstimmung von Interessenträgern etabliert wird und die Ermächtigung durch Schulungen, zugängliche Werkzeuge und umsetzbare Daten erreicht wird. All dies trägt dazu bei, den Wert von Analysen durch geschäftliche Auswirkungen und betriebliche Effizienzen zu demonstrieren.
+title: Die strategische Macht des Messens - Daten in die Tat umsetzen
+description: Effektive Messstrategien schaffen Vertrauen und Empowerment, indem sie die Beteiligten einbeziehen, die Vertrautheit mit den Daten sicherstellen und das Vertrauen in die Entscheidungsfindung stärken. Vertrauen wird durch Transparenz, Data Governance und die Ausrichtung der Stakeholder geschaffen, und Empowerment wird durch Schulungen, barrierefreie Tools und verwertbare Daten erreicht, die alle dazu beitragen, den Wert der Analyse durch geschäftliche Auswirkungen und betriebliche Effizienz zu demonstrieren.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -15,40 +15,40 @@ ht-degree: 0%
 
 ---
 
-# Die strategische Leistung der Messung: Umsetzung von Daten in Maßnahmen
+# Die strategische Macht des Messens: Daten in die Tat umsetzen
 
-Erfahren Sie mehr über die wesentlichen Elemente einer ganzheitlichen Messstrategie und die wichtigsten Schritte zur Bewältigung gemeinsamer Herausforderungen bei der Messreife. Dieses Webinar bietet Ihnen umsetzbare Frameworks und Werkzeuge zur Implementierung eines erfolgreichen Messplans und zur Aktivierung Ihrer Einblicke.
+Lernen Sie die wesentlichen Elemente der Entwicklung einer ganzheitlichen Messstrategie und die wichtigsten Schritte zur Überwindung gängiger Herausforderungen bei der Messreife kennen. In diesem Webinar erhalten Sie umsetzbare Frameworks und Tools zur Implementierung eines erfolgreichen Messplans und zur Aktivierung Ihrer Erkenntnisse.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440935/?learn=on&enablevpops)
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
 **Messstrategien**
 
-* Messstrategien sollten auf Vertrauen und Ermächtigung beruhen.
-* Die regelmäßige Einbindung der Interessengruppen in die Bereitstellung ihrer Eingaben gewährleistet die Vertrautheit mit den erfassten Daten.
-* Wenn es Interessengruppen ermöglicht wird, selbstbewusst Berichte zu erstellen und selbst Entscheidungen zu treffen, wird das Zögern verringert.
+* Messstrategien sollten auf Vertrauen und Empowerment basieren.
+* Durch die regelmäßige Einbeziehung von Stakeholdern, die ihre Eingaben vornehmen, wird sichergestellt, dass sie mit den erfassten Daten vertraut sind.
+* Wenn es den Stakeholdern ermöglicht wird, zuversichtlich Berichte zu erstellen und eigene Entscheidungen zu treffen, verringert sich die Zögerlichkeit.
 
-**Trust**
+**Vertrauen**
 
-* Vertrauen beruht auf proaktiver Beteiligung, Transparenz, Data Governance und Qualitätskontrolle.
-* Die Ausrichtung der Akteure und die Einbeziehung in die strategische Planung sind von entscheidender Bedeutung.
-* Einblicke zugänglich zu machen und Evangelismus und Bewusstsein zu fördern, sind für den Aufbau von Vertrauen unerlässlich.
+* Vertrauen entsteht durch proaktive Beteiligung, Transparenz, Data Governance und Qualitätskontrolle.
+* Die Ausrichtung der Stakeholder und ihre Einbeziehung in die strategische Planung sind von entscheidender Bedeutung.
+* Um Vertrauen aufzubauen, ist es unerlässlich, Erkenntnisse zugänglich zu machen und Evangelisierung und Bewusstsein zu fördern.
 
 **Empowerment**
 
-* Zu Empowerment gehört Training, das Entfernen empfundener Barrieren und die Stärkung des Vertrauens in die Verwendung von Analysen.
-* Tools und Funktionen wie Anmerkungen, Datenwörterbücher und Dashboards helfen Benutzern ohne Analyseerfahrung.
-* Entscheidend ist, sicherzustellen, dass Daten in der gesamten Organisation zugänglich sind und verarbeitet werden können.
+* Empowerment umfasst Training, die Beseitigung von wahrgenommenen Barrieren und die Stärkung des Vertrauens in die Verwendung von Analysen.
+* Tools und Funktionen wie Anmerkungen, Datenwörterbücher und Dashboards helfen Nicht-Analyst-Benutzern.
+* Entscheidend ist, sicherzustellen, dass die Daten im gesamten Unternehmen zugänglich und verwertbar sind.
 
 **Pfad zum Wert**
 
-* Der Wert einer Analyseinvestition lässt sich durch geschäftliche Auswirkungen, operative Effizienzgewinne sowie durch Übernahme und Aktivierung nachweisen.
-* Die Kommunikation über den Wert und die Auswirkungen von Analysen im gesamten Unternehmen trägt dazu bei, Vertrauen und Ermächtigung zu schaffen.
-* Tracking-Metriken wie Trainings-Reichweite, Eskalationen von Führungskräften und Ad-hoc-Support-Anfragen können dabei helfen, den Wert des Analyseprogramms zu messen.
+* Der Wert einer Analytics-Investition kann durch geschäftliche Auswirkungen, betriebliche Effizienz sowie Einführung und Aktivierung nachgewiesen werden.
+* Die Kommunikation des Nutzens und der Auswirkungen von Analysen in der gesamten Organisation trägt dazu bei, Vertrauen und Befähigung aufzubauen.
+* Tracking-Metriken wie Schulungsreichweite, Eskalationen für Führungskräfte und Ad-hoc-Support-Anfragen können dabei helfen, den Wert des Analytics-Programms zu messen.
 
-**Hervorragende Leistung anzeigen**
+**Hervorragende Leistung**
 
-* Kuratieren von Ressourcen für neue Benutzer und Nicht-Analyst-Rollen
-* Abhalten regelmäßiger QuickInfo-Sitzungen und Sitzungen zum Wissensaustausch.
-* Verwenden von Newslettern und interner Kommunikation, um Erkenntnisse und Updates zu teilen.
+* Kuratieren von Ressourcen für neue Benutzende und Nicht-Analyst-Personas.
+* Durchführung regelmäßiger Quick-Tipp-Sitzungen und Sitzungen zum Wissensaustausch.
+* Verwenden von Newslettern und interner Kommunikation zum Austausch von Einblicken und Aktualisierungen.

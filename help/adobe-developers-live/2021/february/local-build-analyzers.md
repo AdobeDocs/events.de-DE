@@ -1,6 +1,6 @@
 ---
-title: Lokale Build-Analyse mit Adobe Experience Manager as a Cloud Service
-description: Konzentrieren Sie sich auf neue Analyzer, die zum AEM Archetyp hinzugefügt wurden, sodass lokale Validierungen reproduziert werden können, die in den Cloud Manager-Implementierungs-Pipelines durchgeführt werden.
+title: Lokale Build-Analyzer mit Adobe Experience Manager as a Cloud Service
+description: Konzentrieren Sie sich auf neue Analyzer, die zum AEM-Archetyp hinzugefügt werden, um lokale Validierungen zu reproduzieren, die innerhalb der Cloud Manager-Bereitstellungs-Pipelines durchgeführt werden.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 ---
 
-# Lokale Build-Analyse mit Adobe Experience Manager as a Cloud Service
+# Lokale Build-Analyzer mit Adobe Experience Manager as a Cloud Service
 
-Machen Sie sich mit der ereignisgesteuerten API von ACDL vertraut. Ein Commerce-Beispiel zeigt, wie die Kernkomponenten es hydrieren und die Launch-Erweiterungs-Schnittstellen mit AA und AT.
+Verstehen der ereignisgesteuerten API von ACDL. In einem Commerce-Beispiel wird gezeigt, wie die Kernkomponenten sie hydrieren und die Launch-Erweiterung eine Schnittstelle mit AA und AT bildet.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332307/?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** .
+Klicken Sie **[hier](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** für die Sitzungsfolien.

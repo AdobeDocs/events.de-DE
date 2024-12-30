@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign-Integrationen in ein Marketing-Ökosystem
-description: Kanalübergreifende Marketinglösungen wie Adobe Campaign sollten nicht von anderen Technologien oder Teams getrennt sein.
+description: Cross-Channel-Marketing-Lösungen wie Adobe Campaign sollten nicht von anderen Technologien oder Teams isoliert sein.
 version: Classic v7
 solution: Campaign
 kt: 10508
@@ -16,6 +16,6 @@ ht-degree: 17%
 
 # Adobe Campaign-Integrationen in ein Marketing-Ökosystem
 
-Cross-Channel-Marketing-Lösungen wie Adobe Campaign sollten nicht von anderen Technologien oder Teams isoliert sein. Leider stecken Daten und Inhalte oft in unterschiedlichen Systemen fest, was ein vollständiges Verständnis der Kunden erschwert und kanalübergreifende Strategien stört. Nehmen Sie an dieser Sitzung teil, um zu erfahren, wie Adobe Campaign mit anderen Adobe-Lösungen und Drittanbietertechnologien integriert wird, die häufig in einem Marketing-Ökosystem vorkommen.
+Cross-Channel-Marketing-Lösungen wie Adobe Campaign sollten nicht von anderen Technologien oder Teams isoliert sein. Leider bleiben Daten und Inhalte oft in unterschiedlichen Systemen stecken, was das vollständige Verständnis eines Kunden erschwert und Cross-Channel-Strategien stört. Nehmen Sie an dieser Sitzung teil und erfahren Sie, wie Adobe Campaign mit anderen Adobe-Lösungen und Technologien von Drittanbietern integriert wird, die in einem Marketing-Ökosystem häufig vorkommen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343525/?quality=12&learn=on)

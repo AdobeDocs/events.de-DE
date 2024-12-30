@@ -1,6 +1,6 @@
 ---
-title: Zeitspartipps von Profis
-description: Beginnen Sie Ihr neues Jahr mit den Tipps und Tricks eines Adobe Campaign-Profis! Diese Adobe Campaign Insider-Sitzung behandelt Themen, die Ihnen helfen, effizienter zu arbeiten... (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein.)
+title: Zeitsparende Tipps von einem Profi
+description: Beginnen Sie Ihr neues Jahr mit den Tipps und Tricks eines Adobe Campaign-Profis! Diese Adobe Campaign Insider-Sitzung behandelt Themen, die Ihnen helfen, effizienter zu sein… (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 version: Classic v7
 solution: Campaign
 kt: 10504
@@ -16,6 +16,6 @@ ht-degree: 25%
 
 # Zeitsparende Tipps von einem Profi!
 
-Beginnen Sie Ihr neues Jahr mit den Tipps und Tricks eines Adobe Campaign-Profis! Diese Adobe Campaign Insider-Sitzung behandelt Themen, die Ihnen dabei helfen, Kampagnen effizienter zu erstellen und zu starten und sinnvollere und maßgeschneiderte kanalübergreifende Erlebnisse bereitzustellen. Das Webinar behandelt die Optimierung von Abfragen, benutzerdefinierte Berichterstellung und Best Practices beim Organisieren von Campaign-Objekten.
+Beginnen Sie Ihr neues Jahr mit den Tipps und Tricks eines Adobe Campaign-Profis! In dieser Adobe Campaign Insider-Sitzung werden Themen behandelt, die Ihnen dabei helfen, Kampagnen effizienter zu erstellen und zu starten und aussagekräftigere und maßgeschneiderte kanalübergreifende Erlebnisse bereitzustellen. Das Webinar behandelt die Optimierung von Abfragen, benutzerdefinierte Berichte und Best Practices beim Organisieren von Campaign-Objekten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343523/?quality=12&learn=on)

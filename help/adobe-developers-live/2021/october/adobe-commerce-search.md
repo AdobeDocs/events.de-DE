@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce Live-Suchergebnisse in Echtzeit aktualisieren
-description: Eines der wichtigsten Elemente einer E-Commerce-Website ist die Möglichkeit, nach Produkten zu suchen. Kleine Fehler bei der Suchgenauigkeit können einen großen Einfluss auf den Umsatzverlust haben. In dieser Präsentation werden wir darüber sprechen, wie LiveSearch schnelle, genaue Suchergebnisse nahezu in Echtzeit mit sich ständig ändernden Produktinformationen, Verfügbarkeit und Preisen pflegt.
+title: Adobe Commerce Live-Suchergebnisse in Echtzeit aktuell halten
+description: Eines der wichtigsten Elemente jeder E-Commerce-Website ist die Möglichkeit, nach Produkten zu suchen. Kleine Fehler in der Suchgenauigkeit können große Auswirkungen auf Umsatzeinbußen haben. In dieser Präsentation besprechen wir, wie LiveSearch schnelle, genaue Suchergebnisse nahezu in Echtzeit mit sich ständig ändernden Produktinformationen, Verfügbarkeit und Preisen bereitstellt.
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
@@ -16,14 +16,14 @@ ht-degree: 8%
 
 ---
 
-# Adobe Commerce Live-Suchergebnisse in Echtzeit aktualisieren
+# Adobe Commerce Live-Suchergebnisse in Echtzeit aktuell halten
 
-Eines der wichtigsten Elemente einer E-Commerce-Website ist die Möglichkeit, nach Produkten zu suchen. Kleine Fehler bei der Suchgenauigkeit können einen großen Einfluss auf den Umsatzverlust haben. In dieser Präsentation werden wir darüber sprechen, wie LiveSearch schnelle, genaue Suchergebnisse nahezu in Echtzeit mit sich ständig ändernden Produktinformationen, Verfügbarkeit und Preisen pflegt.
+Eines der wichtigsten Elemente jeder E-Commerce-Website ist die Möglichkeit, nach Produkten zu suchen. Kleine Fehler in der Suchgenauigkeit können große Auswirkungen auf Umsatzeinbußen haben. In dieser Präsentation besprechen wir, wie LiveSearch schnelle, genaue Suchergebnisse nahezu in Echtzeit mit sich ständig ändernden Produktinformationen, Verfügbarkeit und Preisen bereitstellt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337580/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

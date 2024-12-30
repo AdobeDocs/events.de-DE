@@ -1,6 +1,6 @@
 ---
-title: Personalisierung von Inhalten bereitstellen, die den Geschäftswert steigert
-description: Erfahren Sie, wie Sie mit Adobe Experience Manager Personalisierungs-Workflows nutzen können, um einen höheren ROI bei den von Ihnen bereitgestellten Erlebnissen zu erzielen.
+title: Bereitstellung von Personalisierung von Inhalten, die den geschäftlichen Nutzen steigert
+description: Erfahren Sie, wie Sie Personalisierungs-Workflows mit Adobe Experience Manager nutzen können, um einen höheren ROI aus den bereitgestellten Erlebnissen zu erzielen.
 solution: Experience Manager,Experience Manager as a Cloud Service
 feature: Workflow
 topic: Personalization
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Personalisierung von Inhalten bereitstellen, die den Geschäftswert steigert
+# Bereitstellung von Personalisierung von Inhalten, die den geschäftlichen Nutzen steigert
 
-Erfahren Sie mehr über Karthik Muralidharan und lernen Sie, wie Sie Personalisierungs-Workflows mit Adobe Experience Manager nutzen können, um einen höheren ROI bei Ihren Erlebnissen zu erzielen.
+Erfahren Sie von Karthik Muralidharan, wie Sie Personalisierungs-Workflows mit Adobe Experience Manager nutzen können, um einen höheren ROI aus Ihren bereitgestellten Erlebnissen zu erzielen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345374/?quality=12&learn=on)

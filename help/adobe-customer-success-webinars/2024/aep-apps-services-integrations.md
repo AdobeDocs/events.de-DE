@@ -1,6 +1,6 @@
 ---
-title: Informationen zu Integrationen der AEP-App-Dienste für Kundenanwendungsfälle
-description: In dieser Sitzung werden eine Einführung in AEP-Blueprints, vier Anwendungsfälle für die Integration von AJO, Marketo und Target sowie die Architektur von durch die AEP- und AJO-API ausgelösten Kampagnen behandelt.
+title: Erfahren Sie mehr über AEP App Services-Integrationen für Kunden-Anwendungsfälle
+description: In dieser Sitzung werden AEP-Blueprints vorgestellt, vier Anwendungsfälle für die Integration mit AJO, Marketo und Target behandelt sowie die Architektur von AEP- und AJO-API-ausgelösten Kampagnen.
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 ---
 
-# Integrationen der AEP-App-Dienste für Kundenanwendungsfälle
+# AEP App Services-Integrationen für Kunden-Anwendungsfälle
 
-In dieser Sitzung führen wir Sie durch die folgenden Punkte:
+In dieser Sitzung führen wir Sie durch Folgendes:
 
 1. Einführung in AEP-Blueprints (AEP-Übersichtsarchitektur, AJO-Architektur)
-1. Vier Anwendungsfälle für die Integration (AJO, Marketo und Target)
-1. Einführung in die Anwendungsfallarchitektur von durch die AEP- und AJO-API ausgelösten Kampagnen
+1. Vier Anwendungsfälle für die Integration (AJO, Marketo und Target im Zusammenhang)
+1. Einführung in die Architektur von Anwendungsfällen für API-ausgelöste AEP- und AJO-Kampagnen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432053/?learn=on)

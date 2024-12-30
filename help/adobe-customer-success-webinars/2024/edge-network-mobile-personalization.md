@@ -1,6 +1,6 @@
 ---
 title: Einblicke in Edge Network und Mobile Personalization mit Adobe-Lösungen
-description: Erfahren Sie, wie Sie mobile Strategien verbessern, die Benutzerinteraktion verbessern und personalisierte Erlebnisse mithilfe von Adobe-Lösungen effektiv bereitstellen können.
+description: Erfahren Sie, wie Sie mithilfe von Adobe-Lösungen Mobile-Strategien verbessern, die Benutzerinteraktion verbessern und personalisierte Erlebnisse effektiv bereitstellen können.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -17,30 +17,30 @@ ht-degree: 0%
 
 # Einblicke in Edge Network und Mobile Personalization mit Adobe-Lösungen
 
-Erfahren Sie, wie die Edge-Architektur funktioniert und wie Sie Implementierungen mit Assurance debuggen.
-Technische Anleitungen zum Einrichten und Konfigurieren des Mobile SDK
+Erfahren Sie, wie die Edge-Architektur funktioniert und wie Sie Implementierungen mit Assurance debuggen
+Technische Anleitung zum Einrichten und Konfigurieren der Mobile SDK
 Bereitstellen personalisierter Erlebnisse mit Target und AJO
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433328/?learn=on)
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
 ### Fokus auf Edge Network und Mobile Personalization:
 
-* Grundlegendes zur Adobe Edge-Architektur für die Datenerfassung und -übertragung.
-* Wichtig beim Einrichten des mobilen SDK für personalisierte Erlebnisse.
-* Nutzung von Target und Journey Optimizer für die Bereitstellung personalisierter Erlebnisse.
+* Grundlegendes zur Architektur von Adobe Edge für die Datenerfassung und -weitergabe.
+* Bedeutung der Einrichtung der mobilen SDK für personalisierte Erlebnisse.
+* Nutzung von Target und Journey Optimizer zur Bereitstellung personalisierter Erlebnisse.
 
-### Schwerpunkt Optimierung und Personalization
+### Schwerpunkt auf Optimierung und Personalization
 
-* Migration zu neueren SDK-Versionen oder Verwendung des Mobile Edge SDK zur Optimierung.
-* Verwendung der doppelten Entscheidungserweiterung für die Personalisierung.
-* Verbesserung der Interaktion mit mobilen Apps und der In-App-Konversionen durch personalisierte Erlebnisse.
+* Migration auf neuere SDK-Versionen oder Verwendung von Mobile Edge SDK zur Optimierung.
+* Verwendung der Erweiterung „Dual Decisioning“ für die Personalisierung.
+* Verbessern der Interaktion mit Mobile Apps und In-App-Konversionen durch personalisierte Erlebnisse.
 
 ### Verwenden von Erweiterungen für erweiterte Funktionen
 
-* Implementieren spezifischer Erweiterungen wie Zustimmung, Identität und Analytics für benutzerdefinierte Funktionen.
-* Konfigurieren von Erweiterungen für Campaign Classic und Media Messaging.
-* Nutzung von Assurance für Debugging, Validierung und Simulation von Datenerfassungsprozessen.
+* Implementieren spezifischer Erweiterungen wie Einverständnis, Identität und Analyse für maßgeschneiderte Funktionen.
+* Konfigurieren von Erweiterungen für Campaign Classic- und Media-Messaging.
+* Nutzung von Assurance zum Debugging, zur Validierung und Simulation von Datenerfassungsprozessen.
 
-Indem Unternehmen sich auf diese wichtigen Vorgehensweisen konzentrieren, können sie ihre Mobilgerätestrategien verbessern, die Benutzerinteraktion verbessern und mithilfe von Adobe-Lösungen effektiv personalisierte Erlebnisse bereitstellen.
+Durch die Konzentration auf diese zentralen Erkenntnisse können Unternehmen ihre Mobile-Strategien verbessern, die Benutzerinteraktion verbessern und mithilfe von Adobe-Lösungen personalisierte Erlebnisse effektiv bereitstellen.

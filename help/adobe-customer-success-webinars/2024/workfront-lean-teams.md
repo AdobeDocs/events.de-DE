@@ -1,6 +1,6 @@
 ---
-title: Maximieren der Effizienz mit Adobe Workfront - Webinar zu langfristigen Teams
-description: Erkunden Sie Strategien und praktische Ansätze zur Steigerung der Produktivität und zur Optimierung der Betriebsabläufe mithilfe schlanker Methoden, die von Branchenexperten mit Adobe Workfront vorgestellt wurden.
+title: Maximieren der Effizienz mit Adobe Workfront - Webinar zu „schlanken Teams“
+description: Erkunden Sie von Branchenexperten vorgestellte Strategien und praktische Ansätze zur Produktivitätssteigerung und Optimierung von Abläufen mithilfe schlanker Methoden mit Adobe Workfront.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -16,42 +16,42 @@ ht-degree: 0%
 
 ---
 
-# Maximieren der Effizienz mit Adobe Workfront: Webinar zu Teams
+# Maximieren der Effizienz mit Adobe Workfront: Webinar zu „schlanken Teams“
 
-Insights-Strategien und praktische Ansätze für Organisationen, deren Ziel die Optimierung ihrer Geschäftstätigkeit und die Steigerung der Produktivität durch schlanke Methoden ist. Das von Branchenexperten veranstaltete Webinar befasst sich mit den Kernprinzipien des schlanken Denkens und seiner Anwendung in Adobe Workfront.
+Aufschlussreiche Strategien und praktische Ansätze für Organisationen, die ihre Abläufe optimieren und die Produktivität durch schlanke Methoden steigern möchten. Dieses von Branchenexperten veranstaltete Webinar vertieft die Grundlagen des Lean Thinking und dessen Anwendung in Adobe Workfront.
 
 ## Wichtige Diskussionspunkte
 
-* Grundlegendes zu Grundprinzipalen
-* Workfront zur Unterstützung des Projektmanagements verwenden
-* Kontinuierliches Lernen und Anpassen
+* Grundlagen zu Lean-Prinzipalen
+* Verwenden von Workfront zur Unterstützung von Lean Project Management
+* Kontinuierliches Lernen und Anpassung
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
 
-## Konferenzübersicht
+## Übersicht über Meetings
 
-Im Mittelpunkt des Treffens standen Teams, die mit Adobe Workfront möglichst effizient arbeiten. Im Folgenden finden Sie eine Zusammenfassung der wichtigsten behandelten Punkte.
+Im Mittelpunkt des Treffens standen Lean Teams und die Maximierung der Effizienz mit Adobe Workfront. Im Folgenden werden die wichtigsten erörterten Punkte zusammengefasst:
 
-**Schlankes Team und Effizienz**
+**Lean Teams und Effizienz**
 
-* Erörtert die Herausforderungen, denen sich Lean-Teams gegenübersehen.
-* Hervorgehobene Ziele und Vorteile des Lean-Managements.
-* Hervorgehobene Grundsätze im Zusammenhang mit dem Lean Management.
+* Erläuterte Herausforderungen für Lean-Teams.
+* Die Ziele und Vorteile des Lean-Managements wurden hervorgehoben.
+* Betonte Prinzipien im Zusammenhang mit Lean Management.
 
-**Effizienzstrategien**
+**Strategien für Effizienz**
 
-* Bedeutung einer kontinuierlichen Verbesserung.
-* Straffung der Kommunikation.
-* Treffen datengesteuerter Entscheidungen.
+* Bedeutung der kontinuierlichen Verbesserung.
+* Optimierung der Kommunikation.
+* Treffen von datengesteuerten Entscheidungen.
 
 **Workfront-Tools**
 
-* Nutzung von Workfront-Tools wie Blueprints, Ressourcenplanern und Integrationen für den Erfolg.
+* Nutzung von Workfront-Tools wie Blueprints, Ressourcenplaner und Integrationen für einen erfolgreichen Abschluss.
 
-**Tastenanschläge**
+**Wichtige Erkenntnisse**
 
 * Strategien für Effizienz.
-* Kommunikationsrationalisierung.
-* Datengesteuerte Entscheidungsfindung.
-* Förderung einer lernfähigen Denkweise.
-* Interaktion mit der Workfront-Community für Unterstützung und Best Practices
+* Optimierung der Kommunikation.
+* Datengestützte Entscheidungsfindung.
+* Förderung des Lernens.
+* Wenden Sie sich an die Workfront-Community, um Unterstützung und Best Practices zu erhalten.

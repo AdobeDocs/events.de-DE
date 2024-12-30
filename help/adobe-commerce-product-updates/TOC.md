@@ -2,7 +2,7 @@
 user-guide-title: Adobe Commerce-Produktaktualisierungen
 user-guide-breadcrumb: Adobe Commerce Release Updates
 user-guide-description: Die neuesten Produktinnovationen in Adobe Commerce, präsentiert vom Adobe Commerce-Produktteam.
-breadcrumb-title: Adobe Commerce-Versionsaktualisierungen
+breadcrumb-title: Adobe Commerce-Versions-Updates
 type: Event
 mini-toc-levels: 2
 event-series: Adobe Commerce Product Updates

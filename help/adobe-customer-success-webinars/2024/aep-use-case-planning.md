@@ -1,6 +1,6 @@
 ---
-title: Von Vision zu Wert - AEP-Anwendungsplanung
-description: Erfahren Sie, wie Sie effektive Kundenerlebnisse bereitstellen können, indem Sie eine Strategie mit klaren Zielen und Erfolgsfaktoren festlegen, die mit Geschäftsergebnissen und KPIs übereinstimmen, eine Roadmap zur Erreichung erreichbarer Werte erstellen und die Funktionen von Adobe-Lösungen effektiv nutzen.
+title: Von der Vision zum Wert - AEP-Anwendungsfallplanung
+description: Erfahren Sie, wie Sie wirkungsvolle Kundenerlebnisse bereitstellen können, indem Sie eine Strategie mit klaren Zielen und Erfolgsfaktoren definieren, die mit Geschäftsergebnissen und KPIs übereinstimmen, einen Fahrplan für die Erzielung eines erreichbaren Werts aufstellen und die Funktionen der Adobe-Lösung effektiv nutzen.
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -16,21 +16,21 @@ ht-degree: 1%
 
 ---
 
-# Von Vision zu Wert: AEP-Anwendungsplanung
+# Von der Vision zum Wert: AEP - Anwendungsfallplanung
 
-Die Sitzung soll Einblicke in die Planung und Aktivierung von Nutzungsszenarien bieten, wobei der Schwerpunkt auf der Wertzuordnung, der Ausrichtung von Strategien und der Maximierung des Geschäftswerts über Key Performance Indicators (KPIs) liegt.
+Die Sitzung bietet Einblicke in die Planung und Aktivierung von Anwendungsfällen, insbesondere die Wertzuordnung, die Ausrichtung der Strategie und die Maximierung des Geschäftswerts mithilfe von Key Performance Indicators (KPIs).
 
-Erfahren Sie, wie Sie durch die Definition einer Strategie mit klaren Zielen und Erfolgsfaktoren, die
+Erfahren Sie, wie Sie durch die Definition einer Strategie mit klaren Zielen und Erfolgsfaktoren wirkungsvolle Kundenerlebnisse bereitstellen können.
 
-1. Anpassung an Geschäftsergebnisse und KPIs
-1. einen Fahrplan zur Verwirklichung des erreichbaren Wertes zu erstellen
-1. effektiv Adobe-Lösungsfunktionen nutzen.
+1. Abstimmung auf Geschäftsergebnisse und KPIs
+1. Informieren Sie sich über einen Fahrplan zur Wertschöpfung
+1. Effektive Nutzung der Funktionen der Adobe-Lösung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433025/?learn=on)
 
 ## Wichtige Schlussfolgerungen
 
-1. Festlegung der Vision, Strategie und Ziele der Organisation als Grundlage für die Fallplanung.
+1. Festlegung der Vision, Strategie und Ziele des Unternehmens als Grundlage für die Planung von Anwendungsfällen.
 1. Definition des beabsichtigten und optimalen Kundenerlebnisses, einschließlich Anforderungen, Zielen und Auswirkungen.
-1. Verfolgen der richtigen KPIs (Key Performance Indicators), um den Geschäftswert zu maximieren.
-1. Erstellung eines Fahrplans für eine erreichbare und skalierbare Wertschöpfung durch Abstimmung mit Strategien und Zielen.
+1. Verfolgen der richtigen Key Performance Indicators (KPIs) zur Maximierung des Geschäftswerts.
+1. Erstellung eines Fahrplans für eine erreichbare und skalierbare Wertschöpfung durch Abstimmung mit Strategie und Zielen.

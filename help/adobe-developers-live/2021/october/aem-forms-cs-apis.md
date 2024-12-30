@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Manager Forms as a Cloud Service - Schnelles Tracking Ihrer Entwicklung mithilfe von APIs
-description: Erfahren Sie, wie Sie mit Adobe Experience Manager Forms as a Cloud Service-APIs skaliert auf Dienste wie Headless Delivery of Forms und Communications zugreifen können. In dieser Sitzung wird beschrieben, wie Sie Clientanwendungen für synchrone und Batch Doc Gen-Anwendungsfälle mithilfe der Adobe Experience Manager Forms CS-API erstellen. Teilnehmer erhalten außerdem eine Vorschau der anstehenden Headless-APIs für Forms, mit denen Entwickler mühelos mobile oder React-Apps erstellen können, die Formulare enthalten.
+title: Adobe Experience Manager Forms as a Cloud Service - Schnellnachverfolgung Ihrer Entwicklung mit APIs
+description: Erfahren Sie, wie Sie mit Adobe Experience Manager Forms as a Cloud Service-APIs skaliert auf Services wie Headless-Bereitstellung von Forms und Kommunikation zugreifen können. In dieser Sitzung wird beschrieben, wie Sie Client-Programme für synchrone und Batch Doc Gen-Anwendungsfälle mithilfe der Adobe Experience Manager Forms CS-API erstellen. Die Teilnehmer erhalten außerdem eine Vorschau auf die kommenden Headless-APIs für Forms, mit denen Entwickler einfach Mobile- oder React-Apps erstellen können, die Formulare enthalten.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
@@ -16,20 +16,20 @@ ht-degree: 2%
 
 ---
 
-# Adobe Experience Manager Forms as a Cloud Service: Schnelles Tracking Ihrer Entwicklung mithilfe von APIs
+# Adobe Experience Manager Forms as a Cloud Service: Schneller Entwicklungsprozess mit APIs
 
-Erfahren Sie, wie Sie mit Adobe Experience Manager Forms as a Cloud Service-APIs skaliert auf Dienste wie Headless Delivery of Forms und Communications zugreifen können. 
+Erfahren Sie, wie Sie mit Adobe Experience Manager Forms as a Cloud Service-APIs skaliert auf Services wie Headless-Bereitstellung von Forms und Kommunikation zugreifen können. 
 
-In dieser Sitzung wird beschrieben, wie Sie Clientanwendungen für synchrone und Batch Doc Gen-Anwendungsfälle mithilfe von Adobe Experience Manager Forms CS-APIs erstellen
+In dieser Sitzung wird beschrieben, wie Sie Client-Programme für synchrone und Batch Doc Gen-Anwendungsfälle mithilfe von Adobe Experience Manager Forms CS-APIs erstellen
 
-Teilnehmer erhalten außerdem eine Vorschau der anstehenden Headless-APIs für Forms, mit denen Entwickler mühelos mobile oder React-Apps erstellen können, die Formulare enthalten.
+Die Teilnehmer erhalten außerdem eine Vorschau auf die kommenden Headless-APIs für Forms, mit denen Entwickler einfach Mobile- oder React-Apps erstellen können, die Formulare enthalten.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3zKLQrw)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/3zKLQrw)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337724/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

@@ -1,6 +1,6 @@
 ---
 title: Hinter den Kulissen von Adobe Experience Manager mit SRE-Gildenmitgliedern
-description: Ein Panel mit Joerg Hoh, Peter Acsai und Tom Blackford, Mitgliedern unserer Site Reliability Engineers Gild, arbeiten hinter den Kulissen daran, die Züge für AEM as a Cloud Service "pünktlich"zu halten. Wir lernen die Fähigkeiten und mindest kennen, die erforderlich sind, um eine effiziente SRE zu sein, ihre Ansichten über robuste und widerstandsfähige Systeme und die Art von Metriken und Warnhinweisen, die sie verwenden, um Ausfälle zu verhindern.
+description: Ein Gremium mit Joerg Hoh, Peter Acsai und Tom Blackford, Mitgliedern unserer Site Reliability Engineers Guild, arbeitete hinter den Kulissen an der „pünktlichen Zughaltung“ für AEM as a Cloud Service. Wir erfahren mehr über die Fähigkeiten und Einstellungen, die für einen effizienten SRE erforderlich sind, ihre Ansichten darüber, wie Systeme robust und widerstandsfähig gemacht werden können, und die Art von Metriken und Warnhinweisen, mit denen sie Ausfälle verhindern.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -20,14 +20,14 @@ ht-degree: 3%
 
 # Hinter den Kulissen von Adobe Experience Manager mit SRE-Gildenmitgliedern
 
-Ein Panel mit Joerg Hoh, Peter Acsai und Tom Blackford, Mitgliedern unserer Site Reliability Engineers Gild, arbeiten hinter den Kulissen daran, die Züge für AEM as a Cloud Service &quot;pünktlich&quot;zu halten. Wir lernen die Fähigkeiten und mindest kennen, die erforderlich sind, um eine effiziente SRE zu sein, ihre Ansichten über robuste und widerstandsfähige Systeme und die Art von Metriken und Warnhinweisen, die sie verwenden, um Ausfälle zu verhindern.
+Ein Gremium mit Joerg Hoh, Peter Acsai und Tom Blackford, Mitgliedern unserer Site Reliability Engineers Guild, arbeitete hinter den Kulissen an der „pünktlichen Zughaltung“ für AEM as a Cloud Service. Wir erfahren mehr über die Fähigkeiten und Einstellungen, die für einen effizienten SRE erforderlich sind, ihre Ansichten darüber, wie Systeme robust und widerstandsfähig gemacht werden können, und die Art von Metriken und Warnhinweisen, mit denen sie Ausfälle verhindern.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/2WoCVOU)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/2WoCVOU)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337527/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

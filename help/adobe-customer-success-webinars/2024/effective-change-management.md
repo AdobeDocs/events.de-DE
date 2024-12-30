@@ -1,6 +1,6 @@
 ---
-title: Navigieren im Wandel - Ein Webinar für Führungskräfte mit hoher Führungsrolle zur effektiven Änderungsverwaltung
-description: Lernen Sie die Nuancen des Change Managements kennen und liefern Sie strategische Einblicke, um Sie bei der Steuerung Ihrer Organisation durch transformative Journey zu unterstützen.
+title: Navigieren im Wandel - Ein Webinar für Führungskräfte zum Thema effektives Änderungs-Management
+description: Erfahren Sie mehr über die Feinheiten des Change Managements und erhalten Sie strategische Einblicke, die Sie dabei unterstützen, Ihr Unternehmen durch transformative Journey zu steuern.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -15,34 +15,34 @@ ht-degree: 0%
 
 ---
 
-# Navigieren im Wandel: Ein Webinar für Führungskräfte mit hoher Führungsrolle zur effektiven Änderungsverwaltung
+# Navigieren im Wandel: Ein Webinar über effektives Änderungsmanagement für Führungskräfte
 
-Lernen Sie die Nuancen des Change Managements kennen und liefern Sie strategische Einblicke, um Sie bei der Steuerung Ihrer Organisation durch transformative Journey zu unterstützen.
+Erfahren Sie mehr über die Feinheiten des Change Managements und erhalten Sie strategische Einblicke, die Sie dabei unterstützen, Ihr Unternehmen durch transformative Journey zu steuern.
 
 ## Wichtige Diskussionspunkte
 
-* Erfahren Sie, wie Sie die Änderungsbemühungen mit übergeordneten organisatorischen Zielen und Zielen abstimmen.
-* Die Kunst der Kommunikation von Änderungen mit verschiedenen Interessengruppen erlernen
+* Erfahren Sie, wie Sie Änderungsbemühungen mit übergeordneten Unternehmenszielen in Einklang bringen
+* Meistern Sie die Kunst, den Wandel an verschiedene Stakeholder zu kommunizieren
 * Implementieren einer effizienten Aktivierungsstrategie und -planung
-* Erfahren Sie mehr über proaktive Strategien zur Risikominderung und zur Sicherstellung eines reibungslosen Übergangs.
+* Proaktive Strategien zur Risikominderung und Sicherstellung reibungsloser Übergänge
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429286/?learn=on)
 
-## Die 3 wichtigsten Punkte bei der effektiven Änderungsverwaltung
+## Die drei wichtigsten Punkte für effektives Änderungsmanagement
 
-**Wesentliche Aspekte der Änderungsverwaltung**
+**Wesentliche Aspekte des Change Managements**
 
-* Das Änderungs-Management passt die organisatorischen Ziele an die individuelle Leistung an.
-* Erhöht die Agilität und erhöht die Effizienz innerhalb des Unternehmens.
+* Das Änderungs-Management ordnet die Unternehmensziele der individuellen Leistung zu.
+* Erhöht die Agilität und verbessert die Effizienz innerhalb der Organisation.
 
-**Kernkompetenzen für die effektive Änderungsverwaltung**
+**Kernkompetenzen für effektives Change Management**
 
-* Die Einbeziehung der Interessenträger ist von entscheidender Bedeutung.
-* Entscheidend ist eine effektive Kommunikation.
-* Ausbildung und Unterstützung sind für eine erfolgreiche Übernahme des Wandels erforderlich.
+* Die Einbeziehung der Stakeholder ist von entscheidender Bedeutung.
+* Effektive Kommunikation ist der Schlüssel.
+* Schulung und Unterstützung sind für eine erfolgreiche Übernahme von Änderungen erforderlich.
 
-**Bevorstehende Herausforderungen bei der Änderungsverwaltung**
+**Überwinden von Herausforderungen im Change Management**
 
-* Umgang mit Veränderungen der Ermüdung und Resistenzmanagement.
+* Umgang mit Änderungsermüdung und Widerstandsmanagement.
 * Die Definition von Erfolgsmetriken ist von entscheidender Bedeutung.
-* Regelmäßige Messung der Auswirkungen und Bekämpfung der Ursachen von Resistenzen sind wesentliche Komponenten.
+* Regelmäßige Wirkungsmessungen und die Bekämpfung der Ursachen von Resistenzen sind wesentliche Bestandteile.

@@ -1,6 +1,6 @@
 ---
-title: Partizipatives PWA-Storefront-Design mit XD
-description: Erfahren Sie, wie das PWA Studio XD Kit eine bessere Zusammenarbeit von Design bis Ingenieurwesen erleichtern und einen Einblick in die Zukunft des Storefront-Designs erhalten kann.
+title: Kollaboratives PWA-Storefront-Design mit XD
+description: Erfahren Sie, wie das PWA Studio XD Kit eine bessere Zusammenarbeit vom Design bis hin zum Engineering erleichtern kann, und erhalten Sie einen Vorgeschmack auf die Zukunft des Storefront-Designs.
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
@@ -16,14 +16,14 @@ ht-degree: 15%
 
 ---
 
-# Partizipatives PWA-Storefront-Design mit XD
+# Kollaboratives PWA-Storefront-Design mit XD
 
-Erfahren Sie, wie das PWA Studio XD Kit eine bessere Zusammenarbeit von Design bis Ingenieurwesen erleichtern und einen Einblick in die Zukunft des Storefront-Designs erhalten kann.
+Erfahren Sie, wie das PWA Studio XD Kit eine bessere Zusammenarbeit vom Design bis hin zum Engineering erleichtern kann, und erhalten Sie einen Vorgeschmack auf die Zukunft des Storefront-Designs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337725/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

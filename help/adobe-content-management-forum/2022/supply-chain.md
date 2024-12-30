@@ -1,6 +1,6 @@
 ---
-title: Erstellen einer Inhaltslieferkette, die skaliert
-description: Treten Sie Marc Angelinovich bei und lernen Sie, wie Sie eine Inhaltsversorgungskette erstellen, die für die Personalisierung skaliert wird.
+title: Erstellen einer skalierbaren Inhaltslieferkette
+description: Kommen Sie zu Marc Angelinovich und erfahren Sie, wie Sie eine Inhaltslieferkette erstellen, die für Personalisierung skalierbar ist.
 solution: Experience Manager,Experience Manager as a Cloud Service
 topic: Personalization
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen einer Inhaltslieferkette, die skaliert
+# Erstellen einer skalierbaren Inhaltslieferkette
 
-Treten Sie Marc Angelinovich bei und lernen Sie, wie Sie eine Inhaltsversorgungskette erstellen, die für die Personalisierung skaliert wird.
+Kommen Sie zu Marc Angelinovich und erfahren Sie, wie Sie eine Inhaltslieferkette erstellen, die für Personalisierung skalierbar ist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345382/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Journey Optimizer Mobile-Funktionen
-description: Diese Einführungssitzung für Adobe Journey Optimizer wird Anfängern die Möglichkeit geben, Kundenerlebnisse für SMS- und Push-Kanäle zu erstellen, die Ergebnisse mithilfe von Personalisierung fördern. Wir besprechen die Verwendung und Personalisierung von Fragmenten.
+description: In dieser Einführungsveranstaltung zu Adobe Journey Optimizer werden Anfänger in die Lage versetzt, Kundenerlebnisse im SMS- und Push-Kanal zu erstellen, die mithilfe der Personalisierung zu besseren Ergebnissen führen. Wir besprechen die Verwendung und Personalisierung von Fragmenten.
 solution: Journey Optimizer
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,43 +8,43 @@ doc-type: Event
 duration: 3294
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16036
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 2ff99ad3-4876-4760-af0f-c48a0c772e2e
+source-git-commit: 66e2bdef11891a9c4f88534cc00f56ffe05e4e26
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
-
 # Journey Optimizer Mobile-Funktionen
 
-Diese Einführungssitzung für Adobe Journey Optimizer wird Anfängern die Möglichkeit geben, Kundenerlebnisse für SMS- und Push-Kanäle zu erstellen, die Ergebnisse mithilfe von Personalisierung fördern. Wir besprechen die Verwendung und Personalisierung von Fragmenten.
+In dieser Einführungsveranstaltung zu Adobe Journey Optimizer werden Anfänger in die Lage versetzt, Kundenerlebnisse im SMS- und Push-Kanal zu erstellen, die mithilfe der Personalisierung zu besseren Ergebnissen führen. Wir besprechen die Verwendung und Personalisierung von Fragmenten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433001/?learn=on)
 
 ## Die fünf wichtigsten Punkte
 
-**Agile Grundlegende mobile Funktionen**
+**Mobile-Funktionen von Agile Essentials**
 
-* Konzentrieren Sie sich auf die Optimierung der mobilen Funktionen durch das Journey Optimizer-Tool von Agile.
-* Bereitstellung personalisierter Nachrichten über verschiedene Kanäle und Integration von Kundendaten für personalisierte Erlebnisse.
+* Konzentrieren Sie sich auf die Optimierung der mobilen Funktionen mit dem Journey Optimizer-Tool von Agile.
+* Stellen Sie personalisierte Nachrichten über verschiedene Kanäle bereit und integrieren Sie Kundendaten für personalisierte Erlebnisse.
 
-**Einrichten der SMS-Konfiguration**
+**Einrichtung der SMS-Konfiguration**
 
-* Bedeutung der Integration mit SMS-Dienstanbietern von Drittanbietern und der Konfiguration von API-Anmeldeinformationen.
+* Wichtig bei der Integration mit SMS-Dienstleistern von Drittanbietern und der Konfiguration von API-Anmeldeinformationen.
 * Erstellung von Kanaldiensten für eine effektive SMS-Kommunikation mit Kunden.
 
-**Konfiguration der Push-Benachrichtigung**
+**Konfiguration von Push-Benachrichtigungen**
 
-* Zielgruppe definieren, Planung und Erstellung von Push-Benachrichtigungen mit personalisierten Inhalten und Medien.
-* Verwenden generativer KI wie Firefly zur Erstellung personalisierter Bilder basierend auf Markenstilen.
+* Definieren der Zielgruppe, Planen und Erstellen von Push-Benachrichtigungen mit personalisierten Inhalten und Medien.
+* Verwendung generativer KI, z. B. Firefly, zum Erstellen personalisierter Bilder basierend auf Markenstilen.
 
-**App-Entwicklung und -Dienste**
+**App-Entwicklung und Services**
 
-* Einrichten von App Services mit den richtigen Admin Console-, Property- und Unternehmensrechten
+* Einrichten von App-Services mit korrekten Berechtigungen für Admin Console, Eigenschaft und Unternehmen.
 * Konfigurieren von In-App-Benachrichtigungen für Benutzerinteraktionen und Personalisieren von Nachrichten basierend auf Zielgruppensegmenten.
 
-**Duplizieren und Wiederverwenden von Vorlagen**
+**Duplizierung und Wiederverwendung von Vorlagen**
 
-* Hervorgehoben, dass Vorlagen und Fragmente effizient dupliziert und wiederverwendet werden können, um Zeit zu sparen und die Konsistenz von Messaging und Branding in allen Kampagnen zu wahren.
-* Die Vorteile der einmaligen Erstellung und Duplizierung für verschiedene Kampagnen wurden hervorgehoben, sodass ein optimierter Prozess für künftige Marketinginitiativen gewährleistet ist.
+* Es wurde hervorgehoben, wie effizient das Duplizieren und Wiederverwenden von Vorlagen und Fragmenten ist, um Zeit zu sparen und die Konsistenz von Messaging und Branding in allen Kampagnen zu gewährleisten.
+* hat die Vorteile der einmaligen Erstellung und Duplizierung für verschiedene Kampagnen hervorgehoben, um einen optimierten Prozess für zukünftige Marketing-Initiativen sicherzustellen.

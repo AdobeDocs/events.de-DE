@@ -1,6 +1,6 @@
 ---
-title: SPA Editor 2.0 - Hinzufügen kontextbezogener bearbeitbarer Inhaltsspots zu einer App
-description: Laden Sie Ihre vorhandene React- oder Angular-SPA in den Seiteneditor und ermöglichen Sie Autoren bei minimalem Eingreifen, Inhalte einzufügen, die sie im Kontext bearbeiten. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+title: SPA Editor 2.0 - Hinzufügen von im Kontext bearbeitbaren Inhaltsbereichen zu einer beliebigen App
+description: Laden Sie die vorhandene React- oder Angular-SPA im Seiteneditor und ermöglichen Sie es Autorinnen und Autoren mit minimalem Eingriff, Inhalte einzufügen, die sie im Kontext bearbeiten. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 ---
 
-# SPA Editor 2.0 - Hinzufügen kontextbezogener bearbeitbarer Inhaltsspots zu einer App
+# SPA Editor 2.0 - Hinzufügen von im Kontext bearbeitbaren Inhaltsbereichen zu einer beliebigen App
 
-Laden Sie Ihre vorhandene React- oder Angular-SPA in den Seiteneditor und ermöglichen Sie Autoren bei minimalem Eingreifen, Inhalte einzufügen, die sie im Kontext bearbeiten.
+Laden Sie die vorhandene React- oder Angular-SPA im Seiteneditor und ermöglichen Sie es Autorinnen und Autoren mit minimalem Eingriff, Inhalte einzufügen, die sie im Kontext bearbeiten.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)** .
+Klicken Sie **[hier](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)** für die Sitzungsfolien.

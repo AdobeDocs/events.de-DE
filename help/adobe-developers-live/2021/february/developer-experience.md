@@ -1,6 +1,6 @@
 ---
 title: Entwicklererlebnis auf Experience Cloud
-description: Treten Sie Jonathan Roeder, Director of Developer Experience for Experience Cloud, bei, um sich über die neuesten Entwickleraktualisierungen in Adobe Experience Cloud zu informieren. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+description: Kommen Sie zu Jonathan Röder, Director of Developer Experience for Experience Cloud, um mehr über die neuesten Entwickler-Updates in Adobe Experience Cloud zu erfahren. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Entwicklererlebnis auf Experience Cloud
 
-Treten Sie Jonathan Roeder, Director of Developer Experience for Experience Cloud, bei, um sich über die neuesten Entwickleraktualisierungen in Adobe Experience Cloud zu informieren.
+Kommen Sie zu Jonathan Röder, Director of Developer Experience for Experience Cloud, um mehr über die neuesten Entwickler-Updates in Adobe Experience Cloud zu erfahren.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331770/?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/developer-experience.pdf)** .
+Klicken Sie **[hier](/help/adobe-developers-live/assets/developer-experience.pdf)** für die Sitzungsfolien.

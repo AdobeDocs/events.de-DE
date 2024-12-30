@@ -1,6 +1,6 @@
 ---
-title: Real-Time CDP - Zuordnung von Nutzungsszenarios zu Lösungsfunktionen
-description: In diesem Webinar werden die wichtigsten Möglichkeiten untersucht, Anwendungsfälle zu untersuchen und zu priorisieren, sie bestimmten Funktionen der Echtzeit-Kundendatenplattform zuzuordnen und die Ausrichtung an Geschäftsergebnissen und -nutzen sicherzustellen.
+title: Real-Time CDP - Zuordnung von Anwendungsfällen zu Lösungsfunktionen
+description: In diesem Webinar werden wichtige Möglichkeiten untersucht und priorisiert, diese Anwendungsfälle bestimmten Real-Time CDP-Funktionen zugeordnet und die Abstimmung mit Geschäftsergebnissen und Nutzen sichergestellt.
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -16,41 +16,41 @@ ht-degree: 0%
 
 ---
 
-# Adobe Echtzeit-Kundendatenplattform - Zuordnung von Anwendungsfällen zu Lösungsfunktionen
+# Adobe Real-Time CDP - Zuordnung von Anwendungsfällen zu Lösungsfunktionen
 
-In diesem Webinar werden die wichtigsten Möglichkeiten untersucht, Anwendungsfälle zu untersuchen und zu priorisieren, sie bestimmten Funktionen der Echtzeit-Kundendatenplattform zuzuordnen und die Ausrichtung an Geschäftsergebnissen und -nutzen sicherzustellen.
+In diesem Webinar werden wichtige Möglichkeiten untersucht und priorisiert, diese Anwendungsfälle bestimmten Real-Time CDP-Funktionen zugeordnet und die Abstimmung mit Geschäftsergebnissen und Nutzen sichergestellt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429290/?learn=on)
 
 ## Wichtige Diskussionspunkte
 
-* Nutzungsszenarios Die Echtzeit-Kundendatenplattform löst die für Geschäftsergebnisse spezifischen Lösungen aus und priorisiert sie.
-* Abstimmung der Funktionen der Echtzeit-Kundendatenplattform auf priorisierte Anwendungsfälle
+* Anwendungsfälle, die mit Real-Time CDP gelöst werden, um diejenigen zu priorisieren, die für Geschäftsergebnisse spezifisch sind
+* Abstimmung der Real-Time CDP-Funktionen auf priorisierte Anwendungsfälle
 
 ## Zusammenfassung der Sitzung
 
-**Von der Echtzeit-Kundendatenplattform angesprochene Herausforderungen**
+**Herausforderungen, denen sich die Real-Time CDP stellt**
 
-* Segmentierte Marketing-Tools
-* Getrennte Datenquellen
-* Verlagerung von Governance-Vorschriften
+* Getrennte Marketing-Tools
+* Verstreute Datenquellen
+* Veränderte Governance-Vorschriften
 
 **Auswirkungen der Einstellung von Drittanbieter-Cookies**
 
-* Auswirkungen auf Anwendungsfälle wie Retargeting und Personalisierung von Paid Media
+* Auswirkungen auf Anwendungsfälle wie Retargeting und Personalisierung bezahlter Medien
 
-**Vergleich der Echtzeit-Kundendatenplattform mit DMP Audience Manager**
+**Vergleich von Real-Time CDP mit DMP Audience Manager**
 
 * Fokus auf Datenaufnahme, Zielgruppen-Management und Datenausgabestrukturen
 
-**Wichtigkeit der Ausrichtung und Priorisierung**
+**Wichtigkeit von Ausrichtung und Priorisierung**
 
-* Abstimmung der Fähigkeiten der CDP auf strategische Prioritäten
-* Anwendungsfälle priorisieren
-* Gewährleistung der effektiven Ausführung
+* Ausrichtung der CDP-Funktionen an strategischen Prioritäten
+* Priorisieren von Anwendungsfällen
+* Gewährleistung einer effektiven Ausführung
 
 **Erörterte Strategien**
 
 * Nutzung erweiterter Segmentierungsfunktionen
-* Datenfreigabe-Funktionen verwenden
-* Kundenunterstützung für personalisierte Kundenerlebnisse und Aufbewahrungsstrategien nutzen
+* Verwenden von Funktionen zur Datenfreigabe
+* Verwenden von Customer Air für personalisierte Kundenerlebnisse und Kundenbindungsstrategien

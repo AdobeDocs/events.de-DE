@@ -1,6 +1,6 @@
 ---
-title: Best Practices und Strategien für die Zustellbarkeit, die zu Ergebnissen führen
-description: Unzählige Stunden fließen in die Planung und Produktion Ihrer E-Mail-Kampagnen. Wenn die E-Mails absprung oder letztendlich im Spam-Ordner Ihrer Abonnenten landen, werden sie ... (Die Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein.)
+title: Best Practices und Strategien für die Zustellbarkeit, die bessere Ergebnisse erzielen
+description: Unzählige Stunden fließen in die Planung und Produktion Ihrer E-Mail-Kampagnen. Wenn die E-Mails abgewiesen werden oder letztendlich im Spam-Ordner Ihrer Abonnenten landen, werden sie … (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 version: Classic v7
 solution: Campaign
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
@@ -16,8 +16,8 @@ ht-degree: 20%
 
 ---
 
-# Best Practices und Strategien für die Zustellbarkeit, die zu Ergebnissen führen
+# Best Practices und Strategien für die Zustellbarkeit, die bessere Ergebnisse erzielen
 
-Unzählige Stunden fließen in die Planung und Produktion Ihrer E-Mail-Kampagnen. Wenn die E-Mail-Bounce oder schließlich im Spam-Ordner Ihrer Abonnenten landen, werden sie nie gelesen, Ihr Call-To-Action (CTA) wird nicht erkannt und Sie werden aufgrund verlorener Konversionen Ihre Umsatzziele nicht erreichen. Sie können es sich nicht leisten, die Zustellbarkeit und die Platzierung im Posteingang zu ignorieren. Sie sind von entscheidender Bedeutung für den Erfolg Ihrer E-Mail-Marketing-Maßnahmen.
+Unzählige Stunden fließen in die Planung und Produktion Ihrer E-Mail-Kampagnen. Wenn die E-Mails abgewiesen werden oder im Spam-Ordner Ihrer Abonnenten landen, werden sie nie gelesen, Ihre Handlungsaufforderung (CTA) wird nicht erkannt und Sie werden Ihre Umsatzziele aufgrund verlorener Konversionen verfehlen. Sie können es sich nicht leisten, die Zustellbarkeit und die Platzierung im Posteingang zu ignorieren. Sie sind für den Erfolg Ihres E-Mail-Marketings von entscheidender Bedeutung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343872/?quality=12&learn=on)

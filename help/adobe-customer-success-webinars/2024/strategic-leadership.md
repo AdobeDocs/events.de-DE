@@ -1,6 +1,6 @@
 ---
 title: Strategische Führung
-description: Erhalten Sie die Taktik, um organisatorische Ziele durch strategischen Einfluss effektiv zu erreichen.- Stärkung des Sponsorings mit Einfluss - Festlegung des Kurses für langfristigen Erfolg - Wirksame Förderung strategischer Initiativen
+description: Erwerben Sie die Taktiken, um die Unternehmensziele durch strategischen Einfluss effektiv zu erreichen.- Steigerung des Sponsoring durch Führungskräfte mit Einfluss - Weichenstellung für langfristigen Erfolg - Effektive Förderung strategischer Initiativen
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 # Strategische Führung
 
-Erhalten Sie die Taktik, um organisatorische Ziele durch strategischen Einfluss effektiv zu erreichen.
+Erwerben Sie die Taktiken, um die Unternehmensziele durch strategischen Einfluss effektiv zu erreichen.
 
-- Stärkung des Sponsorings mit Einfluss
-- Weichen für langfristigen Erfolg stellen
-- Wirksame Förderung strategischer Initiativen
+- Förderung des Sponsoring durch Führungskräfte mit Einfluss
+- Weichenstellung für langfristigen Erfolg
+- Strategische Initiativen wirksam vorantreiben
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)

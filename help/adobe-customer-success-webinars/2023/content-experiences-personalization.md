@@ -1,6 +1,6 @@
 ---
-title: Inhalt und Erlebnisse - Das schlagende Herz von Personalization
-description: Ermittlung und Überwindung häufiger Herausforderungen beim Erstellen von Inhalten und Erlebnissen Entwicklung von Anwendungsfällen zur Förderung von Inhalten auf der Journey
+title: Inhalte und Erlebnisse - Das pulsierende Herz von Personalization
+description: Identifizieren und Überwinden allgemeiner Herausforderungen beim Erstellen einer Funktion für Inhalte und Erlebnisse Erstellen von Anwendungsfällen zur Bereitstellung von Inhalten auf dem Kunden-Journey
 solution: General
 topic: Personalization
 role: Admin, Architect, Data Architect, Data Engineer, Leader
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ---
 
-# Inhalt und Erlebnisse: Das schlagende Herz von Personalization
+# Content &amp; Experiences: The Beating Heart of Personalization
 
-*Inhalte und Erlebnisse: Das schlagende Herz von Personalization*
+*Content &amp; Experiences: The Beating Heart of Personalization*
 
-* Ermittlung und Überwindung gemeinsamer Herausforderungen beim Erstellen von Inhalts- und Erlebnisfunktionen
-* Erstellen von Anwendungsfällen zur Förderung von Inhalten auf der gesamten Journey
+* Identifizieren und Überwinden allgemeiner Herausforderungen beim Aufbau einer Funktion für Inhalte und Erlebnisse
+* Erstellen von Anwendungsfällen zur Bereitstellung von Inhalten auf dem Kunden-Journey
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424021/?learn=on)

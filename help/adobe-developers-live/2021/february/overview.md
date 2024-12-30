@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live Februar 2021
-description: Eine Sammlung von Videos und Tutorials für Adobe Experience Manager Sites, die im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt werden.
+description: Eine Videosammlung und Tutorials für Adobe Experience Manager Sites, die im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt werden.
 sub-product: sites, content-services
 exl-id: 6c430d4c-12c1-4d3a-860f-fc3c6bf5803c
 duration: 91
@@ -15,11 +15,11 @@ ht-degree: 5%
 
 <img alt="Adobe Developers Live" src="/help/adobe-developers-live/assets/adl.png" />
 
-Vom 8. bis 9. Februar 2021 führte Adobe Developers Live: Content Entwickler und Erlebnisentwickler mit unterschiedlichem Hintergrund und einem besonderen Zweck zusammen - um unglaubliche End-to-End-Erlebnisse zu schaffen.
+Vom 8. bis 9. Februar 2021 führte Adobe Developers Live: Content Entwickler und Erlebnisgestalter mit unterschiedlichem Hintergrund zusammen - um herausragende End-to-End-Erlebnisse zu schaffen.
 
-Auf dieser zweitägigen Konferenz wurden wichtige Adobe Experience Manager-Entwickleraktualisierungen vorgestellt, wie Headless und GraphQL, Adobe Experience Manager as a Cloud Service, technische Sitzungen und Community-Netzwerkmöglichkeiten.
+Diese zweitägige Konferenz bot wichtige Adobe Experience Manager-Entwickleraktualisierungen, wie Headless und GraphQL, Adobe Experience Manager as a Cloud Service, technische Sessions und Gelegenheiten zum Networking in der Community.
 
-Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Sitzungsunterhaltungen in **[Experience League Communities](https://adobe.ly/36Yd3v6)** teil.
+Treten Sie mit anderen Entwicklern in Verbindung und nehmen Sie an den Sitzungsunterhaltungen in **[Experience League Communities](https://adobe.ly/36Yd3v6)** teil.
 
 ## Highlights
 
@@ -35,20 +35,20 @@ Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Sitzungsunterha
       </div>
       <p>
         <br/>
-         Erfahren Sie mehr über die neuen Headless-Funktionen mit den neuesten Inhaltsfragmentverbesserungen. Im Mittelpunkt dieser Sitzung steht die GraphQL-API für AEM Cloud Service.
+         Erfahren Sie mehr über die neuen Headless-Funktionen mit den neuesten Verbesserungen bei Inhaltsfragmenten. Im Mittelpunkt dieser Sitzung steht die GraphQL-API für AEM Cloud Service.
       </p>
      </td>   
      <td>
       <a href="rapid-frontend-devlopment.md">
-      <img alt="Frontend Dev - Ihr zukünftiger Workflow zum schnellen Erstellen und Bereitstellen des Frontend Ihrer Site." src="/help/adobe-developers-live/assets/gabriel.png"/>
+      <img alt="Frontend-Entwicklung : Ihr zukünftiger Workflow zum schnellen Erstellen und Bereitstellen des Frontends Ihrer Site." src="/help/adobe-developers-live/assets/gabriel.png"/>
       </a>
       <div>
-         <a href="rapid-frontend-devlopment.md"><strong>Frontend-Entwicklung - Ihr zukünftiger Workflow zum schnellen Erstellen und Bereitstellen des Frontend Ihrer Site.</strong></a>
-         <br/><em>mit Gabriel Walt, SR Product Manager</em>
+         <a href="rapid-frontend-devlopment.md"><strong>Frontend-Entwicklung - Ihr zukünftiger Workflow zum schnellen Erstellen und Bereitstellen des Frontends Ihrer Site.</strong></a>
+         <br/><em>mit Gabriel Walt, Sr. Product Manager</em>
       </div>
       <p>
         <br/>
-         Verwenden Sie Sitevorlagen, um in wenigen Klicks neue Sites zu erstellen und die Frontend-Entwicklung mit der schnellen Bereitstellung von Frontend-Assets wie CSS&amp;JS zu unterstützen.
+         Verwenden Sie Site-Vorlagen, um mit wenigen Klicks neue Sites zu erstellen, und bringen Sie den Spaß der Frontend-Entwicklung mit der schnellen Bereitstellung von Frontend-Assets wie CSS&amp;JS zurück.
       </p>
    </td>
    </td>
@@ -57,12 +57,12 @@ Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Sitzungsunterha
       <img alt="Vorbereitung auf den Cloud Service - Best Practices für die Migration" src="/help/adobe-developers-live/assets/andreea.png"/>
       </a>
       <div>
-         <a href="get-ready-aem-cloud.md"><strong>Bereiten Sie sich auf den Cloud Service vor - Best Practices bei der Migration</strong></a>
+         <a href="get-ready-aem-cloud.md"><strong>Machen Sie sich bereit für den Cloud Service - Best Practices für die Migration</strong></a>
          <br/><em>mit Andreea Moise, Sr. Software Engineer</em>
       </div>
       <p>
         <br/>
-         Um die Vorteile von AEM Cloud Service optimal nutzen zu können, müssen Sie Ihre Codebasis so anpassen, dass sie Cloud-freundlich und kugelsicher ist und künftigen Upgrades im Rahmen des Programms standhält.
+         Entscheidend für die Maximierung der Vorteile von AEM Cloud Service ist die Anpassung der Code-Basis, um sie Cloud-freundlich und gegen zukünftige Upgrades im Hintergrund abzusichern.
       </p>
    </td>
   </tr>
@@ -70,15 +70,15 @@ Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Sitzungsunterha
 
 >[!TIP]
 >
->**Alle Sitzungen werden in der Navigation auf der linken Seite angezeigt**.
+>**Alle Sitzungen werden im Navigationsbereich auf der linken Seite**.
 
 ## Weitere Ressourcen
 
-* [Experience League - AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
+* [Experience League - AEM erkunden](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
 * [Dokumentation zur AEM Sites-Bearbeitung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [AEM Sites-Entwicklungsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [AEM Sites-Verwaltungsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [AEM Sites-Bereitstellungsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=de)
+* [Entwicklungsdokumentation für AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
+* [Dokumentation zur Verwaltung von AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [Dokumentation zur Bereitstellung von AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=de)
 * [AEM as a Cloud Service Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=de)
 * [AEM Assets-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=de)
 * [Tutorials zu AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)

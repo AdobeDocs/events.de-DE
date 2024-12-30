@@ -1,6 +1,6 @@
 ---
 title: Erweitern von Experience Manager Headless mit App Builder
-description: Erfahren Sie mehr über Experience Manager Headless und Adobe App Builder. Integrieren Sie AEM in Drittanbietersysteme, von ereignisgesteuerten Integrationen über skalierbare Server-lose Verarbeitung bis hin zu Single Page Applications (SPA).
+description: Erfahren Sie mehr über Experience Manager Headless und Adobe App Builder. Integration von AEM in Drittanbietersysteme, von ereignisgesteuerten Integrationen über skalierbare Server-lose Verarbeitung bis hin zu Single Page Applications (SPA).
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Developer Tools, APIs, Integrations
 topic: Headless, Development
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Erweitern von [!DNL Experience Manager] Headless mit Adobe [!DNL App Builder]
+# Erweitern von [!DNL Experience Manager] Headless mit Adobe-[!DNL App Builder]
 
-Sean Steimer und Kelvin Xu sprechen über [!DNL Experience Manager] Headless und [!DNL App Builder]. Von ereignisgesteuerten Integrationen über skalierbare Server-lose Verarbeitung bis hin zu Einzelseitenanwendungen (SPA) bietet [!DNL App Builder] leistungsstarke Funktionen für die Headless-Integration von Adobe [!DNL Experience Manager] mit Drittanbietersystemen. Hier erhalten Sie einen Einblick in einige reale Anwendungsfälle und gängige Muster, in denen [!DNL App Builder] für die Erweiterung von Adobe [!DNL Experience Manager] verwendet wurde.
+Sean Steimer und Kelvin Xu sprechen über [!DNL Experience Manager] Headless und [!DNL App Builder]. Von ereignisgesteuerten Integrationen über skalierbare Server-lose Verarbeitung bis hin zu Single Page Applications (SPA) bietet [!DNL App Builder] leistungsstarke Funktionen zur Headless-Integration von Adobe-[!DNL Experience Manager] mit Drittanbietersystemen. Hier erhalten Sie einen Einblick in einige Anwendungsfälle und gängige Muster, bei denen [!DNL App Builder] für die Erweiterung von Adobe-[!DNL Experience Manager] verwendet wurde.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345380/?quality=12&learn=on)

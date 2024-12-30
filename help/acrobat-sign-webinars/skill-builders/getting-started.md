@@ -1,6 +1,6 @@
 ---
 title: Acrobat Sign 101 - Erste Schritte
-description: Lernen Sie die Grundlagen von Acrobat Sign kennen, um schnell mit der Unterzeichnung von Dokumenten zu beginnen.
+description: Lernen Sie die Grundlagen von Acrobat Sign kennen, um Dokumente schnell signieren zu können.
 feature: Sign
 role: User
 level: Beginner
@@ -18,17 +18,17 @@ ht-degree: 0%
 
 # Acrobat Sign 101 - Erste Schritte
 
-Lernen Sie die Grundlagen von Acrobat Sign kennen, um schnell mit der Unterzeichnung von Dokumenten zu beginnen. Wir zeigen Ihnen, wie Sie Ihre Dokumente vorbereiten und zur e-Signatur senden können. Sehen Sie sich an, was Ihre Unterzeichner sehen: Verwalten und verfolgen Sie den Fortschritt von Vereinbarungen Erstellen Sie Ihre eigene Signatur und vieles mehr.
+Lernen Sie die Grundlagen von Acrobat Sign kennen, um Dokumente schnell signieren zu können. Wir zeigen Ihnen Folgendes: Vorbereiten und Senden Ihrer Dokumente für die E-Signatur Anzeigen, was Ihre Unterzeichner sehen Verwalten und Verfolgen des Fortschritts von Vereinbarungen Erstellen Sie Ihre eigene Signatur und mehr.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
 
 ## Wichtigste Punkte
 
-* Elektronische Signaturen sind eine effiziente und gültige Methode zur Erfassung von Genehmigungen und Signaturen in elektronischen Dokumenten.
-* Digitale Signaturen bieten eine verbesserte Identitätsauthentifizierung und Signaturverschlüsselung für Unterzeichner.
+* Elektronische Signaturen sind ein effizientes und gültiges Verfahren zur Erfassung von Genehmigungen und zur Abnahme von elektronischen Dokumenten.
+* Digitale Signaturen bieten eine verbesserte Authentifizierung der Unterzeichneridentität und Signaturverschlüsselung.
 * Adobe Sign unterstützt sowohl elektronische als auch digitale Signaturen für Dokument- und Signatur-Workflows.
-* Der Workflow eines Dokuments kann auf &quot;In der richtigen Reihenfolge signieren&quot;gesetzt werden, um sicherzustellen, dass die Unterzeichner in der richtigen Reihenfolge aufgeführt werden.
-* Mithilfe des Sprechblasen-Symbols können für bestimmte Teilnehmer private Nachrichten hinzugefügt werden.
-* Unterzeichner haben die Möglichkeit, die Vereinbarung zu lesen, die Unterzeichnung zu delegieren, die Unterzeichnung abzulehnen, den Verlauf anzuzeigen und die PDF herunterzuladen.
-* Absender können Vereinbarung-Workflows verwalten, Transaktionen anzeigen, Erinnerungen senden und auf abgeschlossene Dokumente zugreifen.
-* Adobe Sign fungiert als Speichermechanismus für alle signierten Dokumente, aber Benutzer können über eigene Archivierungsmethoden verfügen.
+* Der Workflow eines Dokuments kann auf „In der richtigen Reihenfolge signieren“ festgelegt werden, um sicherzustellen, dass die Unterzeichner in der richtigen Reihenfolge arbeiten.
+* Private Nachrichten können für bestimmte Teilnehmer über das Symbol Sprechblase hinzugefügt werden.
+* Die Unterzeichner haben die Möglichkeit, die Vereinbarung zu lesen, die Unterzeichnung zu delegieren, die Unterzeichnung abzulehnen, den Verlauf anzuzeigen und die PDF herunterzuladen.
+* Absender können Vereinbarungs-Workflows verwalten, Transaktionen anzeigen, Erinnerungen senden und auf abgeschlossene Dokumente zugreifen.
+* Adobe Sign fungiert als Speichermechanismus für alle signierten Dokumente, Benutzende können jedoch über eigene Archivierungsmethoden verfügen.

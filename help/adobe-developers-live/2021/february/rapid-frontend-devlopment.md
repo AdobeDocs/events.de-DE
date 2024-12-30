@@ -1,6 +1,6 @@
 ---
 title: Schnelle Frontend-Entwicklung - Ihr zukünftiger Workflow
-description: Verwenden Sie Sitevorlagen, um in wenigen Klicks neue Sites zu erstellen und die Frontend-Entwicklung mit der schnellen Bereitstellung von Frontend-Assets wie CSS und JS zu unterstützen. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+description: Verwenden Sie Site-Vorlagen, um mit wenigen Klicks neue Sites zu erstellen, und bringen Sie den Spaß der Frontend-Entwicklung mit der schnellen Bereitstellung von Frontend-Assets wie CSS und JS zurück. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 # Schnelle Frontend-Entwicklung - Ihr zukünftiger Workflow
 
-Verwenden Sie Sitevorlagen, um in wenigen Klicks neue Sites zu erstellen und die Frontend-Entwicklung mit der schnellen Bereitstellung von Frontend-Assets wie CSS und JS zu unterstützen.
+Verwenden Sie Site-Vorlagen, um mit wenigen Klicks neue Sites zu erstellen, und bringen Sie den Spaß der Frontend-Entwicklung mit der schnellen Bereitstellung von Frontend-Assets wie CSS und JS zurück.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** .
+Klicken Sie **[hier](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** für die Sitzungsfolien.

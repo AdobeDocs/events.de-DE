@@ -1,6 +1,6 @@
 ---
-title: Eine Übersicht über Adobe Exchange, den Drittanbieter-Entwicklermarkt
-description: Erfahren Sie, wie Sie eine Service-to-Service-Integration in Developer Console erstellen, sie in der Admin Console verwalten und eine öffentliche Anwendungsliste in der Adobe Exchange veröffentlichen. Nachdem wir eine Verbindung zu einer Adobe-API hergestellt haben, gehen wir durch die Schritte zur Registrierung als Adobe Exchange Partner, zur Erstellung einer öffentlichen Liste, zum Einreichen und Veröffentlichen der Liste.
+title: Ein Überblick über Adobe Exchange, den Drittanbieter-Entwickler-Marketplace
+description: Erfahren Sie, wie Sie eine Service-to-Service-Integration in Developer Console erstellen, sie in der Admin Console verwalten und einen öffentlichen Anwendungseintrag in Adobe Exchange veröffentlichen. Nachdem Sie eine Adobe Exchange zu einer Adobe-API hergestellt haben, führen wir die Schritte zur Registrierung als Verbindungspartner, zur Erstellung eines öffentlichen Listeneintrags, zur Übermittlung zur Genehmigung und zur Veröffentlichung durch.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -16,16 +16,16 @@ ht-degree: 8%
 
 ---
 
-# Eine Übersicht über Adobe Exchange, den Drittanbieter-Entwicklermarkt
+# Ein Überblick über Adobe Exchange, den Drittanbieter-Entwickler-Marketplace
 
-Erfahren Sie, wie Sie eine Service-to-Service-Integration in Developer Console erstellen, sie in der Admin Console verwalten und eine öffentliche Anwendungsliste in der Adobe Exchange veröffentlichen. Nachdem wir eine Verbindung zu einer Adobe-API hergestellt haben, gehen wir durch die Schritte zur Registrierung als Adobe Exchange Partner, zur Erstellung einer öffentlichen Liste, zum Einreichen und Veröffentlichen der Liste.
+Erfahren Sie, wie Sie eine Service-to-Service-Integration in Developer Console erstellen, sie in der Admin Console verwalten und einen öffentlichen Anwendungseintrag in Adobe Exchange veröffentlichen. Nachdem Sie eine Adobe Exchange zu einer Adobe-API hergestellt haben, führen wir die Schritte zur Registrierung als Verbindungspartner, zur Erstellung eines öffentlichen Listeneintrags, zur Übermittlung zur Genehmigung und zur Veröffentlichung durch.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3ooiltm)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/3ooiltm)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337841/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign Standard Customer Spotlight - Microsoft
-description: Die Sitzung richtet sich an Adobe Campaign Standard-Kunden. Sie hören vom Marketing-Team in Microsoft, um zu erfahren, wie sie Adobe Campaign Standard verwenden.
+title: Adobe Campaign Standard-Kunden-Spotlight - Microsoft
+description: Die Sitzung richtet sich an Adobe Campaign Standard-Kunden. Vom Marketing-Team bei Microsoft erfahren Sie, wie es Adobe Campaign Standard verwendet.
 version: Standard
 solution: Campaign
 kt: 10503
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Campaign Standard Customer Spotlight - Microsoft
+# Adobe Campaign Standard-Kunden-Spotlight - Microsoft
 
-Die Sitzung richtet sich an Adobe Campaign Standard-Kunden. Sie hören vom Marketing-Team in Microsoft, um zu erfahren, wie sie Adobe Campaign Standard, dessen Architektur, Leitprinzipien und Best Practices verwenden. Sie werden auch vom Adobe-Produktteam über Produktaktualisierungen und Roadmap erfahren.
+Die Sitzung richtet sich an Adobe Campaign Standard-Kunden. Vom Marketing-Team bei Microsoft erfahren Sie, wie es Adobe Campaign Standard verwendet, wie es strukturiert ist und welche Leitprinzipien und Best Practices es bietet. Vom Adobe-Produkt-Team erhalten Sie außerdem Informationen zu Produktaktualisierungen und zur Roadmap.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343522/?quality=12&learn=on)

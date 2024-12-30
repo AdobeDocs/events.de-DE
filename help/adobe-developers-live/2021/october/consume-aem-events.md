@@ -1,6 +1,6 @@
 ---
-title: Erstellen einer App, die Adobe Experience Manager-Ereignisse verwendet
-description: Erfahren Sie, WARUM es sinnvoll ist, ereignisbasierte Anwendungen zu erstellen und wie wir sie mit App Builder einfach erstellen können. Diese Sitzung behandelt - Alles, was Sie wissen müssen, um mit der Erstellung ereignisgesteuerter Anwendungen zu beginnen, die auf Adobe-Produkte reagieren. Live-Demo zum Erstellen einer App Builder-Anwendung, die auf Adobe Experience Manager-Ereignisse reagiert Einführung in App Builder-Komponenten - Adobe I/O-Ereignisse und I/O Runtime. Lassen Sie uns für ein ansprechendes Kundenerlebnis gerüstet sein!
+title: Erstellen einer App, die Adobe Experience Manager-Ereignisse nutzt
+description: Erfahren Sie, warum es sinnvoll ist, ereignisgesteuerte Programme zu erstellen, und wie wir diese mit App Builder mühelos erstellen können. In dieser Sitzung wird alles behandelt, was Sie wissen müssen, um mit dem Erstellen ereignisgesteuerter Anwendungen zu beginnen, die auf Ereignisse von Adobe-Produkten reagieren. Live-Demo zum Erstellen einer App Builder-Anwendung, die auf Adobe Experience Manager-Ereignisse reagiert. Einführung in App Builder-Komponenten - Adobe I/O Events und I/O Runtime. Lassen Sie uns darauf vorbereitet sein, ein ansprechendes Kundenerlebnis zu bieten!
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -18,16 +18,16 @@ ht-degree: 6%
 
 ---
 
-# Erstellen einer App, die Adobe Experience Manager-Ereignisse verwendet
+# Erstellen einer App, die Adobe Experience Manager-Ereignisse nutzt
 
-Erfahren Sie, WARUM es sinnvoll ist, ereignisbasierte Anwendungen zu erstellen und wie wir sie mit App Builder einfach erstellen können. Diese Sitzung behandelt: Alles, was Sie wissen müssen, um mit der Erstellung ereignisgesteuerter Anwendungen zu beginnen, die auf Adobe-Produkte reagieren. Live-Demo zum Erstellen einer App Builder-Anwendung, die auf Adobe Experience Manager-Ereignisse reagiert Einführung in App Builder-Komponenten - Adobe I/O-Ereignisse und I/O Runtime. Lassen Sie uns für ein ansprechendes Kundenerlebnis gerüstet sein!
+Erfahren Sie, warum es sinnvoll ist, ereignisgesteuerte Programme zu erstellen, und wie wir diese mit App Builder mühelos erstellen können. In dieser Sitzung wird Folgendes behandelt: Alles, was Sie wissen müssen, um mit der Erstellung ereignisgesteuerter Anwendungen zu beginnen, die auf Ereignisse von Adobe-Produkten reagieren. Live-Demo zum Erstellen einer App Builder-Anwendung, die auf Adobe Experience Manager-Ereignisse reagiert. Einführung in App Builder-Komponenten - Adobe I/O Events und I/O Runtime. Lassen Sie uns darauf vorbereitet sein, ein ansprechendes Kundenerlebnis zu bieten!
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3ipjs8p)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/3ipjs8p)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337566/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

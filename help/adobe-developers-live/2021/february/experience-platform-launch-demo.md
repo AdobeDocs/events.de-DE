@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Platform Launch Demo
-description: Schnelles und einfaches Bereitstellen und Verwalten Ihrer clientseitigen Marketing- und Werbe-Tags mit AEP Launch, Erfahren Sie, wie Sie Ihre eigenen Erweiterungen anpassen und schreiben können. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+title: Adobe Experience Platform Launch-Demo
+description: Stellen Sie Ihre Client-seitigen Marketing- und Werbe-Tags mit AEP Launch schnell und einfach bereit und verwalten Sie sie. Erfahren Sie, wie Sie Ihre eigenen Erweiterungen anpassen und schreiben können. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 solution: Data Collection
 product: experience platform
 sub-product: launch
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe Experience Platform Launch Demo
+# Adobe Experience Platform Launch-Demo
 
-Schnelles und einfaches Bereitstellen und Verwalten Ihrer clientseitigen Marketing- und Werbe-Tags mit AEP Launch, Erfahren Sie, wie Sie Ihre eigenen Erweiterungen anpassen und schreiben können.
+Stellen Sie Ihre Client-seitigen Marketing- und Werbe-Tags mit AEP Launch schnell und einfach bereit und verwalten Sie sie. Erfahren Sie, wie Sie Ihre eigenen Erweiterungen anpassen und schreiben können.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331734/?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/experience-platform-launch-demo.pdf)** .
+Klicken Sie **[hier](/help/adobe-developers-live/assets/experience-platform-launch-demo.pdf)** für die Sitzungsfolien.

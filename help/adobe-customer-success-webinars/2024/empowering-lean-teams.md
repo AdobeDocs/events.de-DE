@@ -1,6 +1,6 @@
 ---
-title: Empowering Lean Teams
-description: Erfahren Sie, wie Produktintegrationen das Management digitaler Workflows optimieren, die Teamzusammenarbeit verbessern, sicherstellen können, dass Sie über ein effizientes Team verfügen und Ihre Geschäftsprozesse skalieren können.
+title: Lean-Teams stärken
+description: Erfahren Sie, wie Produktintegrationen die Verwaltung digitaler Workflows optimieren, die Zusammenarbeit zwischen Teams verbessern, ein effektives Team sicherstellen und Ihre Geschäftsprozesse skalieren können.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -16,50 +16,50 @@ ht-degree: 0%
 
 ---
 
-# Empowering Lean Teams
+# Lean-Teams stärken
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427800/?learn=on)
 
-In diesem Webinar werden die Herausforderungen für schlanke Teams erläutert und Strategien zu ihrer Überwindung vorgestellt. Er betont, wie wichtig es ist, Aufgaben zu straffen, die Effizienz zu steigern, die Lebensqualität am Arbeitsplatz zu verbessern, Qualifikationslücken zu schließen und die Zusammenarbeit und Kommunikation zu verbessern. Außerdem werden verschiedene Integrationen und Funktionen von Adobe-Lösungen vorgestellt, die zur Optimierung von Prozessen und zur Optimierung von Workflows beitragen können. Darüber hinaus wird die Bedeutung von Schulungen, Dokumentationen und der Festlegung von Standards und Governance hervorgehoben, um die Teameffizienz und Skalierbarkeit zu verbessern. Insgesamt sollen die im Dokument dargelegten Strategien dazu beitragen, dass die schlanken Teams mit begrenzten Ressourcen mehr erreichen können.
+In diesem Webinar werden die Herausforderungen für schlanke Teams besprochen und Strategien zu ihrer Überwindung bereitgestellt. Er betont, wie wichtig es ist, die Aufgaben zu straffen, die Effizienz zu steigern, die Lebensqualität der Arbeitnehmer zu verbessern, Qualifikationslücken zu schließen und die Zusammenarbeit und Kommunikation zu verbessern. In dem Dokument werden auch verschiedene Integrationen und Funktionen von Adobe-Lösungen vorgestellt, die zur Optimierung von Prozessen und Workflows beitragen können. Darüber hinaus wird die Bedeutung von Schulungen, Dokumentation und der Festlegung von Standards und Governance für die Verbesserung der Effizienz und Skalierbarkeit der Teams hervorgehoben. Insgesamt zielen die in dem Dokument beschriebenen Strategien darauf ab, schlanke Teams zu befähigen, mit begrenzten Ressourcen mehr zu erreichen.
 
 ## Highlights
 
-* Zu den Herausforderungen für schlanke Teams zählen Ressourcenmangel, Qualifikationslücken und Ausbildungsbedarf, Management von Branding und Arbeitsaufwand sowie Schwierigkeiten bei der Zusammenarbeit und Kommunikation.
+* Zu den Herausforderungen für schlanke Teams zählen Ressourcenknappheit, Qualifikationsdefizite und Schulungsbedarf, die Bewältigung von Burnout und Arbeitsbelastung sowie Schwierigkeiten bei der Zusammenarbeit und Kommunikation.
 
-* Um diese Herausforderungen zu bewältigen, können schlanke Teams Aufgaben optimieren, die Effizienz steigern, die Lebensqualität verbessern, Qualifikationslücken reduzieren und die wichtigsten Produktfunktionen und Integrationen von Adobe Solutions nutzen.
+* Um diese Herausforderungen zu bewältigen, können schlanke Teams Aufgaben optimieren, die Effizienz steigern, die Lebensqualität verbessern, Qualifikationslücken reduzieren und die wichtigsten Produktfunktionen und Integrationen nutzen, die von Adobe Solutions angeboten werden.
 
-* Adobe Creative Cloud bietet Funktionen wie Creative Cloud-Bibliotheken, die es Benutzern ermöglichen, Assets zentral zu speichern und zu verwalten, sowie Integrationen mit Drittanbieterplattformen wie Microsoft Teams und Slack für eine Zusammenarbeit und effiziente Kreativprozesse.
+* Adobe Creative Cloud bietet Funktionen wie Creative Cloud-Bibliotheken, mit denen Benutzende Assets zentral speichern und verwalten können, sowie Integrationen mit Drittanbieterplattformen wie Microsoft Teams und Slack für Zusammenarbeit und effiziente Kreativprozesse.
 
-* Adobe Experience Manager (AEM) bietet Funktionen wie Workflows, Inhaltsfragmente und Anmerkungen, um die Content-Geschwindigkeit zu erhöhen, Prozesse zu optimieren und die Zusammenarbeit und Asset-Verwaltung zu verbessern.
+* Adobe Experience Manager (AEM) bietet Funktionen wie Workflows, Inhaltsfragmente und Anmerkungen, um die Inhaltsgeschwindigkeit zu erhöhen, Prozesse zu optimieren und die Zusammenarbeit und das Asset-Management zu verbessern.
 
-* Schulungen und Dokumentation sind zusammen mit der Festlegung von Standards und Governance von entscheidender Bedeutung für die Ermächtigung schlanker Teams, die Förderung kontinuierlicher Verbesserungen und die Sicherstellung von Skalierbarkeit und Effizienz. Außerdem kann ein Kompetenzzentrum eingerichtet werden, um bewährte Verfahren und den Austausch von Wissen zu fördern.
+* Schulungen und Dokumentation sowie die Festlegung von Standards und Governance sind für die Stärkung schlanker Teams, die Förderung kontinuierlicher Verbesserungen und die Sicherstellung von Skalierbarkeit und Effizienz von entscheidender Bedeutung. Ferner kann ein Kompetenzzentrum eingerichtet werden, um bewährte Verfahren und den Wissensaustausch zu fördern.
 
 ## Wie können Creative Cloud-Bibliotheken beim Verwalten von Assets helfen?
 
-* Zentralisierter Speicher: Creative Cloud-Bibliotheken ermöglichen es Benutzern, ihre eigenen Assets wie Bilder, Grafiken, Farben und Textstile zentral zu speichern und zu verwalten. Dies erleichtert es Team-Mitgliedern, auf Assets in verschiedenen Projekten und Anwendungen zuzugreifen und diese zu verwenden.
+* Zentraler Speicher: Mit Creative Cloud-Bibliotheken können Benutzende ihre eigenen Assets, wie Bilder, Grafiken, Farben und Textstile, an einem zentralen Ort speichern und verwalten. Dadurch können Team-Mitglieder problemlos auf Assets in verschiedenen Projekten und Programmen zugreifen und diese verwenden.
 
-* Markenkonsistenz: Durch die Verwendung von Creative Cloud-Bibliotheken können Teammitglieder Markenkonsistenz gewährleisten, indem sie über verschiedene-Projekte hinweg auf denselben Asset-Satz zugreifen und ihn verwenden. Dadurch entfällt die Notwendigkeit, nach Assets zu suchen oder diese neu zu erstellen, wodurch Zeit gespart und eine konsistente visuelle Identität beibehalten wird.
+* Markenkonsistenz: Durch die Verwendung von Creative Cloud-Bibliotheken können Team-Mitglieder Markenkonsistenz sicherstellen, indem sie in verschiedenen Projekten auf dieselben Assets zugreifen und diese verwenden. Dadurch entfällt die Notwendigkeit, nach Assets zu suchen oder sie neu zu erstellen, was Zeit spart und eine konsistente visuelle Identität aufrechterhält.
 
-* Optimierter Kreativprozess: Mit Creative Cloud-Bibliotheken können Benutzer Assets direkt in ihre Projekte ziehen und dort ablegen. Dadurch wird der kreative Prozess optimiert und die zum Ausführen von Aufgaben erforderliche Zeit verringert, z. B. das Hinzufügen von Bildern oder das Anwenden bestimmter Farben oder Textstile.
+* Optimierter Kreativprozess: Creative Cloud-Bibliotheken ermöglichen es Benutzenden, Assets direkt in ihre Projekte zu ziehen und abzulegen. Dadurch wird der kreative Prozess optimiert und der Zeitaufwand für die Durchführung von Aufgaben wie dem Hinzufügen von Bildern oder dem Anwenden bestimmter Farben oder Textstile reduziert.
 
-* Collaboration- und Echtzeit-Updates: Creative Cloud-Bibliotheken erleichtern die Zusammenarbeit zwischen Teammitgliedern, indem sie es Benutzern ermöglichen, Bibliotheken oder Assets für andere freizugeben. Dadurch wird sichergestellt, dass alle Benutzer mit denselben Materialien arbeiten und Echtzeitaktualisierungen möglich sind. Wenn ein Team-Mitglied ein Asset in einer freigegebenen Bibliothek aktualisiert, steht die Änderung automatisch jedem zur Verfügung, der darauf zugreift.
+* Collaboration- und Echtzeit-Updates: Creative Cloud-Bibliotheken erleichtern die Zusammenarbeit zwischen Team-Mitgliedern, indem sie es Benutzenden ermöglichen, Bibliotheken oder Assets mit anderen freizugeben. Dadurch wird sichergestellt, dass alle Benutzenden mit demselben Materialsatz arbeiten, und es werden Echtzeit-Aktualisierungen ermöglicht. Wenn ein Teammitglied ein Asset in einer freigegebenen Bibliothek aktualisiert, ist die Änderung automatisch für alle verfügbar, die darauf zugreifen.
 
-* Versionskontrolle: Creative Cloud-Bibliotheken erleichtern die Verwaltung verschiedener Asset-Versionen. Dadurch wird das Risiko von Inkonsistenzen mit Assets verringert und sichergestellt, dass Teammitglieder immer die neueste Version verwenden.
+* Versionskontrolle: Creative Cloud-Bibliotheken erleichtern die Verwaltung verschiedener Versionen von Assets. Dadurch wird das Risiko von Inkonsistenzen mit Assets reduziert und sichergestellt, dass die Team-Mitglieder immer die neueste Version verwenden.
 
 Insgesamt tragen Creative Cloud-Bibliotheken dazu bei, die Verwaltung von Assets zu optimieren, die Zusammenarbeit zu verbessern und die Effizienz des Kreativprozesses zu steigern.
 
-## Welche Herausforderungen sind bei der Arbeit mit einem schlanken Team zu bewältigen?
+## Vor welchen Herausforderungen steht ein schlankes Team?
 
 Zu den Herausforderungen bei der Arbeit mit einem schlanken Team gehören:
 
-* Ressourcenbeschränkungen: Leere Teams werden durch begrenzte Ressourcen definiert, was die Verwaltung mehrerer Projekte und die Priorisierung von Aufgaben erschwert. Dies kann zu längeren Projektzeitplänen, Projektverzögerungen, eingeschränktem Umfang und Schwierigkeiten führen, knappe Fristen einzuhalten.
+* Ressourcenbeschränkungen: Lean Teams werden durch begrenzte Ressourcen definiert, was die Verwaltung mehrerer Projekte und die Priorisierung von Aufgaben schwierig gestalten kann. Dies kann zu längeren Projektzeitleisten, Projektverzögerungen, geringerem Umfang und Schwierigkeiten bei der Einhaltung knapper Fristen führen.
 
-* Qualifikationslücken und Ausbildungsbedarf: Ein Unternehmen zu betreiben erfordert eine Reihe von Fähigkeiten, und schlanke Teams können mit Qualifikationslücken und unzulänglichen Fähigkeiten im gesamten Team kämpfen. Dies kann die Zuweisung von Trainingszeit erschweren, ohne die Produktivität zu beeinträchtigen.
+* Qualifikationsdefizite und Schulungsbedarf: Ein Unternehmen zu betreiben, erfordert eine Reihe von Qualifikationen, und schlanke Teams können im gesamten Team mit Qualifikationsdefiziten und isolierten Qualifikationen kämpfen. Dies kann die Zuweisung von Schulungszeit erschweren, ohne die Produktivität zu beeinträchtigen.
 
-* Branding und Arbeitslast verwalten: Mit einem schlanken Team trägt jedes Teammitglied oft mehrere Hüte, was zu höheren Arbeitslasten, hohem Druck und einem höheren Brandrisiko führt. Die Vereinbarkeit von Berufs- und Lebensqualität wird eine Herausforderung und kann sich im Laufe der Zeit auf Moral und Produktivität auswirken.
+* Verwaltung von Burnout und Arbeitsbelastung: Bei einem schlanken Team trägt jedes Teammitglied oft mehrere Hüte, was zu erhöhter Arbeitsbelastung, hohem Druck und einem höheren Risiko von Burnout führt. Die Vereinbarkeit von Beruf und Privatleben wird zu einer Herausforderung und kann sich im Laufe der Zeit auf Moral und Produktivität auswirken.
 
-* Collaboration und Kommunikation: Effiziente Zusammenarbeit und Kommunikation sind für schlanke Teams von entscheidender Bedeutung, damit sie effizient arbeiten können. Die Koordinierung über verschiedene Projekte hinweg und die Sicherstellung, dass alle Teammitglieder aufeinander abgestimmt sind, können jedoch ohne ausreichend Personal zur Verwaltung verschiedener Workflows schwierig sein. Diese Herausforderung wird noch verstärkt, wenn das Team remote verteilt oder arbeitet.
+* Collaboration und Kommunikation: Effektive Zusammenarbeit und Kommunikation sind entscheidend für ein effizientes Funktionieren schlanker Teams. Die Koordination über verschiedene Projekte hinweg und die Sicherstellung, dass alle Team-Mitglieder aufeinander abgestimmt sind, können jedoch eine Herausforderung darstellen, wenn nicht genügend Personal vorhanden ist, um verschiedene Arbeitsabläufe zu verwalten. Diese Herausforderung wird noch verschärft, wenn das Team verteilt arbeitet oder remote arbeitet.
 
-* Diese Herausforderungen lassen sich bewältigen, indem Aufgaben gestrafft, die Effizienz gesteigert, die Lebensqualität verbessert, Qualifikationslücken verringert und wichtige Produktfunktionen und Integrationen von Adobe Solutions genutzt werden.
+* Diese Herausforderungen können bewältigt werden, indem Aufgaben gestrafft, die Effizienz erhöht, die Lebensqualität verbessert, Qualifikationslücken verringert und die wichtigsten Produktfunktionen und Integrationen von Adobe Solutions genutzt werden.
 
-* Darüber hinaus können die Festlegung von Standards und Governance, die Bereitstellung von Schulungen und Dokumentation und die Schaffung eines Kompetenzzentrums dazu beitragen, diese Herausforderungen zu bewältigen und die Effizienz und Produktivität schlanker Teams zu verbessern.
+* Darüber hinaus können die Einführung von Standards und Governance, die Bereitstellung von Schulungen und Dokumentation und die Schaffung eines Kompetenzzentrums dazu beitragen, diese Herausforderungen zu bewältigen und die Effizienz und Produktivität von schlanken Teams zu verbessern.

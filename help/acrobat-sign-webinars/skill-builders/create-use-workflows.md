@@ -18,25 +18,25 @@ ht-degree: 0%
 
 # Erstellen und Verwenden von Workflows von Anfang bis Ende
 
-Aufrufen aller Acrobat Sign-Administratoren und Endbenutzer/einzelnen Mitwirkenden. In dieser Sitzung werden sowohl die Erstellung als auch die Verwendung von Workflows behandelt. Erfahren Sie, wie Sie als Acrobat Sign-Gruppe oder -Kontoadministrator vordefinierte Workflows definieren können, um Dokumente zur Signatur automatisch an die richtigen Parteien weiterzuleiten und dann Zugriff auf Ihre gesamte Acrobat Sign-Gruppe zu gewähren. Als Endbenutzer erfahren Sie, wie Sie mit diesen Workflows sicherstellen können, dass Dokumente beim ersten Mal - und jedes Mal - unterzeichnet werden.
+Alle Acrobat Sign-Administratoren und Endbenutzer/Einzelpersonen aufrufen. In dieser Sitzung wird sowohl die Erstellung als auch die Verwendung von Workflows behandelt. Erfahren Sie, wie Sie als Acrobat Sign-Gruppe oder Konto-Administrator vordefinierte Workflows definieren können, um Dokumente automatisch zur Signatur an die richtigen Parteien weiterzuleiten und dann Zugriff auf Ihre gesamte Acrobat Sign-Gruppe zu gewähren. Und als Endanwender erfahren Sie, wie Sie diese Workflows verwenden können, um sicherzustellen, dass Dokumente beim ersten Mal richtig signiert werden - und zwar jedes Mal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
 
 ## Behandelte Themen
 
-In der Sitzung werden folgende Themen behandelt:
+Die Sitzung behandelt folgende Themen:
 
-* Workflows erstellen und aktualisieren
-* Letzte Änderungen an der Workflow-Funktionalität
-* Anwendererlebnis beim Starten von Workflows
-* Admin-Einstellungen für die Konfiguration von Workflows
-* Filter-Workflows in der neuen erweiterten Berichterstellung
-* Neue Funktionen im Workflow hinzugefügt
+* Erstellen und Aktualisieren von Workflows
+* Kürzliche Änderungen an der Workflow-Funktionalität
+* Benutzererlebnis beim Initiieren von Workflows
+* Admin-Einstellungen zum Konfigurieren von Workflows
+* Filtern von Workflows in den neuen erweiterten Berichten
+* Neue Funktionen zum Workflow hinzugefügt
 
-## Letzte Aktualisierungen für den Workflow-Designer
+## Letzte Aktualisierungen am Workflow-Designer
 
-* Zu den Aktualisierungen, die kürzlich am Workflow-Designer in Adobe Acrobat Sign vorgenommen wurden, gehören:
-* Benutzer mit mehrfacher Gruppenwahrnehmung: Administratoren auf Gruppenebene können Workflows für jede Gruppe erstellen, der sie angehören, und nicht für ihre primäre Gruppe.
-* Benutzeroberfläche zur Steuerung des Arbeitsablaufs: Die Oberfläche zum Definieren der Benutzer, die auf den Workflow zugreifen können, wurde aktualisiert. Sie enthält Änderungen an Textbeschriftungen und die Verwendung eines einzigen Dropdown-Menüs zur Auswahl einzelner Gruppen.
-* Aktualisierte Textbeschriftungen: Die Textbeschriftungen für Optionen wie die Einbeziehung aller Gruppenbenutzer in das Konto wurden geändert, um Klarheit zu schaffen.
-* Vorlagendefinierte Platzierung von Signaturen: Diese Funktion ermöglicht die Erstellung eines vollständig aktivierten Formulars mit allen möglichen Empfängerfeldern, das definiert ist. Der im Workflow-Designer definierte Index des Empfängers wird strikt durchgesetzt, unabhängig von Feldern, die ausgelassenen optionalen Empfängern beim Senden der Vereinbarung zugewiesen wurden.
+* Zu den kürzlich am Workflow-Designer in Adobe Acrobat Sign vorgenommenen Aktualisierungen gehören:
+* Benutzende mit Bewusstsein für mehrere Gruppen: Administratoren auf Gruppenebene können Workflows für jede Gruppe erstellen, der sie angehören, und nicht für ihre primäre Gruppe.
+* Benutzeroberfläche zur Steuerung des Workflow-Umfangs: Die Benutzeroberfläche zum Definieren, welche Benutzenden auf den Workflow zugreifen können, wurde aktualisiert, mit Änderungen an Textbeschriftungen und der Verwendung eines einzigen Auswahl-Dropdown-Menüs zur Auswahl einzelner Gruppen.
+* Aktualisierte Textbeschriftungen: Die Textbeschriftungen für Optionen wie die Einbeziehung aller Gruppenbenutzer in das Konto wurden geändert, um die Klarheit zu erhöhen.
+* Vorlagendefinierte Unterschriftenplatzierung : Diese Funktion ermöglicht die Erstellung eines vollständig aktivierten Formulars mit allen möglichen Empfängerfeldern, wobei der im Workflow-Designer definierte Unterzeichnerindex für den Empfänger stark durchgesetzt wird, ungeachtet aller Felder, die ausgelassenen optionalen Empfängern beim Senden der Vereinbarung zugewiesen werden.

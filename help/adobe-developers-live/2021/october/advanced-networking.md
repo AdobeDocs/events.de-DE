@@ -1,6 +1,6 @@
 ---
-title: Erweiterte Vernetzung mit Adobe Experience Manager as a Cloud Service
-description: Die Cloud-Migration kann eine Herausforderung darstellen, wenn andere Dienste On-Premise-Dienste oder an verschiedenen Standorten verfügbar sind. Wir haben Lösungen entwickelt, um Kunden eine eigene dedizierte Infrastruktur zur Verfügung zu stellen, wie z. B. dedizierte IP-Adressen oder VPN-Konnektivität, die eine schrittweise Migration nach Adobe Experience Manager as a Cloud Service ermöglicht und die Journey in die Cloud beschleunigt.
+title: Erweiterte Netzwerke mit Adobe Experience Manager as a Cloud Service
+description: Die Cloud-Migration kann eine Herausforderung darstellen, wenn andere Services lokal oder an anderen Standorten verfügbar sind. Wir haben Lösungen entwickelt, um Kunden ihre eigene dedizierte Infrastruktur bereitzustellen, z. B. dedizierte IP-Adressen oder VPN-Konnektivität, die eine schrittweise Migration zu Adobe Experience Manager as a Cloud Service ermöglicht und den Journey in die Cloud beschleunigt.
 solution: Experience Manager
 topic: Development
 role: Developer, Architect
@@ -17,18 +17,18 @@ ht-degree: 3%
 
 ---
 
-# Erweiterte Vernetzung mit Adobe Experience Manager as a Cloud Service
+# Erweiterte Netzwerke mit Adobe Experience Manager as a Cloud Service
 
-Die Cloud-Migration kann eine Herausforderung darstellen, wenn andere Dienste On-Premise-Dienste oder an verschiedenen Standorten verfügbar sind.  Wir haben Lösungen entwickelt, um Kunden eine eigene dedizierte Infrastruktur zur Verfügung zu stellen, wie z. B. dedizierte IP-Adressen oder VPN-Konnektivität, die eine schrittweise Migration nach Adobe Experience Manager as a Cloud Service ermöglicht und die Journey in die Cloud beschleunigt.
+Die Cloud-Migration kann eine Herausforderung darstellen, wenn andere Services lokal oder an anderen Standorten verfügbar sind.  Wir haben Lösungen entwickelt, um Kunden ihre eigene dedizierte Infrastruktur bereitzustellen, z. B. dedizierte IP-Adressen oder VPN-Konnektivität, die eine schrittweise Migration zu Adobe Experience Manager as a Cloud Service ermöglicht und den Journey in die Cloud beschleunigt.
 
-Wir werden zeigen, wie Sie eine dedizierte IP- oder VPN-Verbindung anfordern, und die Optionen erläutern, die für Kunden verfügbar sind.
+Wir zeigen, wie Sie eine dedizierte IP- oder VPN-Verbindung anfordern können, und erläutern die Optionen, die Kunden zur Verfügung stehen.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3EUTdAo)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/3EUTdAo)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337898/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

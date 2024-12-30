@@ -1,6 +1,6 @@
 ---
-title: Überblick über Adobe Experience Platform-Integrationen
-description: In dieser Sitzung erhalten Sie einen Überblick über verschiedene Möglichkeiten, wie Adobe Experience Platform in Ihr Ökosystem integriert werden kann, und über Aspekte, die bei der Planung der Integrationsarbeit zu beachten sind.
+title: Übersicht über Adobe Experience Platform-Integrationen
+description: In dieser Sitzung erhalten Sie einen Überblick über die verschiedenen Möglichkeiten, wie Adobe Experience Platform in Ihr Ökosystem integriert werden kann, und über die Dinge, die Sie bei der Planung der Integrationsarbeit berücksichtigen sollten.
 solution: Experience Platform
 feature: Integrations
 topic: Development
@@ -17,15 +17,15 @@ ht-degree: 14%
 
 ---
 
-# Überblick über Adobe Experience Platform-Integrationen
+# Übersicht über Adobe Experience Platform-Integrationen
 
-In dieser Sitzung erhalten Sie einen Überblick über verschiedene Möglichkeiten, wie Adobe Experience Platform in Ihr Ökosystem integriert werden kann, und über Aspekte, die bei der Planung der Integrationsarbeit zu beachten sind.
+In dieser Sitzung erhalten Sie einen Überblick über die verschiedenen Möglichkeiten, wie Adobe Experience Platform in Ihr Ökosystem integriert werden kann, und über die Dinge, die Sie bei der Planung der Integrationsarbeit berücksichtigen sollten.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337715/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

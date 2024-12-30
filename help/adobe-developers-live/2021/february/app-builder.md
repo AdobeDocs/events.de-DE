@@ -1,6 +1,6 @@
 ---
-title: Adobe Developer App Builder Deep Dive
-description: OK, also möchten Sie mehr Adobe Developer App Builder-Entwicklerartikel hören? Treten Sie uns bei und sehen Sie Adobe Developer App Builder in Aktion - Code, Sicherheit, Headfull und Headless Apps, CI/CD und mehr. Diese Sitzung wurde im Rahmen des Adobe Developers Live Content-Ereignisses bereitgestellt.
+title: Detaillierte Einblicke in Adobe Developer App Builder
+description: OK, also wollen Sie mehr Adobe Developer App Builder Entwickler-Zeug hören? Seien Sie dabei und erleben Sie Adobe Developer App Builder in Aktion - Code, Sicherheit, Headful- und Headless-Apps, CI/CD und mehr. Diese Sitzung wurde im Rahmen des Adobe Developers Live-Inhaltsereignisses durchgeführt.
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developer App Builder Deep Dive
+# Detaillierte Einblicke in Adobe Developer App Builder
 
-OK, also möchten Sie mehr Adobe Developer App Builder-Entwicklerartikel hören? Treten Sie uns bei und sehen Sie App Builder in Aktion: Code, Sicherheit, Headfull und Headless Apps, CI/CD und mehr.
+OK, also wollen Sie mehr Adobe Developer App Builder Entwickler-Zeug hören? Seien Sie dabei und sehen Sie App Builder in Aktion: Code, Sicherheit, Headful- und Headless-Apps, CI/CD und mehr.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331741/?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/app-builder.pdf)** .
+Klicken Sie **[hier](/help/adobe-developers-live/assets/app-builder.pdf)** für die Sitzungsfolien.

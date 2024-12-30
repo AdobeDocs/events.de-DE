@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Plug-ins für Adobe Photoshop und XD mithilfe der Unified Extensibility Platform
-description: Beschleunigen Sie Ihre Grafik- und Design-Workflows, indem Sie Plug-ins in Photoshop erstellen und UXP XD verwenden. Lassen Sie sich inspirieren, indem Sie lernen, wie Teams die Plugin-Erstellung nutzen, um ihre Designprozesse zu verbessern und ihre kreative Geschwindigkeit zu erhöhen.
+title: Erstellen von Plug-ins für Adobe Photoshop und XD mithilfe der Unified Extensibility-Plattform
+description: Beschleunigen Sie Ihre Grafik- und Design-Workflows, indem Sie Plug-ins in Photoshop und XD mit UXP erstellen. Lassen Sie sich inspirieren, indem Sie lernen, wie Teams die Plug-in-Erstellung nutzen, um ihre Design-Prozesse zu verbessern und ihre kreative Geschwindigkeit zu erhöhen.
 solution: Creative Cloud
 feature: Developer Tools
 topic: Development
@@ -17,14 +17,14 @@ ht-degree: 11%
 
 ---
 
-# Erstellen von Plug-ins für Adobe Photoshop und XD mithilfe der Unified Extensibility Platform
+# Erstellen von Plug-ins für Adobe Photoshop und XD mithilfe der Unified Extensibility-Plattform
 
-Beschleunigen Sie Ihre Grafik- und Design-Workflows, indem Sie Plug-ins in Photoshop erstellen und UXP XD verwenden. Lassen Sie sich inspirieren, indem Sie lernen, wie Teams die Plugin-Erstellung nutzen, um ihre Designprozesse zu verbessern und ihre kreative Geschwindigkeit zu erhöhen.
+Beschleunigen Sie Ihre Grafik- und Design-Workflows, indem Sie Plug-ins in Photoshop und XD mit UXP erstellen. Lassen Sie sich inspirieren, indem Sie lernen, wie Teams die Plug-in-Erstellung nutzen, um ihre Design-Prozesse zu verbessern und ihre kreative Geschwindigkeit zu erhöhen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337593/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

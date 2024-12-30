@@ -1,6 +1,6 @@
 ---
-title: Adobe Content Management-Forum
-description: Eine Sammlung von Sitzungsaufzeichnungen vom Adobe Content Management Forum
+title: Adobe Content Management Forum
+description: Eine Sammlung von Sitzungsaufzeichnungen aus dem Adobe Content Management Forum
 exl-id: 935600fa-4fbc-4569-a3cd-f8b25c205df4
 duration: 96
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,36 +10,36 @@ ht-degree: 0%
 
 ---
 
-# Adobe Content Management-Forum {#overview}
+# Adobe Content Management Forum {#overview}
 
-Erfahren Sie von Adobe-Experten, wie sie über den aktuellen und künftigen Stand der Content-Management-Strategie, Lieferziele, Herausforderungen und technische Anforderungen diskutieren. Diese virtuelle Veranstaltung beinhaltet eine spezielle Keynote von Kurt Benkert, NFL Quarterback und Business Consultant, und Haresh Kumar, Director of Strategy and Product Marketing, da sie besprechen, wie Ihnen die richtigen Tools beim Zugriff auf Kreativ-Assets und bei der Vereinfachung von Alltagsaufgaben helfen können, um die Leistungsfähigkeit der Content Velocity zu entfalten.
+Lernen Sie von Adobe-Experten, die den aktuellen und zukünftigen Status der Content-Management-Strategie, Ergebnisse, Herausforderungen und technische Anforderungen besprechen. Diese virtuelle Veranstaltung beinhaltet eine spezielle Keynote von Kurt Benkert, NFL-Quarterback und Unternehmensberater, und Haresh Kumar, Director of Strategy and Product Marketing, bei der erörtert wird, wie die richtigen Tools Ihnen dabei helfen können, auf kreative Assets zuzugreifen und alltägliche Aufgaben zu vereinfachen, um die Leistungsfähigkeit der Inhaltsgeschwindigkeit zu erschließen.
 
 Nehmen Sie an den folgenden Sitzungen teil, um mehr zu erfahren:
 
-* So modernisieren Sie das Erlebnismanagement, das die Inhaltserstellung demokratisiert, die kanalübergreifende Bereitstellung zu einem Kinderspiel macht und die Personalisierung skaliert, um jedes Erlebnis zu zählen.
-* So erstellen Sie eine Inhaltslieferkette, die für die Personalisierung skaliert
-* So beschleunigen Sie die Markteinführung neuer Standorte und reduzieren die Abhängigkeit von technischen Ressourcen
-* Die neuesten Innovationen für [!DNL Experience Manager] wurden als Cloud-nativer Service angeboten und wie Sie sich an die sich ständig ändernden Markterwartungen anpassen und gleichzeitig die Zukunft sichern
-* So erstellen Sie Sites schneller mit Adobe [!DNL Experience Manager] als Headless-CMS unter Verwendung von GraphQL und Inhaltsfragmenten
-* Best Practices für Entwickler zur Beschleunigung der Markteinführungszeit für Adobe Experience Manager Sites
+* Wie Sie das Erlebnis-Management modernisieren, das die Inhaltserstellung demokratisiert, die Omni-Channel-Bereitstellung zum Kinderspiel macht und die Personalisierung skaliert, um jedes Erlebnis zu zählen.
+* So erstellen Sie eine Inhaltslieferkette, die für die Personalisierung skaliert werden kann
+* Verkürzung der Time-to-Market für die Erstellung neuer Websites und Verringerung der Abhängigkeit von technischen Ressourcen
+* Die neuesten Innovationen für [!DNL Experience Manager], die als Cloud-nativer Service angeboten werden, und wie Sie sich an die sich ständig ändernden Markterwartungen anpassen und gleichzeitig einen Vorsprung behalten
+* Schnellere Erstellung von Sites mit Adobe [!DNL Experience Manager] as a Headless CMS unter Verwendung von GraphQL und Inhaltsfragmenten
+* Best Practices für Entwickler zur Verkürzung der Markteinführungszeit für Adobe Experience Manager Sites
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.
+>**Alle aufgezeichneten Sitzungen werden im Navigationsbereich auf der linken Seite**.
 
 <table>
   <tr>
    <td>
       <a href="2022/welcome.md">
-      <img alt="Willkommensadresse und AEM - Übersicht" src="assets/welcome.png" >
+      <img alt="Begrüßungsadresse und AEM-Übersicht" src="assets/welcome.png" >
       </a>
       <div>
-         <a href="2022/welcome.md"><strong>Begrüßungsadresse und AEM - Übersicht</strong></a>         
+         <a href="2022/welcome.md"><strong>Begrüßungsanschrift und AEM-Übersicht</strong></a>         
          <br/><em>mit Elliot Sedegah, Haresh Kumar und Kurt Benkert</em>
       </div>
       <p>
         <br/>
-         Willkommen bei der Veranstaltungsreihe Adobe Content Management Forum. In diesem Video können Sie sich die Begrüßungsadresse ansehen und einen AEM Überblick erhalten und erfahren, wie Sie die Geschwindigkeit von Inhalten optimieren können.
+         Willkommen bei der Veranstaltungsreihe des Adobe Content Management Forum. In diesem Video können Sie die Begrüßungsrede ansehen und einen AEM-Überblick erhalten. Außerdem erfahren Sie, wie Sie die Leistungsfähigkeit der Inhaltsgeschwindigkeit erschließen.
       </p>
    </td>
    <td>
@@ -47,25 +47,25 @@ Nehmen Sie an den folgenden Sitzungen teil, um mehr zu erfahren:
       <img alt="Assets für alle" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>Erweitern von Adobe [!DNL Experience Manager] Headless mit Adobe [!DNL App Builder]</strong></a>         
-         <br/><em>mit Purnima Rachor Roy</em>
+         <a href="2022/assets-for-all.md"><strong>Erweitern von Adobe [!DNL Experience Manager] Headless mit Adobe-[!DNL App Builder]</strong></a>         
+         <br/><em>mit Purnima Rachoor Roy</em>
       </div>
       <p>
         <br/>
-          Erfahren Sie, wie [!DNL Assets Essentials] das neue [!DNL Digital Asset Management]-System für Abteilungen und mittelständische Unternehmen ist.
+          Erfahren Sie, wie [!DNL Assets Essentials] das neue [!DNL Digital Asset Management] für Abteilungen und mittelständische Unternehmen ist.
       </p>
    </td>
    <td>
       <a href="2022/supply-chain.md">
-      <img alt="Erstellen einer skalierbaren Inhaltsversorgungskette" src="assets/supply-chain.png" />
+      <img alt="Erstellen einer skalierbaren Inhaltslieferkette" src="assets/supply-chain.png" />
       </a>
       <div>
-         <a href="2022/supply-chain.md"><strong> Erstellen einer skalierbaren Content-Supply-Kette</strong></a>         
+         <a href="2022/supply-chain.md"><strong>Erstellen einer skalierbaren Inhaltslieferkette</strong></a>         
          <br/><em>mit Marc Angelinovich</em>
       </div>
       <p>
         <br/>
-         Erfahren Sie, wie Sie eine Inhaltslieferkette erstellen, die für die Personalisierung skaliert wird.
+         Erfahren Sie, wie Sie eine Inhaltslieferkette erstellen, die für die Personalisierung skalierbar ist.
       </p>
    </td>
   </tr>

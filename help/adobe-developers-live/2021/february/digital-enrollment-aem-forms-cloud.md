@@ -1,6 +1,6 @@
 ---
 title: Digitale Registrierungserlebnisse mit Experience Manager Forms in der Cloud
-description: Diese Sitzung konzentriert sich auf die Journey von Forms von On-Premise zu Cloud. Sie wird auch die Aktivierung von Anwendungsfällen für digitale Registrierungen über Demos abdecken.
+description: In dieser Sitzung geht es um das Journey von Forms von On-Premise in die Cloud. Ferner wird die Aktivierung von Anwendungsfällen für die digitale Registrierung durch Demos behandelt.
 solution: Experience Manager,Experience Manager Forms
 product: experience manager
 sub-product: forms
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 # Digitale Registrierungserlebnisse mit Experience Manager Forms in der Cloud
 
-Diese Sitzung konzentriert sich auf die Journey von Forms von On-Premise zu Cloud. Sie wird auch die Aktivierung von Anwendungsfällen für digitale Registrierungen über Demos abdecken.
+In dieser Sitzung geht es um das Journey von Forms von On-Premise in die Cloud. Ferner wird die Aktivierung von Anwendungsfällen für die digitale Registrierung durch Demos behandelt.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/36Yd3v6)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332305/?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)** .
+Klicken Sie **[hier](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)** für die Sitzungsfolien.

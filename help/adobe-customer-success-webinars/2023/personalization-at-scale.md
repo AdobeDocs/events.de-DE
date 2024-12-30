@@ -1,6 +1,6 @@
 ---
-title: Erstellen der Foundation für Personalization im Maßstab
-description: Dieses Webinar konzentriert sich auf das Verständnis der Grundlagen, die für die skalierte Orchestrierung der Personalisierung erforderlich sind
+title: Skalierbarer Aufbau der Foundation für Personalization
+description: In diesem Webinar geht es um das Verständnis der Grundlagen, die für die skalierte Orchestrierung der Personalisierung erforderlich sind
 solution: Experience Cloud
 topic: Personalization
 role: Admin, Architect, Data Architect, Data Engineer, Leader
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen der Foundation für Personalization im Maßstab
+# Skalierbarer Aufbau der Foundation für Personalization
 
-Dieses Webinar konzentriert sich auf das Verständnis der Grundlagen, die für die skalierte Orchestrierung der Personalisierung erforderlich sind
+In diesem Webinar geht es um das Verständnis der Grundlagen, die für die skalierte Orchestrierung der Personalisierung erforderlich sind
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421761/?learn=on)

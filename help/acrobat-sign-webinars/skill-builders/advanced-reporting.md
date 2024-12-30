@@ -1,6 +1,6 @@
 ---
 title: Erweiterte Berichterstellung für Acrobat Sign
-description: Erfahren Sie mehr über die in Acrobat Sign verfügbaren Analysen und Berichte - und sehen Sie, wie Sie Daten anzeigen können, um Einblicke zu erhalten, die Sie für die Weiterentwicklung Ihres Unternehmens benötigen.
+description: Erfahren Sie mehr über die in Acrobat Sign verfügbaren Analysen und Berichte und sehen Sie, wie Sie Daten anzeigen können, um die Erkenntnisse zu liefern, die Sie für die Weiterentwicklung Ihres Unternehmens benötigen.
 feature: Report
 role: User
 level: Intermediate
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 # Erweiterte Berichterstellung für Acrobat Sign
 
-Erfahren Sie mehr über die in Acrobat Sign verfügbaren Analysen und Berichte - und sehen Sie, wie Sie Daten anzeigen können, um Einblicke zu erhalten, die Sie für die Weiterentwicklung Ihres Unternehmens benötigen.
+Erfahren Sie mehr über die in Acrobat Sign verfügbaren Analysen und Berichte und sehen Sie, wie Sie Daten anzeigen können, um die Erkenntnisse zu liefern, die Sie für die Weiterentwicklung Ihres Unternehmens benötigen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428191/?learn=on)
 
 ## Neue Reporting- und Exportfunktionen
 
-Die neuen Reporting- und Exportfunktionen in Adobe Acrobat Sign ermöglichen es Benutzern, eigene benutzerdefinierte Berichte und Datenexporte in einer personalisierten Ansicht zu erstellen, zu speichern und zu verwalten. Berichte sind Vorlagen, die eine oder mehrere Diagramme mit einer vom Benutzer definierten Zusammenfassung der Vertragsdaten zurückgeben. Die Anzahl und der Typ der dem Benutzer zur Verfügung stehenden Berichte werden durch ihre Autoritätsebene im System und den Umfang der Zugriffsberechtigungen auf die Benutzer-IDs bestimmt. Benutzer können auch bestimmte Felddaten aus Vereinbarungen mit ihrem Zuständigkeitsbereich extrahieren und Filter anwenden, um den Rückgabedatensatz nach Benutzer, Gruppe, Workflow oder Vertragsname zu fokussieren. Die extrahierten Daten können in eine CSV-Datei exportiert werden, sodass Benutzer den Export von nicht benötigten Transaktionsdaten deklarieren können. Diese neuen Funktionen bieten Benutzern mehr Kontrolle und Flexibilität beim Zugriff auf und der Analyse von Daten in Adobe Acrobat Sign.
+Die neuen Reporting- und Exportfunktionen in Adobe Acrobat Sign ermöglichen es Benutzenden, ihre eigenen benutzerdefinierten Berichte und Datenexporte in einer personalisierten Ansicht zu erstellen, zu speichern und zu verwalten. Berichte sind Vorlagen, die ein oder mehrere Diagramme mit einer Zusammenfassung der Vereinbarungsdaten zurückgeben, wie sie vom Benutzer definiert wurden. Die Anzahl und der Typ der Berichte, die den Benutzenden zur Verfügung stehen, werden durch ihre Autoritätsebene im System und den Berechtigungsumfang bestimmt, der auf ihre Benutzer-IDs angewendet wird. Benutzer können mit ihrem Autoritätsumfang auch bestimmte Felddaten aus Vereinbarungen extrahieren und Filter anwenden, um den Rückgabedatensatz nach Benutzer, Gruppe, Workflow oder Name der Vereinbarung zu fokussieren. Die extrahierten Daten können in eine CSV-Datei exportiert werden, sodass Benutzende den Export von allen Transaktionsdaten, die sie nicht benötigen, entschlüsseln können. Diese neuen Funktionen bieten Benutzenden mehr Kontrolle und Flexibilität beim Zugriff auf und bei der Analyse von Daten in Adobe Acrobat Sign.

@@ -1,6 +1,6 @@
 ---
-title: Fortgeschrittene Schulungen zur Autorenumgebung
-description: Machen Sie sich mit den in der Acrobat Sign-Authoring-Umgebung verfügbaren Optionen vertraut.
+title: Fortgeschrittene Schulung zur Authoring-Umgebung
+description: Machen Sie sich noch besser mit den Optionen vertraut, die in der Authoring-Umgebung von Acrobat Sign verfügbar sind.
 role: User
 level: Intermediate
 doc-type: Event
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 ---
 
-# Fortgeschrittene Schulungen zur Autorenumgebung
+# Fortgeschrittene Schulung zur Authoring-Umgebung
 
-Machen Sie sich mit den in der Acrobat Sign-Authoring-Umgebung verfügbaren Optionen vertraut. Zu den behandelten Themen gehören: Überblick über die Vorbereitung Ihrer Acrobat Sign-Dokumentvorlagen mit Acrobat, Text-Tagging und die Acrobat Sign-Authoring-Umgebung. Machen Sie sich mit der Authoring-Umgebung vertraut. Hier erhalten Sie Informationen zum Klonen und Kopieren von Feldern, zum Hinzufügen von Spezialfeldern, zum Zuweisen von Feldern und zum Einrichten von Bedingungs- und Berechnungsfeldern. Senden Ihrer Vorlagen zur Signatur, Vergleichen der Dokumentvorlage mit der Formularfeldvorlage.
+Machen Sie sich noch besser mit den Optionen vertraut, die in der Authoring-Umgebung von Acrobat Sign verfügbar sind. Zu den behandelten Themen gehören: Überblick über die Vorbereitung Ihrer Acrobat Sign-Dokumentvorlagen mithilfe von Acrobat, Text-Tagging und die Acrobat Sign-Authoring-Umgebung. Detaillierte Einblicke in die Authoring-Umgebung, einschließlich Klonen vs. Kopieren von Feldern, Hinzufügen von Spezialfeldern, Zuweisen von Feldern und Einrichten von bedingten Feldern und Berechnungsfeldern. Senden von Vorlagen zur Signatur, Vergleichen der Dokumentvorlage mit der Formularfeldvorlage.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428189/?learn=on)
 
 ## Wichtigste Punkte
 
-* In der Acrobat Sign-Authoring-Umgebung werden verschiedene Typen und Optionen für Dateneingabefelder vorgestellt.
-* Es enthält Signatur- und Signiererinformationsfelder, mit denen Signaturen erfasst und erfasst werden können.
-* Zusätzliche Optionen wie Dateianlagenfelder, Hyperlink-Felder und Transaktions-ID-Felder werden untersucht.
-* Teilnehmern können Formularfelder zugewiesen werden und Vorlageneigenschaften können zur Anpassung festgelegt werden.
-* Der Prozess der Erstellung wiederverwendbarer Dokumentvorlagen, der Verwaltung von Vorlagen und des Exports von unterzeichneten Verträgen wird ebenfalls abgedeckt.
+* In der Acrobat Sign-Authoring-Umgebung werden verschiedene Dateneingabefeldtypen und -optionen behandelt.
+* Es enthält Signatur- und Unterzeichnerinformationsfelder, mit denen Signaturen erfasst und gesammelt werden können.
+* Zusätzliche Optionen wie Dateianhang-, Hyperlink- und Transaktions-ID-Felder werden untersucht.
+* Teilnehmern können Formularfelder zugewiesen und Vorlageneigenschaften zur Anpassung festgelegt werden.
+* Der Prozess der Erstellung wiederverwendbarer Dokumentvorlagen, die Verwaltung von Vorlagen und der Export von unterzeichneten Vereinbarungen wird ebenfalls behandelt.
