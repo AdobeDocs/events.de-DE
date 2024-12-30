@@ -1,6 +1,6 @@
 ---
-title: Ressourcenverwaltung (18. Mai 2021)
-description: Hören Sie sich Samantha Isin an, was sie in Melaleuca mit den Ressourcen-Management- und Reporting-Tools von Workfront macht. Auch hören Sie Aaron Behr, von VaynerMedia, ... (Beschreibungen sollten zwischen 60 und 160 Zeichen sein)
+title: Ressourcenmanagement (18. Mai 2021)
+description: Hören Sie, wie Samantha Isin erzählt, was sie auf Melaleuca mit Workfronts Ressourcen-Management und Reporting-Tools macht. Hören Sie auch Aaron Behr, von VaynerMedia, … (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 role: Admin, User
 level: Intermediate, Experienced
 kt: 10008
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Ressourcenverwaltung (18. Mai 2021)
+# Ressourcenmanagement (18. Mai 2021)
 
-Hören Sie sich Samantha Isin an, was sie in Melaleuca mit den Ressourcen-Management- und Reporting-Tools von Workfront macht. Hören Sie auch Aaron Behr von VaynerMedia, da er empfohlene Einstellungen für die Ressourcenverwaltung teilt und wie er Workfront zur Beschleunigung ihrer Entscheidungsfindung einsetzt.
+Hören Sie, wie Samantha Isin erzählt, was sie auf Melaleuca mit Workfronts Ressourcen-Management und Reporting-Tools macht. Hören Sie auch Aaron Behr von VaynerMedia, der über empfohlene Einstellungen für das Ressourcenmanagement spricht und erklärt, wie Workfront genutzt wird, um die Entscheidungsfindung zu beschleunigen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341226/?quality=12&learn=on)

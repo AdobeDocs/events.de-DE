@@ -1,6 +1,6 @@
 ---
-title: Die Leistungsfähigkeit einer intelligenten Kampagne
-description: In dieser Sitzung erfahren Sie alles über Smart-Kampagnen einschließlich Smart-Liste - Trigger und Filter, Fluss, Zeitplan und Ergebnisse.
+title: Die Macht einer intelligenten Kampagne
+description: In dieser Sitzung erfahren Sie alles über Smart Campaign, einschließlich Smart List - Trigger und Filter, Fluss, Zeitplan und Ergebnisse.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 ---
 
-# Die Leistungsfähigkeit einer intelligenten Kampagne
+# Die Macht einer intelligenten Kampagne
 
-In dieser Sitzung erfahren Sie mehr über *Smart-Kampagnen*, darunter: Smart-Liste - Trigger und Filter, Fluss, Zeitplan und Ergebnisse.
+In dieser Sitzung erfahren Sie alles über *Smart-Kampagnen* einschließlich: Smart-Liste - Trigger und Filter, Fluss, Zeitplan und Ergebnisse.
 
-Sie werden diese Sitzung mit einem Verständnis dessen verlassen, was intelligente Kampagnen sind, wie sie eingesetzt werden, und Tipps und Tricks für Erfolg!
+Sie werden diese Sitzung beenden, um zu verstehen, was intelligente Kampagnen sind, wie Sie sie verwenden und Tipps und Tricks für den Erfolg!
 
-Am Ende dieser Sitzung wird eine Live-Q&amp;A zu all Ihren noch offenen Fragen führen.
+Am Ende dieser Sitzung beantwortet eine Live-Frage alle Ihre noch offenen Fragen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342558/?quality=12&learn=on)

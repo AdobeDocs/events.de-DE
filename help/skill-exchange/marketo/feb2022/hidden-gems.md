@@ -1,6 +1,6 @@
 ---
-title: Das ausgeblendete Gem in Ihrer Datenbank - Erneute Kontakte von Datensätzen
-description: Nehmen Sie an unserer Sitzung teil, wo wir Sie durch die Schritte führen, die wir unternommen haben, um den Rückgewinnungsprozess in Alma in die Praxis umzusetzen, und was wir auf diesem Weg gelernt haben.
+title: Der verborgene Edelstein in Ihrer Datenbank - Datensätze erneut kontaktieren
+description: Nehmen Sie an unserer Sitzung teil, in der wir Sie durch die Schritte führten, die wir zur Operationalisierung des Rückgewinnungsprozesses in Alma unternommen haben, und durch das, was wir dabei gelernt haben.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Das ausgeblendete Gem in Ihrer Datenbank: Neu eingesetzte Datensätze
+# Das verborgene Juwel in Ihrer Datenbank: Datensätze erneut kontaktiert
 
-Ein wiederverwerteter Lead, ein geschlossener Verlust und ein (wieder) verworrener Rekordspaziergang in Ihre Datenbank. Wie werden diese Datensätze gemäß ihrer Lebenszyklusphase verarbeitet? Nehmen Sie an unserer Sitzung teil, wo wir Sie durch die Schritte führen, die wir unternommen haben, um den Rückgewinnungsprozess in Alma in die Praxis umzusetzen, und was wir auf diesem Weg gelernt haben.
+Ein wiederverwerteter Lead, ein geschlossener verlorener und ein abgewanderter Record Walk (wieder) in Ihre Datenbank. Wie werden diese Datensätze entsprechend ihrer Lebenszyklusphase verarbeitet? Nehmen Sie an unserer Sitzung teil, in der wir Sie durch die Schritte führten, die wir zur Operationalisierung des Rückgewinnungsprozesses in Alma unternommen haben, und durch das, was wir dabei gelernt haben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340591/?quality=12&learn=on)

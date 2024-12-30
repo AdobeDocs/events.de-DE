@@ -1,6 +1,6 @@
 ---
-title: Agile in Marketing (15. September 2020)
-description: Erfahren Sie mehr über agiles Marketing und seine Funktionsweise in Workfront. (zwischen 60 und 160 Zeichen)
+title: Agile im Marketing (15. September 2020)
+description: Erfahren Sie mehr über Agile-Marketing und wie es in Workfront funktioniert. (zwischen 60 und 160 Zeichen)
 role: Admin, User
 level: Intermediate
 kt: 9989
@@ -14,8 +14,8 @@ ht-degree: 13%
 
 ---
 
-# Agile in Marketing (15. September 2020)
+# Agile im Marketing (15. September 2020)
 
-Erfahren Sie mehr über agiles Marketing und seine Funktionsweise in Workfront.
+Erfahren Sie mehr über Agile-Marketing und wie es in Workfront funktioniert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341224/?quality=12&learn=on)

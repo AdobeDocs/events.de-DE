@@ -1,6 +1,6 @@
 ---
-title: Site-weites Analyse-Tool
-description: In dieser Sitzung erfahren Sie mehr über die SWAT-Übersicht und die Live-Demo (SWAT Cloud Sandbox).
+title: Site-Wide Analysis Tool
+description: In dieser Sitzung erfahren Sie mehr über die SWAT-Übersicht und eine Live-Demo (SWAT Cloud Sandbox)
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Site-weites Analyse-Tool
+# Site-Wide Analysis Tool
 
 In dieser Sitzung erfahren Sie mehr über: SWAT-Übersicht und Live-Demo (SWAT Cloud Sandbox)
 

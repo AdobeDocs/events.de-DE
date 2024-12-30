@@ -1,6 +1,6 @@
 ---
 title: Nutzung von Workfront Proof (9. November 2021)
-description: Lernen Sie die verschiedenen Möglichkeiten kennen, Workfront Proof zu nutzen, um Ihre Arbeit zu verbessern.
+description: Überwachen Sie die verschiedenen Möglichkeiten, Workfront Proof zur Verbesserung Ihrer Arbeitsweise zu nutzen.
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10002
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Nutzung von Workfront Proof (9. November 2021)
 
-Lernen Sie die verschiedenen Möglichkeiten kennen, Workfront Proof zu nutzen, um Ihre Arbeit zu verbessern.
+Überwachen Sie die verschiedenen Möglichkeiten, Workfront Proof zur Verbesserung Ihrer Arbeitsweise zu nutzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341217/?quality=12&learn=on)

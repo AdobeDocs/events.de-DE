@@ -1,6 +1,6 @@
 ---
-title: Ein Top-Rope-Einstieg in benutzerdefinierte Objekte und Velocity
-description: Eins-zu-viele-relationale Daten sowie eine bewährte Vorlagenmodul - das perfekte Tag-Team für erweiterte E-Mail-Inhalte. Erfahren Sie mehr über die Konzeption von CO-Schemas - Sortieren, Filtern und Aggregieren von CO-Datensätzen, Erkennen von Datensatzaktualisierungen und Integrieren von Pseudo-COs mithilfe von JSON.
+title: Ein erstklassiges Tauchen in benutzerdefinierte Objekte und Geschwindigkeit
+description: '1-zu-viele relationale Daten plus eine bewährte Vorlagen-Engine - das perfekte Tag-Team für erweiterte E-Mail-Inhalte. Lernen Sie die Taktiken für das Design von CO-Schemata kennen: Sortieren, Filtern und Aggregieren von CO-Einträgen, Erkennen von Eintragsaktualisierungen und Integrieren von Pseudo-COs mithilfe von JSON.'
 solution: Marketo Engage
 role: Developer
 level: Beginner
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Ein Top-Rope-Einstieg in benutzerdefinierte Objekte und Velocity
+# Ein erstklassiges Tauchen in benutzerdefinierte Objekte und Geschwindigkeit
 
-Eins-zu-viele-relationale Daten sowie eine bewährte Vorlagenmodul-Engine, das perfekte Tag-Team für erweiterte E-Mail-Inhalte. Erfahren Sie mehr über CO
-Schema-Design, Sortieren, Filtern und Aggregieren von CO-Datensätzen; Erkennung von Datensatzaktualisierungen und Integration von Pseudo-COs mithilfe von JSON. Wir werden
-umfassen auch allgemeine Velocity-Aufgaben wie die Lokalisierung von Daten, Uhrzeiten und Währungen.
+1-zu-viele relationale Daten plus eine bewährte Vorlagen-Engine; das perfekte Tag-Team für erweiterte E-Mail-Inhalte. Taktiken für CO
+Schema-Design, Sortieren, Filtern und Aggregieren von CO-Einträgen, Erkennen von Datensatzaktualisierungen und Integrieren von Pseudo-COs mithilfe von JSON. Wir werden
+Behandeln Sie auch allgemeine Velocity-Aufgaben wie das Lokalisieren von Daten, Uhrzeiten und Währungen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340313/?quality=12&learn=on)

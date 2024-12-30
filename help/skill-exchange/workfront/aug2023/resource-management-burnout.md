@@ -1,6 +1,6 @@
 ---
-title: Ausführen mit Ressourcenverwaltung umgehen
-description: Es gibt viele Möglichkeiten, den Burnout zu bekämpfen, aber wenn es um das Arbeitsmanagement geht, müssen Organisationen sowohl die geplante Arbeit als auch die zur Verfügung stehenden Ressourcen einsehen.
+title: Burnout-Bekämpfung mit Ressourcenmanagement
+description: Es gibt viele Möglichkeiten, Burnout zu bekämpfen, aber wenn es um das Arbeits-Management geht, benötigen Unternehmen Einblick sowohl in die geplanten Arbeiten als auch in die verfügbaren Ressourcen.
 solution: Workfront
 feature: Resource Management
 role: User
@@ -18,16 +18,16 @@ ht-degree: 0%
 
 ---
 
-# Ausführen mit Ressourcenverwaltung umgehen
+# Burnout-Bekämpfung mit Ressourcenmanagement
 
-Es ist kein Geheimnis, dass die Produktivität sinkt, die Fehler steigen und die Interaktionsraten sinken, wenn Teams am Arbeitsplatz verbrannt werden. Dies ist nicht nur schlecht für die Gesundheit und das Wohlbefinden eines Mitarbeiters, sondern kann auch zu höheren Umsätzen führen und Innovation und Kreativität innerhalb des Teams behindern.
+Es ist kein Geheimnis, dass, wenn Teams bei der Arbeit ausgebrannt sind, die Produktivität sinkt, Fehler zunehmen und das Interaktionsniveau sinkt. Dies ist nicht nur schlecht für die Gesundheit und das Wohlbefinden eines Mitarbeiters, sondern kann auch zu höheren Umsatzraten führen und Innovation und Kreativität innerhalb des Teams behindern.
 
-Es gibt viele Möglichkeiten, den Burnout zu bekämpfen, aber wenn es um das Arbeitsmanagement geht, müssen Organisationen sowohl die geplante Arbeit als auch die zur Verfügung stehenden Ressourcen einsehen.
+Es gibt viele Möglichkeiten, Burnout zu bekämpfen, aber wenn es um das Arbeits-Management geht, benötigen Unternehmen Einblick sowohl in die geplanten Arbeiten als auch in die verfügbaren Ressourcen.
 
-In dieser Sitzung werden Tia Calvert, Produktmanager und Erin Kuchera, Creative Operations Manager der Mayo Clinic, folgende Themen erörtern:
+In dieser Sitzung teilen Tia Calvert, Product Manager, und Erin Kuchera, Creative Operations Manager, in der Mayo Clinic:
 
-* Weshalb die Verwendung geplanter Stunden und Aufgabenzuweisungen in Workfront für die Ressourcenverwaltung von entscheidender Bedeutung ist
-* Integration der Tracking-Zeitdauer
-* Beispiele dafür, wie Mayo Clinic Analytics und Resource Manager verwendet, um Teams Transparenz zu bieten und neue Arbeit zu planen
+* Warum die Verwendung von Geplanten Stunden und Aufgabenzuweisungen in Workfront der Schlüssel zur Verwaltung von Ressourcen ist
+* Einbinden des Time-of-Tracking
+* Beispiele dafür, wie die Mayo Clinic Analytics und Resource Manager verwendet, um Teams Transparenz zu bieten und neue Arbeiten zu planen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)

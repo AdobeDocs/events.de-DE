@@ -1,6 +1,6 @@
 ---
 title: Ihre Marketo-Roadmap
-description: Marketo ist so anpassbar und erweiterbar, dass es so viele Möglichkeiten gibt. Aber gleichzeitig, schlechte Planung, oder der Mangel an Planung, könnten Sie mit ... (Beschreibungen sollten zwischen 60 und 160 Zeichen)
+description: Marketo ist so anpassbar und erweiterbar, dass es so viele Möglichkeiten gibt. Aber zur gleichen Zeit, schlechte Planung, oder die mangelnde Planung, könnte Sie mit … (Beschreibungen sollten zwischen 60 und 160 Zeichen sein)
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 # Ihre Marketo-Roadmap
 
-Marketo ist so anpassbar und erweiterbar, dass es so viele Möglichkeiten gibt. Aber gleichzeitig könnte Ihnen eine schlechte Planung oder der Mangel an Planung eine Marketo-Instanz überlassen, die schlecht skaliert wird, und eine Menge technischer Schulden.
+Marketo ist so anpassbar und erweiterbar, dass es so viele Möglichkeiten gibt. Aber zur gleichen Zeit könnte eine schlechte Planung oder ein Mangel an Planung zu einer Marketo-Instanz führen, die schlecht skaliert ist, und zu einer Menge Technologie-Schulden.
 
-Es ist hilfreich, Ihre Marketo-Instanz als Produkt zu betrachten. Sie haben Kunden und müssen Ihre Instanz zu einem Produkt entwickeln, das Ihre Kunden glücklich macht. Aber die Beschleunigung beim Lebenszyklusmarketing oder ABM ist möglicherweise nicht gut. Sie haben also auch eine Produktkarte, die Ihr Arbeitsprogramm ist und Ihnen hilft, dorthin zu gelangen.
+Es ist hilfreich, sich Ihre Marketo-Instanz als Produkt vorzustellen. Sie haben Kunden und müssen Ihre Instanz zu einem Produkt entwickeln, das Ihre Kunden glücklich macht. Aber schnelles Marketing oder ABM über seinen Lebenszyklus hinweg könnte nicht gut ausgehen. Sie haben auch eine Produkt-Roadmap, also Ihr Arbeitsprogramm, das Ihnen den Weg dorthin weist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342564/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Duplizierte Kontakte reparieren
-description: Erstellen eines Testversands, Ermitteln und Beheben von Synchronisierungsproblemen bei Kontakten und Beheben von Fehlern bei der Testversand-Generierung.
+title: Doppelte Kontakte korrigieren
+description: Erfahren Sie, wie Sie einen Korrekturabzug erstellen, Probleme mit der Kontaktsynchronisierung identifizieren und beheben und Fehler beim Erzeugen von Korrekturabzügen beheben können.
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Duplizierte Kontakte reparieren
+# Doppelte Kontakte korrigieren
 
-In dieser Sitzung werden wir folgende Themen behandeln: Erstellung eines Testversands, Identifizierung und Behebung von Problemen bei der Synchronisierung von Kontakten und Beheben von Fehlern bei der Testversand-Generierung.
+In dieser Sitzung behandeln wir: Erstellen eines Korrekturabzugs, Identifizieren und Beheben von Kontaktsynchronisierungsproblemen und Beheben von Fehlern beim Erzeugen von Korrekturabzügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422751/?learn=on)

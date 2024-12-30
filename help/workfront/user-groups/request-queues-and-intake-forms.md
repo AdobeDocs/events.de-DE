@@ -1,6 +1,6 @@
 ---
-title: Warteschlangen für Anfragen und Aufnahme in Forms (11. Mai 2021)
-description: Hören Sie sich Peter Rees und Julia Ziegler an, wie sie Anforderungswarteschlangen und benutzerdefinierte Formulare in Merkle verwenden.
+title: Anfrage-Warteschlangen und Aufnahme-Forms (11. Mai 2021)
+description: Peter Rees und Julia Ziegler zeigen bei Merkle, wie sie Anfrage-Warteschlangen und benutzerdefinierte Formulare nutzen.
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10006
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Warteschlangen für Anfragen und Aufnahme in Forms (11. Mai 2021)
+# Anfrage-Warteschlangen und Aufnahme-Forms (11. Mai 2021)
 
-Hören Sie sich Peter Rees und Julia Ziegler an, wie sie Anforderungswarteschlangen und benutzerdefinierte Formulare in Merkle verwenden.
+Peter Rees und Julia Ziegler zeigen bei Merkle, wie sie Anfrage-Warteschlangen und benutzerdefinierte Formulare nutzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341215/?quality=12&learn=on)

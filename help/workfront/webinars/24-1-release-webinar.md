@@ -1,6 +1,6 @@
 ---
-title: Webinar zur Adobe Workfront-Version 24.1
-description: Das Webinar fand am 11. Januar mit 931 Teilnehmern statt. Das Produktteam von Workfront erläuterte die neuen Funktionen und Verbesserungen für die Produktion in Workfront in Version 24.1.
+title: Webinar zur Version Adobe Workfront 24.1
+description: Das Webinar fand am 11. Januar mit 931 Teilnehmern statt. Das Workfront-Produktteam erläuterte die neuen Funktionen und Verbesserungen, die in Workfront für die Version 24.1 an der Produktionsumgebung vorgenommen wurden.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 ---
 
-# Webinar zur Adobe Workfront-Version 24.1
+# Webinar zur Version Adobe Workfront 24.1
 
-Das Webinar fand am 11. Januar mit 931 Teilnehmern statt. Das Produktteam von Workfront erläuterte die neuen Funktionen und Verbesserungen für die Produktion in Workfront in Version 24.1.
+Das Webinar fand am 11. Januar mit 931 Teilnehmern statt. Das Workfront-Produktteam erläuterte die neuen Funktionen und Verbesserungen, die in Workfront für die Version 24.1 an der Produktionsumgebung vorgenommen wurden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426854/?learn=on)
 

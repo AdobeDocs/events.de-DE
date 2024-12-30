@@ -1,6 +1,6 @@
 ---
-title: Berichte zur Bestätigung
-description: Erfahren Sie, wie Sie Berichte zur Proof-Validierung erstellen.
+title: Korrekturabzugs-Genehmigungsberichte
+description: Erfahren Sie, wie Sie Berichte zur Korrekturabzugsgenehmigung erstellen.
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 ---
 
-# Berichte zur Bestätigung
+# Korrekturabzugs-Genehmigungsberichte
 
-In dieser Sitzung werden wir Folgendes behandeln:
+In dieser Sitzung behandeln wir Folgendes:
 
-* Übersicht über Testberichte
-* So erstellen Sie Berichte mit Objekt und Daten
-* Ermitteln und Beheben häufiger von Benutzern gemeldeter Probleme
+* Berichte zu Testsendungen - Übersicht
+* Verwenden von Objekt/Daten zum Erstellen von Berichten
+* Identifizieren und Beheben häufiger Probleme durch Benutzer
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430509/?learn=on)

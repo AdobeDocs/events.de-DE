@@ -1,6 +1,6 @@
 ---
-title: Personalization im Maßstab
-description: Nutzen Sie die Kraft von Adobe [!DNL Marketo Engage], personalisieren Sie über Token hinaus.
+title: Personalization im großen Maßstab
+description: Nutzen Sie die Leistungsfähigkeit von Adobe [!DNL Marketo Engage], personalisieren Sie über Token hinaus.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 ---
 
-# Personalization im Maßstab - Nutzung der Leistungsfähigkeit von Adobe [!DNL Marketo Engage]-Daten zur Förderung der Interaktion
+# Personalization in großem Maßstab - Nutzung der Leistungsfähigkeit von Adobe [!DNL Marketo Engage] Daten, um die Interaktion zu fördern
 
-Die ersten Schritte mit der Personalisierung von Kontakten sind einfach genug, Token und Ähnliches zu verwenden. Was ist jedoch mit der Frage, wann Sie Ihre Personalisierung vertiefen möchten, als es Token erlauben? Mit Adobe [!DNL Marketo Engage] können Sie so viele Informationen über Ihre potenziellen Kunden sammeln, und die Nutzung dieser Informationen kann eine der leistungsfähigsten Möglichkeiten sein, um die Außenwirkung zu personalisieren, sich in überfüllten Postfächern zu präsentieren und Perspektiven im Trichter zu verbessern. In dieser Sitzung werden wir Folgendes behandeln:
+Der Einstieg in die Personalisierung von Outreach ist mit Token und Ähnlichem einfach genug. Aber was ist mit den Fällen, in denen Sie Ihre Personalisierung vertiefen möchten, als Token erlauben? Mit Adobe [!DNL Marketo Engage] können Sie so viele Informationen über Ihre potenziellen Kunden sammeln. Die Nutzung dieser Informationen kann eine der leistungsfähigsten Möglichkeiten sein, um die Kontaktaufnahme zu personalisieren, sich in überfüllten Posteingängen hervorzuheben und dazu beizutragen, die potenziellen Kunden einen Schritt weiter zu bringen. In dieser Sitzung behandeln wir Folgendes:
 
 * Ideen für die Personalisierung über Token hinaus
 * Verschiedene Anwendungsfälle für die Personalisierung
-* Möglichkeiten zur Automatisierung und effizienteren Personalisierung
+* Möglichkeiten zur Automatisierung und Steigerung der Effizienz der Personalisierung
 
 >[!VIDEO](https://video.tv.adobe.com/v/340594/?quality=12&learn=on)

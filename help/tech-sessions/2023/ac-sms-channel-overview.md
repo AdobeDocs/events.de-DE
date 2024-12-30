@@ -1,6 +1,6 @@
 ---
-title: Tipps zur SMS-Kanalübersicht und Fehlerbehebung
-description: Behandelt die SMS-Architektur, die Konfiguration des SMS-Kanals, die Konfiguration des externen SMPP-Kontos, die Erstellung des SMS-Versands und die Fehlerbehebung.
+title: Übersicht über den SMS-Kanal und Tipps zur Fehlerbehebung
+description: Behandelt die SMS-Architektur, die Konfiguration des SMS-Kanals, die Konfiguration des externen SMPP-Kontos, die Erstellung eines SMS-Versands und die Fehlerbehebung.
 feature-set: Campaign
 feature: SMS, Architecture, Troubleshooting, External Account
 role: Admin, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Tipps zur SMS-Kanalübersicht und Fehlerbehebung
+# Übersicht über den SMS-Kanal und Tipps zur Fehlerbehebung
 
-In dieser Sitzung werden wir folgende Themen behandeln: SMS-Architektur, SMS-Kanal konfigurieren, externes SMPP-Konto konfigurieren, SMS-Versand erstellen und Fehlerbehebung.
+In dieser Sitzung behandeln wir: SMS-Architektur, Konfigurieren des SMS-Kanals, Konfigurieren des externen SMPP-Kontos, Erstellen eines SMS-Versands und Fehlerbehebung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422741/?learn=on)

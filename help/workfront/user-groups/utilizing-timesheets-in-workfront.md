@@ -1,6 +1,6 @@
 ---
-title: Verwenden von Timesheets in Workfront (17. November 2020)
-description: Hören Sie auf Nicholas Twillie und Alma Martinez von Walgreens über Tracking-Zeit durch Timesheets in Workfront. Sehen Sie sich dann an, wie Christian Barnes Ihnen zeigt.. (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
+title: Verwenden von Arbeitszeittabellen in Workfront (17. November 2020)
+description: Nicholas Twillie und Alma Martinez von Walgreens reden über die Nachverfolgung von Zeit durch Arbeitszeittabellen in Workfront. Sehen Sie sich an, wie Christian Barnes Ihnen zeigt… (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 role: Admin, Leader, User
 level: Beginner, Intermediate
 kt: 10010
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Verwenden von Timesheets in Workfront (17. November 2020)
+# Verwenden von Arbeitszeittabellen in Workfront (17. November 2020)
 
-Hören Sie auf Nicholas Twillie und Alma Martinez von Walgreens über Tracking-Zeit durch Timesheets in Workfront. Dann schauen Sie sich an, wie Christian Barnes Ihnen die technische Seite von Zeitschriften zeigt.
+Nicholas Twillie und Alma Martinez von Walgreens reden über die Nachverfolgung von Zeit durch Arbeitszeittabellen in Workfront. Sehen Sie sich an, wie Christian Barnes Ihnen die technischen Aspekte von Arbeitszeittabellen zeigt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341228/?quality=12&learn=on)

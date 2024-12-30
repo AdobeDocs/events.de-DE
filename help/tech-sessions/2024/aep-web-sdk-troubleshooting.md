@@ -9,13 +9,13 @@ doc-type: Event
 duration: 4188
 last-substantial-update: 2024-12-13T00:00:00Z
 jira: KT-16674
-source-git-commit: b6f18d1a7adb683886bd08ad86998e619be24c29
+exl-id: f74dec54-2473-4d81-a6e5-9f6cf13748ba
+source-git-commit: 6a7088a2a1de84de007aca68e04c33f8d3f6529a
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
-
 
 # Fehlerbehebung bei AEP Web SDK, Assurance sowie Tipps und Tricks
 

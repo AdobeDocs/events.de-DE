@@ -1,6 +1,6 @@
 ---
-title: Analyse von AEM as a Cloud Service-Implementierungsfehlern
-description: Interne Schritte zur AEM as a Cloud Service-Implementierung und Fehlerbehebung.
+title: Fehleranalyse bei der AEM as a Cloud Service-Bereitstellung
+description: Interne Informationen zur AEM as a Cloud Service-Bereitstellung und Fehlerbehebung.
 feature-set: Experience Manager Cloud Manager
 feature: Code Deployment
 role: Admin, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Analyse von AEM as a Cloud Service-Implementierungsfehlern
+# Fehleranalyse bei der AEM as a Cloud Service-Bereitstellung
 
-In dieser Sitzung erfahren Sie mehr über die internen Schritte zur AEM as a Cloud Service-Implementierung und über die Fehlerbehebung.
+In dieser Sitzung erfahren Sie mehr über die interne Bereitstellung von AEM as a Cloud Service und die Fehlerbehebung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422532/?learn=on)

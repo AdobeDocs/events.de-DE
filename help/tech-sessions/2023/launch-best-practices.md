@@ -1,6 +1,6 @@
 ---
-title: Best Practices für Launch
-description: In dieser Sitzung erfahren Sie mehr über - Konfigurationen, Einstellungen und Fallstricke, nicht ausreichend genutzte Funktionen und häufige Problembehebungs-Workflows.
+title: Best Practices für Launches
+description: In dieser Sitzung erfahren Sie mehr über - Konfigurationen, Einstellungen und Fallstricke, unzureichend genutzte Funktionen und gängige Workflows zur Fehlerbehebung.
 solution: Analytics
 feature-set: Analytics
 feature: Tags
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Analytics: Best Practices für Launch
+# Adobe Analytics: Best Practices für Launches
 
-In dieser Sitzung erfahren Sie mehr über: Konfigurationen, Einstellungen und Fallstricke, nicht ausreichend genutzte Funktionen und häufige Workflows zur Fehlerbehebung.
+In dieser Sitzung erfahren Sie mehr über: Konfigurationen, Einstellungen und Fallstricke, unzureichend genutzte Funktionen und gängige Workflows zur Fehlerbehebung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422528/?learn=on)

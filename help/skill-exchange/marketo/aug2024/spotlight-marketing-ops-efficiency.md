@@ -1,6 +1,6 @@
 ---
-title: Experience Makers Spotlight - Maximieren der Effizienz der Marketing-Aktionen im Marketo Engage
-description: Ein Formular für die ganze Welt - Verbessern der Lead-Akquise mit Marketo Forms APIHarness die Macht der Marketo Forms API, um Ihre Lead-Akquise-Strategie zu verbessern. In dieser Sitzung werden Best Practices für die Verwendung der vielseitigen JavaScript-API erläutert. Erfahren Sie, wie Sie ein einzelnes Formular an verschiedene länderspezifische Vorschriften anpassen, ausgeblendete Formulare für die nahtlose Datenerfassung implementieren und fortschrittliche Lokalisierungstechniken erforschen können, um Ihre Lead-Generierungsbemühungen zu maximieren. Sichern Sie sich eine saubere Datenbankhygiene, indem Sie intelligente Kampagnen und BeyondDiscover verwenden, die für die Bereinigung und Pflege Ihrer Datenbank unerlässlich sind und effizientere Kampagnen ermöglichen. Machen Sie sich mit Best Practices für die Erstellung und Implementierung effektiver Vorlagen zum Listen-Upload, die Optimierung Ihrer Datenbank mit Waschmaschine und Datennormalisierung Smart-Kampagnen und die Inspiration für die neue Verwendung von KI bei der Datenbereinigung vertraut.
+title: Experience Makers Spotlight - Maximieren der Effizienz von Marketing-Vorgängen im Marketo Engage
+description: Ein Formular für die ganze Welt - Verbessern Sie die Lead-Akquise mit Marketo Forms APIKontaktieren Sie die Leistungsfähigkeit der Marketo Forms-API, um Ihre Lead-Akquise-Strategie zu verbessern. In dieser Sitzung werden Best Practices für die Verwendung der vielseitigen JavaScript-API erläutert. Erfahren Sie, wie Sie ein einzelnes Formular so anpassen können, dass es den verschiedenen landesspezifischen Vorschriften entspricht, ausgeblendete Formulare für eine nahtlose Datenerfassung implementieren und die fortschrittlichen Lokalisierungstechniken kennenlernen, um die Anstrengungen zur Lead-Generierung zu maximieren. Saubere Datenbankhygiene mithilfe von intelligenten Kampagnen und mehr Entdecken Sie die wichtigsten Taktiken zur Bereinigung und Wartung Ihrer Datenbank, um effizientere Kampagnen zu ermöglichen. Lernen Sie die Best Practices für die Erstellung und Implementierung effektiver Listen-Upload-Vorlagen kennen, optimieren Sie Ihre Datenbank mit intelligenten Kampagnen zur Waschmaschine und Datennormalisierung und erhalten Sie Anregungen aus der neuen Verwendung von KI bei der Datenbereinigung.
 solution: Marketo
 role: User
 level: Intermediate, Experienced
@@ -8,22 +8,22 @@ doc-type: Event
 duration: 2727
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16007
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+exl-id: 014d0965-912e-4bb3-b156-89e2233d37ac
+source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
+# Experience Makers Spotlight: Maximieren der Effizienz von Marketing-Vorgängen im Marketo Engage
 
-# Experience Makers-Spotlight: Maximieren der Effizienz von Marketing-Kampagnen im Marketo Engage
+## Ein Formular für die ganze Welt: Verbessern der Lead-Akquise mit der Marketo Forms-API
 
-## Ein Formular für die ganze Welt: Verbessern der Lead-Akquise mit der Marketo Forms API
+Nutzen Sie die Leistungsfähigkeit der Marketo Forms-API, um Ihre Strategie zur Lead-Akquise zu optimieren. In dieser Sitzung werden Best Practices für die Verwendung der vielseitigen JavaScript-API erläutert. Erfahren Sie, wie Sie ein einzelnes Formular so anpassen können, dass es den verschiedenen landesspezifischen Vorschriften entspricht, ausgeblendete Formulare für eine nahtlose Datenerfassung implementieren und die fortschrittlichen Lokalisierungstechniken kennenlernen, um die Anstrengungen zur Lead-Generierung zu maximieren.
 
-Nutzen Sie die Leistungsfähigkeit der Marketo Forms-API, um Ihre Lead-Akquise-Strategie zu verbessern. In dieser Sitzung werden Best Practices für die Verwendung der vielseitigen JavaScript-API erläutert. Erfahren Sie, wie Sie ein einzelnes Formular an verschiedene länderspezifische Vorschriften anpassen, ausgeblendete Formulare für die nahtlose Datenerfassung implementieren und fortschrittliche Lokalisierungstechniken erforschen können, um Ihre Lead-Generierungsbemühungen zu maximieren.
+## Sauber halten: Datenbankhygiene mit intelligenten Kampagnen und mehr
 
-## Sauber halten: Datenbankhygiene mithilfe intelligenter Kampagnen und darüber hinaus
-
-Entdecken Sie die wichtigsten Taktiken zur Bereinigung und Pflege Ihrer Datenbank, um effizientere Kampagnen zu ermöglichen. Machen Sie sich mit Best Practices für die Erstellung und Implementierung effektiver Vorlagen zum Listen-Upload, die Optimierung Ihrer Datenbank mit Waschmaschine und Datennormalisierung Smart-Kampagnen und die Inspiration für die neue Verwendung von KI bei der Datenbereinigung vertraut.
+Entdecken Sie die wichtigsten Taktiken zur Bereinigung und Wartung Ihrer Datenbank, um effizientere Kampagnen zu ermöglichen. Lernen Sie die Best Practices für die Erstellung und Implementierung effektiver Listen-Upload-Vorlagen kennen, optimieren Sie Ihre Datenbank mit intelligenten Kampagnen zur Waschmaschine und Datennormalisierung und erhalten Sie Anregungen aus der neuen Verwendung von KI bei der Datenbereinigung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432953/?learn=on)

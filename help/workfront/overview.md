@@ -1,6 +1,6 @@
 ---
-title: On-Demand-Ereignisse in Workfront
-description: Workfront Events ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zur Verwendung von Workfront zur Verbesserung der Arbeit für ihre Organisationen teilen.
+title: Workfront On-Demand-Events
+description: Workfront Events ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen austauschen, wie Workfront die Arbeit für ihre Unternehmen verbessern kann.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# On-Demand-Ereignisse in Workfront {#overview}
+# Workfront On-Demand-Events {#overview}
 
-Eine Bibliothek aufgezeichneter Workfront-Ereignisse, bei denen Experten und Kollegen Gedanken zur Verwendung von Workfront teilen.
+Eine Bibliothek aufgezeichneter Workfront-Events, bei denen Experten und Kollegen ihre Gedanken zur Verwendung von Workfront austauschen.
 
 ## Vorgestellte Sitzungen
 
@@ -28,7 +28,7 @@ Eine Bibliothek aufgezeichneter Workfront-Ereignisse, bei denen Experten und Kol
       </div>
       <p>
         <br/>
-         Eine Gruppe von Systemadministratoren bespricht Aspekte bezüglich der Systemeinrichtung, der regelmäßigen Wartung und der Bereinigung.
+         Ein Panel von Systemadministratoren erörtert Aspekte, die bei der Einrichtung des Systems, der regelmäßigen Wartung und der Bereinigung zu berücksichtigen sind.
       </p>
     </td>
    <td>
@@ -36,25 +36,25 @@ Eine Bibliothek aufgezeichneter Workfront-Ereignisse, bei denen Experten und Kol
       <img alt="Reporting und Dashboards" src="assets/reporting-and-dashboards.png"/>
       </a>
       <div>
-         <a href="user-groups/reporting-and-dashboards.md"><strong>Berichterstellung und Dashboards</strong></a>
+         <a href="user-groups/reporting-and-dashboards.md"><strong>Reporting und Dashboards</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
-         Sehen Sie sich Berichte und Dashboards an, die andere für ihre Organisationen erstellt haben, sowie die bewährten Verfahren, die sie gelernt haben.
+         Sehen Sie sich Berichte und Dashboards an, die andere für ihre Organisationen erstellt haben, und die Best Practices, die sie gelernt haben.
       </p>
     </td>
    <td>
       <a href="user-groups/agile-in-marketing.md">
-      <img alt="Agile in Marketing" src="assets/agile-in-marketing.png"/>
+      <img alt="Agile im Marketing" src="assets/agile-in-marketing.png"/>
       </a>
       <div>
-         <a href="user-groups/agile-in-marketing.md"><strong>Agile in Marketing</strong></a>
+         <a href="user-groups/agile-in-marketing.md"><strong>Agile im Marketing</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
-         Agile Experten besprechen die hohen Punkte und Trends, die sie bei agilen, generellen agilen Unternehmen beobachtet haben, und wie sie Workfront für agile Zwecke einsetzen.
+         Agile-Experten diskutieren die Highpoints und Trends, die sie im Zusammenhang mit Agile, allgemeiner Agilität im Unternehmen und der Verwendung von Workfront für Agile gesehen haben.
       </p>
     </td>
   </tr>

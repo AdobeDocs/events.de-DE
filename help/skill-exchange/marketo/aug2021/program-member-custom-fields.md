@@ -1,6 +1,6 @@
 ---
-title: Entsperren des Potenzials von benutzerdefinierten Feldern für Programmmitglieder
-description: Die Kundenfelder der Programmteilnehmer (PMCFs) sind eine der sich am meisten ändernden neuen Funktionen, die Marketo hinzugefügt wurden.
+title: Erschließen des Potenzials von benutzerdefinierten Feldern für Programmteilnehmer
+description: Program Member Customer Fields (PMCFs) sind eine der bahnbrechendsten neuen Funktionen, die zu Marketo hinzugefügt wurden.
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Entsperren des Potenzials von benutzerdefinierten Feldern für Programmmitglieder
+# Erschließen des Potenzials von benutzerdefinierten Feldern für Programmteilnehmer
 
-Die Kundenfelder der Programmteilnehmer (PMCFs) sind eine der sich am meisten ändernden neuen Funktionen, die Marketo hinzugefügt wurden. Aber sie sind nur ein neuer Feldtyp, nicht wahr? FALSCH. Nehmen Sie an der 3x Marketo Champion teil, Grace Brebner, da sie erklärt, warum PMCFs die Art und Weise, wie Sie über die Erfassung und Berichterstellung kritischer Daten in Ihrer Marketo Engage-Instanz denken, grundlegend verändern werden. Dazu gibt es zahlreiche reale Szenarien, auf die PMCFs angewendet werden können, und praktische Schritte, die Sie unternehmen können, um mit der Implementierung selbst zu beginnen.
+Program Member Customer Fields (PMCFs) sind eine der bahnbrechendsten neuen Funktionen, die zu Marketo hinzugefügt wurden. Aber es ist nur ein neuer Feldtyp, nicht wahr? FALSCH. Seien Sie dabei, wenn Grace Brebner, die Champion von 3x Marketo, erklärt, warum PMCFs die Art und Weise, wie Sie über die Erfassung und das Reporting wichtiger Daten in Ihrer Marketo Engage-Instanz denken, grundlegend verändern werden. Dabei können zahlreiche reale Szenarien auf PMCFs angewendet werden und Sie können praktische Schritte unternehmen, um sie selbst zu implementieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342560/?quality=12&learn=on)

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # AEM Forms Headless-Architektur
 
-In dieser Sitzung werden wir eine Einführung in Headless-Architektur, Vorteile von AEM Forms Headless und Live Demo vorstellen.
+In dieser Sitzung behandeln wir eine Einführung in die Headless-Architektur, die Vorteile von AEM Forms Headless und die Live-Demo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422750/?learn=on)

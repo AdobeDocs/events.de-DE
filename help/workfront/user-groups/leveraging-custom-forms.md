@@ -1,6 +1,6 @@
 ---
-title: Verwenden von Custom Forms (31. August 2021)
-description: Verfolgen Sie die verschiedenen Möglichkeiten, benutzerdefinierte Formulare zu erstellen, zu verwenden und auf Ihre Arbeit anzuwenden.
+title: Nutzung von Custom Forms (31. August 2021)
+description: Überwachen Sie die verschiedenen Möglichkeiten, wie benutzerdefinierte Formulare erstellt, verwendet und auf Ihre Arbeit angewendet werden können.
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10001
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Verwenden von Custom Forms (31. August 2021)
+# Nutzung von Custom Forms (31. August 2021)
 
-Verfolgen Sie die verschiedenen Möglichkeiten, benutzerdefinierte Formulare zu erstellen, zu verwenden und auf Ihre Arbeit anzuwenden.
+Überwachen Sie die verschiedenen Möglichkeiten, wie benutzerdefinierte Formulare erstellt, verwendet und auf Ihre Arbeit angewendet werden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341218/?quality=12&learn=on)

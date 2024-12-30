@@ -1,6 +1,6 @@
 ---
-title: Workfront im gesamten Unternehmen
-description: In dieser Sitzung werden einige grundlegende Anforderungen und Verbesserungseinblicke für die Entwicklung einer Workfront-Implementierung in eine Unternehmensimplementierung behandelt.
+title: Reife von Workfront im gesamten Unternehmen
+description: In dieser Sitzung werden einige grundlegende Anforderungen und Verbesserungserkenntnisse für die Umwandlung einer Workfront-Implementierung in eine Unternehmensimplementierung behandelt.
 solution: Workfront
 feature: System Setup and Administration, Strategic Planning
 topic: Administration, Upgrade
@@ -19,16 +19,16 @@ ht-degree: 0%
 
 ---
 
-# Workfront im gesamten Unternehmen
+# Reife von Workfront im gesamten Unternehmen
 
-In dieser Sitzung werden einige grundlegende Anforderungen und Verbesserungseinblicke für die Entwicklung einer Workfront-Implementierung in eine Unternehmensimplementierung behandelt. Wir werden uns auf wichtige Datenelemente und Objekte konzentrieren sowie von der vordefinierten Workfront-Funktionalität zur Nutzung von Unternehmenssystemen (z. B. ERP) konvertieren.
+In dieser Sitzung werden einige grundlegende Anforderungen und Verbesserungserkenntnisse für die Umwandlung einer Workfront-Implementierung in eine Unternehmensimplementierung behandelt. Wir werden uns auf wichtige Datenelemente und -objekte konzentrieren und von der vorkonfigurierten Workfront-Funktionalität zur Nutzung von Unternehmenssystemen (wie z. B. einem ERP) wechseln.
 
-Dale Whitchurch, EVP, Production Intelligence bei IPG Health wird gemeinsam erläutern, wie er und sein Team mehrere Technologien in Workfront integriert haben, um Workflows zu automatisieren und Prozesse bei IPG Health weiterzuentwickeln.
+Dale Whitchurch, EVP, Production Intelligence bei IPG Health, wird darüber berichten, wie er und sein Team verschiedene Technologien in Workfront integriert haben, um Workflows und weiterentwickelte Prozesse bei IPG Health zu automatisieren.
 
 Sie werden hören,
 
-Entwicklung von Prozess und Infrastruktur im Laufe der Zeit
-Praktische Ratschläge zur Integration von Workfront in Ihren umfassenderen Technologiestapel und zur Weiterentwicklung wichtiger Workflows
-Wie IPG die Grundlagen für die Inhaltsversorgungskette schafft
+Wie sie im Laufe der Zeit sowohl ihre Prozesse als auch ihre Infrastruktur entwickelt haben
+Praktische Hinweise zur Integration von Workfront in Ihren größeren Technologiestapel und zur Weiterentwicklung wichtiger Workflows
+Wie IPG die Grundlagen für die Content Supply Chain schafft
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)

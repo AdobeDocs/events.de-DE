@@ -1,6 +1,6 @@
 ---
-title: Öffnungs-Keynote
-description: Öffnen von Keynote mit Raj Patel
+title: Keynote zur Eröffnung
+description: Eröffnende Keynote mit Raj Patel
 solution: Marketo
 role: User
 level: Beginner, Intermediate, Experienced
@@ -8,16 +8,16 @@ doc-type: Event
 duration: 558
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16009
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: fd3247eb-4596-4cac-bbe4-b7ad8c1bf6b2
+source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
 workflow-type: tm+mt
 source-wordcount: '14'
 ht-degree: 0%
 
 ---
 
+# Keynote zur Eröffnung
 
-# Öffnungs-Keynote
-
-Öffnen von Keynote mit Raj Patel
+Eröffnende Keynote mit Raj Patel
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432957/?learn=on)

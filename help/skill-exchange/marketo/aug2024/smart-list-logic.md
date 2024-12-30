@@ -1,6 +1,6 @@
 ---
-title: Intelligente Listen-Logik erobern, um die Zielgruppe Ihrer Kampagne zu erreichen
-description: Eine Übersicht über Smart-Kampagnen und deren Anpassung an die Gesamtarchitektur von Marketo Engage Ein tiefer Einblick in die vier Ebenen der Logik zur Konfiguration und Anpassung Ihrer Audiences Tricks zur Fehlerbehebung in Ihrer Logik und zur Überprüfung, ob Sie die gewünschte Zielgruppe richtig ausgerichtet haben
+title: Überwinden der Smart-List-Logik, um Ihre Campaign-Audience zu erreichen
+description: Ein Überblick über Smart-Kampagnen und wie sie in die Gesamtarchitektur von Marketo Engage passen Ein detaillierter Einblick in die vier Logikebenen zum Konfigurieren und Anpassen Ihrer Zielgruppen Tricks zur Fehlerbehebung bei Ihrer Logik und zur Überprüfung, ob Sie Ihre beabsichtigte Zielgruppe korrekt angesprochen haben
 solution: Marketo
 role: User
 level: Beginner
@@ -8,22 +8,22 @@ doc-type: Event
 duration: 2250
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16000
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: f9ebb3f5-6389-42af-995b-a33eb9024bbe
+source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
+# Überwinden der Smart-List-Logik, um Ihre Campaign-Audience zu erreichen
 
-# Intelligente Listen-Logik erobern, um die Zielgruppe Ihrer Kampagne zu erreichen
+Smart-Kampagnen sind die leistungsstarken Engines, die die Automatisierungsmagie des Marketo Engage steuern, und eine wesentliche Komponente besteht darin, mithilfe der Registerkarte Smart List die richtige Zielgruppe anzusprechen. Seien Sie dabei, wenn wir die Komplexität von Smart-Kampagnen, Filtern und Triggern sowie die erweiterte Smart-List-Logik aufschlüsseln. Sie erfahren, wie Sie das volle Potenzial von Smart Campaign nutzen können, um Ihre Ziele Ihres Marketing-Programms zu erreichen.
 
-Smart-Kampagnen sind die leistungsstarken Motoren, die den Automatisierungszauber von Marketo Engage fördern. Eine wichtige Komponente ist die Ausrichtung der richtigen Audience über die Registerkarte Smart List . Treten Sie uns bei, während wir die Komplexität von Smart-Kampagnen, Filtern und Triggern sowie die erweiterte Smart-List-Logik aufschlüsseln. Sie erfahren, wie Sie das gesamte Potenzial intelligenter Kampagnen nutzen können, um Ihre Marketing-Programmziele zu erreichen.
+## Wichtige Erkenntnisse
 
-## Wichtige Schritte
-
-* Ein Überblick über Smart-Kampagnen und deren Anpassung an die Gesamtarchitektur von Marketo Engage
-* Machen Sie sich mit den vier Ebenen der Logik zur Konfiguration und Anpassung Ihrer Zielgruppen vertraut.
-* Tricks zur Fehlerbehebung in Ihrer Logik und zur Überprüfung, ob Sie die gewünschte Zielgruppe richtig ausgewählt haben
+* Ein Überblick über Smart-Kampagnen und wie sie in die Gesamtarchitektur von Marketo Engage passen
+* Ein tiefer Einblick in die vier Logikebenen zum Konfigurieren und Anpassen Ihrer Zielgruppen
+* Tricks zur Fehlerbehebung bei Ihrer Logik und zur Überprüfung, ob Sie Ihre Zielgruppe korrekt angesprochen haben
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432943/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Die Zukunft des Adobe Workfront-Testversands
-description: Verwenden Sie Workfront Proof für Prüfungs- und Genehmigungs-Workflows in Ihrem Unternehmen? Merkwürdig, wie man das Beste aus dem Werkzeug und dem, was wir für die Zukunft geplant haben, macht.
+title: Die Zukunft von Adobe Workfront Proof
+description: Verwenden Sie Workfront Proof für Prüfungs- und Genehmigungs-Workflows in Ihrem Unternehmen? Neugierig, wie wir das Tool optimal nutzen und was wir für die Zukunft geplant haben.
 solution: Workfront
 role: User
 level: Intermediate, Experienced
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Die Zukunft des Adobe Workfront-Testversands
+# Die Zukunft von Adobe Workfront Proof
 
-Verwenden Sie Workfront Proof für Prüfungs- und Genehmigungs-Workflows in Ihrem Unternehmen? Sie möchten wissen, wie Sie das Werkzeug optimal nutzen können und was wir für die Zukunft geplant haben? Caroline Ossmann, Produktmanager bei Adobe Workfront for Proof, wird folgende Themen gemeinsam nutzen:
+Verwenden Sie Workfront Proof für Prüfungs- und Genehmigungs-Workflows in Ihrem Unternehmen? Neugierig, wie wir das Tool optimal nutzen und was wir für die Zukunft geplant haben? Caroline Ossmann, Product Manager bei Adobe Workfront for Proof, wird Folgendes mitteilen:
 
-* Highlights der letzten Innovationen
-* Beispiele dafür, wie wir unsere Kunden mithilfe von Testversand sehen
-* Ideen zur Verbesserung Ihres allgemeinen Prüfungs- und Genehmigungsprozesses
+* Höhepunkte der jüngsten Innovationen
+* Beispiele dafür, wie wir unsere Kunden mit Proof ansehen
+* Ideen zur Verbesserung des allgemeinen Überprüfungs- und Genehmigungsprozesses
 * Was steht auf dem Fahrplan für das nächste Jahr (und darüber hinaus)?
 
 >[!VIDEO](https://video.tv.adobe.com/v/342525/?quality=12&learn=on)

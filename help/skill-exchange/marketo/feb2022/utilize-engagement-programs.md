@@ -1,6 +1,6 @@
 ---
-title: Pflege 101 - Einsatz von Interaktionsprogrammen zur Interaktion mit Ihren Kunden
-description: Lernen Sie die Grundlagen von Interaktionsprogrammen in [!DNL Marketo Engage] kennen, einschließlich Beispielanwendungsfällen und Tipps und Tricks.
+title: Nurture 101 - Einsatz von Interaktionsprogrammen zur Kundenbindung
+description: Lernen Sie die Grundlagen von Interaktionsprogrammen in kennen [!DNL Marketo Engage]  einschließlich Beispielanwendungsfällen und Tipps und Tricks.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ---
 
-# Pflege 101 - Einsatz von Interaktionsprogrammen zur Interaktion mit Ihren Kunden
+# Nurture 101 - Einsatz von Interaktionsprogrammen zur Kundenbindung
 
 Lernen Sie die Grundlagen von Interaktionsprogrammen in [!DNL Marketo Engage] kennen, einschließlich Beispielanwendungsfällen und Tipps und Tricks.
 
-**Tastenanschläge**
+**Wichtige Erkenntnisse**
 
-* Verschaffen Sie sich ein besseres Verständnis der Marketo-Interaktionsprogramme und ihrer einzigartigen Funktionen
-* Erfahren Sie mehr über die Programmeinrichtung und Best Practices sowie deren Anwendung auf reale Anwendungsfälle.
-* Ermöglicht die Entwicklung einer Interaktionsstrategie für Ihr Unternehmen
+* Besseres Verständnis der Marketo Engagement-Programme und ihrer einzigartigen Funktionen
+* Erfahren Sie mehr über die Einrichtung von Programmen und über Best Practices und deren Anwendung auf praktische Anwendungsfälle
+* Entwickeln Sie eine Interaktionsstrategie für Ihr Unternehmen
 
 >[!VIDEO](https://video.tv.adobe.com/v/340595/?quality=12&learn=on)

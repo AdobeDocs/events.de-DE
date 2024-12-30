@@ -1,6 +1,6 @@
 ---
-title: Experience Makers - Vorbereitung auf Wachstum und kontinuierliche Effizienz
-description: Nehmen Sie an unserer Experience Maker Spotlight-Sitzung teil, um von drei sehr unterschiedlichen Organisationen zu erfahren, wie sie mit dem Vergrößern und Skalieren ihrer Workfront-Instanzen zurechtgekommen sind.
+title: Experience Makers im Blickpunkt - Vorbereiten auf Wachstum und kontinuierliche Effizienz
+description: Nehmen Sie an unserer Spotlight-Sitzung zu Experience Makers teil, um von drei sehr verschiedenen Unternehmen zu erfahren, wie sie das Wachstum und die Skalierung ihrer Workfront-Instanzen angegangen sind.
 solution: Workfront
 feature: System Setup and Administration
 role: User, Admin
@@ -18,16 +18,16 @@ ht-degree: 0%
 
 ---
 
-# Experience Makers - Vorbereitung auf Wachstum und kontinuierliche Effizienz
+# Experience Makers im Blickpunkt - Vorbereiten auf Wachstum und kontinuierliche Effizienz
 
-Sie haben Workfront implementiert, Ihre ersten Workflows erfolgreich gestartet und jetzt ist das Wort &quot;Out&quot;- Workfront funktioniert und alle wollen es!
+Sie haben Workfront implementiert, Ihre ersten Workflows erfolgreich gestartet und jetzt ist es aus - Workfront funktioniert und alle möchten dabei sein!
 
-&quot;Es ist ein gutes Problem zu haben&quot;, wie sie sagen, aber was bedeutet es, Ihre Instanz zu erweitern? Nehmen Sie an unserer Experience Maker Spotlight-Sitzung teil, um von drei sehr unterschiedlichen Organisationen zu erfahren, wie sie mit dem Vergrößern und Skalieren ihrer Workfront-Instanzen zurechtgekommen sind.
+„Es ist ein gutes Problem“, sagen sie, aber was bedeutet es, eine Instanz zu erweitern? Nehmen Sie an unserer Spotlight-Sitzung zu Experience Makers teil, um von drei sehr verschiedenen Unternehmen zu erfahren, wie sie das Wachstum und die Skalierung ihrer Workfront-Instanzen angegangen sind.
 
 Sie werden hören,
 
-* Warum ist Cathy Glenn, Marketingtechnikerin, Projektmanagement und Workfront-Lead bei Thermo Fisher Scientific der Ansicht, dass eine angemessene Personalausstattung und Ressourcenausstattung (einschließlich der Nutzung von Gruppenadministratoren!) ist ein wichtiger erster Schritt zum Wachstum
-* Was Trinite Bryant, Marketing Operations Manager bei Amazon Web Services (AWS), tut, um das Wachstum anzukurbeln, indem es ein Gefühl von Community und Governance in Workfront schafft, um die Nutzung und Teilhabe zu steigern?
-* Wie Tim Brooks, Leiter des technischen Programms und Projektmanagements bei Deloitte, Workfront produziert und vorgestellt hat, um seine Erweiterung zu optimieren und die Effizienz zu steigern
+* Warum Cathy Glenn, Marketing Technologist, Project Management &amp; Workfront Lead bei Thermo Fisher Scientific, glaubt, dass eine angemessene Personalausstattung und Ressourcenausstattung (einschließlich der Nutzung von Gruppenadministrierenden!) ein entscheidender erster Schritt für das Wachstum ist
+* Was Trinite Bryant, Marketing Operations Manager bei Amazon Web Services (AWS), tut, um das Wachstum zu fördern, indem er ein Gefühl der Gemeinschaft und der Governance rund um Workfront schafft, um die Nutzung und Beteiligung weiter zu steigern
+* Wie Tim Brooks, Leiter des technischen Programm- und Projektmanagements bei Deloitte, Workfront produziert und als Vorlage konzipiert hat, um ihre Expansion zu optimieren und kontinuierliche Effizienz zu finden
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425813/?learn=on)

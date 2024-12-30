@@ -1,6 +1,6 @@
 ---
-title: Audit-Protokolle und Einhaltung (1. Juli 2020)
-description: Hören Sie, wie Compliance-Experten ihre Ideen dazu teilen, wie Sie Compliance- und Regulierungsprozesse in Ihrem Unternehmen optimieren und verbessern können.
+title: Audit-Trails und Compliance (1. Juli 2020)
+description: Hören Sie sich an, wie Compliance-Experten ihre Ideen dazu vorstellen, wie Sie Compliance- und Regulierungsprozesse in Ihrem Unternehmen optimieren und verbessern können.
 role: Admin, User
 level: Intermediate
 kt: 9990
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Audit-Protokolle und Einhaltung (1. Juli 2020)
+# Audit-Trails und Compliance (1. Juli 2020)
 
-Hören Sie, wie Compliance-Experten ihre Ideen dazu teilen, wie Sie Compliance- und Regulierungsprozesse in Ihrem Unternehmen optimieren und verbessern können.
+Hören Sie sich an, wie Compliance-Experten ihre Ideen dazu vorstellen, wie Sie Compliance- und Regulierungsprozesse in Ihrem Unternehmen optimieren und verbessern können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341223/?quality=12&learn=on)

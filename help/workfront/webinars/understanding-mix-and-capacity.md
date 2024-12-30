@@ -1,6 +1,6 @@
 ---
-title: Fragen an Experten - Mischung und Kapazität verstehen
-description: Erfahren Sie, wie Sie Mix und Kapazität in Ihrem Unternehmen messen können. Dieses Webinar wurde am 2. Oktober 2019 aufgenommen.
+title: Fragen an den Experten - Mix und Kapazität verstehen
+description: Erfahren Sie, wie Sie den Mix und die Kapazität in Ihrem Unternehmen messen. Dieses Webinar wurde am 2. Oktober 2019 aufgezeichnet.
 doc-type: feature video
 team: Technical Marketing
 kt: 9913
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 ---
 
-# Fragen an Experten - Mischung und Kapazität verstehen
+# Fragen an den Experten - Mix und Kapazität verstehen
 
-Erfahren Sie, wie Sie Mix und Kapazität in Ihrem Unternehmen messen können. Dieses Webinar wurde am 2. Oktober 2019 aufgenommen.
+Erfahren Sie, wie Sie den Mix und die Kapazität in Ihrem Unternehmen messen. Dieses Webinar wurde am 2. Oktober 2019 aufgezeichnet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341119/?quality=12)
 
@@ -23,49 +23,49 @@ Erfahren Sie, wie Sie Mix und Kapazität in Ihrem Unternehmen messen können. Di
 
 **Frage**
 
-Wie setzt man %s in ein Spaltendiagramm?
+Wie setzt man %s auf ein Säulendiagramm?
 
 **Antwort**
 
-Die im Mix-Bericht aufgelisteten Prozentwerte waren vorhanden, da wir auf der Registerkarte &quot;Diagramm&quot;die Option &quot;Gruppenspalten&quot;und die Option &quot;Auf 100 % gestapelt&quot;ausgewählt haben. Wenn wir &quot;Gestapelt&quot;wählen, werden die geplanten Stundensummen und nicht der Prozentsatz angezeigt.
+Die im Mixbericht aufgelisteten %-Werte waren vorhanden, weil wir auf der Registerkarte „Diagramm“ „Spalten gruppieren“ und „Auf 100 % gestapelt“ ausgewählt haben. Wenn wir „Gestapelt“ wählen, werden die geplanten Stundensummen und nicht der Prozentsatz angezeigt.
 
 **Frage**
 
-Wie empfehlen Sie eine allgemeine Überprüfung (in einem Workfront-Bericht) einer WPI, wenn die Arbeitslast Ihrer Abteilung/Organisationen aus einer Mischung aus Projekten/Aufgaben und Problemen/Anforderungen besteht?
+Wenn die Arbeitslast Ihrer Abteilung/Organisation eine Mischung aus Projekten/Aufgaben und Problemen/Anfragen ist, wie können Sie empfehlen, eine allgemeine Überprüfung (in einem Workfront-Bericht) einer API durchzuführen.
 
 **Antwort**
 
-Projekte, Aufgaben und Probleme müssen jeweils über eigene Berichte mit eigenen benutzerdefinierten Formularen verfügen. Sie können jedoch jeweils dasselbe Feld &quot;Arbeitstyp&quot;verwenden. Sie können die drei Berichte in einem Dashboard anzeigen lassen.
+Projekte, Aufgaben und Probleme müssen jeweils eigene Berichte mit eigenen benutzerdefinierten Formularen haben. Sie können jedoch jeweils dasselbe Feld Arbeitstyp verwenden. Möglicherweise möchten Sie die drei Berichte in einem Dashboard anzeigen.
 
 **Frage**
 
-Müssen Aufgaben in großen Mengen bearbeitet werden, um sie operationell oder strategisch zu gestalten?
+Müssen wir Aufgaben in großen Mengen bearbeiten, um sie operationell oder strategisch zu machen?
 
 **Antwort**
 
-Die Technik, die wir vorschlagen, besteht darin, einen Bericht zu erstellen, der es Ihnen ermöglicht, eine Liste von Aufgaben zu erhalten, die funktionsfähig sind. Sobald Sie alle Aufgaben gleichzeitig auswählen können, bearbeiten Sie sie stapelweise, fügen Sie das benutzerdefinierte Formular mit Arbeitstyp hinzu und legen Sie den Arbeitstyp für alle Aufgaben gleichzeitig auf &quot;Operativ&quot;fest. Auf die gleiche Weise werden Sie eine Liste strategischer Aufgaben sammeln, diese stapelweise bearbeiten und das benutzerdefinierte Formular hinzufügen usw.
+Die von uns vorgeschlagene Technik besteht darin, einen Bericht zu erstellen, der Ihnen eine Liste der Aufgaben liefert, die einsatzbereit sind. Sobald Sie wissen, dass Sie alle Aufgaben gleichzeitig auswählen können, führen Sie eine Massenbearbeitung durch, fügen Sie dann das benutzerdefinierte Formular mit Arbeitstyp an und legen Sie den Arbeitstyp für alle Aufgaben auf „Operativ“ fest. Gehen Sie ebenso vor, um eine Liste strategischer Aufgaben zu erstellen, sie massenweise zu bearbeiten und das benutzerdefinierte Formular hinzuzufügen usw.
 
-Im Webinar werden einige Ideen für benutzerdefinierte Eingabeaufforderungen erwähnt, die Ihnen dabei helfen können, eine Liste zu erhalten, z. B. das Suchen nach bestimmten Wörtern im Aufgabennamen, dem Projekteigentümer, dem Portfolio oder den zugewiesenen Benutzern. Das sind nur Ideen. Sie sollten einen Bericht erstellen, der in Ihrer Situation am besten funktioniert.
+Im Webinar werden einige Ideen für benutzerdefinierte Eingabeaufforderungen erwähnt, die Ihnen beim Abrufen einer Liste helfen können, z. B. das Suchen nach bestimmten Wörtern im Aufgabennamen, beim Projektbesitzer, beim Portfolio oder bei den zugewiesenen Benutzern. Das sind nur Ideen. Sie sollten einen Bericht erstellen, der in Ihrer Situation am besten funktioniert.
 
 **Frage**
 
-Wenn ich vier Kategorien in meinem Mix habe, kann ich dann für jeden ein Ziel erstellen und dann über die Unterschiede zwischen Prognose vs. Plan vs. tatsächlichen Werten berichten? (4 Kategorien: Kampagne, Geschäftseinheit, Web und Produkt). Die Kategorien befinden sich auf Projektebene in benutzerdefinierten Formularen/Feldern. Ziel wäre die Erstellung einer vierteljährlichen Prognose (Budget/Prognose) und die anschließende Verfolgung der geplanten und letztlich tatsächlichen Stunden.
+Wenn ich 4 Kategorien in meinem Mix habe, kann ich dann für jede ein Ziel erstellen und dann einen Bericht über den Delta-Faktor zwischen Prognose vs. Plan vs. Ist erstellen? (4 Kategorien: Kampagne, Geschäftsbereich, Web und Produkt). Wir haben die Kategorien auf Projektebene in benutzerdefinierten Formularen/Feldern. Ziel wäre die Erstellung einer vierteljährlichen Prognose (Budget/Prognose), auf die die geplanten Stunden und letztendlich die tatsächlichen Stunden folgen.
 
 **Antwort**
 
-Wenn Sie alle Kategorien in einem benutzerdefinierten Feld haben (nennen wir es vorerst &quot;Arbeitstyp&quot;), erstellen Sie einfach einen Projektbericht, der zuerst nach geplanten Stunden und danach nach Arbeitstyp gruppiert. Filtern Sie Ihren Projektbericht, um Projekte in der Planung innerhalb der gewünschten Datumsbereiche anzuzeigen. Verwenden Sie ein Diagramm mit gruppierten Spalten oder Balken, die auf 100 % gestapelt sind, wenn Sie Prozentsätze anzeigen möchten. Dies könnte Ihr Prognosebericht sein.
+Wenn Sie alle Kategorien in einem benutzerdefinierten Feld haben (nennen wir es vorerst Arbeitstyp ), erstellen Sie einfach zuerst eine Projektberichtsgruppierung nach „Geplante Stunden“ und dann nach „Arbeitstyp“. Filtern Sie Ihren Projektbericht, um Projekte in Planning innerhalb der gewünschten Datumsbereiche anzuzeigen. Verwenden Sie ein Diagramm mit gruppierten Spalten oder Balken, die zu 100 % gestapelt sind, wenn Prozentsätze angezeigt werden sollen. Dies könnte Ihr Prognosebericht sein.
 
-Sie können den Bericht kopieren und bearbeiten, um einen Bericht zu erstellen, der auf aktuellen Projekten basiert, und dennoch die Mischung basierend auf geplanten Stunden anzeigen.
+Sie können den Bericht kopieren und bearbeiten, um einen Bericht auf der Grundlage der aktuellen Projekte zu erstellen und den Mix weiterhin auf der Grundlage der geplanten Stunden anzuzeigen.
 
-Sie können den Bericht erneut kopieren, ihn in eine Gruppe nach tatsächlichen Stunden anstelle von geplanten Stunden ändern und nur abgeschlossene Projekte innerhalb der gewünschten Datumsbereiche anzeigen. Dies würde den prozentualen Mix basierend auf den tatsächlichen Stunden zeigen.
+Sie können den Bericht erneut kopieren, in „Nach tatsächlichen Stunden anstatt nach geplanten Stunden gruppieren“ ändern und nur abgeschlossene Projekte innerhalb der gewünschten Datumsbereiche anzeigen. Dies zeigt die prozentuale Mischung auf der Basis der tatsächlichen Stunden.
 
 **Frage**
 
-Funktioniert das, wenn Sie mehrere Kategorie-IDs für ein Projekt oder eine Aufgabe haben?
+Funktioniert dies, wenn Sie mehrere Kategorie-IDs für ein Projekt oder eine Aufgabe haben?
 
 **Antwort**
 
-Ja, wenn Sie mehrere IDs haben, müssen diese durch eine Registerkarte getrennt werden, wie hier gezeigt:
+Ja, wenn Sie mehrere IDs haben, müssen diese wie folgt durch eine Registerkarte getrennt werden:
 
 ```
 EXISTS:1:$$EXISTSMOD=NOTEXISTS
@@ -74,27 +74,27 @@ EXISTS:1:categoryID=5d76d82600e7926bb51eeb1e0886810e 5d54288d01034619f2eb2c74f64
 EXISTS:1:objID=FIELD:ID
 ```
 
-Die beste Möglichkeit, sie durch Tabulatorzeichen zu trennen, besteht darin, zuerst Ihre Liste von Kategorien im Builder zu erstellen. Geben Sie mehrere benutzerdefinierte Formularnamen ein. Wenn Sie in den Textmodus wechseln, werden diese als durch Tabulatoren getrennte IDs angezeigt.
+Die beste Möglichkeit, sie durch ein Tabulatorzeichen zu trennen, besteht darin, zuerst Ihre Liste der Kategorien im Builder zu erstellen. Fügen Sie mehrere benutzerdefinierte Formularnamen ein. Wenn Sie in den Textmodus wechseln, werden sie als IDs angezeigt, die durch Registerkarten getrennt sind.
 
-Die verschiedenen IDs werden als ORs behandelt. Wenn also eine von ihnen an die Aufgabe angehängt ist, wird sie nicht im Bericht angezeigt.
-
-**Frage**
-
-Werden im Bericht &quot;ANDed&quot;oder &quot;ORed&quot;angezeigt?
-
-**Antwort**
-
-Die einzelnen benutzerdefinierten Eingabeaufforderungen lauten &quot;ANDed&quot;. Wenn Sie also Pam als Projekteigentümer und Bill als der Aufgabe zugewiesen angeben, sehen Sie nur Aufgaben, die Bill zugewiesen sind und sich in Projekten befinden, in denen Pam Projektinhaber ist.
+Die verschiedenen IDs werden als ORs behandelt. Wenn also eine dieser IDs mit der Aufgabe verknüpft ist, wird sie nicht im Bericht angezeigt.
 
 **Frage**
 
-Warum können Sie nur nach bestimmten Spalten sortieren? Sie können also nicht nach Zuweisungen sortieren.
+Wird in dem Bericht „ANDed“ angezeigt oder ist dies „ORed“?
 
 **Antwort**
 
-&quot;Zuweisungen&quot;ist eine Liste und Sie können keine Elemente in einer Liste sortieren oder gruppieren. Sie können nur ein einzelnes Element sortieren oder gruppieren.
+Die einzelnen benutzerdefinierten Eingabeaufforderungen lauten „ANDed“. Wenn Sie also PAM als Projektbesitzer und Bill als der Aufgabe zugewiesen angeben, sehen Sie nur Aufgaben, die Bill zugewiesen sind und in Projekten enthalten sind, in denen PAM der Projektbesitzer ist.
 
-Um diesen Punkt zu veranschaulichen, stellen Sie sich eine Liste von Zuweisungen wie diese für eine Aufgabe vor:
+**Frage**
+
+Warum kann man nur nach bestimmten Spalten sortieren? Das heißt, Sie können nicht nach Arbeitsaufträgen sortieren.
+
+**Antwort**
+
+„Arbeitsaufträge“ ist eine Liste, und Sie können in einer Liste von Elementen nicht sortieren oder gruppieren. Sie können nur einzelne Elemente sortieren oder gruppieren.
+
+Um den Punkt zu veranschaulichen, stellen Sie sich eine Liste solcher Zuweisungen für eine Aufgabe vor:
 
 ```
 Jane
@@ -102,7 +102,7 @@ Bill
 Dan
 ```
 
-Eine Liste von Zuweisungen wie diese für eine andere Aufgabe:
+Und eine Liste mit Zuweisungen wie dieser für eine andere Aufgabe:
 
 ```
 Bill
@@ -110,51 +110,51 @@ Jane
 Helen
 ```
 
-Welche Aufgabe sollte in einer Art zuerst angezeigt werden? Sie könnten &quot;nach dem Vornamen in der Liste sortieren&quot;sagen, aber dies ist nicht unbedingt nützlich, da Sie die Reihenfolge nicht steuern können. Workfront vermeidet das Problem, indem es Ihnen überhaupt nicht gestattet, Listen nach Listen zu sortieren.
+Welche Aufgabe soll zuerst in einer Sortierung angezeigt werden? Man könnte auch „Sortieren nach dem Vornamen in der Liste“ sagen, aber das ist nicht unbedingt nützlich, da man die Reihenfolge nicht kontrollieren kann. Workfront vermeidet das Problem, indem es die Sortierung nach Listen überhaupt nicht zulässt.
 
-Wie sieht es mit der Gruppierung nach Liste aus? Wenn wir nach einer Liste von Namen gruppieren könnten, würden Sie alle Aufgaben, die Jane, Bill, Dan zugewiesen sind, gruppieren und alle Aufgaben, die Jane, Dan, Bill (gleiche Liste, aber in einer anderen Reihenfolge) zugewiesen sind, in einer anderen Gruppierung finden. Auch hier vermeidet Workfront das Problem, indem es keine Gruppierung nach Listen zulässt.
-
-**Frage**
-
-Werden geplante Stunden für strategische Aufgaben und tatsächliche Betriebsstunden verwendet?
-
-**Antwort**
-
-Nein. In unserem Beispiel verwenden wir geplante Stunden, um den geplanten Aufwand für sowohl strategische als auch operative Aufgaben zu zeigen. Dadurch können wir sie leicht vergleichen, ob in der Vergangenheit, in der Gegenwart oder in der Zukunft. Sie können auch die tatsächlichen Stunden verwenden, um strategische und operative Aufgaben zu vergleichen, aber nur für Aufgaben in der Vergangenheit, da die tatsächlichen Stunden die Stunden sind, die die Menschen als die Zeit gemeldet haben, die sie tatsächlich mit den Aufgaben verbracht haben.
+Was ist mit Gruppierung nach Liste? Wenn wir nach einer Liste von Namen gruppieren könnten, würden Sie alle Aufgaben, die Jane, Bill, Dan zugewiesen sind, gruppiert und alle Aufgaben, die Jane, Dan, Bill (dieselbe Liste, aber in einer anderen Reihenfolge) zugewiesen sind, in einer anderen Gruppierung finden. Auch hier vermeidet Workfront das Problem, indem es die Gruppierung nach Listen nicht zulässt.
 
 **Frage**
 
-Wie werden im Ressourcenplaner Aufgaben berücksichtigt, die in der Vergangenheit geplant, aber noch nicht abgeschlossen wurden? Die geplanten Stunden scheinen sich nicht weiterzuentwickeln und werden daher in zukünftigen Wochen nicht als Aufgaben/Stunden angezeigt, die Ressourcen benötigen.
+Werden die geplanten Stunden für strategische Aufgaben und die tatsächlichen Stunden für operative Aufgaben verwendet?
 
 **Antwort**
 
-Es gibt keine &quot;automatische&quot;Weiterleitung nicht abgeschlossener Arbeiten. In diesem Fall müssen Sie Ihr Projekt neu planen. Vielleicht sind die Ressourcen, die Sie einer bestimmten Aufgabe ursprünglich zugewiesen hatten, im neuen Zeitrahmen nicht verfügbar, daher muss sich der Projektmanager damit beschäftigen und entscheiden, wie die Neuplanung am besten durchgeführt werden kann. Dies kann bedeuten, dass Interessenträger einbezogen und Genehmigungen für die Änderungen des Plans erhalten werden.
+Nein. In unserem Beispiel verwenden wir Geplante Stunden, um den für strategische und operative Aufgaben geplanten Aufwand anzuzeigen. So können wir sie leicht vergleichen, ob in der Vergangenheit, in der Gegenwart oder in der Zukunft. Sie können auch tatsächliche Stunden verwenden, um strategische und operative Aufgaben zu vergleichen, jedoch nur für Aufgaben in der Vergangenheit, da tatsächliche Stunden die Stunden sind, die Personen als die Zeit angegeben haben, die sie tatsächlich mit der Arbeit an den Aufgaben verbracht haben.
 
 **Frage**
 
-Wäre es empfehlenswert, die VZÄ nicht anzupassen, anstatt 2 Stunden pro Tag zur Überprüfung von E-Mails und Pausen einzugeben?
+Wie sind im Ressourcenplaner Aufgaben zu erfassen, die in der Vergangenheit geplant, aber nicht abgeschlossen wurden? Die geplanten Stunden scheinen nicht vorwärts zu rollen und werden daher in zukünftigen Wochen nicht als Aufgaben/Stunden angezeigt, die Ressourcen benötigen.
 
 **Antwort**
 
-Ja, wenn Sie die FTE auf 0,75 festlegen, wird einem Benutzer im Ressourcenplaner 6 Stunden pro Tag angezeigt. Das wird ihre Verfügbarkeit jeden Tag sein. Wenn Sie sie je nach Datum für verschiedene Zeiträume anzeigen möchten, z. B. wenn sie am letzten Tag eines jeden Quartals nicht verfügbar sind, ist dies durch ein Overhead-Projekt möglich.
-
-Manche Leute bevorzugen Gemeinkosten-Projekte, weil sie sie für sich selbst erstellen und sie bei Bedarf ändern können, während sie möglicherweise nicht über die Rechte verfügen, ihre eigene FTE zu bearbeiten.
+Es gibt keine „automatische“ Vorverlegung nicht abgeschlossener Arbeiten. In diesem Fall müssen Sie Ihr Projekt neu planen. Möglicherweise sind die Ressourcen, die Sie einer bestimmten Aufgabe ursprünglich zugewiesen hatten, im neuen Zeitrahmen nicht verfügbar, sodass der Projektmanager sich dies ansehen und entscheiden muss, wie er die Neuplanung am besten vornimmt. Dies kann bedeuten, dass die Beteiligten einbezogen und Genehmigungen für die Änderungen im Plan eingeholt werden müssen.
 
 **Frage**
 
-Stehen die Daten für das Dashboard zur Teamkapazität jedem zur Verfügung, für den Sie den Bericht freigeben, unabhängig von den Berechtigungen, die er für die Arbeit hat?
+Würden Sie empfehlen, den FTE anzupassen, anstatt 2 Stunden pro Tag für die Überprüfung von E-Mails und Unterbrechungen einzugeben?
 
 **Antwort**
 
-Wenn ein Benutzer nicht über die Berechtigung zum Anzeigen des Objekts verfügt, ist es nicht im Bericht/Dashboard sichtbar. Wenn Sie jedoch möchten, dass alle die gleichen Ergebnisse sehen, können Sie &quot;Berichtaktionen&quot;> &quot;Bearbeiten&quot;> &quot;Berichtseinstellungen&quot;aufrufen und in das Feld &quot;Diesen Bericht mit Zugriffsrechten ausführen&quot;eingeben. Dadurch können die Benutzer, die für diesen Bericht freigegeben sind, die genauen Ergebnisse sehen, die Ihnen angezeigt werden. Sie erhalten keinen zusätzlichen Zugriff auf das Ergebnis selbst, sodass einige Ergebnisse angeklickt werden können oder nicht.
+Ja, wenn Sie den FTE auf .75 setzen, sodass ein Benutzer im Ressourcenplaner 6 Stunden pro Tag als verfügbar angezeigt wird. Das wird ihre tägliche Verfügbarkeit sein. Wenn Sie möchten, dass sie in verschiedenen Zeiträumen je nach Datum als nicht verfügbar angezeigt werden, z. B. am letzten Tag eines jeden Quartals, dann ist ein Overhead-Projekt der richtige Weg, um dies zu tun.
+
+Einige Personen bevorzugen Overhead-Projekte, weil sie diese selbst erstellen und nach Bedarf ändern können, während sie möglicherweise nicht das Recht haben, ihr eigenes FTE zu bearbeiten.
 
 **Frage**
 
-Wie können wir einen Bericht erstellen, der alle Mitarbeiter anzeigt, die einem Projekt insgesamt zugewiesen sind (nicht auf Aufgabenebene)?
+Sind die Daten für das Dashboard „Team-Kapazität“ für alle verfügbar, für die Sie den Bericht freigeben, unabhängig davon, welche Berechtigungen sie für die Arbeit haben?
 
 **Antwort**
 
-Sie können eine Spalte in einem Projektbericht erstellen, die alle Benutzer anzeigt, die auf der Registerkarte &quot;Staffing&quot;(Projektteam) aufgelistet sind. Sie sollten den folgenden Textmodus verwenden:
+Wenn ein(e) Benutzende(r) nicht berechtigt ist, das Objekt anzuzeigen, wird es nicht im Bericht/Dashboard angezeigt. Wenn Sie jedoch möchten, dass alle Benutzer dieselben Ergebnisse sehen, können Sie zu Berichtsaktionen > Bearbeiten > Berichtseinstellungen gehen und in Ihrem Namen in das Feld „Diesen Bericht ausführen mit Zugriffsrechten von“ eingeben. Dadurch können die in diesem Bericht freigegebenen Benutzer die genauen Ergebnisse sehen, die Sie sehen. Dadurch erhalten sie keinen zusätzlichen Zugriff auf das Ergebnis selbst, sodass einige Ergebnisse möglicherweise angeklickt werden können oder nicht.
+
+**Frage**
+
+Wie kann ein Bericht erstellt werden, der alle einem Projekt zugewiesenen Mitarbeiter insgesamt (nicht auf Aufgabenebene) ausgibt?
+
+**Antwort**
+
+Sie können in einem Projektbericht eine Spalte erstellen, die alle Benutzer anzeigt, die auf der Registerkarte „Personal“ (Projektteam) aufgelistet sind. Sie werden den folgenden Textmodus verwenden:
 
 ```
 displayname=Project Team
@@ -168,21 +168,21 @@ valueformat=HTML
 
 **Frage**
 
-Ich möchte einen Bericht/ein Dashboard haben, der bzw. das die Funktionsweise meines Teams beinhaltet. Insbesondere die folgenden Szenarien: - Projekte, deren Inhaber ich bin / Für mich erstellte Projekte / Aufgaben, die ich anderen zugewiesen habe / Aufgaben, die mir zugewiesen sind
+Ich möchte einen Bericht/ein Dashboard, der/das die Arbeitsweise meines Teams enthält. Insbesondere folgende Szenarien: - Projekte in meinem Besitz / Für mich erstellte Projekte / Aufgaben, die ich anderen zugewiesen habe / Aufgaben, die mir zugewiesen wurden
 
 **Antwort**
 
-Projekte, die ich besitze
+Projekte in meinem Besitz
 
-Es gibt einen integrierten Bericht mit dem Namen &quot;Aktuelle Projekte&quot;, in dem alle aktuellen Projekte angezeigt werden. Sie können dieses Projekt bearbeiten und eine Filterregel hinzufügen: Projekt > Eigentümer-ID > Gleich > $$USER.IDTspeichern und den Bericht in &quot;Projekte, die ich besitze&quot;umbenennen.
+Es gibt einen integrierten Bericht mit dem Namen „Aktuelle Projekte“, der alle aktuellen Projekte anzeigt. Sie können dieses Projekt bearbeiten und eine Filterregel hinzufügen: Projekt > Eigentümer-ID > Gleich > $$USER.ID Speichern Sie dann den Bericht und benennen Sie ihn in „Projekte in meinem Besitz“ um.
 
 Für mich erstellte Projekte
 
-Es gibt einen integrierten Bericht mit dem Namen &quot;Meine Projekte&quot;, in dem alle aktuellen Projekte angezeigt werden, in denen Sie im Projektteam sind (d. h. Sie sind Inhaber, Sponsor oder der Aufgabe zugewiesen). Nicht sicher, ob dies das ist, was Sie verlangen, aber es gibt keine andere Möglichkeit zu wissen, ob jemand ein Projekt für Sie erstellt hat, außer Sie zum Projekteigentümer, Sponsor oder Zuweisung zu einer Aufgabe zu machen.
+Es gibt einen integrierten Bericht mit dem Namen „Meine Projekte“, der Ihnen alle aktuellen Projekte zeigt, an denen Sie dem Projektteam angehören (d. h. Sie sind Verantwortlicher, Sponsor oder einer Aufgabe zugewiesen). Sie sind sich nicht sicher, ob Sie dies wünschen, aber es gibt keine andere Möglichkeit herauszufinden, ob jemand ein Projekt für Sie erstellt hat, außer Sie zum Projektbesitzer oder Sponsor zu machen oder Sie einer Aufgabe zuzuweisen.
 
 Aufgaben, die ich anderen zugewiesen habe
 
-Erstellen Sie einen Aufgabenbericht mit den gewünschten Filtern. Gehen Sie dann zur Registerkarte Filter und klicken Sie auf In Textmodus wechseln . Fügen Sie diesen Code zu dem bereits vorhandenen hinzu:
+Erstellen Sie einen Aufgabenbericht mit beliebigen Filtern, wechseln Sie dann zur Registerkarte Filter und klicken Sie auf Zum Textmodus wechseln . Fügen Sie diesen Code zu dem hinzu, was bereits vorhanden ist:
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
@@ -190,7 +190,7 @@ EXISTS:1:taskID=FIELD:ID
 EXISTS:1:assignedByID=$$USER.ID
 ```
 
-Auf diese Weise werden alle Aufgaben angezeigt, denen der angemeldete Benutzer mindestens einen der aktuellen Verantwortlichen zugewiesen hat. Wenn die Zuweisung von mehreren Benutzern erfolgt ist, wird nur der Name der ersten Person, der die Person zugewiesen hat, auf der Aufgabenlandeseite als &quot;Anfordert von&quot;angezeigt. Wenn Sie alle zugewiesenen Personen sehen möchten und die ihnen jeweils eine Spalte zugewiesen haben, können Sie eine Spalte zu Ihrer Ansicht hinzufügen, wechseln Sie in den Textmodus und ersetzen Sie das vorhandene Element durch Folgendes:
+Dadurch werden alle Aufgaben angezeigt, bei denen der angemeldete Benutzer mindestens einem der aktuellen Bearbeiter zugewiesen hat. Wenn Verantwortliche von mehreren Personen zugewiesen wurden, wird nur der Name der ersten Person, die die Person zugewiesen hat, auf der Landingpage der Aufgabe als „Angefordert von“ angezeigt. Wenn Sie alle zugewiesenen Personen und Personen anzeigen möchten, die sie zugewiesen haben, können Sie Ihrer Ansicht eine Spalte hinzufügen, in den Textmodus wechseln und alles, was dort vorhanden ist, durch diese ersetzen:
 
 ```
 displayname=All Assignees and Requesters
@@ -202,15 +202,15 @@ valueexpression=CONCAT("Assigned To: ",{assignedTo}.{name},"; Requested By: ",{a
 valueformat=HTML
 ```
 
-Aufgaben, die mir zugewiesen sind
+Mir zugewiesene Aufgaben
 
-Es gibt einen integrierten Bericht mit dem Namen &quot;My Tasks&quot;, der alle unvollständigen Aufgaben für aktuelle Projekte anzeigt, in denen Sie der Aufgabenbesitzer sind. Ich schlage vor, dass Sie den Filter so ändern, dass alle Aufgaben angezeigt werden, denen Sie eine der potenziell vielen zugewiesenen Benutzer sind, nicht nur der Aufgabenbesitzer. Entfernen Sie dazu die Filterregel
+Es gibt einen integrierten Bericht mit dem Namen „Meine Aufgaben“, der Ihnen alle unvollständigen Aufgaben in aktuellen Projekten zeigt, in denen Sie der Aufgabenbesitzer sind. Ich schlage vor, dass Sie den Filter ändern, um Ihnen alle Aufgaben anzuzeigen, bei denen Sie einer der potenziell vielen zugewiesenen Benutzer sind, nicht nur der Aufgabenbesitzer. Entfernen Sie dazu die Filterregel
 
 ```
 Task > Assigned To ID > Equal > $$USER.ID 
 ```
 
-und ersetzt sie durch
+und durch ersetzt
 
 ```
 Assignment Users > ID > Equal > $$USER.ID
@@ -218,60 +218,60 @@ Assignment Users > ID > Equal > $$USER.ID
 
 **Frage**
 
-Gibt es eine Möglichkeit, Beschriftungen in Diagrammen anzupassen? Ich habe festgestellt, dass bei der Erstellung eines Diagramms, das den Projektstatus widerspiegelt, der Name der Startseite schließlich in die Beschriftung aufgenommen wird.
+Gibt es eine Möglichkeit, Beschriftungen in Diagrammen anzupassen? Ich habe festgestellt, dass, wenn ich ein Diagramm erstellt habe, um den Projektstatus widerzuspiegeln, der Name der Hauptgruppe letztendlich in der Beschriftung enthalten ist.
 
 **Antwort**
 
-Beschriftungen in Diagrammen verwenden den Feldnamen der Gruppe. Die einzige Möglichkeit, die Beschriftungen zu ändern, besteht darin, ein berechnetes benutzerdefiniertes Feld mit dem gewünschten Namen zu verwenden. Geben Sie im Berechnungsabschnitt des Felds den Feldnamen des nativen Felds ein, nach dem Sie eine Gruppe bilden möchten.
+Beschriftungen in Diagrammen verwenden den Feldnamen des Elements, nach dem Sie gruppieren. Die einzige Möglichkeit, die Beschriftungen zu ändern, besteht also darin, ein berechnetes benutzerdefiniertes Feld mit einem beliebigen Namen zu verwenden. Fügen Sie im Abschnitt Berechnung des Felds den Feldnamen des nativen Felds ein, nach dem Sie gruppieren möchten.
 
 **Frage**
 
-Wie können Sie den Code der Berichtbalken auf Chuck&#39;s Team Assignements farblich markieren? Ich bin z.B. gelb für hinten, rot für spät und grün für pünktlich? Können Sie die Reihenfolge auch logischer ändern, d. h. rot/gelb/grün oder umgekehrt?
+Wie können Sie die Berichtsbalken für Chucks Team-Arbeitsaufträge farblich kennzeichnen? D.h. Bernstein für hinten, Rot für spät &amp; Grün für pünktlich? Können Sie auch die Reihenfolge ändern, sodass sie logischer ist, d. h. rot/bernsteinfarben/grün oder umgekehrt?
 
 **Antwort**
 
-Um die Farben zu ändern, die im Bericht für die Fortschrittsstatus-Optionen verwendet werden, bearbeiten Sie den Bericht und klicken Sie auf die Registerkarte Diagramm . Suchen Sie nach der Dropdown-Liste &quot;Benutzerdefinierte Farben >&quot;. Sie wird neben dem Feld &quot;Linke (Y) Achse&quot;oder dem Feld &quot;Gruppieren von Daten nach&quot;angezeigt, je nachdem, ob Sie Spalten oder Balken gruppieren möchten oder nicht. In dieser Dropdown-Liste können Sie Farben auswählen. Wenn Sie auf die Zahlen unten rechts der Farboptionen klicken, können Sie Ihre Farbe aus einer größeren Palette auswählen.
+Um die im Bericht verwendeten Farben für die Optionen des Fortschrittsstatus zu ändern, bearbeiten Sie den Bericht und klicken Sie auf die Registerkarte Diagramm . Suchen Sie nach der Dropdown-Liste „Benutzerdefinierte Farben >&quot;. Er wird neben dem Feld „Linke Achse (Y)“ oder dem Feld „Daten gruppieren nach“ angezeigt, je nachdem, ob Sie Spalten oder Balken gruppieren möchten oder nicht. In dieser Dropdown-Liste können Sie Farben auswählen. Wenn Sie auf die Zahlen unten rechts in den Farboptionen klicken, können Sie Ihre Farbe aus einer größeren Palette auswählen.
 
-Leider lässt sich die Reihenfolge nicht ändern.
+Leider lässt sich die Reihenfolge dieser Felder nicht ändern.
 
 **Frage**
 
-Können Sie ein Diagramm erstellen, in dem auf die Anzahl der Projekte verwiesen wird, denen einem Worker eine Aufgabe zugewiesen wurde?
+Können Sie ein Diagramm erstellen, das auf die Anzahl der Projekte verweist, denen ein Worker eine Aufgabe zugewiesen wird?
 
 **Antwort**
 
-Ja, wie folgt:
+Ja, so geht&#39;s:
 
 * Erstellen eines Projektberichts
-* Wenn der fragliche Benutzer der angemeldete Benutzer ist, sollte der Filter die folgende Zeile enthalten:
+* Wenn der betreffende Benutzer der angemeldete Benutzer ist, sollte der Filter diese Zeile enthalten:
 
 ```
    Project Users > ID > Equal >$$USER.ID 
 ```
 
-* Wenn nicht, setzen Sie den Benutzernamen an die Stelle von [!DNL $$USER.ID]. Dadurch werden alle Projekte angezeigt, bei denen diese Person mit einer Aufgabe betraut ist oder der Eigentümer oder Sponsor ist. Wenn Sie nur Projekte sehen möchten, denen Aufgaben zugewiesen sind, sollten Sie diese beiden zusätzlichen Filterregeln hinzufügen:
+* Wenn nicht, setzen Sie den Benutzernamen an die Stelle von [!DNL $$USER.ID]. Dadurch werden alle Projekte angezeigt, denen diese Person eine Aufgabe zugewiesen wurde oder deren Eigentümer oder Sponsor sie ist. Wenn Sie nur Projekte anzeigen möchten, denen Aufgaben zugewiesen sind, sollten Sie diese beiden zusätzlichen Filterregeln hinzufügen:
 
 ```
    Project > Owner ID > Not Equal > $$USERID
    Project > Sponsor ID > Not Equal > $$USERID
 ```
 
-* Erstellen Sie mindestens eine Gruppierung, um ein Diagramm zu erstellen. Gruppieren Sie zu allem, zum Beispiel zu Unternehmen. Klicken Sie dann auf die Registerkarte Diagramm und wählen Sie ein Diagramm aus. &quot;Datensatzanzahl&quot;ist die Standardeinstellung für eine Achse. Dies ist die Anzahl der Projekte, in denen der Benutzer eine Zuweisung hat.
+* Erstellen Sie mindestens eine Gruppierung, damit Sie ein Diagramm erstellen können. Gruppieren Sie alles, wie die Firma. Klicken Sie dann auf die Registerkarte Diagramm und wählen Sie ein Diagramm aus. „Datensatzanzahl“ ist der Standard für eine Achse. Dies ist die Anzahl der Projekte, denen der Benutzer einen Arbeitsauftrag zugewiesen hat.
 
-Wenn einem Benutzer eine Zuweisung zu einem Projekt zugewiesen wird (das einer Aufgabe, einem Projekteigentümer oder einem Projektsponsor zugewiesen ist), wird diese Person zum Projektteam hinzugefügt und kann auf der Registerkarte &quot;Staffing&quot;auf der Unterregisterkarte &quot;Personen&quot;angezeigt werden. Wenn ein Benutzer nicht mehr der Projekteigentümer, Sponsor oder eine Aufgabenzuweisung ist, liegt sein Name weiterhin im Projektteam. Sie muss manuell entfernt werden, wenn sie entfernt werden soll. Beachten Sie, dass dies die Genauigkeit Ihrer Berichtsergebnisse beeinträchtigen könnte. Um eine Person aus dem Projektteam zu entfernen, gehen Sie zu Personal > Personen , wählen Sie die Person(en) aus und klicken Sie dann auf die Schaltfläche Entfernen , die über der Liste angezeigt wird.
-
-**Frage**
-
-Wie kann die absteigende Reihenfolge einer Spalte im Textmodus (in einer Gruppierung) geändert werden?
-
-**Antwort**
-
-Sie können die meisten Spalten auf der Registerkarte Spalten (Ansicht) beim Erstellen eines Berichts sortieren. Wenn keine Gruppierungen vorhanden sind, wird der gesamte Listenbericht sortiert. Wenn Sie Gruppierungen haben, werden diese in jeder Gruppierung nach der gewünschten Auswahl sortiert.
+Wenn einem Benutzer ein Arbeitsauftrag für ein Projekt erteilt wird (der einer Aufgabe oder einem Projektbesitzer oder Projektsponsor zugewiesen ist), wird diese Person zum Projektteam hinzugefügt und kann auf der Registerkarte „Personal“ unter der Unterregisterkarte „Personen“ angezeigt werden. Wenn ein(e) Benutzende(r) vom Status als Projektbesitzer, Sponsor oder mit Aufgabenzuweisungen entfernt wird, ist sein Name noch im Projektteam. Sie muss manuell entfernt werden, wenn Sie sie entfernen möchten. Beachten Sie, dass sich dies auf die Genauigkeit Ihrer Berichtsergebnisse auswirken kann. Um jemanden aus dem Projektteam zu entfernen, gehen Sie zu Personal > Personen, wählen Sie die Person(en) aus und klicken Sie dann auf die Schaltfläche Entfernen , die über der Liste angezeigt wird.
 
 **Frage**
 
-Wie kann ich eine Spalte erstellen, die Teammitglieder identifiziert, die einer Genehmigungsphase zugewiesen sind?
+Wie kann man die absteigende Reihenfolge einer Spalte im Textmodus (in einer Gruppierung) ändern?
 
 **Antwort**
 
-Wenn Sie einen Bericht &quot;Aufgabe&quot;oder &quot;Problem/Anfrage&quot;ausführen, ist im Report Builder eine Spalte namens &quot;Genehmiger und Status&quot;verfügbar, die diese Informationen abruft.
+Sie können beim Erstellen eines Berichts auf der Registerkarte „Spalten (Ansicht)“ die meisten Spalten sortieren. Dadurch wird Ihr gesamter Listenbericht sortiert, wenn Sie keine Gruppierungen haben. Wenn Sie Gruppierungen haben, wird innerhalb jeder Gruppierung nach dieser Auswahl sortiert.
+
+**Frage**
+
+Wie kann ich eine Spalte erstellen, in der die Team-Mitglieder identifiziert werden, die einer Genehmigungsphase zugewiesen sind?
+
+**Antwort**
+
+Wenn Sie einen Aufgaben- oder Problem-/Anfragebericht ausführen, ist im Report Builder eine Spalte mit dem Namen „Genehmiger und Status“ verfügbar, über die diese Informationen abgerufen werden.

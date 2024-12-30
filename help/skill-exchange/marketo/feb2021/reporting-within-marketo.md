@@ -1,6 +1,6 @@
 ---
-title: Berichterstellung innerhalb von [!DNL Marketo Engage]
-description: Machen Sie sich mit den Berichterstellungsfunktionen auf hoher Ebene in [!DNL Marketo Engage] vertraut und vertiefen Sie sich in Berichte und intelligente Listen.
+title: Berichte innerhalb von [!DNL Marketo Engage]
+description: Verschaffen Sie sich einen Überblick über die Reporting-Funktionen auf hoher Ebene in  [!DNL Marketo Engage] und erhalten Sie einen tiefen Einblick in Berichte und Smart Lists.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,9 +15,9 @@ ht-degree: 3%
 
 ---
 
-# Berichterstellung innerhalb von [!DNL Marketo Engage]
+# Reporting innerhalb von [!DNL Marketo Engage]
 
-In dieser Sitzung werden alle in [!DNL Marketo Engage] verfügbaren Reporting-Tools vorgestellt, darunter:
+In dieser Sitzung werden alle in [!DNL Marketo Engage] verfügbaren Reporting-Tools überprüft, einschließlich:
 
 * Berichte
 * Smart-Listen
@@ -26,10 +26,10 @@ In dieser Sitzung werden alle in [!DNL Marketo Engage] verfügbaren Reporting-To
 * Email Insights
 * Umsatz-Explorer
 * Berichtstyp - Übersicht
-* Globale Berichte (Analysen) vs. lokale Berichte (Marketingaktivitäten)
-* Verwendung von Standardberichten im Vergleich zu Smart-Listen
+* Globale Berichte (Analytics) vs. Lokale Berichte (Marketing-Aktivitäten)
+* Verwendung von Standardberichten im Vergleich zu Smart Lists
 * Abonnements
 
-Sie verlassen diese Sitzung mit einem Verständnis der Berichterstellungsfunktionen auf hoher Ebene innerhalb von [!DNL Marketo Engage] und einem tiefen Einblick in Berichte und intelligente Listen.
+Nach dieser Sitzung erhalten Sie einen Einblick in die Reporting-Funktionen auf hoher Ebene in [!DNL Marketo Engage] und einen tiefen Einblick in Berichte und Smart Lists.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340309/?quality=12&learn=on)

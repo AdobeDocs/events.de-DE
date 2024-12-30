@@ -1,6 +1,6 @@
 ---
-title: Projektdaten und -zeitpläne verwalten
-description: Ob Sie von Natur aus prozessorientiert sind, oder ein "versehentlicher Projektmanager", der ein fundiertes Verständnis von Zeitplänen und Datumsbegrenzungen besitzt, ist für die Planung und Ausführung von Arbeiten in Workfront von entscheidender Bedeutung.
+title: Termine und Timelines der Projekte verwalten
+description: Ob Sie von Natur aus prozessorientiert sind oder ein „zufälliger Projektmanager“, ein solides Verständnis von Timelines und Datumsbeschränkungen ist der Schlüssel zur Planung und Ausführung von Arbeit in Workfront.
 solution: Workfront
 role: User
 level: Beginner
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ---
 
-# Projektdaten und -zeitpläne verwalten
+# Termine und Timelines der Projekte verwalten
 
-Ob Sie von Natur aus prozessorientiert sind, oder ein &quot;versehentlicher Projektmanager&quot;, der ein fundiertes Verständnis von Zeitplänen und Datumsbegrenzungen besitzt, ist für die Planung und Ausführung von Arbeiten in Workfront von entscheidender Bedeutung.
+Ob Sie von Natur aus prozessorientiert sind oder ein „zufälliger Projektmanager“, ein solides Verständnis von Timelines und Datumsbeschränkungen ist der Schlüssel zur Planung und Ausführung von Arbeit in Workfront.
 
-Nehmen Sie an Chris Knittle, Leiter Training und Versand bei Workfront teil, um Folgendes zu erfahren:
+Seien Sie dabei, wenn Chris Knittle, Manager of Training and Delivery bei Workfront, Folgendes hört:
 
-* In Workfront verfügbare Datumstypen, einschließlich geplanter, tatsächlicher, prognostizierter, bindender und geschätzter Daten.
-* Die Grundlagen der Aufgabendauer und -vorherigen
+* In Workfront verfügbare Datentypen, einschließlich geplanter, tatsächlicher, prognostizierter, Commit- und geschätzter Datumsangaben.
+* Grundlagen der Aufgabendauer und der Vorgänger
 * Einführung in Aufgabenbeschränkungen
 
 >[!VIDEO](https://video.tv.adobe.com/v/Cannot find MPC Link/?quality=12&amp;learn=on)

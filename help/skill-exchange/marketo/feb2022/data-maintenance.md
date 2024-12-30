@@ -1,6 +1,6 @@
 ---
-title: Datenwartung Einfache angewandte Methoden zur Beibehaltung der wichtigsten Asset-Bereinigung
-description: Einfache, eingeführte Methoden, um Ihre wichtigsten Assets sauber zu halten
+title: Datenwartung Einfach eingesetzte Methoden, um Ihr wichtigstes Asset sauber zu halten
+description: Einfach angewandte Methoden, um das wichtigste Asset sauber zu halten
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 ---
 
-# Datenwartung - Einfache, eingeführte Methoden zur Beibehaltung der wichtigsten Asset-Bereinigung
+# Datenwartung - Einfach eingesetzte Methoden, um Ihr wichtigstes Asset sauber zu halten
 
-In dieser Sitzung lernen Sie Folgendes:
+In dieser Sitzung lernen Sie:
 
-* Wie Menschen, Prozesse, Technologien zusammenkommen, um &quot;saubere Daten&quot;zu erreichen
-* Einfache angewandte Methoden, um Ihre wertvollsten Assets sauber zu halten
-* Überwachte Benachrichtigungen zur Überprüfung
+* Wie Menschen, Prozesse und Technologien zusammenarbeiten, um „saubere Daten“ zu erzielen
+* Einfach angewandte Methoden, um Ihr wertvollstes Asset sauber zu halten
+* Zu prüfende Benachrichtigungen
 
 >[!VIDEO](https://video.tv.adobe.com/v/340596/?quality=12&learn=on)

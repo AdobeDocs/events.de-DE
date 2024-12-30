@@ -1,6 +1,6 @@
 ---
-title: Workfront Fusion und Motherboards - Ein leistungsstarkes Produktivitäts-Paarungsverhältnis
-description: ein praktisches Szenario für die Workflow-Automatisierung mit Workfront Fusion, einer leistungsstarken, nativen Integrationsplattform as a Service (iPaaS)-Lösung. Das Szenario? Automatisierung der Erstellung eines Standardboards, vorkonfiguriert mit Tags und Spalten. In dieser Sitzung lernen Sie - 1. Verwenden Sie vorgefertigte Fusion-Vorlagen, um Ihre Prozessautomatisierungsentwicklung zu starten 2. Erstellen Sie Ihre eigene benutzerdefinierte Motherboard-Vorlage mit Fusion 3. Weitere Informationen zu Fusion-Szenarien, die Sie dazu inspirieren, Ihre wichtigsten Workflows zu verbinden oder zu automatisieren
+title: Workfront Fusion und Boards - eine leistungsstarke Produktivitätspaarung
+description: ein praktisches Workflow-Automatisierungsszenario mit Workfront Fusion, einer leistungsstarken, nicht auf Code basierenden Integrationsplattform als Service (iPaaS)-Lösung. Das Szenario? Automatisieren der Erstellung einer standardmäßigen Pinnwand, vorkonfiguriert mit Tags und Spalten. In dieser Sitzung erfahren Sie, wie Sie - 1. Verwenden Sie vorgefertigte Fusion-Vorlagen, um die Entwicklung der Prozessautomatisierung zu beschleunigen 2. Erstellen Sie Ihre eigene benutzerdefinierte Pinnwand-Vorlage mit Fusion 3. Machen Sie mehr mit Fusion-Szenarien, die Sie dazu inspirieren werden, Ihre wichtigsten Workflows zu verbinden oder zu automatisieren
 solution: Workfront
 role: User
 level: Beginner
@@ -8,22 +8,22 @@ doc-type: Event
 duration: 2414
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16104
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+exl-id: 05c64912-9aad-4555-ab48-4066d1ad9564
+source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
+# Workfront Fusion + Boards: Eine leistungsstarke Produktivitätskombination
 
-# Workfront Fusion + Motherboards: Leistungsstarke Produktivitäts-Kopplung
+Workfront Fusion ist für sich genommen automatisierbar und ermöglicht Prozessautomatisierungen und -integrationen ohne großen Aufwand und ohne eine große Anzahl von Entwicklern. Aber mit Boards zusammenarbeiten? Es ist ein Match im Produktivitätshimmel!
 
-Workfront Fusion allein ist automatisiert und ermöglicht automatisierte Prozesse und Integrationen, ohne dass eine Flotte von Entwicklern erforderlich ist. Aber vereinen Sie es mit Foren? Es ist ein Spiel, das im ProduktivitätsHimmel gemacht wurde!
+Ewan Hruska, Senior Customer Success Architect (und früherer Kunde), und German Batiston, Product Manager, von Adobe, führen Sie durch ein praktisches Workflow-Automatisierungsszenario mit Workfront Fusion, einer leistungsstarken, kodefreien Integrationsplattform als Service (iPaaS)-Lösung. Das Szenario? Automatisieren der Erstellung einer standardmäßigen Pinnwand, vorkonfiguriert mit Tags und Spalten. In dieser Sitzung erfahren Sie, wie Sie:
 
-Ewan Hruska, Senior Customer Success Architect (und früherer Kunde) und der deutsche Batiston, Produktmanager bei Adobe, führen Sie mit Workfront Fusion, einer leistungsstarken, codierten Integrationsplattform as a Service (iPaaS)-Lösung, durch ein praktisches Automatisierungsszenario bei Workflows. Das Szenario? Automatisierung der Erstellung eines Standardboards, vorkonfiguriert mit Tags und Spalten. In dieser Sitzung lernen Sie Folgendes:
-
-1. Verwenden Sie vorgefertigte Fusion-Vorlagen, um Ihre Prozessautomatisierungsentwicklung zu starten.
-2. Erstellen Sie Ihre eigene benutzerdefinierte Motherboard-Vorlage mit Fusion.
-3. Weitere Informationen zu Fusion-Szenarien, die Sie dazu inspirieren, Ihre wichtigsten Workflows zu verbinden oder zu automatisieren
+1. Verwenden Sie vorgefertigte Fusion-Vorlagen, um die Entwicklung der Prozessautomatisierung zu beschleunigen
+2. Eigene benutzerdefinierte Board-Vorlage mit Fusion erstellen
+3. Machen Sie mehr mit Fusion-Szenarien, die Sie dazu inspirieren werden, Ihre wichtigsten Workflows zu verbinden oder zu automatisieren
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433219/?learn=on)

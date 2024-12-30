@@ -1,6 +1,6 @@
 ---
-title: IT-Workflows und -Genehmigungen (6. Juni 2020)
-description: Diane Kubarek und Heather Verschneider teilen ihre Erfahrungen mit der Umsetzung eines IT-Projektmanagementprozesses an der Cornell University.
+title: IT-Workflows und Genehmigungen (6. Juni 2020)
+description: Diane Kubarek und Heather Verschneider berichten über ihre Erfahrungen bei der Implementierung eines IT-Projekt-Governance-Prozesses an der Cornell University.
 role: User
 level: Beginner, Intermediate
 kt: 10000
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# IT-Workflows und -Genehmigungen (6. Juni 2020)
+# IT-Workflows und Genehmigungen (6. Juni 2020)
 
-Diane Kubarek und Heather Verschneider teilen ihre Erfahrungen mit der Umsetzung eines IT-Projektmanagementprozesses an der Cornell University.
+Diane Kubarek und Heather Verschneider berichten über ihre Erfahrungen bei der Implementierung eines IT-Projekt-Governance-Prozesses an der Cornell University.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341219/?quality=12&learn=on)

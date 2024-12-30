@@ -1,6 +1,6 @@
 ---
-title: Experten fragen - Best Practices für Workfront Proof im Nachgang
-description: Erfahren Sie, warum Sie automatisierte Workflow-Vorlagen verwenden sollten, wie Sie diese erstellen und wie Sie die Testversandeinstellungen anpassen, um den Datenschutz zu gewährleisten. Dieses Webinar wurde am 4. März 2020 aufgenommen.
+title: Fragen an Experten - Follow-up zu Best Practices für Workfront Proof
+description: Erfahren Sie, warum Sie automatisierte Workflow-Vorlagen verwenden sollten, wie Sie sie erstellen und wie Sie die Testversandeinstellungen anpassen können, um den Datenschutz sicherzustellen. Dieses Webinar wurde am 4. März 2020 aufgezeichnet.
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 ---
 
-# Experten fragen - Best Practices für Workfront Proof im Nachgang
+# Fragen an Experten - Follow-up zu Best Practices für Workfront Proof
 
-Erfahren Sie, warum Sie automatisierte Workflow-Vorlagen verwenden sollten, wie Sie diese erstellen und wie Sie die Testversandeinstellungen anpassen, um den Datenschutz zu gewährleisten. Dieses Webinar wurde am 4. März 2020 aufgenommen.
+Erfahren Sie, warum Sie automatisierte Workflow-Vorlagen verwenden sollten, wie Sie sie erstellen und wie Sie die Testversandeinstellungen anpassen können, um den Datenschutz sicherzustellen. Dieses Webinar wurde am 4. März 2020 aufgezeichnet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341123/?quality=12)
 
@@ -23,75 +23,75 @@ Erfahren Sie, warum Sie automatisierte Workflow-Vorlagen verwenden sollten, wie 
 
 **Frage**
 
-Es scheint, dass unsere Instanz beim Hochladen von Dokumenten automatisch Testsendungen generiert. Gibt es eine Möglichkeit, diese Funktion zu aktivieren/deaktivieren?
+Es scheint, dass unsere Instanz beim Hochladen von Dokumenten automatisch Korrekturabzüge generiert. Gibt es eine Möglichkeit, diese Funktion zu aktivieren/deaktivieren?
 
 **Antwort**
 
-Ja, diese Einstellung kann in Ihrem persönlichen Profil deaktiviert werden. Wenn Sie unter Einstellungen > Voreinstellungen auf klicken, wird das Kontrollkästchen &quot;Beim Hochladen von Dokumenten automatisch Testsendungen generieren&quot;aktiviert, das aktiviert oder deaktiviert werden kann.
+Ja, diese Einstellung kann in Ihrem persönlichen Profil deaktiviert werden. Wenn Sie auf Meine Einstellungen > Voreinstellungen klicken, gibt es ein Kontrollkästchen für „Beim Hochladen von Dokumenten automatisch Korrekturabzüge generieren“, das aktiviert oder deaktiviert werden kann.
 
 **Frage**
 
-Können Sie einen Workflow mit leeren Bühnen erstellen, damit Sie einzelne Elemente ausfüllen können, nachdem Sie ihn angehängt haben, damit mehrere Teams einen Fluss verwenden können?
+Können Sie Workflows erstellen, die leere Phasen enthalten, damit Sie nach dem Anhängen Einzelpersonen ausfüllen können, damit mehrere Teams einen Fluss verwenden können?
 
 **Antwort**
 
-Ja, automatisierte Workflow-Vorlagen können leere Phasen aufweisen, sodass je nach verwendetem Team verschiedene Benutzer hinzugefügt werden können.
+Ja, automatisierte Workflow-Vorlagen können leere Phasen enthalten, sodass je nach Team, das sie verwendet, verschiedene Benutzer hinzugefügt werden können.
 
 **Frage**
 
-In unserem Anwendungsfall lädt der Designer das Dokument hoch, doch der Kundenbetreuer generiert den Testversand und richtet den Validierungsfluss ein. Wenn eine neue Version benötigt wird, fügt der Designer die Version nur als Dokument hinzu und der Prozess beginnt von vorn. Gibt es eine Möglichkeit, den Testversand weiterhin vom Kundenbetreuer verwalten zu lassen und den Designer die Versionierung zu verwalten, ohne den Ablauf jedes Mal erstellen zu müssen, wenn Sie den neuen Testversand generieren?
+In unserem Anwendungsfall lädt der Designer das Dokument hoch, aber der Account Manager generiert den Korrekturabzug und richtet den Genehmigungsfluss ein. Wenn eine neue Version benötigt wird, fügt Designer die Version nur als Dokument hinzu und der Prozess beginnt von vorne. Gibt es eine Möglichkeit, den Korrekturabzugsfluss weiterhin vom Account Manager und die Versionierung vom Designer verwalten zu lassen, ohne den Fluss bei jeder Erstellung des neuen Korrekturabzugs erstellen zu müssen?
 
 **Antwort**
 
-Wenn Sie die Designer mit einer Zugriffsebene für Workfront einrichten, erhalten die Benutzer eine Testlizenz. Wenn ihre Testversandlizenz auf &quot;Supervisor&quot;oder &quot;Administrator&quot;festgelegt ist, können sie neue Versionen von Testsendungen erstellen, ohne den Kundenbetreuer dazu zu bewegen, die neue Version zu konvertieren und einen Workflow anzuwenden. Die neue Version übernimmt lediglich den Workflow aus der vorherigen Version (und kann jetzt auch geändert oder geändert werden).
+Wenn Sie die Designer mit einer Zugriffsebene „Arbeit“ oder „Plan“ in Workfront einrichten, erhalten diese eine Proofing-Lizenz. Wenn ihre Proofing-Lizenz auf „Supervisor“ oder „Administrator“ festgelegt ist, können neue Versionen von Korrekturabzügen erstellt werden, ohne dass der Account Manager die neue Version konvertieren und einen Workflow anwenden muss. Die neue Version übernimmt nur den Workflow aus der vorherigen Version (und kann zu diesem Zeitpunkt auch geändert oder geändert werden).
 
 **Frage**
 
-Was wird für &quot;E-Mail-Warnungen&quot;empfohlen? Entscheidungen oder alle Ausschreibungen?
+Was wird für „E-Mail-Warnhinweise“ empfohlen? Entscheidungen oder alle Warnhinweise?
 
 **Antwort**
 
-Ich empfehle dem Testversand-Ersteller/-eigentümer für die E-Mail-Warnung &quot;Entscheidungen&quot;. Ich empfehle allen anderen Testversand-Empfängern für ihren E-Mail-Warnhinweis den Wert &quot;Deaktiviert&quot;(obwohl der E-Mail-Warnhinweis auf &quot;Deaktiviert&quot;gesetzt ist, erhalten sie trotzdem Benachrichtigungen zu Neuem Testversand, Neuer Version, verspätetem Testversand und @Erwähnung-E-Mail). Durch diese Konfiguration wird sichergestellt, dass die E-Mail-Warnungen auf ein Minimum begrenzt werden und E-Mails erhalten bleiben.
+Ich empfehle, dass die Erstellerin bzw. der Besitzer des Korrekturabzugs für ihren E-Mail-Warnhinweis auf „Entscheidungen“ eingestellt ist. Ich empfehle allen anderen Testversand-Empfängern für ihren E-Mail-Warnhinweis die Einstellung „Deaktiviert“ (obwohl der E-Mail-Warnhinweis auf „Deaktiviert“ eingestellt ist, erhalten sie dennoch Benachrichtigungen zu neuen Korrekturabzügen, neuer Version, verspätetem Korrekturabzug und @Mention E-Mail). Dadurch wird sichergestellt, dass die E-Mail-Warnhinweise zielgerichtet eingerichtet werden und die E-Mail-Adresse auf ein Minimum beschränkt bleibt.
 
 **Frage**
 
-Können Sie den Eigentümer des Testversands ändern, der bei der Entscheidungsfindung benachrichtigt wird? Wir versuchten, das Testodierungs-Tool zu verwenden, konnten jedoch den Dokumenteigentümer nicht von der Person ändern, die das Originaldokument hochgeladen hat. Beispiel: Ein Marketing-Manager hat das Originaldokument hochgeladen, aber es war ein Marketing-Spezialist, der letztendlich für die Entscheidungsfindung und die Durchführung von Änderungen verantwortlich war.
+Sind Sie in der Lage, den Verantwortlichen für den Korrekturabzug zu ändern, der benachrichtigt wird, wenn die Entscheidungen getroffen werden? Wir haben versucht, das Proofing-Tool zu verwenden, konnten jedoch nicht den Dokumentbesitzer in der Person ändern, die das Originaldokument hochgeladen hat. Beispiel: Ein Marketing-Manager hat das Originaldokument hochgeladen, aber es war ein Marketing-Spezialist, der letztendlich für das Abrufen von Entscheidungen und das Vornehmen von Änderungen verantwortlich war.
 
 **Antwort**
 
-Um den Testversand-Besitzer zu ändern, gehen Sie wie folgt vor: Dokumente > Testversand auswählen > Klicken Sie auf &quot;Testversand-Details&quot; > Suchen Sie im Fenster der Testversanddetails den Empfänger, den Sie zum Testversand-Inhaber machen möchten. Klicken Sie auf die Schaltfläche Testversand und wählen Sie &quot;Inhaber&quot;.
+Um den/die Verantwortliche(n) des Korrekturabzugs zu ändern, müssen Sie diesem Pfad folgen: Dokumente > Wählen Sie den Korrekturabzug aus > Klicken Sie im Fenster mit den Korrekturabzugsdetails auf „Korrekturabzugsdetails“ > Suchen Sie den Empfänger, der/die Sie zum Verantwortlichen für den Korrekturabzug machen möchten > Klicken Sie auf die Schaltfläche mit den Auslassungspunkten für diesen Empfänger und wählen Sie „Verantwortlichen erstellen“ aus.
 
 **Frage**
 
-Gibt es eine Verfolgung der Anzahl der Runden von Überprüfungen?
+Gibt es eine Nachverfolgung der Anzahl der Rezensionsrunden, die stattgefunden haben?
 
 **Antwort**
 
-In der Regel entsprechen die Revisionsrunden der Anzahl der Testversandversionen.
+In der Regel entsprechen Revisionsrunden der Anzahl der Korrekturabzugsversionen.
 
 **Frage**
 
-Kann eine Person in mehr als einer Bühne sein? Mit anderen Worten, wenn wir einen Manager in einem frühen Prüfungszyklus haben, der eine abschließende Überprüfung in einem späteren Stadium durchführt, wie würden wir das einrichten?
+Kann sich eine Person in mehr als einem Stadium befinden? Mit anderen Worten, wenn wir einen Manager in einem frühen Überprüfungszyklus haben, der die abschließende Überprüfung in einer späteren Phase hat, wie würden wir das einrichten?
 
 **Antwort**
 
-Sie können einen Testversand-Empfänger zwar nicht zu mehr als einer Testphase eines Testversands hinzufügen, aber sobald die Phase der Überprüfung, in der er sich befindet, aktiviert ist, befinden sie sich in den restlichen Phasen des Testversands dieser Version. Dies würde es ihnen ermöglichen, Kommentare weiter zu kommentieren und zu beantworten, auch wenn andere Phasen begonnen haben. Um sicherzustellen, dass dies funktioniert, müssen Sie sicherstellen, dass keine Bühnen gesperrt werden, wenn die neue Phase beginnt.
+Sie können einen Testversand-Empfänger zwar nicht zu mehr als einem Überprüfungsschritt zu einem Testversand hinzufügen, aber sobald der Überprüfungsschritt, in dem er sich befindet, aktiviert wurde, befindet er sich auf dem Testversand für die verbleibende Version. Auf diese Weise könnten sie weiterhin Kommentare abgeben und auf Kommentare antworten, auch wenn andere Phasen bereits begonnen haben. Um sicherzustellen, dass dies funktioniert, müssen Sie sicherstellen, dass Sie beim Starten des neuen Schritts keine Stadien haben.
 
 **Frage**
 
-Können Sie bestehende Workflows bearbeiten?
+Können vorhandene Workflows bearbeitet werden?
 
 **Antwort**
 
-Ja, Sie möchten zu Workfront Proof navigieren und dann im Menü auf der linken Seite die Option Workflows auswählen. Dort können Sie Bühnen bearbeiten, Benutzer hinzufügen, Benutzer entfernen, Bühnen hinzufügen usw.
+Ja, Sie können zu Workfront Proof navigieren und dann im Menü links Workflows auswählen. Dort können Sie Stadien bearbeiten, Benutzer hinzufügen, Benutzer entfernen, Stadien hinzufügen usw.
 
 **Frage**
 
-Hat der Genehmigungs-Workflow eines Dokuments für den Testversand einen besonderen Vorteil gegenüber der Aufgabe? Wir haben es so eingerichtet, dass es in der Aufgabe zur Dokument-/Kunstentwicklung enthalten ist. Wenn das Kunstwerk in einem beliebigen Stadium des Genehmigungsprozesses abgelehnt wird, wird die Aufgabe erneut ausgeführt, damit der zugewiesene Designer sie überarbeitet. So müssen wir nicht an zwei Orten arbeiten. Aber vielleicht vermisse ich etwas Wichtiges, wenn ich diesen Weg gehe.
+Hat der Genehmigungs-Workflow für ein Dokument im Korrekturabzug einen bestimmten Vorteil gegenüber der Aufgabe? Wir haben sie für die Aufgabe zur Dokument-/Kunstentwicklung eingerichtet. Wenn das Kunstwerk also in einem beliebigen Schritt des Genehmigungsprozesses abgelehnt wird, wird die Aufgabe wieder aktiviert, damit der zugewiesene Designer es überarbeiten kann. So müssen wir nicht an zwei Orten arbeiten. Aber vielleicht vermisse ich etwas Wichtiges über diesen Weg.
 
 **Antwort**
 
-Im Falle eines Testversands verwalten Sie den Validierungsprozess mithilfe der Testversand-Workflow-Engine. Auf diese Weise können Sie mithilfe des kollaborativen Testversand-Überprüfungstools Feedback, Kommentare, Markups, Entscheidungen und Bühnen sammeln. Sie können mehrere Workflow-Trigger verwenden, um den Testversand zu leiten, und Einstellungen verwenden, die für Testsendungen spezifisch sind, z. B. Sperren, Privatstadien und Primäre Entscheidungsträger. Sie können auch eindeutige Testversandrollen und eindeutige E-Mail-Benachrichtigungen zuweisen. Darüber hinaus haben Sie die Möglichkeit, so unterschiedliche Inhalte wie statische, Video- und interaktive Testsendungen (rund 150 verschiedene Dateitypen) zu überprüfen.
+Im Falle des Proofings verwalten Sie den Genehmigungsprozess mithilfe der Workflow-Engine für Korrekturabzüge. Auf diese Weise können Sie das Tool für die partizipative Überprüfung von Korrekturabzügen verwenden, um Feedback, Kommentare, Markierungen, Entscheidungen und Phasen zu sammeln. Sie haben die Möglichkeit, mehrere Workflow-Trigger zu verwenden, um den Korrekturabzug weiterzuleiten, und können Einstellungen verwenden, die nur für Korrekturabzugsschritte gelten, z. B. Sperren, private Phasen und Primäre Entscheidungsträger. Sie haben außerdem die Möglichkeit, eindeutige Korrekturabzug-Rollen und eindeutige E-Mail-Benachrichtigungen zu Korrekturabzügen zuzuweisen. Darüber hinaus haben Sie die Möglichkeit, so unterschiedliche Inhalte wie statische, Video- und interaktive Korrekturabzüge (etwa 150 verschiedene Dateitypen) zu überprüfen.
 
 **Frage**
 
@@ -99,87 +99,87 @@ Wer kann die Bühne auf eine private Bühne stellen? Nur Administratoren?
 
 **Antwort**
 
-Die Erstellung der Vorlage obliegt dem Administrator. Jeder Benutzer, der einen Testversand erstellen kann, kann die Bühne jedoch privat gestalten.
+Die Erstellung der Vorlage liegt in der Verantwortung des Administrators, aber jeder Benutzer, der einen Korrekturabzug erstellen kann, kann die Phase privat machen.
 
 **Frage**
 
-Ist der Termin in der E-Mail-Benachrichtigung enthalten?
+Ist die Frist in der E-Mail-Benachrichtigung enthalten?
 
 **Antwort**
 
-Ja, wenn Sie einen Testversand terminieren, wird dies in der E-Mail-Benachrichtigung angezeigt.
+Ja, wenn Sie eine Frist auf einen Korrekturabzug anwenden, wird dieser in der E-Mail-Benachrichtigung angezeigt.
 
 **Frage**
 
-Können Sie eine Vorlage für eine Proof-Gruppe freigeben?
+Können Sie eine Vorlage für eine Korrekturabzugsgruppe freigeben?
 
 **Antwort**
 
-Sie können jedoch feststellen, dass sie nur für Mitglieder der Gruppe freigegeben wird, die über Testlizenzen verfügen. Sie können Vorlagen nicht für Workfront-Benutzer oder -Gäste freigeben, die keine Testversandlizenzen besitzen.
+Sie können jedoch auch feststellen, dass sie nur für Mitglieder der Gruppe freigegeben werden, die Korrekturabzugslizenzen besitzen. Sie können Vorlagen nicht für Workfront-Benutzende oder Gäste freigeben, die keine Korrekturabzugslizenzen besitzen.
 
 **Frage**
 
-Wie wird ein Testversand an den Testversandinhaber umgeleitet, wenn er abgelehnt wird?
+Wie wird ein Korrekturabzug an den Besitzer des Korrekturabzugs weitergeleitet, wenn er abgelehnt wird?
 
 **Antwort**
 
-Der Testversand-Besitzer bleibt in allen Testsendungen auf dem Testversand. Wird der Testversand abgelehnt, muss der Testversand nicht an den Eigentümer zurückgesendet werden. Stattdessen wird der Testversand-Besitzer per E-Mail über die getroffene Entscheidung informiert, die Kommentare überprüfen und mit einer neuen Version beginnen.
+Der/die Testversand-Verantwortliche bleibt während aller Testversandphasen im Testversand. Wenn der Korrekturabzug abgelehnt wird, muss der Korrekturabzug selbst nicht an den Besitzer zurückgeleitet werden. Stattdessen wird der Verantwortliche des Korrekturabzugs per E-Mail über die getroffene Entscheidung benachrichtigt, die Kommentare überprüft und mit einer neuen Version begonnen.
 
 **Frage**
 
-Wie kann ich das &#39;Download&#39;-Dokument in Testversand deaktivieren/ausblenden?
+Wie kann ich das Dokument „Download“ im Korrekturabzug deaktivieren/ausblenden?
 
 **Antwort**
 
-Wenn Sie einen neuen Testversand hinzufügen, sollten Sie nach unten scrollen, bis Sie zu Testversandeinstellungen gelangen. Dort sehen Sie ein Kontrollkästchen für &quot;Original-Datei herunterladen&quot;, das Sie auswählen oder deaktivieren können.
+Wenn Sie einen neuen Korrekturabzug hinzufügen, scrollen Sie nach unten, bis Sie zu den Korrekturabzugseinstellungen gelangen. Dort wird ein Kontrollkästchen für „Original-Datei herunterladen“ angezeigt, das Sie aktivieren oder deaktivieren können?
 
 **Frage**
 
-Wie wirkt sich diese Datenschutzeinstellung in den Kontoeinstellungen auf die Testversand-Benutzer aus, die den automatisierten Vergleich (Seite für Seite mit automatischem Vergleich) verwenden? Verhindert die Einstellung der Standardeinstellung auf DISabled den Vergleich zweier Versionen durch Prüfer?
+Wie wirkt sich diese Datenschutzeinstellung in den Kontoeinstellungen auf Proofing-Benutzende aus, die speziell den automatisierten Vergleich verwenden (Seite an Seite mit automatischem Vergleich) - Verhindert die Standardeinstellung auf DEAKTIVIERT, dass der Prüfer zwei Versionen vergleicht?
 
 **Antwort**
 
-Für die Freigabeeinstellung &quot;Empfänger können alle Versionen anzeigen&quot;ist es nicht möglich, Version 1 und Version 2 zu vergleichen, wenn der Empfänger auf &quot;Deaktiviert&quot;gesetzt ist und nicht Version 1, sondern Version 2 verwendet hat. Beachten Sie, dass Workfront-Benutzer mit der Berechtigungsstufe &quot;Testversand für Supervisor&quot;oder &quot;Administrator&quot;alle Versionen unabhängig von der Einstellung sehen können.
+Für die Freigabeeinstellung „Empfänger können alle Versionen anzeigen“ - wenn sie auf „Deaktiviert“ gesetzt ist und der Empfänger nicht in Version 1, sondern in Version 2 war, kann er die Versionen 1 und 2 nicht vergleichen. Beachten Sie, dass Workfront-Benutzende mit der Berechtigungsstufe „Supervisor“ oder „Administrator“ alle Versionen unabhängig von der Einstellung sehen können.
 
 **Frage**
 
-Können wir mehrere Personen eine neue Version hochladen? zum Beispiel lädt ein Kopierer Version 1 hoch und dann haben wir das Angebot in Schritt 1. Sie sehen eine Änderung, die vorgenommen werden muss, oder die Upload-Version 2?
+Können mehrere Personen eine neue Version hochladen? Beispielsweise lädt ein Werbetexter Version 1 hoch und dann haben wir den Korrekturabzug in Schritt 1 . Sie sehen eine Änderung, die vorgenommen werden muss, kann die Upload-Version 2?
 
 **Antwort**
 
-Testversand-Empfänger können neue Testsendungen erstellen lassen, wenn sie die folgenden Kriterien erfüllen: 1) Sie sind Inhaber des Testversands - oder 2) Sie werden mit der Testversandrolle Autor oder Moderator auf dem Testversand eingerichtet - oder 3) Sie werden mit dem Berechtigungsnachweis oder Administrator eingerichtet.
+Empfängerinnen und Empfänger von Korrekturabzügen können neue Versionen von Korrekturabzügen erstellen, wenn sie die folgenden Kriterien erfüllen: 1) Sie sind Inhaber des Korrekturabzugs - oder 2) sie sind für den Korrekturabzug mit der Rolle „Autor“ oder „Moderator“ eingerichtet - oder 3) sie sind mit der Berechtigungsstufe für Korrekturabzüge von Supervisor oder Administrator eingerichtet.
 
 **Frage**
 
-Wie werden mehrere Testsendungen durchgeführt (z. B. A, B und C) mit dem automatisierten Workflow. Fangen Sie wieder an?
+Wie werden mehrere Korrekturabzüge (z. B. A, B und C) mit dem automatisierten Workflow. Fängst du wieder an?
 
 **Antwort**
 
-Sie können eine automatisierte Workflow-Vorlage zum Zeitpunkt der Erstellung der Testsendungen auf mehrere Testsendungen anwenden. Gehen Sie dazu wie folgt vor: Dokumente > Neu hinzufügen > Testversand. Wählen Sie auf der Seite &quot;Neuer Testversand&quot;mehrere hochzuladende Dateien aus, wenden Sie die automatisierte Workflow-Vorlage an und erstellen Sie die Testsendungen.
+Sie können eine automatisierte Workflow-Vorlage auf mehrere Korrekturabzüge zum Zeitpunkt der Erstellung der ersten Version der Korrekturabzüge anwenden. Gehen Sie dazu folgendermaßen vor: Dokumente > Neu hinzufügen > Korrekturabzug. Wählen Sie auf der Seite Neuer Korrekturabzug mehrere Dateien aus, die hochgeladen werden sollen, wenden Sie die automatisierte Workflow-Vorlage an und erstellen Sie die Korrekturabzüge.
 
 **Frage**
 
-Kann ein Testversand mit Kommentaren in eine PDF exportiert werden?
+Kann ein Korrekturabzug mit Kommentaren auf eine PDF exportiert werden?
 
 **Antwort**
 
-Sie können eine Druckzusammenfassung auf einem Testversand in eine PDF-Datei exportieren. Diese enthält alle Kommentare, Markups, Antworten und Entscheidungen.
+Sie können eine Druckzusammenfassung eines Korrekturabzugs in eine PDF-Datei exportieren. Dies enthält alle Kommentare, Markierungen, Antworten und Entscheidungen.
 
 **Frage**
 
-Wo kann ich die Testversandeinstellungen sehen?
+Wo kann ich die Korrekturabzugseinstellungen sehen?
 
 **Antwort**
 
-Um die Testversandeinstellungen für einen vorhandenen Testversand anzuzeigen, gehen Sie wie folgt vor: Registerkarte Dokumente > Testversand > Klicken Sie auf &quot;Testversanddetails&quot; > Über das sich öffnende Fenster mit den Testversanddetails können Sie den Bereich &quot;Einstellungen&quot;erweitern.
+Um die Korrekturabzugseinstellungen für einen vorhandenen Korrekturabzug anzuzeigen, folgen Sie diesem Pfad: Registerkarte „Dokumente“ > Wählen Sie den Korrekturabzug aus > Klicken Sie auf „Korrekturabzugsdetails“ > Erweitern Sie im sich öffnenden Fenster „Korrekturabzugsdetails“ den Bereich „Einstellungen“.
 
 **Frage**
 
-Können Sie jemanden auf der privaten Bühne taggen?
+Kann man jemanden auf der privaten Bühne markieren?
 
 **Antwort**
 
-Wenn Sie Testversand-Empfänger in der privaten Bühne sind, können Sie jede Person in dieser privaten Bühne mit Tags versehen. Wenn Sie sich nicht in der privaten Bühne befinden, können Sie niemanden aus der privaten Bühne mit Tags versehen.
+Wenn Sie ein Testversand-Empfänger in der privaten Phase sind, können Sie jeden in dieser privaten Phase taggen. Wenn Sie sich nicht in der privaten Phase befinden, können Sie niemanden in der privaten Phase taggen.
 
 **Frage**
 
@@ -187,12 +187,12 @@ Können Sie eine Phase nach der Aktivierung deaktivieren?
 
 **Antwort**
 
-Sie können eine aktive Bühne nicht deaktivieren. Sie können die Bühne jedoch &quot;sperren&quot;, wodurch Personen auf der Bühne daran gehindert werden, Kommentare und Entscheidungen zu treffen.
+Sie können eine aktive Phase nicht deaktivieren. Sie können die Phase jedoch „sperren“, was Personen innerhalb der Phase daran hindert, Kommentare und Entscheidungen zu treffen.
 
 **Frage**
 
-Was passiert hinter den Kulissen, wenn mindestens ein Prüfer in einer Phase Änderungen für erforderlich hält? Wer wird benachrichtigt, eine neue Version hochzuladen?
+Was passiert hinter den Kulissen, wenn 1 oder mehr Prüfer in einer Phase sagen, dass Änderungen erforderlich sind? Wer wird zum Hochladen einer neuen Version benachrichtigt?
 
 **Antwort**
 
-Dies hängt von der Einstellung &quot;E-Mail-Warnung&quot; des Testversands und/oder des Testversands ab. Es wird empfohlen, Testversand-Ersteller/-besitzer mit der E-Mail-Warnung &quot;Entscheidungen&quot;zu versehen, damit sie per E-Mail benachrichtigt werden, wenn über den Testversand entschieden wird.
+Dies hängt von der Einstellung „E-Mail-Warnhinweis“ des Korrekturabzugs-Erstellers und/oder der Testversand-Empfänger ab. Ich empfehle, dass Ersteller/Inhaber von Korrekturabzügen mit dem E-Mail-Warnhinweis „Entscheidungen“ eingestellt werden, sodass sie jedes Mal per E-Mail benachrichtigt werden, wenn eine Entscheidung über den Korrekturabzug getroffen wird.

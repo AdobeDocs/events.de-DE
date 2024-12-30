@@ -1,6 +1,6 @@
 ---
-title: Experience Maker Spotlight
-description: Das Onboarding, die Schulung und die Aktivierung von Benutzern in Workfront sind eine fortlaufende Aufgabe für Systemadministratoren. Haben Sie sich schon einmal gefragt, wie andere Organisationen damit umgehen? Nehmen Sie an unserer Experience Maker Spotlight-Sitzung teil, um von drei sehr unterschiedlichen Organisationen mehr über ihre Vorgehensweisen und darüber zu erfahren, was sie sich von Anfang an gewusst hätten.
+title: Experience Makers im Blickpunkt
+description: Das Onboarding, die Weiterbildung und die Aktivierung von Benutzenden in Workfront ist eine fortlaufende Aufgabe für Systemadministratoren. Haben Sie sich jemals gefragt, wie andere Organisationen das angehen? Nehmen Sie an unserer Spotlight-Session zu Experience Makers teil, um von drei sehr verschiedenen Organisationen über ihre Ansätze zu erfahren und darüber, was sie gerne gewusst hätten, als sie anfingen.
 solution: Workfront
 feature: Get Started with Workfront, System Setup and Administration
 topic: Administration, Architecture
@@ -19,16 +19,16 @@ ht-degree: 0%
 
 ---
 
-# Experience Maker Spotlight
+# Experience Makers im Blickpunkt
 
-Das Onboarding, die Schulung und die Aktivierung von Benutzern in Workfront sind eine fortlaufende Aufgabe für Systemadministratoren. Haben Sie sich schon einmal gefragt, wie andere Organisationen damit umgehen?
+Das Onboarding, die Weiterqualifizierung und die Einarbeitung von Benutzenden in Workfront ist eine fortlaufende Aufgabe für Systemadministratoren. Haben Sie sich jemals gefragt, wie andere Organisationen das angehen?
 
-Nehmen Sie an unserer Experience Maker Spotlight-Sitzung teil, um von drei sehr unterschiedlichen Organisationen mehr über ihre Vorgehensweisen und darüber zu erfahren, was sie sich von Anfang an gewusst hätten.
+Nehmen Sie an unserer Spotlight-Session zu Experience Makers teil, um von drei sehr verschiedenen Organisationen über ihre Ansätze zu erfahren und darüber, was sie gerne gewusst hätten, als sie anfingen.
 
 Sie werden hören,
 
-* Ein Überblick darüber, wie Steven Enos, Senior Operations Analyst bei Liberty Mutual Insurance, benutzerdefinierte Layoutvorlagen verwendet, um das Erlebnis für jeden neuen Benutzer so einfach wie möglich zu gestalten, wenn er in Workfront integriert ist.
+* Ein Überblick darüber, wie Steven Enos, Senior Operations Analyst bei Liberty Mutual Insurance, benutzerdefinierte Layoutvorlagen verwendet, um das Erlebnis für jeden neuen Anwender so einfach wie möglich zu gestalten, indem er sich in Workfront einarbeitet
 * Wie Amy Franz, Workflow Management Director bei Fidelity Investments, einen Rat interner Botschafter nutzt, um die Stimmen ihrer Nutzer zu verstärken und eine kontinuierliche Schleife von Schulungen und Feedback zu schaffen
-* Die Daten von Monique Evans, Senior Manager von Content Studio Operations bei Stanley Black &amp; Decker, erläutern, wie ihre Benutzer Workfront zur Problembehebung und zur Erhöhung der Akzeptanz verwenden.
+* Die Daten von Monique Evans, Senior Manager of Content Studio Operations bei Stanley Black &amp; Decker, werden geprüft, um besser zu verstehen, wie ihre Anwender Workfront verwenden, um Probleme zu beheben und die Akzeptanz zu steigern
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425809/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Fragen Sie den Experten - Berichterstellung für den grundlegenden Textmodus mit Supercharge über den API Explorer.
-description: Erfahren Sie mehr über den API-Explorer, seine Verwendung und die Verbesserung Ihrer Berichte mithilfe des grundlegenden Textmodus. Dieses Webinar wurde am 22. Januar 2020 aufgenommen.
+title: Fragen an den Experten - Aufladen der grundlegenden Textmodusberichte mit dem API-Explorer
+description: Erfahren Sie mehr über den API-Explorer, wie Sie ihn verwenden und Ihre Berichte mithilfe des einfachen Textmodus verbessern können. Dieses Webinar wurde am 22. Januar 2020 aufgezeichnet.
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
@@ -13,18 +13,18 @@ ht-degree: 0%
 
 ---
 
-# Fragen Sie den Experten - Berichterstellung für den grundlegenden Textmodus mit Supercharge über den API Explorer.
+# Fragen an den Experten - Aufladen der grundlegenden Textmodusberichte mit dem API-Explorer
 
-Erfahren Sie mehr über den [[!UICONTROL API-Explorer]](https://developer.adobe.com/workfront/api-explorer/), seine Verwendung und die Verbesserung Ihrer Berichte mithilfe des grundlegenden Textmodus. Dieses Webinar wurde am 22. Januar 2020 aufgenommen.
+Erfahren Sie mehr über [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/), wie Sie ihn verwenden und Ihre Berichte mithilfe des einfachen Textmodus verbessern können. Dieses Webinar wurde am 22. Januar 2020 aufgezeichnet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
 ## Weitere Ressourcen
 
-![Ein Diagramm mit Beispielen für Textmodus-Code-Regeln](assets/text-mode-chart.png)
+![Ein Diagramm mit Beispielen für Code-Regeln im Textmodus](assets/text-mode-chart.png)
 
 
-**Schlussspalte &quot;Alle Auftragsrollen&quot;**
+**Endgültige Spalte „Alle Aufgabengebiete“**
 
 ```
 description="Primary =" indicates the user's primary job role
@@ -37,7 +37,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("Primary = ",{role}.{name}
 valueformat=HTML
 ```
 
-**Textmodus für die Spalte &quot;Alle Teams&quot;**
+**Textmodus für die Spalte „Alle Teams“**
 
 ```
 displayname=All Teams
@@ -49,7 +49,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-**Textmodus für die Spalte &quot;Alle Gruppen&quot;**
+**Textmodus für die Spalte „Alle Gruppen“**
 
 ```
 displayname=All Groups
@@ -61,7 +61,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-**Textmodus für die Spalte &quot;Direkte Berichte&quot;**
+**Textmodus für die Spalte „Direktberichte“**
 
 ```
 displayname=Direct Reports
@@ -81,27 +81,27 @@ Ist es möglich, im Textmodus eine beliebige Sammlung in einem Bericht zu verwen
 
 **Antwort**
 
-Ja, Sie können ein beliebiges Objekt im Sammlungsbereich verwenden. Sie werden erforschen und sehen wollen, worauf Sie Zugriff haben. Nicht alle haben Zugriff auf das Benutzerobjekt und das Vorgangsrollenobjekt, wie wir es mit dem Benutzerrollen-Objekt im API-Explorer gesehen haben.
+Ja, Sie können jedes Objekt im Bereich „Sammlungen“ verwenden. Sie sollten erkunden und sehen, auf was Sie Zugriff haben. Nicht alles hat Zugriff auf das Benutzerobjekt und das Aufgabenrollenobjekt, wie wir beim Benutzerrollenobjekt im API-Explorer gesehen haben.
 
 **Frage**
 
-Können Sie die bedingte Verwendung verschiedener Sammlungen in derselben Spalte (Projekt- und Aufgabenaktualisierungen) besprechen?
+Können Sie über die „bedingte Verwendung verschiedener Sammlungen in derselben Spalte (Projektaktualisierungen vs. Aufgabenaktualisierungen)“ sprechen?
 
 **Antwort**
 
-Wenn Sie sich im Iterationsbereich befinden und dort das Wertefeld oder den Werteausdruck sehen, greift dies auf eines der Elemente in Ihrer Sammlungsliste zu. Mithilfe des Wertefelds können wir den Namen dieser Auftragsrolle abrufen, z. B. oder alles, was sich in diesem Element in der Liste befindet. Wenn Sie sich in einer Aufgabe befinden, kann ein Aufgabenobjekt auf das Projekt verweisen, in dem es sich befindet.
+Wenn Sie sich im Bereich „Iteration“ befinden und das Wertefeld oder den Wertausdruck dort sehen, bedeutet das, dass Sie auf eines der Elemente in Ihrer Sammlungsliste zugreifen. Mithilfe des Wertefelds können wir beispielsweise den Namen dieses Aufgabengebiets oder alles abrufen, was in diesem Element in der Liste enthalten ist. Wenn Sie sich in einer Aufgabe befinden, kann ein Aufgabenobjekt auf das Projekt verweisen, in dem es sich befindet.
 
 **Frage**
 
-Können Sie besprechen, ob die Sammlung von Aufgabenaktualisierungen nur in einem Aufgabenbericht möglich ist?
+Können Sie besprechen, ob die Sammlung „Aufgabenaktualisierungen“ nur in einem Aufgabenbericht möglich ist?
 
 **Antwort**
 
-Wenn Sie einen Problembericht erstellen, können Sie Aufgabeninformationen anzeigen, wenn das Problem in Bezug auf die Aufgabe gemeldet wurde. Außerdem können Sie diese Informationen aus der Sammlung sehen. Außer in diesen Situationen müssen Sie sich in einem Aufgabenbericht befinden, um Aufgabenerfassungsdaten anzuzeigen.
+Wenn Sie einen Problembericht erstellen, können Sie Aufgabeninformationen anzeigen, wenn das Problem für die Aufgabe gemeldet wurde. Diese Informationen können auch in der Sammlung angezeigt werden. Mit Ausnahme dieser Situationen müssten Sie sich in einem Aufgabenbericht befinden, um Aufgabenerfassungsdaten anzuzeigen.
 
 **Frage**
 
-Können Sie Beispiele für das Textformat ([!DNL CSS]) freigeben?
+Können Beispiele für Textformate ([!DNL CSS]) freigegeben werden?
 
 **Antwort**
 
@@ -109,7 +109,7 @@ Workfront unterstützt [!DNL CSS] im Textmodus nicht.
 
 **Frage**
 
-Was ist die beste und/oder schnellste Methode, einen benutzerdefinierten Feldnamen zu finden - für Textmodusberichte? Ich habe die HTML-Bearbeitungsoption im Browser ODER verwendet, indem ich ein Feld in einem Bericht hinzugefügt habe und in den Textmodus wechselte, um es zu erfassen... merkwürdig, wie andere dies durchführen.
+Was ist die beste und/oder schnellste Möglichkeit, einen benutzerdefinierten Feldnamen zu finden - für Berichte im Textmodus? Ich habe die HTML-Bearbeitungsoption im Browser ODER durch Hinzufügen eines Felds in einem Bericht und Wechseln in den Textmodus verwendet, um es zu erfassen, ABER… neugierig, wie andere dies tun
 
 **Antwort**
 
@@ -117,25 +117,25 @@ Ich finde es am schnellsten, das Feld in der Benutzeroberfläche auszuwählen, d
 
 **Frage**
 
-Wie kann ich den Textmodus verwenden, um Mitglieder eines Teams in einem Bericht zu identifizieren? Wir verwenden derzeit Teamzuweisungen in Workflows zur Aufgabenvalidierung und möchten die Teammitglieder in der aktuellen Validierungsphase in einer Spalte auflisten, die der Funktionsweise des Felds Genehmiger und Status ähnelt.
+Wie kann ich den Textmodus verwenden, um Mitglieder eines Teams in einem Bericht zu identifizieren? Wir verwenden derzeit Team-Zuweisungen in Aufgabengenehmigungs-Workflows und möchten die Team-Mitglieder in der aktuellen Genehmigungsphase in einer Spalte ähnlich der Spalte mit der Funktionsweise des Felds Genehmigende Person und Status auflisten.
 
 **Antwort**
 
-Um auf die Team-Mitglieder zu verweisen, die der aktuellen Validierungsphase zugeordnet sind, müssen Sie auf eine Sammlung einer referenzierten Kollektion verweisen, die derzeit über die Textmodusfunktionen von Workfront nicht möglich ist. Die Spalte, die Ihr Unternehmen derzeit verwendet und die das mit der Genehmigung verbundene Team anzeigt, ist Ihre beste Option.
+Um auf die Team-Mitglieder zu verweisen, die mit der aktuellen Genehmigungsphase verknüpft sind, müssen Sie auf eine Sammlung einer referenzierten Sammlung verweisen, was derzeit über die Textmodusfunktionen von Workfront nicht möglich ist. Die Spalte, die Ihre Organisation derzeit verwendet und die das mit der Genehmigung verknüpfte Team anzeigt, ist Ihre beste Option.
 
 **Frage**
 
-Müssen Feld- und Objektname Groß-/Kleinschreibung (z. B. Rolle vs. Rolle)?
+Müssen Feld- und Objektname in Kleinbuchstaben geschrieben werden (z. B. Funktion vs. Funktion)?
 
 **Antwort**
 
-Wenn Sie Objekte im Textmodus referenzieren, sollten Sie sie genau so schreiben, wie in der rechten Spalte des API Explorer angezeigt wird. Wenn Sie beispielsweise einen Projektnamen aus einem Aufgabenbericht referenzieren möchten, würde Ihr Wertefeld wie folgt aussehen:
+Wenn Sie auf Objekte im Textmodus verweisen, sollten Sie sie genau so schreiben, wie es die rechte Spalte des API-Explorers zeigt. Wenn Sie beispielsweise in einem Aufgabenbericht auf einen Projektnamen verweisen möchten, würde Ihr Wertefeld wie folgt aussehen:
 
 ```
 valuefield=project:name
 ```
 
-Im Fall von Problemen werden diese jedoch im API Explorer als opTasks bezeichnet. Wenn Sie also einen Stunden-Bericht ausführen und eine Spalte für den Problemnamen hinzufügen möchten, würde das Wertefeld
+Bei Problemen werden diese jedoch im API-Explorer als opTasks bezeichnet. Wenn Sie also einen Stundenbericht ausführen und eine Spalte für den Problemnamen hinzufügen möchten, würde das Wertfeld
 sieht wie folgt aus:
 
 ```
@@ -144,27 +144,27 @@ valuefield=opTask:name
 
 **Frage**
 
-Ich möchte einen Bericht erstellen, der für jedes Projekt zeigt, an welchen aktiven Aufgaben derzeit gearbeitet wird. Wie würde ich das am besten machen? Ich denke, es wäre ein Aufgabenbericht, dem auch Spalten mit Projektinformationen hinzugefügt werden?
+Ich suche einen Bericht, der für jedes Projekt die aktuell bearbeiteten aktiven Aufgaben anzeigt. Wie sollte ich das am besten tun? Ich stelle mir vor, dass es sich um einen Aufgabenbericht handelt, dem auch Spalten mit Projektinformationen hinzugefügt wurden?
 
 **Antwort**
 
-Das ist richtig. Ein Aufgabenbericht wäre dafür am besten. Sie müssen &quot;Aktive Aufgaben&quot;definieren. Wenn Sie Vorgänger verwenden, wären dies Aufgaben, die bereit sind. Sie können also nach Bereit = True filtern. Dies würde alle Aufgaben einbringen, die startbereit sind. Dann empfehle ich Ihnen, eine Gruppierung nach Projektname durchzuführen, sodass Ihre Aufgaben alle gruppiert sind und Sie auf einen Blick sehen können, welche Aufgaben zu welchem Projekt gehören.
+Das ist richtig. Ein Aufgabenbericht ist dafür am besten geeignet. Sie müssen „Aktive Aufgaben“ definieren. Wenn Sie Vorgänger verwenden, wären dies Aufgaben, die bereit sind. So können Sie nach Bereit = True filtern. Dadurch würden alle Aufgaben eingehen, die startbereit sind. Dann empfehle ich Ihnen, nach Projektname zu gruppieren. Auf diese Weise werden Ihre Aufgaben alle gruppiert und Sie können auf einen Blick sehen, welche Aufgaben zu welchem Projekt gehören.
 
 **Frage**
 
-Gibt es eine Möglichkeit, Berichte zu erstellen, die Daten berechnen - zum Beispiel % der Projekte, die bestimmte Kriterien erfüllen?
+Gibt es eine Möglichkeit, Berichte zu erstellen, die Daten berechnen - z. B. % der Projekte, die bestimmte Kriterien erfüllen?
 
 **Antwort**
 
-Die beste Möglichkeit, einen Bericht zu erstellen, um Daten darzustellen oder zu berechnen (z. B. in %), besteht darin, Gruppierungen auf Ihren Bericht anzuwenden und dann eine Grafik anzuwenden. Wenn Sie dem Bericht ein Tortendiagramm hinzufügen möchten, können die Tortenscheiben in Werten oder Prozentwerten dargestellt werden.
+Die beste Möglichkeit, einen Bericht zu erstellen, um Daten darzustellen oder zu berechnen (z. B. %), besteht darin, Gruppierungen auf Ihren Bericht anzuwenden und dann ein Diagramm anzuwenden. Wenn Sie Ihrem Bericht ein Tortendiagramm hinzufügen, haben Sie die Möglichkeit, die Tortenscheiben in Werten oder Prozentsätzen anzugeben.
 
 **Frage**
 
-Können Sie den Textmodus verwenden, um die Mitglieder eines Teams zu identifizieren, die der aktuellen Phase der Aufgabenvalidierung ähnlich der Spalte Genehmiger und Status zugewiesen sind?
+Können Sie den Textmodus verwenden, um die Mitglieder eines Teams zu identifizieren, die der aktuellen Aufgabengenehmigungsphase ähnlich der Spalte Genehmigende Person und Status zugewiesen sind?
 
 **Antwort**
 
-Im Textmodus müssen Sie dem Bericht &quot;Aufgabe&quot;eine Kollektionsspalte hinzufügen, die Folgendes enthält:
+Dazu müssten Sie Ihrem Aufgabenbericht im Textmodus eine Sammlungsspalte mit folgendem Inhalt hinzufügen:
 
 ```
 displayname=Current Approval Stage Approvers 
@@ -178,11 +178,11 @@ valueformat=HTML
 
 **Frage**
 
-Können Sie filtern, wo alle Gruppen eine bestimmte Gruppe enthalten?
+Können Sie filtern, wo eine bestimmte Gruppe in allen Gruppen enthalten ist?
 
 **Antwort**
 
-Wenn Sie die Elemente in Ihrem Bericht filtern möchten, tun Sie dies im Filter -Tab Ihres Berichts. Wenn Sie also nur Benutzer sehen möchten, bei denen eine ihrer Gruppen &quot;Buchhaltung&quot;lautete, würden Sie eine Filterregel hinzufügen, die Folgendes sagt:
+Wenn Sie die Elemente in Ihrem Bericht filtern möchten, müssen Sie dies auf der Registerkarte Filter Ihres Berichts tun. Wenn Sie also nur Benutzer sehen möchten, deren Gruppe die Kontoführung ist, fügen Sie eine Filterregel hinzu, die Folgendes enthält:
 
 ```
 Other Groups>ID>Equal>Accounting
@@ -194,40 +194,40 @@ Gibt es eine Möglichkeit, einen Bericht zu erstellen, der die tatsächliche Dau
 
 **Antwort**
 
-Sie müssen Ihren Bericht so filtern, dass nur die gewünschte Aufgabenkombination einbezogen wird. Dann müssten Sie eine Spalte &quot;Tatsächliche Dauer&quot;in Ihre Ansicht einfügen und sie anhand der Summe in den Spalteneinstellungen zusammenfassen. Schließlich müssten Sie Ihren Bericht auf irgendeine Weise gruppieren. Wenn Sie den Bericht ausführen, zeigt die Gruppierungsleiste die Gesamtdauer an, die in den Zeilen, die gruppiert werden, tatsächlich vergangen ist.
+Sie müssen Ihren Bericht so filtern, dass er nur die gewünschte Aufgabenkombination enthält. Anschließend müssen Sie die Spalte Tatsächliche Dauer in Ihre Ansicht einfügen und sie in den Spalteneinstellungen nach Summe zusammenfassen. Schließlich müssen Sie Ihren Bericht auf irgendeine Weise gruppieren. Wenn Sie den Bericht ausführen, zeigt die Gruppierungsleiste die Gesamtdauer an, die in den gruppierten Zeilen tatsächlich enthalten sind.
 
 **Frage**
 
-Gibt es eine Möglichkeit, Aufgaben, die unter ein übergeordnetes Element fallen, abzuziehen, um die Dauer für die restlichen Aufgaben unter einem übergeordneten Element zu bestimmen?
+Gibt es eine Möglichkeit, Aufgaben, die unter ein übergeordnetes Element fallen, abzuziehen, um die Dauer für den Rest der Aufgaben unter einem übergeordneten Element zu bestimmen?
 
 **Antwort**
 
-Die Dauer einer übergeordneten Aufgabe wird berechnet, indem das Startdatum der frühesten Startaufgabe vom Enddatum der letzten Endaufgabe unter dieser übergeordneten Aufgabe abgezogen wird. In einem Bericht wissen Sie nur über jede einzelne Aufgabe, die in Betracht gezogen wird, ob sie angezeigt werden soll oder nicht. Die Report Engine kann nicht an Informationen aus einer Aufgabe festhalten und sie bei der Untersuchung einer anderen Aufgabe verwenden. Die einzige Möglichkeit, das zu erreichen, was Sie verlangen, besteht darin, eine Aufgabe aus der Liste der Projektaufgaben zu entfernen und zu beobachten, wie die Dauer der übergeordneten Aufgabe neu berechnet wird.
+Die Dauer einer übergeordneten Aufgabe wird berechnet, indem das Startdatum der frühesten Startaufgabe vom Enddatum der letzten Endaufgabe unter dieser übergeordneten Aufgabe abgezogen wird. In einem Bericht wissen Sie nur über jede einzelne Aufgabe, die in Betracht kommt, ob sie angezeigt werden soll oder nicht. Die Report Engine hat keine Möglichkeit, Informationen aus einer Aufgabe beizubehalten und sie beim Betrachten einer anderen Aufgabe zu verwenden. Die einzige Möglichkeit, Ihre Anforderung zu erfüllen, besteht darin, eine Aufgabe aus der Unterzugehörigkeit zu einer übergeordneten Aufgabe zu entfernen, während sie sich in der Projektaufgabenliste befindet, und zu beobachten, wie die Dauer der übergeordneten Aufgabe neu berechnet wird.
 
 **Frage**
 
-Bei bedingten Gruppierungen ist ein benutzerdefiniertes Formular (z. B. &quot;Westliche Staaten&quot;, &quot;Zentralstaaten&quot;, &quot;Oststaaten&quot;) zur Dekodierung der einzelnen Gruppen eine gängige Technik, die gut mit dieser Anmerkung funktioniert. Wann empfiehlt es sich, berechnete Gruppierungen oder berechnete Parameter zu verwenden?
+Für bedingte Gruppierungen ist eine benutzerdefinierte Form (denken Sie an „westliche Staaten“, „zentrale Staaten“, „östliche Staaten„) zum Decodieren der einzelnen Gruppen eine gängige Technik, die gut auf diese Anmerkung funktioniert. Wann empfehlen Sie die Verwendung berechneter Gruppierungen vs. berechneter Parameter?
 
 **Antwort**
 
-Berechnete Gruppierungen (auch als Wertausdruck in einer Gruppierung bezeichnet) sind eine praktische Methode, um ein Ergebnis zu erhalten, das in Ihrer Gruppierungsleiste angezeigt wird. Dies kann auch mithilfe eines berechneten benutzerdefinierten Felds erfolgen. Für jeden Ansatz gibt es Vor- und Nachteile:
+Berechnete Gruppierungen (auch als Werteausdruck in einer Gruppierung bezeichnet) sind eine praktische Methode, um ein Ergebnis in Ihrer Gruppierungsleiste anzuzeigen. Dies kann auch mit einem berechneten benutzerdefinierten Feld erfolgen. Es gibt Vor- und Nachteile für jeden Ansatz, die:
 
-* Werteausdrücke werden jedes Mal berechnet, wenn Ihre Browser-Seite aktualisiert wird. Dies kann besser sein als berechnete benutzerdefinierte Felder, die neu berechnet werden, wenn das Objekt, an das sie angehängt sind, bearbeitet wird, wenn die berechneten Felder in einer Massenbearbeitung neu berechnet werden oder wenn das benutzerdefinierte Formular bearbeitet und die Option &quot;Vorherige Berechnungen aktualisieren&quot;aktiviert wird.
-* Werteausdrücke können jedoch nicht in Grafiken, bedingter Formatierung oder Filtern verwendet werden. Dazu müssen Sie berechnete benutzerdefinierte Felder verwenden.
+* Wertausdrücke werden jedes Mal berechnet, wenn Ihre Browser-Seite aktualisiert wird. Dies kann besser sein als berechnete benutzerdefinierte Felder, die neu berechnet werden, wenn das Objekt, mit dem sie verknüpft sind, bearbeitet wird oder wenn die berechneten Felder in einer Massenbearbeitung neu berechnet werden oder wenn das benutzerdefinierte Formular bearbeitet wird und die Option „Vorherige Berechnungen aktualisieren“ ausgewählt ist.
+* Wertausdrücke können jedoch nicht in Diagrammen, bedingter Formatierung oder Filtern verwendet werden. Sie müssen hierfür berechnete benutzerdefinierte Felder verwenden.
 
 **Frage**
 
-Gibt es keine Möglichkeit, den Anzeigenamen der Gruppierung von &quot;Kein Wert&quot;zu etwas anderem zu ändern, das wir für Berichtszwecke aufrufen? Mit anderen Worten, es wird immer &quot;Kein Wert&quot;?
+Gibt es keine Möglichkeit, den Anzeigenamen der Gruppierung von „Kein Wert“ in etwas Anderes zu ändern, das wir zu Berichtszwecken als Gruppierung bezeichnen? Mit anderen Worten, es wird IMMER „kein Wert“ sein?
 
 **Antwort**
 
-Es gibt eine Möglichkeit, &quot;Kein Wert&quot;durch etwas Anderes zu ersetzen. Angenommen, Sie haben einen Projektbericht nach Portfolio gruppiert. Alle Projekte, die keinem Portfolio zugewiesen sind, werden in einer Gruppierung mit dem Titel aufgeführt:
+Es gibt eine Möglichkeit, „Kein Wert“ durch etwas Anderes zu ersetzen. Angenommen, Sie haben einen nach Portfolio-Namen gruppierten Projektbericht. Alle Projekte, die keinem Portfolio zugewiesen sind, werden in einer Gruppierung mit dem Titel landen:
 
 ```
 Portfolio: Name: No Value
 ```
 
-Um dies zu ändern, bearbeiten Sie die Gruppierung im Textmodus und ersetzen Sie die folgende Zeile:
+Um dies zu ändern, bearbeiten Sie die Gruppierung im Textmodus und ersetzen Sie diese Zeile:
 
 ```
 group.0.valuefield=portfolio:name
@@ -239,7 +239,7 @@ mit dieser Zeile:
 group.0.valueexpression=IF(ISBLANK({portfolio}.{name}),"Not in any Portfolio",{portfolio}.{name})
 ```
 
-Die Gruppierung hat jetzt folgenden Titel:
+Die Gruppierung hat jetzt diesen Titel:
 
 ```
 Portfolio: Name: Not in any Portfolio
@@ -247,39 +247,39 @@ Portfolio: Name: Not in any Portfolio
 
 **Frage**
 
-Gibt es einen Parameter zur Verfolgung unvollständiger Zuweisungen, d. h.:
+Gibt es einen Parameter zum Nachverfolgen unvollständiger Zuweisungen, d. h.:
 
-1. Aufgaben mit einer einzelnen Zuweisung, denen keine Person zugewiesen wurde, oder
+1. Aufgaben mit einer einzelnen Zuweisung, denen keine Einzelperson zugewiesen wurde, oder
 1. Aufgaben mit mehreren Zuweisungen, denen mindestens eine nicht zugewiesene Person für die angeforderten Rollen zugewiesen ist
 
 **Antwort**
 
-Dies lässt sich durch die Verwendung eines Zuweisungsberichts und Filterung nach
+Dies lässt sich durch die Verwendung eines Arbeitsauftragsberichts und die Filterung nach Folgendem erreichen
 
 ```
 Assigned To ID > Is Blank and Role ID > Is Not Blank
 ```
 
-Dadurch werden alle Aufgaben oder Probleme berücksichtigt, die einer Rolle, aber nicht notwendigerweise einem bestimmten Benutzer zugewiesen wurden. Sie müssen die Spalten für den Namen Aufgabe und Problem hinzufügen, um zu sehen, zu welchem Objekt die Zuweisung gehört, und wenn sie nach Projektname gruppiert sind, sollte dies helfen, das Objekt organisiert zu halten.
+Dadurch werden alle Aufgaben oder Probleme abgerufen, die einer Rolle, aber nicht notwendigerweise einem bestimmten Benutzer zugewiesen wurden. Sie müssen die Spalten für Aufgaben- und Problemname hinzufügen, um zu sehen, zu welchem Objekt die Zuweisung gehört, und wenn sie nach Projektname gruppiert sind, sollte sie helfen, sie organisiert zu halten.
 
 **Frage**
 
-Chuck, ich vergesse, aber erinnern Sie sich an die Eigenschaft im Textmodus, die dann als QuickInfo gerendert wird, wenn Sie den Mauszeiger bewegen?
+Chuck, ich vergesse, aber erinnern Sie sich an die Eigenschaft im Textmodus, die dann beim Bewegen des Mauszeigers als QuickInfo gerendert wird?
 
 **Antwort**
 
-description= ermöglicht die Anzeige einer QuickInfo, wenn Sie den Mauszeiger über die Spaltenüberschrift bewegen.
+description= Ermöglicht es Ihnen, eine QuickInfo anzuzeigen, wenn Sie den Mauszeiger über die Spaltenüberschrift bewegen.
 
 **Frage**
 
-Kann ich einen Bericht zu einem Kontrollkästchen erstellen, das mehrere Auswahlmöglichkeiten erlaubt, aber nur die erste Auswahl in den Bericht zieht?
+Kann ich einen Bericht zu einem Kontrollkästchen erstellen, das mehrere Auswahlmöglichkeiten zulässt, aber nur die erste Auswahl in den Bericht zieht?
 
 **Antwort**
 
-Ja. Die im Kontrollkästchen ausgewählten Optionen enthalten alle eine Zeichenfolge, wobei jede Auswahl durch ein Komma getrennt ist. Verwenden Sie den Suchausdruck, um die Position des ersten Kommas im Kontrollkästchen-Feld zu finden, und verwenden Sie dann diesen Index mit dem LINKEN Ausdruck, um so viele Zeichen am Anfang der Liste anzuzeigen. Hier ist der Code:
+Ja. Die ausgewählten Auswahlmöglichkeiten im Kontrollkästchen befinden sich alle in einer Zeichenfolge, wobei jede Auswahl durch ein Komma getrennt ist. Verwenden Sie den Suchausdruck, um die Position des ersten Kommas im Kontrollkästchenfeld zu finden, und verwenden Sie dann diesen Index mit dem LINKEN Ausdruck, um so viele Zeichen vom Anfang der Liste anzuzeigen. Hier ist der Code:
 
 ```
 valueexpression=IF(SEARCH(",",{DE:Checkbox Field},0)>0,LEFT({DE:Checkbox Field},SEARCH(",",{DE:Checkbox Field},0)),{DE:Checkbox Field})
 ```
 
-Wenn Sie in Ihrem Kontrollkästchen ein Komma in einem Auswahlnamen verwenden, wird nur der Teil dieser Auswahl bis zum ersten Komma angezeigt.
+Wenn Sie in einem Auswahlfeld ein Komma verwenden, wird nur der Teil der Auswahl bis zum ersten Komma angezeigt.

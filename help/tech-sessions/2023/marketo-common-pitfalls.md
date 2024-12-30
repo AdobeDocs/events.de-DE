@@ -1,6 +1,6 @@
 ---
-title: Erweiterte intelligente Listenlogik und häufige Fehler
-description: Übersicht über komplexe und erweiterte Smart-List-Logik, ALL, ANY und erweiterte Filter, mehrere Trigger, negative Filter und negative Begrenzungen, allgemeine Probleme und Tipps zur Fehlerbehebung
+title: Erweiterte Smart List-Logik und häufige Fallstricke
+description: Übersicht über die komplexe und erweiterte Smart-List-Logik, ALLE, BELIEBIGE und erweiterte Filter, mehrere Trigger, Negativfilter und Negativeinschränkungen, häufige Probleme und Tipps zur Fehlerbehebung
 feature-set: Marketo Engage
 feature: Smart Lists
 role: Admin, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Marketo Engage - Erweiterte intelligente Listenlogik und häufige Fehler
+# Marketo Engage - Erweiterte Smart List-Logik und häufige Fallstricke
 
-In dieser ersten Sitzung erhalten Sie einen Überblick über die komplexe und erweiterte Smart-List-Logik, ALL, ANY und Erweiterte Filter, mehrere Trigger, negative Filter und negative Begrenzungen, häufige Probleme und Tipps zur Fehlerbehebung
+In dieser ersten Sitzung behandeln wir eine Übersicht über die komplexe und erweiterte Smart-List-Logik, ALLE, BELIEBIGE und erweiterte Filter, mehrere Trigger, Negativfilter und Negativeinschränkungen, häufige Probleme und Tipps zur Fehlerbehebung
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422531/?learn=on)

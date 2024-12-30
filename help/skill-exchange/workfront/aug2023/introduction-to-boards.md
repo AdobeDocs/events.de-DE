@@ -1,6 +1,6 @@
 ---
 title: Einführung in Pinnwände
-description: Foren ermöglichen es Teams, die Arbeit visueller zu verwalten, indem sie eine virtuelle Pinnwand erstellen, auf der Aufgaben, Projekte und andere Arbeitselemente angezeigt werden. Unabhängig davon, ob Sie ein Systemadministrator, ein Projektmanager oder ein einzelner Mitarbeiter sind, bieten die Foren eine flexible und intuitive Möglichkeit zur Verwaltung der Arbeit.
+description: Pinnwände ermöglichen es Teams, die Arbeit visueller zu verwalten, indem sie eine virtuelle Pinnwand erstellen, auf der Aufgaben, Projekte und andere Arbeitselemente angezeigt werden. Unabhängig davon, ob Sie Systemadmin, Projektmanager oder einzelner Mitarbeiter sind, Boards bieten eine flexible und intuitive Möglichkeit zur Arbeitsverwaltung.
 solution: Workfront
 feature: Work Management
 role: User
@@ -20,17 +20,17 @@ ht-degree: 0%
 
 # Einführung in Pinnwände
 
-Haben Sie Adobe Workfront-Pinnwände in Ihr Kollaborations-Toolkit integriert?
+Haben Sie Adobe Workfront-Boards in Ihr Collaboration-Toolkit integriert?
 
-Foren ermöglichen es Teams, die Arbeit visueller zu verwalten, indem sie eine virtuelle Pinnwand erstellen, auf der Aufgaben, Projekte und andere Arbeitselemente angezeigt werden. Unabhängig davon, ob Sie ein Systemadministrator, ein Projektmanager oder ein einzelner Mitarbeiter sind, bieten die Foren eine flexible und intuitive Möglichkeit zur Verwaltung der Arbeit.
+Pinnwände ermöglichen es Teams, die Arbeit visueller zu verwalten, indem sie eine virtuelle Pinnwand erstellen, auf der Aufgaben, Projekte und andere Arbeitselemente angezeigt werden. Unabhängig davon, ob Sie Systemadmin, Projektmanager oder einzelner Mitarbeiter sind, Boards bieten eine flexible und intuitive Möglichkeit zur Arbeitsverwaltung.
 
-Cynthia Boon, Customer Success Manager bei Workfront (und ehemaliger Kunde!), führt eine Einführung in Foren und die integrierten Vorlagen durch.
+Cynthia Boon, Customer Success Manager bei Workfront (und früherer Kunde!), wird eine Einführung in Dashboards und die integrierten Vorlagen geben.
 
-Darüber hinaus wird sie
+Darüber hinaus wird sie Folgendes abdecken:
 
 * Häufige Verwendungszwecke für Pinnwände, einschließlich der Anzeige des Aufgabenstatus
-* Verschiedene Möglichkeiten zur Visualisierung von Arbeit, von Ad-hoc-Aufgaben bis hin zu komplexerem Projekt-Tracking
-* Wie Gremien eingesetzt werden können, um die Lücke zwischen theoretischen Brainstorming- und tatsächlichen Projektplänen zu schließen
-* Ideen für die Verwendung von Foren zur Erhöhung der Akzeptanz und Interaktion in Workfront
+* Verschiedene Möglichkeiten zur Visualisierung von Arbeit, von Ad-hoc-Aufgaben bis hin zu einer komplexeren Projektverfolgung
+* Wie Boards genutzt werden können, um die Lücke zwischen theoretischem Brainstorming und tatsächlichen Projektplänen zu schließen
+* Ideen für die Verwendung von Dashboards zur Steigerung der Akzeptanz und Interaktion mit Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425791/?learn=on)

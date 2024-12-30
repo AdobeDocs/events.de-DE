@@ -1,6 +1,6 @@
 ---
-title: Spotlight "Experience Maker verfolgen"
-description: Die Journey zur Laufzeitbewirtschaftung erfolgt nicht über Nacht. Es bedarf strategischer Planung, bewusster Führung und einer Kultur, die bereit ist, den Wandel in Angriff zu nehmen.
+title: Track Experience Makers im Blickpunkt
+description: Die Reife des Journey-to-Work-Managements kommt nicht von heute auf morgen. Es braucht strategische Planung, bewusste Führung und eine Kultur, die bereit ist, sich Veränderungen zu eigen zu machen.
 solution: Workfront
 role: User
 level: Intermediate, Experienced
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ---
 
-# Wachstumspfad - Erlebnis-Maker-Spotlight
+# Track erweitern - Experience Makers im Blickpunkt
 
-Die Journey zur Laufzeitbewirtschaftung erfolgt nicht über Nacht. Es bedarf strategischer Planung, bewusster Führung und einer Kultur, die bereit ist, den Wandel in Angriff zu nehmen. Nehmen Sie an unserer Experience Maker Spotlight-Sitzung teil, um von drei sehr unterschiedlichen Organisationen zu erfahren, wie ihre Organisationen ihre Arbeit auf die nächste Ebene gebracht haben.
+Die Reife des Journey-to-Work-Managements kommt nicht von heute auf morgen. Es braucht strategische Planung, bewusste Führung und eine Kultur, die bereit ist, sich Veränderungen zu eigen zu machen. Nehmen Sie an unserer Experience Makers Spotlight-Session teil und erfahren Sie von drei sehr verschiedenen Organisationen, wie ihre Organisationen die Arbeit auf die nächste Ebene gebracht haben.
 
-Sie werden Folgendes hören:
+Sie werden hören:
 
-* Das Workfront Insights-Lumen, mit dem die Effizienz für kreative Vorgänge in der gesamten Organisation gesteigert wird
-* Wie T-Mobile eine echte betriebliche Messstrategie erstellt hat
-* Steps Synchrony nahm seine mehrjährige Journey an, um die Kampagnenausführung vollständig zu orchestrieren
+* Das Workfront Insights-Lumen wurde verwendet, um die Effizienz kreativer Vorgänge im gesamten Unternehmen zu steigern
+* Wie T-Mobile eine echte operative Messstrategie entwickelt hat
+* Die Schritte von Synchrony wurden in ihrer mehrjährigen Journey durchgeführt, um die Kampagnenausführung vollständig zu orchestrieren
 
 >[!VIDEO](https://video.tv.adobe.com/v/342524/?quality=12&learn=on)

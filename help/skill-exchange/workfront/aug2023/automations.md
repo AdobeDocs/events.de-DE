@@ -1,6 +1,6 @@
 ---
-title: Zweckgesteuerte Automatisierung
-description: Praktische Beispiele für Automatisierungen, die nachweislich einen effizienteren Arbeitsablauf schaffen.
+title: Zweckgesteuerte Automatisierungen
+description: Praxisbeispiele für Automatisierungen, die nachweislich einen effizienteren Workflow schaffen.
 solution: Workfront
 feature: Workfront Fusion, Work Management
 role: User
@@ -18,16 +18,16 @@ ht-degree: 0%
 
 ---
 
-# Zweckgesteuerte Automatisierung
+# Zweckgesteuerte Automatisierungen
 
-Die Nutzung von Automatisierungen kann ein enormes Effizienzpotenzial entfalten, indem sie es Ihren Benutzern ermöglichen, sich auf die Arbeit zu konzentrieren, die ihre einzigartigen Fähigkeiten und Kenntnisse erfordert, anstatt sich auf die routinemäßigen und wiederholten Aufgaben zu konzentrieren, die sie ausführen können.
+Durch die Nutzung von Automatisierungen können enorme Effizienzpotenziale erschlossen werden, da sich Ihre Benutzer auf die Arbeit konzentrieren können, die ihre einzigartigen Fähigkeiten und ihr Fachwissen erfordert, anstatt sich mit den Routine- und sich wiederholenden Aufgaben zu befassen, die sie überfordern können.
 
-In dieser Sitzung werden Jennafer Higgs, Jonathan Cabre und Malcom Benites von Zimmerman Advertising praktische Beispiele für Automatisierungen vorstellen, die sich als effizienterer Workflow erwiesen haben.
+Während dieser Sitzung werden Jennafer Higgs, Jonathan Cabre und Malcom Benites von Zimmerman Advertising praktische Beispiele für Automatisierungen vorstellen, die nachweislich einen effizienteren Workflow schaffen.
 
-Sie werden sowohl Fusion- als auch Nicht-Fusion-Automatisierungen gemeinsam nutzen, darunter:
+Sie teilen sich sowohl Fusion- als auch Nicht-Fusion-Automatisierungen, einschließlich:
 
-・ Wie werden Projekte automatisch geschlossen?
+・ So schließen Sie Projekte automatisch
 ・ Generierung von Untervorlagen
-・ Konsolidierte Prüfung genehmigter Vermögenswerte
+・ Konsolidierte Prüfung genehmigter Assets
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425812/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: 10 Tipps zum Wow Your Workfront
-description: Diese Tipps richten sich an Administratoren, die seit einiger Zeit in ihrer Instanz sind und auf eine effizientere Art und Weise hoffen.
+title: 10 Tipps für Ihren Workfront
+description: Diese Tipps richten sich an Administratoren, die sich schon seit einiger Zeit in ihrer Instanz befinden und auf eine effizientere Vorgehensweise hoffen.
 solution: Workfront
 role: User
 level: Intermediate, Experienced
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# 10 Tipps zum Wow Your Workfront
+# 10 Tipps für Ihren Workfront
 
-Diese Tipps richten sich an Administratoren, die seit einiger Zeit in ihrer Instanz sind und auf eine effizientere Art und Weise hoffen. Selbst wenn Sie Workfront seit zehn Jahren verwenden, können Sie dennoch einen Trick oder eine neue Idee lernen. In dieser Sitzung denken alle: &quot;Warten Sie, ich wusste nicht, dass Sie das können!&quot; und &quot;Was für eine tolle Idee!&quot;
+Diese Tipps richten sich an Administratoren, die sich schon seit einiger Zeit in ihrer Instanz befinden und auf eine effizientere Vorgehensweise hoffen. Auch wenn Sie Workfront seit zehn Jahren verwenden, können Sie immer noch einen Trick oder eine neue Idee lernen. In dieser Sitzung denken alle: „Warte, ich wusste nicht, dass du das kannst!“ und „Was für eine tolle Idee!“
 
 >[!VIDEO](https://video.tv.adobe.com/v/342523/?quality=12&learn=on)

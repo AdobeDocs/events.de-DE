@@ -1,6 +1,6 @@
 ---
-title: Marketing-Workflows und -Genehmigungen, Leap 2020 (1. Juli 2020)
-description: Hören Sie, wie Catherine Hayes Einblicke in die Erstellung und Verwendung von Marketing-Workflows in ihrem Unternehmen durch The Channel Company gibt.
+title: Marketing-Workflows und Genehmigungen, Leap 2020 (1. Juli 2020)
+description: Hören Sie, wie Catherine Hayes Einblicke in die Art und Weise gibt, wie die Channel-Firma Marketing-Workflows in ihrem Unternehmen erstellt und verwendet.
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10003
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Marketing-Workflows und -Genehmigungen, Leap 2020 (1. Juli 2020)
+# Marketing-Workflows und Genehmigungen, Leap 2020 (1. Juli 2020)
 
-Hören Sie, wie Catherine Hayes Einblicke in die Erstellung und Verwendung von Marketing-Workflows in ihrem Unternehmen durch The Channel Company gibt.
+Hören Sie, wie Catherine Hayes Einblicke in die Art und Weise gibt, wie die Channel-Firma Marketing-Workflows in ihrem Unternehmen erstellt und verwendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341225/?quality=12&learn=on)

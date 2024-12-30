@@ -1,6 +1,6 @@
 ---
-title: Foundation für die Optimierung von Indizes mit AEM Cloud Service
-description: AEM Änderungen der CSS-Indizierung und wie sich dies auf verschiedene Projekte auswirkt, Herausforderungen für Kunden mit Indizes in AEMaaCS und Best Practices für die Optimierung dieser Indizes
+title: Grundlage für die Indexoptimierung mit AEM Cloud Service
+description: Änderungen bei der AEM CS-Indizierung und wie sich dies auf verschiedene Projekte auswirkt, Herausforderungen, mit denen Kundinnen und Kunden bei Indizes in AEMaaCS konfrontiert sind, sowie Best Practices zur Optimierung dieser Indizes
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Foundation für die Optimierung von Indizes mit AEM Cloud Service
+# Grundlage für die Indexoptimierung mit AEM Cloud Service
 
-In dieser Live-Sitzung wird die Indizierung mit AEM as a Cloud Service (AEMaaCS) eingeführt. Wir werden Folgendes behandeln: Indizierung von Änderungen und wie sich dies auf verschiedene Projekte auswirken würde, Herausforderungen, denen Kunden mit Indizes in AEMaaCS gegenüberstehen, und Best Practices zur Optimierung dieser Indizes
+Diese Live-Sitzung führt zur Indizierung mit AEM as a Cloud Service (AEMaaCS). Wir behandeln - Indizierungsänderungen und wie sich dies auf verschiedene Projekte auswirken würde, Herausforderungen, denen Kundinnen und Kunden mit Indizes in AEMaaCS gegenüberstehen, und Best Practices zur Optimierung dieser Indizes
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422534/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Starten Sie Ihre Produktivität mit dem KI-Assistenten in Adobe Experience Platform.
-description: Treten Sie Rachel Hanessian und Ariel Sultan zu einem einblickigen Webinar bei, in dem Sie erfahren, wie Sie mit AI Assistant Anwendungsfälle einrichten, Erste Schritte unternehmen und untersuchen können, um die Produktivität in Real-Time CDP, Journey Optimizer und Customer Journey Analytics zu steigern.
+title: Steigern Sie Ihre Produktivität mit dem KI-Assistenten in Adobe Experience Platform
+description: Nehmen Sie an einem aufschlussreichen Webinar mit Rachel Hanessian und Ariel Sultan teil, in dem Sie erfahren, wie Sie KI-Assistenten einrichten, starten und Anwendungsfälle erkunden, um die Produktivität in Real-Time CDP, Journey Optimizer und Customer Journey Analytics zu steigern.
 role: Admin
 level: Beginner
 doc-type: Event
@@ -15,64 +15,64 @@ ht-degree: 0%
 
 ---
 
-# Starten Sie Ihre Produktivität mit dem KI-Assistenten in Adobe Experience Platform.
+# Steigern Sie Ihre Produktivität mit dem KI-Assistenten in Adobe Experience Platform
 
-Ein einblickiges Webinar, in dem Sie erfahren, wie Sie mit AI Assistant Anwendungsfälle einrichten, einsetzen und untersuchen können, um die Produktivität in Real-Time CDP, Journey Optimizer und Customer Journey Analytics zu steigern.
+Ein aufschlussreiches Webinar, in dem Sie lernen, wie Sie KI-Assistenten einrichten, damit Sie produktiver arbeiten und Anwendungsfälle für Real-Time CDP, Journey Optimizer und Customer Journey Analytics erkunden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435344/?learn=on)
 
-**Presenter**
+**Moderatoren**
 
-* Rachel Hanessian, Produkt-Manager mit KI und Adobe Experience Platform.
-* Ariel Sultan arbeitet im Adobe Journey Optimizer-Team und im Produktmarketing für die KI-Assistentin.
+* Rachel Hanessian, Produktmanagerin mit Expertise in generativer KI und Adobe Experience Platform.
+* Ariel Sultan, arbeitet im Adobe Journey Optimizer-Team und im Produktmarketing für den KI-Assistenten.
 
 ## Webinar-Agenda
 
-* Übersicht über KI- und KI-Assistenten.
-* Beispielaufforderungen und eine Demo.
+* Übersicht über KI und KI-Assistent.
+* Beispiel-Eingabeaufforderungen und eine Demo.
 * Diskussion über Vertrauen und Datennutzung.
 * Zugriff auf den KI-Assistenten.
 
 ## Wichtigste Punkte
 
-### KI-Querformat
+### KI-Landschaft
 
-Generative KI wird schnell eingeführt. 89 % der Marketing-Experten glauben, dass sie bei personalisierten Kundenerlebnissen helfen wird.
-42 % der Umfrageteilnehmer sehen in Marketing-Anwendungen den viel versprechendsten Einsatz generativer KI.
+Generative KI wird schnell übernommen, wobei 89 % der Marketer glauben, dass sie bei der Gestaltung personalisierter Kundenerlebnisse helfen wird.
+42 % der Befragten sehen Marketing-Anwendungen als den viel versprechendsten Einsatz generativer KI.
 
-### Übersicht über den KI-Assistenten
+### KI-Assistent - Übersicht
 
-* Die KI-Assistentin ist eine kommunikative Oberfläche, die auf generativer KI basiert.
-* Sie wurde für die Echtzeit-Kundendatenplattform, Journey Optimizer und Customer Journey Analytics entwickelt.
-* Es unterstützt Sie bei Produktwissen, betrieblichen Einblicken und der Optimierung von Workflows.
+* Der KI-Assistent ist eine Dialogschnittstelle, die von generativer KI unterstützt wird.
+* Es wurde für Real-Time CDP, Journey Optimizer und Customer Journey Analytics entwickelt.
+* Es hilft bei Produktkenntnissen, Einblicken in den Betrieb und der Optimierung von Workflows.
 
 ### Funktionen und Personas
 
-* Allgemein verfügbar für Produktwissen und in der öffentlichen Beta für operative Einblicke.
-* Nützlich für Daten- und KI-Teams, Marketing-Teams und Marketing-Teams.
+* Allgemein verfügbar für Produktwissen und in der öffentlichen Betaversion für operative Einblicke.
+* Nützlich für Daten- und KI-Teams, Marketing-Opportunities-Teams und Marketing-Teams.
 
-### Beispielaufforderungen
+### Beispiel-Eingabeaufforderungen
 
-* Produktwissen: Lernen, offene Erkennung und Fehlerbehebung.
-* Betriebliche Einblicke: Nutzung, Herkunft und Datenhygiene.
+* Produktkenntnisse: Lernen, offene Erkennung und Fehlerbehebung.
+* Operative Einblicke: Nutzung, Herkunft und Datenhygiene.
 
-### Demozusammenfassung
+### Demo-Zusammenfassung
 
-* Es wurde gezeigt, wie der KI-Assistent für verschiedene Aufgaben wie das Auflisten von Zielgruppen, das Verständnis von Attributen und das Auffinden von Best Practices verwendet wird.
-* Die Integration mit Unified Search und die Möglichkeit, Folgefragen zu stellen, wurden angezeigt.
+* Es wurde gezeigt, wie der KI-Assistent für verschiedene Aufgaben wie das Auflisten von Zielgruppen, das Verstehen von Attributen und das Auffinden von Best Practices verwendet wird.
+* Integration mit Unified Search gezeigt und die Möglichkeit, Folgefragen zu stellen.
 
 ### Vertrauen und Datennutzung
 
 * Der KI-Assistent ist standardmäßig deaktiviert und erfordert Administratorberechtigungen.
-* Unterstützt rollenbasierte, objektbasierte und attributbasierte Zugriffskontrolle.
-* Betrachtet keine Endverbraucherdaten und verwendet Azure Open AI zur Verarbeitung.
+* Unterstützt rollenbasierte, objektbasierte und attributbasierte Zugriffssteuerung.
+* betrachtet keine Endbenutzerdaten und verwendet Azure Open AI für die Verarbeitung.
 
-### Zugriff erhalten
+### Erhalten von Zugriff
 
-* Drei Schritte: organisatorischer Zugriff, Administratorberechtigungen und Benutzervereinbarung.
+* Drei Schritte: Organisationszugriff, Administratorberechtigungen und Benutzerzustimmung.
 * Berechtigungen können für verschiedene Produkte und Funktionen festgelegt werden.
 
-### Fahrplan und künftige Funktionen
+### Roadmap und künftige Funktionen
 
-* Zu den aktuellen Funktionen gehören das Abrufen von Informationen und die Erstellung von Inhalten.
-* Zu den künftigen Funktionen gehören Datenanalyse, Kundensupport, Optimierung und Workflow-Automatisierung.
+* Zu den aktuellen Funktionen gehören der Abruf von Informationen und die Inhaltserstellung.
+* Zu den zukünftigen Funktionen gehören Datenanalyse, Kunden-Support, Optimierung und Workflow-Automatisierung.

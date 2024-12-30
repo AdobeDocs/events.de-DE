@@ -1,6 +1,6 @@
 ---
 title: Kreativagenturen - Workflow und Prozess (14. Juli 2020)
-description: Sehen Sie sich Linnie Ciepolowski von Esri an, um Beispiele und Strategien zur Entwicklung effizienter Marketing-Prozesse zu teilen.
+description: Hören Sie Linnie Ciepolowski von Esri teilen Beispiele und Strategien, wie Sie effiziente Marketing-Prozesse entwickeln können.
 role: Admin, User
 level: Beginner, Intermediate
 kt: 9993
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Kreativagenturen: Workflow &amp; Prozesse (14. Juli 2020)
+# Kreativagenturen: Workflow und Prozess (14. Juli 2020)
 
-Sehen Sie sich Linnie Ciepolowski von Esri an, um Beispiele und Strategien zur Entwicklung effizienter Marketing-Prozesse zu teilen.
+Hören Sie Linnie Ciepolowski von Esri teilen Beispiele und Strategien, wie Sie effiziente Marketing-Prozesse entwickeln können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341220/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: InFORMation - die ultimativen Tipps und Tricks für Ihre Forms
-description: Forms ist ein wichtiger Bestandteil der Journey zur Nachfragegenerierung eines Unternehmens, aber es gibt häufig Fragen, die beantwortet werden müssen, um sicherzustellen, dass sie optimiert sind.
+title: 'Get inFORMation: Die Tipps und Tricks von Ultimate für Ihre Forms'
+description: Forms ist ein wichtiger Bestandteil des Demand Generation Journey eines Unternehmens. Es gibt jedoch häufig Fragen, die beantwortet werden müssen, um sicherzustellen, dass sie optimiert sind.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# InFORMation - die ultimativen Tipps und Tricks für Ihre Forms
+# Get inFORMation: Die Tipps und Tricks von Ultimate für Ihre Forms
 
-Forms ist ein wichtiger Bestandteil der Journey zur Nachfragegenerierung eines Unternehmens, aber es gibt häufig Fragen, die beantwortet werden müssen, um sicherzustellen, dass sie optimiert sind. In dieser Sitzung werden Ihnen [!DNL Marketo Engage] Champions, Amanda und Jugz durch Best Practices und Tipps zur Anwendung auf Formulare geführt, um die Genauigkeit der erfassten Daten zu erhöhen und Konversionsraten zu erhöhen.
+Forms ist ein wichtiger Bestandteil des Demand Generation Journey eines Unternehmens. Es gibt jedoch häufig Fragen, die beantwortet werden müssen, um sicherzustellen, dass sie optimiert sind. In dieser Sitzung werden [!DNL Marketo Engage] Champions, Amanda und Julz, Sie durch Best Practices und Tipps zur Anwendung auf Formulare führen, um die Genauigkeit der erfassten Daten zu erhöhen und die Konversionsraten zu erhöhen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340312/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Best Practices für Systemadministratoren (29. September 2020)
-description: Hören Sie sich Anthony Imgrund bei FCB an, wie Sie einige Best Practices teilen, wenn Sie ein globaler Systemadministrator für Ihre Organisation sind.
+description: Hören Sie sich Anthony Imgrund von der FCB an, wo er einige Best Practices erläutert, wenn er globaler Systemadministrator für Ihr Unternehmen ist.
 role: Admin
 level: Beginner, Intermediate, Experienced
 kt: 10009
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Best Practices für Systemadministratoren (29. September 2020)
 
-Hören Sie sich Anthony Imgrund bei FCB an, wie Sie einige Best Practices teilen, wenn Sie ein globaler Systemadministrator für Ihre Organisation sind.
+Hören Sie sich Anthony Imgrund von der FCB an, wo er einige Best Practices erläutert, wenn er globaler Systemadministrator für Ihr Unternehmen ist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341227/?quality=12&learn=on)

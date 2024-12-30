@@ -1,6 +1,6 @@
 ---
-title: Fragen Sie den Experten - Qualität des Testversands und Interaktion
-description: Erfahren Sie, wie Sie Berichte erstellen, die Fragen zur Qualität und Interaktion beantworten. Dieses Webinar wurde am 13. November 2019 aufgenommen.
+title: Fragen Sie den Experten - Qualität und Interaktion messen
+description: Erfahren Sie, wie Sie Berichte erstellen, die Fragen zur Qualität und Interaktion beantworten. Dieses Webinar wurde am 13. November 2019 aufgezeichnet.
 doc-type: feature video
 team: Technical Marketing
 kt: 9914
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 ---
 
-# Fragen Sie den Experten - Qualität des Testversands und Interaktion
+# Fragen Sie den Experten - Qualität und Interaktion messen
 
-Erfahren Sie, wie Sie Berichte erstellen, die Fragen zur Qualität und Interaktion beantworten. Dieses Webinar wurde am 13. November 2019 aufgenommen.
+Erfahren Sie, wie Sie Berichte erstellen, die Fragen zur Qualität und Interaktion beantworten. Dieses Webinar wurde am 13. November 2019 aufgezeichnet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341120/?quality=12)
 
@@ -23,21 +23,21 @@ Erfahren Sie, wie Sie Berichte erstellen, die Fragen zur Qualität und Interakti
 
 **Frage**
 
-Es gibt einige Felder, nach denen gefiltert werden kann, die jedoch nicht verfügbar sind, wenn Sie versuchen, sie zu gruppieren. Arbeiten Sie daran, diese Optionen konsistent zu machen?
+Es gibt einige Felder, die nach gefiltert werden können, aber nicht verfügbar sind, wenn Sie versuchen, nach ihnen zu gruppieren. Arbeiten Sie an konsistenten Optionen für sie?
 
 **Antwort**
 
-Die Reporting-Tools ermöglichen es Ihnen nicht, eine Gruppierung nach einem dynamischen Feld oder einem Feld vorzunehmen, bei dem mehrere Auswahlmöglichkeiten gleichzeitig ausgewählt sein können (z. B. ein Kontrollkästchen). Sie können nur Felder gruppieren, die einen einzigen Wert haben, auch wenn sie viele Möglichkeiten haben.
+Mit den Reporting-Tools können Sie nicht nach einem dynamischen Feld gruppieren oder nach einem Feld, bei dem mehrere Auswahlmöglichkeiten gleichzeitig ausgewählt sein können, z. B. einem Kontrollkästchen. Sie können nur Felder mit einem einzigen Wert gruppieren, auch wenn diese möglicherweise viele Auswahlmöglichkeiten haben.
 
-Sie können nach Checkboxes filtern und sie anzeigen, Sie können sie einfach nicht gruppieren.
+Sie können nach Kontrollkästchen filtern und sie anzeigen, Sie können sie nur nicht gruppieren.
 
 **Frage**
 
-Kann ich im Beispiel der Iteration zu Stellenrollen das primär fett anzeigen?
+Kann ich bei der Iteration zu Aufgabengebieten die primäre fett darstellen?
 
 **Antwort**
 
-In der Iteration können wir die Rolle des Hauptauftrags identifizieren. Wir müssen dies in einem Werteausdruck tun, aber HTML-Codes werden in einem Werteausdruck nicht erkannt. Wir müssen also eine andere Möglichkeit finden, die Rolle als die primäre Rolle zu identifizieren. Ich setzte &quot;**&quot;vor und nach dem primären Rollennamen in diesen Code. Probieren Sie es aus, um zu sehen, wie es Ihnen gefällt:
+In der Iteration können wir das primäre Aufgabengebiet identifizieren. Wir müssen dies in einem Werteausdruck tun, aber HTML-Codes werden in einem Werteausdruck nicht erkannt. Also müssen wir uns einen anderen Weg einfallen lassen, um zu erkennen, dass die Rolle die primäre ist. Ich habe &quot;**&quot; vor und nach dem Namen der primären Rolle in diesem Code eingefügt. Probieren Sie es aus und sehen Sie, wie es Ihnen gefällt:
 
 ```
 displayname=All Job Roles 
@@ -61,19 +61,19 @@ Dabei ist Designer die primäre Rolle für diesen Benutzer.
 
 **Frage**
 
-Hallo! Ich stelle einen Workflow für unser Redaktionsteam zusammen, der verfolgt, wo sich ein Artikel im Lebenszyklus befindet (anfängliches Schreiben > Bewertungen der Abteilungen > endgültige Bearbeitungen > Veröffentlichen). Sie möchten einfach sehen, zu welchem Meilenstein oder welchen Aufgaben er sich derzeit befindet. Das Feedback, das ich erhalte, ist die standardmäßige Meilensteinansicht (mit roter oder grüner Schattierung) zu &quot;beschäftigt und komplex&quot;. Gibt es eine Möglichkeit, einfach &quot;Projektname&quot;und &quot;Aktueller Meilenstein&quot;in einer Tabelle oder einem Raster anzuzeigen?
+Hallo! Ich stelle einen Workflow für unsere Redaktion zusammen, der verfolgt, wo sich ein Artikel in seinem Lebenszyklus befindet (anfängliches Schreiben —> Abteilung(en) Reviews —> endgültige Bearbeitungen —> Veröffentlichen). Sie möchten leicht erkennen, in welchem Meilenstein oder Aufgabe sie sich derzeit befindet. Das Feedback, das ich erhalte, ist die standardmäßige Meilenstein -Ansicht (mit der roten oder grünen Schattierung) ist zu „beschäftigt und komplex“. Gibt es eine Möglichkeit, einfach den „Projektnamen“ und den „aktuellen Meilenstein“ in einer Tabelle oder einem Raster anzuzeigen?
 
 **Antwort**
 
-Ja. Sie können einen Aufgabenbericht erstellen, der die derzeit bearbeiteten Meilensteinaufgaben und die damit verbundenen Aufgaben anzeigt. Dies können Sie in einer Tabelle oder in einem Listenbericht tun.
+Ja. Sie können einen Aufgabenbericht erstellen, der die aktuell bearbeiteten Meilensteinaufgaben und die zugehörige Aufgabe ausgibt. Dies ist in einer Tabelle oder in einem Listenbericht möglich.
 
 **Frage**
 
-Können in einem Bericht Testsendungen mit Projektinformationen kombiniert werden?
+Können wir Korrekturabzugsinformationen mit Projektinformationen in einem Bericht kombinieren?
 
 **Antwort**
 
-Wenn Sie einen Bericht zur Testbestätigung erstellt haben, können Projektinformationen mithilfe des Textmodus in Spalten eingefügt werden. Wenn Sie beispielsweise den Projektnamen in einer Spalte referenzieren möchten, können Sie Folgendes verwenden:
+Wenn Sie einen Bericht zur Korrekturabzugsgenehmigung erstellt haben, können Projektinformationen im Textmodus in Spalten übernommen werden. Wenn Sie beispielsweise auf den Projektnamen in einer Spalte verweisen möchten, können Sie Folgendes verwenden:
 
 ```
 displayname=Project Name
@@ -84,53 +84,53 @@ valueformat=HTML
 
 **Frage**
 
-Ich möchte auch mehr Informationen über die Berichterstattung über die Testversanddaten im Zusammenhang mit dem Projekt erhalten. Beispiel: ein Projektbericht, der eine Testbestätigungsentscheidung und Kommentare enthält.
+Ich hätte auch gerne mehr Informationen über die Berichterstattung über Korrekturabzugsdaten, da sie sich auf das Projekt beziehen. Beispiel: ein Projektbericht, der Korrekturabzugsentscheidungen und Kommentare enthält.
 
 **Antwort**
 
-Um Projektinformationen und Testversandinformationen in einem einzigen Bericht zu referenzieren, sollten Sie einen Validierungsbericht erstellen. Derzeit können keine Kommentare aus einem Testversand in diesen Bericht aufgenommen werden. Jede Entscheidung für einen Testversand-Validierer kann jedoch in der Spalte Entscheidung für den Genehmiger in einem eigenen Zeileneintrag gefunden werden.
+Um Projektinformationen und Testversandinformationen in einem einzigen Bericht zu referenzieren, sollten Sie einen Testversandgenehmigungsbericht erstellen. Derzeit können Kommentare aus einem Korrekturabzug nicht in diesen Bericht übernommen werden. Jede Entscheidung der genehmigenden Person für Korrekturabzüge kann jedoch in ihrem eigenen Zeileneintrag in der Spalte Entscheidung der genehmigenden Person gefunden werden.
 
 **Frage**
 
-Ich verwende sharecol oft, um den Status einer einzelnen Seite zu erstellen (viele Spalten). Wenn ich nach der Erstellung eines Berichts jedoch eine Spalte am Seitenanfang hinzufügen möchte, ist es sehr zeitaufwendig, zurückzukehren und zu ändern. Haben Sie Tipps oder Tricks, diese Art von Änderung vorzunehmen?
+Ich verwende sharecol oft, um den Status einer einzelnen Seite zu erstellen (viele Spalten). Wenn ich jedoch nach dem Erstellen eines Berichts oben auf der Seite eine Spalte hinzufügen möchte, ist es sehr zeitaufwendig, zurückzugehen und Änderungen vorzunehmen. Haben Sie Tipps oder Tricks, um diese Art von Änderung vorzunehmen?
 
 **Antwort**
 
-Wenn Sie davon sprechen, eine Spalte ganz oben in der Liste der Textmodus-Spalten zu platzieren, müssen Sie Ihre Spalten nur manuell neu nummerieren.
+Wenn Sie darüber sprechen, eine Spalte an den Anfang einer Liste von Spalten im Textmodus zu setzen, müssen Sie Ihre Spalten nur manuell neu nummerieren.
 
-Wenn Sie den Bericht jedoch bereits erstellt haben, wobei die erste Spalte einige gemeinsame Spalten enthält, und Sie eine weitere gemeinsame Spalte ganz oben auf der Liste platzieren möchten, ist dies einfacher.
+Wenn Sie den Bericht jedoch bereits erstellt haben, wobei die erste Spalte einige freigegebene Spalten enthält, und Sie eine weitere freigegebene Spalte oben in der Liste platzieren möchten, ist dies einfacher.
 
-Fügen Sie im Berichtseditor einfach einige neue Spalten hinzu und ziehen Sie sie ganz links in den Bildschirm &quot;Spalten (Ansicht)&quot;. Nachdem Sie dies getan haben, sehen Sie, was früher die linke Spalte war, und Sie werden feststellen, dass die Spaltenzahlen im Textmodus inkrementiert wurden. Ziehen Sie so viele leere Spalten dorthin, wie Sie benötigen. Stellen Sie sicher, dass Sie etwas in diese leeren Spalten einfügen, bevor Sie es speichern, sonst werden sie entfernt.
+Fügen Sie im Berichtseditor einfach einige neue Spalten hinzu und ziehen Sie sie ganz links in den Bildschirm Spalten (Ansicht). Sehen Sie sich danach die linke Spalte an, und Sie werden feststellen, dass die Spaltennummern im Textmodus alle inkrementiert wurden. Ziehen Sie so viele leere Spalten wie nötig hierher. Achten Sie darauf, etwas in diese leeren Spalten zu setzen, bevor Sie es speichern, da sie sonst entfernt werden.
 
 **Frage**
 
-Hallo - im Hinblick auf den letzten Fehlerbericht - wie können die Berichte für mehrere Projekte erstellt werden - wenn Fehler für mehrere Projekte eingehen?
+Hallo - Was den endgültigen Fehlerbericht angeht - wie können die Berichte für mehrere Projekte erstellt werden - wenn Fehler für mehrere Projekte auftreten??
 
 **Antwort**
 
 Sie können nach Portfolio oder Projekt filtern, je nachdem, wie Sie Ihre Arbeit organisiert haben.
 
-Sie können auch nach Anforderungswarteschlangen filtern. Möglicherweise möchten Sie Anforderungswarteschlangen für jedes Projekt einrichten, in denen Sie Kundenbenutzer als Validierer erstellen können, die sich anmelden und Tickets direkt an die Anforderungswarteschlangen senden können, die Sie für sie freigegeben haben.
+Sie können auch nach Anforderungswarteschlangen filtern. Möglicherweise möchten Sie Anfrage-Warteschlangen für jedes Projekt einrichten, in dem Sie Kunden-Benutzer als Prüfer erstellen können, die sich anmelden und Tickets direkt an die Anfrage-Warteschlangen senden können, die Sie für sie freigegeben haben.
 
 **Frage**
 
-Die ersten Berichte basieren auf Projekten/Projektnamen, können dies auch für Aufgaben durchgeführt werden und wenn ja, wie man sie am besten gruppiert, da der Aufgabenname möglicherweise öfter als nicht anders wäre.. Danke!
+Die ersten Berichte basieren auf Projekten/Projektnamen, kann dies auch für Aufgaben getan werden, und wenn ja, was die beste Möglichkeit, sie zu gruppieren, da möglicherweise der Aufgabenname häufiger anders wäre als nicht…danke!
 
 **Antwort**
 
-Alle diese Berichte können je nach Art der Verfolgung entweder als Aufgaben-, Problem- oder Projektberichte erstellt werden.
+Alle diese Berichte können entweder als Aufgaben-, Problem- oder Projektberichte erstellt werden, je nachdem, wie Sie die Dinge verfolgen.
 
-Eine gängige Möglichkeit, Aufgaben zu gruppieren, besteht darin, sie zunächst nach ihrem Projektnamen und dann nach dem Aufgabennamen in jedem Projekt zu gruppieren. Auf diese Weise ist es einfach zu sehen, in welchem Projekt sie sich befinden, wenn Sie zwei Aufgaben mit demselben Namen haben.
+Eine gängige Möglichkeit, Aufgaben zu gruppieren, besteht darin, sie zuerst nach ihrem Projektnamen und dann nach dem Aufgabennamen innerhalb jedes Projekts zu gruppieren. Auf diese Weise können Sie, wenn Sie zwei Aufgaben mit demselben Namen haben, leicht erkennen, in welchem Projekt sie sich befinden.
 
 **Frage**
 
-Ich möchte wissen, welche Testsendungen herausragend sind, welche Aufgabe und welches Projekt sie verbinden, wann sie weitergeleitet wurden, wann sie fällig sind und wer Moderator und Genehmiger ist.
+Ich möchte wissen, welche Korrekturabzüge noch ausstehen, an welche Aufgabe und welches Projekt sie gebunden sind, wann sie weitergeleitet wurden, wann sie fällig sind und wer Moderator und genehmigende Person ist.
 
 **Antwort**
 
-Ausstehende Testsendungen können innerhalb eines Validierungsberichts nach Warten auf Entscheidung > Entspricht > Wahr gefiltert werden. Es gibt eine Spalte für Genehmiger, die Ihnen mitteilt, wer noch keine Entscheidung getroffen hat.
+Offene Korrekturabzüge können in einem Bericht zu Korrekturabzugsgenehmigungen nach Entscheidung warten > Gleich > True gefiltert werden. Es gibt eine Spalte für genehmigende Person, die Ihnen mitteilt, wer noch keine Entscheidung getroffen hat.
 
-Sie können auf die Aufgabe oder das Projekt verweisen, an das der Testversand mithilfe des Textmodus gebunden ist (siehe Beispiele unten).
+Sie können mithilfe des Textmodus auf die Aufgabe oder das Projekt verweisen, an die bzw. das der Korrekturabzug gebunden ist (siehe Beispiele unten).
 
 ```
 displayname=Task Name
@@ -146,27 +146,27 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-Was das Routing-Datum, das Fälligkeitsdatum und den Moderator anbelangt, so können diese Felder derzeit nicht in einen Workfront-Bericht übertragen werden. Daher müssen Sie direkt in den Testversand klicken, um diese Informationen anzuzeigen.
+Für das Routing-Datum, das Fälligkeitsdatum und den Moderator können diese Felder derzeit nicht in einen Workfront-Bericht übernommen werden. Daher müssen Sie direkt in den Korrekturabzug klicken, um diese Informationen anzuzeigen.
 
 **Frage**
 
-Können Sie ein benutzerdefiniertes Formular einrichten, das automatisch an einen Anfragenden gesendet wird, nachdem dessen Anfrage abgeschlossen wurde? Wie eine Umfrage zur Kundenzufriedenheit?
+Können Sie ein benutzerdefiniertes Formular einrichten, das nach Abschluss der Anforderung automatisch an den Anfragenden gesendet wird? Wie eine Umfrage zur „Kundenzufriedenheit“?
 
 **Antwort**
 
-Hier ist eine Sache, die Sie tun können, um Ihre Bedürfnisse zu erfüllen. Sie können eine Erinnerungsbenachrichtigung an ein Problem anhängen, das eine E-Mail an die &quot;Eingestiegen von&quot;sendet, nachdem ein tatsächliches Abschlussdatum eingegeben wurde. Die Person &quot;Eingestiegen von&quot;ist die Person, die das Problem erstellt hat.
+Hier ist eine Sache, die Sie tun können, um Ihre Bedürfnisse zu erfüllen. Sie können eine Erinnerungsnachricht an ein Problem anhängen, sodass eine E-Mail an „Eingegeben von“ gesendet wird, nachdem ein tatsächliches Abschlussdatum eingegeben wurde. Die „Eingegeben von“ ist die Person, die das Problem erstellt hat.
 
-Sie würden die Erinnerungsbenachrichtigung wie im Webinar für &quot;Erinnerung zum Ausfüllen der AAR-Datei für &quot;Nach Aktionsüberprüfung&quot; erstellen, mit der Ausnahme, dass dies eine Problemerinnerung wäre. Sie möchten wahrscheinlich eine E-Mail-Vorlage für diese erstellen und einen Link zur Umfrage bereitstellen. Sie müssen die Erinnerungsbenachrichtigung manuell auf jedes Problem anwenden (oder die Massenbearbeitung verwenden).
+Sie würden die Erinnerungsnachricht wie im Webinar für „Erinnerung zum Ausfüllen des Nachbearbeitungs-Reviews (AAR)“ erstellen, mit der Ausnahme, dass es sich um eine Problemerinnerung handelt. Wahrscheinlich möchten Sie auch eine E-Mail-Vorlage dafür erstellen, um einen Link zur Umfrage bereitzustellen. Sie müssen die Erinnerungsbenachrichtigung manuell auf jedes Problem anwenden (oder die Massenbearbeitung verwenden).
 
-Eine Integration wäre besser, da sie die manuellen Schritte automatisieren könnte, aber die Erinnerungsbenachrichtigung kann sofort durchgeführt werden.
+Eine Integration wäre besser, da sie die manuellen Schritte automatisieren könnte, aber die Erinnerungsbenachrichtigung kann sofort erfolgen.
 
 **Frage**
 
-Ich habe einen Bericht erstellt, der Projekte nach Vorlagentyp anzeigt. Ich kann den Projekteigentümer auflisten, aber nicht die Personen, die einem Projekt zugewiesen sind.
+Ich habe einen Bericht erstellt, der Projekte nach Vorlagentyp zeigt. Ich kann den Projektbesitzer auflisten, aber nicht die Personen, die einem Projekt zugewiesen sind.
 
 **Antwort**
 
-Wenn Sie im Projektteam (Registerkarte &quot;Staffelung&quot;) eine Spalte in Ihrem Projektbericht abrufen möchten, müssen Sie dies über den Textmodus erstellen. Der Textmodus sieht wie folgt aus:
+Wenn Sie das Projekt-Team (Registerkarte „Personal„) in eine Spalte in Ihrem Projektbericht ziehen möchten, müssen Sie dies über den Textmodus erstellen. Der Textmodus sieht wie folgt aus:
 
 ```
 displayname=Staffing 
@@ -178,7 +178,7 @@ valuefield=user:name
 valueformat=HTML
 ```
 
-## Textmoduscode für den AAR-Interaktionsbericht
+## Textmodus-Code für den AAR-Interaktionsbericht
 
 ```
 column.0.displayname=Task Details

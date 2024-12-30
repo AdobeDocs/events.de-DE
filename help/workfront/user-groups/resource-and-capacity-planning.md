@@ -1,6 +1,6 @@
 ---
-title: Ressourcen- und Kapazitätsplanung, Leap 2020 (2. Juli 2020)
-description: Sehen Sie sich Kimberly Rea und Meghan Scotto von Schneider Electric an, wie sie Ressourcenmanagement und Kapazitätsplanung mit Workfront durchführen.
+title: Ressourcen- und Kapazitätsplanung, LEAP 2020 (2. Juli 2020)
+description: Sehen Sie, wie Kimberly Rea und Meghan Scotto von Schneider Electric zeigen, wie sie Ressourcenmanagement und Kapazitätsplanung mit Workfront durchführen.
 role: Admin, User
 level: Intermediate, Experienced
 kt: 10007
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Ressourcen- und Kapazitätsplanung, Leap 2020 (2. Juli 2020)
+# Ressourcen- und Kapazitätsplanung, LEAP 2020 (2. Juli 2020)
 
-Sehen Sie sich Kimberly Rea und Meghan Scotto von Schneider Electric an, wie sie Ressourcenmanagement und Kapazitätsplanung mit Workfront durchführen.
+Sehen Sie, wie Kimberly Rea und Meghan Scotto von Schneider Electric zeigen, wie sie Ressourcenmanagement und Kapazitätsplanung mit Workfront durchführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341214/?quality=12&learn=on)

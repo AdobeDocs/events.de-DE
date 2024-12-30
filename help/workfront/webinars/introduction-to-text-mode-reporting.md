@@ -1,6 +1,6 @@
 ---
-title: Experten fragen - Einführung in die Berichterstellung zum Textmodus
-description: Der Textmodus kann Ihre Berichtsfunktionen erweitern, um komplexere Ansichten, Filter, Gruppierungen und Eingabeaufforderungen zu erstellen. Dieses Webinar wurde am 15. Juli 2020 aufgenommen.
+title: Fragen an den Experten - Einführung in das Reporting im Textmodus
+description: Der Textmodus kann Ihre Reporting-Funktionen erweitern, um komplexere Ansichten, Filter, Gruppierungen und Eingabeaufforderungen zu erstellen. Dieses Webinar wurde am 15. Juli 2020 aufgezeichnet.
 doc-type: feature video
 team: Technical Marketing
 kt: 9919
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Experten fragen - Einführung in die Berichterstellung zum Textmodus
+# Fragen an den Experten - Einführung in das Reporting im Textmodus
 
-Der Textmodus kann Ihre Berichtsfunktionen erweitern, um komplexere Ansichten, Filter, Gruppierungen und Eingabeaufforderungen zu erstellen, indem Felder und Berechnungen verwendet werden, die in der Benutzeroberfläche des Standardmodus nicht verfügbar sind. Tony Messam, Workfront Principal Technical Consultant, wird den API Explorer, grundlegende Textmoduskomponenten und eine Live-Demo besprechen. Dieses Webinar wurde am 15. Juli 2020 aufgenommen.
+Der Textmodus kann Ihre Berichtsfunktionen erweitern, um komplexere Ansichten, Filter, Gruppierungen und Eingabeaufforderungen mithilfe von Feldern und Berechnungen zu erstellen, die in der Standardmodus-Benutzeroberfläche nicht verfügbar sind. Tony Messam, Principal Technical Consultant bei Workfront, wird den API Explorer, grundlegende Textmoduskomponenten besprechen und eine Live-Demo zeigen. Dieses Webinar wurde am 15. Juli 2020 aufgezeichnet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341125/?quality=12)

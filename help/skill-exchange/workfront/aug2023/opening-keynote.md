@@ -1,6 +1,6 @@
 ---
-title: Öffnungs-Keynote
-description: In dieser Sitzung führt Ihnen Director of Product Marketing, Richard Whitehead, durch die Entwicklung von Workfront, einschließlich Highlights, neuer und verfügbarer Funktionen und zum Abschluss mit Produktinnovationen.
+title: Keynote zur Eröffnung
+description: In dieser Sitzung führt Sie Richard Whitehead, Director of Product Marketing, durch die Entwicklung von Workfront, einschließlich Highlights, neuer und verfügbarer Funktionen, und schließt mit Produktinnovationen ab.
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# August 2023 Workfront-Öffnungs-Keynote
+# Workfront-Eröffnungs-Keynote August 2023
 
-In dieser Sitzung führt Ihnen Director of Product Marketing, Richard Whitehead, durch die Entwicklung von Workfront, einschließlich Highlights, neuer und verfügbarer Funktionen und zum Abschluss mit Produktinnovationen.
+In dieser Sitzung führt Sie Richard Whitehead, Director of Product Marketing, durch die Entwicklung von Workfront, einschließlich Highlights, neuer und verfügbarer Funktionen, und schließt mit Produktinnovationen ab.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425894/?learn=on)

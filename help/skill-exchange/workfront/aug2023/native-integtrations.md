@@ -1,6 +1,6 @@
 ---
-title: Anleitung für native Integrationen
-description: Einführung in native Workfront-Integrationen für Creative Cloud und AEM Assets in der Adobe-Content-Supply Chain-Strategie
+title: Anleitung für Einsteiger zu nativen Integrationen
+description: Eine Einführung in native Workfront-Integrationen für Creative Cloud und AEM Assets innerhalb der Adobe-Strategie für die Inhaltslieferkette
 solution: Workfront, Creative Cloud
 feature: Workfront Integrations and Apps
 topic: Integrations
@@ -19,18 +19,18 @@ ht-degree: 0%
 
 ---
 
-# Anleitung für native Integrationen
+# Anfängerleitfaden für native Integrationen
 
-Wussten Sie, dass Adobe Workfront über native, kostenlose Integrationen mit Adobe Creative Cloud und Experience Cloud verfügt?
+Wussten Sie, dass Adobe Workfront native, kostenlose Integrationen mit Adobe Creative Cloud und Experience Cloud bietet?
 
-Die Adobe Workfront- und Creative Cloud-Integration ermöglicht es Ihrem Team, Workfront-Projekte und -Prioritäten direkt im Creative Cloud zu sehen, Unterbrechungen zu beseitigen und ihm mehr Zeit für das zu geben, was es am besten macht: kreativ zu sein. Die Verbindung von Workfront mit AEM Assets über die neue native Integration von Adobe ist für die Metadatenintegrität von entscheidender Bedeutung und optimiert den Inhaltsfluss zwischen diesen Systemen.
+Durch die Adobe Workfront + Creative Cloud-Integration kann Ihr Team seine Workfront-Projekte und -Prioritäten direkt im Creative Cloud sehen, Unterbrechungen vermeiden und mehr Zeit für das haben, was es am besten kann: kreativ sein. Die Verbindung von Workfront mit AEM Assets über die neue native Integration von Adobe ist wichtig für die Metadatenintegrität und optimiert die Art und Weise, wie Inhalte zwischen diesen Systemen fließen.
 
-Shannon McDonnell und Jeff Herrington vom Adobe Workfront Product Management-Team erhalten einen Überblick über diese Integrationen und darüber, wie Sie diese heute nutzen können.
+Shannon McDonnell und Jeff Herrington vom Adobe Workfront Product Management-Team geben einen Überblick über diese Integrationen und darüber, wie Sie sie ab heute nutzen können.
 
 Sie werden teilen,
 
-* Einführung in native Workfront-Integrationen für Creative Cloud und AEM Assets in der Adobe-Content-Supply Chain-Strategie
-* So werden diese Integrationen in wenigen Minuten eingerichtet
-* Grundlegendes zu den wichtigsten Anwendungsfällen, die innerhalb jeder Integration behandelt werden
+* Eine Einführung in native Workfront-Integrationen für Creative Cloud und AEM Assets innerhalb der Adobe-Strategie für die Inhaltslieferkette
+* Einrichtung dieser Integrationen in wenigen Minuten
+* Ein Verständnis der wichtigsten Anwendungsfälle, die in jeder Integration verarbeitet werden
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425794/?learn=on)

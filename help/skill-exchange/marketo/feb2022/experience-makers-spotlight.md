@@ -1,6 +1,6 @@
 ---
-title: Marketo Engage Experience Maker Spotlight
-description: Treten Sie uns bei, während wir zwei erfahrene Kunden und [!DNL Marketo Engage] Benutzer im Blickpunkt haben. Jeder gibt sein bestes [!DNL Marketo Engage] Tipp oder Trick frei.
+title: Marketo Engage Experience Makers im Blickpunkt
+description: Seien Sie dabei, wenn wir zwei erfahrene Kunden und  [!DNL Marketo Engage]  in den Blickpunkt rücken. Jeder wird seinen besten  [!DNL Marketo Engage]  oder Trick teilen.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] Erlebnis-Maker-Spotlight
+# [!DNL Marketo Engage] Experience Makers im Blickpunkt
 
-Treten Sie uns bei, während wir zwei erfahrene Kunden und [!DNL Marketo Engage] Benutzer im Blickfeld haben. Jeder wird seinen besten [!DNL Marketo Engage] Tipp oder Trick teilen.
+Seien Sie dabei, wenn wir zwei erfahrene Kunden und [!DNL Marketo Engage] Benutzer in den Blickpunkt rücken. Jeder teilt sein Bestes [!DNL Marketo Engage] Tipp oder Trick.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340592/?quality=12&learn=on)

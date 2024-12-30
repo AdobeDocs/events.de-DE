@@ -1,6 +1,6 @@
 ---
-title: Experience Maker-Spotlight - Optimieren Sie Ihre virtuellen Ereignisse mit interaktiven Webinaren
-description: Sparen Sie Zeit, indem Sie Ihre Webinare und Ereignisse mit interaktiven Webinaren erweitern. So können Sie den gesamten Workflow an einem Ort verwalten - von der Erstellung von Werbe-E-Mails und der Segmentierung mit Smart-Listen über das Hosting von Live-Webinaren bis hin zur Leistungsanalyse und Automatisierung Ihrer Nachverfolgung. In dieser Sitzung erfahren Sie Best Practices zum Einrichten und Erstellen Ihres ersten interaktiven Webinars   So verfolgen Sie Erfolg mit Berichten, nutzen Umfragen, um Leads zu generieren und Folgenachrichten zu automatisieren   Anwendungsfälle und Ergebnisse in der Echtzeit, wie interaktive Webinare die Interaktion steigern und gleichzeitig die Bereitstellungszeit verkürzen können
+title: 'Experience Makers Spotlight: Optimieren Sie Ihre virtuellen Ereignisse mit interaktiven Webinaren'
+description: Sparen Sie Zeit, indem Sie Ihre Webinare und Ereignisse um interaktive Webinare erweitern, in denen Sie den gesamten Workflow an einem Ort verwalten können - von der Erstellung von Werbe-E-Mails und der Segmentierung mit Smart Lists über die Durchführung von Live-Webinaren bis hin zum Zugriff auf Leistungsanalysen und der Automatisierung Ihrer Nachbereitung. In dieser Sitzung erfahren Sie mehr über die Best Practices zum Einrichten und Erstellen Ihres ersten interaktiven Webinars   Wie man den Erfolg mit Berichten verfolgt, Umfragen zur Lead-Generierung nutzt und Folgemaßnahmen automatisiert   Anwendungsfälle und Ergebnisse aus der Praxis zeigen, wie interaktive Webinare die Interaktion steigern und gleichzeitig die Bereitstellungszeit verkürzen können
 solution: Marketo
 role: User
 level: Beginner
@@ -8,22 +8,22 @@ doc-type: Event
 duration: 2788
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16004
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+exl-id: b5a84c75-918a-4b71-aa87-c64e3de5b3cf
+source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
+# Experience Makers im Blickpunkt: Optimieren Sie Ihre virtuellen Ereignisse mit interaktiven Webinaren
 
-# Experience Maker-Spotlight: Optimieren Sie Ihre virtuellen Ereignisse mit interaktiven Webinaren.
-
-Sparen Sie Zeit, indem Sie Ihre Webinare und Ereignisse mit interaktiven Webinaren erweitern. So können Sie den gesamten Workflow an einem Ort verwalten - von der Erstellung von Werbe-E-Mails und der Segmentierung mit Smart-Listen über das Hosting von Live-Webinaren bis hin zur Leistungsanalyse und Automatisierung Ihrer Nachverfolgung.
+Sparen Sie Zeit, indem Sie Ihre Webinare und Ereignisse um interaktive Webinare erweitern, in denen Sie den gesamten Workflow an einem Ort verwalten können - von der Erstellung von Werbe-E-Mails und der Segmentierung mit Smart Lists über die Durchführung von Live-Webinaren bis hin zum Zugriff auf Leistungsanalysen und der Automatisierung Ihrer Nachbereitung.
 
 In dieser Sitzung lernen Sie Folgendes:
 
-* Best Practices zum Einrichten und Erstellen Ihres ersten interaktiven Webinars
-* So verfolgen Sie Erfolg mit Berichten, nutzen Umfragen, um Leads zu generieren und Folgenachrichten zu automatisieren
-* Anwendungsfälle und Ergebnisse in der Echtzeit, wie interaktive Webinare die Interaktion steigern und gleichzeitig die Bereitstellungszeit verkürzen können
+* Best Practices zum Einrichten und Erstellen des ersten interaktiven Webinars
+* Wie man den Erfolg mit Berichten verfolgt, Umfragen zur Lead-Generierung nutzt und Folgemaßnahmen automatisiert
+* Anwendungsfälle und Ergebnisse aus der Praxis zeigen, wie interaktive Webinare die Interaktion steigern und gleichzeitig die Bereitstellungszeit verkürzen können
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432947/?learn=on)
