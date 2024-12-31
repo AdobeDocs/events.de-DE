@@ -1,6 +1,6 @@
 ---
-title: Analyse von Umrechnungsfaktoren zur Verbesserung Ihres Kundenerlebnisses
-description: In allen Branchen ist es wichtig, dass Sie Ihr Onsite-Erlebnis kontinuierlich verbessern. Der Zweck der Konversionsbekämpfung besteht darin, Faktoren zu untersuchen, die sich negativ auf die Kundenerfahrung vor Ort auswirken, um sie zu lösen. Es gibt viele Metriken, die Sie anzeigen können, um Ihr Erlebnis zu verbessern. In dieser Sitzung werden wir uns auf folgende Punkte konzentrieren:- Verwendung von Fehlerraten zur Förderung von Einblicken - Ermitteln von Bereichen für Kundenverwirrung zur Verbesserung der Journey von Kunden - Tipps zur Implementierung von Anti-Konversion-Maßnahmen in Ihrem Unternehmen
+title: Analyse der Anti-Konversionsfaktoren zur Verbesserung des Kundenerlebnisses
+description: In jeder Branche ist es wichtig, das Erlebnis vor Ort kontinuierlich zu verbessern. Der Zweck der Konversionsabwehr besteht darin, Faktoren zu untersuchen, die sich negativ auf das Kundenerlebnis vor Ort auswirken, um sie zu beheben. Es gibt viele Metriken, die Sie betrachten können, um Ihr Erlebnis zu verbessern. In dieser Sitzung konzentrieren wir uns auf:- Wie Sie Fehlerquoten verwenden, um Einblicke zu gewinnen- Identifizieren von Bereichen mit verwirrten Kunden, um die Journey der Kunden zu verbessern- Tipps zur Implementierung von Konversionsschutzmaßnahmen in Ihrem Unternehmen
 feature-set: Analytics
 feature: Metrics
 role: User
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# Skill Exchange Event Aug 2023 - Wachstumskurs - Analyse von Anti-Conversion-Faktoren zur Verbesserung Ihres Kundenerlebnisses
+# Skill Exchange Event Aug 2023 - Auf den richtigen Weg bringen - Anti-Konversionsfaktoren analysieren, um das Kundenerlebnis zu verbessern
 
-In allen Branchen ist es wichtig, dass Sie Ihre On-site-Erfahrung kontinuierlich verbessern. Der Zweck der Konversionsbekämpfung besteht darin, Faktoren zu untersuchen, die sich negativ auf die Kundenerfahrung vor Ort auswirken, um sie zu lösen. Es gibt viele Metriken, die Sie anzeigen können, um Ihr Erlebnis zu verbessern.
+In jeder Branche ist es wichtig, die Erlebnisse vor Ort kontinuierlich zu verbessern. Der Zweck der Konversionsabwehr besteht darin, Faktoren zu untersuchen, die sich negativ auf das Kundenerlebnis vor Ort auswirken, um sie zu beheben. Es gibt viele Metriken, die Sie betrachten können, um Ihr Erlebnis zu verbessern.
 
-In dieser Sitzung werden wir uns auf folgende Punkte konzentrieren:
+Im Mittelpunkt dieser Sitzung stehen folgende Themen:
 
-* Verwendung von Fehlerraten zur Förderung von Einblicken
-* Identifizieren von Bereichen für Kundenverwirrung zur Verbesserung der Journey von Kunden
-* Tipps zur Implementierung von Konversionsschutz in Ihrer Organisation
+* Verwendung von Fehlerquoten zur Förderung von Einblicken
+* Identifizieren von Bereichen, in denen die Kunden verwirrt sind, um die Journey zu verbessern
+* Tipps zur Implementierung des Konversionsschutzes in Ihrer Organisation
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425991/?learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Rockstar-Segment
-description: Drei "Rockstar"-Kunden werden jeweils ihren besten Adobe Analytics-Tipp oder -Trick präsentieren.
+description: Drei „Rockstar“-Kunden präsentieren jeweils ihren besten Adobe Analytics-Tipp oder -Trick.
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Rockstar-Segment
 
-Drei &quot;Rockstar&quot;-Kunden werden jeweils ihren besten Adobe Analytics-Tipp oder -Trick präsentieren. Wer wird dich über jeden Glauben hinwegtäuschen? Beobachten und wählen Sie in Echtzeit.
+Drei „Rockstar“-Kunden präsentieren jeweils ihren besten Adobe Analytics-Tipp oder -Trick. Wer wird dich über den Glauben erstaunen? In Echtzeit ansehen und abstimmen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343323/?quality=12&learn=on)

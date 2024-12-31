@@ -1,6 +1,6 @@
 ---
 title: Migration zu EDDL/WebSDK - Mai 2023 APAC Adobe Analytics Skill Exchange Grow Track
-description: Warum auf EDDL/WebSDK migrieren und was vor dem Starten der Migration berücksichtigt werden sollte
+description: Warum Sie zu EDDL/WebSDK migrieren sollten und was vor Beginn der Migration zu beachten ist
 solution: Analytics
 feature-set: Analytics
 feature: Tags
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Migration zu EDDL/WebSDK - Mai 2023 APAC Adobe Analytics Skill Exchange Grow Track
 
-Warum auf EDDL/WebSDK migrieren und was vor dem Starten der Migration berücksichtigt werden sollte
+Warum Sie zu EDDL/WebSDK migrieren sollten und was vor Beginn der Migration zu beachten ist
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420947/?learn=on)

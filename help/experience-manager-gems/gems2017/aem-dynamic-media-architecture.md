@@ -1,6 +1,6 @@
 ---
 title: AEM Dynamic Media 6.3-Architektur
-description: Nehmen Sie an Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing teil, um mehr über die Dynamic Media-Version 6.3 zu erfahren.
+description: Lernen Sie mit Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing, die Version 6.3 von Dynamic Media kennen.
 discoiquuid: e9e8768d-25a8-4b20-b129-1b1e1732dbb9
 targetaudience: target-audience advanced
 exl-id: 69d32951-430a-4d30-b59c-73b9aa151ac5
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # AEM Dynamic Media 6.3-Architektur{#aem-dynamic-media-architecture}
 
-Nehmen Sie an Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing teil, um mehr über die Dynamic Media-Version 6.3 zu erfahren, darunter:
+Lernen Sie mit Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing, die Version 6.3 von Dynamic Media kennen, einschließlich:
 
 * Überblick über Dynamic Media einschließlich neuer Funktionen
 * Architektur von Dynamic Media
@@ -22,9 +22,9 @@ Nehmen Sie an Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19570/?quality=9)
 
-*Ausgestellt am 30. August 2017*
+*Veröffentlicht am 30.08.2017*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 * Cynthia Tillo, Principal Product Manager, Adobe
 * Herbert Wolfram, Director of Engineering, Adobe
@@ -32,7 +32,7 @@ Nehmen Sie an Cynthia Tillo, Principal Product Manager, Adobe Digital Marketing 
 * Peter Ciszak, Informatiker, Adobe
 * Kirk Jones, Informatiker, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/dynamicmedia83017.pdf)
 <!--

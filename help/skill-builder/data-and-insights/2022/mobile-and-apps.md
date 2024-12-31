@@ -1,6 +1,6 @@
 ---
-title: Analytics- und Target-Anwendungen für Mobilgeräte und Apps
-description: In dieser Sitzung erfahren Sie mehr über Best Practices für die Verwendung von Analytics-Dashboards auf Mobilgeräten sowie über die Personalisierung von Apps über Target.
+title: Analytics- und Target-Anwendungen für Mobile Apps und Apps
+description: In dieser Sitzung erfahren Sie mehr über Best Practices für die Verwendung von Analytics-Dashboards auf Mobilgeräten sowie für die Personalisierung von Apps über Target.
 solution: Analytics, Target
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Analytics- und Target-Anwendungen für Mobilgeräte und Apps
+# Analytics- und Target-Anwendungen für Mobile Apps und Apps
 
-In dieser Sitzung erfahren Sie mehr über Best Practices für die Verwendung von Analytics-Dashboards auf Mobilgeräten sowie über die Personalisierung von Apps über Target.
+In dieser Sitzung erfahren Sie mehr über Best Practices für die Verwendung von Analytics-Dashboards auf Mobilgeräten sowie für die Personalisierung von Apps über Target.
 
-*Ashika Ramjee* Lösungsberater/Adobe
+*Ashika Ramjee* Solution Consultant / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343819/?quality=12&learn=on)

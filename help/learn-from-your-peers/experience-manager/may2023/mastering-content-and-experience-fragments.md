@@ -1,6 +1,6 @@
 ---
-title: Verwalten von Inhalts- und Experience Fragments
-description: Mit diesem Webinar zur Wiederverwendbarkeit von Inhalten können Sie die Art und Weise der Erstellung von Inhalten revolutionieren und sein Potenzial voll ausschöpfen.
+title: Meistern von Inhalten und Experience Fragments
+description: Mit diesem Webinar zur Wiederverwendbarkeit von Inhalten revolutionieren Sie die Art und Weise, wie Sie Inhalte erstellen und ihr volles Potenzial erschließen.
 solution: Experience Manager
 version: Cloud Service
 feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites
@@ -22,18 +22,18 @@ ht-degree: 0%
 
 ---
 
-# On-Demand-Webinar zur Verwaltung von Inhalten und Experience Fragments
+# Meistern von Inhalten und Experience Fragments - On-Demand-Webinar
 
-Mit diesem Webinar zur Wiederverwendbarkeit von Inhalten können Sie die Art und Weise der Erstellung von Inhalten revolutionieren und sein Potenzial voll ausschöpfen. In dieser Sitzung werden wir uns mit den Funktionen für das Erstellen von Inhalten und Layout von Seiten vertraut machen, indem wir lernen, wie Sie Inhaltsfragmente und Experience Fragments als Bausteine kombinieren und verwenden können, um Ihre strategischen Inhaltsziele zu erreichen.
+Mit diesem Webinar zur Wiederverwendbarkeit von Inhalten revolutionieren Sie die Art und Weise, wie Sie Inhalte erstellen und ihr volles Potenzial erschließen. In dieser Sitzung werden wir uns eingehend mit den Funktionen für die Seitenbearbeitung und das Layout befassen, indem wir lernen, wie Inhaltsfragmente und Experience Fragments als Bausteine kombiniert und verwendet werden, um Ihre strategischen Inhaltsziele zu erreichen.
 
-Treten Sie Adobe Experience Manager Champion, Greg Dimeris, bei, da er erläutert, wie Sie eine skalierbare Inhaltsstrategie erstellen können, die mit Ihrem Unternehmen wachsen wird.
+Seien Sie dabei, wenn der Adobe Experience Manager-Experte Greg Dimeris erläutert, wie Sie eine skalierbare Inhaltsstrategie erstellen, die mit Ihrem Unternehmen wächst.
 
-In dieser Sitzung lernen Sie Folgendes:
+In dieser Sitzung erfahren Sie Folgendes:
 
-* Best Practices für Content und Experience Fragments
-* Tipps und Tricks zu bearbeitbaren Vorlagen
-* Zusammenführen und Erstellen leistungsstarker Inhaltsbausteine
+* Best Practices für Inhalts- und Experience Fragments
+* Bearbeitbare Vorlagen - Tipps und Tricks
+* Alle zusammenführen, um leistungsstarke Inhaltsbausteine zu erstellen
 
-Sie können die Präsentationsfolien [hier](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf) aufrufen.
+Sie können auf die Präsentationsfolien zugreifen [hier](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)

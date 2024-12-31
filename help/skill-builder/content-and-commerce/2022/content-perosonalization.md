@@ -1,6 +1,6 @@
 ---
-title: Innovationen in Content Personalization, die einen Geschäftswert bieten
-description: Erfahren Sie mehr über die neuesten Innovationen in der Adobe Content-Lösung und darüber, wie Adobe Innovationen in Commerce-Lösungen vorantreibt.
+title: Innovationen in Content Personalization, die geschäftlichen Nutzen bieten
+description: Erfahren Sie mehr über die neuesten Innovationen bei Adobe-Inhaltslösungen und darüber, wie Adobe Innovationen bei Commerce-Lösungen vorantreibt
 solution: Experience Manager, Commerce
 role: Admin, Leader, User
 level: Beginner
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ---
 
-# Innovationen in Content Personalization, die einen Geschäftswert bieten
+# Innovationen in Content Personalization, die geschäftlichen Nutzen bieten
 
-Content &amp; Commerce
+Inhalt und Commerce
 
-Lernen Sie die neuesten Innovationen der Adobe-Inhaltslösung kennen, die Ihnen dabei helfen, die Inhaltserstellung zu demokratisieren, die kanalübergreifende Bereitstellung zu einem Kinderspiel zu machen und Personalisierungen zu skalieren, um jedes Erlebnis zu zählen.  Darüber hinaus besprechen wir, wie Adobe Innovationen in Commerce-Lösungen vorantreibt, die Ihnen dabei helfen, Ihre Zielgruppen einzubinden, die Bemühungen von Marketing- und CRM-Systemen vollständig zu realisieren und Ihre Commerce-Plattformen so zu überlasten, dass sie jedes Erlebnis zur Erinnerung bringen.
+Erfahren Sie mehr über die neuesten Innovationen bei der Content-Lösung von Adobe, mit der Sie die Inhaltserstellung demokratisieren, die Omni-Channel-Bereitstellung zum Kinderspiel machen und die Personalisierung skalieren können, um jedes Erlebnis zu zählen.  Wir werden auch besprechen, wie Adobe die Innovation bei Commerce-Lösungen vorantreibt, die Ihnen helfen, Ihre Zielgruppen einzubinden, die Bemühungen von Marketing- und CRM-Systemen vollständig zu realisieren und Ihre Commerce-Plattformen zu beleben, damit jedes Erlebnis unvergesslich bleibt.
 
-*Shaun McCran* Produktmarketing für Adobe Commerce/Adobe
+*Shaun McCran* Produktmarketing für Adobe Commerce / Adobe
 
-*Jamie Brighton* Leiter von Product &amp; Industry Marketing EMEA/Adobe
+*Jamie Brighton* Head of Product &amp; Industry Marketing EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343810/?quality=12&learn=on)

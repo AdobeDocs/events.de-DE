@@ -1,6 +1,6 @@
 ---
-title: Erfahren Sie, wie Sie eine standout Adobe Champion Application einreichen
-description: Treten Sie dem Adobe Advocacy-Team bei und wählen Sie Adobe Champions aus, um zu erfahren, wie Sie eine Standout-Adobe-Champion-Anwendung einreichen. Wir führen Sie durch den Anwendungsprozess, den Zeitrahmen des Anwendungsfensters und die Vorteile des Programms.
+title: Erfahren Sie, wie Sie eine herausragende Adobe Champion-Anwendung einreichen
+description: Schließen Sie sich dem Adobe-Advocacy-Team an und wählen Sie Adobe-Champions aus, um zu erfahren, wie Sie eine herausragende Adobe-Champion-Anwendung einreichen. Wir begleiten Sie durch den Bewerbungsprozess, den zeitlichen Ablauf des Bewerbungsfensters und die Programmvorteile.
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -15,28 +15,28 @@ ht-degree: 0%
 
 ---
 
-# Übermitteln einer Adobe Champion-Anwendung mit Standout-Funktionalität
+# Wie man eine herausragende Adobe Champion-Anwendung einreicht
 
-Treten Sie dem Adobe Advocacy-Team bei und wählen Sie Adobe Champions aus, um zu erfahren, wie Sie eine Standout Adobe Champion Application einreichen. Wir werden die Eignung des Programms und die vielfältigen &quot;Akte der Advocacy&quot; überprüfen, um Ihre Anwendung so optimal wie möglich zu gestalten. Wir führen Sie durch den Anwendungsprozess, den Zeitrahmen des Anwendungsfensters und die Vorteile des Programms. Wir decken die Vorteile des Eintritts in das Adobe Champion-Programm ab, einschließlich Karriereeffekte, Führungschancen, Gestaltung der Zukunft von Adobe-Produkten, persönliche Markenentwicklung und Anerkennung.
+Schließen Sie sich dem Adobe-Advocacy-Team an und wählen Sie Adobe-Champions aus, um zu erfahren, wie Sie eine herausragende Adobe-Champion-Anwendung einreichen. Wir werden die Eignung des Programms und die verschiedenen „Akte der Interessenvertretung“ überprüfen, um Ihre Bewerbung so gut wie möglich zu gestalten! Wir begleiten Sie durch den Bewerbungsprozess, den zeitlichen Ablauf des Bewerbungsfensters und die Programmvorteile. Wir berichten über die Vorteile der Teilnahme am Adobe Champion-Programm, einschließlich Karriereeffekt, Führungsmöglichkeiten, Gestaltung der Zukunft von Adobe-Produkten, persönliche Markenentwicklung und Bekanntheit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428431/?learn=on)
 
 ## Wichtigste Punkte
 
-* Das Adobe Champion-Programm erkennt erfahrene Kunden und Partner, die in der Adobe-Community als Denkführer und Produkteinflussnehmer auftreten.
-* Das Programm schätzt Personen, die sich leidenschaftlich für den Austausch ihres Wissens und Fachwissens mit der weiteren Adobe-Community einsetzen. &#x200B;
-* Das Programm bietet verschiedene Vorteile, wie z.B. Karriereeffekte, Führungsmöglichkeiten, die Gestaltung der Zukunft von Adobe-Produkten, persönliche Markenentwicklung und Anerkennung.
-* Der Antragsprozess beinhaltet Fragen, die es den Antragstellern ermöglichen, ihre Leidenschaft für die Rückgabe und Unterstützung der Community unter Beweis zu stellen.
-* Auch wenn Erfahrung mit Adobe-Produkten wichtig ist, gibt es für eine bestimmte Anzahl von Jahren oder Zertifizierungen keine strenge Anforderung.
-* Das Programm setzt sich für Vielfalt, Inklusion und globale Repräsentation ein und begrüßt Kontakte aus verschiedenen Funktionsbereichen und Hintergründen.
-* Die Adobe Champion Community bietet ein Gefühl der Unterstützung, Mentoring und Chancen für persönliches und professionelles Wachstum.
-* Das Programm bietet Sprachmöglichkeiten auf Veranstaltungen wie Adobe Summit, Fachaustausch, Webinare und Champion Office-Stunden.
-* Champions haben die Möglichkeit, Feedback zu geben und die Zukunft von Adobe-Produkten durch Produktfeedback-Anrufe und Whiteboarding-Sitzungen mit dem Produktteam zu gestalten.
-* Das Programm ermutigt Einzelpersonen, sich zu bewerben und sich daran zu beteiligen, unabhängig von ihrem Erfahrungsstand oder ihrem Hintergrund.
-* Der Bewerbungsprozess für das Adobe Champion Programm wird im Mai eröffnet und im Juni beendet.
-* Die Jury setzt sich aus Mitgliedern des Adobe-Produktteams, Marketingteams, Experience Cloud-Teams und Professional Services zusammen.
-* Die Adobe Champion-Klasse wird im September bekannt gegeben und ausgewählte Personen werden kontaktiert und erhalten zusätzliche Papiere.
-* Das Programm fördert ein Gefühl von Gemeinschaft und Unterstützung, sodass sich Meister mit gleich gesinnten Personen verbinden und von ihnen lernen können.
-* Die Champions haben die Möglichkeit, an Veranstaltungen wie Foren, Gipfeln, Geschenkveranstaltungen und sozialen Veranstaltungen teilzunehmen.
-* Das Programm ermutigt die Champions dazu, sich aktiv für die Öffentlichkeitsarbeit einzusetzen und sowohl lokal als auch global zur Adobe-Community beizutragen.
-* Das Programm bietet Zugriff auf Ressourcen wie Adobe Champion-Benutzergruppen und das Beratungsprogramm auf Experience League und Marketing Nation.
+* Das Adobe Champion-Programm zeichnet erfahrene Kunden und Partner aus, die Vordenker und Produktbeeinflusser in der Adobe-Community sind.
+* Das Programm schätzt Personen, die ihr Wissen und ihre Expertise mit der Adobe-Community teilen möchten. &#x200B;
+* Das Programm bietet verschiedene Vorteile, darunter Karriereeffekte, Führungsmöglichkeiten, die Gestaltung der Zukunft von Adobe-Produkten, die persönliche Markenentwicklung und Bekanntheit.
+* Das Bewerbungsverfahren umfasst Fragen, die es den Bewerbern ermöglichen, ihre Leidenschaft für Rückgabe und Unterstützung der Gemeinschaft zu zeigen.
+* Obwohl Erfahrung mit Adobe-Produkten wichtig ist, gibt es keine strengen Anforderungen für eine bestimmte Anzahl von Jahren oder Zertifizierungen.
+* Das Programm setzt sich für Vielfalt, Inklusion und globale Repräsentation ein und empfängt Personen aus verschiedenen Funktionsbereichen und mit unterschiedlichem Hintergrund.
+* Die Adobe Champion-Community bietet Unterstützung, Mentorschaft und Chancen für persönliches und berufliches Wachstum.
+* Das Programm bietet Vortragsmöglichkeiten bei Veranstaltungen wie Adobe Summit, Wissensaustausch, Webinaren und Champion Office Hours.
+* Champions haben die Möglichkeit, Feedback zu geben und die Zukunft von Adobe-Produkten durch Produkt-Feedback-Aufrufe und Whiteboard-Sitzungen mit dem Produkt-Team zu gestalten.
+* Das Programm ermutigt Einzelpersonen, sich zu bewerben und sich zu beteiligen, unabhängig von ihrem Erfahrungsstand oder Hintergrund.
+* Das Bewerbungsverfahren für das Adobe Champion-Programm beginnt im Mai und endet im Juni.
+* Die Jury besteht aus Mitgliedern des Adobe-Produkt-Teams, des Marketing-Teams, des Experience Cloud-Teams und des Professional Services-Teams.
+* Die Adobe Champion-Klasse wird im September angekündigt, ausgewählte Personen werden kontaktiert und mit zusätzlichen Papieren versorgt.
+* Das Programm fördert das Gefühl von Gemeinschaft und Unterstützung und ermöglicht es Champions, sich mit Gleich gesinnten zu verbinden und von Gleich gesinnten zu lernen.
+* Champions haben die Möglichkeit, an Veranstaltungen wie Foren, Gipfeln, Wissensaustauschen und sozialen Zusammenkünften teilzunehmen.
+* Das Programm ermutigt Champions, sich aktiv für Adobe einzusetzen und zur lokalen und globalen-Community beizutragen.
+* Das Programm bietet Zugriff auf Ressourcen, wie Adobe Champion-Benutzergruppen und das Beraterprogramm für Experience League und Marketing Nation.

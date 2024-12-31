@@ -1,6 +1,6 @@
 ---
-title: Mit großartigen Metriken sind große Aufgaben verbunden
-description: In dieser Sitzung werde ich erläutern, wie Sie mit der Verwendung berechneter Metriken die Analysen Ihres Unternehmens auf die nächste Ebene bringen können. In Zusammenarbeit mit Ihrem Admin-Team können Sie viele Maßnahmen ergreifen, um Ihren Kollegen bei der Erstellung der perfekten Metriken zu helfen, aber auch, sie so zu organisieren, dass immer die richtigen Metriken verfügbar sind. Im Folgenden erfahren Sie, wie Sie mit den verschiedenen verfügbaren Optionen eine Strategie erstellen können, um Ihre berechneten Metriken sauber und organisiert zu halten. Ich werde Ihnen auch einige Tricks zum Erstellen erweiterter Metriken mit verschiedenen Vorgabenfunktionen zeigen. Vorteile eines Katalogs berechneter MetrikenVerwendung Ihrer Rolle als Administrator zur Unterstützung Ihrer Analytics-Benutzer bei der Konfidenz, dass sie die richtigen Metriken verwenden Tipps zur erweiterten Metrikbildung und dazu, wo Sie weitere Ressourcen finden
+title: Hervorragende Metriken bringen große Verantwortung mit sich
+description: In dieser Sitzung werde ich darüber sprechen, wie die Verwendung berechneter Metriken Ihnen dabei helfen kann, die Analysen Ihres Unternehmens auf die nächste Ebene zu bringen. In Zusammenarbeit mit Ihrem Admin-Team können Sie viele Dinge tun, um Ihre Analystenkollegen nicht nur bei der Erstellung der perfekten Metriken zu unterstützen, sondern auch dabei, sie zu organisieren, sodass immer die richtigen Metriken verfügbar sind. Ich werde darlegen, wie ich die verschiedenen verfügbaren Optionen verwenden kann, um eine Strategie zu erstellen, mit der Ihre berechneten Metriken sauber und organisiert bleiben. Ich werde Ihnen auch einige Tricks zeigen, die mit dem Erstellen erweiterter Metriken mithilfe verschiedener Voreinstellungsfunktionen zusammenhängen. Die Vorteile der Verfügbarkeit eines Katalogs berechneter MetrikenWie Sie Ihre Rolle als Administrator nutzen können, um Ihre Analytics-Benutzer dabei zu unterstützen, darauf zu vertrauen, dass sie die richtigen Metriken verwenden Tipps zur erweiterten Metrikerstellung und wo Sie weitere Ressourcen finden
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -8,22 +8,22 @@ doc-type: Event
 duration: 2396
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-15978
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+exl-id: 5dbf2192-2646-4b53-b88b-d55ff7368e4e
+source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
+# Hervorragende Metriken bringen große Verantwortung mit sich
 
-# Mit großartigen Metriken sind große Aufgaben verbunden
+In dieser Sitzung werde ich darüber sprechen, wie die Verwendung berechneter Metriken Ihnen dabei helfen kann, die Analysen Ihres Unternehmens auf die nächste Ebene zu bringen. In Zusammenarbeit mit Ihrem Admin-Team können Sie viele Dinge tun, um Ihre Analystenkollegen nicht nur bei der Erstellung der perfekten Metriken zu unterstützen, sondern auch dabei, sie zu organisieren, sodass immer die richtigen Metriken verfügbar sind. Ich werde darlegen, wie ich die verschiedenen verfügbaren Optionen verwenden kann, um eine Strategie zu erstellen, mit der Ihre berechneten Metriken sauber und organisiert bleiben. Ich werde Ihnen auch einige Tricks zeigen, die mit dem Erstellen erweiterter Metriken mithilfe verschiedener Voreinstellungsfunktionen zusammenhängen.
 
-In dieser Sitzung werde ich erläutern, wie Sie mit der Verwendung berechneter Metriken die Analysen Ihres Unternehmens auf die nächste Ebene bringen können. In Zusammenarbeit mit Ihrem Admin-Team können Sie viele Maßnahmen ergreifen, um Ihren Kollegen bei der Erstellung der perfekten Metriken zu helfen, aber auch, sie so zu organisieren, dass immer die richtigen Metriken verfügbar sind. Im Folgenden erfahren Sie, wie Sie mit den verschiedenen verfügbaren Optionen eine Strategie erstellen können, um Ihre berechneten Metriken sauber und organisiert zu halten. Ich werde Ihnen auch einige Tricks zum Erstellen erweiterter Metriken mit verschiedenen Vorgabenfunktionen zeigen.
+## Wichtige Erkenntnisse
 
-## Wichtige Schritte
-
-Vorteile der Verfügbarkeit eines Katalogs berechneter Metriken
-Verwendung Ihrer Rolle als Administrator zur Unterstützung Ihrer Analytics-Benutzer bei der Vertrauensbildung bei der Verwendung der richtigen Metrik
-Tipps zum erweiterten Erstellen von Metriken und wo Sie weitere Ressourcen finden
+Die Vorteile der Verfügbarkeit eines Katalogs berechneter Metriken
+Wie Sie Ihre Rolle als Administrator nutzen können, um Ihre Analytics-Benutzer dabei zu unterstützen, darauf zu vertrauen, dass sie die richtige Metrik verwenden
+Tipps zur Erstellung erweiterter Metriken und wo Sie weitere Ressourcen finden
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432750/?learn=on)

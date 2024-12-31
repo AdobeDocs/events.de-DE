@@ -1,6 +1,6 @@
 ---
-title: Webinar zur Verwaltung von Workfront-Systemadministratoren
-description: In unserem On-Demand-Webinar erfahren Sie von Dell- und Adobe Workfront-Experten über die strategische Bedeutung von Systemadministratoren. Entdecken Sie Tipps zum Sichern der Vollzeit-Headcount, zur Nutzung der Gruppenadministratorrolle und zur Definition von Rollenprofilen für eine effektive Einrichtung und Skalierbarkeit in Adobe Workfront.
+title: Personal für Ihr Workfront System Admin Practice-Webinar
+description: Erfahren Sie in unserem On-Demand-Webinar von Dell und Adobe Workfront-Experten, welche strategische Bedeutung Systemadministratoren haben. Hier finden Sie Tipps zum Schutz der Vollzeit-Mitarbeiterzahl, zur Nutzung der Gruppenadministratorrolle und zur Definition von Rollenprofilen für eine effektive Einrichtung und Skalierbarkeit in Adobe Workfront.
 topic: Administration
 role: Admin, Leader
 level: Beginner
@@ -8,23 +8,23 @@ doc-type: Event
 duration: 3638
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15827
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 51619ec3-f5d5-48a9-aa29-fbaa2289a576
+source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
+# Personal für die Workfront-Systemadministratorpraxis
 
-# Verwaltung Ihrer Workfront-Systemadministratorpraktiken
+Unabhängig davon, ob Sie Ihr erstes Team in Adobe Workfront unterstützen oder ein erfahrener Profi mit der Verwaltung mehrerer Gruppen sind, ist es wichtig, Systemadministratoren an Bord zu haben, um wichtige Einrichtungs- und Prozessentscheidungen mit Blick auf die Skalierbarkeit zu treffen.
 
-Unabhängig davon, ob Sie Ihr erstes Team in Adobe Workfront unterstützen oder mehrere erfahrene Pro-Manager-Teams verwalten, ist es von entscheidender Bedeutung, dass Systemadministratoren wichtige Einrichtungs- und Prozessentscheidungen mit Blick auf die Skalierbarkeit treffen.
+In diesem On-Demand-Webinar erläutern Lou Ann Kleiman, Workfront Product Owner in Content Technology bei Dell, und Tyler Holt, Senior Customer Success Architect bei Adobe, wie die Einstellung der richtigen Systemadministratoren heute dazu beitragen kann, kostspielige Fehler bei der Standardisierung und beim Wachstum zu vermeiden.  Zusammen werden sie Folgendes teilen:
 
-In diesem On-Demand-Webinar werden Lou Ann Kleiman, Workfront Product Owner in Content Technology bei Dell, und Tyler Holt, Senior Customer Success Architect bei Adobe, erläutern, wie Sie mit der heutigen Einstellung der richtigen Systemadministratoren kostspielige Fehler vermeiden können, wenn Sie versuchen, standardisieren und wachsen zu lassen.  Gemeinsam teilen sie Folgendes:
-
-* Der kritische und strategische Charakter der Systemadministratorrolle
-* Tipps, wie man Interessengruppen und wichtigen Entscheidungsträgern aus dem Finanzbereich die Möglichkeit gibt, die Vollzeitbeschäftigung sicherzustellen
-* Wie Dell die Rolle &quot;Gruppenadministrator&quot;nutzt
-* Empfohlene Beispiele für Rollenprofile und Fähigkeiten für System- und Gruppenadministratoren
+* Kritischer und strategischer Charakter der Rolle des Systemadministrators
+* Tipps, wie man sich bei Führungskräften und wichtigen Entscheidungsträgern im Finanzbereich für die Sicherung von Vollzeitmitarbeitern einsetzt
+* Wie Dell die Rolle der Gruppenadmins nutzt
+* Beispiele für Rollenprofile und Fähigkeiten, die für System- und Gruppenadministratoren empfohlen werden
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431021/?learn=on)

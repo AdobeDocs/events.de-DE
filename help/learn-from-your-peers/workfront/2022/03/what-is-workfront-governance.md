@@ -1,28 +1,28 @@
 ---
 title: Was ist Workfront Governance?
-description: Erfahren Sie mehr über Governance in Workfront mit unserem On-Demand-Webinar. Erfahren Sie vom Mayo Clinic College of Medicine und Workfront-Experten, wie Sie kleine, sich entwickelnde Vorgehensweisen einführen und ihre Journey zu einer umfassenden Governance.
+description: Erkunden Sie die Governance in Workfront mit unserem On-Demand-Webinar. Lernen Sie vom Mayo Clinic College of Medicine und von Workfront-Experten, kleine, sich entwickelnde Praktiken zu beginnen und sich an deren Journey zu umfassender Governance zu beteiligen.
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3713
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15810
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: bb1959ae-30cc-428c-957a-cb9264641b17
+source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-
 # Was ist Workfront Governance?
 
-Governance mag wie ein &quot;Führungsproblem&quot;klingen, aber es ist ein Schlüsselkonzept, das jeder Workfront-Systemadministrator angehen muss. Die gute Nachricht ist, dass Sie klein anfangen können, vielleicht mit nur einem Glossar von Begriffen oder einer kleinen Arbeitsgruppe, und Ihre Praktiken im Laufe der Zeit weiterentwickeln können.
+Die Governance mag wie ein „Führungsproblem“ klingen, aber sie ist ein Schlüsselkonzept, das jeder Workfront-Systemadministrator angehen muss. Die gute Nachricht ist, dass man klein anfangen kann, vielleicht mit nur einem Glossar oder einer kleinen Arbeitsgruppe, und seine Vorgehensweisen im Laufe der Zeit weiterentwickeln kann.
 
-In diesem On-Demand-Webinar werden Tyler Holt, ein Berater der Workfront-Erfolgsdienstorganisation, und Luke Ramlow, Application Analyst am Mayo Clinic College of Medicine, folgende Themen behandeln:
-* Was Governance in Workfront eigentlich bedeutet
+In diesem On-Demand-Webinar behandeln Tyler Holt, ein Consultant in der Success Services-Organisation von Workfront, und Luke Ramlow, Application Analyst am Mayo Clinic College of Medicine, Folgendes:
+* Was Governance in Workfront tatsächlich bedeutet
 * Beispiele für verschiedene Arten von Governance
-* Wie sich Governance entwickeln und im Laufe der Zeit entwickeln kann
-* Mayo Clinic College of Medicine&#39;s mehrjährige Journey zur umfassenden Governance (Spoilwarnung, es geschah nicht über Nacht!)
+* Möglichkeiten der Governance, sich im Laufe der Zeit zu entwickeln und zu entwickeln
+* Die mehrjährige Journey des Mayo Clinic College of Medicine zu vollständiger Governance (Störenfried, das passierte nicht über Nacht!)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431003/?learn=on)

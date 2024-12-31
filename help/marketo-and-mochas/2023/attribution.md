@@ -1,6 +1,6 @@
 ---
-title: Marketo und Mochas - Marketo Measure-Attribution
-description: Nehmen Sie an dieser Marketo & Mochas-Sitzung teil, um sich mit Elizabeth Lundberg und Kate Colbert über die Attribution in Marketo Measure zu informieren, einschließlich Aktienmodellen, Best Practices für die Auswahl der richtigen und Live-Fragen und Antworten zur Verbesserung Ihrer Marketing-Einblicke.
+title: Marketo und Mokkas - Marketo Measure Attribution
+description: Nehmen Sie an dieser Marketo & Mokkas-Session mit Elizabeth Lundberg und Kate Colbert teil, um die Attribution in Marketo Measure zu erkunden, einschließlich Aktienmodelle, Best Practices für die Auswahl der richtigen und Live-Fragen und -Antworten zur Verbesserung Ihrer Marketing-Einblicke.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Marketo und Mochas - Marketo Measure-Attribution
+# Marketo und Mokkas - Marketo Measure Attribution
 
-Diese Veranstaltung von Marketo &amp; Mochas beinhaltet Marketing Automation Business Advisors, Elizabeth Lundberg und Kate Colbert. In dieser Sitzung tauchen Liz und Kate in Attribution in Marketo Measure (fka Bizible). Sie besprechen, was Attribution ist und warum sie nützlich ist, die verschiedenen Attributionsstock-Modelle in Marketo Measure sowie Best Practices zur Auswahl der richtigen für Ihr Unternehmen. Die Präsentation wird von Q&amp;A begleitet, wo Liz und Kate Fragen von Registranten und Teilnehmer beantworten.
+In dieser Sitzung von Marketo &amp; Mokkas werden die Wirtschaftsberater für Marketing-Automatisierung, Elizabeth Lundberg und Kate Colbert, vorgestellt. In dieser Sitzung gehen Liz und Kate auf Attribution innerhalb von Marketo Measure ein (fka Bizible). Sie besprechen, was eine Attribution ist und warum sie nützlich ist, die verschiedenen Attribution Stock-Modelle in Marketo Measure sowie Best Practices für die Auswahl der richtigen(n) für Ihr Unternehmen. Die Präsentation wird von Fragen und Antworten begleitet, bei denen Liz und Kate Fragen live von Teilnehmern und Teilnehmern beantworten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413506/?quality=12&learn=on)

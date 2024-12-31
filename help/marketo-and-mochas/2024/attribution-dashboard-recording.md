@@ -1,6 +1,6 @@
 ---
-title: Marketo und Mochas - Grundlagen der Aufzeichnung von Attribution Dashboards
-description: Schließen Sie sich an Adobe Sr. Business Advisor, Cynthia Chang, und den technischen Berater James Leedom, an, um sich ausführlich mit dem Master des Marketo-Attributionsmodells und der Performance Insights (MPI)-Dashboards zu befassen, die Setup, Programm-Tracking, Datensynchronisation und Darstellung der Auswirkungen des Marketing auf Umsatz und Kundenakquise abdecken.
+title: Marketo und Mokkas - Grundlagen der Attribution Dashboards-Aufzeichnung
+description: Seien Sie dabei, wenn Adobe Sr. Business Advisor, Cynthia Chang, und der technische Berater James Leedom eine ausführliche Session zum Meistern der Marketo-Dashboards für Attributionsmodell und Performance Insights (MPI) abhalten, in der die Einrichtung, das Programm-Tracking, die Datensynchronisation und die Präsentation der Auswirkungen des Marketings auf den Umsatz und die Kundenakquise behandelt werden.
 feature-set: Marketo Engage
 feature: Performance Insights
 role: Admin, Developer, Leader, User
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# Marketo und Mochas: Grundlagen der Aufzeichnung von Attribution Dashboards
+# Marketo &amp; Mokkas: Grundlagen der Attribution Dashboards-Aufzeichnung
 
-In dieser Sitzung bietet uns der Geschäftsberater von Adobe, Cynthia Chang und technischer Berater James Leedom einen Überblick über alles, was Sie über das Attributionsmodell von Marketo wissen müssen und was Sie mit den nativen Marketo Performance Insights-Dashboards (MPI) erreichen können.
+In dieser Sitzung führen uns Adobe’s Sr. Business Advisor, Cynthia Chang und Technical Advisor, James Leedom, durch einen Überblick über alles, was Sie über das Attributionsmodell von Marketo wissen müssen und was Sie mit den nativen Dashboards für Marketo Performance Insights (MPI) erreichen können.
 
-Beim Einrichten von Attributions-Dashboards ist eine ordnungsgemäße Konfiguration von entscheidender Bedeutung, um den Wert und die Qualität von Einblicken zu maximieren. Vom Programm-Tracking über Best Practices zum richtigen Synchronisieren von Daten bis hin zu Cynthia und James gehen durch alles, was Sie wissen müssen, um Ihr Dashboard zu erstellen. Sie veranschaulichen die Vorteile der Nutzung der Tools, um den Beitrag des Marketing zum Umsatz, den Einfluss auf die Kundenakquise und die Kampagnenleistung nach Interaktion zu präsentieren. Wie immer beantworten sie bei Fragen und Antworten Kundenfragen!
+Beim Einrichten von Attributions-Dashboards ist eine ordnungsgemäße Konfiguration wichtig, um den Wert und die Qualität von Insights zu maximieren. Von Best Practices beim Programm-Tracking bis hin zur ordnungsgemäßen Synchronisierung von Daten gehen Cynthia und James alles durch, was Sie wissen müssen, um Ihr Dashboard zu erstellen. Sie zeigen die Vorteile der Nutzung der Tools, um den Beitrag des Marketings zum Umsatz, den Einfluss auf die Kundenakquise und die Kampagnenleistung durch Interaktion zu präsentieren. Wie immer beantworten sie Kundenfragen bei Fragen und Antworten!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427255/?learn=on)

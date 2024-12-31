@@ -1,6 +1,6 @@
 ---
-title: AEM technische Zertifizierung
-description: Treten Sie uns zu einer kostenlosen, immersiven Erfahrung bei, in der Sie die technischen Aspekte des AEM Zertifizierungsprogramms und dessen Rahmen untersuchen. Unsere erfahrenen Lehrer führen Sie durch die wesentlichen Anweisungen für ein erfolgreiches Zertifizierungs-Journey, indem sie Ihnen wertvolle Einblicke und praktische Beispiele geben. Außerdem erhalten Sie durch die Teilnahme an dieser Veranstaltung Zugang zu einem umfassenden Zertifizierungs-Arsenal. Wir bieten Ihnen ein umfangreiches Angebot an Vorbereitungswerkzeugen und ein tiefgehendes Verständnis des technischen Examens. Verpassen Sie nicht diese wunderbare Gelegenheit, Ihre Karrierechancen zu verbessern und ein zertifizierter Experience Manager-Experte zu werden. Machen Sie sich bereit, Ihre Fähigkeiten auf die nächste Stufe zu bringen, sich vom Wettbewerb zu trennen und eine wohlverdiente Zertifizierung zu erwerben, die Ihnen aufregende berufliche Möglichkeiten eröffnet.Nehmen Sie heute Ihren Platz ein und beginnen Sie mit der Experience Manager-Zertifizierung auf eine Journey in neue Höhen!
+title: AEM-Zertifizierung technisch
+description: Nehmen Sie an einem kostenlosen immersiven Erlebnis teil, bei dem Sie die technischen Aspekte des AEM-Zertifizierungsprogramms und seines Rahmens erkunden. Unsere erfahrenen Kursleiter führen Sie durch die wichtigsten Anleitungen für eine erfolgreiche Zertifizierungsschulung und liefern Ihnen wertvolle Einblicke und praktische Beispiele.Durch die Teilnahme an dieser Journey erhalten Sie außerdem Zugang zu einem umfassenden Zertifizierungs-Arsenal. Wir bieten Ihnen Vorbereitungs-Toolkits und ein tiefgehendes Verständnis der technischen Inhalte der Prüfung. Verpassen Sie nicht diese wunderbare Gelegenheit, Ihre Karriereaussichten zu verbessern und ein zertifizierter Experience Manager-Experte zu werden. Machen Sie sich bereit, Ihre Fähigkeiten auf die nächste Stufe zu bringen, sich von der Konkurrenz abzusetzen und eine wohlverdiente Zertifizierung zu erwerben, die Türen für spannende berufliche Möglichkeiten öffnet.Beanspruchen Sie Ihren Platz noch heute und starten Sie mit der Experience Manager-Zertifizierung auf eine Journey zu neuen Höhen!
 solution: Experience Manager
 version: Cloud Service
 feature: AEM Community Lens
@@ -20,31 +20,31 @@ ht-degree: 0%
 
 ---
 
-# Master the Art Experience Manager Certification: Get Ready, Get Set, Get Certified!
+# Meistern Sie die Kunst der Experience Manager-Zertifizierung: Auf die Plätze, fertig, Zertifizierung!
 
-Dieses Webinar wurde am 28. Juni 2023 durchgeführt. **** Bitte sehen Sie sich die Aufnahme unten an.
+Dieses Webinar wurde am (28 **Juni** durchgeführt. Bitte sehen Sie sich die Aufnahme unten an.
 
 ## Sitzungsbeschreibung
 
-Treten Sie uns zu einer kostenlosen, immersiven Erfahrung bei, in der Sie die technischen Aspekte des AEM Zertifizierungsprogramms und dessen Rahmen erforschen. Unsere erfahrenen Instruktoren führen Sie durch die wesentlichen Anweisungen für eine erfolgreiche Journey-Zertifizierung und bieten Ihnen wertvolle Einblicke und praktische Beispiele.
+Nehmen Sie an einem kostenlosen immersiven Erlebnis teil, bei dem Sie die technischen Aspekte des AEM-Zertifizierungsprogramms und seines Rahmens erkunden. Unsere erfahrenen Kursleiter führen Sie durch die wesentlichen Anleitungen für eine erfolgreiche Zertifizierung Journey und liefern Ihnen wertvolle Einblicke und Praxisbeispiele.
 
-Darüber hinaus erhalten Sie durch Teilnahme an dieser Sitzung Zugriff auf ein umfassendes Zertifizierungsarsenal. Wir stellen Ihnen ein umfangreiches Wissen über die technischen Inhalte der Prüfung zur Verfügung.
+Darüber hinaus erhalten Sie durch die Teilnahme an dieser Sitzung Zugang zu einem umfassenden Zertifizierungs-Arsenal. Wir stellen Ihnen Vorbereitungs-Toolkits und ein detailliertes Verständnis der technischen Inhalte der Prüfung zur Verfügung.
 
-Verpassen Sie nicht diese wunderbare Gelegenheit, Ihre Karrierechancen zu verbessern und ein zertifizierter Experience Manager-Experte zu werden. Machen Sie sich bereit, Ihre Fähigkeiten auf die nächste Stufe zu bringen, sich vom Wettbewerb zu trennen und eine wohlverdiente Zertifizierung zu erwerben, die Ihnen aufregende berufliche Möglichkeiten eröffnet.
+Verpassen Sie nicht diese wunderbare Gelegenheit, Ihre Karriereaussichten zu verbessern und ein zertifizierter Experience Manager-Experte zu werden. Machen Sie sich bereit, Ihre Fähigkeiten auf die nächste Stufe zu bringen, heben Sie sich von der Konkurrenz ab und erwerben Sie eine wohlverdiente Zertifizierung, die Ihnen Türen für spannende berufliche Möglichkeiten öffnet.
 
-Fordern Sie noch heute Ihren Spot an und starten Sie mit der Experience Manager-Zertifizierung auf eine Journey in neue Höhen!
+Beanspruchen Sie noch heute Ihren Platz und starten Sie mit der Experience Manager-Zertifizierung auf eine Journey in neue Höhen!
 
 ## Moderatoren
 
 * Ayana Nickerson, Sr. Credential Certification Program Manager, Adobe
 * Payal Banerjee, Sr. Solutions Consultant, Adobe
 
-## Webinar-Aufzeichnung - 28.06.2023
+## Webinar-Aufzeichnung - 06/28/2023
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421028)
 
 >[!NOTE]
 >
->* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf Experience League diesen [kontextuellen Thread](https://adobe.ly/3p2CmbA)
+>* Informationen zu sitzungsspezifischen Community-Interaktionen auf Experience League finden Sie in diesem [Kontextuellen Thread](https://adobe.ly/3p2CmbA)
 >
->* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen zu unseren kommenden Webinaren zu erhalten, registrieren Sie sich bitte unter [Adobe auf AEM User Group](https://aem-augs.adobe.com/).

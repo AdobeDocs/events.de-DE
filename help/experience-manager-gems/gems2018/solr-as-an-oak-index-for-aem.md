@@ -1,6 +1,6 @@
 ---
 title: Solr als Oak-Index für AEM
-description: AEM Volltextsuchfunktionen werden standardmäßig von Oak Lucene-Indizes bereitgestellt. AEM können jedoch auch die Indizierung und Suche über Oak Solr-Indizes an Solr-Server/Cluster abladen. In dieser Gem Session tauchen wir in einige praktische reale Szenarien ein, in denen die Verwendung von Solr als Oak-Index für AEM in Bezug auf Leistung und Indizierung/Suchfunktionen sinnvoll ist.
+description: Die AEM-Volltextsuchfunktionen werden standardmäßig von Oak Lucene-Indizes unterstützt. AEM kann jedoch auch die Indizierung und Suche über Oak Solr-Indizes auf Solr-Server/Cluster auslagern. In dieser GEM-Sitzung gehen wir auf einige praktische Szenarien ein, in denen die Verwendung von Solr als Oak-Index für AEM in Bezug auf Leistung und Indizierungs-/Suchfunktionen sinnvoll ist.
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 # Solr als Oak-Index für AEM{#solr-as-an-oak-index-for-aem}
 
-AEM Volltextsuchfunktionen werden standardmäßig von [!DNL Oak Lucene] -Indizes bereitgestellt. AEM können die Indizierung jedoch auch über [!DNL Oak Solr] -Indizes an [!DNL Solr]-Server/Cluster abladen und diese durchsuchen. In dieser Gem-Sitzung tauchen wir in praktische Szenarien im realen Leben ein, in denen die Verwendung von [!DNL Solr] als Oak-Index für AEM im Hinblick auf Leistung und Indizierung/Suchfunktionen sinnvoll ist.
+Die AEM-Volltextsuchfunktionen werden standardmäßig von [!DNL Oak Lucene]-Indizes unterstützt. AEM kann jedoch auch die Indizierung und Suche über [!DNL Oak Solr] Indizes auf [!DNL Solr] Server/Cluster auslagern. In dieser GEM-Sitzung gehen wir auf einige praktische Szenarien ein, in denen die Verwendung von [!DNL Solr] als Oak-Index für AEM in Bezug auf Leistung und Indizierungs-/Suchfunktionen sinnvoll ist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23023/?quality=9)
 
-*Zugestellt am 18.07.2018*
+*Veröffentlicht am 07/18/2018*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 Tommaso Teofili, Informatiker, Adobe
 
-Datum: 18.7.2018
+Datum: 07/18/2018
 
 [Datei abrufen](assets/aem-gems-solr-oakaem-071818.pdf)
 
@@ -35,8 +35,8 @@ Datum: 18.7.2018
 
 >[!MORELIKETHIS]
 >
->* [Adobe I/O-Ereignisse - Analytics-Trigger](aem-analytics-triggers.md)
->* [Entsperren leistungsfähigerer Asset Analytics mit AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
+>* [Adobe I/O-Ereignisse - Analytics-Trigger ](aem-analytics-triggers.md)
+>* [Ermöglichen von leistungsfähigeren Asset-Analysen mit AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 <!-- wrong link, needs to be replaced. removed for now:
 >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 

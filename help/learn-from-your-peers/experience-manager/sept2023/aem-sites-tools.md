@@ -1,6 +1,6 @@
 ---
-title: Ein tief greifender Einblick in die Tools für AEM Sites
-description: Best Practices für die effektive Nutzung von Tools und die Transformation Ihrer AEM Sites-Erfahrung. Typen von Tags Erfahren Sie, wie verschiedene Tag-Typen die Organisation und Erkennung von Inhalten überlasten können.  Das Einrichten und Anwenden von Tags erhalten praktische Einblicke in eine effiziente Tag-Implementierung, um Zeit zu sparen und die Produktivität zu steigern.  Ordner-Metadatenschemata Entdecken Sie die Leistungsfähigkeit des strukturierten Content Managements durch Ordner-Metadatenschemata.Metadatenschemata Erhöhen Sie die Inhaltsrelevanz und das Benutzererlebnis durch die Verwaltung des Metadatenschema-Designs. Einrichtung von Berichten Nutzen Sie datengesteuerte Einblicke in strategische Entscheidungen, indem Sie umfassende Berichte einrichten. Sie können hier auf die Präsentationsfolien zugreifen.
+title: Detaillierte Einblicke in Tools für AEM Sites
+description: Best Practices für die effektive Nutzung von Tools und die Transformation Ihres AEM Sites-Erlebnisses. Arten von Tags Erfahren Sie, wie verschiedene Tag-Typen die Organisation und Auffindbarkeit von Inhalten verbessern können.  Einrichten und Anwenden von Tags Gewinnen Sie praktische Einblicke in eine effiziente Tag-Implementierung, um Zeit zu sparen und die Produktivität zu steigern.  Ordner-Metadatenschemata Entdecken Sie die Leistungsfähigkeit des strukturierten Content-Managements durch Ordner-Metadatenschemata. Metadatenschemata erhöhen die Content-Relevanz und das Anwendererlebnis durch die Beherrschung des Metadatenschema-Designs. Berichte einrichten Nutzen Sie datengesteuerte Einblicke für strategische Entscheidungen, indem Sie umfassende Berichte einrichten. Die Präsentationsfolien finden Sie hier.
 feature-set: Experience Manager
 feature: Tagging
 role: Leader, Architect, Developer, Admin, User
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 ---
 
-# Ein tief greifender Einblick in die Tools für AEM Sites
+# Detaillierte Einblicke in Tools für AEM Sites
 
-Treten Sie Adobe Experience Manager Champion, Cindy Underwood, bei, da sie Erkenntnisse teilt, die Ihnen die besten Vorgehensweisen bieten, um Tools effektiv zu nutzen und Ihr AEM Sites-Erlebnis zu verändern. Machen Sie sich bereit zur Erkundung:
+Seien Sie dabei, wenn Adobe Experience Manager Champion Cindy Underwood Ihnen von den Erfahrungen berichtet, die Sie mit den Best Practices für die effektive Nutzung von Tools und die Transformation Ihrer AEM Sites-Erfahrung ausstatten. Bereiten Sie sich auf die Erkundung vor:
 
-* Typen von Tags - Erfahren Sie, wie verschiedene Tag-Typen die Organisation und Erkennung von Inhalten überlasten können.
+* Typen von Tags - Erfahren Sie, wie verschiedene Tag-Typen die Organisation und Auffindbarkeit von Inhalten verbessern können.
 * Einrichten und Anwenden von Tags - Erhalten Sie praktische Einblicke in eine effiziente Tag-Implementierung, um Zeit zu sparen und die Produktivität zu steigern.
-* Ordner-Metadatenschemata - Entdecken Sie die Leistungsfähigkeit des strukturierten Content Managements durch Ordner-Metadatenschemata.
-* Metadatenschemata - Steigern Sie die Inhaltsrelevanz und das Benutzererlebnis, indem Sie das Metadatenschema-Design meistern. Einrichtung von Berichten: Nutzen Sie datengesteuerte Einblicke für strategische Entscheidungen, indem Sie umfassende Berichte erstellen.
+* Ordner-Metadatenschemata - Entdecken Sie die Leistungsfähigkeit des strukturierten Content-Managements durch Ordner-Metadatenschemata.
+* Metadatenschemata : Erhöhen Sie die Inhaltsrelevanz und das Benutzererlebnis durch die Beherrschung des Entwurfs von Metadatenschemata. Einrichten von Berichten: Nutzen Sie datengestützte Einblicke für die strategische Entscheidungsfindung, indem Sie umfassende Berichte einrichten.
 
-Sie können die Präsentationsfolien [hier](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf) aufrufen.
+Sie können auf die Präsentationsfolien zugreifen [hier](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424735/?learn=on)

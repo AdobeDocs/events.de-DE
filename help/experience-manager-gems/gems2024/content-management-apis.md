@@ -1,6 +1,6 @@
 ---
-title: AEM GEMs - Entsperren der Macht von AEM Sites - Master der Content Management-APIs
-description: Im Webinar zu Adobe Experience Manager (AEM) Content APIs wurden neue, modernisierte APIs für ein verbessertes Content-Management und die Bereitstellung eingeführt. ​Wichtige Redner, darunter Matthias, Catalina, Leonard und Prashant, haben die Funktionen dieser APIs vorgestellt, z. B. strukturiertes Content Management, optimierte Inhaltsbereitstellung und automatisierte Übersetzungsprozesse. ​Zu den Highlights gehörten die neue Benutzeroberflächenschema-Funktion, verbesserte Referenzverarbeitung, Batch-Anforderungsfunktionen und eine schnellere API zur Inhaltsbereitstellung ​.Teilnehmer wurden aufgefordert, diese APIs über die Entwicklerdokumentation zu erkunden und am frühen Adopter-Programm teilzunehmen, um frühzeitig auf die APIs zuzugreifen und den direkten Engineering-Support zu erhalten.
+title: AEM GEMs - Erschließen der Leistungsfähigkeit von AEM Sites - Meistern der Content-Management-APIs
+description: Im Webinar zu den Inhalts-APIs von Adobe Experience Manager (AEM) wurden neue, modernisierte APIs für verbessertes Content-Management und Bereitstellung eingeführt. ​Die wichtigsten Redner, darunter Matthias, Catalina, Leonard und Prashant, präsentierten die Funktionen dieser APIs, wie strukturiertes Content-Management, optimierte Inhaltsbereitstellung und automatisierte Übersetzungsprozesse. ​Zu den Highlights gehören die neue Funktion des Benutzeroberflächen-Schemas, eine verbesserte Referenzverarbeitung, Batch-Anforderungsfunktionen und eine schnellere API zur Inhaltsbereitstellung. ​Die Teilnehmer wurden ermutigt, diese APIs über die Entwicklerdokumentation der Adobe zu erkunden und dem Early-Adopter-Programm beizutreten, um frühzeitigen Zugriff und direkten technischen Support zu erhalten.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -11,22 +11,22 @@ doc-type: Technical Video
 duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
+source-git-commit: ac0f7915bfbedd8f1c814420caaae7f1eeb5aeef
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
 
 ---
 
+# AEM GEMs - Erschließen der Leistungsfähigkeit von AEM Sites: Meistern der Content-Management-APIs
 
-# AEM GEMs - Entsperren der Macht von AEM Sites: Master der Content Management-APIs
+Die Methoden zur Verwendung von AEM Sites entwickeln sich schnell weiter und fügen den herkömmlichen Benutzerinteraktionen API-First-Muster hinzu. Ganz gleich, ob Sie Ihre Abläufe optimieren oder Ihre Automatisierung optimieren möchten, es ist von entscheidender Bedeutung, solchen Trends einen Schritt voraus zu sein. Nehmen Sie an einer ausführlichen Sitzung teil, in der wir die zugehörigen hochmodernen Updates in AEM Sites erkunden und erfahren, wie sie Ihre Content-Management-Strategie unterstützen können.
 
-Die Methoden zur Verwendung von AEM Sites entwickeln sich schnell und fügen den herkömmlichen Benutzerinteraktionen API-First-Muster hinzu. Ob Sie Ihre Vorgänge optimieren oder Ihre Automatisierung verbessern möchten, diese Trends zu übertreffen, ist von entscheidender Bedeutung. Nehmen Sie an einer ausführlichen Sitzung teil, in der wir Ihnen mit zukunftsweisenden Updates in AEM Sites begegnen und erfahren, wie diese Ihre Content-Management-Strategie stärken können.
-
-In dieser Sitzung werden Sie Folgendes entdecken:
-* **Erweiterte OpenAPI-Standards** Erkunden Sie die neuesten OpenAPI-Implementierungen für nahtlose CRUD-Vorgänge in AEM strukturierten Inhalten.
-* **Eventing und Webhooks** Erfahren Sie, wie die Eventing- und Webhook-Funktionen von Adobe I/O Prozesse anhand von Inhalten und Statusänderungen in AEM automatisieren können.
-* **Neue REST-APIs für die Automatisierung von Übersetzungen** Machen Sie sich mit den neuen REST-APIs vertraut, die Ihre Arbeitsabläufe für die Übersetzung von Inhalten in AEM vereinfachen und optimieren.
+In dieser Sitzung erfahren Sie,
+* **Erweiterte OpenAPI-**: Erkunden Sie die neuesten OpenAPI-Implementierungen für nahtlose CRUD-Vorgänge mit strukturierten AEM-Inhalten.
+* **Eventing und Webhooks** Erfahren Sie, wie die Eventing- und Webhook-Funktionen von Adobe I/O Prozesse basierend auf Inhalts- und Statusänderungen in AEM automatisieren können.
+* **Neue REST-APIs für die**: Lernen Sie die neuen REST-APIs kennen, die Ihre Workflows zur Inhaltsübersetzung in AEM vereinfachen und optimieren.
 
 ## Moderatoren
 
@@ -37,30 +37,30 @@ In dieser Sitzung werden Sie Folgendes entdecken:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435036/?learn=on)
 
-Haben Sie eine Frage, vielleicht einen Kommentar?  Nehmen Sie an der Diskussion in den [Experience League Communities](https://adobe.ly/4e34grR) teil!
+Haben Sie eine Frage, vielleicht einen Kommentar?  Beteiligen Sie sich an der Diskussion in den [Experience League Communities](https://adobe.ly/4e34grR)!
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
-* **Einführung modernisierter APIs** Neue APIs für AEM Inhaltsverwaltung und -bereitstellung wurden eingeführt, um die Entwicklungs-Workflows und Integrationsfunktionen zu verbessern.
+* **Einführung modernisierter APIs** Es wurden neue APIs für das Content-Management und die Bereitstellung von AEM-Inhalten eingeführt, um die Entwicklungs-Workflows und Integrationsfunktionen zu verbessern.
 
-* **Strukturiertes Content Management** Die neuen APIs unterstützen strukturiertes Content Management, einschließlich Funktionen wie Benutzeroberflächenschema für eine bessere Inhaltsdarstellung, verbesserte Referenzverarbeitung und Batch-Anforderungsfunktionen.
+* **Strukturiertes Content-Management** Die neuen APIs unterstützen ein strukturiertes Content-Management, einschließlich Funktionen wie Benutzeroberflächenschema für besseres Content-Rendering, verbesserte Referenzhandhabung und Batch-Anforderungsfunktionen.
 
-* **Optimierte Inhaltsbereitstellung** Eine neue API zur Inhaltsbereitstellung bietet schnellere Reaktionszeiten, die für die Edge-Bereitstellung optimiert sind, und unterstützt eine schlanke JSON-Struktur für die effiziente Inhaltsübertragung.
+* **Optimierte Inhaltsbereitstellung** Eine neue API für die Inhaltsbereitstellung bietet schnellere Antwortzeiten, optimiert für die Edge-Bereitstellung und unterstützt eine schlanke JSON-Struktur für einen effizienten Inhaltstransfer.
 
-* **Automatisierte Übersetzungsprozesse** Die AEM offene API für das Übersetzungsmanagement automatisiert Übersetzungs-Workflows, integriert in Dienste von Drittanbietern und unterstützt Massenvorgänge.
+* **Automatisierte Übersetzungsprozesse** Die AEM Open API für Übersetzungsmanagement automatisiert Übersetzungs-Workflows, integriert sich mit Dienstleistungen von Drittanbietern und unterstützt Massenvorgänge.
 
-* **Eventing Mechanism** Die APIs enthalten einen Eventing-Mechanismus, der Ereignisse für Ressourcenaktionen generiert, die über Adobe IO für die Echtzeit-Automatisierung und -Integration genutzt werden können.
+* **Ereignismechanismus:** APIs enthalten einen Ereignismechanismus, der Ereignisse für Aktionen auf Ressourcen generiert, die über Adobe-IO für die Echtzeit-Automatisierung und -Integration genutzt werden können.
 
-* **Ermutigung zur Migration** Benutzer sollten von älteren APIs zu den neuen modernisierten APIs migrieren, da ältere APIs bis 2025 eingestellt werden.
+* **Förderung der Migration** Anwender werden ermutigt, von alten APIs zu den neuen modernisierten APIs zu migrieren, da ältere APIs bis 2025 eingestellt werden.
 
-* **Frühes Adopter-Programm** Eine Einladung, am frühen Adopter-Programm für direkten technischen Support und frühzeitigen Zugriff auf neue Funktionen teilzunehmen, sodass Benutzer die Entwicklung dieser APIs beeinflussen können.
+* **Early-Adopter-**: Eine Einladung, dem Early-Adopter-Programm beizutreten, um direkte technische Unterstützung und frühzeitigen Zugriff auf neue Funktionen zu erhalten, sodass Benutzer die Entwicklung dieser APIs beeinflussen können.
 
-* **Umfassende Dokumentation** Umfassende Dokumentationen und Abspielplätze finden Sie im Entwicklerportal von Adobe , mit dem Anwender die neuen APIs untersuchen und implementieren können.
+* **Umfassende Dokumentation** Auf dem Entwicklerportal der Adobe stehen umfangreiche Dokumentationen und Spielplätze zur Verfügung, mit denen Benutzende die neuen APIs erkunden und implementieren können.
 
-* **Leistungsverbesserungen** Frühzeitige Anwender haben erhebliche Leistungsverbesserungen gemeldet, wobei einige Endpunkte bis zu 100-mal schnellere Antwortzeiten aufweisen.
+* **Leistungsverbesserungen** Early Adopters haben erhebliche Leistungsverbesserungen gemeldet, wobei einige Endpunkte bis zu 100-mal schnellere Antwortzeiten aufweisen.
 
-* **Zukunftssicherung** Die neuen APIs sind auf zukunftssichere Content-Management- und Bereitstellungssysteme ausgelegt, die Skalierbarkeit und Effizienz sicherstellen.
+* **Zukunftssicher** Die neuen APIs sind für zukunftssicheres Content-Management und Bereitstellungssysteme konzipiert und gewährleisten Skalierbarkeit und Effizienz.
 
-## Bleib im Wissen!
+## Bleiben Sie auf dem Laufenden!
 
-Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).
+Um Benachrichtigungen über unsere kommenden Webinare zu erhalten, registrieren Sie sich bitte unter [Adobe auf AEM User Group](https://aem-augs.adobe.com/).

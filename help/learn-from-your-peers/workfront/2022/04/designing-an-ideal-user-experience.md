@@ -1,31 +1,31 @@
 ---
-title: Webinar für ein ideales Benutzererlebnis erstellen
-description: Entdecken Sie Peer Insights, um die Benutzeranforderungen zu verstehen, Erlebnisse mit Vorlagen und Dashboards zu optimieren, Anforderungen zu verwalten und aus dem Workfront-Erfolg von Liberty Mutual zu lernen.
+title: Ein ideales Benutzererlebnis-Webinar entwerfen
+description: Entdecken Sie Peer Insights, um Benutzeranforderungen zu verstehen, Erlebnisse mit Vorlagen und Dashboards zu optimieren, Anfragen zu verwalten und vom Workfront-Erfolg von Liberty Mutual zu lernen.
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3640
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15811
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: f7acb26b-528a-41fc-a38d-73ed078bfda6
+source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-
 # Ideales Benutzererlebnis gestalten
 
-Nachdem Ihre Benutzer nun in Workfront eingerichtet und organisiert sind, wie können Sie für sie ein Erlebnis erstellen, das so reizvoll ist, dass sie es nicht nur verwenden, sondern es auch gerne verwenden?
+Nachdem Ihre Anwender in Workfront eingerichtet und organisiert sind, wie können Sie ihnen ein Erlebnis bieten, das ihnen so angenehm ist, dass sie es nicht nur verwenden, sondern auch mögen?
 
-Die Einführung einer Arbeitsverwaltungslösung wie Workfront bietet viele Facetten, aber eine der grundlegendsten ist die Erstellung eines Erlebnisses, das sorgfältig darauf ausgelegt ist, wie Ihre Benutzer arbeiten. Wenn sie es als einen Engpass oder als &quot;ein anderes Werkzeug&quot; betrachten, werden Sie nach der Hürde mit Adoption in Schwierigkeiten geraten.
+Die Einführung einer Work-Management-Lösung wie Workfront hat viele Facetten, aber eine der grundlegendsten ist die Schaffung eines Erlebnisses, das sorgfältig darauf ausgelegt ist, wie Ihre Benutzer arbeiten. Wenn sie ihn als Engpass sehen oder als „nur ein weiteres Werkzeug“, werden Sie bei der Einführung Hürden um Hürden überstehen.
 
-In diesem On-Demand-Webinar werden wir folgende Themen behandeln:
+In diesem On-Demand-Webinar behandeln wir Folgendes:
 
-* So können Sie besser verstehen, was Ihre Benutzer benötigen
-* Tipps zur Optimierung des Benutzererlebnisses mithilfe von Layoutvorlagen, Dashboards und Pins
-* Beispiel: Systemadministratoranfragewarteschlangen und Benutzerverwaltungs-Dashboards
-* Wie Liberty Mutual die neue Workfront-Erfahrungsausgabe nutzte, um die Akzeptanz drastisch zu steigern.
+* So verstehen Sie besser, was Ihre Benutzer benötigen
+* Tipps zur Optimierung des Benutzererlebnisses mit Layout-Vorlagen, Dashboards und Anheftungen
+* Beispiel für Systemadministrator-Anfrage-Warteschlangen und User Management-Dashboards
+* Wie Liberty Mutual das neue Workfront-Erlebnis-Rollout nutzte, um die Akzeptanz erheblich zu steigern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431005/?learn=on)

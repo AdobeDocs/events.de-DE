@@ -1,6 +1,6 @@
 ---
-title: Navigieren SPA Herausforderungen in Test Builds und Analysen
-description: Best Practices für das Design von Einzelseiten-Apps (SPA) und Erfahrungen aus dem Panera-Programm für Broad-Tests und -Optimierung. Wir werden Überlegungen zur Datenschicht, Auswirkungen der Testbereitstellung beim Laden oder Anzeigen von Seiten behandeln
+title: Navigieren in SPA-Herausforderungen bei Test-Builds und Analysen
+description: Best Practices für das Design von Single Page Apps (SPA) und Lehren aus dem Panera-Brottest- und -optimierungsprogramm. Wir behandeln Überlegungen zur Datenschicht, Auswirkungen der Testbereitstellung auf das Laden oder die Ansicht der Seite
 solution: Analytics
 topic: SPA
 feature-set: Analytics
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Navigieren SPA Herausforderungen in Test Builds und Analysen
+# Navigieren in SPA-Herausforderungen bei Test-Builds und Analysen
 
-Das Site-Design der Einzelseiten-App (SPA) nimmt zu und bietet im Vergleich zu einer mehrseitigen Anwendung (MPA) zwar viele Vorteile, doch kann es ohne Rücksicht auf die richtigen Details zu Ihren Test-Builds und -Analysen verheerende Auswirkungen haben. In dieser Sitzung teilen wir Ihnen einige Best Practices und Lektionen aus dem Panera-Programm für Brottest und -optimierung. Wir werden Überlegungen zur Datenschicht, Auswirkungen der Testbereitstellung beim Laden oder Anzeigen von Seiten und vieles mehr behandeln.
+Das Design von SPA-Sites (Single Page App) ist auf dem Vormarsch und bietet viele Vorteile gegenüber einem Mehrseiten-Programm (MPA). Es kann jedoch verheerende Auswirkungen auf Ihre Test-Builds und Analysen haben, ohne auf die richtigen Details zu achten. In dieser Sitzung teilen wir Ihnen einige Best Practices und Erfahrungen aus dem Panera-Brottest- und -optimierungsprogramm mit. Wir behandeln Überlegungen zur Datenschicht, die Auswirkungen der Testbereitstellung auf das Laden oder die Ansicht der Seite und mehr.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343324/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Kennzahlen - APAC Adobe Analytics Skill Exchange im Mai 2023
-description: Hier erhalten Sie Informationen zu grundlegenden Besuchermetriken und zum Hinzufügen von Dimensionen und Metriken. In dieser Sitzung werden wir mit der Verwendung von Datumsbereichen, Vergleichen und der Anwendung von Segmenten beginnen.
+title: Kennzahlen - Mai 2023 APAC Adobe Analytics Skill Exchange
+description: Gewinnen Sie ein Verständnis für grundlegende Besuchermetriken und fügen Sie Dimensionen und Metriken hinzu. Während dieser Sitzung beginnen wir mit der Verwendung von Datumsbereichen, Vergleichen und der Anwendung von Segmenten.
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Metrics, Segmentation
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Kennzahlen - APAC Adobe Analytics Skill Exchange im Mai 2023
+# Kennzahlen - Mai 2023 APAC Adobe Analytics Skill Exchange
 
-Hier erhalten Sie Informationen zu grundlegenden Besuchermetriken und zum Hinzufügen von Dimensionen und Metriken. In dieser Sitzung werden wir mit der Verwendung von Datumsbereichen, Vergleichen und der Anwendung von Segmenten beginnen.
+Gewinnen Sie ein Verständnis für grundlegende Besuchermetriken und fügen Sie Dimensionen und Metriken hinzu. Während dieser Sitzung beginnen wir mit der Verwendung von Datumsbereichen, Vergleichen und der Anwendung von Segmenten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420944/?learn=on)

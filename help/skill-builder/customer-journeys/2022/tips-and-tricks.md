@@ -1,6 +1,6 @@
 ---
 title: Wichtigste Tipps und Tricks für Adobe Campaign Standard
-description: Schließen Sie sie an Ihre Adobe Campaign Standard-Instanz an und entdecken Sie Best Practices für Targeting, Personalisierung und Marketing-Müdigkeit, um A besser zu nutzen... (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
+description: Schließen Sie sich an Ihre Adobe Campaign Standard-Instanz an und entdecken Sie Best Practices rund um Targeting, Personalisierung und Marketing-Müdigkeit, um A besser zu nutzen … (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 solution: Campaign Standard
 role: Admin, User
 level: Beginner, Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 # Wichtigste Tipps und Tricks für Adobe Campaign Standard
 
-Fügen Sie Ihre Adobe Campaign Standard-Instanz ein und entdecken Sie Best Practices rund um Targeting, Personalisierung und Marketing-Müdigkeit, um ACS besser zu nutzen. Diese Sitzung wird interaktiv: Machen Sie diese Sitzung zu Ihrem eigenen, indem Sie direkt an unseren Experten nach Funktionen/Anforderungen fragen!
+Schließen Sie Ihre Adobe Campaign Standard-Instanz an und entdecken Sie Best Practices rund um Targeting, Personalisierung und Marketing-Müdigkeit, um ACS besser zu nutzen. Diese Sitzung wird interaktiv sein: Machen Sie diese Sitzung zu Ihrer eigenen, indem Sie sich direkt an unseren Experten wenden, um mehr über Funktionen/Bedürfnisse zu erfahren!
 
-*Laurent Valenza* Principal Solution Consultant/Adobe
+*Laurent Valenza* Principal Solution Consultant / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343828/?quality=12&learn=on)

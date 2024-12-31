@@ -1,6 +1,6 @@
 ---
-title: Entwickeln von OSGi-Paketen und -Services für AEM
-description: Erfahren Sie, wie einfach es ist, OSGi-Pakete und -Dienste für AEM zu entwickeln. Diese Sitzung beginnt mit einer kurzen Einführung in die grundlegenden Konzepte von OSGi.
+title: Entwickeln von OSGi-Bundles und -Services für AEM
+description: Erfahren Sie, wie einfach es ist, OSGi-Bundles und -Services für AEM zu entwickeln. Diese Sitzung beginnt mit einer kurzen Einführung in die grundlegenden Konzepte von OSGi.
 discoiquuid: 1814b885-2832-4fda-bb36-467f77b88c7a
 targetaudience: target-audience advanced
 exl-id: 821b72b1-de34-45aa-9722-3041aabc774b
@@ -12,24 +12,24 @@ ht-degree: 0%
 
 ---
 
-# Entwickeln von OSGi-Paketen und -Services für AEM{#developing-osgi-bundles-and-services-for-aem}
+# Entwickeln von OSGi-Bundles und -Services für AEM{#developing-osgi-bundles-and-services-for-aem}
 
-In dieser Sitzung erfahren Sie, wie einfach es ist, OSGi-Pakete und -Dienste für AEM zu entwickeln. Diese Sitzung beginnt mit einer kurzen Einführung in die grundlegenden Konzepte von OSGi: Bundles und Dienste. Anschließend zeigt es die einfache und einfache Verwendung bewährter Anmerkungen zur Entwicklung von Bundles und Diensten. Darüber hinaus werden Tipps und Tricks sowie Best Practices zur Vereinfachung AEM Entwicklung und zur Vermeidung von Nachteile und Fallstricken einbezogen.
+In dieser Sitzung erfahren Sie, wie einfach es ist, OSGi-Bundles und -Services für AEM zu entwickeln. Diese Sitzung beginnt mit einer kurzen Einführung in die grundlegenden Konzepte von OSGi: Pakete und Services. Anschließend wird die einfache und unkomplizierte Verwendung bewährter Anmerkungen zur Entwicklung von Paketen und Services demonstriert. Darüber hinaus werden Tipps und Tricks sowie Best Practices vermittelt, die die AEM-Entwicklung erleichtern und Nachteile und Fallstricke vermeiden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19654/?quality=9)
 
-*Ausgestellt am 6. September 2017*
+*Veröffentlicht am 06.09.2017*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
-Carsten Ziegeler, Principal Scientist, Adobe
+Carsten Ziegeler, Hauptwissenschaftler, Adobe
 
 Karl Pauls, Informatiker, Adobe
 
-Chat Expert:\
+Chat-Experte:\
 David Bosschaert, Senior Software Engineer, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/aem-gems-osgi-best-practices-090617.pdf)
 

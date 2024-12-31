@@ -1,6 +1,6 @@
 ---
 title: Metadaten
-description: Einrichten einer klaren Strategie zur Optimierung der Entdeckung
+description: Klare Strategie zur Optimierung der Auffindbarkeit
 solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -23,11 +23,11 @@ ht-degree: 3%
 
 # Metadaten - Adobe Experience Manager Asset-Serie
 
-Nutzen Sie diese fünfteilige Webinar-Reihe, um Ihre Wissensbasis aufzubauen und Ihre Investitionen in Adobe Experience Manager Assets zu maximieren. Wenn Sie ein Praktiker sind, der neu in Adobe Experience Manager Assets ist oder Adobe Experience Manager Assets seit einer Weile verwendet und Ihre vorhandenen Fähigkeiten verbessern möchte, ist dies der ideale Weg, um einen tiefen Einblick in fünf der wichtigsten Bereiche der Lösung zu erhalten. Adobe-Experten werden die Grundlagen überprüfen und Ihnen erweiterte Einblicke geben, die Ihnen umsetzbare nächste Schritte ermöglichen, die Sie sofort umsetzen können.
+Nutzen Sie diese fünfteilige Webinar-Reihe, um Ihre Wissensbasis aufzubauen und Ihre Investition in Adobe Experience Manager Assets zu maximieren. Wenn Sie Adobe Experience Manager Assets noch nicht kennen oder schon eine Weile Adobe Experience Manager Assets verwenden und Ihre bestehenden Kenntnisse erweitern möchten, ist dies der ideale Weg, um sich einen tiefen Einblick in die fünf wichtigsten Bereiche der Lösung zu verschaffen. Adobe-Experten werden die Grundlagen überprüfen und erweiterte Einblicke geben, die Ihnen praktische nächste Schritte ermöglichen, die Sie sofort in die Praxis umsetzen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 
-Einrichten einer klaren Strategie zur Optimierung der Entdeckung.
+Eine klare Strategie zur Optimierung der Auffindbarkeit festlegen.
 
 ## Ressourcen
 
@@ -35,7 +35,7 @@ Einrichten einer klaren Strategie zur Optimierung der Entdeckung.
 *[Erweitern von Metadatenschemata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=de)
 *[Optimieren der Metadatenbearbeitung mit kaskadierenden Metadaten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=de)
 *[Automatisches Anwenden von Metadaten auf Assets mithilfe von Metadatenprofilen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=de)
-*[AEM Metadatenschemata](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
+*[AEM-Metadatenschemata](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
 *[Verwalten von Asset-Metadaten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
 
 ## Serienaufnahmen

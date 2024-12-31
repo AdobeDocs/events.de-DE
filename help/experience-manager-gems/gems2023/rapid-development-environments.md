@@ -1,6 +1,6 @@
 ---
-title: Beschleunigung der AEM as a Cloud Service-Entwicklung mit Rapid Development Environments
-description: Um Änderungen bereitzustellen, erfordern aktuelle Cloud-Entwicklungsumgebungen die Verwendung eines Prozesses, der umfassende Code-Sicherheits- und Qualitätsregeln anwendet, die als CI/CD-Pipeline bezeichnet werden. Für Situationen, in denen schnelle und iterative Änderungen erforderlich sind, hat Adobe Rapid Development Environments (RDEs, kurz RDEs) eingeführt. RDEs ermöglichen es Entwicklern, Änderungen schnell bereitzustellen und zu überprüfen. So wird der Zeitaufwand für das Testen von Funktionen, die nachweislich in einer lokalen Entwicklungsumgebung funktionieren, minimiert.
+title: Beschleunigen der AEM as a Cloud Service-Entwicklung mit schnellen Entwicklungsumgebungen
+description: 'Um Änderungen bereitzustellen, müssen in aktuellen Cloud-Entwicklungsumgebungen ein Prozess verwendet werden, der umfassende Code-Sicherheits- und Qualitätsregeln anwendet, die als CI/CD-Pipeline bezeichnet werden. Für Situationen, in denen schnelle und iterative Änderungen erforderlich sind, hat Adobe schnelle Entwicklungsumgebungen (Rapid Development Environments, kurz: RDEs) eingeführt. RDEs ermöglichen es Entwicklerinnen und Entwicklern, Änderungen schnell bereitzustellen und zu überprüfen und so den Zeitaufwand für das Testen von Funktionen, die nachweislich in einer lokalen Entwicklungsumgebung funktionieren, zu minimieren.'
 feature-set: Experience Manager
 solution: Experience Manager
 version: Cloud Service
@@ -22,28 +22,28 @@ ht-degree: 0%
 
 ---
 
-# Beschleunigung der AEM as a Cloud Service-Entwicklung mit Rapid Development Environments
+# Beschleunigen der AEM as a Cloud Service-Entwicklung mit schnellen Entwicklungsumgebungen
 
 Dieses Webinar wurde am 22. Februar 2023 durchgeführt. Bitte sehen Sie sich die Aufnahme unten an.
 
 ## Sitzungsbeschreibung
 
-Um Änderungen bereitzustellen, erfordern aktuelle Cloud-Entwicklungsumgebungen die Verwendung eines Prozesses, der umfassende Code-Sicherheits- und Qualitätsregeln anwendet, die als CI/CD-Pipeline bezeichnet werden. Für Situationen, in denen schnelle und iterative Änderungen erforderlich sind, hat Adobe Rapid Development Environments (RDEs für kurze Zeit) eingeführt.
+Um Änderungen bereitzustellen, müssen in aktuellen Cloud-Entwicklungsumgebungen ein Prozess verwendet werden, der umfassende Code-Sicherheits- und Qualitätsregeln anwendet, die als CI/CD-Pipeline bezeichnet werden. Für Situationen, in denen schnelle und iterative Änderungen erforderlich sind, hat Adobe schnelle Entwicklungsumgebungen (Rapid Development Environments, RDEs) eingeführt.
 
-RDEs ermöglichen es Entwicklern, Änderungen schnell bereitzustellen und zu überprüfen und so den Zeitaufwand für das Testen von Funktionen zu minimieren, die nachweislich in einer lokalen Entwicklungsumgebung funktionieren.
+RDEs ermöglichen es Entwicklerinnen und Entwicklern, Änderungen schnell bereitzustellen und zu überprüfen und so den Zeitaufwand für das Testen von Funktionen zu minimieren, die nachweislich in einer lokalen Entwicklungsumgebung funktionieren.
 
 ## Moderatoren
 
-* Natalia Angulo Herrera, Software Development Engineer
-* Karl Pauls, leitender Informatiker
+* Natalia Angulo Herrera, Softwareentwickler
+* Karl Pauls, Senior Computer Scientist
 * David Bosschaert, Senior Software Engineer
 
-## Webinar-Aufzeichnung - 22.02.2023
+## Webinar-Aufzeichnung - 02/22/2023
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415876)
 
 >[!NOTE]
 >
->* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf Experience League diesen [kontextuellen Thread](http://bit.ly/3x1Cl8x)
+>* Informationen zu sitzungsspezifischen Community-Interaktionen auf Experience League finden Sie in diesem [Kontextuellen Thread](http://bit.ly/3x1Cl8x)
 >
->* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen zu unseren kommenden Webinaren zu erhalten, registrieren Sie sich bitte unter [Adobe auf AEM User Group](https://aem-augs.adobe.com/).

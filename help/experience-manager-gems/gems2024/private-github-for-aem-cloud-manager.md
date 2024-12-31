@@ -1,6 +1,6 @@
 ---
-title: Integrieren privater GitHub-Repositorys in AEM Cloud Manager
-description: Im Rahmen dieses AEM GEMs-Webinars werden wir zeigen, wie Sie Ihr eigenes privates GitHub-Repository in Cloud Manager optimal nutzen können. Wir beginnen mit dem Onboarding des Repositorys, mit dem Sie jetzt das GitHub-Repository direkt mit Ihren Cloud Manager-Pipelines verknüpfen können, sodass Sie Ihren Code nicht konsistent mit dem Adobe-Repository synchronisieren müssen. Anschließend möchten wir zeigen, wie Sie mit dieser Funktion Ihren Testprozess nach links verschieben und die Cloud Manager-Code-Qualitätsprüfungen auf der Pull-Anforderungsebene durchführen können, bevor der Code zusammengeführt wird. Als AEM-Entwickler wären Sie in der Lage, Probleme zu identifizieren, die Ihren Cloud Manager-Build früher in Ihrem Entwicklungszyklus fehlgeschlagen wären.
+title: Integrieren von privaten GitHub-Repositorys in AEM Cloud Manager
+description: In diesem AEM GEMs-Webinar zeigen wir Ihnen, wie Sie das Hinzufügen Ihres eigenen privaten GitHub-Repositorys in Cloud Manager optimal nutzen können. Wir beginnen mit dem Onboarding des Repositorys, mit dem Sie jetzt das GitHub-Repository direkt mit Ihren Cloud Manager-Pipelines verknüpfen können, sodass Sie Ihren Code nicht mehr konsequent mit dem Adobe-Repository synchronisieren müssen. Anschließend möchten wir zeigen, wie Sie mit dieser Funktion Ihren Testprozess nach links verschieben können, indem Sie die Cloud Manager-Code-Qualitätsprüfungen auf die Pull-Anfrageebene bringen, bevor der Code zusammengeführt wird. Auf diese Weise könnten Sie als AEM-Entwicklungsperson die Probleme identifizieren, bei denen Ihr Cloud Manager-Build früher im Entwicklungszyklus fehlgeschlagen wäre.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 # Webinar-Datum: 31. Juli 2024
 
-Dieses Webinar ist abgeschlossen - sehen Sie sich bitte die Aufzeichnung unten an.
+Dieses Webinar wurde abgeschlossen. Bitte sehen Sie sich die Aufzeichnung unten an.
 
-## Integrieren privater GitHub-Repositorys in AEM Cloud Manager
+## Integrieren von privaten GitHub-Repositorys in AEM Cloud Manager
 
-Im Rahmen dieses AEM GEMs-Webinars werden wir zeigen, wie Sie Ihr eigenes privates GitHub-Repository in Cloud Manager optimal nutzen können. Wir beginnen mit dem Onboarding des Repositorys, mit dem Sie jetzt das GitHub-Repository direkt mit Ihren Cloud Manager-Pipelines verknüpfen können, sodass Sie Ihren Code nicht konsistent mit dem Adobe-Repository synchronisieren müssen. Anschließend möchten wir zeigen, wie Sie mit dieser Funktion Ihren Testprozess nach links verschieben und die Cloud Manager-Code-Qualitätsprüfungen auf der Pull-Anforderungsebene durchführen können, bevor der Code zusammengeführt wird. Als AEM-Entwickler wären Sie in der Lage, Probleme zu identifizieren, die Ihren Cloud Manager-Build früher in Ihrem Entwicklungszyklus fehlgeschlagen wären.
+In diesem AEM GEMs-Webinar zeigen wir Ihnen, wie Sie das Hinzufügen Ihres eigenen privaten GitHub-Repositorys in Cloud Manager optimal nutzen können. Wir beginnen mit dem Onboarding des Repositorys, mit dem Sie jetzt das GitHub-Repository direkt mit Ihren Cloud Manager-Pipelines verknüpfen können, sodass Sie Ihren Code nicht mehr konsequent mit dem Adobe-Repository synchronisieren müssen. Anschließend möchten wir zeigen, wie Sie mit dieser Funktion Ihren Testprozess nach links verschieben können, indem Sie die Cloud Manager-Code-Qualitätsprüfungen auf die Pull-Anfrageebene bringen, bevor der Code zusammengeführt wird. Auf diese Weise könnten Sie als AEM-Entwicklungsperson die Probleme identifizieren, bei denen Ihr Cloud Manager-Build früher im Entwicklungszyklus fehlgeschlagen wäre.
 
 ## Moderatoren
 
@@ -39,10 +39,10 @@ Im Rahmen dieses AEM GEMs-Webinars werden wir zeigen, wie Sie Ihr eigenes privat
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432350)
 
-## Webinar-Community-Interaktion
+## Webinar Community Interaction
 
 >[!NOTE]
 >
->* Für webinar-/themenspezifische Community-Interaktionen auf diesem Webinar auf Experience League besuchen Sie bitte den entsprechenden [kontextuellen Thread](https://adobe.ly/4f1jhMo).
+>* Webinar-/themenspezifische Community-Interaktionen zu diesem Webinar auf Experience League finden Sie im entsprechenden [Kontextuellen Thread](https://adobe.ly/4f1jhMo).
 >
->* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen über unsere kommenden Webinare zu erhalten, registrieren Sie sich bitte unter [Adobe auf AEM User Group](https://aem-augs.adobe.com/).

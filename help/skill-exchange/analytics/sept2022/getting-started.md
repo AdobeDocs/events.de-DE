@@ -1,6 +1,6 @@
 ---
 title: Analysieren der Daten
-description: Machen Sie sich mit der grundlegenden Benutzeroberfläche von Analytics vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace. Während dieser Sitzung werden wir mit der Verwendung von Tabellen, Visualisierungen und Bedienfeldern beginnen.
+description: Machen Sie sich mit der grundlegenden Analytics-Benutzeroberfläche vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace. In dieser Sitzung beginnen wir mit der Verwendung von Tabellen, Visualisierungen und Bedienfeldern.
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Workspace Basics, Visualizations, Panels
@@ -21,6 +21,6 @@ ht-degree: 3%
 
 # Erste Schritte
 
-Machen Sie sich mit der grundlegenden Benutzeroberfläche von Analytics vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace. Während dieser Sitzung werden wir mit der Verwendung von Tabellen, Visualisierungen und Bedienfeldern beginnen.
+Machen Sie sich mit der grundlegenden Analytics-Benutzeroberfläche vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace. In dieser Sitzung beginnen wir mit der Verwendung von Tabellen, Visualisierungen und Bedienfeldern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411007/?quality=12&learn=on)

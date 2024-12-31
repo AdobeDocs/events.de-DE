@@ -1,6 +1,6 @@
 ---
-title: Wachstumspfad von August 2023 - Verwendung von Adobe Analytics zur Korrektur Ihrer Navigation
-description: Die Navigation ist von entscheidender Bedeutung, damit Ihre Besucher ihren Weg durch Ihre Site finden und in Ihre Konversionstrichter gelangen. Erfahren Sie, wie Sie die Effektivität Ihrer Navigation verfolgen und mit Adobe Analytics verbessern können.
+title: Aug 2023 - Auf Adobe Analytics setzen, um die Navigation zu verbessern
+description: Die Navigation ist für Ihre Besucher von entscheidender Bedeutung, um sich auf Ihrer Site zurechtzufinden und in Ihre Konversionstrichter zu gelangen. Erfahren Sie, wie Sie die Effektivität Ihrer Navigation verfolgen und diese mit Adobe Analytics verbessern können.
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Aug. 2023 zum Kompetenzaustausch - Wachstumspfad - Adobe Analytics: Verwendung von Adobe Analytics zur Behebung Ihrer Navigationsschwierigkeiten
+# Skill Exchange Event Aug 2023 - Track erweitern - Adobe Analytics: Verwenden von Adobe Analytics zur Fehlerbehebung bei der Navigation
 
-Die Navigation ist von entscheidender Bedeutung, damit Ihre Besucher ihren Weg durch Ihre Site finden und in Ihre Konversionstrichter gelangen. Erfahren Sie, wie Sie die Effektivität Ihrer Navigation verfolgen und mit Adobe Analytics verbessern können.
+Die Navigation ist für Ihre Besucher von entscheidender Bedeutung, um sich auf Ihrer Site zurechtzufinden und in Ihre Konversionstrichter zu gelangen. Erfahren Sie, wie Sie die Effektivität Ihrer Navigation verfolgen und diese mit Adobe Analytics verbessern können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Tief in Adobe Experience Manager 6.4 eintauchen
-description: Experience Manager bietet eine agile Lösung zum Entwerfen, Antizipieren und Bereitstellen schnell anpassbarer Erlebnisse im Web, auf Mobilgeräten und an Endpunkten im Kunden-Journey. Nehmen Sie an dieser Sitzung teil, um eine Vorschau der wichtigsten Funktionen und Integrationen aus der kommenden Version von Adobe Experience Manager 6.4 zu erhalten.
+title: Detaillierte Einblicke in Adobe Experience Manager 6.4
+description: Experience Manager bietet eine agile Lösung für das Entwerfen, Vorwegnehmen und Bereitstellen schnell anpassbarer Erlebnisse im Web, auf Mobilgeräten und an jedem Endpunkt des Kunden-Journey. In dieser Sitzung erhalten Sie eine Vorschau auf die wichtigsten Funktionen und Integrationen der kommenden Version von Adobe Experience Manager 6.4.
 discoiquuid: 98f017e8-42e3-436f-b7e4-a60e57042617
 targetaudience: target-audience advanced
 exl-id: 7391a332-a8c5-4d91-9c9c-80a81e6e78d8
@@ -12,21 +12,21 @@ ht-degree: 0%
 
 ---
 
-# Tief in Adobe Experience Manager 6.4 eintauchen{#deep-dive-into-adobe-experience-manager}
+# Detaillierte Einblicke in Adobe Experience Manager 6.4{#deep-dive-into-adobe-experience-manager}
 
-Experience Manager bietet eine agile Lösung zum Entwerfen, Antizipieren und Bereitstellen schnell anpassbarer Erlebnisse im Web, auf Mobilgeräten und an Endpunkten im Kunden-Journey. Nehmen Sie an dieser Sitzung teil, um eine Vorschau der wichtigsten Funktionen und Integrationen aus der kommenden Version von Adobe Experience Manager 6.4 zu erhalten. Die Agenda umfasst: Überblick über AEM 6.4 | Kernkomponenten 2 | Stilsystem | Pfadänderungen aufgrund der Trennung von Inhalt und Apps/Produkt | Änderungen in Oak und Sling - inkl. Kontextabhängige Konfiguration | Einzelseiten-Apps bearbeitbar machen, mit Fokus auf React
+Experience Manager bietet eine agile Lösung für das Entwerfen, Vorwegnehmen und Bereitstellen schnell anpassbarer Erlebnisse im Web, auf Mobilgeräten und an jedem Endpunkt des Kunden-Journey. In dieser Sitzung erhalten Sie eine Vorschau auf die wichtigsten Funktionen und Integrationen der kommenden Version von Adobe Experience Manager 6.4. Auf der Tagesordnung stehen: Überblick über AEM 6.4 | Kernkomponenten 2 | Stilsystem | Pfadänderungen aufgrund der Trennung von Inhalten und Programmen/Produkten | Änderungen in Oak und Sling - einschl. Kontextabhängige Konfiguration | Bearbeitbare Single Page Apps mit Fokus auf React
 
 >[!VIDEO](https://video.tv.adobe.com/v/21749/?quality=9)
 
-*Ausgestellt am 14. März 2018*
+*Veröffentlicht am 14.03.2018*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 Gabriel Walt, Product Manager, Adobe
 
 Cedric Huesler, Director Product Management, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/aem64-developerupdate31418.pdf)
 

@@ -1,29 +1,29 @@
 ---
-title: Webinar zur Schulung und Aktivierung mit Workfront
-description: Erfahren Sie im On-Demand-Webinar, wie Workfront die Mitarbeiterschulung verbessert. Erhalten Sie Einblicke von JPMorgan Chase-, IBM- und Adobe Workfront-Experten in die Erstellung maßgeschneiderter Pfade, die Organisation von Materialien und die Nutzung von Workfront für effektives Onboarding und die langfristige Adoption.
+title: Verwenden von Workfront für Schulungs- und Aktivierungswebinar
+description: In unserem On-Demand-Webinar erfahren Sie, wie Workfront die Mitarbeiterschulung verbessert. Gewinnen Sie Einblicke von JPMorgan Chase-, IBM- und Adobe Workfront-Experten bei der Erstellung maßgeschneiderter Pfade, der Organisation von Materialien und der Nutzung von Workfront für effektives Onboarding und langfristige Akzeptanz.
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3574
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15826
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 8300b149-1e69-4a29-b0ab-8134d46df4a4
+source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-
 # Verwenden von Workfront für Schulung und Aktivierung
 
-Jeder, der einen neuen Job begonnen hat, weiß, wie es sich anfühlt, neue Systeme, Prozesse, Dokumentationen, Teamkollegen usw. zu lernen. Aus diesem Grund verwenden einige Workfront-Kunden Workfront, um ihre Mitarbeiterschulung und -aktivierung zu verwalten.
+Jeder, der einen neuen Job begonnen hat, weiß, wie es sich anfühlt, neue Systeme, Prozesse, Dokumentation, Teamkollegen usw. zu erlernen. Aus diesem Grund verwenden mehrere Workfront-Kunden Workfront, um ihre Mitarbeiterschulungen und -schulungen zu verwalten.
 
-Sehen Sie sich dieses On-Demand-Webinar an, in dem Kurt Jones, Vizepräsident, Marketing Delivery Lead und Workfront Admin bei JPMorgan Chase, Kimberley Trask, Workfront Strategy Consultant bei IBM, und Cynthia Boon, Customer Success Manager bei Adobe Workfront, ihre Erfahrungen mit der Verwendung von Workfront für Schulungen austauschen, darunter:
+Sehen Sie sich dieses On-Demand-Webinar an, in dem Kurt Jones, Vice President, Marketing Delivery Lead und Workfront Admin bei JPMorgan Chase, Kimberley Trask, Workfront Strategy Consultant bei IBM und Cynthia Boon, Customer Success Manager bei Adobe Workfront, ihre Erfahrungen bei der Verwendung von Workfront für Schulungen teilen, darunter:
 
-* Tipps zum Erstellen von Trainings-Pfaden für verschiedene Rollen oder Laufzeitstufen
-* Ideen für die Organisation Ihrer Schulungsmaterialien und Unterstützungsprojekte
-* Langfristige Nutzung von Workfront durch die Verwendung von Workfront beim Onboarding
-* Beispiele für verschiedene Ansätze, da Training nicht für alle gleich ist
+* Tipps zum Erstellen von Schulungspfaden für verschiedene Rollen oder Reifegrade
+* Ideen für die Organisation Ihrer Schulungsmaterialien und Aktivierungsprojekte
+* Wie die Verwendung von Workfront während des Onboarding Benutzern langfristig mehr Komfort bei der Verwendung von Workfront verschafft
+* Beispiele für verschiedene Ansätze, da die Ausbildung keine Patentlösung ist
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431020/?learn=on)

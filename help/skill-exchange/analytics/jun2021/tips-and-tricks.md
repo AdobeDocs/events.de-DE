@@ -1,6 +1,6 @@
 ---
 title: Tipps und Tricks zu Adobe Analytics
-description: Join Jen Lasser, Principal Product Manager, Adobe Analytics, gibt Tipps zur Verbesserung Ihres Analyse-Workflows und hebt aktuelle Innovationen hervor
+description: Kommen Sie zu Jen Lasser, Principal Product Manager, Adobe Analytics, und tauschen Sie Tipps aus, wie Sie Ihren Analyse-Workflow verbessern und die neuesten Innovationen hervorheben können
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Tipps und Tricks zu Adobe Analytics
 
-Join Jen Lasser, Principal Product Manager, Adobe Analytics, gibt Tipps zur Verbesserung Ihres Analyse-Workflows und hebt die neuesten Innovationen im Produkt hervor.
+Kommen Sie zu Jen Lasser, Principal Product Manager, Adobe Analytics, und tauschen Sie Tipps aus, wie Sie Ihren Analyse-Workflow verbessern und die neuesten Innovationen im Produkt hervorheben können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342531/?quality=12&learn=on)

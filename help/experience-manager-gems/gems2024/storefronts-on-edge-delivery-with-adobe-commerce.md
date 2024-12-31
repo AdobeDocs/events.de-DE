@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Storefronts auf Edge Delivery Services mit Adobe Commerce
-description: In diesem AEM GEMs-Webinar erfahren Sie, wie Sie eine leistungsstarke Storefront für Edge Delivery Services für Adobe Commerce erstellen. Wir führen Sie durch den Einrichtungsprozess Ihres Projekts mit der Commerce-Bauvorlage und wie Sie sie mit den neuen Commerce SaaS-Diensten verbinden können, um eine schnelle und benutzeroberflächenoptimierte Produktkatalogintegration mit Sensei zu ermöglichen. Wir führen Drop-in-Komponenten ein, eine Reihe von anpassbaren Frontend-Komponenten, die die Storefront-Entwicklung beschleunigen. Sie lernen Best Practices zur Erweiterung und Formatierung kennen. Schließlich werden wir neue Edge Delivery-Authoring-Funktionen hervorheben, um Ihre Commerce-Erlebnisse mit erstellten Inhalten zu bereichern.
+description: In diesem AEM GEMs-Webinar erfahren Sie, wie Sie eine leistungsstarke Storefront auf Edge Delivery Services für Adobe Commerce erstellen. Wir führen Sie durch den Einrichtungsprozess Ihres Projekts mit dem Commerce-Textbaustein und wie Sie ihn mit den neuen Commerce SaaS-Services für eine schnelle und Sensei-optimierte Produktkatalogintegration verbinden. Wir stellen Dropdown-Komponenten vor, eine Reihe anpassbarer Frontend-Komponenten, die die Entwicklung von Storefronts beschleunigen. Sie lernen Best Practices für die Erweiterung und Gestaltung kennen. Schließlich werden wir neue Edge Delivery-Authoring-Funktionen hervorheben, um Ihre Commerce-Erlebnisse mit erstellten Inhalten zu bereichern.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -22,12 +22,12 @@ ht-degree: 0%
 
 # Webinar-Datum: 6. März 2024
 
-Zeit: 17.00 Uhr MEZ/9.00 Uhr PDT/21.30 Uhr IST
-Dieses Webinar ist abgeschlossen. Bitte sehen Sie sich die Aufnahme unten an.
+Zeit: 17 Uhr MEZ / 9 Uhr PDT / 21:30 Uhr IST
+Dieses Webinar wurde abgeschlossen. Bitte sehen Sie sich die Aufnahme unten an.
 
 ## Erstellen von Storefronts auf Edge Delivery Services mit Adobe Commerce
 
-In diesem AEM GEMs-Webinar erfahren Sie, wie Sie eine leistungsstarke Storefront für Edge Delivery Services für Adobe Commerce erstellen. Wir führen Sie durch den Einrichtungsprozess Ihres Projekts mit der Commerce-Bauvorlage und wie Sie sie mit den neuen Commerce SaaS-Diensten verbinden können, um eine schnelle und benutzeroberflächenoptimierte Produktkatalogintegration mit Sensei zu ermöglichen. Wir führen Drop-in-Komponenten ein, eine Reihe von anpassbaren Frontend-Komponenten, die die Storefront-Entwicklung beschleunigen. Sie lernen Best Practices zur Erweiterung und Formatierung kennen. Schließlich werden wir neue Edge Delivery-Authoring-Funktionen hervorheben, um Ihre Commerce-Erlebnisse mit erstellten Inhalten zu bereichern.
+In diesem AEM GEMs-Webinar erfahren Sie, wie Sie eine leistungsstarke Storefront auf Edge Delivery Services für Adobe Commerce erstellen. Wir führen Sie durch den Einrichtungsprozess Ihres Projekts mit dem Commerce-Textbaustein und wie Sie ihn mit den neuen Commerce SaaS-Services für eine schnelle und Sensei-optimierte Produktkatalogintegration verbinden. Wir stellen Dropdown-Komponenten vor, eine Reihe anpassbarer Frontend-Komponenten, die die Entwicklung von Storefronts beschleunigen. Sie lernen Best Practices für die Erweiterung und Gestaltung kennen. Schließlich werden wir neue Edge Delivery-Authoring-Funktionen hervorheben, um Ihre Commerce-Erlebnisse mit erstellten Inhalten zu bereichern.
 
 ## Moderatoren
 
@@ -40,6 +40,6 @@ In diesem AEM GEMs-Webinar erfahren Sie, wie Sie eine leistungsstarke Storefront
 
 >[!NOTE]
 > 
->* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf Experience League unseren [kontextuellen Thread](https://adobe.ly/48m4dEm).
+>* Informationen zu sitzungsspezifischen Community-Interaktionen auf Experience League finden Sie in unserem [kontextuellen Thread](https://adobe.ly/48m4dEm).
 >
->* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen über unsere kommenden Webinare zu erhalten, registrieren Sie sich bitte unter [Adobe auf AEM User Group](https://aem-augs.adobe.com/).

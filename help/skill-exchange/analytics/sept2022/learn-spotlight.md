@@ -1,6 +1,6 @@
 ---
-title: Analytics Experience Makers-Spotlight
-description: Treten Sie uns bei, während wir Mandy George & Kaya Walton, zwei erfahrene Kunden und Adobe Analytics-Nutzer im Blickpunkt haben. Jeder wird seinen besten Adobe Analytics-Tipp oder -Trick teilen. Auf ihre Sitzung folgt eine Gelegenheit, Fragen live zu stellen. Das willst du nicht verpassen.
+title: 'Analytics: Experience Makers im Blickpunkt'
+description: Seien Sie dabei, wenn wir Mandy George & Kaya Walton, zwei erfahrene Kunden und Adobe Analytics-Anwender, in den Blickpunkt rücken. Jeder teilt seinen besten Adobe Analytics-Tipp oder -Trick. Auf die Sitzung folgt die Möglichkeit, Fragen live zu stellen. Das willst du nicht verpassen.
 solution: Analytics
 role: User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Analytics Experience Makers-Spotlight
+# Analytics: Experience Makers im Blickpunkt
 
-Treten Sie uns bei, während wir Mandy George &amp; Kaya Walton, zwei erfahrene Kunden und Adobe Analytics-Nutzer im Blickpunkt haben. Jeder wird seinen besten Adobe Analytics-Tipp oder -Trick teilen. Auf ihre Sitzung folgt eine Gelegenheit, Fragen live zu stellen. Das willst du nicht verpassen.
+Seien Sie dabei, wenn wir Mandy George &amp; Kaya Walton, zwei erfahrene Kunden und Adobe Analytics-Anwender, in den Blickpunkt rücken. Jeder teilt seinen besten Adobe Analytics-Tipp oder -Trick. Auf die Sitzung folgt die Möglichkeit, Fragen live zu stellen. Das willst du nicht verpassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411008/?quality=12&learn=on)

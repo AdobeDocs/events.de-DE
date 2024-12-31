@@ -1,6 +1,6 @@
 ---
-title: Verwenden von Sensei, um Analysis Workspace auf die nächste Ebene zu bringen
-description: Erfahren Sie, wie Sie Sensei, das von Adobe bereitgestellte künstliche Intelligenz-Framework, nutzen können, um Kunden und Zielgruppensegmente intelligent zu analysieren ... (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
+title: Verwenden von Sensei, um Analysis Workspace auf die nächste Stufe zu bringen
+description: Erfahren Sie, wie Sie Sensei, das von Adobe bereitgestellte Framework für künstliche Intelligenz, nutzen können, um Kunden und Zielgruppensegmente intelligent zu analysieren… (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 solution: Analytics, Customer Journey Analytics
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Verwenden von Sensei, um Analysis Workspace auf die nächste Ebene zu bringen
+# Verwenden von Sensei, um Analysis Workspace auf die nächste Stufe zu bringen
 
-Erfahren Sie, wie Sie Sensei, das von Adobe bereitgestellte künstliche Intelligenz-Framework, nutzen können, um Kunden und Zielgruppensegmente intelligent zu analysieren, um aussagekräftige Unterschiede zu finden, Konversionsfaktoren zuzuordnen und zukünftiges Verhalten vorherzusagen.
+Entdecken Sie, wie Sie Sensei, das von Adobe bereitgestellte Artificial Intelligence Framework, nutzen können, um Kundinnen und Kunden sowie Zielgruppensegmente intelligent zu analysieren, um aussagekräftige Unterschiede zu finden, Konversionsfaktoren zuzuordnen und künftiges Verhalten vorherzusagen.
 
-*Matthias Kolitsch* Senior Multi Solution Trainer EMEA/Adobe
+*Matthias Kolitsch* Senior Multi Solution Trainer EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343830/?quality=12&learn=on)

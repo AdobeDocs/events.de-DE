@@ -1,6 +1,6 @@
 ---
-title: Mit diesen vier nicht verwendeten Funktionen können Sie Ihre Datenanalyse auf die nächste Stufe bringen.
-description: Adobe Analytics verfügt über eine scheinbar unendliche Anzahl von Funktionen und Features. Wir haben einige unserer am wenigsten genutzten, aber leistungsstarken aus einer Reihe von Kunden und Branchen ausgewählt. In dieser Sitzung erfahren Sie, wie Sie diese auf Ihren Analyse-Workflow anwenden und schnell den Wert Ihrer Einblicke in Ihre Organisation erhöhen können.
+title: Heben Sie Ihre Datenanalyse mit diesen vier ungenutzten Funktionen auf die nächste Stufe
+description: Adobe Analytics verfügt über eine scheinbar unendliche Anzahl von Funktionen. Wir haben einige unserer am wenigsten genutzten, aber leistungsfähigsten Produkte aus einer Reihe von Kunden und Branchen ausgewählt. In dieser Sitzung erfahren Sie, wie Sie diese auf Ihren Analyse-Workflow anwenden und den Wert Ihrer Einblicke schnell für Ihr Unternehmen steigern können.
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Skill Exchange Event Aug 2023 - Wachstumspfad - Nehmen Sie Ihre Datenanalyse mit diesen 4 nicht verwendeten Funktionen auf die nächste Stufe
+# Skill Exchange Event Aug 2023 - Auf dem richtigen Weg - Mit diesen vier ungenutzten Funktionen bringen Sie Ihre Datenanalyse auf ein höheres Niveau
 
-Adobe Analytics verfügt über eine scheinbar unendliche Anzahl von Funktionen und Features. Wir haben einige unserer am wenigsten genutzten, aber leistungsstarken aus einer Reihe von Kunden und Branchen ausgewählt. In dieser Sitzung erfahren Sie, wie Sie diese auf Ihren Analyse-Workflow anwenden und schnell den Wert Ihrer Einblicke in Ihre Organisation erhöhen können.
+Adobe Analytics verfügt über eine scheinbar unendliche Anzahl von Funktionen. Wir haben einige unserer am wenigsten genutzten, aber leistungsfähigsten Produkte aus einer Reihe von Kunden und Branchen ausgewählt. In dieser Sitzung erfahren Sie, wie Sie diese auf Ihren Analyse-Workflow anwenden und den Wert Ihrer Einblicke schnell für Ihr Unternehmen steigern können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425990/?learn=on)

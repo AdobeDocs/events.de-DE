@@ -1,6 +1,6 @@
 ---
 title: Daten analysieren
-description: Freiformtabellen sind die flexible Grundlage von Analysis Workspace. Das Mastering dieser leistungsstarken Tabellen bringt Sie weit in Ihre Workspace-Journey. Segmente sind eine äußerst flexible Methode, um Ihre Daten zu filtern und eingehend zu untersuchen. Sie können global, auf Metrikebene oder als eigenständige Dimensionen angewendet werden. Bedienfelder bieten Kurzbefehle für komplexe Analysen - insbesondere das Bedienfeld für schnelle Einblicke ist eine großartige Option, um Fragen, die sich an Ihr Unternehmen richten, einfach zu beantworten
+description: Freiformtabellen sind die flexible Grundlage von Analysis Workspace - das Meistern dieser leistungsstarken Tabellen bringt Ihnen in Ihrer Workspace-Journey einen Schritt weiter. Segmente sind eine äußerst flexible Möglichkeit, Ihre Daten zu filtern und tief in sie einzudringen, und können global, auf Metrikebene oder als eigenständige Dimensionen angewendet werden. Bedienfelder bieten Verknüpfungen zu komplexen Analysen - insbesondere das Bedienfeld „Quick Insights“ ist eine großartige Option, um einfach Fragen zu beantworten, die sich Ihrem Unternehmen stellen
 feature-set: Analytics
 feature: Freeform Tables, Metrics
 role: User
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Skill Exchange Event Aug 2023 - Learn track - Adobe Analytics: Analysieren der Daten
+# Skill Exchange Event August 2023 - Track lernen - Adobe Analytics: Daten analysieren
 
-Freiformtabellen bilden die flexible Grundlage für Analysis Workspace - das Überwachen dieser leistungsstarken Tabellen wird Sie weit in Ihre Workspace-Journey führen
+Freiformtabellen sind die flexible Grundlage von Analysis Workspace - das Meistern dieser leistungsstarken Tabellen bringt Sie auf Ihrem Workspace-Journey weit
 
-Segmente sind eine äußerst flexible Methode, um Ihre Daten zu filtern und tief in sie einzugraben. Sie können global, auf Metrikebene oder als eigenständige Dimensionen angewendet werden
+Segmente sind eine äußerst flexible Möglichkeit, Ihre Daten zu filtern und tief in Ihre Daten einzudringen. Sie können global, auf Metrikenebene oder als eigenständige Dimensionen angewendet werden
 
-Bedienfelder bieten Kurzbefehle für komplexe Analysen - insbesondere das Bedienfeld für schnelle Einblicke ist eine großartige Option, um Fragen, die sich an Ihr Unternehmen richten, einfach zu beantworten
+Bedienfelder bieten Verknüpfungen zu komplexen Analysen - insbesondere das Bedienfeld „Quick Insights“ ist eine großartige Option, um einfach Fragen zu beantworten, die sich Ihrem Unternehmen stellen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425987/?learn=on)

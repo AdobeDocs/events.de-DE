@@ -1,6 +1,6 @@
 ---
-title: Alles, was Sie über das Adobe Commerce 2.4.4 Upgrade wissen müssen
-description: Wie 2.4.4. Das Commerce Service Pack wurde verfügbar. Lernen Sie die Vorteile und alles kennen, was Sie für die Planung und Bereitstellung des Upgrades benötigen.
+title: Alles, was Sie über die Aktualisierung auf Adobe Commerce 2.4.4 wissen müssen
+description: Wie 2.4.4. Das Commerce Service Pack wurde verfügbar und bietet Ihnen Informationen zu den Vorteilen und alles, was Sie für die Planung und Bereitstellung des Upgrades wissen müssen.
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Alles, was Sie über das Adobe Commerce 2.4.4 Upgrade wissen müssen
+# Alles, was Sie über die Aktualisierung auf Adobe Commerce 2.4.4 wissen müssen
 
-Wie 2.4.4. Das Commerce Service Pack wurde verfügbar. Lernen Sie die Vorteile und alles kennen, was Sie für die Planung und Bereitstellung des Upgrades benötigen.
+Wie 2.4.4. Das Commerce Service Pack wurde verfügbar und bietet Ihnen Informationen zu den Vorteilen und alles, was Sie für die Planung und Bereitstellung des Upgrades wissen müssen.
 
-*Bethan Williams-James* Commerce Solutions Consultant/Adobe
+*Bethan Williams-James* Commerce Solutions Consultant / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343813/?quality=12&learn=on)

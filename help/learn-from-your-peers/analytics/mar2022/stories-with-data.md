@@ -1,6 +1,6 @@
 ---
-title: Einflussreiche Meldungen mit Daten erzählen
-description: Nehmen Sie an [!DNL Adobe Analytics] Champion Amy Ard teil, als sie erklärt, wie Kunst und Wissenschaft zusammenkommen können, um eine leistungsstarke Geschichte zu erzählen und Ihrem Unternehmen datenbasierte Entscheidungen zu ermöglichen.
+title: Mit Daten wirkungsvolle Stories erzählen
+description: Seien Sie dabei [!DNL Adobe Analytics] Champion Amy Ard, wenn sie erklärt, wie Kunst und Wissenschaft zusammenkommen können, um eine kraftvolle Geschichte zu erzählen und Ihrem Unternehmen zu helfen, datengesteuerte Entscheidungen zu treffen.
 solution: Analytics
 role: User
 doc-type: Event
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Einflussreiche Meldungen mit Daten erzählen
+# Mit Daten wirkungsvolle Stories erzählen
 
-Daten sind eines der leistungsfähigsten Instrumente, auf das sich eine Organisation verlassen kann, allerdings nur, wenn sie so präsentiert werden, dass sie für Entscheidungsträger von Bedeutung sind. Nehmen Sie an [!DNL Adobe Analytics] Champion Amy Ard teil, als sie erklärt, wie Kunst und Wissenschaft zusammenkommen können, um eine mächtige Geschichte zu erzählen und Ihrem Unternehmen datenbasierte Entscheidungen zu ermöglichen.
+Daten sind eines der leistungsfähigsten Tools, auf das sich ein Unternehmen verlassen kann, aber nur, wenn sie auf eine Weise präsentiert werden, die für Entscheidungsträger von Bedeutung ist. Seien Sie dabei, wenn [!DNL Adobe Analytics] Champion Amy Ard erklärt, wie Kunst und Wissenschaft zusammenkommen können, um eine kraftvolle Geschichte zu erzählen und Ihrem Unternehmen zu helfen, datengestützte Entscheidungen zu treffen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342096/?quality=12&learn=on)

@@ -1,8 +1,8 @@
 ---
-title: Commerce Intelligence - Fragen an Experten
-description: Sehen Sie sich diese aufgezeichneten Webinare an, um einen tiefen Einblick in das Commerce Intelligence-Produktteam zu erhalten, einschließlich der geschäftlichen Transformation durch intelligente Daten.
-landing-page-description: Sehen Sie sich diese aufgezeichneten Webinare an, um einen tiefen Einblick in das Commerce Intelligence-Produktteam zu erhalten, einschließlich der geschäftlichen Transformation durch intelligente Daten.
-short-description: Sehen Sie sich diese aufgezeichneten Webinare an, um einen tiefen Einblick in das Commerce Intelligence-Produktteam zu erhalten, einschließlich der geschäftlichen Transformation durch intelligente Daten.
+title: Commerce Intelligence - Fragen Sie einen Experten
+description: Sehen Sie sich diese aufgezeichneten Webinare an, um einen tiefen Einblick in das Commerce Intelligence-Produkt-Team zu erhalten, einschließlich der Umwandlung von Unternehmen durch intelligente Daten.
+landing-page-description: Sehen Sie sich diese aufgezeichneten Webinare an, um einen tiefen Einblick in das Commerce Intelligence-Produkt-Team zu erhalten, einschließlich der Umwandlung von Unternehmen durch intelligente Daten.
+short-description: Sehen Sie sich diese aufgezeichneten Webinare an, um einen tiefen Einblick in das Commerce Intelligence-Produkt-Team zu erhalten, einschließlich der Umwandlung von Unternehmen durch intelligente Daten.
 kt: 10404
 solution: Commerce, Commerce Intelligence
 role: Leader,User,Data Architect
@@ -17,27 +17,27 @@ ht-degree: 0%
 
 ---
 
-# MBI - Experten fragen
+# MBI - Fragen Sie einen Experten
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence hieß vorher [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
+>Adobe Commerce Intelligence hieß früher [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen vergangener Ereignisse spiegeln den vorherigen Namen wider.
 
 Sitzung 1:
 
 - Was Kunden über Commerce Intelligence sagen
-- Geschäftsumwandlung durch intelligente Daten
+- Geschäftliche Transformation durch intelligente Daten
 
 Sitzung 2:
 
-- SQL-Optimierung mithilfe von allgemeinen Tabellenausdrücken
-- Best Practices in SQL-basierten Berichten
-- SQL-basierte Reporting-Demo
+- SQL-Optimierung mit allgemeinen Tabellenausdrücken
+- Best Practices für SQL-basierte Berichte
+- Demo zur SQL-basierten Berichterstellung
 - Fragen und Antworten
 
-## Inhalt des Webinars aufgezeichnet
+## Aufgezeichnete Webinar-Inhalte
 
-_Fragen an Experten_ besteht aus zwei Sitzungen:
+_Ask an Expert_ besteht aus zwei Sitzungen:
 
 ### Sitzung 1
 
@@ -51,7 +51,7 @@ _Fragen an Experten_ besteht aus zwei Sitzungen:
 
 >[!TIP]
 >
->Wenn Sie mit Commerce Intelligence noch nicht vertraut sind, bietet die Videoreihe [Erste Schritte](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) einen umfassenden Überblick, um durch Datenerfassung, Analyse und Visualisierung bessere Einblicke und Ergebnisse für Unternehmen zu erzielen.
+>Wenn Sie Commerce Intelligence noch nicht kennen, [ die Videoreihe „Erste Schritte](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) einen vollständigen Überblick, um durch Datenaggregation, -analyse und -visualisierung bessere geschäftliche Einblicke und Ergebnisse zu erzielen.
 
-- [Commerce Intelligence-Einführung](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [Einführung in Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
 - [Commerce Intelligence-Unterstützung](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

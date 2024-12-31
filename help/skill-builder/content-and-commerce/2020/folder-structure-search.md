@@ -1,6 +1,6 @@
 ---
 title: Ordnerstruktur und Suche
-description: Grundlagen zum Einrichten und Verwenden Ihres DAM
+description: Die Grundlagen zum Einrichten und Verwenden des DAM
 solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -23,11 +23,11 @@ ht-degree: 2%
 
 # Ordnerstruktur und Suche - Adobe Experience Manager Asset-Serie
 
-Nutzen Sie diese fünfteilige Webinar-Reihe, um Ihre Wissensbasis aufzubauen und Ihre Investitionen in Adobe Experience Manager Assets zu maximieren. Wenn Sie ein Praktiker sind, der neu in Adobe Experience Manager Assets ist oder Adobe Experience Manager Assets seit einer Weile verwendet und Ihre vorhandenen Fähigkeiten verbessern möchte, ist dies der ideale Weg, um einen tiefen Einblick in fünf der wichtigsten Bereiche der Lösung zu erhalten. Adobe-Experten werden die Grundlagen überprüfen und Ihnen erweiterte Einblicke geben, die Ihnen umsetzbare nächste Schritte ermöglichen, die Sie sofort umsetzen können.
+Nutzen Sie diese fünfteilige Webinar-Reihe, um Ihre Wissensbasis aufzubauen und Ihre Investition in Adobe Experience Manager Assets zu maximieren. Wenn Sie Adobe Experience Manager Assets noch nicht kennen oder schon eine Weile Adobe Experience Manager Assets verwenden und Ihre bestehenden Kenntnisse erweitern möchten, ist dies der ideale Weg, um sich einen tiefen Einblick in die fünf wichtigsten Bereiche der Lösung zu verschaffen. Adobe-Experten werden die Grundlagen überprüfen und erweiterte Einblicke geben, die Ihnen praktische nächste Schritte ermöglichen, die Sie sofort in die Praxis umsetzen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 
-Die Grundlagen der Einrichtung und Verwendung Ihres DAM.
+Die Grundlagen zum Einrichten und Verwenden des DAM.
 
 ## Ressourcen
 
@@ -35,8 +35,8 @@ Die Grundlagen der Einrichtung und Verwendung Ihres DAM.
 * [Einrichten der AEM Assets-Ordnerstruktur](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
 * [Einrichten von AEM Assets-Ordnerberechtigungen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=de)
 * [Verwenden von Sammlungen zum Organisieren und Freigeben von Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [Suchen visuell ähnlicher Assets mit maschinellem Lernen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Abrufen genauer und genauer Suchergebnisse mit dynamischen Suchfacetten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [Suchen nach visuell ähnlichen Assets mit maschinellem Lernen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [Erhalten Sie präzise und genaue Suchergebnisse mit dynamischen Suchfacetten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
 * [Erweiterte Volltextsuchsyntax](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
 
 ## Serienaufnahmen

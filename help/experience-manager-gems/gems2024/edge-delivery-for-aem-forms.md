@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte mit Edge Delivery Services für AEM Forms
-description: Erfahren Sie, wie Sie AEM Forms mit Edge Delivery Services erstellen und veröffentlichen und diese als außergewöhnliche Erlebnisse bereitstellen. Wir werden zwei Möglichkeiten zum Authoring dieser Formulare behandeln - Verwendung von dokumentbasiertem Authoring und AEM basiertes Authoring. Sie erfahren, wie Sie ein AEM Forms Edge Delivery Services-Projekt zur Anpassung von Forms-Bausteinen und -Komponenten und zur Verwendung serverseitiger Erweiterungen einrichten. Außerdem erfahren Sie, wie Sie AEM Forms as a Cloud Service für die Backend-Verarbeitung von Forms nach der Übermittlung nutzen können.
+description: Erfahren Sie, wie Sie AEM Forms mithilfe von Edge Delivery Services erstellen und veröffentlichen und diese als außergewöhnliche Erlebnisse über den Edge bereitstellen. Wir behandeln zwei Möglichkeiten zum Erstellen dieser Formulare - die Verwendung der dokumentbasierten und die AEM-basierte Bearbeitung. Sie erfahren, wie Sie ein AEM Forms Edge Delivery Services-Projekt einrichten, um Forms-Blöcke und -Komponenten anzupassen und um serverseitige Erweiterungen zu verwenden. Außerdem erfahren Sie, wie Sie AEM Forms as a Cloud Service nach der Übermittlung für die Backend-Verarbeitung von Forms nutzen können.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -19,25 +19,25 @@ ht-degree: 0%
 
 # Webinar-Datum: 17. April 2024
 
-Dieses Webinar ist abgeschlossen - sehen Sie sich bitte die Aufzeichnung unten an.
+Dieses Webinar wurde abgeschlossen. Bitte sehen Sie sich die folgende Aufzeichnung an.
 
 ## Erste Schritte mit Edge Delivery Services für AEM Forms
 
-Erfahren Sie, wie Sie AEM Forms mit Edge Delivery Services erstellen und veröffentlichen und diese als außergewöhnliche Erlebnisse bereitstellen. Wir werden zwei Möglichkeiten zum Authoring dieser Formulare behandeln: Verwendung von dokumentbasiertem Authoring und AEM basiertes Authoring. Sie erfahren, wie Sie ein AEM Forms Edge Delivery Services-Projekt zur Anpassung von Forms-Bausteinen und -Komponenten und zur Verwendung serverseitiger Erweiterungen einrichten. Außerdem erfahren Sie, wie Sie AEM Forms as a Cloud Service für die Backend-Verarbeitung von Forms nach der Übermittlung nutzen können.
+Erfahren Sie, wie Sie AEM Forms mithilfe von Edge Delivery Services erstellen und veröffentlichen und diese als außergewöhnliche Erlebnisse über den Edge bereitstellen. Wir behandeln zwei Möglichkeiten zum Erstellen dieser Formulare: die Verwendung der dokumentbasierten und die AEM-basierte Bearbeitung. Sie erfahren, wie Sie ein AEM Forms Edge Delivery Services-Projekt einrichten, um Forms-Blöcke und -Komponenten anzupassen und um serverseitige Erweiterungen zu verwenden. Außerdem erfahren Sie, wie Sie AEM Forms as a Cloud Service nach der Übermittlung für die Backend-Verarbeitung von Forms nutzen können.
 
 ## Moderatoren
 
 * Arun Taneja, Product Management Director, Adobe
-* Vijay Kumar Jalagari, Leiter Engineering, Adobe
+* Vijay Kumar Jalagari, Sr. Engineering Manager, Adobe
 
 ## Webinar-Aufzeichnung
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428434/)
 
-## Webinar-Community-Interaktion
+## Webinar Community Interaction
 
 >[!NOTE]
 > 
->* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf Experience League den entsprechenden [kontextuellen Thread](https://adobe.ly/4aCz0OE).
+>* Informationen zu sitzungsspezifischen Community-Interaktionen auf Experience League finden Sie im entsprechenden [Kontextuellen Thread](https://adobe.ly/4aCz0OE).
 >
->* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen über unsere kommenden Webinare zu erhalten, registrieren Sie sich bitte unter [Adobe auf AEM User Group](https://aem-augs.adobe.com/).

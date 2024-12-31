@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte
-description: Machen Sie sich mit der grundlegenden Benutzeroberfläche von Analytics vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace.
+description: Machen Sie sich mit der grundlegenden Analytics-Benutzeroberfläche vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace.
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Workspace Basics
@@ -20,6 +20,6 @@ ht-degree: 4%
 
 # Adobe Analytics: Erste Schritte
 
-Machen Sie sich mit der grundlegenden Benutzeroberfläche von Analytics vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace. Während dieser Sitzung werden wir mit der Verwendung von Tabellen, Visualisierungen und Bedienfeldern beginnen.
+Machen Sie sich mit der grundlegenden Analytics-Benutzeroberfläche vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace. In dieser Sitzung beginnen wir mit der Verwendung von Tabellen, Visualisierungen und Bedienfeldern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342527/?quality=12&learn=on)

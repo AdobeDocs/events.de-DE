@@ -1,6 +1,6 @@
 ---
-title: Marketo & Mochas - Reifegrad Teil 1 - Verlegen der Stiftung
-description: Treten Sie Adobe Optimia Business Advisors, Cynthia Chang und Carly Gaver bei, während sie die Marketo-Reifenkurve erkunden, und bieten Sie Einblicke in die Einrichtung von Technologien, die Implementierung von Best Practices und die Verwaltung einer effektiven Dokumentation und Plattform-Governance mit einer Live-Demonstration der Programmvorlagen-Bibliothek.
+title: Marketo & Mokkas - Reife Teil 1 - Fundament legen
+description: Seien Sie dabei, wenn die Unternehmensberater von Adobe, Cynthia Chang und Carly Gaver, die Marketo Maturity Curve erkunden und Einblicke in die Optimierung von technologischen Setups, die Implementierung von Best Practices und die Pflege einer effektiven Dokumentation und Plattformverwaltung erhalten, mit einer Live-Demonstration der Programmvorlagenbibliothek.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Marketo &amp; Mochas: Laufzeitbereich 1 - Die Stiftung legen
+# Marketo &amp; Mokkas: Reife Teil 1 - Fundament legen
 
-Treten Sie Adobe Business Advisors, Cynthia Chang und Carly Gaver bei, da sie wertvolle Einblicke in die Marketo-Reifekurven erhalten, die Ihnen bei der Erweiterung der Marketo Engage-Nutzung helfen. Sie untersuchen alles von der Optimierung Ihres technischen Setups bis hin zur Implementierung von Best Practices für die Organisation einer Marketo Engage-Instanz. Effektive Dokumentation ist ebenso wichtig wie die Instanzimplementierung selbst. Lernen Sie daher die Wichtigkeit der Marketo Engage-Plattformverwaltung und der Erstellung angepasster Regelstandards kennen, um Organisation und Effizienz zu erhalten. Carly stellt eine Live-Demonstration der Programmvorlagen-Bibliothek bereit, die mehrere Startprogramme enthält, die direkt in Ihre Marketo Engage-Instanz importiert werden können, um Ihre Programmerstellung zu starten.
+Seien Sie dabei, wenn die Unternehmensberater von Adobe, Cynthia Chang und Carly Gaver, unschätzbare Einblicke in die Marketo-Reifekurve teilen, um die Expansion der Marketo Engage-Nutzung in Ihrem Unternehmen zu leiten. Sie gehen auf alles ein, von der Optimierung Ihrer technischen Einrichtung bis zur Implementierung von Best Practices für die Organisation einer Marketo Engage-Instanz. Eine effektive Dokumentation ist ebenso wichtig wie die Implementierung der Instanz selbst. Erfahren Sie daher, wie wichtig es ist, die Governance von Marketo Engage-Plattformen zu steuern und benutzerdefinierte Steuerungsstandards zu erstellen, um die Organisation und Effizienz aufrechtzuerhalten. Carly bietet eine Live-Demonstration der Programmvorlagenbibliothek, die mehrere Startprogramme enthält, die direkt in Ihre Marketo Engage-Instanz importiert werden können, um Ihre Programmerstellung zu starten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432499/?learn=on)

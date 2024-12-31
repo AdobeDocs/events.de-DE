@@ -1,6 +1,6 @@
 ---
-title: Marketo und Mochas - Wachstumsförderung mit Berichterstellung (Fälligkeit Pt 3)
-description: Treten Sie Adobe Business Advisors, Cynthia Chang und Carly Gaver, bei, um Teil 3 der Marketo-Webinarreihe zur Reife von Unternehmen zu erfahren, wie Sie mit Live-Q&A die Reporting-Tools von Marketo nutzen können, um das Geschäftswachstum zu steigern, die Leistung zu überwachen und wirkungsvolle Metriken bereitzustellen.
+title: Marketo & Mokkas - Wachstumsförderung mit Reporting (Maturity Pt 3)
+description: Nehmen Sie an der Adobe teil, in der Cynthia Chang und Carly Gaver Teil 3 der Marketo Maturity Webinar-Reihe, in der sie erkunden, wie Sie die Reporting-Tools von Marketo nutzen können, um das Geschäftswachstum zu steigern, die Performance zu überwachen und mit Live-Fragen und -Antworten wirkungsvolle Metriken bereitzustellen.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -16,47 +16,47 @@ ht-degree: 0%
 
 ---
 
-# Marketo und Mochas: Wachstumsförderung mit Reporting (Laufzeitrichtlinie 3)
+# Marketo &amp; Mokkas: Wachstum mit Reporting vorantreiben (Reifegrad Pt 3)
 
-Treten Sie Adobe Business Advisors, Cynthia Chang und Carly Gaver, für Teil 3 unserer Marketo-Webinarreihe zur Steigerung des Geschäftswachstums mit den Reporting-Tools von Marketo bei. In unserem letzten Webinar der Serie besprechen wir, wie Sie die Berichterstellungsfunktionen von Marketo nutzen können, um Ihre Nutzung von Marketo zu optimieren. Wir beginnen mit Tipps, wie Sie die nativen Funktionen und Berichte von Marketo nutzen können, um die Leistung Ihrer Instanz zu überwachen. Anschließend werden wir durch die grundlegende und erweiterte Berichterstellung von Marketo navigieren, um genaue, wirkungsvolle Metriken bereitzustellen, die Ihren Entscheidungsprozess verbessern und zur Erreichung Ihrer Geschäftsziele beitragen. Verpassen Sie diese Gelegenheit nicht, um das Potenzial Ihrer Marketing-Berichte und -Analysen zu maximieren. Wie immer beantworten wir Ihre Fragen während der Q&amp;A Sitzung live!
+Nehmen Sie an Adobe-Unternehmensberatern, Cynthia Chang und Carly Gaver, für Teil 3 unserer Marketo Maturity Webinar-Reihe zur Förderung des Geschäftswachstums mit den Reporting-Tools von Marketo teil. In unserem letzten Webinar der Reihe besprechen wir, wie Sie die Reporting-Funktionen von Marketo nutzen können, um Ihre Nutzung von Marketo zu optimieren. Wir beginnen mit Tipps, wie Sie die nativen Funktionen und das Reporting von Marketo nutzen können, um die Leistung Ihrer Instanz zu überwachen. Anschließend erläutern wir, wie Sie durch die grundlegenden und erweiterten Berichte von Marketo navigieren können, um präzise und wirkungsvolle Metriken bereitzustellen, die Ihren Entscheidungsprozess verbessern und dazu beitragen, Ihre Geschäftsziele zu erreichen. Verpassen Sie nicht die Gelegenheit, das Potenzial Ihrer Marketing-Berichte und -Analysen zu maximieren. Wie immer beantworten wir Ihre Fragen live während der Q&amp;A-Sitzung!
 
-## Fälligkeit Teil 3 - Gliederung
+## Fälligkeit Teil 3, Gliederung
 
-Der dritte Teil der Marketo-Laufzeitreihe ist die Laufzeitreihenfolge, die sich auf die Wachstumsförderung mit der Berichterstattung konzentriert. Kurzfassung:
+Reifegrad Teil 3 ist Teil 3 der Marketo Reifegradserie, der sich darauf konzentriert, das Wachstum durch Berichterstattung zu steigern. Zusammenfassend:
 
-* Teil 1 konzentrierte sich auf die Crawl-Phase und legte die Grundlage für die Marketo-Instanz.
-* Teil 2 betraf die Laufphase, die Optimierung und Erweiterung der Nutzung.
-* Teil 3 konzentriert sich auf die Laufphase, Skalierung und Verbesserung der Effizienz.
+* Teil 1 konzentrierte sich auf die Durchforstungsphase und legte die Grundlage für die Marketo-Instanz.
+* Teil 2 behandelte die Walk-Phase, die Optimierung und Erweiterung der Nutzung.
+* Teil 3 konzentriert sich auf die Ausführungsphase, Skalierung und Effizienzsteigerung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435407/?learn=on)
 
 ## Moderatoren
 
-* Cynthia Chang und Carly Gaver waren die Moderatoren.
-* Cynthia ist seit zwei Jahren mit Adobe beschäftigt und arbeitet bereits in der Beratung und als Marketo-Kunde.
-* Carly arbeitet seit drei Jahren mit Adobe, mit einem Hintergrund in der digitalen Marketing- und Marketing-Automatisierung.
+* Cynthia Chang und Carly Gaver waren die Moderatorinnen.
+* Cynthia ist seit zwei Jahren bei Adobe tätig, zuvor in der Beratung und als Marketo-Kunde.
+* Carly ist seit drei Jahren mit Adobe beschäftigt und verfügt über Erfahrung in der digitalen Marketing- und Marketing-Automatisierung.
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
-* **Überwachung** Kontinuierliche Überwachung der Leistung der Instanz, einschließlich Zustellbarkeit und Datenbankzustand.
-* **Auditing** Überprüfen des Benutzerzugriffs, der Berechtigungen und der CRM-Synchronisierung
-* **Berichterstellung** Verwenden Sie native Funktionen und zuverlässige Berichterstellungsfunktionen, um umsetzbare Einblicke zu gewinnen.
+* **Überwachung** Ständige Überwachung der Leistung der Instanz, einschließlich Zustellbarkeit und Datenbankzustand.
+* **Auditing** Überprüfen des Benutzerzugriffs, der Berechtigungen und der CRM-Synchronisierung.
+* **Reporting** Verwendung nativer Funktionen und robuster Reporting-Funktionen, um umsetzbare Einblicke zu gewinnen.
 
 ### Tools und Best Practices
 
 * **E-Mail-Leistungsbericht** Überwachung von E-Mail-Metriken wie Zustellbarkeit, Öffnungsraten und Abmelderaten.
-* **E-Mail Insights** **Visual Dashboard für E-Mail-Leistung, exportierbar in Excel, PDF oder PowerPoint.
-* **Bericht zur Programmleistung** Verfolgen des Programmstatus und der Leistung.
+* **Email Insights** **Visuelles Dashboard für E-Mail-Leistung, exportierbar nach Excel, PDF oder PowerPoint.
+* **Bericht zur Programmleistung** Verfolgen Sie den Programmstatus und die Leistung.
 * **Kampagneninspektor** Überwachen aktiver Trigger- und Batch-Kampagnen, um Rückstände zu vermeiden.
-* **Bericht zur Personenleistung** Analysieren von Datenbankwachstums-Trends und Datenvarianten.
+* **People Performance Report** Analyse von Datenbankwachstumstrends und Datenvariationen.
 
 ### Häufige Probleme und Lösungen
 
-* **Kampagnenrückstand** Wird durch mehrere Prozesse, die stapeln, zu viele Trigger-Kampagnen und ineffiziente Smart-Listen verursacht.
-* **Probleme bei der CRM-Synchronisierung** Häufige Probleme sind Berechtigungen, Feldvalidierung, Apex-CPU-Beschränkung und Änderungen bei Picklist-Werten.
-* **Benutzerzugriff und -verwaltung** Regelmäßiges Prüfen des Benutzerzugriffs und Sicherstellen der Einhaltung der Best Practices für die Verwaltung.
+* **Kampagnenrückstand** Wird durch das Stapeln mehrerer Prozesse, zu viele Trigger-Kampagnen und ineffiziente Smart Lists verursacht.
+* **CRM-Synchronisierungsprobleme** Häufige Probleme sind Berechtigungen, Feldüberprüfung, das Apex-CPU-Limit und Änderungen an den Werten der Auswahlliste.
+* **Benutzerzugriff und Governance** Regelmäßige Überprüfung des Benutzerzugriffs und Sicherstellung der Einhaltung von Best Practices für die Governance.
 
-### Fortschrittliche Berichterstellung und Analyse
+### Erweiterte Berichterstellung und Analysen
 
-* **Marketo Measure** Ein Add-On-Produkt, das erweiterte Attributionsmodelle und ein umfassendes Tracking bietet.
-* **Erweiterte Journey-Analyse** für Lebenszyklusberichte und visuelle Modellierung.
+* **Marketo Measure** Ein Add-on-Produkt mit erweiterten Attributionsmodellen und umfassender Verfolgung.
+* **Erweiterte Journey-Analyse** Für Lebenszyklusberichte und visuelle Modellierung.

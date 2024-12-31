@@ -1,6 +1,6 @@
 ---
-title: Eine Roadmap für Wertzuordnung und Wertzuordnung
-description: Erfahren Sie, wie Unternehmen Technologienutzungsfälle im Hinblick auf ihren Geschäftswert entwickeln, bewerten und priorisieren können, und legen Sie KPIs fest und berichten Sie darüber, um sicherzustellen, dass Ihr Unternehmen quantifizierbare Ergebnisse und großartige Kundenerlebnisse liefert.
+title: Ein Fahrplan für Wertzuordnung und Wertschöpfung
+description: Erfahren Sie, wie Unternehmen Technologieanwendungsfälle in Bezug auf ihren geschäftlichen Nutzen entwickeln, bewerten und priorisieren und KPIs festlegen können, um sicherzustellen, dass Ihr Unternehmen quantifizierbare Ergebnisse und großartige Kundenerlebnisse erzielt.
 role: Leader, User
 level: Intermediate
 kt: 11123
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Eine Roadmap für Wertzuordnung und Wertzuordnung
+# Ein Fahrplan für Wertzuordnung und Wertschöpfung
 
-Die richtige Technologie zu entwickeln, ist nur der Anfang: Wie können Unternehmen sicherstellen, dass sie den vollen Wert ihrer Investitionen realisieren? In dieser Sitzung werden wir darlegen, wie Unternehmen Technologienutzungsfälle im Hinblick auf ihren Geschäftswert entwickeln, auswerten und priorisieren können. Anschließend werden wir erläutern, wie Sie KPIs festlegen und darüber berichten können, die ein präzises Bild dieses Wertes vermitteln und sicherstellen, dass Ihr Unternehmen quantifizierbare Ergebnisse und großartige Kundenerlebnisse liefert.
+Die richtige Technologie ist nur der Anfang: Wie können Unternehmen sicherstellen, dass sie den vollen Nutzen aus ihren Investitionen ziehen? In dieser Sitzung beschreiben wir, wie Unternehmen Technologieanwendungsfälle in Bezug auf ihren geschäftlichen Nutzen entwickeln, bewerten und priorisieren können. Anschließend werden wir Ihnen zeigen, wie Sie KPIs festlegen und Berichte dazu erstellen können, die ein genaues Bild dieses Werts bieten. So stellen wir sicher, dass Ihr Unternehmen quantifizierbare Ergebnisse und hervorragende Kundenerlebnisse erzielt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409242/?quality=12&learn=on)

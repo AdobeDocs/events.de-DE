@@ -1,6 +1,6 @@
 ---
 title: Alles zusammenbringen
-description: Wie Adobe Analytics Website-Daten verfolgt, wie gespeichert, freigegeben und zusammengearbeitet werden kann.
+description: Nachverfolgen von Website-Daten durch Adobe Analytics, Speichern, Freigeben und Zusammenarbeiten.
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Traffic Management, Data Governance, Data Sources, Data Configuration and Collection
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Alles zusammenbringen
 
-Wir werden die Dinge zusammenfassen, indem wir verstehen, wie Adobe Analytics Website-Daten verfolgt, wie man sie speichert, teilt und zusammenarbeitet. Lassen Sie diese Sitzung mit Tipps, um Ihre Produktivität zu steigern und Ihren Lernprozess fortzusetzen Journey.
+Wir schließen alles ab, indem wir verstehen, wie Adobe Analytics Website-Daten nachverfolgt und wie Sie speichern, freigeben und zusammenarbeiten können. Verlassen Sie diese Sitzung mit Tipps, um Ihre Produktivität zu steigern und Ihren Lern-Journey fortzusetzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343320/?quality=12&learn=on)

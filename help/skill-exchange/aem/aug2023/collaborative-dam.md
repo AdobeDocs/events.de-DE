@@ -1,6 +1,6 @@
 ---
-title: Nutzung eines kollaborativen DAM
-description: In dieser Sitzung lernen Sie die wichtigsten Excel-Formeln und generativen KI-Funktionen kennen, um die Metadaten zu erstellen, die Sie benötigen, um Ihr DAM organisiert zu halten oder neue AEM vorzubereiten. Nachdem wir die benötigten Werte erstellt haben, verwenden wir eine CSV-Datei, um Metadaten aus dem DAM zu importieren/exportieren und die neuen Metadaten für alle Assets in einem Ordner im Maßstab zu aktualisieren.
+title: Nutzung eines partizipativen DAM
+description: In dieser Sitzung erfahren Sie, wie Sie wichtige Excel-Formeln und generative KI-Funktionen nutzen können, um die Metadaten zu erstellen, die Sie für die Organisation Ihres DAM-Systems oder die Vorbereitung auf neue AEM-Funktionen benötigen. Nachdem wir die erforderlichen Werte erstellt haben, verwenden wir eine CSV-Datei, um Metadaten aus dem DAM zu importieren/exportieren und die neuen Metadaten für alle Assets in einem Ordner skaliert zu aktualisieren.
 solution: Experience Manager Assets
 version: Cloud Service
 feature-set: Experience Manager, Experience Manager Assets
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Aug. 2023 - AEM Web Track - Connected Ecosystem: Nutzung eines kollaborativen DAM
+# Skill Exchange Event August 2023 - AEM Web Track - Vernetztes Ökosystem: Nutzung eines kollaborativen DAM
 
-In dieser Sitzung lernen Sie die wichtigsten Excel-Formeln und generativen KI-Funktionen kennen, um die Metadaten zu erstellen, die Sie benötigen, um Ihr DAM organisiert zu halten oder neue AEM vorzubereiten. Nachdem wir die benötigten Werte erstellt haben, verwenden wir eine CSV-Datei, um Metadaten aus dem DAM zu importieren/exportieren und die neuen Metadaten für alle Assets in einem Ordner im Maßstab zu aktualisieren.
+In dieser Sitzung erfahren Sie, wie Sie wichtige Excel-Formeln und generative KI-Funktionen nutzen können, um die Metadaten zu erstellen, die Sie für die Organisation Ihres DAM-Systems oder die Vorbereitung auf neue AEM-Funktionen benötigen. Nachdem wir die erforderlichen Werte erstellt haben, verwenden wir eine CSV-Datei, um Metadaten aus dem DAM zu importieren/exportieren und die neuen Metadaten für alle Assets in einem Ordner skaliert zu aktualisieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424014/?learn=on)

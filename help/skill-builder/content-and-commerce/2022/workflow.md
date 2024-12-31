@@ -1,6 +1,6 @@
 ---
-title: Optimale Nutzung des Enterprise Workflow Management
-description: In dieser Sitzung erfahren Sie mehr über die Vorteile der Verwendung von Workflows für Ihre Asset-Verwaltung und darüber, wie Sie diese schnell erstellen.
+title: Enterprise Workflow Management optimal nutzen
+description: In dieser Sitzung erfahren Sie, welche Vorteile die Verwendung von Workflows für die Asset-Verwaltung hat und wie Sie Workflows schnell erstellen können.
 role: Admin, Leader, User
 level: Intermediate, Experienced
 kt: 10564
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# Optimale Nutzung des Enterprise Workflow Management
+# Enterprise Workflow Management optimal nutzen
 
-In dieser Sitzung erfahren Sie mehr über die Vorteile der Verwendung von Workflows für Ihre Asset-Verwaltung und darüber, wie Sie diese schnell erstellen.
+In dieser Sitzung erfahren Sie, welche Vorteile die Verwendung von Workflows für die Asset-Verwaltung hat und wie Sie Workflows schnell erstellen können.
 
-*Chris Sofokleous* Solutions Consultant, AEM/Adobe
+*Chris Sofokleous* Solutions Consultant, AEM / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343817/?quality=12&learn=on)

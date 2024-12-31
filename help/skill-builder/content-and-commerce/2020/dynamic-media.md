@@ -21,9 +21,9 @@ ht-degree: 1%
 
 ---
 
-# Dynamic Media - Adobe Experience Manager Asset Series
+# Dynamic Media - Adobe Experience Manager Asset-Serie
 
-Nutzen Sie diese fünfteilige Webinar-Reihe, um Ihre Wissensbasis aufzubauen und Ihre Investitionen in Adobe Experience Manager Assets zu maximieren. Wenn Sie ein Praktiker sind, der neu in Adobe Experience Manager Assets ist oder Adobe Experience Manager Assets seit einer Weile verwendet und Ihre vorhandenen Fähigkeiten verbessern möchte, ist dies der ideale Weg, um einen tiefen Einblick in fünf der wichtigsten Bereiche der Lösung zu erhalten. Adobe-Experten werden die Grundlagen überprüfen und Ihnen erweiterte Einblicke geben, die Ihnen umsetzbare nächste Schritte ermöglichen, die Sie sofort umsetzen können.
+Nutzen Sie diese fünfteilige Webinar-Reihe, um Ihre Wissensbasis aufzubauen und Ihre Investition in Adobe Experience Manager Assets zu maximieren. Wenn Sie Adobe Experience Manager Assets noch nicht kennen oder schon eine Weile Adobe Experience Manager Assets verwenden und Ihre bestehenden Kenntnisse erweitern möchten, ist dies der ideale Weg, um sich einen tiefen Einblick in die fünf wichtigsten Bereiche der Lösung zu verschaffen. Adobe-Experten werden die Grundlagen überprüfen und erweiterte Einblicke geben, die Ihnen praktische nächste Schritte ermöglichen, die Sie sofort in die Praxis umsetzen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
@@ -31,10 +31,10 @@ Automatisieren Sie die Ausgabe von Assets für alle Kanäle und Bildschirme mit 
 
 ## Ressourcen
 
-*[Dynamic Media-Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
+*[Videos zu Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
 *[Schnellstartanleitung zur Rich-Media-Strategie](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
-*[Anleitung zur Bildvorgabe für die Rich-Media-Strategie](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Bild ist alles, was Blog-Serie](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
+*[Anleitung zu Rich-Media-Bildvorgaben](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
+*[Image is Everything Blog Series](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
 
 ## Serienaufnahmen
 

@@ -1,6 +1,6 @@
 ---
-title: Webinar für Gruppenadministratoren
-description: Erfahren Sie von Ihren Kollegen mehr über die sich entwickelnden Rollen von Workfront-System- und Gruppenadministratoren. Erfahren Sie mehr über Rollen, Best Practices, Dokumentation und Empfehlungen in unserem On-Demand-Webinar.
+title: Nutzung des Gruppenadministrator-Webinars
+description: Erfahren Sie von Ihren Kollegen mehr über die sich entwickelnden Rollen von Workfront-System- und Gruppenadministratoren. Erkunden Sie in unserem On-Demand-Webinar Rollen, Best Practices, Dokumentation und Interessensvertretung.
 topic: Administration
 role: Admin
 level: Beginner, Intermediate, Experienced
@@ -8,29 +8,29 @@ doc-type: Event
 duration: 3667
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15812
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 22a90abe-f339-4d18-8cfe-0822b86f570d
+source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
 
 ---
 
+# Verwenden der Administratorgruppe
 
-# Nutzen des Gruppenadministrators
+Gruppenadministrator vs. Systemadministrator. Wem gehört was?
 
-Gruppenadministrator und Systemadministrator. Wem gehört was?
+In den letzten Jahren hat Adobe Workfront viel mehr Flexibilität geschaffen, um Präferenzen global festlegen und dann auf Gruppenebene für die individuellen Bedürfnisse jeder Abteilung optimieren zu können. Dadurch hat sich die Denkweise über die Rolle des Systemadministrators und des Gruppenadministrators geändert. Es hat auch einige Fragen gestellt!
 
-In den letzten Jahren hat Adobe Workfront eine Menge Flexibilität hinzugefügt, um zu erfahren, wie Präferenzen global festgelegt und dann auf Gruppenebene für die individuellen Bedürfnisse jeder Abteilung optimiert werden können. Dies hat zu einer Änderung bei der Betrachtung der Rolle des Systemadministrators und des Gruppenadministrators geführt. Sie hat auch einige Fragen gestellt!
+In diesem On-Demand-Webinar werden wir uns mit der sich weiterentwickelnden Rolle des Workfront-Gruppenadministrators befassen, einschließlich:
 
-In diesem On-Demand-Webinar werden wir die sich entwickelnde Rolle des Workfront-Gruppenadministrators überprüfen, einschließlich:
-
-* Festlegen, wann die Gruppenadministration hinzugefügt werden soll
-* Gemeinsame Aufgaben und Zuständigkeiten
-* Best Practices zur Definition von gruppenübergreifenden Standardpraktiken
-* Beispiele für das Dokument und die Kommunikation von Änderungen
-* Wie Gruppenadministratoren ein Fürsprecher und Meister für ihre Teams sein können
+* So bestimmen Sie, wann es Zeit ist, die Gruppenverwaltung hinzuzufügen
+* Gemeinsame Rollen und Zuständigkeiten
+* Best Practices für die gruppenübergreifende Definition von Standardverfahren
+* Beispiele für die Dokumentation und Kommunikation von Änderungen
+* So können Gruppenadministratoren ein Fürsprecher und ein Verfechter für ihre Teams sein
 * Und vieles mehr!
 
-Wenn Sie Gruppenadministratoren haben, empfehlen wir Ihnen dringend, dieses Webinar für Sie freizugeben.
+Wenn Sie Gruppenadministratoren sind, empfehlen wir Ihnen dringend, dieses Webinar für diese freizugeben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431006/?learn=on)

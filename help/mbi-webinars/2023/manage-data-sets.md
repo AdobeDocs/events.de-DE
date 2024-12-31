@@ -1,8 +1,8 @@
 ---
 title: Verwalten von Datensätzen in Commerce Intelligence
-description: In diesem Webinar erfahren Sie mehr über die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse Managers.
-landing-page-description: In diesem Webinar erfahren Sie mehr über die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse Managers.
-short-description: In diesem Webinar erfahren Sie mehr über die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse Managers.
+description: In diesem Webinar erfahren Sie mehr über die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse-Managers.
+landing-page-description: In diesem Webinar erfahren Sie mehr über die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse-Managers.
+short-description: In diesem Webinar erfahren Sie mehr über die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse-Managers.
 kt: 10410
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -21,11 +21,11 @@ ht-degree: 21%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence hieß vorher [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
+>Adobe Commerce Intelligence hieß früher [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen vergangener Ereignisse spiegeln den vorherigen Namen wider.
 
 Erfahren Sie direkt vom Adobe Commerce Product-Team mehr über die leistungsstarken Funktionen von MBI Data Warehouse Manager. Lernen Sie, was Sie, von der grundlegenden Berichterstellung abgesehen, mit Ihren Daten anfangen können.
 
-In diesem aufgezeichneten Webinar erfahren Sie, wie Sie den ROI Ihrer Werbekampagnen berechnen können, indem Sie sich Daten aus Adobe Commerce, Google Ecommerce und Google AdWords anschließen.
+In diesem aufgezeichneten Webinar erfahren Sie, wie Sie den ROI Ihrer Anzeigenkampagnen berechnen, indem Sie Daten aus Adobe Commerce, Google E-Commerce und Google AdWords verbinden.
 
 ## Videoinhalt
 
@@ -33,5 +33,5 @@ In diesem aufgezeichneten Webinar erfahren Sie, wie Sie den ROI Ihrer Werbekampa
 
 ## Nützliche Ressourcen
 
-[Eine Übersicht über den Data Warehouse-Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[Verbinden Ihrer Daten](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[Eine Tour durch den Data Warehouse-Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+[Verbinden Sie Ihre Daten](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

@@ -1,6 +1,6 @@
 ---
-title: Entsperren der Stilkraft - Erstellen eines effektiven und skalierbaren Stilsystems
-description: Erstellung eines neuen Stilsystems zur Wiederverwendung von Komponenten für mehrere Mandanten/Geschäftseinheiten auf der Grundlage ihrer Branding-Richtlinien.
+title: Entfesseln der Macht des Stils - Erstellen eines effektiven und skalierbaren Stilsystems
+description: Erstellung eines neuen Stilsystems, um Komponenten für mehrere Mandanten/Geschäftseinheiten basierend auf ihren Branding-Richtlinien wiederzuverwenden.
 solution: Experience Manager
 version: Cloud Service
 feature-set: Experience Manager Sites
@@ -21,8 +21,8 @@ ht-degree: 0%
 ---
 
 
-# Skill Exchange Event Aug 2023 - AEM Developer Track - Unlocking the Power of Style: Building an Effective &amp; Scalable Style System
+# Skill Exchange Event Aug 2023 - AEM Developer Track - Entfesseln der Macht des Stils: Erstellen eines effektiven und skalierbaren Stilsystems
 
-Erstellung eines neuen Stilsystems zur Wiederverwendung von Komponenten für mehrere Mandanten/Geschäftseinheiten auf der Grundlage ihrer Branding-Richtlinien.
+Erstellung eines neuen Stilsystems, um Komponenten für mehrere Mandanten/Geschäftseinheiten basierend auf ihren Branding-Richtlinien wiederzuverwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424019/?learn=on)

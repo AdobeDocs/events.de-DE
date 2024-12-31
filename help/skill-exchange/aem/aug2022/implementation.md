@@ -1,6 +1,6 @@
 ---
-title: Maximieren Ihrer AEM-Implementierung
-description: Aktivieren Sie Ihre Marketing-Experten, stellen Sie Sites schneller bereit und verbessern Sie Ihre Erlebnisse kontinuierlich.
+title: Maximieren der AEM-Implementierung
+description: Marketing-Experten sollten die Bereitstellung von Sites beschleunigen und die Erlebnisse kontinuierlich verbessern.
 solution: Experience Manager
 role: User
 level: Beginner, Intermediate, Experienced
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ---
 
-# Maximieren Sie Ihre AEM-Implementierung: 3 Schlüsselfaktoren bei der effektiven Verwaltung Ihrer Website
+# Maximieren Sie Ihre AEM-Implementierung: 3 Schlüsselfaktoren für einen effektiven Betrieb Ihrer Website
 
-Wenn Sie Ihre Website erstellen oder neu erstellen, müssen viele Geschäftsentscheidungen getroffen werden, die sich auf die technische Implementierung der Site auswirken. Die Strategien und Entscheidungen, die vor dem Beginn des Benutzererlebnisdesigns getroffen wurden, können tief greifende Auswirkungen auf den Erfolg Ihrer Website als Marketing- und Geschäftskanal haben.  Aktivieren Sie Ihre Marketing-Experten, stellen Sie Sites schneller bereit und verbessern Sie Ihre Erlebnisse kontinuierlich.
+Beim Erstellen oder Neuaufbau einer Website müssen viele geschäftliche Entscheidungen getroffen werden, die Auswirkungen auf die technische Implementierung der Website haben. Die Strategien und Entscheidungen, die getroffen werden, bevor Sie mit dem Design des Benutzererlebnisses beginnen, können einen tief greifenden Einfluss auf den Erfolg Ihrer Website als Marketing- und Geschäftskanal haben.  Marketing-Experten sollten die Bereitstellung von Sites beschleunigen und die Erlebnisse kontinuierlich verbessern.
 
-In dieser Sitzung erfahren Sie:
+In dieser Sitzung erfahren Sie Folgendes:
 
-* Die verschiedenen Website-Management-Modelle und deren Vorteile
-* Implementieren eines für Ihr Unternehmen geeigneten Governance-Modells
-* Wie sich Ihr Unternehmen kontinuierlich weiterentwickelt
+* Die verschiedenen Website-Management-Modelle und ihre Vorteile
+* Implementieren eines Governance-Modells, das zu Ihrer Organisation passt
+* Wie Sie sich im Zuge der Weiterentwicklung Ihres Unternehmens kontinuierlich weiterentwickeln können
 
 >[!VIDEO](https://video.tv.adobe.com/v/346386/?quality=12&learn=on)

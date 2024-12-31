@@ -1,6 +1,6 @@
 ---
-title: Experience Maker Spotlight
-description: Treten Sie uns bei, während wir zwei erfahrene AEM-Benutzer im Blickpunkt haben.  Jeder wird seinen besten AEM-Tipp oder Trick teilen. Auf ihre Sitzung folgt eine Gelegenheit, Fragen live zu stellen.  Das willst du nicht verpassen.
+title: Experience Makers im Blickpunkt
+description: Seien Sie dabei, wenn wir zwei erfahrene AEM-Anwender in den Blickpunkt rücken.  Jeder wird seinen besten AEM-Tipp oder -Trick teilen. Auf die Sitzung folgt die Möglichkeit, Fragen live zu stellen.  Das willst du nicht verpassen.
 solution: Experience Manager
 role: User
 level: Beginner, Intermediate, Experienced
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Experience Maker Spotlight
+# Experience Makers im Blickpunkt
 
-Treten Sie uns bei, während wir zwei erfahrene AEM-Benutzer im Blickpunkt haben.  Jeder wird seinen besten AEM-Tipp oder Trick teilen. Auf ihre Sitzung folgt eine Gelegenheit, Fragen live zu stellen.  Das willst du nicht verpassen.
+Seien Sie dabei, wenn wir zwei erfahrene AEM-Anwender in den Blickpunkt rücken.  Jeder wird seinen besten AEM-Tipp oder -Trick teilen. Auf die Sitzung folgt die Möglichkeit, Fragen live zu stellen.  Das willst du nicht verpassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346389/?quality=12&learn=on)

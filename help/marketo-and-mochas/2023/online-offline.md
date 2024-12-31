@@ -1,6 +1,6 @@
 ---
-title: Online- und Offline-Kanäle
-description: Treten Sie Adobe Marketing Automation Business Advisors, Kate Colbert und Elizabeth Lundberg, zu einer ausführlichen 90-minütigen Sitzung zum Optimieren von Online- und Offline-Kanälen mit Marketo Measure Attribution mit strategischen Konfigurationen, Best Practices und Live-Fragen und Antworten ein.
+title: Online- vs. Offline-Kanäle
+description: Schließen Sie sich den Adobe Marketing Automation Business Advisors, Kate Colbert und Elizabeth Lundberg, an, um eine 90-minütige ausführliche Session zur Optimierung von Online- und Offline-Kanälen mit Marketo Measure Attribution zu erhalten, die strategische Konfigurationen, Best Practices und Live-Fragen und -Antworten bietet.
 solution: Marketo Measure
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Online- und Offline-Kanäle
+# Online- vs. Offline-Kanäle
 
-Diese Tranche von Marketo [Measure] &amp; Mochas bietet Adobe Marketing Automation Business Advisors, Kate Colbert und Elizabeth Lundberg, die uns durch eine ausführliche 90-minütige Sitzung über Online- und Offline-Kanäle führen. Kate und Liz tauchen in die Marketo Measure Attribution ein und betrachten die strategische Konfiguration von Kanälen und Subkanälen genauer. Sie bieten einen informativen Überblick über die Verwaltung von Online- und Offline-Kanälen sowie über deren Funktionsweise, damit Sie die einzelnen Kanäle optimal nutzen können. In der Sitzung werden produktinterne Demonstrationen und Best Practices vorgestellt, die von Attributionsexperten verwendet werden, damit Sie Ihre Marketo Measure-Instanz auf die nächste Ebene bringen können. Die Veranstaltung schließt mit einer Live-Q&amp;A ab, die viele Fragen beantwortet, die beide zuvor gesendet wurden, und live beantwortet.
+Dieser Teil von Marketo [Measure] &amp; Mochas zeigt Adobe Marketing Automation Business Advisors, Kate Colbert und Elizabeth Lundberg, wie sie uns durch eine detaillierte 90-minütige Session über Online- vs. Offline-Kanäle führen. Kate und Liz gehen auf Marketo Measure Attribution ein und betrachten die strategische Konfiguration von Kanälen und Unterkanälen. Sie bieten einen informativen Überblick über die Online- und Offline-Kanalverwaltung sowie über die Feinheiten ihrer Funktionsweise, sodass Sie sie optimal nutzen können. In dieser Sitzung werden produktinterne Demonstrationen und Best Practices vorgestellt, die von Attributionsexperten verwendet werden. So können Sie Ihre Marketo Measure-Instanz auf die nächste Stufe heben. Die Veranstaltung endet mit einer Live-Q&amp;A, die viele Fragen sowohl zuvor eingereicht als auch live beantwortet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422363/?learn=on)

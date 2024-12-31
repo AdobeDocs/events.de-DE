@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Adobe Analytics] Champion Tips and Tricks'
-description: Treten Sie fünf [!DNL Adobe Analytics] Champions aus der ganzen Welt bei, da sie die Tipps und Tricks teilen, die ihnen beim Meister  [!DNL Adobe Analytics] geholfen haben.
+title: Tipps und Tricks für [!DNL Adobe Analytics] Champions
+description: Schließen Sie sich  [!DNL Adobe Analytics]  Champions aus der ganzen Welt an, um Tipps und Tricks zu teilen, die ihnen beim Meistern geholfen haben [!DNL Adobe Analytics].
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] Champion Tips and Tricks
+# Tipps und Tricks für [!DNL Adobe Analytics] Champions
 
-Treten Sie fünf [!DNL Adobe Analytics] Champions aus der ganzen Welt bei, da sie die Tipps und Tricks teilen, die ihnen beim Meistern von [!DNL Adobe Analytics] geholfen haben.
+Schließen Sie sich fünf [!DNL Adobe Analytics] Champions aus der ganzen Welt an, die Tipps und Tricks vermitteln, mit denen sie [!DNL Adobe Analytics] meistern konnten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414191/?quality=12&learn=on)

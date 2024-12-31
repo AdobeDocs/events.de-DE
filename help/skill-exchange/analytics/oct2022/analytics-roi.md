@@ -1,6 +1,6 @@
 ---
 title: ADOBE ANALYTICS ROI
-description: Treten Sie uns bei, während wir Mandy George & Kaya Walton, zwei erfahrene Kunden und Adobe Analytics-Nutzer im Blickpunkt haben. Jeder wird seinen besten Adobe Analytics-Tipp oder -Trick teilen. Auf ihre Sitzung folgt eine Gelegenheit, Fragen live zu stellen. Das willst du nicht verpassen.
+description: Seien Sie dabei, wenn wir Mandy George & Kaya Walton, zwei erfahrene Kunden und Adobe Analytics-Anwender, in den Blickpunkt rücken. Jeder teilt seinen besten Adobe Analytics-Tipp oder -Trick. Auf die Sitzung folgt die Möglichkeit, Fragen live zu stellen. Das willst du nicht verpassen.
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Wachstumspfad - ROI von Adobe Analytics
+# Wachstumspfad - ROI Adobe Analytics
 
-Adobe Analytics ist als ausgereifteste Digital Analytics-Lösung auf dem Markt bekannt. Es ermöglicht Kunden zwar, in weniger als 10 Minuten mit der Wertschöpfung zu beginnen, es ist jedoch von entscheidender Bedeutung, über alle erstaunlichen Funktionen Bescheid zu wissen, die Sie heute möglicherweise nicht verwenden. Wann haben Sie beispielsweise zum letzten Mal Zähler-eVars verwendet? Wenden Sie Klassifizierungsregeln auf Ihre Listenvariablen an?
+Adobe Analytics ist die ausgereifteste digitale Analyselösung auf dem Markt. Kunden können damit in weniger als 10 Minuten beginnen, Wert zu schaffen. Es ist jedoch wichtig, alle erstaunlichen Funktionen zu kennen, die Sie derzeit möglicherweise nicht verwenden. Wann haben Sie beispielsweise zuletzt Zähler-eVars verwendet? Wenden Sie Klassifizierungsregeln auf Ihre Listenvariablen an?
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411898/?quality=12&learn=on)

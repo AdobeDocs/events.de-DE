@@ -1,6 +1,6 @@
 ---
-title: Webinar zu Workflow- und Prozessdesign
-description: Erfahren Sie von Ihren Kollegen mehr über die Skalierung von Prozessen in Workfront. Erfahren Sie, warum die Dokumentation und Konzeption von Workflows außerhalb von Workfront von entscheidender Bedeutung ist, und erhalten Sie Tipps von T-Mobile-Experten in unserem On-Demand-Webinar.
+title: Webinar zu Workflow- und Prozessgestaltung
+description: Erfahren Sie von Ihren Kollegen mehr über Skalierungsprozesse in Workfront. Erfahren Sie in unserem On-Demand-Webinar, warum die Dokumentation und Gestaltung von Workflows außerhalb von Workfront von entscheidender Bedeutung ist, und erhalten Sie Tipps von T-Mobile-Experten.
 feature: Work Management
 role: Admin
 level: Beginner, Intermediate, Experienced
@@ -8,23 +8,23 @@ doc-type: Event
 duration: 3714
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15817
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 0355b630-0d15-460b-b434-79b846f216fd
+source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
+# Webinar zu Workflow- und Prozessgestaltung
 
-# Webinar zu Workflow- und Prozessdesign
+Wenn Ihre Erfahrung mit Workfront wächst, werden die Prozesse, die Sie und Ihr Team (und ANDERE Teams) in Workfront verwalten möchten, zweifellos auch wachsen. Bevor Sie mit dem Erstellen beginnen, empfehlen wir Ihnen, Ihren neuen Prozess außerhalb von Workfront zuerst zu dokumentieren und zu entwerfen. Warum sollten Sie das tun? Und wie sieht es aus?
 
-Mit der zunehmenden Erfahrung mit Workfront werden auch die Prozesse, die Sie und Ihr Team (und Ihre ANDEREN Teams) in Workfront verwalten möchten, zweifellos zunehmen. Bevor Sie mit der Erstellung beginnen, empfehlen wir Ihnen, Ihren neuen Prozess zuerst außerhalb von Workfront zu dokumentieren und zu entwerfen. Warum tätest du das? Und wie sieht es aus?
+In diesem On-Demand-Webinar behandeln Didi Dunn, Principal Consultant bei Adobe Workfront, und zwei Workfront-Experten von T-Mobile Folgendes:
 
-In diesem On-Demand-Webinar wird Didi Dunn, Principal Consultant bei Adobe Workfront und zwei Workfront-Experten von T-Mobile folgende Themen behandeln:
-
-* Die wichtigsten Elemente, die vor der Erstellung eines Workflows in Workfront berücksichtigt werden müssen
-* Eine Liste empfohlener Fragen, die Sie stellen können, um die Anforderungen an Prozesse vollständig zu verstehen
-* Tipps für die Zusammenstellung der idealen Arbeitsgruppe, um diesen neuen Prozess zu beeinflussen und zu fördern
-* Erfahrung und Erfahrungen aus T-Mobile in der Verwaltung zahlreicher strategischer Implementierungen pro Jahr
+* Wichtige Aspekte, die vor der Erstellung eines Workflows in Workfront zu berücksichtigen sind
+* Eine Liste empfohlener Fragen, die Sie stellen können, um die Prozessanforderungen vollständig zu verstehen
+* Tipps zur Zusammenstellung der idealen Arbeitsgruppe, um diesen neuen Prozess zu beeinflussen und zu fördern
+* Erfahrungen und Erfahrungen aus erster Hand von T-Mobile bei der Verwaltung zahlreicher strategischer Implementierungen pro Jahr
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431011/?learn=on)

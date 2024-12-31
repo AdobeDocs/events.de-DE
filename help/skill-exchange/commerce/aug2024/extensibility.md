@@ -1,6 +1,6 @@
 ---
 title: Der moderne Ansatz - Effektive Erweiterbarkeit in Adobe Commerce
-description: Best Practices für eine effektive Anpassung von Adobe Commerce ohne wesentliche Änderungen Die Wichtigkeit der Reduzierung technischer Schulden und der Vermeidung direkter Integrationen Wie man Adobe Commerce mit anderen Adobe-Produkten verbindet, um eine bessere Leistung und Benutzererfahrung zu erzielen
+description: Best Practices für die effektive Anpassung von Adobe Commerce ohne grundlegende Änderungen Die Bedeutung der Reduzierung technischer Schwierigkeiten und der Vermeidung direkter Integrationen Wie kann Adobe Commerce mit anderen Adobe-Produkten verbunden werden, um die Leistung und das Benutzererlebnis zu verbessern?
 solution: Commerce
 role: User
 level: Beginner, Intermediate, Experienced
@@ -8,22 +8,22 @@ doc-type: Event
 duration: 2507
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16083
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: 568993c6-3090-42e1-8f7f-5d9cc9623838
+source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-
 # Der moderne Ansatz: Effektive Erweiterbarkeit in Adobe Commerce
 
-Die Erweiterbarkeit ermöglicht es Entwicklern, ihre Interaktionen mit Adobe Commerce zu erweitern, anzupassen und zu steuern, sodass leistungsstarke, maßgeschneiderte Lösungen erstellt werden können. Die Implementierung von Best Practices für Erweiterbarkeit kann Ihre Vorgänge optimieren und die Gesamtbetriebskosten erheblich reduzieren. Erfahren Sie in dieser Sitzung, wie Sie Adobe Commerce-Tools nutzen können, um Ihre Plattform anzupassen und zu erweitern, ohne ihre Kernfunktionalität zu verändern. Wir werden die Bedeutung des Abbaus technischer Schulden und der Vermeidung direkter Integrationen für einen effizienteren Arbeitsablauf behandeln. Darüber hinaus erfahren Sie, wie Sie nahtlose Verbindungen zwischen Adobe Commerce und anderen Adobe-Produkten herstellen und die Vorteile fortschrittlicher Kommunikations- und Datenverarbeitungs-Tools untersuchen können.
+Die Erweiterbarkeit ermöglicht es Entwickelnden, ihre Interaktionen mit Adobe Commerce zu erweitern, anzupassen und zu steuern, was die Erstellung leistungsstarker, maßgeschneiderter Lösungen ermöglicht. Durch die Implementierung von Best Practices in Bezug auf die Erweiterbarkeit können Sie Ihre Abläufe optimieren und die Gesamtbetriebskosten erheblich senken. In dieser Sitzung erfahren Sie, wie Sie mit den Adobe Commerce-Tools Ihre Plattform anpassen und erweitern können, ohne ihre Kernfunktionen zu verändern. Wir werden darauf eingehen, wie wichtig es ist, technische Schulden zu reduzieren und direkte Integrationen für einen effizienteren Arbeitsablauf zu vermeiden. Darüber hinaus erfahren Sie, wie Sie nahtlose Verbindungen zwischen Adobe Commerce und anderen Adobe-Produkten herstellen können, und lernen die Vorteile erweiterter Kommunikations- und Datenverarbeitungs-Tools kennen.
 
-In dieser Sitzung lernen Sie Folgendes:
+In dieser Sitzung erfahren Sie Folgendes:
 
-* Best Practices für eine effektive Anpassung von Adobe Commerce ohne Kernänderungen
+* Best Practices für die effektive Anpassung von Adobe Commerce ohne grundlegende Änderungen
 * Die Bedeutung des Abbaus technischer Schulden und der Vermeidung direkter Integrationen
-* Anleitung zum Verbinden von Adobe Commerce mit anderen Adobe-Produkten für bessere Leistung und Benutzererlebnisse
+* Verbinden von Adobe Commerce mit anderen Adobe-Produkten für eine bessere Leistung und ein besseres Benutzererlebnis
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433147/?learn=on)

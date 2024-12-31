@@ -1,6 +1,6 @@
 ---
-title: Strategische und taktische Tipps für die Migration zu AEM Cloud Service
-description: Migrieren Sie nach AEM Cloud Service, um die neuesten und besten AEM zu erhalten, um On-Premise- und Managed Services-Instanzen zu migrieren, um Cloud Service ein besseres Verständnis und eine bessere Möglichkeit zu bieten, intern den Wert von Migrationsansätzen zu verkaufen, um Migrationsrisiken und -kosten zu verwalten und bestehende Bemühungen effizient zu nutzen Technische Taktiken, um eine schrittweise Migration zu erreichen, wenn die Aufgabe groß erscheint.
+title: Strategische und taktische Tipps zur Migration zu AEM Cloud Service
+description: Migrieren Sie zu AEM Cloud Service, um die neuesten und besten AEM-Angebote zu erhalten, migrieren Sie On-Premise- und Managed Services-Instanzen zu Cloud Service, um den Wert der Migrationsansätze intern zu vermitteln. So können Sie Risiken und Migrationskosten managen und bestehende Bemühungen effizient nutzen. Technische Taktiken können genutzt werden, um die Migration inkrementell durchzuführen, wenn die Aufgabe groß zu sein scheint
 solution: Experience Manager as a Cloud Service
 feature-set: Experience Manager
 feature: Migration
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 ---
 
-# Aug. 2023: AEM Developer Track - Strategische und taktische Tipps für die Migration zu AEM Cloud Service
+# Skill Exchange Event August 2023 - AEM Developer Track - Strategische und taktische Tipps zur Migration zu AEM Cloud Service
 
-Wir alle wissen, dass wir nach AEM Cloud Service migrieren sollten, um die neuesten und besten AEM zu erhalten, aber oft kann es sich sehr viel leichter fühlen, als es getan wurde. Die Herausforderungen bei der Migration von On-Premise- und Managed Services-Instanzen zu Cloud Service erfordern echte Antworten, und wir müssen wissen, dass wir bei der Ankunft dort tatsächlich Wert sehen werden. Die Teilnehmer werden mit folgenden Themen fortfahren:
+Wir alle wissen, dass wir nach AEM Cloud Service migrieren sollten, um die neuesten und besten AEM-Angebote zu erhalten, aber oft kann es sich viel einfacher gesagt als getan fühlen. Die Herausforderungen bei der Migration von On-Premise- und Managed Services-Instanzen auf den Cloud Service müssen wirklich gelöst werden, und wir müssen wissen, dass wir, wenn wir dort ankommen, tatsächlich einen Wert sehen werden. Die Teilnehmer erhalten:
 
 * Besseres Verständnis und Fähigkeit, den Wert der Migration intern zu verkaufen
-* Ansätze zum Management der Risiken und Kosten der Migration und effiziente Nutzung vorhandener Anstrengungen
-* Technische Taktiken zur schrittweisen Durchführung der Migration, wenn die Aufgabe groß erscheint
+* Ansätze für das Management von Risiken und Kosten der Migration und die effiziente Nutzung vorhandener Maßnahmen
+* Technische Taktiken, um die Migration schrittweise durchzuführen, wenn die Aufgabe groß zu sein scheint
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424018/?learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Erweiterte Segmentierungsprüfungen - Gewährleistung von Präzision und Leistung beim Marketo Engage
-description: Treten Sie Adobe Marketo Engage Champion Darshil Shah bei, um erweiterte Segmentierungs-Audits zu meistern, Segmentierungsstrategien zu optimieren, Kundenverhalten zu berücksichtigen, die DSGVO-Konformität zu wahren und die Marketing-Performance durch Best Practices und Echtzeit-Aktualisierungen zu verbessern.
+description: Seien Sie dabei, wenn Adobe Marketo Engage Champion Darshil Shah erweiterte Segmentierungsprüfungen beherrscht, um Segmentierungsstrategien zu optimieren, Kundenverhaltensweisen anzupassen, die DSGVO-Compliance zu wahren und die Marketing-Leistung durch Best Practices und Echtzeit-Updates zu verbessern.
 solution: Marketo
 role: Admin, User
 level: Intermediate, Experienced
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 ---
 
-# Erweiterte Segmentierungsprüfungen: Sicherstellung von Präzision und Leistung beim Marketo Engage
+# Erweiterte Segmentierungsprüfungen: Gewährleistung von Präzision und Leistung beim Marketo Engage
 
-Nehmen Sie an Adobe Marketo Engage Champion Darshil Shah teil, um zu erfahren, wie Sie Ihre Segmentierung an Kundenverhalten, Datenaktualisierungen und Geschäftsänderungen anpassen können.
+Kommen Sie zu Adobe Marketo Engage Champion Darshil Shah und erfahren Sie, wie Sie Ihre Segmentierung mit dem Kundenverhalten, Datenaktualisierungen und geschäftlichen Veränderungen in Einklang halten können.
 
-In diesem Webinar erfahren Sie mehr über
+In diesem Webinar erfahren Sie mehr über,
 
-* Verstehen und Überprüfen der Segmentierung , um mit dem Kundenverhalten im Einklang zu bleiben und gängige Fallstricke wie Übersegmentierung, veraltete Segmente und falsch ausgerichtete Regeln zu vermeiden.
-* Bearbeiten und Aktualisieren von Segmentierungen mit Best Practices, um eine effiziente, konforme und leistungsstarke Segmentierungsstrategie zu erhalten.
-* Überwachen und verbessern Sie die Leistung durch Kampagnenberichte, um sicherzustellen, dass Ihre Marketing-Maßnahmen immer auf Zielgruppen ausgerichtet sind.
+* Verstehen und Überprüfen der Segmentierung , um mit dem Kundenverhalten abgestimmt zu bleiben und gängige Fallstricke wie Übersegmentierung, veraltete Segmente und falsch ausgerichtete Regeln zu vermeiden.
+* Bearbeiten und Aktualisieren von Segmenten mit Best Practices, um eine effiziente, konforme und leistungsstarke Segmentierungsstrategie beizubehalten.
+* Überwachen und Verbessern der Leistung durch Kampagnenberichte, um sicherzustellen, dass Ihre Marketing-Maßnahmen immer am Ziel sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439383/?learn=on&enablevpops)
 
@@ -32,49 +32,49 @@ In diesem Webinar erfahren Sie mehr über
 
 ### Bedeutung der Segmentierung
 
-* Die Segmentierung in Marketo Engage ermöglicht die Erstellung logischer Personengruppen basierend auf bestimmten Filtern, was durch personalisierte Nachrichten zur Verbesserung von Interaktion und Konversionsraten beiträgt.
+* Die Segmentierung in Marketo Engage ermöglicht die Erstellung logischer Personengruppen auf der Grundlage spezifischer Filter, wodurch sich Interaktions- und Konversionsraten durch personalisiertes Messaging verbessern lassen.
 
-### Unterschiede zwischen Segmentierung und intelligenten Listen
+### Unterschiede zwischen Segmentierung und Smart Lists
 
-* Die Segmentierung wird in Echtzeit aktualisiert, während Smart-Listen nur aktualisiert werden, wenn darauf verwiesen wird.
-* Die Segmentierung kann in der Velocity-Skripterstellung für hyperpersonalisierte Inhalte verwendet werden, Smart-Listen dagegen nicht.
-* Die Segmentierung hat einen komplexeren Genehmigungsprozess im Vergleich zu Smart-Listen.
+* Die Segmentierung wird in Echtzeit aktualisiert, während Smart Lists nur bei Verweisen aktualisiert werden.
+* Die Segmentierung kann bei der Velocity-Skripterstellung für extrem personalisierte Inhalte verwendet werden, Smart Lists dagegen nicht.
+* Die Segmentierung hat einen komplexeren Genehmigungsprozess als Smart Lists.
 
 ### Regelmäßige Überprüfung und Aktualisierungen
 
-* Prüfen und aktualisieren Sie die Segmentierung regelmäßig, um Verhaltensänderungen, Datenaktualisierung, Marketing-Performance, Geschäftsänderungen und DSGVO-Konformität zu berücksichtigen.
-* Erstellung eines regelmäßigen Überprüfungszyklus (vierteljährlich, alle zwei Jahre usw.).
+* Überprüfen und aktualisieren Sie die Segmentierung regelmäßig, um Verhaltensänderungen, die Aktualität von Daten, die Marketing-Performance, geschäftliche Änderungen und die DSGVO-Compliance zu berücksichtigen.
+* Festlegung eines regelmäßigen Überprüfungszyklus (vierteljährlich, halbjährlich usw.).
 
 ### Best Practices
 
 * Stellen Sie sicher, dass die Segmentierungslogik an den Marketing-Zielen ausgerichtet ist.
-* Vereinfachung der Segmentierungskriterien, um eine übermäßige Komplikation zu vermeiden.
+* Vereinfachen Sie die Segmentierungskriterien, um eine Überkomplikation zu vermeiden.
 * Verwenden Sie Zielgruppeneinblicke, um die Segmentierung zu aktualisieren.
-* Führen Sie Konformitätsprüfungen durch und überwachen Sie die Segmentierungsleistung.
-* Testen Sie die Aktualisierungen der Segmentierung gründlich vor der Genehmigung.
+* Führen Sie Kompatibilitätsprüfungen durch und überwachen Sie die Segmentierungsleistung.
+* Testen Sie Segmentierungsaktualisierungen vor der Genehmigung gründlich.
 
 ### Häufige Probleme und Lösungen
 
-* Vermeiden Sie Übersegmentierung, um Systemüberlastungen und Verwaltungsprobleme zu vermeiden.
+* Vermeiden Sie eine Übersegmentierung, um Systemüberlastungen und Verwaltungsprobleme zu vermeiden.
 * Beheben Sie falsch ausgerichtete Regeln, um sicherzustellen, dass die Segmentierung die gesamte Marketing-Strategie unterstützt.
-* Überwachen Sie die standardmäßige Segmentgröße, um sicherzustellen, dass sie nicht die größte ist, was auf die Notwendigkeit besserer Segmentierungskriterien hinweist.
+* Überwachen Sie die standardmäßige Segmentgröße, um sicherzustellen, dass sie nicht die größte ist, was einen Bedarf an besseren Segmentierungskriterien zeigt.
 
 ### Beispiele für effektive Segmentierung
 
-* Sprachspezifische Segmentierung zum Senden übersetzter Inhalte.
-* E-Mail-Konformität Segmentierung für verschiedene Länder.
+* Sprachspezifische Segmentierung für den Versand übersetzter Inhalte.
+* E-Mail-Compliance-Segmentierung für verschiedene Regionen.
 
-### Technische Aspekte
+### Technische Überlegungen
 
-* Verwenden Sie Smart-Listen für betriebliche Zwecke und Segmentierung zum Senden personalisierter Inhalte.
-* Reduzieren Sie die Komplexität der Segmentierungskriterien, um Verzögerungen bei der Kampagnenausführung zu vermeiden.
+* Verwenden Sie Smart Lists für operative Zwecke und Segmentierung für den Versand personalisierter Inhalte.
+* Verringern Sie die Komplexität der Segmentierungskriterien, um Verzögerungen bei der Kampagnenausführung zu vermeiden.
 
 ## Weitere Ressourcen
 
 * [Präsentationsfolien](https://engage.adobe.com/rs/360-KCI-804/images/AME_Learn%20From%20your%20peers%20Webinar_Advanced%20segmentation%20Audits.pdf?version=0){target="_blank"}
-* Treten Sie der Diskussion [Thread](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} in der Marketing Nation Community bei.
-* [Erstellen einer Segmentierung](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
+* Beteiligen Sie sich an der Diskussion [Thread](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} über die Marketing Nation Community
+* [Segmentierung erstellen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
 * [Bearbeiten einer Segmentierung](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
-* Marketo Engage-Erfolgsserie - [Segmentierung](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
-* [Aktualisierungen der Segmentierungskonsistenzprüfung](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - Tipps und Tricks für die Aktualisierung Ihrer Segmentierung
+* Marketo Engage Success Series - [Segmentierung](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
+* [Aktualisierungen der Segmentierungs-Konsistenzprüfung](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - Tipps und Tricks zur Aktualisierung der Segmentierung
 * [E-Mail-Leistungsbericht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}

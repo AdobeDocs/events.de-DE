@@ -1,6 +1,6 @@
 ---
-title: Steigerung des Geschäftswerts durch die Personalisierung von Inhalten in AEM
-description: Erfahren Sie, wie Sie Personalisierungsfunktionen in Adobe Experience Manager und Adobe Target verwenden können, um umfangreiche und überzeugende Erlebnisse bereitzustellen, die garantiert konvertiert werden.
+title: Steigerung des Geschäftswerts durch Personalisierung von Inhalten in AEM
+description: Erfahren Sie, wie Sie die Personalisierungsfunktionen von Adobe Experience Manager und Adobe Target nutzen können, um ansprechende Erlebnisse bereitzustellen, deren Konvertierung garantiert ist.
 solution: Experience Manager
 role: User
 level: Beginner, Intermediate, Experienced
@@ -16,14 +16,14 @@ ht-degree: 0%
 
 ---
 
-# Steigerung des Geschäftswerts durch die Personalisierung von Inhalten in AEM
+# Steigerung des Geschäftswerts durch Personalisierung von Inhalten in AEM
 
-Erfahren Sie, wie Sie Personalisierungsfunktionen in Adobe Experience Manager und Adobe Target verwenden können, um umfangreiche und überzeugende Erlebnisse bereitzustellen, die garantiert konvertiert werden.
+Erfahren Sie, wie Sie die Personalisierungsfunktionen von Adobe Experience Manager und Adobe Target nutzen können, um ansprechende Erlebnisse bereitzustellen, deren Konvertierung garantiert ist.
 
-In dieser Sitzung lernen Sie
+In dieser Sitzung erfahren Sie Folgendes
 
-* Je nach Teamstruktur und Workflows stehen unterschiedliche Personalisierungsansätze zur Verfügung
-* Einfache Erstellung und Verwaltung personalisierter Inhaltsvarianten
+* Verschiedene Ansätze zur Personalisierung basierend auf dem, was für Ihre Team-Struktur und Workflows geeignet ist
+* Einfaches Erstellen und Verwalten personalisierter Inhaltsvarianten
 * Tipps und Tricks zum Einrichten von Personalisierungsaktivitäten für eine Vielzahl von Zielgruppen
 
 >[!VIDEO](https://video.tv.adobe.com/v/346384/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Die Kunst und Wissenschaft von wirkungsvollen Datenvisualisierungen in Adobe Analytics
-description: Erfahren Sie mehr über Adobe Analytics-Visualisierungen und die damit verbundenen Auswirkungen auf die Datenaufzeichnung. Erfahren Sie, wie Sie Daten in durchdachte und überzeugende Visualisierungen umwandeln können, die eine Geschichte erzählen. So können Sie mithilfe von Analysis Workspace Einblicke mit Präzision und Wirkung vermitteln.
+title: Die Kunst und Wissenschaft wirkungsvoller Datenvisualisierungen in Adobe Analytics
+description: Erkunden Sie Visualisierungen und wirkungsvolles Storytelling für Daten in Adobe Analytics. Entdecken Sie, wie Sie Daten in durchdachte und überzeugende Visualisierungen verwandeln können, die eine Geschichte erzählen. So können Sie mithilfe von Analysis Workspace präzise und wirkungsvoll Erkenntnisse vermitteln.
 feature: Visualizations, Analysis Workspace
 role: User
 level: Beginner, Intermediate, Experienced
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Die Kunst und Wissenschaft von wirkungsvollen Datenvisualisierungen in Adobe Analytics
+# Die Kunst und Wissenschaft wirkungsvoller Datenvisualisierungen in Adobe Analytics
 
-Erkunden wir das Reich der Adobe Analytics-Visualisierungen und tauchen wir in die Kunst und Wissenschaft des wirkungsvollen Datengeschichten ein. Erfahren Sie, wie Sie Daten in durchdachte und überzeugende Visualisierungen umwandeln können, die eine Geschichte erzählen. So können Sie mithilfe von Analysis Workspace Einblicke mit Präzision und Wirkung vermitteln.
+Lassen Sie uns den Bereich der Adobe Analytics-Visualisierungen erkunden und in die Kunst und Wissenschaft des wirkungsvollen Daten-Storytelling eintauchen. Entdecken Sie, wie Sie Daten in durchdachte und überzeugende Visualisierungen verwandeln können, die eine Geschichte erzählen. So können Sie mithilfe von Analysis Workspace präzise und wirkungsvoll Erkenntnisse vermitteln.
 
-Gemeinsam mit David Geist, einem ehemaligen Adobe Analytics Champion und Adobe Business Consultant, teilt er Techniken, mit denen Sie nicht nur Daten effektiv analysieren, sondern auch Ihre Erkenntnisse auf eine Weise kommunizieren können, die mit allen Beteiligten auf allen Ebenen im Einklang steht.
+Seien Sie dabei, wenn David Geist, ein ehemaliger Adobe Analytics Champion und Adobe Business Consultant, Techniken teilt, mit denen Sie nicht nur Daten effektiv analysieren, sondern auch Ihre Ergebnisse auf eine Weise kommunizieren können, die bei allen Stakeholdern auf allen Ebenen Anklang findet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425943/?learn=on)

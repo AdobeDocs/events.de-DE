@@ -1,6 +1,6 @@
 ---
 title: Commerce Intelligence-Webinare
-description: Informieren Sie sich über die von Commerce Intelligence aufgezeichneten Webinare, in denen eine Vielzahl von Themen und Best Practices für die bestmögliche Nutzung von Commerce Intelligence behandelt werden.
+description: Informieren Sie sich über die aufgezeichneten Webinare in Commerce Intelligence, die eine Vielzahl von Themen und Best Practices für die optimale Nutzung von Commerce Intelligence abdecken.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
 source-git-commit: 78cb08c0aabfa98db97e1b7c1cee466e7c3578df
@@ -14,13 +14,13 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence hieß vorher [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
+>Adobe Commerce Intelligence hieß früher [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen vergangener Ereignisse spiegeln den vorherigen Namen wider.
 
-Die Commerce Intelligence-Webinarreihe ist ein periodisches Ereignis für Commerce Intelligence-Kunden. Die Webinare decken eine breite Palette von Themen und Best Practices für die Nutzung von Commerce Intelligence nach seinem besten Potenzial ab.
+Die Webinar-Reihe zu Commerce Intelligence ist ein periodisches Ereignis für Commerce Intelligence-Kunden. Die Webinare decken ein breites Themenspektrum ab und zeigen Best Practices, wie sich Commerce Intelligence optimal nutzen lässt.
 
-Teilnehmer aus allen Ländern können live an den Veranstaltungen teilnehmen, um das Produkt besser zu verstehen und ihre Fragen zur Commerce Intelligence-Funktionalität direkt zu beantworten.
+Teilnehmer aus allen Regionen können live an den Veranstaltungen teilnehmen, um das Produkt besser zu verstehen und Fragen zur Commerce Intelligence-Funktionalität direkt zu beantworten.
 
-Die Themen werden gelegentlich wiederholt, um neue Fragen aufzugreifen, die von den Kunden gestellt werden können.
+Die Themen werden gelegentlich wiederholt, um alle neuen Fragen zu berücksichtigen, die Kunden stellen können.
 
 ## Mitarbeiterauswahl
 
@@ -36,7 +36,7 @@ Die Themen werden gelegentlich wiederholt, um neue Fragen aufzugreifen, die von 
       </a>
     </div>
     <p>
-    <em>Erfahren Sie mehr über die Kernfunktionen von Commerce Intelligence direkt vom Produktteam, indem Sie sich mit vorkonfigurierten Dashboards und verfügbaren Anpassungsoptionen vertraut machen.</em>
+    <em>Erfahren Sie direkt vom Produkt-Team mehr über die Kernfunktionen von Commerce Intelligence, wobei Sie sich ausführlich mit den verfügbaren vorkonfigurierten Dashboards und Anpassungsoptionen vertraut machen können.</em>
     <p>
   </td>
   <td>
@@ -49,20 +49,20 @@ Die Themen werden gelegentlich wiederholt, um neue Fragen aufzugreifen, die von 
       </a>
     </div>
     <p>
-    <em>Entdecken Sie die robusten Funktionen des Commerce Intelligence Data Warehouse Managers direkt vom Produktteam.</em>
+    <em>Entdecken Sie die leistungsstarken Funktionen von Commerce Intelligence Data Warehouse Manager direkt vom Produkt-Team.</em>
     <p>
   </td>
    <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
-      <img alt="Optimieren Ihres MBI-Data Warehouse" src="https://video.tv.adobe.com/v/342562?format=jpeg" />
+      <img alt="Optimieren des MBI-Data Warehouse" src="https://video.tv.adobe.com/v/342562?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
-        <strong>Optimieren Ihres MBI-Data Warehouse</strong>
+        <strong>Optimieren Sie Ihren MBI-Data Warehouse</strong>
       </a>
     </div>
     <p>
-    <em>Mithilfe des Data Warehouse-Managers können Sie Einstellungen für die Tabellen- und Spaltensynchronisierung verwalten, einen Drilldown im Schema einer Tabelle durchführen und berechnete Spalten für die Verwendung in Berichten erstellen.</em>
+    <em>Mit dem Data Warehouse-Manager können Sie die Synchronisierungseinstellungen für Tabellen und Spalten verwalten, das Schema einer Tabelle aufschlüsseln und berechnete Spalten erstellen, die in Berichten verwendet werden.</em>
     <p>
   </td>
 </tr>
@@ -70,7 +70,7 @@ Die Themen werden gelegentlich wiederholt, um neue Fragen aufzugreifen, die von 
 
 >[!TIP]
 >
->**Alle aufgezeichneten Webinare werden in der Navigation auf der linken Seite angezeigt**.
+>**Alle aufgezeichneten Webinare werden im Navigationsbereich auf der linken Seite**.
 
 ## Nützliche Ressourcen
 

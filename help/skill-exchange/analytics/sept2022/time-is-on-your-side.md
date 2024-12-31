@@ -1,6 +1,6 @@
 ---
-title: Zeit ist auf Ihrer Seite
-description: Adobe vordefinierte Datumsbereiche und Kalenderauswahl eignen sich hervorragend für schnelle Einblicke und Standardberichte..., manchmal müssen wir jedoch unsere Einblicke auf die nächste Ebene bringen. Von der Konfiguration der Kalenderdefinitionen Ihrer Suite über die Erstellung benutzerdefinierter rollierender Datumsbereiche bis hin zur Begrenzung Ihrer Warnhinweise auf Hauptzeiten, um Übernachtungsfälschungen zu vermeiden. Es gibt viele Möglichkeiten, die Kontrolle zu übernehmen und die Zeit optimal zu nutzen.
+title: Die Zeit ist auf Ihrer Seite
+description: Vordefinierte Datumsbereiche und Kalenderauswahl der Adobe eignen sich hervorragend für schnelle Einblicke und Standardberichte … aber manchmal müssen wir unsere Einblicke auf die nächste Ebene bringen. Von der Konfiguration der Kalenderdefinitionen Ihrer Suite über die Erstellung benutzerdefinierter rollierender Datumsbereiche bis hin zur Begrenzung Ihrer Warnhinweise auf Kernstunden, um Fehlalarme über Nacht zu verhindern. Es gibt viele Möglichkeiten, die Kontrolle zu übernehmen und die Zeit zu Ihrem Vorteil zu nutzen.
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Zeit ist auf Ihrer Seite
+# Die Zeit ist auf Ihrer Seite
 
-Adobe vordefinierte Datumsbereiche und Kalenderauswahl eignen sich hervorragend für schnelle Einblicke und Standardberichte..., manchmal müssen wir jedoch unsere Einblicke auf die nächste Ebene bringen. Von der Konfiguration der Kalenderdefinitionen Ihrer Suite über die Erstellung benutzerdefinierter rollierender Datumsbereiche bis hin zur Begrenzung Ihrer Warnhinweise auf Hauptzeiten, um Übernachtungsfälschungen zu vermeiden. Es gibt viele Möglichkeiten, die Kontrolle zu übernehmen und die Zeit optimal zu nutzen.
+Vordefinierte Datumsbereiche und Kalenderauswahl der Adobe eignen sich hervorragend für schnelle Einblicke und Standardberichte … aber manchmal müssen wir unsere Einblicke auf die nächste Ebene bringen. Von der Konfiguration der Kalenderdefinitionen Ihrer Suite über die Erstellung benutzerdefinierter rollierender Datumsbereiche bis hin zur Begrenzung Ihrer Warnhinweise auf Kernstunden, um Fehlalarme über Nacht zu verhindern. Es gibt viele Möglichkeiten, die Kontrolle zu übernehmen und die Zeit zu Ihrem Vorteil zu nutzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411015/?quality=12&learn=on)

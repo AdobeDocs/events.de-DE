@@ -1,6 +1,6 @@
 ---
-title: Entsperren der Leistungsfähigkeit von Verarbeitungsregeln in Adobe Analytics
-description: Erfahren Sie von einem Adobe Analytics Champion, wie Sie die Datenverarbeitung und -analyse mit den verborgenen Edelstein-Verarbeitungsregeln von Adobe Analytics effizient optimieren können. Dieses wertvolle Tool behandelt eine breite Palette von Problemen, optimiert den Datenfluss und ermöglicht eine präzise Datenzuweisung oder -korrektur vor der weiteren Verarbeitung.
+title: Erschließen der Möglichkeiten von Verarbeitungsregeln in Adobe Analytics
+description: Erfahren Sie von einem Adobe Analytics-Experten, wie Sie die Datenverarbeitung und -analyse mit den verborgenen Juwel-Verarbeitungsregeln von Adobe Analytics effizient optimieren können. Dieses unschätzbare Tool adressiert eine Vielzahl von Problemen, optimiert den Datenfluss und ermöglicht eine präzise Datenzuweisung oder -korrektur vor der weiteren Verarbeitung.
 feature-set: Analytics
 feature: Processing Rules
 role: User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Entsperren der Leistungsfähigkeit von Verarbeitungsregeln in Adobe Analytics
+# Erschließen der Möglichkeiten von Verarbeitungsregeln in Adobe Analytics
 
-Erfahren Sie von einem Adobe Analytics Champion, wie Sie die Datenverarbeitung und -analyse mit dem verborgenen Edelstein von Adobe Analytics effizient optimieren können: Verarbeitungsregeln. Dieses wertvolle Tool behandelt eine breite Palette von Problemen, optimiert den Datenfluss und ermöglicht eine präzise Datenzuweisung oder -korrektur vor der weiteren Verarbeitung.
+Erfahren Sie von einem Adobe Analytics-Experten, wie Sie die Datenverarbeitung und -analyse mit dem verborgenen Juwel von Adobe Analytics effizient optimieren können: Verarbeitungsregeln. Dieses unschätzbare Tool adressiert eine Vielzahl von Problemen, optimiert den Datenfluss und ermöglicht eine präzise Datenzuweisung oder -korrektur vor der weiteren Verarbeitung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422690/?learn=on)

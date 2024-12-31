@@ -1,6 +1,6 @@
 ---
-title: AEM - Best Practices für die Bereitstellung AEM Wartungsversionen
-description: Lernen Sie die Best Practices für die Bereitstellung AEM Maintenance Releases kennen, d. h. Service Packs und Cumulative Fix Packs. Wir werden auch die gemeinsamen Herausforderungen bei der Bereitstellung dieser Lösungen behandeln und die im Package Manager durchgeführten Verbesserungen vorstellen. In dieser Sitzung erfahren Sie Best Practices, Validierungen und Tipps zur Überwachung für Bereitstellungen von Wartungsversionen.
+title: AEM-Unterstützung - Best Practices für die Bereitstellung von AEM-Wartungsversionen
+description: Lernen Sie die Best Practices für die Bereitstellung von AEM-Wartungsversionen kennen, d. h. Service Packs und Cumulative Fix Packs. Wir werden auch auf die allgemeinen Herausforderungen bei der Bereitstellung eingehen und Verbesserungen demonstrieren, die in Package Manager vorgenommen wurden. In dieser Sitzung erfahren Sie mehr über Best Practices, Validierungen und Tipps zur Überwachung für Bereitstellungen von Wartungsversionen.
 discoiquuid: 9020b761-503f-4e4a-9d4f-eb615919d716
 targetaudience: target-audience advanced
 exl-id: 02ac66bc-46d4-4384-a719-23020b9285f9
@@ -12,20 +12,20 @@ ht-degree: 0%
 
 ---
 
-# AEM - Best Practices für die Bereitstellung AEM Wartungsversionen{#aem-sustenance-best-practices-for-deploying-aem-maintenance-releases}
+# AEM-Unterstützung - Best Practices für die Bereitstellung von AEM-Wartungsversionen{#aem-sustenance-best-practices-for-deploying-aem-maintenance-releases}
 
-Lernen Sie die Best Practices für die Bereitstellung AEM Maintenance Releases kennen, d. h. Service Packs und Cumulative Fix Packs. Wir werden auch die gemeinsamen Herausforderungen bei der Bereitstellung dieser Lösungen behandeln und die im Package Manager durchgeführten Verbesserungen vorstellen. In dieser Sitzung erfahren Sie Best Practices, Validierungen und Tipps zur Überwachung für Bereitstellungen von Wartungsversionen.
+Lernen Sie die Best Practices für die Bereitstellung von AEM-Wartungsversionen kennen, d. h. Service Packs und Cumulative Fix Packs. Wir werden auch auf die allgemeinen Herausforderungen bei der Bereitstellung eingehen und Verbesserungen demonstrieren, die in Package Manager vorgenommen wurden. In dieser Sitzung erfahren Sie mehr über Best Practices, Validierungen und Tipps zur Überwachung für Bereitstellungen von Wartungsversionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18982/?quality=9)
 
-*Zugestellt am 28. Juni 2017*
+*Veröffentlicht am 28.06.2017*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
-* Gurpreet Singh Bhatia, Lead-Software-Ingenieur, AEM Sustaining Engineering, Adobe
+* Gurpreet Singh Bhatia, Lead Software Engineer, AEM Sustaining Engineering, Adobe
 * Karanjeet Singh, Senior Software Engineer, AEM Sustaining Engineering, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/aem-sustenance-best-practices-gems.pdf)
 <!--

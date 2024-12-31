@@ -1,6 +1,6 @@
 ---
-title: Mai 2023 APAC Adobe Analytics Skill Exchange Grow Track CH1 Rockstar Tips
-description: Konnte nicht nach Vegas kommen? Nun Vegas kommt zu dir! Die Rockstar World Tour beginnt mit dem diesjährigen Champion und präsentiert die Tipps, die bei der diesjährigen Adobe Summit in Las Vegas durch die Volksabstimmung gewonnen wurden. Also machen Sie sich bereit zu rocken und zu lernen!
+title: Mai 2023 APAC Adobe Analytics Skill Exchange Grow Track CH1 Rockstar Tipps
+description: Konnten Sie nicht nach Vegas kommen? Nun, Vegas kommt zu Ihnen! Die Rockstar World Tour startet mit dem diesjährigen Champion, der eine Zugabe der Tipps gibt, die bei der diesjährigen Adobe Summit in Las Vegas durch die Volksabstimmung gewonnen wurden. Also macht euch bereit zu rocken und zu lernen!
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Rockstar Tips - APAC Adobe Analytics Skill Exchange Track im Mai 2023
+# Rockstar Tipps - Mai 2023 APAC Adobe Analytics Skill Exchange - Wachstumspfad
 
-Konnte nicht nach Vegas kommen? Nun Vegas kommt zu dir! Die Rockstar World Tour beginnt mit dem diesjährigen Champion und präsentiert die Tipps, die bei der diesjährigen Adobe Summit in Las Vegas durch die Volksabstimmung gewonnen wurden. Also machen Sie sich bereit zu rocken und zu lernen!
+Konnten Sie nicht nach Vegas kommen? Nun, Vegas kommt zu Ihnen! Die Rockstar World Tour startet mit dem diesjährigen Champion, der eine Zugabe der Tipps gibt, die bei der diesjährigen Adobe Summit in Las Vegas durch die Volksabstimmung gewonnen wurden. Also macht euch bereit zu rocken und zu lernen!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420946/?learn=on)

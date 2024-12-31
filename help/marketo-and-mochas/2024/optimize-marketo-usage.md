@@ -1,6 +1,6 @@
 ---
-title: Marketo und Mochas - Laufzeitpart 2 - Optimierung der Marketo-Nutzung
-description: Treten Sie Adobe Optimizer Business Advisors, Cynthia Chang und Carly Gaver, für Teil 2 der Marketo-Reifegeschichte bei, der sich mit den Themen Datenmanagement, CRM-Integrationen und Kampagnenoptimierung befasst, um Ihre Marketo-Nutzung mit Live-Fragen und Antworten zu verbessern.
+title: Marketo und Mokkas - Reife Teil 2 - Optimierung der Marketo-Nutzung
+description: Schließen Sie sich den Unternehmensberatern von Adobe, Cynthia Chang und Carly Gaver, für Teil 2 der Marketo Maturity-Reihe an, der sich auf Daten-Management, CRM-Integrationen und Kampagnenoptimierung konzentriert, um Ihre Marketo-Nutzung zu verbessern, mit Live-Fragen und -Antworten.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -16,26 +16,26 @@ ht-degree: 0%
 
 ---
 
-# Marketo und Mochas: Laufzeitpart 2 - Optimierung der Marketo-Nutzung
+# Marketo &amp; Mokkas: Reife Teil 2 - Optimierung der Marketo-Nutzung
 
-Treten Sie Adobe Business Advisors, Cynthia Chang und Carly Gaver bei, da sie Einblicke in die Optimierung Ihrer Marketo-Nutzung in Teil 2 unserer 3-teiligen Serie zur Marketo-Reife teilen. Diese Sitzung beginnt mit Best Practices für das Daten-Management, die sich auf Tools wie ein Datenwörterbuch und System-Smart-Listen konzentrieren, um die Datennormalisierung und die Datensatzverwaltung zu verbessern. Anschließend erhalten Sie einen Überblick über die Best Practices für die Integration, in dem sowohl native CRM-Integrationen als auch Plug-ins von Drittanbietern hervorgehoben werden. Unsere Geschäftsberater geben auch Tipps zur Programmoptimierung, um die Personalisierung zu verbessern und Ihre Zielgruppen zu erweitern.
+Schließen Sie sich den Unternehmensberatern von Adobe, Cynthia Chang und Carly Gaver, an, die in Teil 2 unserer 3-teiligen Serie über Marketo Maturity Einblicke in die Optimierung Ihrer Marketo-Nutzung teilen. Diese Sitzung beginnt mit Best Practices für das Daten-Management und konzentriert sich auf Tools wie ein Datenwörterbuch und Smart Lists für das System, um die Datennormalisierung und die Datensatzverwaltung zu verbessern. Anschließend geben wir einen Überblick über die Best Practices für die Integration, wobei wir sowohl native CRM-Integrationen als auch Plug-ins von Drittanbietern hervorheben. Unsere Unternehmensberater geben außerdem Tipps zur Programmoptimierung, um die Personalisierung zu verbessern und Ihre Zielgruppen zu erweitern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434699/?learn=on)
 
-## Hauptthemen
+## Wichtigste besprochene Themen
 
-**Marketo-Laufzeitstufen**
-Konzentriert auf Durchsuchen-, Gehen- und Ausführungsphasen zur Optimierung der Marketing-Nutzung durch Marketo-Laufzeitstufen.
+**Marketo-Reifegrade**
+Konzentration auf Durchforstungs-, Spaziergangs- und Ausführungsphasen zur Optimierung der Marketing-Nutzung bis hin zu Marketo-Reifegraden.
 
-**Datenverwaltung und Datennormalisierung**
-Hervorgehoben, wie wichtig saubere und umsetzbare Daten in Marketo durch Datenmanagement- und Datennormalisierungsprozesse sind.
-Hervorgehoben wurde die Bedeutung der Standardisierung von Datenwerten für eine effiziente Verarbeitung mit Beispielen für die Normalisierung von Länderwerten.
+**Daten-Management und Datennormalisierung**
+Die Bedeutung sauberer und verwertbarer Daten in Marketo durch Datenmanagement- und Datennormalisierungsprozesse wurde hervorgehoben.
+hob die Bedeutung der Standardisierung von Datenwerten für eine effiziente Verarbeitung hervor, mit Beispielen für die Normalisierung von Länderwerten.
 
 **CRM-Integrationen**
-Die effiziente Verwaltung von CRM-Integrationen mithilfe nativer Marketo-Integrationsfunktionen wie Chatbots und Webinars wurde behandelt.
+Behandelt wurde die effiziente Verwaltung von CRM-Integrationen mithilfe der nativen Integrationsfunktionen von Marketo wie Chatbots und Webinare.
 
 **Campaign Management-Optimierung**
-Es wurden Tipps zur Optimierung der Kampagnenverwaltung über Programmvorlagen, Inhaltsbibliotheken und Smart-Listen bereitgestellt.
+Tipps zur Optimierung der Kampagnenverwaltung durch Programmvorlagen, Inhaltsbibliotheken und Smart Lists.
 
-**Verarbeitung intelligenter Kampagnen**
-Erörtert Faktoren, die sich auf die Verarbeitungszeit von Kampagnen auswirken, und Best Practices für die Erstellung und Verwaltung intelligenter Kampagnen.
+**Intelligente Kampagnenverarbeitung**
+Es wurden Faktoren erörtert, die sich auf die Kampagnenverarbeitungszeit auswirken, und Best Practices zum Erstellen und Verwalten von Smart-Kampagnen bereitgestellt.

@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte mit Adobe Analytics
-description: Das Segment "Erste Schritte"von The Skill Exchange ist für diejenigen gedacht, die gerade mit Adobe Analytics beginnen. Am Ende der Sitzung sollten die Betrachter ein besseres Verständnis der Terminologie und Tools von Adobe Analytics sowie eine Einführung in die Hauptfunktionen von Analysis Workspace auf Anfängerebene haben.
+description: Das Segment „Erste Schritte“ der Fähigkeitenbörse ist für diejenigen gedacht, die gerade erst mit Adobe Analytics beginnen. Am Ende der Sitzung sollten die Betrachter die Terminologie und Tools von Adobe Analytics besser verstehen und eine Einführung in die Hauptfunktionen von Analysis Workspace auf Anfängerebene erhalten.
 feature: Analytics Basics, Workspace Basics
 role: User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Aug. 2023: Kompetenzaustausch - Track - Adobe Analytics - Erste Schritte
+# Skill Exchange Event Aug 2023 - Learn Track - Adobe Analytics Getting Started
 
-Das Segment &quot;Erste Schritte&quot;von The Skill Exchange ist für diejenigen gedacht, die gerade mit Adobe Analytics beginnen. Am Ende der Sitzung sollten die Betrachter ein besseres Verständnis der Terminologie und Tools von Adobe Analytics sowie eine Einführung in die Hauptfunktionen von Analysis Workspace auf Anfängerebene haben.
+Das Segment „Erste Schritte“ der Fähigkeitenbörse ist für diejenigen gedacht, die gerade erst mit Adobe Analytics beginnen. Am Ende der Sitzung sollten die Betrachter die Terminologie und Tools von Adobe Analytics besser verstehen und eine Einführung in die Hauptfunktionen von Analysis Workspace auf Anfängerebene erhalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425985/?learn=on)

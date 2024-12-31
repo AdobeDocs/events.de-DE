@@ -1,6 +1,6 @@
 ---
-title: AEM Kernkomponenten und Stilsysteme
-description: Diese Sitzung wird einen Überblick darüber enthalten, was AEM Kernkomponenten und Stilsysteme sind und welche Vorteile ihre Verwendung bringt. Diese Konzepte werden anhand von Beispielen vorgestellt und enthalten Empfehlungen zur Förderung von Erfolg und Akzeptanz.
+title: AEM-Kernkomponenten und Stilsysteme
+description: Diese Sitzung wird einen Überblick darüber geben, was AEM-Kernkomponenten und Stilsysteme sind und welche Vorteile ihre Verwendung hat. Diese Konzepte werden anhand von Beispielen demonstriert und enthalten Empfehlungen, wie Sie den Erfolg und die Umsetzung vorantreiben können.
 solution: Experience Manager
 feature-set: Experience Manager Sites
 feature: Core Components, Style System
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# AEM Kernkomponenten und Stilsysteme
+# AEM-Kernkomponenten und Stilsysteme
 
-Diese Sitzung wird einen Überblick darüber enthalten, was AEM Kernkomponenten und Stilsysteme sind und welche Vorteile ihre Verwendung bringt. Diese Konzepte werden anhand von Beispielen vorgestellt und enthalten Empfehlungen zur Förderung von Erfolg und Akzeptanz.
+Diese Sitzung wird einen Überblick darüber geben, was AEM-Kernkomponenten und Stilsysteme sind und welche Vorteile ihre Verwendung hat. Diese Konzepte werden anhand von Beispielen demonstriert und enthalten Empfehlungen, wie Sie den Erfolg und die Umsetzung vorantreiben können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346383/?quality=12&learn=on)

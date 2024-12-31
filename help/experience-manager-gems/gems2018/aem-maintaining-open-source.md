@@ -1,6 +1,6 @@
 ---
-title: Warten von Open Source bei gleichzeitiger Wahrung Ihrer Zufriedenheit
-description: Es kann schwierig sein, Open-Source-Projekte zu verwalten. Erfolgreiche Open-Source-Projekte können viel Zeit in Anspruch nehmen, und oft fühlen Sie sich schuldig, weil Sie das Gefühl haben, dass Sie nicht genug Zeit für die Arbeit damit verbringen. Lernen Sie eine Reihe von Dingen kennen, die Ihnen helfen können, ohne die schuldigen Gefühle auf dem Laufenden zu bleiben.
+title: Offene Source und Vernunft
+description: Die Pflege von Open-Source-Projekten kann schwierig sein. Erfolgreiche Open-Source-Projekte können viel Zeit in Anspruch nehmen, und oft haben Sie am Ende ein schlechtes Gewissen, weil Sie das Gefühl haben, nicht genug Zeit darauf verwendet zu haben. Lernen Sie eine Reihe von Dingen, die Ihnen helfen können, Ihr Projekt ohne Schuldgefühle zu bewältigen.
 discoiquuid: f52fef4b-b8ba-45f6-897c-814a7367994e
 targetaudience: target-audience advanced
 exl-id: c9fddf02-73ec-44d9-be07-3f7fdcd62f70
@@ -12,19 +12,19 @@ ht-degree: 0%
 
 ---
 
-# Aufrechterhaltung des offenen Sources bei gleichzeitiger Wahrung Ihrer Gesundheit{#maintaining-open-source-while-maintaining-your-sanity}
+# Offene Source bei gleichzeitiger Vernunft{#maintaining-open-source-while-maintaining-your-sanity}
 
-Es kann schwierig sein, Open-Source-Projekte zu verwalten. Erfolgreiche Open-Source-Projekte können viel Zeit in Anspruch nehmen, und oft fühlen Sie sich schuldig, weil Sie das Gefühl haben, dass Sie nicht genug Zeit für die Arbeit damit verbringen. Du bist nicht allein! Ich bin seit sehr langer Zeit Open-Source-Mitarbeiter und seit über 8 Jahren Hauptbetreuer von Apache Cordova. Ich habe eine Reihe von Dingen gelernt, die Ihnen helfen können, auf Ihrem Projekt zu bleiben ohne die schuldigen Gefühle.
+Die Pflege von Open-Source-Projekten kann schwierig sein. Erfolgreiche Open-Source-Projekte können viel Zeit in Anspruch nehmen, und oft haben Sie am Ende ein schlechtes Gewissen, weil Sie das Gefühl haben, nicht genug Zeit darauf verwendet zu haben. Du bist nicht allein! Ich bin seit sehr langer Zeit Open-Source-Mitwirkender und seit über 8 Jahren Hauptbetreuer von Apache Cordova. Ich habe eine Reihe von Dingen gelernt, die Ihnen helfen können, Ihr Projekt ohne Schuldgefühle zu bewältigen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23713/?quality=9)
 
-*Zugestellt am 12.09.2018*
+*Veröffentlicht am 09/12/2018*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
-Simon Mac Donald, Entwickleranwalt, Adobe
+Simon Mac Donald, Developer Advocate, Adobe
 
-Datum: 12.9.2018
+Datum: 09/12/2018
 
 [Datei abrufen](assets/maintaining-open-source-while-maintaining-your-sanity-gems-091218.pdf)
 

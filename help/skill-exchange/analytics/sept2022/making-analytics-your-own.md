@@ -1,6 +1,6 @@
 ---
-title: Analytics-Entwicklung vom September 2022 zum Kompetenzaustausch - Adobe Analytics wird zu einem eigenständigen Partner
-description: Sie verfügen über Adobe Analytics. Machen Sie es sich jetzt zu Ihrem eigenen, indem Sie die Funktionen und Strategien nutzen, die für Ihre Benutzer und Ihr Unternehmen einzigartig sind.
+title: Kompetenzaustausch-Ereignis September 2022 Analytics Grow macht Adobe Analytics zu Ihrem eigenen
+description: Jetzt verfügen Sie über Adobe Analytics. Machen Sie es sich zu eigen, indem Sie die einzigartigen Funktionen und Strategien Ihrer Anwender und Ihres Unternehmens nutzen.
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Analytics-Entwicklung vom September 2022 zum Kompetenzaustausch - Adobe Analytics wird zu einem eigenständigen Partner
+# Kompetenzaustausch-Ereignis September 2022 Analytics Grow macht Adobe Analytics zu Ihrem eigenen
 
-Sie verfügen über Adobe Analytics. Machen Sie es sich jetzt zu Ihrem eigenen, indem Sie die Funktionen und Strategien nutzen, die für Ihre Benutzer und Ihr Unternehmen einzigartig sind.
+Jetzt verfügen Sie über Adobe Analytics. Machen Sie es sich zu eigen, indem Sie die einzigartigen Funktionen und Strategien Ihrer Anwender und Ihres Unternehmens nutzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411012/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Mai 2023 APAC Adobe Analytics Skill Exchange Grow Track CH3 EM Spotlight - Analytics Tips and Tricks
-description: Treten Sie uns bei, während wir Bhagyesh Patel und Victoria Xiao, zwei erfahrene Kunden und Adobe Analytics-Benutzer, im Blickpunkt haben. Jeder wird seinen besten Adobe Analytics-Tipp oder -Trick teilen.
+title: Mai 2023 APAC Adobe Analytics Skill Exchange Grow Track CH3 EM Spotlight - Tipps und Tricks zur Analyse
+description: Seien Sie dabei, wenn wir Bhagyesh Patel und Victoria Xiao, zwei erfahrene Kunden und Adobe Analytics-Anwender, in den Blickpunkt rücken. Jeder teilt seinen besten Adobe Analytics-Tipp oder -Trick.
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Analytics Tips and Tricks - APAC Adobe Analytics Skill Exchange Track vom Mai 2023
+# Tipps und Tricks für Adobe Analytics - Mai 2023 APAC Adobe Analytics Skill Exchange - Wachstumspfad
 
-Treten Sie uns bei, während wir Bhagyesh Patel und Victoria Xiao, zwei erfahrene Kunden und Adobe Analytics-Benutzer, im Blickpunkt haben. Jeder wird seinen besten Adobe Analytics-Tipp oder -Trick teilen.
+Seien Sie dabei, wenn wir Bhagyesh Patel und Victoria Xiao, zwei erfahrene Kunden und Adobe Analytics-Anwender, in den Blickpunkt rücken. Jeder teilt seinen besten Adobe Analytics-Tipp oder -Trick.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420948/?learn=on)

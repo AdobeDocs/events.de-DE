@@ -1,6 +1,6 @@
 ---
-title: Fehlerbehebung für Sling Content Distribution
-description: Sling Content Distribution (SCD) kann in AEM für die Weiterleitung, umgekehrte Inhaltsverteilung und -synchronisierung verwendet werden. In dieser Sitzung werden wir Details zur Fehlerbehebung und zum Umgang mit häufigen Problemen mit SCD bereitstellen.
+title: Fehlerbehebung für Sling-Inhaltsverteilung
+description: Sling Content Distribution (SCD) kann in AEM für die Vorwärts- und Rückwärtsverteilung von Inhalten sowie für die Synchronisierung verwendet werden. In dieser Sitzung erfahren Sie, wie Sie häufige Probleme mit SCD beheben und behandeln können.
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
@@ -13,19 +13,19 @@ ht-degree: 1%
 
 ---
 
-# Fehlerbehebung für Sling Content Distribution{#troubleshooting-sling-content-distribution}
+# Fehlerbehebung für Sling-Inhaltsverteilung{#troubleshooting-sling-content-distribution}
 
-Sling Content Distribution (SCD) kann in AEM für die Weiterleitung, umgekehrte Inhaltsverteilung und -synchronisierung verwendet werden. In dieser Sitzung werden wir Details zur Fehlerbehebung und zum Umgang mit häufigen Problemen mit SCD bereitstellen.
+Sling Content Distribution (SCD) kann in AEM für die Vorwärts- und Rückwärtsverteilung von Inhalten sowie für die Synchronisierung verwendet werden. In dieser Sitzung erfahren Sie, wie Sie häufige Probleme mit SCD beheben und behandeln können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19451/?quality=9)
 
-*Ausgestellt am 23. August 2017*
+*Veröffentlicht am 23.08.2017*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
-Timothee Market, Senior Developer, Adobe
+Timothee Maret, Senior Developer, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/aem-gems-scd.pdf)
 
@@ -33,14 +33,14 @@ Timothee Market, Senior Developer, Adobe
 
 >[!WARNING]
 >
->AEM Versionen 6.4 und älter sind End of Life und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Auf archivierte Versionen der Dokumentation kann von dieser [Seite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de) aus zugegriffen werden.
+>Die AEM-Versionen 6.4 und älter sind veraltet und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archivierte Versionen der Dokumentation können von dieser Seite [ werden](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
 >
->Informationen zu dieser Sitzung finden Sie unter *Benutzersynchronisierung* in der AEM Dokumentation.
+>Informationen zu dieser Sitzung finden Sie unter *Benutzersynchronisierung* in der AEM-Dokumentation.
 
-* [Apache Sling Content Distribution](https://sling.apache.org/documentation/bundles/content-distribution.html)
+* [Apache Sling-Inhaltsverteilung](https://sling.apache.org/documentation/bundles/content-distribution.html)
 * [Zurück zur Übersicht](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >
->* [AEM Indizierung und JCR-Abfrage](aem-indexing-jcr-query.md)
->* [Fehlerbehebung bei der Sling-Inhaltsverteilung](aem-troubleshooting-sling.md)
+>* [AEM-Indizierung und JCR-Abfrage](aem-indexing-jcr-query.md)
+>* [Fehlerbehebung für Sling-Inhaltsverteilung](aem-troubleshooting-sling.md)

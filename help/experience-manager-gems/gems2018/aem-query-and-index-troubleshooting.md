@@ -1,6 +1,6 @@
 ---
-title: Fehlerbehebung bei AEM Abfragen und Indizes
-description: Dies ist eine Fortsetzung der letztjährigen Sitzung AEM Indizierung und JCR-Abfrage. Es behandelt die gleichen Themen, aber mit völlig neuen Inhalten und wenig Überschneidung mit der älteren Präsentation. Ebenfalls enthalten sind neue Funktionen von AEM 6.4.
+title: Fehlerbehebung bei AEM-Abfragen und -Indizes
+description: Dies ist eine Fortsetzung der letztjährigen Sitzung zu AEM-Indizierung und JCR-Abfrage. Sie behandelt die gleichen Themen, aber mit völlig neuen Inhalten und wenig Überschneidung mit der älteren Präsentation. Ebenfalls enthalten sind neue Funktionen von AEM 6.4.
 page-status-flag: never-activated
 deleted: 2018-08-14T03 02 22.818-0400
 deletedby: gbrodnik
@@ -15,17 +15,17 @@ ht-degree: 0%
 ---
 
 
-# Fehlerbehebung bei AEM Abfragen und Indizes{#aem-query-and-index-troubleshooting}
+# Fehlerbehebung bei AEM-Abfragen und -Indizes{#aem-query-and-index-troubleshooting}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*Zugestellt am 8.8.2018*
+*Veröffentlicht am 08/08/2018*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 Thomas Müller, Senior Software Engineer, Adobe
 
-Datum: 08.08.2018
+Datum: 08/08/2018
 
 [Datei abrufen](assets/20180808-gems-adobe+cloud+platform-experience+system+of+record-1.pdf)
 

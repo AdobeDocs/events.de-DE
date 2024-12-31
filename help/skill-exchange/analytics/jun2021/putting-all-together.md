@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics - Alles zusammenbringen
-description: Machen Sie sich mit den Themen vertraut, indem Sie verstehen, wie Adobe Analytics Website-Daten verfolgt, wie Sie Daten speichern, teilen und zusammenarbeiten. Lassen Sie in dieser Sitzung Tipps zur Steigerung Ihrer Produktivität erhalten.
+description: Fassen Sie alles zusammen, indem Sie verstehen, wie Adobe Analytics Website-Daten nachverfolgt und wie Sie speichern, freigeben und zusammenarbeiten können. Verlassen Sie diese Sitzung mit Tipps zur Steigerung Ihrer Produktivität.
 solution: Analytics
 role: User
 level: Beginner
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Adobe Analytics: Alles zusammenbringen
 
-Machen Sie sich mit den Themen vertraut, indem Sie verstehen, wie Adobe Analytics Website-Daten verfolgt, wie Sie Daten speichern, teilen und zusammenarbeiten. Lassen Sie diese Sitzung mit Tipps, um Ihre Produktivität zu steigern und Ihren Lernprozess fortzusetzen Journey.
+Fassen Sie alles zusammen, indem Sie verstehen, wie Adobe Analytics Website-Daten nachverfolgt und wie Sie speichern, freigeben und zusammenarbeiten können. Verlassen Sie diese Sitzung mit Tipps, um Ihre Produktivität zu steigern und Ihren Lern-Journey fortzusetzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342529/?quality=12&learn=on)

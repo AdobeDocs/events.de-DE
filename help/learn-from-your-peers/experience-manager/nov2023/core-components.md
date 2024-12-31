@@ -1,6 +1,6 @@
 ---
-title: Ermöglichen von Developer Excellence mit AEM Kernkomponenten
-description: Beschleunigung der Website-Entwicklung und Senkung der Wartungskosten mit Web Content Management (WCM)-Kernkomponenten. Eine Live-Demonstration, in der gezeigt wird, wie eine Teaser-Komponente in eine Komponente im Kartenstil mit mehreren Designvarianten umgewandelt wird. Best Practices zur Optimierung Ihrer Stilsysteme. Eine schrittweise Demonstration der Bereitstellung der Benutzeroberfläche wird mithilfe der Frontend-Pipeline effizient geändert.
+title: Stärkung der Entwicklerexzellenz mit AEM-Kernkomponenten
+description: Beschleunigen der Website-Entwicklung und Reduzieren der Wartungskosten mit WCM-Kernkomponenten (Web Content Management). Eine Live-Demonstration, in der gezeigt wird, wie sich eine Teaser-Komponente in eine Kartenkomponente mit mehreren Design-Varianten umwandeln lässt. Best Practices zur Optimierung Ihrer Stilsysteme. Eine schrittweise Demonstration der effizienten Bereitstellung von Benutzeroberflächenänderungen mithilfe der Frontend-Pipeline.
 feature-set: Experience Manager Sites
 feature: Core Components, Developing, Style System
 topic: Development
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 ---
 
-# Ermöglichen von Developer Excellence mit AEM Kernkomponenten
+# Stärkung der Entwicklerexzellenz mit AEM-Kernkomponenten
 
-Treten Sie Kartik Sharma, Adobe Experience Manager Customer Champion, bei, da er wertvolle Einblicke und Best Practices in Kernkomponenten vermittelt.
+Seien Sie dabei, wenn Kartik Sharma, Adobe Experience Manager Customer Champion, wertvolle Einblicke und Best Practices zu Kernkomponenten vermittelt.
 
-Vorbereiten auf das Eintauchen,
+Bereiten Sie sich darauf vor,
 
-* Beschleunigung der Website-Entwicklung und Senkung der Wartungskosten mit Web Content Management (WCM)-Kernkomponenten
-* Eine Live-Demonstration, in der gezeigt wird, wie eine Teaser-Komponente in eine Komponente im Kartenstil mit mehreren Designvarianten umgewandelt wird
+* Beschleunigen der Website-Entwicklung und Reduzieren der Wartungskosten mit WCM-Kernkomponenten (Web Content Management)
+* Eine Live-Demonstration, in der gezeigt wird, wie sich eine Teaser-Komponente in eine Kartenkomponente mit mehreren Design-Varianten umwandeln lässt
 * Best Practices zur Optimierung Ihrer Stilsysteme
-*Eine schrittweise Demonstration der effizienten Bereitstellung von UI-Änderungen mithilfe der Frontend-Pipeline
+*Eine schrittweise Demonstration der effizienten Bereitstellung von Benutzeroberflächenänderungen mithilfe der Frontend-Pipeline
 
-Sie können die Präsentationsfolien [hier](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf) aufrufen.
+Sie können auf die Präsentationsfolien zugreifen [hier](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425841/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Data and Insight - 2022 - Innovationen und Trends
-description: Sie nutzen Ihre Daten, indem Sie Ihre Experience Cloud-Investitionen maximieren und einen Blick in neue Innovationen werfen.
+title: Daten und Erkenntnisse - Innovationen und Trends 2022
+description: Nutzen Sie Ihre Daten optimal, indem Sie Ihre Experience Cloud-Investitionen maximieren und neue Innovationen vorstellen.
 solution: Analytics, Customer Journey Analytics, Target
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Neue Funktionen im Daten- und Insight-Bereich Innovationen bis 2022
+# Neue Funktionen im Bereich „Daten und Erkenntnisse“ Innovationen 2022
 
-In dieser Keynote-Sitzung erfahren Sie mehr über die wichtigsten Trends in D&amp;I. Lernen Sie, wie Sie Ihre Experience Cloud-Investitionen optimal nutzen können, und lassen Sie sich mit uns in Verbindung setzen, um neue Innovationen zu entwickeln.
+In dieser Keynote lernen Sie die wichtigsten Trends in D&amp;I kennen. Seien Sie dabei, wenn wir Ihnen zeigen, wie Sie Ihre Daten optimal nutzen können, indem Sie Ihre Experience Cloud-Investitionen voll ausschöpfen, und Sie einen Einblick in neue Innovationen erhalten.
 
-*Axel Schaefer* Head of Product Marketing, Analytics EMEA/Adobe
+*Axel Schäfer* Head of Product Marketing, Analytics EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343818/?quality=12&learn=on)

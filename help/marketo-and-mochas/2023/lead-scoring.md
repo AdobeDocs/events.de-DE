@@ -1,6 +1,6 @@
 ---
-title: Marketo und Mochas - Lead-Scoring
-description: Erfahren Sie mehr über die Vorteile von Lead-Scoring mit Cynthia Chang und Kelvin Ieng in Marketo und Mochas mit Strategien, Setup und einer Live-Demo in Marketo Engage sowie wichtigen Schnellzugriffen und Live-Fragen und Antworten.
+title: Marketo und Mokkas - Lead-Bewertung
+description: Erfahren Sie mehr über die Vorteile des Lead-Scorings mit Cynthia Chang und Kelvin Ieng in Marketo & Mokkas mit Strategien, einem Setup und einer Live-Demo auf Marketo Engage sowie wichtigen Schlussfolgerungen und Live-Fragen und -Antworten.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Marketo und Mochas - Lead-Scoring
+# Marketo und Mokkas - Lead-Bewertung
 
-Die Eröffnungssitzung von Marketo &amp; Mochas beinhaltet Marketing Automation Business Advisors, Cynthia Chang und Kelvin Ieng. In dieser Sitzung werden die Vorteile von Lead-Scoring, die Einrichtung, die strategische Ausrichtung und die Überprüfung Ihrer Lead-Scoring-Modelle erläutert. Kelvin führt eine Live-Demonstration durch, wie ein Lead-Scoring-Modell innerhalb von [!DNL Marketo Engage] eingerichtet wird, und schließt mit drei wichtigen Takeways ab. Die Präsentation und die Demo werden von einem Live-Q&amp;A mit Kelvin und Cynthia begleitet.
+Die Eröffnungssitzung von Marketo &amp; Mokkas umfasst die Wirtschaftsberater für Marketing-Automatisierung, Cynthia Chang und Kelvin Ieng. In dieser Sitzung geht es um die Vorteile der Lead-Bewertung und die Einrichtung, Strategie und Überprüfung Ihrer Lead-Bewertungsmodelle. Kelvin führt eine Live-Demonstration durch, wie man in [!DNL Marketo Engage] ein Lead-Scoring-Modell einrichtet, und schließt mit drei wichtigen Schlussfolgerungen. Die Präsentation und die Demo werden von einer Live-Q&amp;A mit Kelvin und Cynthia begleitet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412722/?quality=12&learn=on)

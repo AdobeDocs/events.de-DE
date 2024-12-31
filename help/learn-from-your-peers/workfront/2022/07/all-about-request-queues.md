@@ -1,35 +1,35 @@
 ---
-title: Webinar zu Anforderungswarteschlangen
-description: Erfahren Sie von Ihren Kollegen mehr über die Maximierung der Workfront-Anforderungswarteschlangen. Entdecken Sie die vielfältigen Verwendungen und Best Practices von Disneys Gelben Schuhen in unserem On-Demand-Webinar.
+title: Alles über das Webinar zu Anfragewarteschlangen
+description: Erfahren Sie von Ihren Kollegen, wie Sie Workfront-Anfragewarteschlangen maximieren. Entdecken Sie in unserem On-Demand-Webinar die vielfältigen Einsatzmöglichkeiten und Best Practices von Disney's Yellow Shoes.
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3611
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15814
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: fa9b2c3b-62ac-4f4f-9aec-2e696be5ef48
+source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
 
 ---
 
+# Alles über Anfrage-Warteschlangen
 
-# Alles über Anforderungswarteschlangen
+Anfragewarteschlangen weisen mehr auf, als Arbeit anzufordern
 
-Es gibt mehr Anforderungswarteschlangen als Anforderungen zu bearbeiten
+Adobe Workfront-Anfragewarteschlangen sind Ihnen vielleicht als Möglichkeit bekannt, die Arbeit eines Teams oder einer Abteilung anzufordern. Aber sie können so viel mehr sein!
 
-Möglicherweise kennen Sie Adobe Workfront-Anforderungswarteschlangen als Möglichkeit, die Arbeit eines Teams oder einer Abteilung anzufordern, aber sie können so viel mehr sein!
+Anfrage-Warteschlangen ermöglichen es Ihnen, einen zentralen Ort für Anfragen zu haben, unabhängig davon, ob diese Anfrage für neue Arbeiten oder für etwas wie PTO-Genehmigungen, Hardware- oder Softwareanfragen, neue Visitenkartenbestellungen, Datenexporte, Fehlerberichte, um nur einige einfache Ideen zu nennen.
 
-Mithilfe von Anforderungswarteschlangen können Sie über einen zentralen Ort verfügen, an dem Sie Anforderungen senden können, ob es sich um eine Anfrage für neue Arbeiten oder um eine Anfrage für PTO-Validierung, Hardware- oder Softwareanforderungen, neue Bestellungen von Geschäftskarten, Datenexporte oder Reporting-Fehler handelt.
+In diesem On-Demand-Webinar teilen zwei Systemadministratoren von Disney&#39;s Yellow Shoes, der internen Werbeagentur für Walt Disney Parks &amp; Resorts, ihre Erfahrungen und Entwicklungen mit Anfragewarteschlangen. Sie decken Folgendes ab:
 
-In diesem On-Demand-Webinar teilen zwei Systemadministratoren von Disneys Gelben Schuhen, der internen Werbeagentur für Walt Disney Parks &amp; Resorts, ihr Erlebnis und ihre Entwicklung mit Anfragewarteschlangen. Sie werden Folgendes abdecken:
-
-* Die Anatomie einer Anforderungswarteschlange
-* Einführung in &quot;Probleme&quot;
-* Warteschlangeneinstellungen und Warteschlangenthemen
-* Tipps zum Thema &quot;Haben Sie erfahren&quot;
-* Wie sich die Anforderungswarteschlangen von Disney Gelben Schuhen im Laufe der Zeit entwickelt haben
+* Die Anatomie einer Anfrage-Warteschlange
+* Einführung in „Probleme“
+* Warteschlangeneinrichtung und Warteschlangenthemen
+* Ein paar Tipps zum Thema „Wussten Sie schon?“
+* Wie sich die Anfrage-Warteschlangen von Disney&#39;s Yellow Shoes im Laufe der Zeit entwickelt haben
 * Und vieles mehr!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431008/?learn=on)

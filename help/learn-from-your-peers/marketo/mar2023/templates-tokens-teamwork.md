@@ -1,6 +1,6 @@
 ---
-title: Vorlagen, Token und Teamwork - Gestalten Sie den Inhalt skalierbar
-description: Erfahren Sie mehr über die Verwendung von Token und Vorlagen in [!DNL Marketo Engage]. Hier finden Sie Tipps dazu, wie Sie die vorhandene Inhaltsbibliothek optimal nutzen.
+title: Vorlagen, Token und Teamarbeit - Skalierbarkeit Ihrer Inhalte
+description: Erfahren Sie mehr über die Verwendung von Token und Vorlagen in [!DNL Marketo Engage]. Tipps, wie Sie Ihre vorhandene Inhaltsbibliothek optimal nutzen können.
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ---
 
-# Vorlagen, Token und Teamwork - Gestalten Sie den Inhalt von Adobe [!DNL Marketo Engage] skalierbar
+# Vorlagen, Token und Teamarbeit - Machen Sie Ihren Adobe [!DNL Marketo Engage] skalierbar
 
-Die Inhaltserstellung für Ihre Marketingprogramme ist ein langer Weg. Durch die Anwendung von Vorlagen und Token können Sie skalierbare Prozesse über Teams hinweg erstellen und mit weniger in [!DNL Marketo Engage] mehr erreichen. Hören Sie Lauren McCormack, eine preisgekrönte Marketingführerin - und 2x Adobe [!DNL Marketo Engage] Champion -, da sie ihre jahrelange Weisheit teilt, um Ihren [!DNL Marketo Engage]-Inhalt skalierbar zu machen.
+Die Inhaltserstellung für Ihre Marketing-Programme ist sehr langwierig. Das Anwenden von Vorlagen und Token hilft Ihnen, skalierbare Prozesse über Teams hinweg zu erstellen und mit weniger [!DNL Marketo Engage] mehr zu erreichen. Lauren McCormack, eine preisgekrönte Marketingleiterin und 2x Adobe [!DNL Marketo Engage] Champion, erzählt von ihrer jahrelangen Weisheit, mit der sie Ihre [!DNL Marketo Engage] skalierbar macht.
 
-Erfahren Sie mehr über:
+Weitere Informationen zu:
 
 * Verwenden von Token und Vorlagen, um Programme effektiver und effizienter zu erstellen
-* Tipps, wie Sie die vorhandene Inhaltsbibliothek optimal nutzen können
+* Tipps, wie Sie Ihre vorhandene Inhaltsbibliothek optimal nutzen können
 * Best Practices zur Optimierung des Kampagnenanforderungsprozesses
-* Effektive Kommunikationsstrategien, um Ihre internen Teams an der Inhaltsstrategie auszurichten
+* Effektive Kommunikationsstrategien zur Abstimmung Ihrer internen Teams auf die Inhaltsstrategie
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416250/?quality=12&learn=on)

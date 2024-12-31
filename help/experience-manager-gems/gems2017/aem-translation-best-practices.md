@@ -1,6 +1,6 @@
 ---
-title: AEM 6.3 Bereit für die Welt - Übersetzungsintegration und Best Practices
-description: In dieser Sitzung werden wir AEM 6.3 Funktionen und Best Practices für die Verwaltung mehrsprachiger Websites vorstellen. Sie erfahren, wie Sie globale Websites in AEM strukturieren, wie Sie Sprachkopien, Live Copies und MSM verwenden und wie Sie Übersetzungsanbieter integrieren können, um Übersetzungsprojekte erfolgreich abzuschließen.
+title: AEM 6.3 ist bereit für die Welt - Übersetzungsintegration und Best Practices
+description: In dieser Sitzung stellen wir die Funktionen von AEM 6.3 und Best Practices für die Verwaltung mehrsprachiger Websites vor. Sie erfahren, wie Sie globale Websites in AEM strukturieren, wie Sie Sprachkopien, Live Copies und MSM verwenden und wie Sie Übersetzungsdienstleister integrieren können, um Übersetzungsprojekte erfolgreich abzuschließen.
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
 exl-id: af514fa9-91c7-4bbc-9e67-4803148e7997
@@ -12,20 +12,20 @@ ht-degree: 0%
 
 ---
 
-# AEM 6.3 Bereit für die Welt - Übersetzungsintegration und Best Practices{#aem-ready-for-the-world-translation-integration-best-practices}
+# AEM 6.3 ist bereit für die Welt - Übersetzungsintegration und Best Practices{#aem-ready-for-the-world-translation-integration-best-practices}
 
-In dieser Sitzung werden wir AEM 6.3 Funktionen und Best Practices für die Verwaltung mehrsprachiger Websites vorstellen. Sie erfahren, wie Sie globale Websites in AEM strukturieren, wie Sie Sprachkopien, Live Copies und MSM verwenden und wie Sie Übersetzungsanbieter integrieren können, um Übersetzungsprojekte erfolgreich abzuschließen.
+In dieser Sitzung stellen wir die Funktionen von AEM 6.3 und Best Practices für die Verwaltung mehrsprachiger Websites vor. Sie erfahren, wie Sie globale Websites in AEM strukturieren, wie Sie Sprachkopien, Live Copies und MSM verwenden und wie Sie Übersetzungsdienstleister integrieren können, um Übersetzungsprojekte erfolgreich abzuschließen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21532/?quality=9)
 
-*Ausgestellt am 25. Oktober 2017*
+*Veröffentlicht am 25.10.2017*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
-Leandro Reis, Globalisierungsarchitekte, Adobe Core Services\
+Leandro Reis, Globalisierungsarchitekt, Adobe Core Services\
 Mathias Siegel, SR Product Manager, [!DNL AEM Sites], Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/immerse-2017-translationpresentation-rev1.pdf)
 
@@ -33,6 +33,6 @@ Mathias Siegel, SR Product Manager, [!DNL AEM Sites], Adobe
 
 >[!WARNING]
 >
->AEM Versionen 6.4 und älter sind End of Life und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Auf archivierte Versionen der Dokumentation kann von dieser [Seite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de) aus zugegriffen werden.
+>Die AEM-Versionen 6.4 und älter sind veraltet und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archivierte Versionen der Dokumentation können von dieser Seite [ werden](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
 >
->Informationen zu dieser Sitzung finden Sie unter *AEM Sites-Übersetzungsdokumente*, *Best Practices-Dokumentation für Übersetzungen* und *Verwalten mehrsprachiger Assets* in der AEM 6.3-Dokumentation.
+>Da es sich auf diese Sitzung bezieht, lesen Sie *AEM Sites-Übersetzungsdokumente*, *Dokumentation zu Best Practices für die Übersetzung* und *Verwalten mehrsprachiger Assets* in der Dokumentation zu AEM 6.3.

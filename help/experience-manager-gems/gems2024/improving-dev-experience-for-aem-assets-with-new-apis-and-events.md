@@ -1,6 +1,6 @@
 ---
 title: Verbessern des Entwicklererlebnisses für AEM Assets mit unseren neuen APIs und Ereignissen
-description: AEM Entwickler haben die Möglichkeit, die neu eingeführten Assets Open APIs und Cloud-native I/O Events zu erkunden, die wir anbieten. Diese Erweiterungen ermöglichen die Erstellung von Out-of-Process-AEM-Erweiterungen. In dieser Sitzung werden wir zeigen, wie diese Instrumente effektiv implementiert werden können. Diese Demonstration zeigt Entwicklern, wie sie ihre Workflows optimieren, ihre Entwicklungsgeschwindigkeit erhöhen und den laufenden Wartungsaufwand reduzieren können. Darüber hinaus werden wir uns mit praktischen Anwendungsfällen und Best Practices befassen und ein umfassendes Verständnis dafür bieten, wie diese Innovationen zur Optimierung von Entwicklungsprozessen genutzt werden können.
+description: AEM-Entwickler haben die Möglichkeit, die neu eingeführten Assets Open APIs und Cloud-nativen I/O-Ereignisse zu erkunden, die wir anbieten. Diese Erweiterungen ermöglichen die Erstellung von prozessexternen AEM-Erweiterungen. In dieser Sitzung werden wir zeigen, wie diese Tools effektiv implementiert werden können. In dieser Demonstration erfahren Entwickler, wie sie ihre Workflows optimieren, ihre Entwicklungsgeschwindigkeit erhöhen und den laufenden Wartungsaufwand reduzieren können. Darüber hinaus werden wir uns mit praktischen Anwendungsfällen und Best Practices befassen und ein umfassendes Verständnis darüber vermitteln, wie diese Innovationen zur Optimierung von Entwicklungsprozessen genutzt werden können.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 # Webinar-Datum: 19. Juni 2024
 
-Dieses Webinar wurde am Mittwoch, 19. Juni - 17:00 Uhr CEST / 8:00 Uhr PDT / 20:30 Uhr IST durchgeführt. Bitte sehen Sie sich die Aufnahme unten an.
+Dieses Webinar wurde am Mittwoch, 19. Juni um 17 Uhr MESZ/8 Uhr PDT/20.30 Uhr IST durchgeführt. Bitte sehen Sie sich die Aufnahme unten an.
 
 ## Verbessern des Entwicklererlebnisses für AEM Assets mit unseren neuen APIs und Ereignissen
 
-AEM Entwickler haben die Möglichkeit, die neu eingeführten Assets Open APIs und Cloud-native I/O Events zu erkunden, die wir anbieten. Diese Erweiterungen ermöglichen die Erstellung von Out-of-Process-AEM-Erweiterungen. In dieser Sitzung werden wir zeigen, wie diese Instrumente effektiv implementiert werden können. Diese Demonstration zeigt Entwicklern, wie sie ihre Workflows optimieren, ihre Entwicklungsgeschwindigkeit erhöhen und den laufenden Wartungsaufwand reduzieren können. Darüber hinaus werden wir uns mit praktischen Anwendungsfällen und Best Practices befassen und ein umfassendes Verständnis dafür bieten, wie diese Innovationen zur Optimierung von Entwicklungsprozessen genutzt werden können.
+AEM-Entwickler haben die Möglichkeit, die neu eingeführten Assets Open APIs und Cloud-nativen I/O-Ereignisse zu erkunden, die wir anbieten. Diese Erweiterungen ermöglichen die Erstellung von prozessexternen AEM-Erweiterungen. In dieser Sitzung werden wir zeigen, wie diese Tools effektiv implementiert werden können. In dieser Demonstration erfahren Entwickler, wie sie ihre Workflows optimieren, ihre Entwicklungsgeschwindigkeit erhöhen und den laufenden Wartungsaufwand reduzieren können. Darüber hinaus werden wir uns mit praktischen Anwendungsfällen und Best Practices befassen und ein umfassendes Verständnis darüber vermitteln, wie diese Innovationen zur Optimierung von Entwicklungsprozessen genutzt werden können.
 
 ## Moderatoren
 
-* Ramya Reddy, Informatiker, Adobe
+* Ramya Reddy, Informatikerin, Adobe
 
 ## Chat-Experten
 
@@ -40,6 +40,6 @@ AEM Entwickler haben die Möglichkeit, die neu eingeführten Assets Open APIs un
 
 >[!NOTE]
 > 
->* Besuchen Sie für sitzungsspezifische Community-Interaktionen in diesem Webinar auf Experience League den entsprechenden [kontextuellen Thread](https://adobe.ly/3UQXwFO).
+>* Informationen zu sitzungsspezifischen Community-Interaktionen in diesem Webinar auf Experience League finden Sie im entsprechenden [Kontextuellen Thread](https://adobe.ly/3UQXwFO).
 >
->* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen über unsere kommenden Webinare zu erhalten, registrieren Sie sich bitte unter [Adobe auf AEM User Group](https://aem-augs.adobe.com/).

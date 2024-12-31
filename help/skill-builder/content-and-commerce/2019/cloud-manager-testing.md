@@ -1,5 +1,5 @@
 ---
-title: Best Practices für Cloud Manager - September 2019
+title: Testen von Best Practices mit Cloud Manager - September 2019
 description: Beschreibung hier
 sub-product: cloud-manager
 feature-set: Experience Manager
@@ -14,13 +14,13 @@ ht-degree: 3%
 
 ---
 
-# Best Practices für Cloud Manager - September 2019
+# Testen von Best Practices mit Cloud Manager - September 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
 
-**Presenter**
+**Moderatoren**
 
-* Justin Edelson - Produktmanager
+* Justin Edelson - Product Manager
 * Patrick Kynaston - Customer Success Engineer
 
 ## Ressourcen

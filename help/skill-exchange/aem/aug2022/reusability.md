@@ -1,6 +1,6 @@
 ---
 title: Die Macht der Wiederverwendbarkeit
-description: Wir besprechen, wie Sie Erlebnisfragmente nutzen können, um die Wiederverwendung und Effizienz Ihres Ökosystems zu steigern.  Dies wirkt sich auf ROI und Fahrgeschwindigkeit aus.  Teilnehmer erhalten ein Verständnis dafür, wie Sie Erlebnisfragmente positionieren und nutzen können. Teilnehmer. erfahren Sie, wie Sie diese Funktion anwenden, um die digitale Erfahrung für Ihre Kunden zu optimieren.
+description: Wir besprechen, wie Experience Fragments verwendet werden können, um die Wiederverwendung und Effizienz in Ihrem gesamten Ökosystem zu steigern.  Dies wirkt sich auf den ROI und die Fahrgeschwindigkeit aus.  Die Teilnehmer erhalten ein Verständnis dafür, wie Experience Fragments positioniert und verwendet werden. Teilnehmer. Erfahren Sie, wie Sie mit dieser Funktion das digitale Erlebnis für Ihre Kunden schneller bereitstellen können.
 solution: Experience Manager
 role: User
 level: Beginner, Intermediate, Experienced
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Die Macht der Wiederverwendbarkeit
 
-Erfahren Sie, wie Sie Erlebnisfragmente nutzen können, um die Wiederverwendung und Effizienz Ihres Ökosystems zu steigern und so den ROI und die Geschwindigkeit zu beeinflussen. In dieser Sitzung erfahren Sie, wie Sie diese Funktion anwenden, um die digitale Erfahrung für Ihre Kunden zu optimieren und letztendlich eine Skalierung für Ihr Unternehmen zu erzielen.
+Im Folgenden wird erörtert, wie Experience Fragments zur Förderung der Wiederverwendung und Effizienz in Ihrem gesamten Ökosystem verwendet werden können, um den ROI zu beeinflussen und die Geschwindigkeit zu erhöhen. In dieser Sitzung erfahren Sie, wie Sie diese Funktion anwenden, um die Geschwindigkeit der Bereitstellung digitaler Erlebnisse für Ihre Kunden zu erhöhen und letztendlich eine Skalierung für Ihr Unternehmen zu erreichen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346387/?quality=12&learn=on)

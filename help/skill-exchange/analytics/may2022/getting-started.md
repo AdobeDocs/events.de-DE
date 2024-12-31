@@ -1,6 +1,6 @@
 ---
-title: Mai 2022 - Erste Schritte
-description: Grundlegende Benutzeroberfläche von Analytics und Beginn Ihres ersten Projekts in Analysis Workspace, Verwendung von Tabellen, Visualisierungen und Bedienfeldern
+title: Mai 2022 Erste Schritte
+description: Verwenden Sie die grundlegende Analytics-Benutzeroberfläche, starten Sie Ihr erstes Projekt in Analysis Workspace und verwenden Sie Tabellen, Visualisierungen und Bedienfelder
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Workspace Basics
@@ -20,6 +20,6 @@ ht-degree: 4%
 
 # Erste Schritte
 
-Machen Sie sich mit der grundlegenden Benutzeroberfläche von Analytics vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace. Während dieser Sitzung werden wir mit der Verwendung von Tabellen, Visualisierungen und Bedienfeldern beginnen.
+Machen Sie sich mit der grundlegenden Analytics-Benutzeroberfläche vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace. In dieser Sitzung beginnen wir mit der Verwendung von Tabellen, Visualisierungen und Bedienfeldern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343329/?quality=12&learn=on)

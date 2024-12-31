@@ -22,6 +22,6 @@ ht-degree: 69%
 
 Erfahren Sie mehr über das Headless-Erlebnis-Management mit den neuesten Inhaltsfragment-Verbesserungen in Adobe Experience Manager und die neue GraphQL-API für Headless-Content-Bereitstellung.
 
-*Thomas Morf* Schulungsberater/Adobe
+*Thomas Morf* Schulungsberater / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343816/?quality=12&learn=on)

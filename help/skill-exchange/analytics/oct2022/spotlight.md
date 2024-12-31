@@ -1,6 +1,6 @@
 ---
-title: Analytics Grow Experience Makers Spotlight
-description: Nehmen Sie an unserem Spotlight Andy Lunsford und Tyler Scott teil, zwei erfahrene Kunden und Adobe Analytics-Anwender. Jeder wird seinen besten Adobe Analytics-Tipp oder -Trick teilen. Auf ihre Sitzung folgt eine Gelegenheit, Fragen live zu stellen. Das willst du nicht verpassen.
+title: Analytics Grow Experience Makers im Blickpunkt
+description: Seien Sie dabei, wenn wir Andy Lunsford und Tyler Scott, zwei erfahrene Kunden und Adobe Analytics-Anwender, in den Blickpunkt rücken. Jeder teilt seinen besten Adobe Analytics-Tipp oder -Trick. Auf die Sitzung folgt die Möglichkeit, Fragen live zu stellen. Das willst du nicht verpassen.
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Wachstumspfad - Spotlight
+# Track erweitern - Spotlight
 
-Treten Sie uns bei, während wir Meghan R. Powers (CarMax) und Gitai Ben-Ammi (Concentrix), zwei erfahrene Kunden und Adobe Analytics-Benutzer im Blickpunkt haben. Jeder wird seinen besten Adobe Analytics-Tipp oder -Trick teilen.
+Seien Sie dabei, wenn wir Meghan R. Powers (CarMax) und Gitai Ben-Ammi (Concentrix), zwei erfahrene Kunden und Adobe Analytics-Anwender, in den Blickpunkt rücken. Jeder teilt seinen besten Adobe Analytics-Tipp oder -Trick.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411896/?quality=12&learn=on)

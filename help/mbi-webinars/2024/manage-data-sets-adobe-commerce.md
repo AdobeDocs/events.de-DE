@@ -1,6 +1,6 @@
 ---
 title: Verwalten von Datensätzen in Adobe Commerce Intelligence
-description: Entdecken Sie die robusten Funktionen des Commerce Intelligence Data Warehouse Managers direkt vom Produktteam. Erkunden Sie außerdem eine Auswahl an Integrationen, die für Ihre Lizenz verfügbar sind, sowie weitere, die zusätzlich abonniert werden können. Steigern Sie Ihr Verständnis über die grundlegende Berichtserstellung hinaus und machen Sie sich mit der Ableitung von Einblicken aus diesen Integrationen vertraut.
+description: Entdecken Sie die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse Managers direkt vom Produkt-Team. Erkunden Sie außerdem eine Auswahl von Integrationen, die für Ihre Lizenz verfügbar sind, und andere, die zusätzlich abonniert werden können. Erweitern Sie Ihr Verständnis über die grundlegende Berichterstellung hinaus und vertiefen Sie sich in die Gewinnung von Einblicken aus diesen Integrationen.
 solution: Commerce, Commerce Intelligence
 feature-set: Commerce Intelligence
 feature: Data Integration, Reports, Data Warehouse Manager
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 # Verwalten von Datensätzen in Adobe Commerce Intelligence
 
-Entdecken Sie die robusten Funktionen des Commerce Intelligence Data Warehouse Managers direkt vom Produktteam. Erkunden Sie außerdem eine Auswahl an Integrationen, die für Ihre Lizenz verfügbar sind, sowie weitere, die zusätzlich abonniert werden können.
+Entdecken Sie die leistungsstarken Funktionen des Commerce Intelligence Data Warehouse Managers direkt vom Produkt-Team. Erkunden Sie außerdem eine Auswahl von Integrationen, die für Ihre Lizenz verfügbar sind, und andere, die zusätzlich abonniert werden können.
 
-Steigern Sie Ihr Verständnis über die grundlegende Berichtserstellung hinaus und machen Sie sich mit der Ableitung von Einblicken aus diesen Integrationen vertraut.
+Erweitern Sie Ihr Verständnis über die grundlegende Berichterstellung hinaus und vertiefen Sie sich in die Gewinnung von Einblicken aus diesen Integrationen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427547/?learn=on)

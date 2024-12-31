@@ -1,6 +1,6 @@
 ---
-title: Mastering Ihres Adobe Analytics-Toolgurts
-description: Lernen Sie von einem Adobe-Experten kennen, der Sie durch Strategien und Anwendungsfälle führt, um Ihre Nutzung von Analysis Workspace zu fördern. In dieser Sitzung erfahren Sie, wie Sie Ihre Analyse auf die nächste Stufe bringen und Demos der neuesten Funktionen in Adobe Analytics anzeigen können, um Ihnen bei der Erstellung Ihrer Customer Journey-Story zu helfen.
+title: Meistern des Adobe Analytics-Werkzeuggürtels
+description: Erfahren Sie von einem Adobe-Experten, der Sie durch Strategien und Anwendungsfälle führt, um Ihre Nutzung von Analysis Workspace voranzutreiben. In dieser Sitzung erfahren Sie, wie Sie Ihre Analyse auf ein höheres Niveau bringen und Demos der neuesten Funktionen in Adobe Analytics sehen, die Sie bei der Erstellung Ihrer Kunden-Journey-Story unterstützen.
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Mastering Ihres Adobe Analytics-Toolgurts
+# Meistern des Adobe Analytics-Werkzeuggürtels
 
-Lernen Sie von einem Adobe-Experten kennen, der Sie durch Strategien und Anwendungsfälle führt, um Ihre Nutzung von Analysis Workspace zu fördern. In dieser Sitzung erfahren Sie, wie Sie Ihre Analyse auf die nächste Stufe bringen und Demos der neuesten Funktionen in Adobe Analytics anzeigen können, um Ihnen bei der Erstellung Ihrer Customer Journey-Story zu helfen.
+Erfahren Sie von einem Adobe-Experten, der Sie durch Strategien und Anwendungsfälle führt, um Ihre Nutzung von Analysis Workspace voranzutreiben. In dieser Sitzung erfahren Sie, wie Sie Ihre Analyse auf ein höheres Niveau bringen und Demos der neuesten Funktionen in Adobe Analytics sehen, die Sie bei der Erstellung Ihrer Kunden-Journey-Story unterstützen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411013/?quality=12&learn=on)

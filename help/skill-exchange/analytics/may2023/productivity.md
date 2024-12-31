@@ -1,6 +1,6 @@
 ---
-title: Steigerung Ihrer Produktivität - APAC Adobe Analytics Skill Exchange im Mai 2023
-description: Wir werden die Dinge zusammenfassen, indem wir verstehen, wie Adobe Analytics Website-Daten verfolgt, wie man sie speichert, teilt und zusammenarbeitet. Lassen Sie diese Sitzung mit Tipps, um Ihre Produktivität zu steigern und Ihren Lernprozess fortzusetzen Journey.
+title: Steigern Sie Ihre Produktivität - Mai 2023 APAC Adobe Analytics Skill Exchange
+description: Wir schließen alles ab, indem wir verstehen, wie Adobe Analytics Website-Daten nachverfolgt und wie Sie speichern, freigeben und zusammenarbeiten können. Verlassen Sie diese Sitzung mit Tipps, um Ihre Produktivität zu steigern und Ihren Lern-Journey fortzusetzen.
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Steigerung Ihrer Produktivität - APAC Adobe Analytics Skill Exchange im Mai 2023
+# Steigern Sie Ihre Produktivität - Mai 2023 APAC Adobe Analytics Skill Exchange
 
-Wir werden die Dinge zusammenfassen, indem wir verstehen, wie Adobe Analytics Website-Daten verfolgt, wie man sie speichert, teilt und zusammenarbeitet. Lassen Sie diese Sitzung mit Tipps, um Ihre Produktivität zu steigern und Ihren Lernprozess fortzusetzen Journey.
+Wir schließen alles ab, indem wir verstehen, wie Adobe Analytics Website-Daten nachverfolgt und wie Sie speichern, freigeben und zusammenarbeiten können. Verlassen Sie diese Sitzung mit Tipps, um Ihre Produktivität zu steigern und Ihren Lern-Journey fortzusetzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420945/?learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Cloud Manager 2022
-description: Dieses AEM GEMs-Webinar wird eine Präsentation und eine Demo zu folgenden Themen beinhalten:Erkunden Sie die im letzten Jahr veröffentlichten neuen Funktionen, ein Update zu den Hintergrund-Kulissen ... (Beschreibungen sollten zwischen 60 und 160 Zeichen umfassen)
+description: 'Dieses AEM GEMs-Webinar umfasst eine Präsentation und eine Demo zu folgenden Themen: Erkunden Sie die neuen Funktionen, die im letzten Jahr veröffentlicht wurden, ein Update zu… (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)'
 solution: Experience Manager
 feature-set: Experience Manager
 version: Cloud Service
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# Blick im Hintergrund - Cloud Manager 2022
+# Genauer betrachtet - Cloud Manager 2022
 
-*Dieses Webinar wurde vom 15. Juni bis 15 Uhr UTC durchgeführt. Bitte sehen Sie sich die Aufzeichnung unten an.*
+*Dieses Webinar wurde am 15. Juni um 15.00 Uhr UTC abgehalten. Bitte sehen Sie sich die Aufnahme unten an.*
 
 Sitzungsbeschreibung:
-Informieren Sie sich über die neuen Funktionen, die im letzten Jahr veröffentlicht wurden, über die neuesten Entwicklungen im Hintergrund und sehen Sie sich den Rest des Jahres 2022 an. Einzelheiten dazu, wie Cloud Manager im Hintergrund funktioniert und wie ein Kunde diese optimal nutzen kann.
+Erkunden Sie die im letzten Jahr veröffentlichten neuen Funktionen, ein Update zu den Entwicklungen hinter den Kulissen und einen Ausblick auf den Rest des Jahres 2022. Details darüber, wie Cloud Manager im Detail funktioniert und wie ein Kunde es optimal nutzen kann.
 
-Der Inhalt gilt sowohl für Adobe Experience Manager as a Cloud Service als auch für Experience Manager Managed Services, wobei der Schwerpunkt auf Cloud Service liegt. Es eignet sich sowohl für technische als auch für nicht-technische Teilnehmer. Die vorherige Exposition gegenüber Cloud Manager kann für den Kontext hilfreich sein, ist jedoch nicht erforderlich.
+Der Inhalt gilt sowohl für Adobe Experience Manager as a Cloud Service als auch für Experience Manager Managed Services, wobei der Cloud Service im Mittelpunkt steht. Es eignet sich für technische und nicht-technische Teilnehmer gleichermaßen. Eine vorherige Beschäftigung mit Cloud Manager kann für den Kontext hilfreich sein, ist aber nicht erforderlich.
 
 **Webinar-Aufzeichnung**
 
@@ -33,5 +33,5 @@ Der Inhalt gilt sowohl für Adobe Experience Manager as a Cloud Service als auch
 
 >[!NOTE]
 >
->* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf Experience League diesen [kontextuellen Thread](https://adobe.ly/3O0rdzd)
->* Um Webinare zu erhalten, registrieren Sie sich bei [Adobe AEM Benutzergruppe](https://aem-augs.adobe.com/).
+>* Informationen zu sitzungsspezifischen Community-Interaktionen auf Experience League finden Sie in diesem [Kontextuellen Thread](https://adobe.ly/3O0rdzd)
+>* Um automatische Benachrichtigungen zu Webinaren zu erhalten, registrieren Sie sich bitte bei der AEM-Benutzergruppe [Adobe](https://aem-augs.adobe.com/).

@@ -1,6 +1,6 @@
 ---
-title: Durchsuchen des Personalization-Skalierungscodes mit  [!DNL Marketo Engage]
-description: Behandelt Personalisierungsfunktionen, die in Adobe [!DNL Marketo Engage] verfügbar sind; Token, Segmentierungen, dynamische Inhalte und Snippets und Velocity-Skripterstellung.  Anwendungsbeispiele zur Velocity-Skripterstellung, einschließlich der Personalisierung von Inhalten mithilfe von Daten, die aus benutzerdefinierten Objekten stammen.
+title: Personalization im Maßstab mit Code knacken [!DNL Marketo Engage]
+description: Behandelt die in Adobe [!DNL Marketo Engage]; Token, Segmentierungen, Dynamic Content & Snippets und Velocity Scripting verfügbaren Personalisierungsfunktionen.  Anwendungsfälle für erweiterte Velocity-Skripterstellung einschließlich Personalisierung von Inhalten mit Daten aus benutzerdefinierten Objekten.
 solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# Durchsuchen des Personalization-Skalierungscodes mit [!DNL Marketo Engage]
+# Personalization mit [!DNL Marketo Engage] im Skalierungs-Code knacken
 
-Wenn Sie in der heutigen datengesteuerten Welt Ihre Marketing-Inhalte nicht personalisieren, verpassen Sie die Möglichkeit, eine Verbindung mit Ihrer Zielgruppe herzustellen. Treten Sie [!DNL Marketo Engage] Champions, Courtny Edwards-Jones und Darshil Shah bei, da sie ihre Weisheit teilen, um mithilfe der Personalisierungsfunktionen, die innerhalb von Adobe [!DNL Marketo Engage] verfügbar sind, die meiste Meilensteine zu erhalten.
+In der heutigen datengesteuerten Welt verpassen Sie, wenn Sie Ihre Marketing-Inhalte nicht personalisieren, eine Gelegenheit, sich mit Ihrer Audience zu vernetzen. Seien Sie dabei, wenn [!DNL Marketo Engage] Champions, Courtny Edwards-Jones und Darshil Shah ihre Erfahrungen teilen, um mithilfe der Personalisierungsfunktionen in Adobe [!DNL Marketo Engage] den größtmöglichen Nutzen aus Ihren Mileages zu ziehen.
 
-In diesem Webinar erfahren Sie:
+In diesem Webinar lernen Sie Folgendes:
 
 * Warum ist Personalisierung wichtig?
-* Für jede Personalisierung zu verwendende Anwendungsfälle und Techniken. Funktionen und Techniken, die in [!DNL Marketo Engage] verfügbar sind, erlernen wir die Verwendung von Token, Segmentierungen, dynamischen Inhalten und Snippets sowie Velocity-Skripterstellung.
-* Anwendungsbeispiele zur Velocity-Skripterstellung, einschließlich der Personalisierung von Inhalten mithilfe von Daten, die aus benutzerdefinierten Objekten stammen.
+* Wichtige Anwendungsfälle und Techniken für die Personalisierung, die jeweils anzuwenden sind. In [!DNL Marketo Engage] verfügbare Funktionen und Techniken lehren wir Sie: Token, Segmentierungen, dynamische Inhalte und Snippets und Velocity-Skripterstellung.
+* Anwendungsfälle für erweiterte Velocity-Skripterstellung einschließlich Personalisierung von Inhalten mit Daten aus benutzerdefinierten Objekten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419133/?learn=on)

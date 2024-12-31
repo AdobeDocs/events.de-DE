@@ -1,6 +1,6 @@
 ---
-title: Erstellen von stark personalisierten Marketing-E-Mails mit AEM
-description: E-Mail-Kommunikation ist eine der wichtigsten Möglichkeiten, um Ihre bestehenden und potenziellen neuen Kunden zu erreichen. Durch die effiziente Erstellung hochpersonalisierter E-Mails kann die Kundeninteraktion erheblich gesteigert werden. Wenn jemand an AEM (Adobe Experience Manager) denkt, denkt er oft an Websites und Webinhalte. Wussten Sie jedoch, dass AEM auch zum Erstellen von E-Mails verwendet werden kann?
+title: Erstellen hochgradig personalisierter Marketing-E-Mails mit AEM
+description: E-Mail-Kommunikation ist eine der wichtigsten Möglichkeiten, um Ihre bestehenden und potenziellen neuen Kunden zu erreichen. Die Fähigkeit, hochgradig personalisierte E-Mails effizient zu erstellen, kann die Kundeninteraktion erheblich steigern. Wenn jemand an AEM (Adobe Experience Manager) denkt, denkt er oft an Websites und Webinhalte. Wussten Sie aber, dass AEM auch zum Erstellen von E-Mails verwendet werden kann?
 feature-set: Experience Manager Sites
 feature: Core Components, Developing
 topic: Personalization
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Skill Exchange Event Aug 2023 - Experience Maker Spotlight - Erstellen von extrem personalisierten Marketing-E-Mails mit AEM
+# Skill Exchange Event August 2023 - Experience Maker Spotlight - Erstellen von hochgradig personalisierten Marketing-E-Mails mit AEM
 
-E-Mail-Kommunikation ist eine der wichtigsten Möglichkeiten, um Ihre bestehenden und potenziellen neuen Kunden zu erreichen. Durch die effiziente Erstellung hochpersonalisierter E-Mails kann die Kundeninteraktion erheblich gesteigert werden. Wenn jemand an AEM (Adobe Experience Manager) denkt, denkt er oft an Websites und Webinhalte. Wussten Sie jedoch, dass AEM auch zum Erstellen von E-Mails verwendet werden können?
+E-Mail-Kommunikation ist eine der wichtigsten Möglichkeiten, um Ihre bestehenden und potenziellen neuen Kunden zu erreichen. Die Fähigkeit, hochgradig personalisierte E-Mails effizient zu erstellen, kann die Kundeninteraktion erheblich steigern. Wenn jemand an AEM (Adobe Experience Manager) denkt, denkt er oft an Websites und Webinhalte. Wussten Sie aber, dass AEM auch zum Erstellen von E-Mails verwendet werden kann?
 
-In dieser Sitzung erfahren Sie, wie T. Rowe Price beim Erstellen AEM E-Mail-Kernkomponenten geholfen und diese genutzt hat, um skalierbare und hochpersonalisierte E-Mail-Vorlagen zu erstellen. Wir werden verschiedene Optionen untersuchen, die zur Integration dieser Kernkomponenten in E-Mail-Orchestrierungsdienste wie Adobe Campaign und Adobe Journey Optimizer verfügbar sind. Wir werden außerdem darüber sprechen, wie Sie die Leistungsfähigkeit von Inhaltsfragmenten und Experience Fragments nutzen können, um Inhalte für mehrere Kanäle zu erstellen. Und nicht zuletzt werden wir uns die neue und neu gestaltete Möglichkeit ansehen, E-Mail-Vorlagen zu personalisieren und zu segmentieren.
+In dieser Sitzung erfahren Sie, wie T. Rowe Price zur Erstellung von AEM-E-Mail-Kernkomponenten beigetragen und diese zum Erstellen skalierbarer und hochgradig personalisierter E-Mail-Vorlagen genutzt hat. Wir werden verschiedene Optionen erkunden, um diese Kernkomponenten in E-Mail-Orchestrierungs-Services wie Adobe Campaign und Adobe Journey Optimizer zu integrieren. Außerdem erfahren Sie, wie Sie die Leistungsfähigkeit von Inhaltsfragmenten und Experience Fragments nutzen können, um kanalübergreifende Inhalte zu erstellen. Zu guter Letzt sehen wir uns die neue und überarbeitete Methode zur Personalisierung und Segmentierung von E-Mail-Vorlagen an.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425982/?learn=on)

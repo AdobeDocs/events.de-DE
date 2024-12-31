@@ -1,31 +1,31 @@
 ---
-title: Webinar zum Workfront-Kompetenzzentrum einrichten
-description: In unserem On-Demand-Webinar erfahren Sie von Mattel- und Adobe Workfront-Experten über die Einrichtung eines Workfront-Exzellenzzentrums (CoE). Entdecken Sie wichtige Komponenten, Aktivierungen und schrittweise Schritte für eine nachhaltige und skalierbare Verwaltung, verbessern Sie die Benutzerakzeptanz und verbessern Sie die Produktnutzung und Datenintegrität.
+title: Einrichten eines Webinars zum Workfront-Kompetenzzentrum
+description: In unserem On-Demand-Webinar erfahren Sie von Mattel- und Adobe Workfront-Experten, wie Sie ein Workfront Center of Excellence (CoE) einrichten. Entdecken Sie wichtige Komponenten, Voraussetzungen und inkrementelle Schritte für eine nachhaltige und skalierbare Verwaltung, die Verbesserung der Benutzerakzeptanz und die Verbesserung der Produktnutzung und Datenintegrität.
 role: Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3715
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15824
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 02d88c39-f53c-4529-ab0e-aebf0f2dff42
+source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
+# Aufbau eines Workfront-Kompetenzzentrums
 
-# Einrichtung eines Workfront-Kompetenzzentrums
+Was genau ist ein Exzellenzzentrum und warum sollte man eines für Workfront einrichten?
 
-Was genau ist ein Exzellenzzentrum und warum sollten Sie ein Zentrum für Workfront erstellen?
+In diesem On-Demand-Webinar erläutern Neal Gardner, Leiter Marketing Asset Management Operations bei Mattel, und Samantha Bagley, Principal Customer Success Manager bei Adobe Workfront, die Bestandteile eines Workfront Center of Excellence (CoE).
 
-In diesem On-Demand-Webinar werden Neal Gardner, Manager, Marketing Asset Management Operations bei Mattel und Samantha Bagley, Principal Customer Success Manager bei Adobe Workfront, die Komponenten eines Workfront Center of Excellence (CoE) durchlaufen.
+Gemeinsam werden sie ihre Erfahrungen darüber austauschen, wie die Investition in die Zeit vor der Einrichtung eines CoE die laufende Administration von Workfront erleichtern wird, ganz zu schweigen von der langfristig nachhaltigeren und skalierbaren Verwaltung. Es ist auch nicht so schwer, wie man denkt! Sie umfassen Folgendes:
 
-Gemeinsam werden sie ihre Erfahrungen darüber austauschen, wie die Investition in die Einrichtung eines CoE die laufende Verwaltung von Workfront erleichtert, von nachhaltigeren und skalierbaren Maßnahmen ganz zu schweigen. Es ist auch nicht so schwer, wie du denkst! Sie betreffen:
-
-* Komponenten eines erfolgreichen Center of Excellence
-* Die &quot;Aktivierungen&quot;, nach denen Sie unterwegs suchen können
-* So beginnen und finden Sie schrittweise einen inkrementellen Erfolg
-* Wie die Einrichtung einer CoE bei Mattel zu einer erheblichen Verbesserung der Akzeptanz der Endbenutzer, der Gruppenadministratorinteraktion, der Breite der Produktnutzung und der Datenintegrität führte
+* Komponenten eines erfolgreichen Exzellenzzentrums
+* Die „Enabler“, nach denen Sie unterwegs suchen können
+* So können Sie schrittweise Erfolge erzielen
+* Wie die Einführung eines CoE bei Mattel zu einer deutlichen Verbesserung der Endbenutzer-Akzeptanz, der Interaktion mit Gruppenadmins, der Breite der Produktnutzung und der Datenintegrität führte
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431018/?learn=on)

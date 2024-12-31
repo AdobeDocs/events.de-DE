@@ -1,6 +1,6 @@
 ---
-title: Ein gezielter Ansatz für Kommunikation, Anforderungen und Tests in Agile SDLC
-description: Optimieren Sie die Entwicklung des E-Commerce mit den Agile SDLC-Verfahren, die Anforderungsanalyse, die Verwaltung von Rückständen, Projektplanung, Teststrategien und die Förderung einer transparenten, rechenschaftspflichtigen Kommunikation für eine erfolgreiche Ausführung umfassen.
+title: Ein fokussierter Ansatz für Kommunikation, Anforderungen und Tests in Agile SDLC
+description: Optimierung der E-Commerce-Entwicklung mit agilen SDLC-Verfahren, einschließlich Anforderungsanalyse, Rückstandsmanagement, Projektplanung, Teststrategien, und Förderung transparenter, verantwortlicher Kommunikation für eine erfolgreiche Ausführung.
 solution: Commerce
 feature-set: Commerce
 feature: Best Practices
@@ -20,16 +20,16 @@ ht-degree: 0%
 
 ---
 
-# Optimieren von E-Commerce: Ein fokussierter Ansatz für Kommunikation, Anforderungen und Tests in Agile SDLC
+# Optimierung von E-Commerce: Ein fokussierter Ansatz für Kommunikation, Anforderungen und Tests in Agile SDLC
 
-Treten Sie Adobe Commerce-Experte und -Fürsprecher, Tyler Granlund, bei, während er sich mit den SDLC-Verfahren (Agile Software Development Life Cycle) für die Optimierung des E-Commerce einsetzt.
+Seien Sie dabei, wenn Tyler Granlund, Experte und Fürsprecher von Adobe Commerce, durch Agile Software Development Life Cycle (SDLC)-Praktiken in die Optimierung des E-Commerce eintaucht.
 
-In diesem Webinar lernen Sie:
+In diesem Webinar lernen Sie Folgendes:
 
-* Anforderungsanalyse und -planung - Strategien zur Verwaltung von Fehler- und Funktionsrückständen sowie umfassende Projektplanung für umfangreiche Initiativen.
-* Testing Excellence - Tipps für Testverfahren, die in verschiedenen Phasen zur Entwicklung robuster und zuverlässiger E-Commerce-Websites gelten.
-* Kommunikation zwischen Interessengruppen und Teams - Tipps zur Förderung einer effektiven Kommunikation. Betonung von Transparenz und Rechenschaftspflicht als Schlüsselfaktoren für eine erfolgreiche Projektdurchführung.
+* Anforderungsanalyse und -planung : Strategien zur Verwaltung von Fehler- und Funktionsrückständen zusammen mit einer umfassenden Projektplanung für groß angelegte Initiativen.
+* Testen von Exzellenz - Tipps für Testverfahren, die in verschiedenen Phasen anwendbar sind und die Entwicklung robuster und zuverlässiger E-Commerce-Websites sicherstellen.
+* Stakeholder- und Team-Kommunikation - Tipps zur Förderung einer effektiven Kommunikation. Betonung von Transparenz und Rechenschaftspflicht als Schlüsselfaktoren für eine erfolgreiche Projektdurchführung.
 
-Sie können auf die Folien [hier](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"} zugreifen.
+Sie können auf die Folien zugreifen [hier](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427501/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur - Nachfragen und Antworten'
-description: Während des Webinars [!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur wurden von  [!DNL Adobe Analytics] Benutzern weltweit über 35 Fragen gestellt. Da unser [!DNL Adobe Analytics] Champion nicht alle Fragen beantworten konnte, haben wir sie wieder aufgenommen und eine Nachbesprechung über Fragen und Antworten veranstaltet, um Ihre Fragen zu beantworten und noch mehr Fachwissen zu teilen.
+title: '[!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur - Fragen und Antworten'
+description: Während des Webinars  [!DNL Adobe Analytics] Aufbau einer datengesteuerten Kultur“ wurden mehr als 35 Fragen von  [!DNL Adobe Analytics]  auf der ganzen Welt gestellt. Da unser  [!DNL Adobe Analytics] -Champion nicht in der Lage war, alle diese Fragen während der Live-Fragen und -Antworten zu beantworten, brachten wir sie zurück und veranstalteten eine Folge-Frage und -Sitzung, um IHRE Fragen zu beantworten und noch mehr Expertenwissen auszutauschen.
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-16T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur - Nachfragen und Antworten
+# [!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur - Fragen und Antworten
 
-Während des Webinars [!DNL Adobe Analytics] Erstellen einer datengesteuerten Kultur wurden mehr als 35 Fragen von [!DNL Adobe Analytics] Benutzern auf der ganzen Welt gestellt. Da unser [!DNL Adobe Analytics] Champion all diese Fragen während der Live-Q&amp;A nicht beantworten konnte, brachten wir sie zurück und veranstalteten eine Nachbesprechung über Fragen und Antworten, um IHRE Fragen zu beantworten, und teilten uns noch mehr Expertenwissen mit.
+Während des Webinars [!DNL Adobe Analytics] Building a Data Driven Culture wurden mehr als 35 Fragen von [!DNL Adobe Analytics] Benutzern auf der ganzen Welt gestellt. Da unser [!DNL Adobe Analytics] Champion nicht in der Lage war, alle diese Fragen während der Live-Fragen und -Antworten zu beantworten, brachten wir sie zurück und veranstalteten eine Folge-Frage und -Sitzung, um IHRE Fragen zu beantworten und noch mehr Expertenwissen auszutauschen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415614/?quality=12&learn=on)

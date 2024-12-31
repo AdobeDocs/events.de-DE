@@ -1,29 +1,29 @@
 ---
-title: Webinar zur Verbesserung des Benutzererlebnisses mit Oberflächendesign
-description: Entdecken Sie Best Practices zur Anpassung Ihrer Workfront-Oberfläche in unserem On-Demand-Webinar. Lernen Sie von JP Morgan Chase und Adobe Workfront-Experten über die Optimierung des Benutzererlebnisses mit Layoutvorlagen, Pins und Pinnwänden und die Erfassung von Benutzerfeedback kennen.
+title: Verbessern des Benutzererlebnisses mit dem Webinar zum Design von Benutzeroberflächen
+description: Lernen Sie in unserem On-Demand-Webinar Best Practices zur Anpassung Ihrer Workfront-Benutzeroberfläche kennen. Erfahren Sie von JP Morgan Chase und Adobe Workfront-Experten, wie Sie das Benutzererlebnis mit Layout-Vorlagen, Pins und Boards optimieren und Benutzer-Feedback einholen können.
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3629
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15821
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 49248573-9997-4dcd-b618-7af7264e7982
+source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
+# Verbessern des Benutzererlebnisses mit dem Design von Benutzeroberflächen
 
-# Verbessern des Benutzererlebnisses mit dem Design der Benutzeroberfläche
+Ist Ihre Workfront-Benutzeroberfläche so angepasst, dass sie Power-Benutzern UND Einzelpersonen, die sich nur gelegentlich anmelden (und allen dazwischen liegenden Personen), ein optimales Erlebnis bietet?
 
-Ist Ihre Workfront-Oberfläche angepasst, um ein optimales Erlebnis für Power-User UND Einzelanwender zu schaffen, die sich nur gelegentlich anmelden (und alle dazwischen)?
+In diesem On-Demand-Webinar erläutern Kurt Jones, Vice President, Marketing Delivery Lead bei JP Morgan Chase, und Jeremy Flores, Sr. Product Manager bei Adobe Workfront, wie die Anpassung der Workfront-Benutzeroberfläche für ein optimales Endbenutzererlebnis entscheidend ist. Sie decken Folgendes ab:
 
-In diesem On-Demand-Webinar teilen Kurt Jones, Vizepräsident, Marketing Delivery Lead bei JP Morgan Chase, und Jeremy Flores, Sr. Product Manager bei Adobe Workfront, wie die Anpassung der Workfront-Benutzeroberfläche für ein optimales Endbenutzererlebnis von entscheidender Bedeutung ist. Sie werden Folgendes abdecken:
-
-* Tipps zum Verständnis der Bedürfnisse Ihrer Benutzer und dazu, wie sie am liebsten arbeiten
-* Wie benutzerdefinierte Layoutvorlagen, Pins und Pinnwände das Benutzererlebnis sofort verbessern können
-* Möglichkeiten zur Erfassung und Implementierung von Benutzerfeedback
+* Tipps, wie Sie die Bedürfnisse Ihrer Benutzer verstehen und wie sie lieber arbeiten
+* Wie angepasste Layoutvorlagen, Pins und Boards das Benutzererlebnis sofort verbessern können
+* Möglichkeiten zum Erfassen und Implementieren von Benutzer-Feedback
 * Beispiele für einzigartige Erlebnisse, die JP Morgan Chase für verschiedene Gruppen und Endbenutzer erstellt hat
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431015/?learn=on)

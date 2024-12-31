@@ -1,6 +1,6 @@
 ---
 title: E-Mail-Zustellbarkeit mit Marketo Engage steigern
-description: In diesem Webinar erfahren Sie, welche Faktoren zur Zustellbarkeit von E-Mails beitragen.  Bewertung Ihres aktuellen Status mithilfe von E-Mail-Leistungsberichten, Personenleistungsberichten und intelligenten Listen.  Schritte, die unternommen werden müssen, um Risiken für die Zustellbarkeit Ihrer E-Mail zu reduzieren, einschließlich Verifizierungsprotokolle, Aufrechterhaltung der Datenbankqualität und Verwendung präziser Zielgruppenbestimmung.
+description: In diesem Webinar erfahren Sie, welche Faktoren zur Zustellbarkeit von E-Mails beitragen.  Ihren aktuellen Status mit E-Mail-Leistungsberichten, Leistungsberichten für Personen und Smart Lists bewerten.  Schritte zur Verringerung der Risiken für die Zustellbarkeit Ihrer E-Mails, einschließlich Verifizierungsprotokollen, Aufrechterhaltung der Datenbankqualität und präzises Targeting.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Smart Lists, Deliverability, Reporting
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 # E-Mail-Zustellbarkeit mit Marketo Engage steigern
 
-Nehmen Sie an diesem Webinar teil, in dem Sie von Ihren Kollegen lernen können, als Adobe Marketo Champion Beth Massura, teilt mit, wie sie Faktoren bewertet, die sich auf die E-Mail-Zustellbarkeit auswirken, auf rote Flags wirkt und mit integrierten Funktionen in Marketo Engage eine gute Zustellbarkeit gewährleistet.
+Nehmen Sie an diesem Webinar teil, in dem Sie von Gleich gesinnten lernen, als Adobe-Marketo-Expertin Beth Massura, erläutert, wie sie Faktoren bewertet, die die E-Mail-Zustellbarkeit beeinflussen, auf Warnzeichen reagiert und eine gute Zustellbarkeit mithilfe der integrierten Funktionen von Marketo Engage sicherstellt.
 
 In diesem Webinar erfahren Sie mehr über:
 
-* Welche Faktoren zur Zustellbarkeit von E-Mails beitragen.
-* Bewertung Ihres aktuellen Status mithilfe von E-Mail-Leistungsberichten, Personenleistungsberichten und intelligenten Listen.
-* Schritte, die unternommen werden müssen, um Risiken für die Zustellbarkeit Ihrer E-Mail zu reduzieren, einschließlich Verifizierungsprotokolle, Aufrechterhaltung der Datenbankqualität und Verwendung präziser Zielgruppenbestimmung.
+* Welche Faktoren tragen zur Zustellbarkeit von E-Mails bei?
+* Ihren aktuellen Status mit E-Mail-Leistungsberichten, Leistungsberichten für Personen und Smart Lists bewerten.
+* Schritte zur Verringerung der Risiken für die Zustellbarkeit Ihrer E-Mails, einschließlich Verifizierungsprotokollen, Aufrechterhaltung der Datenbankqualität und präzises Targeting.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423966/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Bausteinen - Eine ausführliche Betrachtung der Segmentierung
-description: Segmente in Adobe Analytics können sehr leistungsstark sein, doch mit dieser Leistung ergeben sich Komplexitäten und Nuancen, die die zurückgegebenen Daten drastisch verändern können. Selbst erfahrene Analysten können sich mit der Funktionsweise einiger Logiken verwechseln. Diese Sitzung wird einen kleinen Teil des Umfangs (sowohl auf Segment- als auch auf Container-Ebene) untersuchen, wie und warum die Logik vom "ist nicht gleich/enthält"abweicht und einige gängige falsche Konzepte entschlüsselt werden, mit denen Sie Ihre Segmente zur nächsten Ebene bringen können. Wichtige Erkenntnisse umfassen Überlegungen zum Segmentbereich - Die Macht der Ausschlusslogik - Auswahl der richtigen Konfiguration für den Erfolg
+title: Bausteine - ein detaillierter Überblick über die Segmentierung
+description: Segmente in Adobe Analytics können sehr leistungsstark sein, aber mit dieser Leistung kommen Komplexitäten und Nuancen, die drastisch ändern können, welche Daten zurückgegeben werden. Sogar erfahrene Analysten können sich mit der Funktionsweise mancher Logik verwechseln. In dieser Sitzung wird etwas über den Umfang nachgedacht (sowohl auf Segment- als auch auf Container-Ebene), wie und warum sich die Ausschlusslogik von „Ist nicht gleich/Enthält“ unterscheidet, und es werden einige gängige Missverständnisse entlarvt, die es Ihnen ermöglichen, Ihre Segmente auf die nächste Ebene zu bringen.Zu den wichtigsten Erkenntnissen gehören Überlegungen zum Segmentumfang- Die Macht der Ausschlusslogik- Auswahl der richtigen Konfiguration für den Erfolg
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -8,22 +8,22 @@ doc-type: Event
 duration: 2128
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15976
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+exl-id: 5f31017c-ff4f-4fe5-9a15-149161076140
+source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
+# Bausteine: Eine ausführliche Betrachtung der Segmentierung
 
-# Erstellen von Bausteinen: Eine ausführliche Betrachtung der Segmentierung
+Segmente in Adobe Analytics können sehr leistungsstark sein, aber mit dieser Leistung kommen Komplexitäten und Nuancen, die drastisch ändern können, welche Daten zurückgegeben werden. Sogar erfahrene Analysten können sich mit der Funktionsweise mancher Logik verwechseln. In dieser Sitzung werden einige Details zum Umfang erläutert (sowohl auf Segment- als auch auf Container-Ebene), wie und warum sich die Logik von „Ist nicht gleich/Enthält“ unterscheidet, und einige gängige Missverständnisse entlarvt, die es Ihnen ermöglichen, Ihre Segmente auf die nächste Ebene zu bringen.
 
-Segmente in Adobe Analytics können sehr leistungsstark sein, doch mit dieser Leistung ergeben sich Komplexitäten und Nuancen, die die zurückgegebenen Daten drastisch verändern können. Selbst erfahrene Analysten können sich mit der Funktionsweise einiger Logiken verwechseln. Diese Sitzung wird einen kleinen Einblick in den Umfang (sowohl auf Segment- als auch auf Container-Ebene) geben, wie und warum die Logik vom Ausschließen von &quot;ist nicht gleich/enthält&quot;abweicht und einige gängige falsche Vorstellungen entschlüsselt, mit denen Sie Ihre Segmente zur nächsten Ebene bringen können.
-
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
 * Überlegungen zum Segmentumfang
-* Die Stärke der Ausschlusslogik
-* Auswahl der richtigen Konfiguration für den erfolgreichen Test
+* Die Macht der Ausschlusslogik
+* Auswahl der richtigen Konfiguration für einen erfolgreichen Test
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432748/?learn=on)

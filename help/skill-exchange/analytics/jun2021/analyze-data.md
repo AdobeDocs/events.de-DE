@@ -1,6 +1,6 @@
 ---
 title: Analysieren der Daten
-description: Hier erhalten Sie Informationen zu grundlegenden Besuchermetriken und zum Hinzufügen von Dimensionen und Metriken. In dieser Sitzung werden wir mit der Verwendung von Datumsbereichen, Vergleichen und der Anwendung von Segmenten beginnen.
+description: Gewinnen Sie ein Verständnis für grundlegende Besuchermetriken und fügen Sie Dimensionen und Metriken hinzu. Während dieser Sitzung beginnen wir mit der Verwendung von Datumsbereichen, Vergleichen und der Anwendung von Segmenten.
 role: User
 level: Beginner
 solution: Analytics
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Analytics: Analysieren der Daten
+# Adobe Analytics: Daten analysieren
 
-Hier erhalten Sie Informationen zu grundlegenden Besuchermetriken und zum Hinzufügen von Dimensionen und Metriken. In dieser Sitzung werden wir mit der Verwendung von Datumsbereichen, Vergleichen und der Anwendung von Segmenten beginnen.
+Gewinnen Sie ein Verständnis für grundlegende Besuchermetriken und fügen Sie Dimensionen und Metriken hinzu. Während dieser Sitzung beginnen wir mit der Verwendung von Datumsbereichen, Vergleichen und der Anwendung von Segmenten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342528/?quality=12&learn=on)

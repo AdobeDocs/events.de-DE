@@ -1,6 +1,6 @@
 ---
-title: Experience Maker Spotlight
-description: Nutzen Sie die Vorteile von Visualisierungen mit Analysis Workspace.In der ersten Hälfte dieser Spotlight-Sitzung untersucht Judolene Techniken zur einfachen Erstellung leistungsstarker Datenvisualisierungen in Analysis Workspace. Erfahren Sie, wie Sie Ihre Arbeitsbereiche in klare und wirkungsvolle visuelle Datengeschichten umwandeln können, um die Entscheidungsfindung und das Handeln auf der Grundlage von Daten zu fördern.  1. Erfahren Sie, wie Sie Übersichtlichkeit vermeiden und Ihre Visualisierungen auf Auswirkungen beschriften können. 2. Erkunden Sie innovative Anwendungen der großartigen Visualisierungen in Analysis Workspace. 3. Gestalten Sie Ihre schönen Visualisierungen für mehr zugänglich. Wenn Sie sich in Adobe Analytics als BeginnerKatie aufmachen, werden Sie die Spotlight-Sitzung beenden, indem Sie einige kurze Tipps und Tricks besprechen, die Sie beim Einstieg in Ihre Adobe Analytics-Journey verwenden können. Sie können diese Tipps für Sie und Ihre Organisation anpassen. 1. Lernen Sie verschiedene Möglichkeiten zum Erstellen von Segmenten und Kennzahlen 2 kennen. Dynamische Dropdown-Filter und Beispiele für die Verwendung von 3. Schnelldatenzusammenfassungen, die Ihnen dabei helfen, Ihre Geschichte zu erzählen.
+title: Experience Makers im Blickpunkt
+description: Entfesseln Sie die Leistungsfähigkeit von Visualisierungen mit Analysis WorkspaceIn der ersten Hälfte dieser Spotlight-Sitzung wird Judolene Techniken zur einfachen Erstellung leistungsstarker Datenvisualisierungen in Analysis Workspace erkunden. Erfahren Sie, wie Sie Ihre Arbeitsbereiche in klare und wirkungsvolle visuelle Datengeschichten verwandeln können, um die Datenerfassung und -aktion zu fördern.  1. Erfahren Sie, wie Sie Ihre Visualisierungen so überladen und beschriften, dass sie Auswirkungen haben. 2. Erkunden Sie innovative Anwendungen der großartigen Visualisierungen in Analysis Workspace. 3. Machen Sie Ihre schönen Visualisierungen barrierefrei für mehr. Thriving in Adobe Analytics as a BeginnerKatie beendet die Spotlight-Session, indem sie einige Tipps und Tricks bespricht, die Sie verwenden können, wenn Sie mit Ihrer Adobe Analytics-Journey beginnen. Sie können diese Tipps an Ihre Anforderungen und die Ihres Unternehmens anpassen. 1. Lernen Sie verschiedene Möglichkeiten kennen, Segmente und Kennzahlen zu erstellen 2. Dynamische Dropdown-Filter und Beispiele für die Verwendung 3. Schnelle Datenzusammenfassungen, die Ihnen helfen, Ihre Geschichte zu erzählen.
 solution: Analytics
 role: User
 level: Beginner
@@ -8,34 +8,34 @@ doc-type: Event
 duration: 2812
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-15977
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+exl-id: 0afb81ca-f039-4831-b5c2-ccb92bc209e5
+source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
 
 ---
 
+# Experience Makers im Blickpunkt
 
-# Experience Maker Spotlight
+## Erste Hälfte - Entfesseln Sie die Leistungsfähigkeit von Visualisierungen mit Analysis Workspace
 
-## Erste Hälfte - Entfesseln Sie die Macht der Visualisierungen mit Analysis Workspace
+In der ersten Hälfte dieser Spotlight-Session wird Judolene Techniken zur einfachen Erstellung leistungsstarker Datenvisualisierungen in Analysis Workspace erkunden. Erfahren Sie, wie Sie Ihre Arbeitsbereiche in klare und wirkungsvolle visuelle Datengeschichten verwandeln können, um die Datenerfassung und -aktion zu fördern.
 
-In der ersten Hälfte dieser Spotlight-Sitzung wird Judolene Techniken zur einfachen Erstellung leistungsstarker Datenvisualisierungen in Analysis Workspace untersuchen. Erfahren Sie, wie Sie Ihre Arbeitsbereiche in klare und wirkungsvolle visuelle Datengeschichten umwandeln können, um die Entscheidungsfindung und das Handeln auf der Grundlage von Daten zu fördern.
+### Wichtige Erkenntnisse
 
-### Wichtige Schritte
-
-1. Erfahren Sie, wie Sie Übersichtlichkeit vermeiden und Ihre Visualisierungen auf Auswirkungen beschriften können.
+1. Erfahren Sie, wie Sie eine überflüssige Darstellung vermeiden und Ihre Visualisierungen so beschriften können, dass sie Auswirkungen haben.
 2. Entdecken Sie innovative Anwendungen der großartigen Visualisierungen in Analysis Workspace.
-3. Machen Sie Ihre schönen Visualisierungen für mehr zugänglich.
+3. Gestalten Sie Ihre schönen Visualisierungen barrierefrei, um mehr zu erhalten.
 
-## Zweite Hälfte - In Adobe Analytics als Anfänger tauchen
+## Zweite Hälfte - Erfolgreich in Adobe Analytics als Anfänger
 
-In der zweiten Hälfte wird Katie die Spotlight-Sitzung beenden, indem er einige kurze Tipps und Tricks bespricht, die Sie beim Starten Ihres Adobe Analytics-Journey verwenden können. Sie können diese Tipps für Sie und Ihre Organisation anpassen.
+In der zweiten Hälfte beendet Katie die Spotlight-Session, indem sie einige Tipps und Tricks bespricht, die Sie verwenden können, wenn Sie Ihre Adobe Analytics-Journey beginnen. Sie können diese Tipps an Ihre Anforderungen und die Ihres Unternehmens anpassen.
 
-### Wichtige Schritte
+### Wichtige Erkenntnisse
 
-1. Erfahren Sie mehr über die verschiedenen Möglichkeiten zum Erstellen von Segmenten und Messungen
+1. Lernen Sie verschiedene Möglichkeiten kennen, Segmente und Kennzahlen zu erstellen
 2. Dynamische Dropdown-Filter und Beispiele für die Verwendung
-3. Schnelldatenzusammenfassungen, die Ihnen dabei helfen, Ihre Geschichte zu erzählen.
+3. Schnelle Datenzusammenfassungen, die Ihnen helfen, Ihre Geschichte zu erzählen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432749/?learn=on)

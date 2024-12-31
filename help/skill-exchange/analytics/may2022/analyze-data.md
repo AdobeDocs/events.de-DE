@@ -1,6 +1,6 @@
 ---
 title: Analysieren der Daten
-description: Hier erhalten Sie Informationen zu grundlegenden Besuchermetriken und zum Hinzufügen von Dimensionen und Metriken.
+description: Gewinnen Sie ein Verständnis für grundlegende Besuchermetriken und fügen Sie Dimensionen und Metriken hinzu.
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Visualizations, Segmentation, Metrics
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Analysieren der Daten
 
-Hier erhalten Sie Informationen zu grundlegenden Besuchermetriken und zum Hinzufügen von Dimensionen und Metriken. In dieser Sitzung werden wir mit der Verwendung von Datumsbereichen, Vergleichen und der Anwendung von Segmenten beginnen.
+Gewinnen Sie ein Verständnis für grundlegende Besuchermetriken und fügen Sie Dimensionen und Metriken hinzu. Während dieser Sitzung beginnen wir mit der Verwendung von Datumsbereichen, Vergleichen und der Anwendung von Segmenten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343330/?quality=12&learn=on)

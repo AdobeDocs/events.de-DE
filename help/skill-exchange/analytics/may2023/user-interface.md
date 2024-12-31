@@ -1,6 +1,6 @@
 ---
-title: Grundlagen der Benutzeroberfläche - APAC Adobe Analytics Skill Exchange im Mai 2023
-description: Machen Sie sich mit der grundlegenden Benutzeroberfläche von Analytics vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace. Während dieser Sitzung werden wir mit der Verwendung von Tabellen, Visualisierungen und Bedienfeldern beginnen.
+title: Grundlagen zur Benutzeroberfläche - Mai 2023 APAC Adobe Analytics Skill Exchange
+description: Machen Sie sich mit der grundlegenden Analytics-Benutzeroberfläche vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace. In dieser Sitzung beginnen wir mit der Verwendung von Tabellen, Visualisierungen und Bedienfeldern.
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Grundlagen der Benutzeroberfläche - APAC Adobe Analytics Skill Exchange im Mai 2023
+# Grundlagen zur Benutzeroberfläche - Mai 2023 APAC Adobe Analytics Skill Exchange
 
-Machen Sie sich mit der grundlegenden Benutzeroberfläche von Analytics vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace. Während dieser Sitzung werden wir mit der Verwendung von Tabellen, Visualisierungen und Bedienfeldern beginnen.
+Machen Sie sich mit der grundlegenden Analytics-Benutzeroberfläche vertraut und starten Sie Ihr erstes Projekt in Analysis Workspace. In dieser Sitzung beginnen wir mit der Verwendung von Tabellen, Visualisierungen und Bedienfeldern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420943/?learn=on)

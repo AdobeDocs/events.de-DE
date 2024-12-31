@@ -1,6 +1,6 @@
 ---
-title: Anwendungsfall und Implementierung von AEM Headless in Verwendung
-description: Sitzungsmeldung
+title: Kunden-Anwendungsfall und Implementierung von AEM Headless in Verwendung
+description: Sitzungsankündigung
 solution: Experience Manager
 feature-set: Experience Manager
 version: 6.5
@@ -17,36 +17,36 @@ ht-degree: 0%
 
 ---
 
-# AEM GEMs-Funktion - Anwendungsfall für Kunden und Implementierung von AEM Headless in Verwendung
+# AEM GEMs-Funktion - Kunden-Anwendungsfall und Implementierung von AEM Headless in Verwendung
 
-*Dieses Webinar wurde am **Mittwoch, 12. Oktober - 15 Uhr UTC**durchgeführt. Die Aufzeichnung ist unten verfügbar.*
+*Dieses Webinar wurde am **Mittwoch, 12. Oktober um 3 Uhr UTC)**. Die Aufzeichnung ist unten verfügbar.*
 
-Diese außergewöhnliche AEM-GEMs-Sitzung beinhaltet zwei Sprecher, die AEM als Kunden arbeiten. Die Sitzung wird in zwei Hälften aufgeteilt:
+Diese außergewöhnliche AEM GEMs-Sitzung bietet zwei Lautsprecher, die AEM als Kunden betreiben. Die Sitzung wird wie folgt in zwei Hälften aufgeteilt:
 
 ## Teil 1: AEM als Headless-CMS Wo/Wann/Warum?
 
-Moderator: Vengadesh Shanmugavelu - Technischer Architekt, Katar Airways
+Vortragender: Vengadesh Shanmugavelu - Technischer Architekt, Qatar Airways
 
 **Sitzungsbeschreibung:**
 Es gibt viele Möglichkeiten, Headless-CMS über AEM zu implementieren.
-In dieser Sitzung werden wir Folgendes behandeln:
+In dieser Sitzung behandeln wir Folgendes:
 
-* Inhaltsdienste über Exporter/Servlets
+* Content Services über Exporter/Servlets
 * Inhaltsfragment über Asset-API (Demo)
-* Inhaltsfragment per Diagramm (Demo)
-* Einige Echtzeitanwendungsfälle rund um die Verwendung von Inhaltsfragmenten und deren Ansätzen
-* SPA Editor-Lernprozesse (Lösungsansätze zur Auswahl) (Demo)
+* Inhaltsfragment über GraphQL (Demo)
+* Einige Echtzeitanwendungsfälle rund um die Verwendung von Inhaltsfragmenten und ihre Ansätze
+* Lerninhalte des SPA-Editors (Lösungsansatz zur Auswahlentscheidung) (Demo)
 
-## Teil 2: Bereitstellung von Headless-Inhalten über die GraphQL-API und Inhaltsfragmente
+## Teil 2: Bereitstellen von Headless-Inhalten über die GraphQL-API und Inhaltsfragmente
 
-Presenter: Debal Das - Senior System Analyst, IBM
+Referent: Debal Das - Senior System Analyst, IBM
 
 **Sitzungsbeschreibung:**
-In dieser Sitzung werden wir die Verwendung von Inhaltsfragmenten in GraphQL (zusätzlich zu den bereits vorhandenen JSON-APIs) behandeln.
+In dieser Sitzung behandeln wir die Verwendung von Inhaltsfragmenten in GraphQL (zusätzlich zu den bereits vorhandenen JSON-APIs).
 
-Grundsätzlich ähnelt GraphQL einer SQL-Datenbankabfrage, mit der Ausnahme, dass eine API für die Abfrage und nicht für eine Datenbank verwendet wird.
+Grundsätzlich ähnelt GraphQL einer SQL-Datenbankabfrage, mit dem Unterschied, dass für die Abfrage eine API und keine Datenbank verwendet wird.
 
-Dadurch entfällt die Anforderung, dass die API viele Endpunkte bereitstellen muss, die verschiedene Volumina oder Datengruppen für verschiedene Kunden bereitstellen, und es verschiedenen Kunden ermöglicht, die API nach ihren eigenen Bedürfnissen abzufragen.
+Dadurch entfällt die Anforderung, dass die API viele Endpunkte bereitstellen muss, die verschiedene Volumina oder Datengruppen für verschiedene Kunden bereitstellen. Außerdem wird es ermöglicht, dass verschiedene Kunden die API nach ihren eigenen Anforderungen abfragen können.
 
 **Sitzungsaufzeichnung**
 
@@ -54,5 +54,5 @@ Dadurch entfällt die Anforderung, dass die API viele Endpunkte bereitstellen mu
 
 >[!NOTE]
 >
->* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf Experience League diesen [kontextuellen Thread](https://adobe.ly/3r6P4nr)
->* Um Webinare zu erhalten, registrieren Sie sich bei [Adobe AEM Benutzergruppe](https://aem-augs.adobe.com/).
+>* Informationen zu sitzungsspezifischen Community-Interaktionen auf Experience League finden Sie in diesem [Kontextuellen Thread](https://adobe.ly/3r6P4nr)
+>* Um automatische Benachrichtigungen zu Webinaren zu erhalten, registrieren Sie sich bitte bei der AEM-Benutzergruppe [Adobe](https://aem-augs.adobe.com/).

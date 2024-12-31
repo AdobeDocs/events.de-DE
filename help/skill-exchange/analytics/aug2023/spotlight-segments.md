@@ -1,6 +1,6 @@
 ---
-title: August 2023 Lernpfad - Experience Makers Spotlight
-description: Alle Informationen zu Segmenten - So können Sie Ihre Daten für Insights sortieren und zerlegen
+title: Aug 2023 Track Lernen - Erlebnismacher im Blickpunkt
+description: Alles über Segmente - So schneiden Sie Ihre Daten für Einblicke aus
 feature: Segmentation
 role: User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Aug. 2023: Kompetenzaustausch - Wachstumskurs - Experience Makers Spotlight
+# Skill Exchange Event Aug 2023 - Auf Kurs wachsen - Experience Makers im Blickpunkt
 
-Alle Informationen zu Segmenten - So können Sie Ihre Daten für Insights sortieren und zerlegen
+Alles über Segmente - So schneiden Sie Ihre Daten für Einblicke aus
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)

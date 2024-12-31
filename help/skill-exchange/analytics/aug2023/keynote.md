@@ -1,6 +1,6 @@
 ---
-title: Anfang August 2023 - Keynote zur Eröffnung
-description: Sind Sie neugierig darauf, wohin Adobe Analytics führt? Ben Gaines, Director of Product Management für Customer Journey Analytics und Adobe Analytics, erzählt Ihnen ein wenig über das, was zu erwarten ist.
+title: Eröffnungs-Keynote August 2023
+description: Möchten Sie wissen, wohin Adobe Analytics sich bewegt? Ben Gaines, Director of Product Management für Customer Journey Analytics und Adobe Analytics, wird Ihnen etwas darüber erzählen, was Sie erwarten können.
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Skill Exchange-Veranstaltung Aug. 2023 - Eröffnung der Keynote
+# Skill Exchange Event Aug 2023 - Eröffnungs-Keynote
 
-Sind Sie neugierig darauf, wohin Adobe Analytics führt? Ben Gaines, Director of Product Management für Customer Journey Analytics und Adobe Analytics, erzählt Ihnen ein wenig über das, was zu erwarten ist.
+Möchten Sie wissen, wohin Adobe Analytics sich bewegt? Ben Gaines, Director of Product Management für Customer Journey Analytics und Adobe Analytics, wird Ihnen etwas darüber erzählen, was Sie erwarten können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425984/?learn=on)

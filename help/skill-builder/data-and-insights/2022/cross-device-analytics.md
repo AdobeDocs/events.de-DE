@@ -1,6 +1,6 @@
 ---
-title: Alles, was Sie über geräteübergreifende Analysen und Customer Journey Analytics wissen müssen
-description: Hier erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Analytics und Customer Journey Analytics das Benutzerverhalten analysieren können, das Browser/Geräte/Apps und mehrere Kanäle durchquert.
+title: Alles, was Sie über geräteübergreifende Analyse und Customer Journey Analytics wissen müssen
+description: Hier erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Analytics und Customer Journey Analytics das Benutzerverhalten analysieren können, das Browser/Geräte/Apps und mehrere Kanäle durchläuft.
 solution: Customer Journey Analytics, Analytics
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Alles, was Sie über geräteübergreifende Analysen und Customer Journey Analytics wissen müssen
+# Alles, was Sie über geräteübergreifende Analyse und Customer Journey Analytics wissen müssen
 
-Hier erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Analytics und Customer Journey Analytics das Benutzerverhalten analysieren können, das Browser/Geräte/Apps und mehrere Kanäle durchquert.
+Hier erhalten Sie ein besseres Verständnis dafür, wie Sie mit Adobe Analytics und Customer Journey Analytics das Benutzerverhalten analysieren können, das Browser/Geräte/Apps und mehrere Kanäle durchläuft.
 
-*Sonia Charles* Solutions Consultant, Data &amp; Insights/Adobe
+*Sonia Charles* Solutions Consultant, Data &amp; Insights / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343820/?quality=12&learn=on)

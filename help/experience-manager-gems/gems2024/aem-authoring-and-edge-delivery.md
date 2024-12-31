@@ -1,6 +1,6 @@
 ---
-title: Erste Schritte mit AEM Authoring und Edge Delivery Services
-description: Dieses AEM GEMs-Webinar enthält eine Präsentation und eine Demo, in der Sie erfahren, wie AEM Authoring mit Edge Delivery Services funktioniert. Wir führen Sie durch den Prozess der Erstellung eines neuen Edge Delivery Services-Projekts, das für AEM Authoring mit AEM Cloud Service als Inhaltsquelle aktiviert ist. Wir zeigen Ihnen, wie Sie von dem schlanken und agilen Entwicklungs-Erlebnis profitieren können, das mit Edge Delivery Services geliefert wird, aber für den Anwender ein WYSIWYG-Authoring-Erlebnis erhalten.
+title: Erste Schritte mit AEM-Authoring und -Edge Delivery Services
+description: Dieses AEM GEMs-Webinar beinhaltet eine Präsentation und eine Demo, die Ihnen zeigen, wie AEM-Authoring mit Edge Delivery Services zusammenarbeitet. Wir führen Sie durch den Prozess der Erstellung eines neuen Edge Delivery Services-Projekts, das für das AEM-Authoring mit AEM Cloud Service als Inhaltsquelle aktiviert ist, und wir zeigen Ihnen, wie Sie von der schlanken und agilen Entwicklungserfahrung profitieren können, die mit Edge Delivery Services einhergeht, aber ein WYSIWYG-Authoring-Erlebnis für Anwender beibehalten.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 # Webinar-Datum: 13. März 2024
 
-Dieses Webinar ist abgeschlossen - sehen Sie sich bitte die Aufzeichnung unten an.
+Dieses Webinar wurde abgeschlossen. Bitte sehen Sie sich die Aufzeichnung unten an.
 
-## Erste Schritte mit AEM Authoring und Edge Delivery Services
+## Erste Schritte mit AEM-Authoring und -Edge Delivery Services
 
-Dieses AEM GEMs-Webinar enthält eine Präsentation und eine Demo, in der Sie erfahren, wie AEM Authoring mit Edge Delivery Services funktioniert. Wir führen Sie durch den Prozess der Erstellung eines neuen Edge Delivery Services-Projekts, das für AEM Authoring mit AEM Cloud Service als Inhaltsquelle aktiviert ist. Wir zeigen Ihnen, wie Sie von dem schlanken und agilen Entwicklungs-Erlebnis profitieren können, das mit Edge Delivery Services geliefert wird, aber für den Anwender ein WYSIWYG-Authoring-Erlebnis erhalten.
+Dieses AEM GEMs-Webinar beinhaltet eine Präsentation und eine Demo, die Ihnen zeigen, wie AEM-Authoring mit Edge Delivery Services zusammenarbeitet. Wir führen Sie durch den Prozess der Erstellung eines neuen Edge Delivery Services-Projekts, das für das AEM-Authoring mit AEM Cloud Service als Inhaltsquelle aktiviert ist, und wir zeigen Ihnen, wie Sie von der schlanken und agilen Entwicklungserfahrung profitieren können, die mit Edge Delivery Services einhergeht, aber ein WYSIWYG-Authoring-Erlebnis für Anwender beibehalten.
 
 ## Moderatoren
 
@@ -38,6 +38,6 @@ Dieses AEM GEMs-Webinar enthält eine Präsentation und eine Demo, in der Sie er
 
 >[!NOTE]
 > 
->* Besuchen Sie für sitzungsspezifische Community-Interaktionen auf Experience League unseren [kontextuellen Thread](https://adobe.ly/3uIj6D7).
+>* Informationen zu sitzungsspezifischen Community-Interaktionen auf Experience League finden Sie in unserem [kontextuellen Thread](https://adobe.ly/3uIj6D7).
 >
->* Um Benachrichtigungen über bevorstehende Webinare zu erhalten, registrieren Sie sich bitte bei [AEM Adobe. Benutzergruppe](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen über unsere kommenden Webinare zu erhalten, registrieren Sie sich bitte unter [Adobe auf AEM User Group](https://aem-augs.adobe.com/).

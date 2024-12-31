@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Adobe Analytics] Dokumentationsaufgabe möglich'
-description: In dieser Sitzung erfahren Sie, warum die Dokumentation für Erfolg, Best Practices, Tipps und Tricks sowie verschiedene Ansätze zur Dokumentation Ihrer [!DNL Adobe Analytics] Instanz von entscheidender Bedeutung ist. Juni 2022
+title: '[!DNL Adobe Analytics] Dokumentationsauftrag möglich'
+description: In dieser Sitzung erfahren Sie, warum die Dokumentation für den Erfolg von entscheidender Bedeutung ist sowie über Best Practices, Tipps und Tricks und verschiedene Ansätze zur Dokumentation Ihrer  [!DNL Adobe Analytics] . Juni 2022
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 3%
 
 ---
 
-# [!DNL Adobe Analytics] Dokumentationsaufgabe möglich
+# [!DNL Adobe Analytics] Dokumentationsauftrag möglich
 
-In dieser Sitzung erfahren Sie, warum die Dokumentation für Erfolg, Best Practices, Tipps und Tricks sowie verschiedene Ansätze zur Dokumentation Ihrer [!DNL Adobe Analytics]-Instanz von entscheidender Bedeutung ist.
+In dieser Sitzung erfahren Sie, warum die Dokumentation für den Erfolg von entscheidender Bedeutung ist sowie über Best Practices, Tipps und Tricks und verschiedene Ansätze zur Dokumentation Ihrer [!DNL Adobe Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414194/?quality=12&learn=on)

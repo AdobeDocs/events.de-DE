@@ -1,6 +1,6 @@
 ---
 title: Einführung in ContextHub in AEM 6.4
-description: Die Präsentation behandelt die allgemeine ContextHub-Architektur mit einigen tieferen Einblicken in verfügbare generische Stores, Persistenzschichten, Eventing und Debugging. Erfahren Sie mehr über Ähnlichkeiten und Funktionsparität zwischen ClientContext und ContextHub, um die Migration zu ContextHub zu erleichtern.
+description: Die Präsentation behandelt die allgemeine ContextHub-Architektur mit einigen tieferen Einblicken in verfügbare generische Stores, Persistenzschichten, Eventing und Debugging. Erfahren Sie mehr über die Ähnlichkeiten und Funktionsgleichheit zwischen ClientContext und ContextHub, um die Migration zu ContextHub zu erleichtern.
 discoiquuid: e714ec87-355c-4373-b547-98d544d73c9e
 targetaudience: target-audience advanced
 exl-id: a415f41b-03b9-4a41-8b70-5d81ac8fc456
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 # Einführung in ContextHub in AEM 6.4{#introduction-to-contexthub-in-aem}
 
-Die Präsentation behandelt die allgemeine ContextHub-Architektur mit einigen tieferen Einblicken in verfügbare generische Stores, Persistenzschichten, Eventing und Debugging. Erfahren Sie mehr über Ähnlichkeiten und Funktionsparität zwischen ClientContext und ContextHub, um die Migration zu ContextHub zu erleichtern.
+Die Präsentation behandelt die allgemeine ContextHub-Architektur mit einigen tieferen Einblicken in verfügbare generische Stores, Persistenzschichten, Eventing und Debugging. Erfahren Sie mehr über die Ähnlichkeiten und Funktionsgleichheit zwischen ClientContext und ContextHub, um die Migration zu ContextHub zu erleichtern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23839/?quality=9)
 
-*Zugestellt am 19.09.2018*
+*Veröffentlicht am 09/19/2018*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
-Artur Kudlacz, Entwickler, Adobe
+Artur Kudlacz, Developer, Adobe
 
-Datum: 19.09.2018
+Datum: 09/19/2018
 
 [Datei abrufen](assets/gems-session-introduction-to-contexthub-in-aem-64.pdf)
 

@@ -1,6 +1,6 @@
 ---
-title: Nutzung von author-publish für AEM Screens
-description: Verschaffen Sie sich ein vollständiges Produktions-Setup für AEM Screens und lernen Sie alle erforderlichen Schritte zum Veröffentlichen von Inhalten in Screens / Digital Signage Player kennen.
+title: Nutzung von „author-publish“ für AEM Screens
+description: Hier erhalten Sie ein vollständiges Produktions-Setup für AEM Screens und lernen alle erforderlichen Schritte zur Veröffentlichung von Inhalten auf Screens/Digital Signage-Player kennen.
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 27bf6d01-d720-41a1-87b2-7d1d6d29a10c
@@ -12,17 +12,17 @@ ht-degree: 0%
 
 ---
 
-# Nutzung von author-publish für AEM Screens{#leveraging-author-publish-for-aem-screens}
+# Nutzung von „author-publish“ für AEM Screens{#leveraging-author-publish-for-aem-screens}
 
-In dieser Gems-Sitzung führen wir ein vollständiges Produktions-Setup für AEM Screens durch und erläutern alle erforderlichen Schritte zum Veröffentlichen von Inhalten in Screens / Digital Signage Player. Erfahren Sie, wie Sie die Autoren- und Veröffentlichungstopologie für AEM Screens nutzen können. Sehen Sie sich die Schritte an, die ein Autor ausführen muss, um Inhaltsaktualisierungen zu veröffentlichen und sie an die Geräte zu verteilen. Außerdem werden wir uns die Architektur, die diesem Fluss zugrunde liegt, näher ansehen. Darüber hinaus erfahren Sie mehr über die Konfiguration, die für den Veröffentlichungscluster, die Replikation und die Geräte erforderlich ist.
+In dieser Gems-Sitzung werden wir ein vollständiges Produktions-Setup für AEM Screens durchführen und alle erforderlichen Schritte für die Veröffentlichung von Inhalten auf Screens/Digital Signage-Player erläutern. Erfahren Sie, wie Sie die Author-Publish-Topologie für AEM Screens nutzen. Vorschau der Schritte, die ein Autor durchführen muss, um Inhaltsaktualisierungen zu veröffentlichen und an die Geräte zu verteilen. Darüber hinaus werden wir uns die Architektur hinter diesem Fluss genauer ansehen. Darüber hinaus erfahren Sie, welche Konfiguration für den Veröffentlichungs-Cluster, die Replikation und die Geräte erforderlich ist.
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
-Iulia Grumaz, Informatikerin, Softwareentwicklung, Adobe
+Iulia Grumaz, Informatikerin, Software Development, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/28706/?quality=9)
 
-*Ausgestellt am 4. September 2019*
+*Veröffentlicht am 04.09.2019*
 
 Präsentation
 

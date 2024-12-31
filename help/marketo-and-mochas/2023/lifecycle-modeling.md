@@ -1,6 +1,6 @@
 ---
-title: Customer Journey Management - Lebenszyklusmodellierung
-description: Erfahren Sie, wie Transparenz die Marketing-Glaubwürdigkeit bei Cynthia Chang und James Leedom erhöht, wenn sie Strategien für Lebenszykluseinrichtung, Journey-Segmentierung gemeinsam nutzen, und zeigen Sie Marketo Engage-Lifecycle-Modelle, Reporting- und Analysetools.
+title: Kunden-Journey-Management - Lebenszyklusmodellierung
+description: Erfahren Sie, wie Transparenz bei Cynthia Chang und James Leedom für Glaubwürdigkeit im Marketing sorgt, wenn sie Strategien für die Einrichtung des Lebenszyklus, das Journey-Segmentieren und Lebenszyklusmodellierer, Berichterstellung und Analysetools für die Marketo Engage-Zone demonstrieren.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ---
 
-# Customer Journey Management: Lebenszyklusmodellierung
+# Kunden-Journey-Management: Lebenszyklusmodellierung
 
-Transparenz ist in letzter Zeit zu einem der wertvollsten Attribute einer erfolgreichen Marketingstrategie geworden. Während dieser Sitzung beschäftigen wir uns mit allen wichtigen Fragen, die für die Schaffung von Glaubwürdigkeit und das Wissen darüber, wann und welche Hebel zu ziehen sind. Adobe, ein eigener Marketing Automation Business Advisor, Cynthia Chang und Marketo Customer Technical Advisor, James Leedom helfen Ihnen bei der Vorbereitung dieser Fragen:
+Transparenz ist in letzter Zeit zu einem der wertvollsten Attribute einer erfolgreichen Marketing-Strategie geworden. In dieser Sitzung behandeln wir alle entscheidenden Fragen zum Aufbau von Glaubwürdigkeit und wissen, wann und welche Hebel man anziehen sollte. Adobe&#39;s eigener Marketing Automation Business Advisor, Cynthia Chang und Marketo Customer Technical Advisor, James Leedom, helfen Ihnen bei folgenden Fragen:
 
-* In welchem Stadium der Journey ist der Lead derzeit?
-* Wie hoch ist unsere Konversionsrate von Phase zu Phase im Trichter?
-* Wie schnell bewegen sich Leads durch die Journey?
-* Wie viele MQLs brauchen wir, um X Dollar in die Pipeline zu bekommen?
+* In welchem Stadium befindet sich der Lead der kaufenden Journey?
+* Wie hoch ist die Konversionsrate von Stufe zu Stufe im Trichter?
+* Wie schnell durchlaufen Leads den Kunden-Journey?
+* Wie viele MQLs benötigen wir, um X Dollar in die Pipeline zu bekommen?
 
-Sie teilen Strategien, um Ihren Lebenszyklus von Anfang an korrekt einzurichten und Personen in der kaufenden Journey richtig zu segmentieren. Cynthia und James führen auch eine Produktdemonstration des Lebenszyklusmodells durch und teilen einige der verfügbaren Reports &amp; Analysen mit, um die Effektivität Ihrer Kundensegmente zu analysieren.
+Sie teilen Strategien, um Ihren Lebenszyklus von Anfang an korrekt einzurichten und Personen auf der kaufenden Journey ordnungsgemäß zu segmentieren. Cynthia und James durchlaufen auch eine produktinterne Demonstration des Lebenszyklusmodellierers und teilen einige der verschiedenen verfügbaren Reporting- und Analysefunktionen, um die Effektivität Ihrer Kundensegmente zu analysieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420763/?learn=on)

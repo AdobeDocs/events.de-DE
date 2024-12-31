@@ -1,5 +1,5 @@
 ---
-title: Metadaten für Ihr Unternehmen in Adobe Experience Manager Assets verwenden
+title: Verwenden von Metadaten für Ihr Unternehmen in Adobe Experience Manager Assets
 description: Erfahren Sie, wie Sie Ihre Metadaten in AEM Assets optimal nutzen können, indem Sie den Arbeitsaufwand für das Tagging von Assets reduzieren und Ihre Assets durchsuchbarer gestalten.
 solution: Experience Manager, Experience Manager Assets
 role: Admin, Leader, User
@@ -15,10 +15,10 @@ ht-degree: 66%
 
 ---
 
-# Metadaten für Ihr Unternehmen in Adobe Experience Manager Assets verwenden
+# Verwenden von Metadaten für Ihr Unternehmen in Adobe Experience Manager Assets
 
 Erfahren Sie, wie Sie Ihre Metadaten in AEM Assets optimal nutzen können, indem Sie den Arbeitsaufwand für das Tagging von Assets reduzieren und Ihre Assets durchsuchbarer gestalten.
 
-*Robin Bussell* Leitende Ausbilder/Adobe
+*Robin Bussell* Senior Trainer / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343815/?quality=12&learn=on)

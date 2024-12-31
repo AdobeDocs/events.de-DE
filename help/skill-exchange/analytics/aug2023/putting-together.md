@@ -1,6 +1,6 @@
 ---
-title: Lernpfad von August 2023 - Adobe Analytics - Alles zusammenbringen
-description: In dieser Sitzung werden die Dinge zusammengefasst, indem erläutert wird, wie Adobe Analytics Website-Daten verfolgt und Visualisierungen nutzt, um weitere Einblicke zu erhalten.
+title: Aug 2023 Track Lernen - Adobe Analytics, alles zusammensetzen
+description: In dieser Sitzung werden Dinge zusammengefasst, indem wir verstehen, wie Adobe Analytics Website-Daten nachverfolgt und Visualisierungen verwendet, um weitere Einblicke zu erhalten.
 feature: Visualizations
 role: User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Aug. 2023: Skill Exchange Event - Grow Track - Alles zusammenbringen
+# Skill Exchange Event Aug 2023 - Track erweitern - Alles zusammenbringen
 
-In dieser Sitzung werden die Dinge zusammengefasst, indem erläutert wird, wie Adobe Analytics Website-Daten verfolgt und Visualisierungen nutzt, um weitere Einblicke zu erhalten.
+In dieser Sitzung werden Dinge zusammengefasst, indem wir verstehen, wie Adobe Analytics Website-Daten nachverfolgt und Visualisierungen verwendet, um weitere Einblicke zu erhalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425988/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Marketingkanäle, bitte verantwortungsbewusst verwenden
-description: Machen Sie sich mit den Auswirkungen der einzelnen Touchpoints Ihrer Marke auf der Journey Ihrer Kunden mit Marketingkanälen und Attributionsmodellen vertraut. In dieser Sitzung ... (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein.)
+title: Marketing-Kanäle, bitte verantwortungsvoll nutzen
+description: Machen Sie sich mit den Auswirkungen vertraut, die die einzelnen Touchpoints Ihrer Marke zusammen mit dem Journey Ihrer Kunden mit Marketing-Kanälen und Attributionsmodellen haben. In dieser Sitzung… (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 ---
 
-# Marketingkanäle, bitte verantwortungsbewusst verwenden
+# Marketing-Kanäle, bitte verantwortungsvoll nutzen
 
-Machen Sie sich mit den Auswirkungen der einzelnen Touchpoints Ihrer Marke auf der Journey Ihrer Kunden mit Marketingkanälen und Attributionsmodellen vertraut.
+Machen Sie sich mit der Wirkung vertraut, die die einzelnen Touchpoints Ihrer Marke auf das Journey Ihrer Kunden mit Marketing-Kanälen und Attributionsmodellen haben.
 
-In dieser Sitzung lernen Sie Folgendes:
+In dieser Sitzung erfahren Sie Folgendes:
 
-* Einrichten von Marketingkanälen
-* Wartung von Marketingkanälen
-* Primäre Zuordnung auswählen
+* Einrichten von Marketing-Kanälen
+* Wartung von Marketing-Kanälen
+* Primäre Attribution auswählen
 * Kampagnen vs. Marketing-Kanäle
 
 >[!VIDEO](https://video.tv.adobe.com/v/342532/?quality=12&learn=on)

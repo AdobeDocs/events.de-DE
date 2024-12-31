@@ -1,6 +1,6 @@
 ---
-title: Best Practices und Optimierung für MSI
-description: Erschließen Sie das volle Potenzial von Marketo Sales Insights (MSI) mit Cynthia Chang und James Leedom, die sich mit Schlüsselfunktionen, Salesforce-Integration, Lizenzverwaltung und Strategien zur Steigerung der Umsatz- und Marketingeffizienz beschäftigen.
+title: Best Practices für MSI und Optimierung
+description: Erschließen Sie sich das volle Potenzial von Marketo Sales Insights (MSI) mit Cynthia Chang und James Leedom, während sie sich mit wichtigen Funktionen, der Salesforce-Integration, dem Lizenzmanagement und Strategien zur Steigerung der Verkaufs- und Marketing-Effizienz befassen.
 solution: Marketo
 feature-set: Marketo Engage
 feature: Marketo Sales Insights
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Marketo und Mochas - Best Practices und Optimierung für MSI
+# Marketo und Mokkas - Best Practices und Optimierung für MSI
 
-Haben Sie von Marketo Sales Insights oder MSI gehört? Vielleicht haben Sie eine Lizenz, aber wissen nicht, was sie ist oder wie sie sie benutzt. In diesem Webinar diskutieren Adobe-eigener Marketing Automation Business Advisor, Cynthia Chang und Marketo Customer Technical Advisor, James Leedom, wie die volle Nutzung des Tools und der Best Practices für die Implementierung, den Start und vieles mehr sichergestellt werden kann.
+Haben Sie schon von Marketo Sales Insights oder MSI gehört? Vielleicht haben Sie eine Lizenz, aber wissen nicht, was sie ist oder wie Sie sie nutzen. In diesem Webinar besprechen Adobe, Cynthia Chang, Marketo, sowie James Leedom, Customer Technical Advisor, wie die vollständige Nutzung des Tools und der Best Practices für Implementierung, Launch und vieles mehr sichergestellt werden kann.
 
-Cynthia und James tauchen in die Funktionen von MSI, einschließlich interessanter Momente und beste Wetten. Sie erläutern, wie sie in Salesforce integriert werden, die Lizenzverwaltung und Strategien zur Optimierung Ihrer betrieblichen Effizienz in den Vertriebs- und Marketingteams. Wir schließen mit einem Live-Q&amp;A der Teilnehmer.
+Cynthia und James tauchen in die Funktionen von MSI ein, einschließlich interessanter Momente und besten Wetten. Sie erläutern, wie die Integration mit Salesforce, Lizenzmanagement und Strategien zur Optimierung der betrieblichen Effizienz in allen Vertriebs- und Marketingteams funktioniert. Zum Schluss erhalten Sie eine Live-Frage und -Antwort der Teilnehmer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422797?learn=on)

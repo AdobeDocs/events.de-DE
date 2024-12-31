@@ -1,6 +1,6 @@
 ---
-title: August 2023 AEM Web Track Experience Makers Spotlight
-description: Greg Dimeris von T.Rowe Price wird teilen, wie Sie Ihre Inhalte strukturieren, stapeln und überladen können, um eine maximale Rendite für Ihre Investition zu erzielen. Erfahren Sie, wie Sie Ihre Web-Erlebnisse mit Komponenten als Bausteinen für Geschwindigkeit und Wachstum optimieren können!Cindy Underwood von LPL Financial wird erläutern, warum Adobe Bridge das perfekte Tool ist, um die Automatisierung für Adobe Experience Manager-AEM zu ermöglichen. Mit Adobe Bridge können Sie schnell Namenskonventionen anwenden, die Größe ändern, Farbprofile formatieren und für Ihre Assets aktualisieren, indem Sie diese in Sekundenschnelle anpassen. Erfahren Sie, wie Sie die Vorteile von Adobe Bridge als Staging-Plattform für AEM Sites nutzen können!
+title: Aug 2023 AEM Web Track Experience Makers im Blickpunkt
+description: Greg Dimeris von T.Rowe Price erzählt Ihnen, wie Sie Ihre Inhalte strukturieren, stapeln und aufladen können, um eine maximale Rendite aus Ihren Investitionen zu erzielen. Erfahren Sie, wie Sie Ihre Web-Erlebnisse mit Komponenten als Bausteine für Geschwindigkeit und Wachstum unterstützen können!Cindy Underwood von LPL Financial wird Ihnen mitteilen, warum Adobe Bridge das perfekte Tool ist, um Ihnen bei der Erschließung der Automatisierung für Adobe Experience Manager (AEM)-Sites zu helfen. Mit Adobe Bridge können Sie Namenskonventionen schnell anwenden, die Größe ändern, Farbprofile für Ihre Assets formatieren und in Sekunden aktualisieren. Erfahren Sie, wie Sie die Vorteile von Adobe Bridge als Staging-Plattform für AEM-Sites nutzen können!
 solution: Experience Manager Sites
 role: User
 level: Intermediate, Experienced
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Skill Exchange Event Aug 2023 - AEM Web Track - Experience Makers Spotlight
+# Skill Exchange Event August 2023 - AEM Web Track - Experience Makers Spotlight
 
-Greg Dimeris von T.Rowe Price wird teilen, wie Sie Ihre Inhalte strukturieren, stapeln und überladen können, um eine maximale Rendite für Ihre Investition zu erzielen. Erfahren Sie, wie Sie Ihre Web-Erlebnisse mit Komponenten als Bausteine für Geschwindigkeit und Wachstum optimieren können!
+Greg Dimeris von T.Rowe Price erzählt Ihnen, wie Sie Ihre Inhalte strukturieren, stapeln und aufladen können, um eine maximale Rendite aus Ihren Investitionen zu erzielen. Erfahren Sie, wie Sie Ihre Web-Erlebnisse mit Komponenten als Bausteine für Geschwindigkeit und Wachstum optimieren können!
 
-Cindy Underwood von LPL Financial teilt mit, warum Adobe Bridge das perfekte Tool ist, um Ihnen bei der Automatisierung für Adobe Experience Manager (AEM) Sites zu helfen. Mit Adobe Bridge können Sie schnell Namenskonventionen anwenden, die Größe ändern, Farbprofile formatieren und für Ihre Assets aktualisieren, indem Sie diese in Sekundenschnelle anpassen. Erfahren Sie, wie Sie die Vorteile von Adobe Bridge als Staging-Plattform für AEM Sites nutzen können!
+Cindy Underwood von LPL Financial erzählt, warum Adobe Bridge das perfekte Tool ist, um Automatisierung für Adobe Experience Manager (AEM) Sites zu erschließen. Mit Adobe Bridge können Sie Namenskonventionen schnell anwenden, die Größe ändern, Farbprofile für Ihre Assets formatieren und in Sekunden aktualisieren. Erfahren Sie, wie Sie die Vorteile von Adobe Bridge als Staging-Plattform für AEM Sites nutzen können!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425896/?learn=on)

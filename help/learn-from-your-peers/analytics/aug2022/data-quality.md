@@ -1,6 +1,6 @@
 ---
-title: Datenqualität und -akzeptanz
-description: Erfahren Sie, wie Sie Datenqualität in alle Aspekte von Adobe Analytics integrieren und eine gemeinsame Kultur dafür schaffen können.
+title: Datenqualität und -übernahme
+description: Erfahren Sie, wie Sie Datenqualität in alle Bereiche von Adobe Analytics integrieren und eine gemeinsame Kultur dafür schaffen können.
 solution: Analytics
 role: User
 doc-type: Event
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Datenqualität und -akzeptanz in [!DNL Analytics]
+# Datenqualität und -übernahme in [!DNL Analytics]
 
-Unternehmen haben Daten als eine wichtige Voraussetzung für den zukünftigen Geschäftserfolg identifiziert. Dazu sind ein hohes Maß an Datenqualität und die Übernahme eines ausgereiften Datenstapels erforderlich. Erfahren Sie, wie Sie Datenqualität in jedem Aspekt von [!DNL Adobe Analytics] erstellen und eine gemeinsame Kultur dafür erstellen können.
+Unternehmen haben Daten als Schlüsselfaktor für zukünftigen Geschäftserfolg identifiziert. Um dies zu erreichen, sind eine hohe Datenqualität und die Einführung eines ausgereiften Datenstapels erforderlich. Erfahren Sie, wie Sie Datenqualität in alle Aspekte von [!DNL Adobe Analytics] integrieren und eine gemeinsame Kultur dafür schaffen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414203/?quality=12&learn=on)

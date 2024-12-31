@@ -1,6 +1,6 @@
 ---
-title: Marketo und Mochas - Best Practices für die Programmverwaltung
-description: Erfahren Sie mehr über die wichtigsten Elemente von Marketo-Programmen, einschließlich Ordnereinrichtung, Benennungskonventionen, Mitgliedersuchen und Prüfungen des Programmstatus, mit aktuellen Updates zu Vorlagen für Programmbibliotheken, Kreativ-Assets und Best Practices-Demonstrationen.
+title: Marketo und Mokkas - Best Practices für die Programmverwaltung
+description: Erfahren Sie mehr über die wichtigsten Elemente von Marketo-Programmen, einschließlich Ordnereinrichtung, Benennungskonventionen, Mitgliedersuche und Programmstatusprüfungen, sowie die neuesten Aktualisierungen von Programmbibliotheksvorlagen, Kreativ-Assets und Demonstrationen von Best Practices.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Marketo und Mochas - Best Practices für die Programmverwaltung
+# Marketo und Mokkas - Best Practices für die Programmverwaltung
 
-Programme sind eines der wichtigsten Elemente in Marketo. Unabhängig davon, ob Sie Ordner einrichten, an Benennungskonventionen arbeiten, nach Mitgliedern suchen, den Programmstatus überprüfen oder nur an Best Practices für die Verwaltung interessiert sind, ist dieses Ereignis für Sie bestimmt. Auf dieser Marketo &amp; Mochas stellen Adobe Business Advisors, Cynthia Chang und Kate Colbert die neuesten Updates zu den Programmbibliotheksvorlagen und Kreativ-Assets vor, sowie Best Practices zur Programmverwaltung und eine Demonstration.
+Programme gehören zu den wichtigsten Elementen in Marketo. Unabhängig davon, ob Sie Ordner einrichten, an Benennungskonventionen arbeiten, nach Mitgliedern suchen, den Programmstatus überprüfen oder einfach nur an der Verwaltung von Best Practices interessiert sind, dieses Ereignis ist für Sie da. Auf dieser Marketo &amp; Mokkas stellen Adobe Business Advisors, Cynthia Chang und Kate Colbert die neuesten Updates der Programmbibliotheksvorlagen und Kreativ-Assets sowie Best Practices für die Programmverwaltung und eine Demonstration vor.
 
-Sie folgen der Präsentation und zeigen, wie man ein Programm importiert und einige der neuen Programmvorlagen teilt, die erst nach vielen Jahren aktualisiert wurden. Cynthia und Kate schließen die Sitzung mit einem Live-Q&amp;A ab.
+Im Anschluss an die Präsentation wird gezeigt, wie ein Programm importiert wird, und es werden einige der neuen Programmvorlagen vorgestellt, die nach vielen Jahren aktualisiert wurden. Cynthia und Kate schließen die Sitzung mit einer Live-Frage ab.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425070/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Einfache Verwaltung von ständig wechselnden Inhalten
-description: Erfahren Sie mehr über die Tools für die Zusammenarbeit mit Experience Manager-Autoren
+title: Einfaches Verwalten ständig wechselnder Inhalte
+description: Erfahren Sie mehr über die Experience Manager Author Collaboration Tools
 solution: Experience Manager, Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -23,18 +23,18 @@ ht-degree: 0%
 
 # Grundlagen zu Adobe Experience Manager Sites
 
-In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen. Wir beginnen mit den Bausteinen der Inhaltsbearbeitung und stellen Ihnen die grundlegenden Konzepte und Vorgänge vor. Dazu gehören Sites-Admin-Funktionen und Grundlagen zum Umgang mit digitalen Assets in AEM. Im späteren Teil der Serie finden Sie Funktionen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie die Inhalte wiederverwenden und kanalübergreifend bereitstellen.
+In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Manager ansprechende Kundenerlebnisse schaffen können. Wir beginnen mit den Bausteinen der Inhaltserstellung und führen Sie gleichzeitig in die grundlegenden Konzepte und Vorgänge ein. Dies umfasst Sites-Admin-Funktionen und Grundlagen zum Umgang mit digitalen Assets in AEM. Entdecken Sie im späteren Teil der Reihe Funktionen, mit denen Sie Zeit sparen und effizienter arbeiten können, indem Sie die Inhalte wiederverwenden und kanalübergreifend bereitstellen.
 
-## Einfache Verwaltung von ständig wechselnden Inhalten
+## Einfaches Verwalten ständig wechselnder Inhalte
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 
-Erfahren Sie mehr über die Tools für die Zusammenarbeit mit Experience Manager-Autoren.
+Erfahren Sie mehr über die Experience Manager Author Collaboration Tools.
 
 ## Serienaufnahmen
 
-* [Autor Schöne Web-Erlebnisse schnell](authoring-fundamentals.md)
-* [Verschwenden Sie keine Zeit, um Inhalte erneut zu finden.](media-library-administration.md)
-* [Inhalt für ANYWHERE: Omnichannel-Erlebnisse Wirklichkeit werden lassen](omnichannel-experiences.md)
-* [Global mit Adobe Experience Manager](multi-site-management-web-translation.md)
-* [Das Web und darüber hinaus - Die Macht des traditionellen und Headless Content Managements](traditional-headless-content-management.md)
+* [Schnelle Erstellung schöner Web-Erlebnisse](authoring-fundamentals.md)
+* [Nie wieder Zeit mit der Suche nach Inhalten verschwenden](media-library-administration.md)
+* [Inhalte für ÜBERALL: Omni-Channel-Erlebnisse Wirklichkeit werden lassen](omnichannel-experiences.md)
+* [Globales Arbeiten mit Adobe Experience Manager](multi-site-management-web-translation.md)
+* [Das Internet und mehr - Die Macht des herkömmlichen und Headless-Content-Managements](traditional-headless-content-management.md)

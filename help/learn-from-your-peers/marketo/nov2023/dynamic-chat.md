@@ -1,6 +1,6 @@
 ---
-title: Umgang mit simulierten Kanälen und Daten mit Marketo Engage und Dynamic Chat
-description: Der Nutzen, den das Hinzufügen von Konversationen zu Ihrer Marketing-Automatisierungsstrategie bietet, um kanalübergreifende Kundenerlebnisse bereitzustellen.  So implementieren Sie primäre Anwendungsfälle wie z. B. die Buchung von Verkaufstreffen, die Interaktion mit Website-Inhalten und Veranstaltungen/Webinar-Promotion.  Umsetzbare Rezepte und Tipps für einen schnellen Einstieg in die Integration von Dynamic Chat in Ihre Marketo Engage-Programme.
+title: Umgang mit isolierten Kanälen und Daten mit Marketo Engage und Dynamic Chat
+description: Der Nutzen von zusätzlichen Gesprächen zu Ihrer Marketing-Automatisierungsstrategie, um kanalübergreifende Kundenerlebnisse bereitzustellen.  Implementieren von primären Anwendungsfällen wie z. B. Buchung von Verkaufstreffen, Interaktion mit Website-Inhalten und Veranstaltungen/Webinar-Promotion.  Praktische Rezepte und Tipps für einen schnellen Einstieg in die Integration von Dynamic Chat in Marketo Engage-Programme.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Dynamic Chat, Events, Programs
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 ---
 
-# Umgang mit simulierten Kanälen und Daten mit Marketo Engage und Dynamic Chat
+# Umgang mit isolierten Kanälen und Daten mit Marketo Engage und Dynamic Chat
 
-Nehmen Sie an diesem Webinar &quot;Von Ihren Kollegen lernen&quot;teil, als Sara Barriuso, Marketing Operations Manager bei Cornerstone OnDemand - zeigt, wie sie das Unternehmen dazu gebracht hat, automatisierte Gespräche zu führen und eine kanalübergreifende Interaktionsautomatisierung mit Dynamic Chat zu entwerfen, dem nativen Konversationskanal innerhalb von Marketo Engage.
+Nehmen Sie an diesem Webinar „Lernen Sie von Ihren Kollegen“ teil, indem Sara Barriuso, Marketing Operations Manager bei Cornerstone OnDemand, demonstriert, wie sie das Unternehmen dazu brachte, automatisierte Konversationen einzuführen und eine kanalübergreifende Interaktionsautomatisierung mit Dynamic Chat, dem nativen Konversationskanal für Marketo Engage, zu entwerfen.
 
 In diesem Webinar erfahren Sie mehr über:
 
-* Der Nutzen, den das Hinzufügen von Konversationen zu Ihrer Marketing-Automatisierungsstrategie bietet, um kanalübergreifende Kundenerlebnisse bereitzustellen.
-* So implementieren Sie primäre Anwendungsfälle wie z. B. die Buchung von Verkaufstreffen, die Interaktion mit Website-Inhalten und Veranstaltungen/Webinar-Promotion.
-* Umsetzbare Rezepte und Tipps für einen schnellen Einstieg in die Integration von Dynamic Chat in Ihre Marketo Engage-Programme.
+* Der Nutzen von zusätzlichen Gesprächen zu Ihrer Marketing-Automatisierungsstrategie, um kanalübergreifende Kundenerlebnisse bereitzustellen.
+* Implementieren von primären Anwendungsfällen wie z. B. Buchung von Verkaufstreffen, Interaktion mit Website-Inhalten und Veranstaltungen/Webinar-Promotion.
+* Praktische Rezepte und Tipps für einen schnellen Einstieg in die Integration von Dynamic Chat in Marketo Engage-Programme.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425471/?learn=on)

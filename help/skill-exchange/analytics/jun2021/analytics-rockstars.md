@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics Rockstars
-description: Vier "Rockstar"-Kunden werden jeweils ihren besten Adobe Analytics-Tipp oder -Trick präsentieren. Wer wird dich über jeden Glauben hinwegtäuschen? Beobachten und wählen Sie in Echtzeit.
+description: Vier „Rockstar“-Kunden präsentieren jeweils ihren besten Adobe Analytics-Tipp oder -Trick. Wer wird dich über den Glauben erstaunen? In Echtzeit ansehen und abstimmen.
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Adobe Analytics Rockstars
 
-Vier &quot;Rockstar&quot;-Kunden werden jeweils ihren besten Adobe Analytics-Tipp oder -Trick präsentieren. Wer wird dich über jeden Glauben hinwegtäuschen? Beobachten und wählen Sie in Echtzeit.
+Vier „Rockstar“-Kunden präsentieren jeweils ihren besten Adobe Analytics-Tipp oder -Trick. Wer wird dich über den Glauben erstaunen? In Echtzeit ansehen und abstimmen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342530/?quality=12&learn=on)

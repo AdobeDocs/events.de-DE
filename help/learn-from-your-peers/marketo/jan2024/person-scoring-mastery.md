@@ -1,6 +1,6 @@
 ---
-title: Personenscoring-Mastering mit Marketo Engage - Lokalisierte Nuancen in einem globalen Framework
-description: Als Administrator entwickeln Sie das Marketo Engage-Personen-Scoring-Modell basierend auf dem tatsächlichen Geschäftswert der Scoring-Elemente im Vergleich. Aber was ist, wenn dieser Wert auf verschiedenen Märkten variiert? Wie können lokale Einflüsse ermöglicht werden, ohne dass die Konsistenz innerhalb Ihres Unternehmens beeinträchtigt wird? Erfahren Sie, wie Sie das Gleichgewicht finden, indem Sie lokale Flexibilität in das Scoring-Modell integrieren.
+title: Person Scoring Mastery with Marketo Engage - Localized Nuances in a Global Framework
+description: Als Administrator entwickeln Sie das Bewertungsmodell für Marketo Engage-Personen auf der Grundlage des tatsächlichen Geschäftswerts der Bewertungselemente im Vergleich zueinander. Aber was ist, wenn dieser Unternehmenswert in verschiedenen Märkten variiert? Wie können lokale Einflüsse berücksichtigt werden, ohne die Konsistenz innerhalb der Organisation zu verlieren? Erfahren Sie, wie durch Integration lokaler Flexibilität in das Scoring-Modell ein Gleichgewicht findet.
 feature: Person Scoring
 role: Admin
 level: Intermediate
@@ -17,25 +17,25 @@ ht-degree: 0%
 
 ---
 
-# Personen-Scoring-Mastering mit Marketo Engage: Lokalisierte Nuancen in einem globalen Framework
+# Person Scoring Mastery with Marketo Engage: Localized Nuances in a Global Framework
 
-Als Administrator entwickeln Sie das Marketo Engage-Personen-Scoring-Modell basierend auf dem tatsächlichen Geschäftswert der Scoring-Elemente im Vergleich. Aber was ist, wenn dieser Wert auf verschiedenen Märkten variiert? Wie können lokale Einflüsse ermöglicht werden, ohne dass die Konsistenz innerhalb Ihres Unternehmens beeinträchtigt wird?
+Als Administrator entwickeln Sie das Bewertungsmodell für Marketo Engage-Personen auf der Grundlage des tatsächlichen Geschäftswerts der Bewertungselemente im Vergleich zueinander. Aber was ist, wenn dieser Unternehmenswert in verschiedenen Märkten variiert? Wie können lokale Einflüsse berücksichtigt werden, ohne die Konsistenz innerhalb der Organisation zu verlieren?
 
-Erfahren Sie, wie Marketo Engage Champion, Katja Keesom, dieses schwierige Gleichgewicht findet, indem es lokale Flexibilität in das Scoring-Modell einbaut.
+Erfahren Sie, wie Marketo Engage-Champion Katja Keesom dieses schwierige Gleichgewicht findet, indem sie lokale Flexibilität in das Scoring-Modell integriert.
 
-In diesem Webinar erfahren Sie:
+In diesem Webinar lernen Sie Folgendes:
 
-* Warum lokale Flexibilität wichtig ist, sich aber nicht in den Wilden Westen des Menschen verwandeln kann, ohne Kontrolle zu bewerten
-* Einrichten eines transparenten und skalierbaren Personen-Scoring-Modells
-* Die beste Möglichkeit, dies in Marketo Engage zu implementieren, um eine lokale Marktflexibilität zu ermöglichen und gleichzeitig das Modell -logisch und konsistent zu halten.
+* Warum lokale Flexibilität wichtig ist, sich aber nicht in den Wilden Westen der Personenbewertung ohne Kontrolle verwandeln kann
+* Einrichten eines transparenten und skalierbaren Personenbewertungsmodells
+* Dies lässt sich am besten in Marketo Engage implementieren, sodass der lokale Markt flexibel bleibt und das Modell logisch und konsistent bleibt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
 
-## Freigegebene Ressourcen des Webinars
+## Im Webinar freigegebene Ressourcen
 
 * Webinar-Thread der Marketing Nation-Community - [Diskussion](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
-* Personen-/Lead-Scoring mit lokalen Einflussübungen - [Arbeitsblatt herunterladen](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
-* Die große Liste der Lead-Scoring-Regeln - [Arbeitsblatt anzeigen](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
-* Marketo Engage Programm-Importbibliothek - [Dokumentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
-* Lead-Scoring - Alles Wissenswerte über den Prozess vor, während und nach - [On-Demand-Webinar](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
-* Lead-Scoring des Champions - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
+* Bewertung von Personen/Leads mit lokalen Einflussübungen - [Arbeitsblatt herunterladen](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
+* Die große Liste der Lead-Bewertungsregeln - [Arbeitsblatt anzeigen](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
+* Marketo Engage-Programm-Importbibliothek - [Dokumentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* Lead-Bewertung Alles Wissenswerte zum Prozess vor, während und nach dem - [On-Demand-Webinar](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* Champion&#39;s take on lead scoring - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}

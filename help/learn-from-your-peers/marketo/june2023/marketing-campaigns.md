@@ -1,6 +1,6 @@
 ---
 title: Marketing-Kampagnen mit Marketo Engage verfolgen, analysieren und optimieren
-description: 'Adobe Marketo Engage ist eine leistungsstarke Marketing-Automatisierungsplattform für Marketingexperten, doch häufig haben Marketing-Experten Schwierigkeiten, die Auswirkungen der Marketing-Maßnahmen zu quantifizieren. Sehen Sie sich dieses On-Demand-Webinar an, um Ihre Marketingprogramme mithilfe der Berichterstellungs- und Analysefunktionen von Marketo Engage zu optimieren. In diesem Webinar erfahren Sie:   Anwendungsfälle und Lösungen für wichtige Berichterstellung und Attribution mithilfe von Marketo Engage. Erfahren Sie, wie Sie UTMs-Parameter, Lead-Quellen und Programme effektiv verwenden können (Programmleistungsberichte und benutzerdefinierte Felder für Programmmitglieder).  So analysieren Sie die Effektivität Ihrer Marketingtaktiken, z. B. Berichte bei der Verwendung von Personalisierung in Ihren Programmen.   Erweiterte Attributionslösungen unter Verwendung des vollständigen Pfadmodells von Marketo Measure und der umsetzbaren Einblicke des benutzerdefinierten Modells, um einen Platz in der Umsatztabelle zu erhalten.'
+description: 'Adobe Marketo Engage ist eine leistungsstarke Marketing-Automatisierungsplattform für Marketing-Fachleute, aber Marketing-Fachleute tun sich oft schwer, die Auswirkungen der Marketing-Maßnahmen zu quantifizieren. Sehen Sie sich dieses On-Demand-Webinar an, um Ihre Marketing-Programme mithilfe der Reporting- und Analysefunktionen in Marketo Engage zu optimieren. In diesem Webinar lernen Sie Folgendes:   Wichtige Anwendungsfälle und Lösungen für Reporting und Attribution mit Marketo Engage. Erfahren Sie, wie Sie UTM-Parameter, Lead-Quellen und Programme effektiv verwenden können (Programmleistungsberichte und benutzerdefinierte Felder für Programmteilnehmer).  Analysieren der Effektivität Ihrer Marketing-Taktiken, z. B. des Reportings bei der Verwendung der Personalisierung in Ihren Programmen.   Erweiterte Attributionslösungen mit dem vollständigen Pfadmodell von Marketo Measure und den umsetzbaren Insights des benutzerdefinierten Modells, um Platz an der Umsatztabelle zu gewinnen.'
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 # Marketing-Kampagnen mit Marketo Engage verfolgen, analysieren und optimieren
 
-Adobe Marketo Engage ist eine leistungsstarke Marketing-Automatisierungsplattform für Marketingexperten, doch häufig haben Marketing-Experten Schwierigkeiten, die Auswirkungen der Marketing-Maßnahmen zu quantifizieren. Sehen Sie sich dieses On-Demand-Webinar an, um Ihre Marketingprogramme mithilfe der Berichterstellungs- und Analysefunktionen von Marketo Engage zu optimieren.
+Adobe Marketo Engage ist eine leistungsstarke Marketing-Automatisierungsplattform für Marketing-Fachleute, aber Marketing-Fachleute tun sich oft schwer, die Auswirkungen der Marketing-Maßnahmen zu quantifizieren. Sehen Sie sich dieses On-Demand-Webinar an, um Ihre Marketing-Programme mithilfe der Reporting- und Analysefunktionen in Marketo Engage zu optimieren.
 
-In diesem Webinar erfahren Sie:
+In diesem Webinar lernen Sie Folgendes:
 
-* Anwendungsfälle und Lösungen für wichtige Berichterstellung und Attribution mithilfe von Marketo Engage. Erfahren Sie, wie Sie UTMs-Parameter, Lead-Quellen und Programme effektiv verwenden können (Programmleistungsberichte und benutzerdefinierte Felder für Programmmitglieder).
-* So analysieren Sie die Effektivität Ihrer Marketingtaktiken, z. B. Berichte bei der Verwendung von Personalisierung in Ihren Programmen.
-* Erweiterte Attributionslösungen unter Verwendung des vollständigen Pfadmodells von Marketo Measure und der umsetzbaren Einblicke des benutzerdefinierten Modells, um einen Platz in der Umsatztabelle zu erhalten.
+* Wichtige Anwendungsfälle und Lösungen für Reporting und Attribution mit Marketo Engage. Erfahren Sie, wie Sie UTM-Parameter, Lead-Quellen und Programme effektiv verwenden können (Programmleistungsberichte und benutzerdefinierte Felder für Programmteilnehmer).
+* Analysieren der Effektivität Ihrer Marketing-Taktiken, z. B. des Reportings bei der Verwendung der Personalisierung in Ihren Programmen.
+* Erweiterte Attributionslösungen mit dem vollständigen Pfadmodell von Marketo Measure und den umsetzbaren Insights des benutzerdefinierten Modells, um Platz an der Umsatztabelle zu gewinnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421021/?learn=on)

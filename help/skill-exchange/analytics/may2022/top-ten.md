@@ -1,6 +1,6 @@
 ---
-title: Die 10 beliebtesten digitalen Analytics-Dokumente
-description: 10 Adobe/Digital Analytics-Verwaltungsstrategien und diskutieren Problemanweisungen, gängige Vorgehensweisen und bieten eine effektive Lösung für jede dieser Vorgehensweisen.
+title: Top 10 der Digital Analytics-Doktrinen, nach denen Sie leben sollten
+description: 10 Adobe-/Digital-Analytics-Managementstrategien, Erörterung von Problemdarstellungen und gängigen Verfahren sowie Bereitstellung einer effektiven Lösung für jedes Problem.
 role: User
 level: Intermediate, Experienced
 kt: 10468
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Die 10 beliebtesten digitalen Analytics-Dokumente
+# Top 10 der Digital Analytics-Doktrinen, nach denen Sie leben sollten
 
-In dieser Sitzung wird Ash 10 Adobe-/Digital Analytics-Managementstrategien austauschen und Problemanweisungen, gemeinsame Vorgehensweisen und eine effektive Lösung für jeden einzelnen dieser Bereiche diskutieren.
+In dieser Sitzung wird Ash 10 Adobe-/Digital-Analytics-Managementstrategien vorstellen und Problemerklärungen, gängige Praktiken besprechen und jeweils eine effektive Lösung bieten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343334/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte mit AEM Assets
-description: Verwenden von Ausgabeformaten und Erstellen benutzerdefinierter Ausgabeformate Zuschneiden, Bearbeiten und Kommentieren digitaler Assets, Zusammenarbeit mit anderen beim Erstellen oder Bearbeiten digitaler Assets
+description: Verwenden von Ausgabedarstellungen und Erstellen benutzerdefinierter Ausgabedarstellungen Zuschneiden, Bearbeiten und Kommentieren digitaler Assets, Zusammenarbeit mit anderen beim Erstellen oder Bearbeiten digitaler Assets
 solution: Experience Manager Assets
 version: Cloud Service
 feature-set: Experience Manager, Experience Manager Assets
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 ---
 
-# Aug. 2022 - AEM Web Track - Erste Schritte mit AEM Assets
+# Skill Exchange Event August 2022 - AEM Web Track - Erste Schritte mit AEM Assets
 
 In dieser Sitzung erfahren Sie, wie Sie:
 
-* Verwenden von Ausgabeformaten und Erstellen benutzerdefinierter Ausgabeformate
+* Verwenden von Ausgabedarstellungen und Erstellen benutzerdefinierter Ausgabedarstellungen
 * Zuschneiden, Bearbeiten und Kommentieren digitaler Assets
 * Zusammenarbeit mit anderen beim Erstellen oder Bearbeiten digitaler Assets
 

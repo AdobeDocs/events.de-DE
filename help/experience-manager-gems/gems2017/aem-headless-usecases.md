@@ -1,6 +1,6 @@
 ---
-title: AEM Fluid Experiences für Headless-Anwendungsfälle
-description: Erfahren Sie mehr über nahtlose Erlebnisse und deren Anwendung bei der Verwaltung von Inhalten und Erlebnissen für Headful- oder Headless-CMS-Szenarien. Erfahren Sie mehr über die wichtigsten AEM 6.3, die neuesten Funktionen, die kanalunabhängige Anwendungsfälle für das Erlebnismanagement ermöglichen, und mehr.
+title: Flüssige AEM-Erlebnisse für Headless-Anwendungsfälle
+description: Erfahren Sie mehr über flüssige Erlebnisse und ihre Anwendung bei der Verwaltung von Inhalten und Erlebnissen für Headful- oder Headless-CMS-Szenarien. Erfahren Sie mehr über die wichtigsten neuen Funktionen von AEM 6.3, die Anwendungsfälle mit kanalunabhängiger Erlebnisverwaltung ermöglichen, und vieles mehr.
 discoiquuid: 0a81aa6a-94f6-4e38-98fb-c48809899a24
 targetaudience: target-audience advanced
 exl-id: 5ab507d1-5099-4eb4-af2a-7bc312f115af
@@ -12,26 +12,26 @@ ht-degree: 0%
 
 ---
 
-# AEM Fluid Experiences für Headless-Anwendungsfälle{#aem-fluid-experiences-for-headless-usecases}
+# Flüssige AEM-Erlebnisse für Headless-Anwendungsfälle{#aem-fluid-experiences-for-headless-usecases}
 
-In dieser Sitzung werden wir uns mit nahtlosen Adobe Experience Manager-Erlebnissen und deren Anwendung bei der Verwaltung von Inhalten und Erlebnissen für Headful- oder Headless-CMS-Szenarien befassen. Erfahren Sie mehr über die wichtigsten AEM 6.3 neuesten Funktionen, die Anwendungsfälle für das kanalunabhängige Erlebnismanagement ermöglichen. Erfahren Sie, wie andere Kunden Experience Fragments und Content Services verwenden, um Webinhalte in mobilen Apps, Einzelseitenanwendungen und benutzerdefinierten Anwendungen wiederzuverwenden. Lernen Sie die Implementierungsdetails, Demos und Anwendungen für die Inhaltssyndikation kennen. Erfahren Sie, wie Sie ein einziges Mal erstellen und kanalübergreifend bereitstellen.
+In dieser Sitzung behandeln wir flüssige Erlebnisse in Adobe Experience Manager und ihre Anwendung bei der Verwaltung von Inhalten und Erlebnissen für Headful- oder Headless-CMS-Szenarien. Erfahren Sie mehr über die wichtigsten neuen Funktionen von AEM 6.3, die Anwendungsfälle mit kanalunabhängiger Erlebnisverwaltung ermöglichen. Erfahren Sie, wie andere Kunden Experience Fragments und Content Services verwenden, um Web-Inhalte in Mobile Apps, Single Page Applications und benutzerdefinierten Programmen wiederzuverwenden. Lernen Sie mit uns die Implementierungsdetails, Demos und Programme für Content Syndication kennen. Erfahren Sie, wie Sie einmal erstellen und kanalübergreifend bereitstellen.
 
-Tastenkombinationen:
+Wichtige Vorteile:
 
-* Machen Sie sich mit den neuen Ressourcen vertraut, die für Omnichannel-CMS-Konversationen verfügbar sind.
-* Mit Fluid Experiences können Sie Adobe- und Lösungspunkte bereitstellen
-* Neue Demos und Anleitungen für Ihre Kundengespräche
+* Verstehen Sie die neuen Ressourcen, die in Omni-Channel-CMS-Konversationen verfügbar sind
+* Fähigkeit, den Standpunkt und die Lösung der Adobe mit Fluid Experiences zu vermitteln
+* Neue Demos und Anleitungen für Kundengespräche
 
 >[!VIDEO](https://video.tv.adobe.com/v/20495/?quality=9)
 
-*Ausgestellt am 18. Oktober 2017*
+*Veröffentlicht am 18.10.2017*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 * Haresh Kumar, Director of Strategy and Product Marketing AEM, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/gems-fluid-experiencesoct1617.pdf)
 <!--

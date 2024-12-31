@@ -1,6 +1,6 @@
 ---
 title: Tipps und Tricks
-description: Tipps zur Verbesserung Ihres Analyse-Workflows und Hinweise zu den neuesten Innovationen in der Adobe Analytics
+description: Tipps zur Verbesserung Ihres Analyse-Workflows und Highlights der jüngsten Innovationen im Adobe Analytics
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Tipps und Tricks
 
-Treten Sie Christos Voutsakis, Multi-Solution Architect, Adobe Analytics, bei, da er Tipps zur Verbesserung Ihres Analyse-Workflows und zur Hervorhebung aktueller Innovationen im Produkt gibt.
+Seien Sie dabei, wenn Christos Voutsakis, Multi-Solution Architect bei Adobe Analytics, Tipps zur Verbesserung Ihres Analyse-Workflows und zur Präsentation aktueller Innovationen im Produkt vorstellt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343345/?quality=12&learn=on)

@@ -1,8 +1,8 @@
 ---
-title: Optimieren der Commerce Intelligence-Data Warehouse
-description: Sehen Sie sich dieses Webinar an, um mehr über Data Warehouse Manager zu erfahren.
-landing-page-description: Sehen Sie sich dieses aufgezeichnete Webinar an
-short-description: Sehen Sie sich dieses aufgezeichnete Webinar an
+title: Optimieren des Commerce Intelligence-Data Warehouse
+description: In diesem Webinar erfahren Sie mehr über Data Warehouse Manager.
+landing-page-description: Dieses aufgezeichnete Webinar ansehen, um
+short-description: Dieses aufgezeichnete Webinar ansehen, um
 kt: 10403
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -17,24 +17,24 @@ ht-degree: 0%
 
 ---
 
-# Optimieren der Commerce Intelligence-Data Warehouse
+# Optimieren des Commerce Intelligence-Data Warehouse
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence hieß vorher [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen früherer Ereignisse spiegeln den vorherigen Namen wider.
+>Adobe Commerce Intelligence hieß früher [!DNL Magento Business Intelligence (MBI)]. Aufzeichnungen vergangener Ereignisse spiegeln den vorherigen Namen wider.
 
-Mithilfe des Data Warehouse-Managers können Sie Einstellungen für die Tabellen- und Spaltensynchronisierung verwalten, einen Drilldown im Schema einer Tabelle durchführen und berechnete Spalten für die Verwendung in Berichten erstellen.
+Mit dem Data Warehouse-Manager können Sie die Synchronisierungseinstellungen für Tabellen und Spalten verwalten, das Schema einer Tabelle aufschlüsseln und berechnete Spalten erstellen, die in Berichten verwendet werden sollen.
 
 >[!NOTE]
 >
->Für den Zugriff auf den Data Warehouse Manager sind Administratorberechtigungen erforderlich.
+>Zugriff auf den Data Warehouse-Manager, Erfordert Administratorberechtigungen.
 
 In diesem Webinar:
 
 - Einführung in die Data Warehouse
-- Zyklus und Optimierung aktualisieren
-- Replikation und Wiederherstellung
-- Data Warehouse-Ansichten
+- Aktualisierungszyklus und Optimierung
+- Replikation und erneute Prüfungen
+- Data Warehouse Views
 - Fragen und Antworten
 
 ## Videoinhalt
@@ -43,5 +43,5 @@ In diesem Webinar:
 
 ## Nützliche Ressourcen
 
-[Datenbankoptimierung für Analysen](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[Empfohlene Daten-Dimensionen für Segmentierung und Filterung](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Datenbank für Analysen optimieren](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
+[Empfohlene Dimensionen für die Segmentierung und Filterung](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
