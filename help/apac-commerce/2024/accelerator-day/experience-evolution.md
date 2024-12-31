@@ -1,6 +1,6 @@
 ---
 title: Erlebnisentwicklung - Commerce, Daten und Sie
-description: Eine Übersicht über die Personalisierung für Commerce mit Echtzeit-Kundendatenplattform, Journey-Orchestrierung und der integrierten Adobe Experience Platform.
+description: Eine Übersicht über die Personalisierung für Commerce mit Real-Time CDP, Journey Orchestration und der integrierten Adobe Experience Platform.
 feature: Integration
 topic: Commerce
 role: Admin, Developer, Leader, User
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 # Erlebnisentwicklung: Commerce, Daten und Sie
 
-Eine Übersicht und Demonstration der Personalisierung für Commerce mit Echtzeit-Kundendatenplattform, Journey-Orchestrierung und der integrierten Adobe Experience Platform.
+Eine Übersicht und Demonstration der Personalisierung für Commerce mit Real-Time CDP, Journey Orchestration und der integrierten Adobe Experience Platform.
 
-+ Vorgestellt von Mike Lynch, Enterprise Commerce Specialist - Adobe
++ Präsentiert von Mike Lynch, Enterprise Commerce Specialist - Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429266/?learn=on)
 

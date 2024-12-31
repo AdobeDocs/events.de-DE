@@ -1,43 +1,43 @@
 ---
-title: Automatisieren und Optimieren von Kampagnenoperationen mit der Marketo-API
-description: Erfahren Sie in diesem tiefen Einblick, wie Sie Ihre Marketing-Vorgänge mit der Marketo-API optimieren können. Hier erfahren Sie, wie Sie sich wiederholende Aufgaben automatisieren können, wie z. B. die Erstellung von E-Mail-Newslettern, die Verfolgung von Programmen, die Fusion von Duplikaten, die Aktualisierung von Programmkosten und das Klonen von Programmen, sodass Sie sich auf strategische Initiativen konzentrieren können.
+title: Automatisieren und Optimieren von Kampagnenvorgängen mithilfe der Marketo-API
+description: In diesem Abschnitt erfahren Sie, wie Sie Ihre Marketing-Abläufe mit der Marketo-API optimieren können. Hier erfahren Sie, wie Sie sich wiederholende Aufgaben wie das Erstellen von E-Mail-Newslettern, das Tracking von Programmen, das Zusammenführen von Duplikaten, das Aktualisieren von Programmkosten und das Klonen von Programmen automatisieren können, sodass Sie sich auf strategische Initiativen konzentrieren können.
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 4370
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16520
-source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
+exl-id: ff95d1d0-3150-451d-bf45-17e3248689e5
+source-git-commit: e8a5a53449923fcbbf6f10d0e62757d86a409842
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 1%
 
 ---
 
+# Detaillierte Einblicke in Adobe Marketo Engage Champions - Automatisierung und Optimierung von Kampagnenvorgängen mithilfe der Marketo-API
 
-# Adobe Marketo Engage Champion Deep Dive - Automatisierung und Optimierung von Kampagnenoperationen mit der Marketo-API
+Als Marketo-Anwender besteht eine unserer Hauptaufgaben darin, die von unserem Marketing-Team durchgeführten Marketing-Kampagnen zu unterstützen. Das bedeutet, dass es viele sich wiederholende Aufgaben gibt, die wir bei der Erstellung von Folgendem erledigen müssen:
 
-Als Marketo-Benutzer besteht eine unserer Hauptrollen darin, die Marketingkampagnen zu unterstützen, die von unserem Marketingteam ausgeführt werden. Das bedeutet, dass wir bei der Erstellung von Folgendem eine Menge Arbeit zu erledigen haben:
-
-* E-Mail-Newsletter
+* Email Newsletter
 * Attributions-Tracking-Programme
-* Tracking-Programme zur Inhaltsleistung
+* Programme zur Verfolgung der Inhaltsleistung
 * Zusammenführen von Duplikaten
-* Aktualisieren der Programmzeitraumkosten
+* Kosten für Programmzeitraum aktualisieren
 * Klonen von Programmen
 
-In diesem tiefen Einblick werden wir Ihnen zeigen, wie Sie mit der Marketo-API beginnen können und wie leistungsstark es sein kann, strukturierte Workflows zu automatisieren, sodass Sie mehr Zeit mit strategischen Arbeiten verbringen können, die die Nadel bewegen können, anstatt sich wiederholende Stammeffekte aus Klick-Marathons zu holen.
+In diesem tiefen Einblick zeigen wir Ihnen, wie Sie mit der Marketo-API beginnen und dann zeigen, wie leistungsstark sie für die Automatisierung strukturierter Workflows sein kann, sodass Sie mehr Zeit mit strategischer Arbeit verbringen können, die die Nadel bewegen kann, anstatt sich wiederholende Belastungsenergie aus Klickmarathons zu holen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440396/?learn=on&enablevpops)
 
 ## Wichtige Schlussfolgerungen
 
-* **Schwerpunkt** Die Sitzung konzentrierte sich auf die Automatisierung und Optimierung von Kampagnenvorgängen mithilfe der Marketo-API.
-* **API-Wichtigkeit** APIs sind entscheidend für die Automatisierung sich wiederholender Aufgaben, die Kommunikation zwischen Systemen und die Einsparung von Zeit und Geld.API-Grundlagen** Erläuterung dessen, was eine **API ist, einschließlich des Unterschieds zwischen Get- und Post-Anfragen und ihrer Funktionsweise.
+* **Fokus** Die Sitzung konzentrierte sich auf die Automatisierung und Optimierung von Kampagnenvorgängen mithilfe der Marketo-API.
+* **API-Wichtigkeit** APIs sind entscheidend für die Automatisierung sich wiederholender Aufgaben, die Kommunikation zwischen Systemen und die Einsparung von Zeit und Geld.API-Grundlagen** Erläuterung der Funktionsweise einer * **API, einschließlich des Unterschieds zwischen GET- und POST-Anfragen.
 
 ### Anwendungsfälle
 
-* **Erstellung eines Massenprogramms** Verwenden eines Python-Skripts zum Klonen von Programmen, Aktualisieren von Token und Aktivieren von Smart-Kampagnen. &#x200B;
-* **On-Demand-Programmerstellung** Mithilfe von Zapier wird die Erstellung von Marketo-Programmen basierend auf Formularübermittlungen automatisiert, einschließlich der Generierung von UTM-Parametern und der Erstellung von **JIRA-Tickets für das Tracking.
-* **API-Verwaltung** Tipps zur Verwaltung der API-Nutzung, einschließlich der Erstellung separater Startpunktdienste für verschiedene Integrationen und der Überwachung der Nutzung von API-Aufrufen.Tools und * **Ressourcen** Recommendations für die Verwendung von Tools wie Postman zum Testen von API-Anfragen und ChatGPT zum Generieren von Python-Code.
-* **Zusätzliche Anwendungsfälle** Erwähnungen anderer potenzieller Anwendungsfälle für die Marketo-API, z. B. Wiederherstellung von Datenänderungen, Deduplizierung und Verbindung von Marketo mit AI.
+* **Erstellung von Massenprogrammen** Verwenden eines Python-Skripts zum Klonen von Programmen, Aktualisieren von Token und Aktivieren von Smart-Kampagnen. &#x200B;
+* **On-Demand-Programmerstellung** Verwenden Sie Zapier, um die Erstellung von Marketo-Programmen auf der Grundlage von Formularübermittlungen zu automatisieren, einschließlich der Generierung von UTM-Parametern und der Erstellung von * **JIRA-Tickets für das Tracking.
+* **API-**: Tipps zur Verwaltung der API-Nutzung, einschließlich der Erstellung separater Startpunkt-Services für verschiedene Integrationen und der Überwachung der API-Aufrufnutzung. Tools und * **Ressourcen** Recommendations für die Verwendung von Tools wie Postman zum Testen von API-Anfragen und ChatGPT zum Generieren von Python-Code.
+* **Zusätzliche Anwendungsfälle** Erwähnung anderer potenzieller Anwendungsfälle für die Marketo-API, z. B. Zurücksetzen von Datenänderungen, Deduplizierung und Verbinden von Marketo mit KI.

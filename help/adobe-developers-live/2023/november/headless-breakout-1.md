@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - 23. NOV - Headless-Verteilung 1
-description: Machen Sie sich mit unseren neuesten Headless-APIs vertraut und erfahren Sie mehr über die erweiterten Funktionen dieser APIs, einschließlich Tagging, Versionierung und Endpunktsuche. Erfahren Sie, wie sie einen effizienten Inhaltsabruf für App-ähnliche Erlebnisse über digitale Kanäle hinweg ermöglichen, und sehen Sie, wie diese APIs in der Praxis verwendet werden. Diese Sitzung ist eine wertvolle Ressource für Entwickler, die Headless-Technologie für innovative Lösungen nutzen möchten.
+title: Adobe Developers Live - 23. NOVEMBER - Headless Breakout 1
+description: Sehen Sie sich unsere neuesten Headless-APIs an und erfahren Sie mehr über die erweiterten Funktionen dieser APIs, einschließlich Tagging, Versionierung und Endpunktsuche. Erfahren Sie, wie sie einen effizienten Content-Abruf für App-ähnliche Erlebnisse über digitale Kanäle hinweg ermöglichen, und sehen Sie sich die realen Anwendungen dieser APIs in Aktion an. Diese Sitzung ist eine unschätzbare Ressource für Entwickler, die die Headless-Technologie für innovative Lösungen nutzen möchten.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Live Headless-Verteilung 1 - November 2023
+# Adobe Developers Live Headless Breakout 1. November 2023
 
-Entdecken Sie das Potenzial der Headless-APIs von Adobe Experience Manager in dieser Sitzung von Catalina Dumitru, live in Adobe Developers Live aufgezeichnet. Lernen Sie die erweiterten Funktionen dieser APIs kennen, einschließlich Tagging, Versionierung und Endpunktsuche. Erfahren Sie, wie sie einen effizienten Inhaltsabruf für App-ähnliche Erlebnisse über digitale Kanäle hinweg ermöglichen, und sehen Sie, wie diese APIs in der Praxis verwendet werden. Diese Sitzung ist eine wertvolle Ressource für Entwickler, die Headless-Technologie für innovative Lösungen nutzen möchten.
+Entdecken Sie das Potenzial der Adobe Experience Manager Headless-APIs in dieser Session von Catalina Dumitru, aufgenommen live bei Adobe Developers Live. Erfahren Sie mehr über die erweiterten Funktionen dieser APIs, einschließlich Tagging, Versionierung und Endpunktsuche. Erfahren Sie, wie sie einen effizienten Content-Abruf für App-ähnliche Erlebnisse über digitale Kanäle hinweg ermöglichen, und sehen Sie sich die realen Anwendungen dieser APIs in Aktion an. Diese Sitzung ist eine unschätzbare Ressource für Entwickler, die die Headless-Technologie für innovative Lösungen nutzen möchten.
 
-Fahren Sie mit der Unterhaltung in [Experience League Communities](https://adobe.ly/3rJfZcN) fort.
+Gespräche in [Experience League Communities fortsetzen](https://adobe.ly/3rJfZcN).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425627/?learn=on)

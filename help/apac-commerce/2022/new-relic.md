@@ -1,6 +1,6 @@
 ---
-title: New Relic Masterclass - Übernehmen Sie die Kontrolle über Ihre Infrastruktur
-description: Erfahren Sie, wie Sie mit New Relic die Kontrolle über Ihre Infrastruktur übernehmen. Wenden Sie sich mit absoluter Konfidenz an Ihre nächste Kampagne, indem Sie auf Ihre Infrastrukturdaten zugreifen und diese verstehen.
+title: New Relic MasterClass - Übernehmen Sie die Kontrolle über Ihre Infrastruktur
+description: Erfahren Sie, wie Sie mit New Relic die Kontrolle über Ihre Infrastruktur übernehmen. Gehen Sie mit absoluter Sicherheit an Ihre nächste Kampagne heran, indem Sie auf Ihre Infrastrukturdaten zugreifen und diese verstehen.
 solution: Commerce
 topic: Commerce
 role: Leader, Architect, Developer, Data Architect, Admin, User
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# New Relic Masterclass - Übernehmen Sie die Kontrolle über Ihre Infrastruktur
+# New Relic MasterClass - Übernehmen Sie die Kontrolle über Ihre Infrastruktur
 
-Nehmen Sie an diesem Webinar teil, um zu erfahren, wie Sie mit New Relic die Kontrolle über Ihre Infrastruktur übernehmen können. Wenden Sie sich mit absoluter Konfidenz an Ihre nächste Kampagne, indem Sie auf Ihre Infrastrukturdaten zugreifen und diese verstehen.
+In diesem Webinar erfahren Sie, wie Sie mit New Relic die Kontrolle über Ihre Infrastruktur übernehmen. Gehen Sie mit absoluter Sicherheit an Ihre nächste Kampagne heran, indem Sie auf Ihre Infrastrukturdaten zugreifen und diese verstehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345148/?quality=12&learn=on)

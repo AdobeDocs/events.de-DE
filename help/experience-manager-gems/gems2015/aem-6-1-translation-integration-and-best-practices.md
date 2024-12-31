@@ -1,6 +1,6 @@
 ---
-title: AEM 6.1 Übersetzungsintegration und Best Practices
-description: Hier erhalten Sie eine Präsentation über die erweiterten Funktionen zur Übersetzungsintegration in AEM. Erfahren Sie mehr über Best Practices für die Verwaltung mehrsprachiger Websites.
+title: AEM 6.1 - Übersetzungsintegration und Best Practices
+description: Hier erhalten Sie eine Präsentation über die erweiterten Funktionen zur Übersetzungsintegration in AEM. Best Practices für die Verwaltung mehrsprachiger Websites
 discoiquuid: b05a88a0-8a38-432b-99f7-23e3799ad209
 targetaudience: target-audience advanced
 exl-id: ab91fcec-9ca1-40e3-9b5f-4aed8ed96b9b
@@ -12,20 +12,20 @@ ht-degree: 0%
 
 ---
 
-# AEM 6.1 Übersetzungsintegration und Best Practices{#aem-translation-integration-best-practices}
+# AEM 6.1 - Übersetzungsintegration und Best Practices{#aem-translation-integration-best-practices}
 
-Cristine und Mathias werden erweiterte Funktionen zur Übersetzungsintegration in AEM und Best Practices für die Verwaltung mehrsprachiger Websites vorstellen. Sie erfahren, wie Sie globale Websites strukturieren AEM Sprachkopien/Live Copies/MSM verwenden, wie Sie Übersetzungsanbieter integrieren können, um Übersetzungsprojekte erfolgreich abzuschließen
+Cristine und Mathias werden erweiterte Funktionen zur Übersetzungsintegration in AEM und Best Practices für die Verwaltung mehrsprachiger Websites vorstellen. Sie erfahren, wie Sie globale Websites in AEM strukturieren, Sprachkopien/Live Copies/MSM verwenden und Übersetzungsdienstleister integrieren können, um Übersetzungsprojekte erfolgreich abzuschließen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19371/?quality=9)
 
-*Ausgestellt am 30. September 2015*
+*Veröffentlicht am 30.09.2015*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
-* Christine Duran, Sr Manager Translation Technologies, Adobe
+* Christine Duran, SR Manager Translation Technologies, Adobe
 * Mathias Siegel, SR Product Manager, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 

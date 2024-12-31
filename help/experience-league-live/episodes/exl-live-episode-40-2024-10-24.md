@@ -1,6 +1,6 @@
 ---
-title: Harmonisieren von Zielgruppen in Experience Ecosystems - Zusammengestellte Zielgruppenkomposition in Experience Platform
-description: Erfahren Sie, wie die Zusammenstellung von Federated Audience einen umfassenden Ansatz zur Kuratierung und Aktivierung von Zielgruppen mit Real-Time CDP und Journey Optimizer bietet.
+title: Harmonisieren von Audiences in Erlebnis-Ökosystemen - Federated Audience-Komposition in Experience Platform
+description: Erfahren Sie, wie die Federated Audience Komposition einen umfassenden Ansatz für die Kuratierung und Aktivierung von Zielgruppen mit Real-Time CDP und Journey Optimizer bietet.
 kt: KT-15473
 solution: Real-Time Customer Data Platform, Experience Platform, Journey Optimizer
 feature: Audiences
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 ---
 
-# Harmonisieren von Zielgruppen in Experience Ecosystems - Zusammengestellte Zielgruppenkomposition in Experience Platform
+# Harmonisieren von Audiences in Erlebnis-Ökosystemen - Federated Audience-Komposition in Experience Platform
 
-Erfahren Sie, wie die Zusammenstellung von Federated Audience einen umfassenden Ansatz zur Kuratierung und Aktivierung von Zielgruppen mit Real-Time CDP und Journey Optimizer bietet.
+Erfahren Sie, wie die Federated Audience Komposition einen umfassenden Ansatz für die Kuratierung und Aktivierung von Zielgruppen mit Real-Time CDP und Journey Optimizer bietet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
 **Um die Diskussion fortzusetzen, besuchen Sie bitte unsere [Diskussion über die Experience League-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}.**
 
 **Details anzeigen**:
-Erhalten Sie erweiterten Zugriff auf Data Warehouse für Unternehmen, um Zielgruppen zusammenzustellen und markeninitiierte und aktuelle Erlebnisse zu ermöglichen.
+Erweiterter Zugriff auf Unternehmens-Data Warehouses, um Zielgruppen zu erstellen und markeninitiierte, aktuelle Erlebnisse zu ermöglichen.
 
 In dieser Sitzung erfahren Sie, wie Sie:
 
-* Greifen Sie auf kritische Warehouse-basierte Datensätze zu, ohne die zugrunde liegenden Daten zu kopieren, um die Duplizierung zu minimieren.
+* Zugriff auf kritische Warehouse-basierte Datensätze, ohne die zugrunde liegenden Daten zu kopieren, um Duplizierungen zu minimieren.
 * Erstellen und anreichern Sie hochwertige Zielgruppen mithilfe von Warehouse-basierten Datensätzen.
-* Aktivieren Sie diese Zielgruppen über mehrere Kanäle hinweg, um Anwendungsfälle mit geringer Latenz und personalisierte Erlebnisse zu unterstützen.
+* Aktivieren Sie diese Zielgruppen über mehrere Kanäle hinweg, um Anwendungsfälle mit geringer Latenz zu unterstützen und personalisierte Erlebnisse zu ermöglichen.

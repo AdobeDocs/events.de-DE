@@ -1,6 +1,6 @@
 ---
-title: Erfahren Sie mehr über Workflows und Tipps für schnellere Implementierungen mit Rapid Development Environments (RDE).
-description: Erfahren Sie mehr über Workflows und Tipps für eine schnellere Bereitstellung mit Rapid Development Environments (RDE) für AEM as a Cloud Service, indem Sie die Entwicklererfahrung verbessern, indem Sie Änderungen schnell bereitstellen und überprüfen können. So wird der Zeitaufwand für das Testen von Funktionen minimiert. RDEs unterstützen iterative Entwicklungsszenarien, z. B. zur Aktualisierung von Java-Code, Konfigurationen, Skripten, Inhalten und Dispatcher-Konfigurationen. Die Änderungen werden direkt auf die laufenden Instanzen angewendet. In dieser Sitzung werden wir uns RDEs im Detail ansehen und zeigen, wie Entwickler diese nutzen können, um experimentelle Änderungen direkt bereitzustellen, ihren Inhalt und Code während der Entwicklung zu testen und schnelle Rückmeldungen über ihre Änderungen mithilfe einer echten Cloud-Umgebung zu erhalten.
+title: Lernen Sie Workflows und Tipps für schnellere Bereitstellungen mit schnellen Entwicklungsumgebungen (RDE) kennen
+description: Erfahren Sie mehr über Workflows und Tipps für schnellere Bereitstellungen mit schnellen Entwicklungsumgebungen (RDE)Schnelle Entwicklungsumgebungen (RDE) für AEM as a Cloud Service verbessern das Entwicklererlebnis, indem sie es ihnen ermöglichen, Änderungen schnell bereitzustellen und zu überprüfen und so den Zeitaufwand für das Testen von Funktionen zu minimieren. RDEs unterstützen iterative Entwicklungsszenarien, z. B. zur Aktualisierung von Java-Code, Konfigurationen, Skripten, Inhalten und Dispatcher-Konfigurationen. Die Änderungen werden direkt auf die ausgeführten Instanzen angewendet. In dieser Sitzung werden wir uns RDEs im Detail ansehen und zeigen, wie Entwickler sie nutzen können, um experimentelle Änderungen direkt bereitzustellen, ihren Inhalt und Code während der Entwicklung zu testen und mithilfe einer echten Cloud-Umgebung schnelles Feedback zu ihren Änderungen zu erhalten.
 product: experience manager
 sub-product: sites
 topic: Development
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Erfahren Sie mehr über Workflows und Tipps für schnellere Implementierungen mit Rapid Development Environments (RDE).
+# Lernen Sie Workflows und Tipps für schnellere Bereitstellungen mit schnellen Entwicklungsumgebungen (RDE) kennen
 
-Erfahren Sie mehr über Workflows und Tipps für schnellere Implementierungen mit Rapid Development Environments (RDE).
+Lernen Sie Workflows und Tipps für schnellere Bereitstellungen mit schnellen Entwicklungsumgebungen (RDE) kennen
 
-Rapid Development Environments (RDE) für AEM as a Cloud Service verbessern das Entwicklererlebnis, da sie Änderungen schnell bereitstellen und überprüfen können. Dadurch wird der Zeitaufwand für das Testen von Funktionen minimiert. RDEs unterstützen iterative Entwicklungsszenarien, z. B. zur Aktualisierung von Java-Code, Konfigurationen, Skripten, Inhalten und Dispatcher-Konfigurationen. Die Änderungen werden direkt auf die laufenden Instanzen angewendet. In dieser Sitzung werden wir uns RDEs im Detail ansehen und zeigen, wie Entwickler diese nutzen können, um experimentelle Änderungen direkt bereitzustellen, ihren Inhalt und Code während der Entwicklung zu testen und schnelle Rückmeldungen über ihre Änderungen mithilfe einer echten Cloud-Umgebung zu erhalten. → Fahren Sie mit dem Gespräch fort unter: https://adobe.ly/3HACjKm
+Schnelle Entwicklungsumgebungen (RDE) für AEM as a Cloud Service verbessern das Entwicklererlebnis, indem sie es ihnen ermöglichen, Änderungen schnell bereitzustellen und zu überprüfen und so den Zeitaufwand für das Testen von Funktionen zu minimieren. RDEs unterstützen iterative Entwicklungsszenarien, z. B. zur Aktualisierung von Java-Code, Konfigurationen, Skripten, Inhalten und Dispatcher-Konfigurationen. Die Änderungen werden direkt auf die ausgeführten Instanzen angewendet. In dieser Sitzung werden wir uns RDEs im Detail ansehen und zeigen, wie Entwickler sie nutzen können, um experimentelle Änderungen direkt bereitzustellen, ihren Inhalt und Code während der Entwicklung zu testen und mithilfe einer echten Cloud-Umgebung schnelles Feedback zu ihren Änderungen zu erhalten. → Setzen Sie das Gespräch fort unter: https://adobe.ly/3HACjKm
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419947/?learn=on)

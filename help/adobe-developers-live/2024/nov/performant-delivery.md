@@ -1,6 +1,6 @@
 ---
-title: Best Practices für die Leistungsbereitstellung
-description: Optimieren Sie die Medienbereitstellung und -leistung mit Dynamic Media, indem Sie adaptives Streaming, benutzerdefinierte Videoprofile, Best Practices für SEO, Bildoptimierung, Masseninhaltsmanagement, Viewer-Vorgaben, Cache-Invalidierung und intelligente Bildbearbeitung nutzen.
+title: Best Practices für einen leistungsstarken Versand
+description: Optimieren Sie die Medienbereitstellung und -leistung mit Dynamic Media durch die Nutzung von adaptivem Streaming, benutzerdefinierten Videoprofilen, Best Practices für SEO, Bildoptimierung, Masseninhalts-Management, Viewer-Vorgaben, Cache-Invalidierung und intelligenter Bildbearbeitung.
 feature: Dynamic Media, Video, SEO Optimization, Smart Imaging, Viewer Presets, Best Practices
 topic: Content Management
 solution: Experience Manager, Experience Manager Assets
@@ -18,33 +18,33 @@ ht-degree: 0%
 
 ---
 
-# Best Practices für die Leistungsbereitstellung
+# Best Practices für einen leistungsstarken Versand
 
-Treten Sie Riya Midha, Produkt-Manager bei der Adobe bei, um die Best Practices für die Einrichtung von Adobe Experience Manager Assets Dynamic Media zu erkunden. Erfahren Sie, wie Sie die Asset-Bereitstellung optimieren, das Video-Streaming verbessern, Viewer konfigurieren und die Leistung messen und verbessern können.
+Seien Sie dabei, wenn Riya Midha, Sr. Product Manager bei Adobe, die Best Practices für die Einrichtung von Adobe Experience Manager Assets Dynamic Media erkundet. Erfahren Sie, wie Sie die Asset-Bereitstellung optimieren, Video-Streaming verbessern, Viewer konfigurieren und die Leistung messen und verbessern können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440399/?learn=on&enablevpops)
 
 ## Community-Diskussion
 
-Fahren Sie mit der Unterhaltung in der Adobe Developers Live Community [diskussion](https://adobe.ly/3YGedpb) fort.
+Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](https://adobe.ly/3YGedpb) fort.
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
-* **Dynamic Media-Funktionen** Dynamic Media ermöglicht die schnelle und flexible Bereitstellung hochwertiger, personalisierter Medien auf allen Geräten, die Verarbeitung von jährlich mehr als 9 Billionen Medienlieferungen und ein tägliches Spitzenvolumen von bis zu 69 Milliarden Assets.
-* **Adaptives Streaming** Die Verwendung von adaptivem Streaming für die Videobereitstellung reduziert die Pufferung erheblich. Ein Test zeigte eine Verringerung der Pufferanzahl von 50 auf 5 bei einem 60-Sekunden-Video mit einer eingeschränkten Bandbreite von 5 MBit/s.
-* **Videoprofile** Das Erstellen benutzerdefinierter Videoprofile mit unterschiedlichen Qualitätskodierungen gewährleistet eine optimale Videoleistung unter verschiedenen Netzwerkbedingungen.
+* **Dynamic Media-Funktionen** Dynamic Media ermöglicht die schnelle und flexible Bereitstellung hochwertiger, personalisierter Medien auf allen Geräten, die mehr als 9 Billionen Mediensendungen pro Jahr und tägliche Spitzenmengen von bis zu 69 Milliarden Assets verarbeiten.
+* **Adaptives Streaming** Die Verwendung von adaptivem Streaming für die Videobereitstellung reduziert die Pufferung erheblich. Ein Test zeigte eine Verringerung der Pufferanzahl von 50 auf 5 in einem 60-Sekunden-Video mit einer eingeschränkten Bandbreite von 5 Mbit/s.
+* **Videoprofile** Das Erstellen benutzerdefinierter Videoprofile mit verschiedenen Kodierungen sorgt für eine optimale Videoleistung bei unterschiedlichen Netzwerkbedingungen.
 * **Best Practices für SEO**
-   * Verwenden Sie Regelsätze zum Erstellen beschreibender URLs für ein besseres SEO.
-   * Fügen Sie Bildern alternative Text- und Titelattribute hinzu.
-   * Nutzen Sie intelligente Bildbearbeitung und die neuesten Bildformate wie WebP für bessere Suchrankings.
+   * Verwenden Sie Regelsätze, um beschreibende URLs für eine bessere SEO zu erstellen.
+   * Hinzufügen von Alternativtext und Titelattributen zu Bildern.
+   * Nutzen Sie die intelligente Bildbearbeitung und die neuesten Bildformate wie WebP für bessere Such-Ranglisten.
 * **Bildoptimierung**
-   * Verwenden Sie Skalierungsparameter, um die Bildauflösung basierend auf der Bildschirmgröße anzupassen.
-   * Vermeiden Sie die Verwendung von 100 %-Qualität für Bilder. Verwenden Sie stattdessen einen Bereich von 80-90 %, um die Dateigröße zu reduzieren, ohne dass ein deutlicher Qualitätsverlust auftritt.
+   * Skalierungsparameter verwenden, um die Bildauflösung an die Bildschirmgröße anzupassen.
+   * Vermeiden Sie die Verwendung einer 100%igen Bildqualität. Verwenden Sie stattdessen einen Bereich von 80 bis 90 %, um die Dateigröße ohne merklichen Qualitätsverlust zu reduzieren.
    * Wenden Sie Scharfzeichnungsparameter an, um die Textklarheit in Bildern zu verbessern.
-* **Massen-Content-Management**
-   * Trennen Sie Inhalte für die Bereitstellung dynamischer Medien von anderen Inhalten.
-   * Verwenden Sie eine selektive Synchronisierung, um die Verarbeitungszeiten zu optimieren und die Markteinführungszeit zu verkürzen.
-* **Viewer-Vorgaben** Passen Sie das Erscheinungsbild und Verhalten des Viewers mithilfe von Viewer-Vorgaben ohne Codeänderungen an. Beispiele sind das Bearbeiten von Wiedergabe-/Pause-Schaltflächen, das Aktivieren von automatischer Wiedergabe und Schleife sowie das Hinzufügen von Bildüberlagerungen.
-* **Cache-Invalidierung** Verwenden Sie die Cache-Invalidierung, um sofort Änderungen widerzuspiegeln, die an bereits veröffentlichten Assets vorgenommen wurden. Dabei wird die standardmäßige 10-Stunden-TTL umgangen.
-* **Überwachung und Debugging** Verwenden Sie Tools wie das AEM-Desktop-Programm und die Seite &quot;Query Debugger&quot;, um Verarbeitungsaufträge zu verfolgen und nicht verarbeitete Assets zu identifizieren.
-* **Intelligente Bildbearbeitung** Intelligente Bildbearbeitung ist standardmäßig für alle Domänen aktiviert, was die Größe von Bilddateien verringert und die Ladezeiten verbessert.
+* **Masseninhalts-Management**
+   * Trennung von Inhalten, die für die Bereitstellung von Dynamic Media vorgesehen sind, von anderen Inhalten.
+   * Verwenden Sie selektive Synchronisierung, um die Verarbeitungszeiten zu optimieren und die Markteinführungszeit zu verbessern.
+* **Viewer-Vorgaben** Passen Sie das Erscheinungsbild und Verhalten des Viewers mithilfe von Viewer-Vorgaben ohne Code-Änderungen an. Beispiele sind das Bearbeiten von Wiedergabe-/Pause-Schaltflächen, das Aktivieren der automatischen Wiedergabe und Schleife und das Hinzufügen von Bildüberlagerungen.
+* **Cache-Invalidierung** Verwenden Sie die Cache-Invalidierung, um Änderungen an bereits veröffentlichten Assets sofort widerzuspiegeln, und umgehen Sie die standardmäßige 10-Stunden-TTL.
+* **Überwachung und Debugging** Verwenden Sie Tools wie das AEM-Desktop-Programm und die Seite „Abfrage-Debugger“, um Verarbeitungsaufträge zu verfolgen und nicht verarbeitete Assets zu identifizieren.
+* **Intelligente Bildbearbeitung** Die intelligente Bildbearbeitung ist standardmäßig auf allen Domains aktiviert, wodurch die Größe der Bilddateien verringert und die Ladezeiten verbessert werden.

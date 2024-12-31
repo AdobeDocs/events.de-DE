@@ -1,6 +1,6 @@
 ---
 title: AEM Champion Office Hours
-description: Diese Adobe Experience Manager-Benutzergruppe (AEMUG) wird durch die AEM Champion Class 2022-2023 erleichtert. Champions werden diese AEMUG als Plattform für ihre monatlichen Bürozeiten verwenden
+description: Diese Adobe Experience Manager User Group (AEMUG) wird durch die AEM Champion Class 2022-2023 unterstützt. Champions nutzen diese AEMUG als Plattform für ihre monatlichen Bürozeiten
 exl-id: 59afdad3-fffc-4ec4-9bdf-cdae32422737
 duration: 72
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # AEM Champion Office Hours
 
-Diese Adobe Experience Manager-Benutzergruppe (AEMUG) wird durch die AEM Champion Class 2022-2023 erleichtert. Champions werden diese AEMUG als Plattform für ihre monatlichen Bürozeiten nutzen, auf der AEM Anwender und Entwickler aller Erfahrungsstufen teilnehmen und ihre schwierigsten Fragen von erfahrenen Experience Manager, Partnern und Beratern beantworten können.
+Diese Adobe Experience Manager User Group (AEMUG) wird durch die AEM Champion Class 2022-2023 unterstützt. Champions nutzen diese AEMUG als Plattform für ihre monatlichen Bürozeiten, an denen AEM-Anwender und Entwickler aller Erfahrungsstufen teilnehmen und ihre schwierigsten Fragen von erfahrenen Experience Manager-Kunden, -Partnern und -Beratern beantwortet bekommen können.
 
-Wenn Sie Ihr Wissen und Ihre Nutzung von Adobe Experience Manager erweitern möchten, mit Experience Manager-Gedankenführern interagieren und exklusives Swag verdienen möchten, dann treten Sie heute in die AEM Champion Office Hours User Group ein!
+Wenn Sie daran interessiert sind, Ihr Wissen über und die Verwendung von Adobe Experience Manager zu erweitern, mit Experience Manager-Vordenkern zu interagieren und exklusive Swaps zu erwerben, dann treten Sie noch heute der AEM Champion Office Hours-Benutzergruppe bei!
 
 <!--
 ## What's New
@@ -66,4 +66,4 @@ Wenn Sie Ihr Wissen und Ihre Nutzung von Adobe Experience Manager erweitern möc
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.
+>**Alle aufgezeichneten Sitzungen werden im Navigationsbereich auf der linken Seite**.

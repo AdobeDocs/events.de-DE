@@ -1,7 +1,7 @@
 ---
-user-guide-title: Tieftauchgänge
+user-guide-title: Tiefe Tauchgänge
 user-guide-breadcrumb: Deep Dives
-user-guide-description: Eine Liste der Aufnahmen von Deep Dive
+user-guide-description: Eine Liste von Deep Dive-Aufzeichnungen
 type: Event
 mini-toc-levels: 2
 event-series: Deep Dives
@@ -17,21 +17,21 @@ ht-degree: 4%
 ---
 
 
-# Tieftauchgänge {#deep-dives-recordings}
+# Tiefe Tauchgänge {#deep-dives-recordings}
 
 + [Übersicht](overview.md)
-+ Tieftauchgänge in Marketo {#deep-dives-marketo}
++ Detaillierte Einblicke in Marketo {#deep-dives-marketo}
    + [Migration von Admin Consolen](admin-console.md)
    + [APIs](api.md)
-   + [Automatisieren und Optimieren von Kampagnenoperationen mit der Marketo-API](campaign-operations.md)
+   + [Automatisieren und Optimieren von Kampagnenvorgängen mithilfe der Marketo-API](campaign-operations.md)
    + [Zertifizierung](certification.md)
-   + [E-Mail-Krankenversicherung](email-nurture.md)
+   + [E-Mail-Pflege](email-nurture.md)
    + [Ausführbare Kampagnen](executable-campaigns.md)
    + [Vererben einer Instanz](inheriting-an-instance.md)
-   + [Bleilebenszyklen](lead-lifecycles.md)
+   + [Lead-Lebenszyklen](lead-lifecycles.md)
    + [Nutzung von PMCF-Feldern für Skalierbarkeit](pmcf-fields.md)
    + [E-Mail-Zustellbarkeit maximieren](maximize-email-deliverability.md)
-   + [Maximieren Sie Ihre Instanz mit einem kleinen Team.](small-team-instance.md)
-   + [Erläuterung komplexer Prozesse im Aktivitätsprotokoll](activity-log.md)
-   + [Globales Marketing entsperren](global-marketing.md)
-   + [Verwenden von Webhooks zum Übertragen von Daten](webhooks.md)
+   + [Instanz mit einem kleinen Team maximieren](small-team-instance.md)
+   + [Kennzeichnen komplexer Prozesse im Aktivitätsprotokoll](activity-log.md)
+   + [Globales Marketing erschließen](global-marketing.md)
+   + [Verwenden von Webhooks zur Datenübertragung](webhooks.md)

@@ -1,6 +1,6 @@
 ---
-title: Experience League LIVE, Episode 2 - Machen Sie Ihr nächstes Zielgruppensegment schlauer als je zuvor
-description: Der Erfolg jeder guten Marketing-Kampagne hängt von einer präzisen Bestimmung Ihrer Zielgruppe ab. Mit dem neuen Adobe Experience Platform Segment Builder können Sie Ihr nächstes Zielgruppensegment mithilfe von Profildaten und zeitbasiertem Benutzerverhalten kanalübergreifend erstellen. Es gibt keine bessere Möglichkeit sicherzustellen, dass Ihre Nachrichten die Menschen erreichen, die sie am dringendsten hören müssen. Nehmen Sie an einer Diskussion mit drei Adobe-Experten teil, die sich für diese Technik eingesetzt haben. Wir zeigen Ihnen effektive Möglichkeiten, sowohl einfache als auch komplexe Segmente zu erstellen.
+title: Experience League LIVE, Folge 2 - Machen Sie Ihr nächstes Zielgruppensegment intelligenter als je zuvor
+description: Der Erfolg jeder guten Marketing-Kampagne hängt von einer präzisen Bestimmung Ihrer Zielgruppe ab. Mit dem neuen Segment Builder von Adobe Experience Platform können Sie Ihr nächstes Zielgruppensegment anhand von Profildaten und zeitbasiertem Benutzerverhalten kanalübergreifend erstellen. Es gibt keine bessere Möglichkeit, um sicherzustellen, dass Ihre Nachrichten die Menschen erreichen, die sie am dringendsten hören müssen. Nehmen Sie an einer Diskussion teil, in der drei Adobe-Experten vertreten waren, die maßgeblich an der Entwicklung dieser Technologie beteiligt waren. Wir zeigen Ihnen effektive Möglichkeiten, sowohl einfache als auch komplexe Segmente zu erstellen.
 solution: Experience Platform
 feature: Audiences
 kt: 8581
@@ -15,11 +15,11 @@ ht-degree: 20%
 
 ---
 
-# Experience League LIVE, Episode 2 - Machen Sie Ihr nächstes Zielgruppensegment schlauer als je zuvor
+# Experience League LIVE, Folge 2 - Machen Sie Ihr nächstes Zielgruppensegment intelligenter als je zuvor
 
-Der Erfolg jeder guten Marketing-Kampagne hängt von einer präzisen Bestimmung Ihrer Zielgruppe ab. Mit dem neuen Adobe Experience Platform Segment Builder können Sie Ihr nächstes Zielgruppensegment mithilfe von Profildaten und zeitbasiertem Benutzerverhalten kanalübergreifend erstellen. Es gibt keine bessere Möglichkeit, um mit Ihren Botschaften die Menschen zu erreichen, die sie am dringendsten hören müssen.
+Der Erfolg jeder guten Marketing-Kampagne hängt von einer präzisen Bestimmung Ihrer Zielgruppe ab. Mit dem neuen Segment Builder von Adobe Experience Platform können Sie Ihr nächstes Zielgruppensegment anhand von Profildaten und zeitbasiertem Benutzerverhalten kanalübergreifend erstellen. Es gibt keine bessere Möglichkeit, um mit Ihren Botschaften die Menschen zu erreichen, die sie am dringendsten hören müssen.
 
-Nehmen Sie an einer Diskussion mit drei Adobe-Experten teil, die sich für diese Technik eingesetzt haben. Wir zeigen Ihnen effektive Möglichkeiten, sowohl einfache als auch komplexe Segmente zu erstellen.
+Nehmen Sie an einer Diskussion teil, in der drei Adobe-Experten vertreten waren, die maßgeblich an der Entwicklung dieser Technologie beteiligt waren. Wir zeigen Ihnen effektive Möglichkeiten, sowohl einfache als auch komplexe Segmente zu erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336422/?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
-title: Bereitstellen verwalteter Inhalte für Ihre nativen Apps
-description: Möglicherweise sind Sie nicht in der Lage, vollständig auf die Nutzung von Web-Technologien und plattformübergreifender Entwicklung von PhoneGap Enterprise umzustellen. Es ist jedoch weiterhin möglich, die Leistungsfähigkeit von AEM zu nutzen, indem Sie Web-Inhalte direkt zu Ihren vorhandenen nativen Apps hinzufügen. In dieser Sitzung wird ausführlich beschrieben, wie mit AEM Apps erstellte Inhalte dann in eine bestehende Android-App integriert werden können. Nach der Integration in die native App können die AEM aktualisiert werden, ohne dass eine weitere native Entwicklung erforderlich ist. Außerdem kann sie mit dem Rest der nativen Anwendung kommunizieren.
+title: Bereitstellen verwalteter Inhalte für Ihre nativen Programme
+description: Auch wenn Sie nicht in der Lage sind, vollständig auf die Verwendung von Web-Technologien und plattformübergreifende Entwicklung von PhoneGap Enterprise umzusteigen, ist es dennoch möglich, die Leistungsfähigkeit von AEM zu nutzen, indem Sie Web-Inhalte direkt in Ihre bestehenden nativen Apps einfügen. In dieser Sitzung wird im Detail behandelt, wie mit AEM-Programmen erstellte Inhalte in eine bestehende Android-App integriert werden können. Nach der Integration in die native App können die AEM-Inhalte aktualisiert werden, ohne dass eine weitere native Entwicklung erforderlich ist, und sie können mit dem Rest der nativen App kommunizieren.
 discoiquuid: 4e22b290-b352-4371-a734-fdbed3d25838
 targetaudience: target-audience advanced
 exl-id: cb343695-80ec-4781-92c2-5dba32e71a09
@@ -12,19 +12,19 @@ ht-degree: 0%
 
 ---
 
-# Bereitstellen verwalteter Inhalte für Ihre nativen Apps{#delivering-managed-content-to-your-native-apps}
+# Bereitstellen verwalteter Inhalte für Ihre nativen Programme{#delivering-managed-content-to-your-native-apps}
 
-Möglicherweise sind Sie nicht in der Lage, vollständig auf die Nutzung von Web-Technologien und plattformübergreifender Entwicklung von PhoneGap Enterprise umzustellen. Es ist jedoch weiterhin möglich, die Leistungsfähigkeit von AEM zu nutzen, indem Sie Web-Inhalte direkt zu Ihren vorhandenen nativen Apps hinzufügen. In dieser Sitzung wird ausführlich beschrieben, wie mit AEM Apps erstellte Inhalte dann in eine bestehende Android-App integriert werden können. Nach der Integration in die native App können die AEM aktualisiert werden, ohne dass eine weitere native Entwicklung erforderlich ist. Außerdem kann sie mit dem Rest der nativen Anwendung kommunizieren.
+Auch wenn Sie nicht in der Lage sind, vollständig auf die Verwendung von Web-Technologien und plattformübergreifende Entwicklung von PhoneGap Enterprise umzusteigen, ist es dennoch möglich, die Leistungsfähigkeit von AEM zu nutzen, indem Sie Web-Inhalte direkt in Ihre bestehenden nativen Apps einfügen. In dieser Sitzung wird im Detail behandelt, wie mit AEM-Programmen erstellte Inhalte in eine bestehende Android-App integriert werden können. Nach der Integration in die native App können die AEM-Inhalte aktualisiert werden, ohne dass eine weitere native Entwicklung erforderlich ist, und sie können mit dem Rest der nativen App kommunizieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19467/?quality=9)
 
-*Ausgestellt am 10. September 2014*
+*Veröffentlicht am 10.09.2014*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 Anthony Rumsey, Informatiker, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/9-10-2014-delivering-managed-content-to-your-native-apps.pdf)
 <!--

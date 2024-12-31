@@ -1,6 +1,6 @@
 ---
-title: Optimierung des mehrsprachigen Inhaltsprozesses
-description: Erfahren Sie mehr über Best Practices zur Optimierung des Prozesses der mehrsprachigen Inhaltserstellung und -lokalisierung, damit Ihre Benutzer ihre Aufgaben ausführen können, ohne die CQ-Benutzeroberfläche verlassen zu müssen. AEM- und Translations.com GlobalLink®-Technologien sind nahtlos mit den Anwendern integriert. Sehen Sie sich Keith an, wie Sie mehrsprachige Websites mit MSM, Sprachkopie und GlobalLink® einrichten und konfigurieren. Mit einer Live-Demo, um zu zeigen, wie einfach es für Ihre Benutzer ist.
+title: Optimierung des Prozesses für mehrsprachige Inhalte
+description: Erfahren Sie mehr über Best Practices zur Optimierung des Prozesses der Erstellung mehrsprachiger Inhalte und der Lokalisierung, damit Ihre Benutzerinnen und Benutzer ihre Aufgaben erledigen können, ohne die CQ-Benutzeroberfläche verlassen zu müssen. Die GlobalLink®-Technologien von AEM und Translations.com sind nahtlos integriert, wobei die Benutzerinnen und Benutzer im Mittelpunkt stehen. Keith Brazil zeigt Ihnen, wie Sie mehrsprachige Websites mit MSM, Sprachkopien und GlobalLink® einrichten und konfigurieren können. In einer Live-Demo erfahren Sie, wie einfach es für Ihre Benutzerinnen und Benutzer ist.
 discoiquuid: 77f623b6-4ca9-4122-9a48-5efe4d118865
 targetaudience: target-audience advanced
 exl-id: 01709699-5213-4fee-824e-a6b954ab86cd
@@ -12,15 +12,15 @@ ht-degree: 0%
 
 ---
 
-# Optimierung des mehrsprachigen Inhaltsprozesses{#streamlining-multilingual-content-process}
+# Optimierung des Prozesses für mehrsprachige Inhalte{#streamlining-multilingual-content-process}
 
-Suchen Sie Best Practices, um die Erstellung und Lokalisierung mehrsprachiger Inhalte zu optimieren, damit Ihre Benutzer ihre Aufgaben ausführen können, ohne die CQ-Benutzeroberfläche verlassen zu müssen? Diese Sitzung ist für Sie! AEM- und Translations.com GlobalLink®-Technologien sind nahtlos mit den Anwendern integriert. In dieser Sitzung zeigt Keith, wie mehrsprachige Websites mit MSM, Language Copy und GlobalLink® eingerichtet und konfiguriert werden. Mit einer Live-Demo, um zu zeigen, wie einfach es für Ihre Benutzer ist.
+Suchen Sie nach Best Practices zur Optimierung des Prozesses der Erstellung mehrsprachiger Inhalte und der Lokalisierung, damit Ihre Benutzerinnen und Benutzer ihre Aufgaben erledigen können, ohne die CQ-Benutzeroberfläche verlassen zu müssen? Diese Sitzung ist für Sie! Die GlobalLink®-Technologien von AEM und Translations.com sind nahtlos integriert, wobei die Benutzerinnen und Benutzer im Mittelpunkt stehen. In dieser Sitzung zeigt Ihnen Keith Brazil, wie Sie mehrsprachige Websites mit MSM, Sprachkopien und GlobalLink® einrichten und konfigurieren können. In einer Live-Demo erfahren Sie, wie einfach es für Ihre Benutzerinnen und Benutzer ist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19569/?quality=9)
 
-*Ausgestellt am 30. Oktober 2013*
+*Veröffentlicht am 30.10.2013*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 Keith Brazil, VP of Technology, Translations.com
 

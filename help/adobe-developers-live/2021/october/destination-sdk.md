@@ -1,6 +1,6 @@
 ---
-title: Einführung in die Adobe Experience Platform Destination SDK
-description: In dieser Sitzung stellen wir Ihnen die Destination SDK vor - eine neue Funktion von Adobe Experience Platform, die es Partnern und Kunden ermöglicht, Ziele in Adobe Experience Platform und Real-time Customer Data Platform zu erstellen. Sie erfahren, wie Sie eine neue Zielintegration einrichten und welche Vorteile diese für Ihr Unternehmen und unsere gemeinsamen Kunden bringt.
+title: Einführung in Adobe Experience Platform Destinationen SDK
+description: In dieser Sitzung stellen wir Ihnen Destination SDK vor - eine neue Funktion von Adobe Experience Platform, mit der Partner und Kundinnen und Kunden Ziele in Adobe Experience Platform und Real-time Customer Data Platform erstellen können. Sie erfahren, wie Sie eine neue Zielintegration einrichten und wie diese für Ihr Unternehmen und unsere gemeinsamen Kunden von Vorteil ist.
 solution: Real-Time Customer Data Platform
 feature: Destinations
 topic: Development
@@ -17,15 +17,15 @@ ht-degree: 9%
 
 ---
 
-# Einführung in die Adobe Experience Platform Destination SDK
+# Einführung in Adobe Experience Platform Destinationen SDK
 
-In dieser Sitzung stellen wir Ihnen die Destination SDK vor - eine neue Funktion von Adobe Experience Platform, die es Partnern und Kunden ermöglicht, Ziele in Adobe Experience Platform und Real-time Customer Data Platform zu erstellen. Sie erfahren, wie Sie eine neue Zielintegration einrichten und welche Vorteile diese für Ihr Unternehmen und unsere gemeinsamen Kunden bringt.
+In dieser Sitzung stellen wir Ihnen Destination SDK vor - eine neue Funktion von Adobe Experience Platform, mit der Partner und Kundinnen und Kunden Ziele in Adobe Experience Platform und Real-time Customer Data Platform erstellen können. Sie erfahren, wie Sie eine neue Zielintegration einrichten und wie diese für Ihr Unternehmen und unsere gemeinsamen Kunden von Vorteil ist.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337583/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

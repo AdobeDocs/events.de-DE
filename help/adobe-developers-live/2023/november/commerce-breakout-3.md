@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live Commerce-Aufschlüsselung 3. November 2023
-description: In dieser Live-Sitzung am 6. November 2023 in Adobe Developers Live diskutieren Kanika Gera und Surya Lamech den Prozess des Aufbaus ereignisorientierter Integrationen zwischen Adobe Commerce und AWS. Informieren Sie sich über das Erweiterungsmodell von Adobe Commerce, lernen Sie seine Integration mit Amazon EventBridge kennen und erkunden Sie reale Anwendungen in einer Cloud-nativen Umgebung für den digitalen Handel. Diese Sitzung bietet einen tiefen Einblick in die Erstellung skalierbarer, flexibler Commerce-Lösungen, die die neuesten Cloud-Technologien nutzen.
+title: Adobe Developers Live Commerce Breakout 3. November 2023
+description: In dieser am 6. November 2023 live aufgezeichneten Session diskutieren Kanika Gera und Surya Lamech in Adobe Developers Live den Prozess der Erstellung ereignisgesteuerter Integrationen zwischen Adobe Commerce und AWS. Machen Sie sich mit dem Erweiterbarkeitsmodell von Adobe Commerce vertraut, erfahren Sie mehr über dessen Integration mit Amazon EventBridge und lernen Sie reale Anwendungen in einer Cloud-nativen Umgebung für Digital Commerce kennen. Diese Sitzung bietet einen tiefen Einblick in die Erstellung skalierbarer, flexibler Commerce-Lösungen, die die neueste Cloud-Technologie nutzen.
 solution: Commerce
 feature-set: Commerce
 feature: Extensibility, Integration
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Live Commerce-Aufschlüsselung 3. November 2023
+# Adobe Developers Live Commerce Breakout 3. November 2023
 
-In dieser Live-Sitzung am 6. November 2023 in Adobe Developers Live diskutieren Kanika Gera und Surya Lamech den Prozess des Aufbaus ereignisorientierter Integrationen zwischen Adobe Commerce und AWS. Informieren Sie sich über das Erweiterungsmodell von Adobe Commerce, lernen Sie seine Integration mit Amazon EventBridge kennen und erkunden Sie reale Anwendungen in einer Cloud-nativen Umgebung für den digitalen Handel. Diese Sitzung bietet einen tiefen Einblick in die Erstellung skalierbarer, flexibler Commerce-Lösungen, die die neuesten Cloud-Technologien nutzen.
+In dieser am 6. November 2023 live aufgezeichneten Session diskutieren Kanika Gera und Surya Lamech in Adobe Developers Live den Prozess der Erstellung ereignisgesteuerter Integrationen zwischen Adobe Commerce und AWS. Machen Sie sich mit dem Erweiterbarkeitsmodell von Adobe Commerce vertraut, erfahren Sie mehr über dessen Integration mit Amazon EventBridge und lernen Sie reale Anwendungen in einer Cloud-nativen Umgebung für Digital Commerce kennen. Diese Sitzung bietet einen tiefen Einblick in die Erstellung skalierbarer, flexibler Commerce-Lösungen, die die neueste Cloud-Technologie nutzen.
 
-Fahren Sie mit der Unterhaltung in [Experience League Communities](https://adobe.ly/3ts1NW5) fort.
+Gespräche in [Experience League Communities fortsetzen](https://adobe.ly/3ts1NW5).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425633/?learn=on)

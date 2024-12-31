@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live NOV 22 Einführung in die Erweiterbarkeit der Benutzeroberfläche und die neue Benutzeroberfläche für Inhaltsfragmente
-description: Einführung in die Erweiterbarkeit der Benutzeroberfläche und den UIAdobe-Experience Manager für neue Inhaltsfragmente bietet neue Dienste, die die Wartungskosten senken, den Benutzern ständig die neuesten Verbesserungen bieten und mit einem modernen Front-End-Technologiestapel angepasst und erweitert werden können. In dieser Sitzung erstellen wir einen Überblick über die neuen Inhaltsfragment-UI-Dienste und stellen ein schrittweises Beispiel für die Erstellung einer Erweiterung für die Inhaltsfragmentkonsole bereit.
+description: Einführung in die Erweiterbarkeit der Benutzeroberfläche und die neue Inhaltsfragment-UIAdobe-Experience Manager bietet neue Services, die die Wartungskosten senken, den Benutzenden ständig die neuesten Verbesserungen liefern und mit einem modernen Frontend-Technologie-Stack angepasst und erweitert werden können. In dieser Sitzung geben wir einen Überblick über neue Benutzeroberflächen-Services für Inhaltsfragmente und geben ein schrittweises Beispiel für die Erstellung einer Erweiterung für die Inhaltsfragment-Konsole.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# Einführung in die Erweiterbarkeit der Benutzeroberfläche und die Benutzeroberfläche für neue Inhaltsfragmente
+# Einführung in die Erweiterbarkeit der Benutzeroberfläche und die neue Benutzeroberfläche für Inhaltsfragmente
 
-Adobe Experience Manager bietet neue Services, die die Wartungskosten senken, den Anwendern ständig neue Verbesserungen bieten und mit einem modernen Front-End-Technologiestapel angepasst und erweitert werden können.
+Adobe Experience Manager bietet neue Services, die die Wartungskosten senken, den Benutzern ständig die neuesten Verbesserungen bieten und mit einem modernen Frontend-Technologie-Stack angepasst und erweitert werden können.
 
-In dieser Sitzung erstellen wir einen Überblick über die neuen Dienste der Inhaltsfragment-Benutzeroberfläche und stellen ein schrittweises Beispiel für die Erstellung einer Erweiterung für die Inhaltsfragmentkonsole bereit.
+In dieser Sitzung geben wir einen Überblick über die neuen Services der Inhaltsfragment-Benutzeroberfläche und geben ein schrittweises Beispiel für die Erstellung einer Erweiterung für die Inhaltsfragment-Konsole.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411305/?quality=12&learn=on)

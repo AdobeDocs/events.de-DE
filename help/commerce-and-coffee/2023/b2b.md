@@ -1,6 +1,6 @@
 ---
-title: Ermöglichen des B2B-Erfolgs
-description: Erfahren Sie mehr über die erweiterten B2B-Funktionen von Adobe Commerce mit Corey Gelato, einschließlich freigegebener Kataloge, Anführungszeichen, Anforderungslisten und Genehmigungs-Workflows. Lernen Sie gleichzeitig Strategien kennen, um Wachstum zu fördern und in der sich entwickelnden B2B-Commerce-Landschaft wettbewerbsfähig zu bleiben.
+title: B2B-Erfolg unterstützen
+description: Erkunden Sie mit Corey Gelato die erweiterten B2B-Funktionen von Adobe Commerce, einschließlich Shared Catalog, Quotes, Anforderungslisten und Genehmigungs-Workflows, und lernen Sie Strategien kennen, um das Wachstum zu steigern und in der sich entwickelnden B2B-Commerce-Landschaft wettbewerbsfähig zu bleiben.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Ermöglichen des B2B-Erfolgs
+# B2B-Erfolg unterstützen
 
-Der B2B-Handel hat in den letzten Jahren ein unglaubliches Wachstum erlebt und ebenso die B2B-Funktionen von Adobe Commerce. Sr Commerce Strategy Consultant, Corey Gelato, skizziert Erfolgsstrategien, während er die wichtigen Transformationen im B2B-Handel durchläuft, während er gleichzeitig dem Wettbewerb voraus bleibt. Corey diskutiert Wege, um das Wachstum zu beschleunigen und Ihre B2B-Unternehmen erfolgreich zu machen. Er führt durch eine Demonstration von freigegebenen Katalogen, Anführungszeichen, Beschreibungslisten, Schnellbestellungen, Kaufaufträgen, Genehmigungs-Workflows, Unternehmens-Setup und mehr!
+Der B2B-Handel hat in den letzten Jahren ein unglaubliches Wachstum erlebt, ebenso wie die B2B-Funktionen von Adobe Commerce. Sr Commerce Strategy Consultant, Corey Gelato, beschreibt Erfolgsstrategien, während er die wichtigen Transformationen im B2B-Handel steuert und gleichzeitig der Konkurrenz einen Schritt voraus ist. Corey diskutiert Möglichkeiten, das Wachstum zu beschleunigen und Ihre B2B-Unternehmen auf den Erfolg vorzubereiten. Er führt Sie durch eine Demonstration von freigegebenen Katalogen, Angeboten, Anforderungslisten, Schnellbestellungen, Bestellungen, Genehmigungs-Workflows, Firmeneinstellungen und mehr!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421687/?learn=on)

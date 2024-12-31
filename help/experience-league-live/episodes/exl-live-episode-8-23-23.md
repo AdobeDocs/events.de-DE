@@ -1,6 +1,6 @@
 ---
-title: API-Trigger-Messaging in Adobe Journey Optimizer
-description: Erfahren Sie, wie Sie REST-APIs für kontextbezogene, personalisierte und Echtzeit-Transaktions- und Marketing-Kommunikationen verwenden.
+title: API-ausgelöstes Messaging in Adobe Journey Optimizer
+description: Erfahren Sie, wie Sie REST-APIs für kontextuelle, personalisierte und Echtzeit-Transaktions- und Marketing-Kommunikation verwenden.
 kt: KT-13734
 solution: Journey Optimizer
 feature: API
@@ -16,19 +16,19 @@ ht-degree: 0%
 
 ---
 
-# API-Trigger-Messaging in Adobe Journey Optimizer
+# API-ausgelöstes Messaging in Adobe Journey Optimizer
 
-Erfahren Sie, wie Sie REST-APIs für kontextbezogene, personalisierte und Echtzeit-Transaktions- und Marketing-Kommunikationen verwenden.
+Erfahren Sie, wie Sie REST-APIs für kontextuelle, personalisierte und Echtzeit-Transaktions- und Marketing-Kommunikation verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422169/?learn=on)
 
-Adobe Journey Optimizer bietet zwar eine moderne, marketerfreundliche Benutzeroberfläche und einen modernen Workflow zum Erstellen und Verwalten personalisierter 1:1-Journey in Echtzeit, Unternehmen müssen aber auch zeitkritische Nachrichten kommunizieren, die auf dringenden Signalen und Autorennachrichten basieren, ohne Journey zu erstellen. Diese Nachrichten können Kennwortrücksätze, einmalige Codes oder sogar Post-Game-Updates für Abonnenten von Sportfans umfassen.
+Adobe Journey Optimizer bietet eine moderne, marketerfreundliche Oberfläche und einen Workflow zum Erstellen und Verwalten personalisierter 1:1-Journey-Nachrichten in Echtzeit. Unternehmen müssen jedoch auch zeitkritische und geschäftskritische Nachrichten auf der Grundlage von Eilsignalen kommunizieren und Nachrichten an Zielgruppen verfassen, ohne Journey-Nachrichten zu erstellen. Diese Nachrichten können Kennwortzurücksetzungen, einmalige Codes oder sogar Updates nach dem Spiel für die Abonnenten von Sportfans enthalten.
 
-Mit API-ausgelösten Kampagnen können Unternehmen eine Kampagne einrichten und mehrmals verwenden, um personalisierte Nachrichten mit kontextbezogenen Echtzeitinformationen durch Auslösen über die REST-API zu senden.
+Mit API-ausgelösten Kampagnen können Unternehmen eine Kampagne einrichten und mehrmals verwenden, um personalisierte Nachrichten mit kontextuellen Informationen in Echtzeit bereitzustellen, indem sie über die REST-API ausgelöst werden.
 
-In dieser Experience League-Live-Sitzung erläutern Adobe-Produktexperten, wie Sie Transaktions- und Marketing-Anwendungsfälle mit API-Trigger-Messaging-Funktionen in AJO ausführen können.
+In dieser Experience League-Live-Sitzung erklären Adobe-Produktexperten, wie Sie Transaktions- und Marketing-Anwendungsfälle mit API-ausgelösten Messaging-Funktionen in AJO ausführen können.
 
-**Klicken Sie auf das Bild oben, um die Sendung anzuzeigen!**
+**Klicken Sie auf das Bild oben, um die Sendung zu sehen!**
 
-Fahren Sie mit der Diskussion über den [Experience League-Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132) fort.
+Setzen Sie die Diskussion über den [Experience League-Community-Beitrag fort](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
 

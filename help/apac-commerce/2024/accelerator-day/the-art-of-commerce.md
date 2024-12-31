@@ -1,6 +1,6 @@
 ---
 title: Die Kunst des Handels
-description: Präsentation von Live-Kundenbeispielen auf Adobe Commerce, die den neuesten Stand des Möglichen demonstrieren, mit Lösungspartner-Innovationen an vorderster Front.
+description: Präsentieren Sie Live-Kundenbeispiele auf Adobe Commerce und demonstrieren Sie die neuesten Möglichkeiten, wobei Solution Partner-Innovationen im Vordergrund stehen.
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Die Kunst des Handels
 
-Präsentation von Live-Kundenbeispielen auf Adobe Commerce, die den neuesten Stand des Möglichen demonstrieren, mit Lösungspartner-Innovationen an vorderster Front.
+Präsentieren Sie Live-Kundenbeispiele auf Adobe Commerce und demonstrieren Sie die neuesten Möglichkeiten, wobei Solution Partner-Innovationen im Vordergrund stehen.
 
-+ Vorgestellt von Carl Screwvala, Senior Solutions Engineer - Adobe
++ Präsentiert von Carl Screwvala, Senior Solutions Engineer - Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
 

@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - NOV 22 - Erstellen Ihrer ersten React-App
-description: Erstellen Sie Ihre erste React-App mit Experience Manager Headless-CMSIntroduction zu Adobe Experience Manager Headless-CMS-Inhaltsfragmenten GraphQL-Funktionen. In dieser Sitzung erfahren Sie, wie Sie schnell eine React-App mit Daten aus Headless-CMS von Adobe Experience Manager einrichten.
+title: Adobe Developers Live - 22. November - Erstellen Sie Ihre erste React-App
+description: Erstellen Sie Ihre erste React-App mit Experience Manager Headless-CMSInführung in die Funktionen von Adobe Experience Manager Headless CMS Content Fragments GraphQL. In dieser Sitzung erfahren Sie, wie Sie schnell eine React-App einrichten, die mit Daten aus Adobe Experience Manager Headless-CMS betrieben wird.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Einführung in die Funktionen von Adobe Experience Manager Headless CMS Content Fragments GraphQL.
 
-In dieser Sitzung erfahren Sie, wie Sie schnell eine React-App einrichten, die mit Daten aus dem Headless-CMS von Adobe Experience Manager angereichert wird.
+In dieser Sitzung erfahren Sie, wie Sie schnell eine React-App einrichten, die mit Daten aus Adobe Experience Manager Headless-CMS betrieben wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411298/?quality=12&learn=on)

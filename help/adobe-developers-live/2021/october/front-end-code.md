@@ -1,5 +1,5 @@
 ---
-title: Front-End-Code-Pipeline
+title: Frontend-Code-Pipeline
 description: Erfahren Sie, wie Sie die neue Frontend-Code-Pipeline verwenden, die kürzlich in Cloud Manager eingeführt wurde.
 solution: Experience Manager,Experience Manager Sites
 feature: Developer Tools, Deploying
@@ -18,16 +18,16 @@ ht-degree: 9%
 
 ---
 
-# Front-End-Code-Pipeline
+# Frontend-Code-Pipeline
 
 Erfahren Sie, wie Sie die neue Frontend-Code-Pipeline verwenden, die kürzlich in Cloud Manager eingeführt wurde.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/2XVcBg8)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/2XVcBg8)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337886/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

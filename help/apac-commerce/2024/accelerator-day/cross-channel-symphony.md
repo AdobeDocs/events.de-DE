@@ -1,6 +1,6 @@
 ---
-title: Kanalübergreifende Symphonie - Orchestrierung der Commerce-Exzellenz
-description: Ein Fireside Chat von Matt Palmer von der Adobe über die Förderung von Innovation, Personalisierung und Eins-zu-Eins-Messaging in Zusammenarbeit mit Adobe Commerce.
+title: Kanalübergreifende Symphonie - Orchestrieren von Commerce-Exzellenz
+description: Ein Chat am Kamin von Matt Palmer von Adobe, in dem gezeigt wird, wie DotDigital in Zusammenarbeit mit Adobe Commerce Innovation, Personalisierung und Eins-zu-eins-Messaging vorantreibt.
 feature: Personalization
 topic: Commerce
 role: Admin, Leader, User
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 ---
 
-# Kanalübergreifende Symphonie: Orchestrierung von Commerce-Exzellenz
+# Kanalübergreifende Symphonie: Orchestrieren von Commerce-Exzellenz
 
-Ein Fireside Chat von Matt Palmer von der Adobe über die Förderung von Innovation, Personalisierung und Eins-zu-Eins-Messaging in Zusammenarbeit mit Adobe Commerce.
+Ein Chat am Kamin von Matt Palmer von Adobe, in dem gezeigt wird, wie DotDigital in Zusammenarbeit mit Adobe Commerce Innovation, Personalisierung und Eins-zu-eins-Messaging vorantreibt.
 
-Redner:
+Lautsprecher:
 
 + Matt Palmer, Senior Partner Sales Manager - Adobe
-+ Graham Bell, Head of ANZ Sales - DotDigital
++ Graham Bell, Leiter ANZ Vertrieb - DotDigital
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429273/?learn=on)
 

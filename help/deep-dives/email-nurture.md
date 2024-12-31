@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurve
-description: Erschließen Sie das Potenzial der Lead-Pflege und des Drip-Marketing in dieser Sitzung, in der Sie die Schlüsselfaktoren für die Erstellung effektiver Strategien lernen, erfolgreiche Beispiele untersuchen und erfahren Sie, wie Sie diese Techniken in Ihrer gesamten Organisation anwenden können, um Ihre einzigartigen Ziele zu erreichen.
+title: Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture
+description: Entfesseln Sie das Potenzial von Lead-Nurturing und Drop-Marketing in dieser Sitzung, in der Sie wichtige Faktoren für die Erstellung effektiver Strategien lernen, erfolgreiche Beispiele erkunden und entdecken, wie Sie diese Techniken in Ihrem gesamten Unternehmen anwenden können, um Ihre einzigartigen Ziele zu erreichen.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# E-Mail-Krankenversicherung
+# E-Mail-Pflege
 
-Lead Nurturing, Drip Marketing, strategische E-Mail-Inhalte können viele verschiedene Namen haben. E-Mail-Pflege ist eine bewährte Strategie, die unzählige Verwendungen für eine Organisation hat, aber für viele Marketing-Experten und Vertriebsmitarbeiter ein komplettes Rätsel sein kann, sodass diese leistungsstarke Strategie oft nicht verwendet wird. In dieser Sitzung lernen Sie die wichtigsten Faktoren kennen, die Ihnen dabei helfen, sich bei der Erstellung Ihrer eigenen Lead-Pflegestrategie mehr Selbstvertrauen zu verschaffen, einige Beispiele erfolgreicher Pflegekräfte zu erlernen und zu lernen, wie Sie diese Strategien in Ihrer Organisation anwenden können, um Ihre individuellen Ziele zu erreichen.
+Lead-Pflege, Drop Marketing, strategische E-Mail-Inhalte können unter vielen verschiedenen Namen gehen. E-Mail-Pflege ist eine bewährte Strategie, die für ein Unternehmen unzählige Verwendungen hat, aber für viele Marketing-Experten und Vertriebsmitarbeiter ein absolutes Rätsel sein kann, sodass diese leistungsstarke Strategie oft nicht verwendet wird. In dieser Sitzung lernen Sie wichtige Faktoren kennen, die Sie bei der Erstellung Ihrer eigenen Lead-Nurturing-Strategie berücksichtigen sollten. Darüber hinaus erfahren Sie mehr über einige Beispiele erfolgreicher Nurtures und lernen, wie Sie diese Strategien in Ihrem Unternehmen anwenden können, um Ihre einzigartigen Ziele zu erreichen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418903/?learn=on)

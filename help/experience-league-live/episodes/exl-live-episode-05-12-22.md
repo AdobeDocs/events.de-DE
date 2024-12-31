@@ -1,6 +1,6 @@
 ---
 title: Push-Benachrichtigungen mit Adobe Journey Optimizer
-description: In dieser Experience League Live-Folge besprechen wir die gängigen Anwendungsfälle für Push-Benachrichtigungen mit Adobe Journey Optimizer und tauchen in die technischen Details zum Konfigurieren einer App für Push-Benachrichtigungen mit Adobe Experience Platform auf.
+description: In dieser Experience League Live-Episode sprechen wir über die häufigsten Anwendungsfälle für Push-Benachrichtigungen mit Adobe Journey Optimizer und gehen auf die technischen Details zum Konfigurieren einer App für Push-Benachrichtigungen mit Adobe Experience Platform ein.
 solution: Journey Optimizer
 kt: 10407
 feature: Push
@@ -18,7 +18,7 @@ ht-degree: 12%
 
 # Push-Benachrichtigungen mit Adobe Journey Optimizer
 
-Push-Benachrichtigungen helfen Ihnen, Ihre Mobile-App-Benutzer jederzeit zu erreichen – insbesondere dann, wenn sie Ihre Mobile App nicht aktiv verwenden. Journey Optimizer unterstützt Push-Benachrichtigungen und ermöglicht die Implementierung einer Vielzahl von Anwendungsfällen. Wissen Sie aber, wie Sie Ihre App konfigurieren, um mobile Push-Benachrichtigungen für Journey Optimizer zu aktivieren? In dieser Experience League Live-Folge werden wir über die gängigen Anwendungsfälle für Push-Benachrichtigungen mit Adobe Journey Optimizer sprechen und uns mit den technischen Details zur Konfiguration einer App für Push-Benachrichtigungen, die von Adobe Experience Platform bereitgestellt wird, vertraut machen.
+Push-Benachrichtigungen helfen Ihnen, Ihre Mobile-App-Benutzer jederzeit zu erreichen – insbesondere dann, wenn sie Ihre Mobile App nicht aktiv verwenden. Journey Optimizer unterstützt Push-Benachrichtigungen und ermöglicht die Implementierung einer Vielzahl von Anwendungsfällen. Aber wissen Sie, wie Sie Ihre App konfigurieren müssen, um mobile Push-Benachrichtigungen für Journey Optimizer zu aktivieren? In dieser Experience League Live-Episode sprechen wir über die häufigsten Anwendungsfälle für Push-Benachrichtigungen mit Adobe Journey Optimizer und gehen auf die technischen Details zum Konfigurieren einer App für Push-Benachrichtigungen mit Adobe Experience Platform ein.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342810/?quality=12&learn=on)
 
@@ -26,5 +26,5 @@ Push-Benachrichtigungen helfen Ihnen, Ihre Mobile-App-Benutzer jederzeit zu erre
 
 [Laden Sie die Android AEPSampleAPP herunter](https://github.com/adobe/aepsdk-sample-app-android)
 
-Um die Unterhaltung über diese Sitzung fortzusetzen, besuchen Sie bitte den [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+Um mit der Unterhaltung über diese Sitzung fortzufahren, besuchen Sie bitte den [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
 

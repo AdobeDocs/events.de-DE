@@ -1,6 +1,6 @@
 ---
-title: Bereitstellung von Omni-Inhalt
-description: Die Abstimmung von Inhalten zwischen eingehenden und ausgehenden Kanälen kann schwierig zu organisieren sein. Mit Adobe Experience Manager können Sie eingehende und ausgehende Inhalte erstellen und diese auf der gesamten Journey nutzen. In dieser Sitzung werden Integrationsmuster mit Adobe Target, Adobe Campaign, Adobe Journey Optimizer und mehr behandelt.
+title: Omni-Channel-Inhaltsbereitstellung
+description: Die Ausrichtung von Inhalten zwischen eingehenden und ausgehenden Kanälen kann schwierig zu organisieren sein. Mit Adobe Experience Manager können Sie sowohl eingehende als auch ausgehende Inhalte erstellen und diese Inhalte auf der Kunden-Journey verwenden. In dieser Sitzung werden Integrationsmuster mit Adobe Target, Adobe Campaign, Adobe Journey Optimizer und mehr behandelt.
 solution: Experience Manager,Experience Manager Sites
 topic: Integrations
 role: Developer, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Bereitstellung von Omni-Inhalt
+# Omni-Channel-Inhaltsbereitstellung
 
-Die Abstimmung von Inhalten zwischen eingehenden und ausgehenden Kanälen kann schwierig zu organisieren sein. Mit Adobe Experience Manager können Sie eingehende und ausgehende Inhalte erstellen und diese auf der gesamten Journey nutzen. In dieser Sitzung werden Integrationsmuster mit Adobe Target, Adobe Campaign, Adobe Journey Optimizer und mehr behandelt.
+Die Ausrichtung von Inhalten zwischen eingehenden und ausgehenden Kanälen kann schwierig zu organisieren sein. Mit Adobe Experience Manager können Sie sowohl eingehende als auch ausgehende Inhalte erstellen und diese Inhalte auf der Kunden-Journey verwenden. In dieser Sitzung werden Integrationsmuster mit Adobe Target, Adobe Campaign, Adobe Journey Optimizer und mehr behandelt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426337/?learn=on)

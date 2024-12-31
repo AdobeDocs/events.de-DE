@@ -1,6 +1,6 @@
 ---
-title: Experten fragen - Datenspeicher und Datenvorbereitung
-description: In dieser Sitzung zur Datenerfassung für die Adobe Experience Cloud werden unsere Experten einen tieferen Einblick in die erweiterten Datenerfassungsfunktionen von Adobe bieten, einschließlich Funktionen wie Datenvorbereitung für die Datenerfassung. Am Ende dieser Sitzung werden die Teilnehmer mit den neuesten und leistungsfähigsten Funktionen vertraut sein, mit denen Daten aus digitalen Erlebnissen erfasst werden können.
+title: Fragen an Experten - Datenströme und Datenvorbereitung
+description: In dieser Sitzung zur Datenerfassung für die Adobe Experience Cloud bieten unsere Experten einen tieferen Einblick in die erweiterten Datenerfassungsfunktionen der Adobe, einschließlich Funktionen wie Datenvorbereitung für die Datenerfassung. Am Ende dieser Sitzung werden die Teilnehmer mit den neuesten und leistungsfähigsten Funktionen zum Erfassen von Daten aus digitalen Erlebnissen vertraut sein.
 solution: Data Collection,Experience Platform
 feature: Datastreams, Data Prep, Data Collection
 kt: 10528
@@ -17,16 +17,16 @@ ht-degree: 0%
 
 ---
 
-# Fragen Sie die Experten: Datenspeicher und Datenvorbereitung
+# Fragen an Experten: Datenströme und Datenvorbereitung
 
-In dieser Sitzung zur Datenerfassung für die Adobe Experience Cloud werden unsere Experten einen tieferen Einblick in die erweiterten Datenerfassungsfunktionen von Adobe bieten, einschließlich Funktionen wie Datenvorbereitung für die Datenerfassung. Am Ende dieser Sitzung werden die Teilnehmer mit den neuesten und leistungsfähigsten Funktionen vertraut sein, mit denen Daten aus digitalen Erlebnissen erfasst werden können.
+In dieser Sitzung zur Datenerfassung für die Adobe Experience Cloud bieten unsere Experten einen tieferen Einblick in die erweiterten Datenerfassungsfunktionen der Adobe, einschließlich Funktionen wie Datenvorbereitung für die Datenerfassung. Am Ende dieser Sitzung werden die Teilnehmer mit den neuesten und leistungsfähigsten Funktionen zum Erfassen von Daten aus digitalen Erlebnissen vertraut sein.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345342/?quality=12&learn=on)
 
 ## Zusätzliche Experience League LIVE-Sitzungen aus dieser Datenerfassungsreihe
 
-* [Experten fragen - Grundlagen des Web SDK](exl-live-episode-05-26-22.md)
-* [Fragen Sie die Experten - RTCDP-Verbindungen](exl-live-episode-06-23-22.md)
+* [Fragen an Experten - Die Grundlagen von Web SDK](exl-live-episode-05-26-22.md)
+* [Fragen an Experten - RTCDP Connections](exl-live-episode-06-23-22.md)
 
-Weitere Informationen zu diesem Thema finden Sie im Experience League [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503).
+Weitere Diskussionen zu diesem Thema finden Sie auf der Experience League [Community Post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503).
 

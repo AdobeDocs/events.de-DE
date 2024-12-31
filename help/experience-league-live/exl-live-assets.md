@@ -1,6 +1,6 @@
 ---
 title: EXPERIENCE LEAGUE LIVE ASSETS
-description: Auf dieser Seite finden Sie Assets für Experience League LIVE
+description: Auf dieser Seite befinden sich Assets für das Experience League von LIVE
 role: User
 level: Beginner
 hide: true
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 # EXPERIENCE LEAGUE LIVE ASSETS
 
-Auf dieser Seite finden Sie Assets für Experience League LIVE
+Auf dieser Seite befinden sich Assets für das Experience League von LIVE
 
-![Episode 6 Sidebar Image](assets/exl-live-ep6-sidebar.jpg)
+![Bild in der Seitenleiste von Folge 6](assets/exl-live-ep6-sidebar.jpg)
 
-![Experience League Live-Logo](assets/exl-live-logo.png)
+![Experience League-Live-Logo](assets/exl-live-logo.png)

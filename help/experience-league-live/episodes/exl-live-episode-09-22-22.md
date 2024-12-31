@@ -1,6 +1,6 @@
 ---
-title: Ausführen Ihrer Kampagnen in Adobe Journey Optimizer
-description: Adobe Target und Adobe Real-time Customer Data Platform können integriert werden, um ein personalisierteres Kundenerlebnis zu bieten. In diesem Livestream-Ereignis sehen Sie, wie die Integration dieser beiden Plattformen Unternehmen dabei helfen kann, Daten in Echtzeit zu erfassen und anschließend zielgerichtete Erlebnisse zu erstellen und zu testen. Sehen Sie sich den End-to-End-Prozess dieser leistungsstarken Funktion in einer Live-Demonstration an.
+title: Ausführen von Kampagnen in Adobe Journey Optimizer
+description: Adobe Target und Adobe Real-time Customer Data Platform können integriert werden, um ein personalisierteres Kundenerlebnis zu bieten. In diesem Livestream-Ereignis erfahren Sie, wie die Integration dieser beiden Plattformen Unternehmen dabei helfen kann, Daten in Echtzeit zu erfassen und anschließend zielgerichtete Erlebnisse zu erstellen und zu testen. Sehen Sie sich den End-to-End-Prozess dieser leistungsstarken Funktion in einer Live-Demonstration an.
 solution: Journey Optimizer
 feature: Campaigns
 kt: 11028
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 ---
 
-# Ausführen Ihrer Kampagnen in Adobe Journey Optimizer
+# Ausführen von Kampagnen in Adobe Journey Optimizer
 
-Mit der neuen Kampagnenfunktion von Journey Optimizer können Sie einmalige geplante oder wiederkehrende Nachrichten über mehrere Kanäle an ein bestimmtes Segment oder Profil senden. Erstellt sowohl für Marketing- als auch für Transaktionsanwendungsfälle, nutzen Sie Kampagnen für Werbeangebote, Interaktionskampagnen, Ankündigungen, rechtliche Hinweise oder Richtlinienaktualisierungen, Transaktionsbestätigungen und mehr.
+Mit der neuen Kampagnenfunktion von Journey Optimizer können Sie einmalige geplante oder wiederkehrende Nachrichten über mehrere Kanäle an ein bestimmtes Segment oder Profil senden. Nutzen Sie Kampagnen für Marketing- und Transaktions-Anwendungsfälle für Werbeangebote, Interaktionskampagnen, Ankündigungen, rechtliche Hinweise oder Richtlinienaktualisierungen, Transaktionsbestätigungen und mehr.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409504/?quality=12&learn=on)
 
-In dieser Experience League Live-Folge, die ursprünglich am 22. September 2022 stattfand, diskutieren Gastgeber Sandra Hausmann und Produktexperten Bridgette Darling und Frederic Mary über die Anwendungsfälle dieser neuen Funktion und demonstrieren, wie man eine Kampagne in Journey Optimizer einfach einrichten und ausführen kann. Erfahren Sie, wie Sie sowohl Kampagnen als auch Journey verwenden werden, um ansprechende personalisierte Kundenerlebnisse bereitzustellen, und wie der neue In-line-Messaging-Workflow in jeder dieser beiden Arbeitsflächen genutzt wird.
+In dieser Experience League Live-Episode, die ursprünglich am 22. September 2022 stattfand, diskutieren Gastgeber Sandra Hausmann und Produktexperten Bridgette Darling und Frederic Mary über die Anwendungsfälle, die diese neue Funktion abdeckt. Sie zeigen außerdem, wie eine Kampagne in Journey Optimizer einfach eingerichtet und ausgeführt werden kann. Erfahren Sie, wie Sie mit Kampagnen und Journey überzeugende personalisierte Kundenerlebnisse bereitstellen können und wie der neue Workflow für Inline-Messaging in jeder dieser beiden Arbeitsflächen genutzt wird.
 
-Fahren Sie mit der Diskussion über dieses Thema im Beitrag [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896#M52) fort. Wir hoffen von dir zu hören!
+Setzen Sie die Diskussion zu diesem Thema im [Experience League-Community-Beitrag fort](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896#M52). Wir hoffen von Ihnen zu hören!
 

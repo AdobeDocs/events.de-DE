@@ -1,6 +1,6 @@
 ---
 title: Daten mit MBI in Werte umwandeln
-description: Mittlerweile wissen die meisten Unternehmen, wie wichtig es ist, Daten zu sammeln und zu analysieren, um das Einkaufserlebnis eines Kunden zu verbessern und strategische Geschäftsentscheidungen zu treffen. Um den wahren Wert Ihrer Daten nutzen zu können, benötigen Sie die Möglichkeit, Daten zu zentralisieren und zu verwalten, was manchmal eine Herausforderung darstellen kann.
+description: Mittlerweile wissen die meisten Unternehmen, wie wichtig die Erfassung und Analyse von Daten ist, um das Einkaufserlebnis eines Kunden zu verbessern und strategische Geschäftsentscheidungen zu treffen. Um den wahren Wert Ihrer Daten zu nutzen, benötigen Sie die Möglichkeit, Daten zu zentralisieren und zu verwalten, was manchmal eine Herausforderung darstellen kann.
 solution: Commerce
 topic: Commerce
 role: Leader, Architect, Developer, Data Architect, Admin, User
@@ -19,18 +19,18 @@ ht-degree: 0%
 
 # Daten mit MBI in Werte umwandeln
 
-Mittlerweile wissen die meisten Unternehmen, wie wichtig es ist, Daten zu sammeln und zu analysieren, um das Einkaufserlebnis eines Kunden zu verbessern und strategische Geschäftsentscheidungen zu treffen. Um den wahren Wert Ihrer Daten nutzen zu können, benötigen Sie die Möglichkeit, Daten zu zentralisieren und zu verwalten, was manchmal eine Herausforderung darstellen kann.
+Mittlerweile wissen die meisten Unternehmen, wie wichtig die Erfassung und Analyse von Daten ist, um das Einkaufserlebnis eines Kunden zu verbessern und strategische Geschäftsentscheidungen zu treffen. Um den wahren Wert Ihrer Daten zu nutzen, benötigen Sie die Möglichkeit, Daten zu zentralisieren und zu verwalten, was manchmal eine Herausforderung darstellen kann.
 
-In diesem Webinar besprechen wir, wie Sie Ihre Commerce-Daten mit Magento Business Intelligence (MBI) optimal nutzen können. MBI ist eine Cloud-basierte Datenmanagement- und Analyseplattform, mit der Sie Ihre Datenquellen einfach konsolidieren und verwalten, Ihre Daten modellieren, Diagramme und Berichte erstellen und eine einzige &quot;Source of Truth&quot;verwalten können.
+In diesem Webinar besprechen wir, wie Sie Ihre Commerce-Daten mithilfe von Magento Business Intelligence (MBI) optimal nutzen können. MBI ist eine Cloud-basierte Daten-Management- und Analyseplattform, mit der Sie Ihre Datenquellen einfach konsolidieren und verwalten, Ihre Daten modellieren, Diagramme und Berichte erstellen und eine zentrale Datenquelle verwalten können.
 
-Sie werden von Daniel Rios (Senior Manager, Product Management) hören, der folgende Themen behandelt:
+Sie werden von Daniel Rios (Senior Manager, Product Management) hören, der die folgenden Themen behandelt:
 
 * Daten in Werte umwandeln
-* Aufbau einer soliden Datenbasis
-* MBI- und [!DNL Analytics]-Daten kombinieren
+* Erstellen einer soliden Datengrundlage
+* Kombinieren von MBI- und [!DNL Analytics]
 
-Sie werden auch eine Live-Demo der Plattform sehen, um diese Konzepte zum Leben zu erwecken.
+Außerdem sehen Sie eine Live-Demo der Plattform, um diese Konzepte zum Leben zu erwecken.
 
-MBI vereinfacht die Berichterstellung mit Dashboards, in denen alles vom durchschnittlichen Bestellwert über den Lebenszeitwert und die Treueraten der Kunden angezeigt wird. Mit diesen leistungsstarken Einblicken können Sie in die Lage versetzt werden, Maßnahmen zu ergreifen und einen inkrementellen Wert für Ihr Online-Geschäft zu erzielen.
+MBI vereinfacht das Reporting mit Dashboards, in denen alles vom durchschnittlichen Bestellwert bis hin zum Kundenlebenszeitwert und den Kundenbindungsraten angezeigt wird. Mit diesen leistungsstarken Einblicken können Sie aktiv werden und den inkrementellen Wert für Ihr Online-Geschäft steigern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410646/?quality=12&learn=on)

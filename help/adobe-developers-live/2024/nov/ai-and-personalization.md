@@ -1,6 +1,6 @@
 ---
-title: Bringing AI and Personalization to Adobe Experience Manager Edge Delivery Services
-description: Erfahren Sie, wie Sie KI und Personalisierung mit einer von Andreas Haller, Principal Solution Architect bei Cognizant Netcentric demonstrierten grundlegenden Architektur, semantischen Suche und erweiterten Anwendungsfällen in Adobe Experience Manager-Edge Delivery Services integrieren können.
+title: KI und Personalization für Adobe Experience Manager Edge Delivery Services
+description: Erfahren Sie, wie Sie KI und Personalisierung mit einer grundlegenden Architektur, semantischen Suche und erweiterten Anwendungsfällen in Adobe Experience Manager Edge Delivery Services integrieren können. Dies zeigte Andreas Haller, Principal Solution Architect bei Cognizant Netcentric.
 feature: Edge Delivery Services, Search, Generative AI
 topic: Artificial Intelligence, Personalization
 role: Developer
@@ -9,55 +9,55 @@ doc-type: Event
 duration: 1029
 last-substantial-update: 2024-11-25T00:00:00Z
 jira: KT-16578
-source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
+exl-id: d560045b-4404-41f6-b53e-787877faab5b
+source-git-commit: 514a63003edc87f1de5cf8f14b9fca7d1f937ae2
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
+# KI und Personalization für Adobe Experience Manager Edge Delivery Services
 
-# Bringing AI and Personalization to Adobe Experience Manager Edge Delivery Services
-
-Entdecken Sie die grundlegende Architektur zur Integration von Personalisierung und KI in Adobe Experience Manager-Edge Delivery Services. Treten Sie Andreas Haller, Principal Solution Architect bei Cognizant Netcentric bei, da er semantische Suche und erweiterte Anwendungsfälle zur Projektverbesserung demonstriert.
+Entdecken Sie die grundlegende Architektur zur Integration von Personalisierung und KI in Adobe Experience Manager Edge Delivery Services. Seien Sie dabei, wenn Andreas Haller, Principal Solution Architect bei Cognizant Netcentric, die semantische Suche und erweiterte Anwendungsfälle zur Verbesserung Ihrer Projekte demonstriert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440405/?learn=on&enablevpops)
 
 ## Community-Diskussion
 
-Fahren Sie mit der Unterhaltung in der Adobe Developers Live Community [diskussion](https://adobe.ly/3Z0PtJF) fort.
+Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](https://adobe.ly/3Z0PtJF) fort.
 
 ## Wichtige Schlussfolgerungen
 
 ### Personalization- und KI-Integration
 
-* Konzentrieren Sie sich auf die Integration von KI und Personalisierung in Webdienste, insbesondere auf den Inhalt von Websites und das Benutzerverhalten.
+* Konzentration auf die Integration von KI und Personalisierung in Web-Services, insbesondere in Bezug auf Website-Inhalte und Nutzerverhalten.
 
-### Zweistufiger Ansatz
+### zweistufiger Ansatz
 
-* **Datenerfassung** Erfassen Sie Benutzerdaten über komplexe Analyse- oder Browserdatenpunkte.
-* **Dateninterpretierung** Verwenden Sie KI-fähige Backends, um personalisierte Inhalte zu verarbeiten und darzustellen.
+* **Datenerfassung** Erfassen Sie Benutzerdaten mithilfe komplexer Analysen oder Browser-Datenpunkte.
+* **Dateninterpretation** Verwenden Sie KI-fähige Backends, um personalisierte Inhalte zu verarbeiten und darzustellen.
 
-### Demo Insights
+### Demo-Erkenntnisse
 
-* Demonstration eines Machbarkeitsnachweises, bei dem das Benutzerverhalten die Inhaltsdarstellung beeinflusst.
-* Lokaler Speicher zur Datenerfassung und Semantik-Suche nach Inhaltsübereinstimmung.
+* Es wurde ein Machbarkeitsnachweis gezeigt, bei dem das Benutzerverhalten die Inhaltsdarstellung beeinflusst.
+* Lokaler Speicher zur Datenerfassung und semantischen Suche nach übereinstimmenden Inhalten verwendet.
 
-### Architekturüberblick
+### Überblick über die Architektur
 
-* Zu den Schlüsselkomponenten gehören der Browser, Edge-Bereitstellungsdienste, Content-Backends und ein API-Gateway.
-* Erweiterungen für die Datenerfassung und Suchindizierung.
-* Verwendung von OpenSearch und Einbetten von Modellen für die semantische Suche.
-* Hybridsuchansatz, der exakte und semantische Übereinstimmungen kombiniert.
+* Zu den wichtigsten Komponenten gehören der Browser, die Edge-Bereitstellungs-Services, Inhalts-Backends und ein API-Gateway.
+* Erweiterungen für die Datenaufnahme und Suchindizierung.
+* Verwendung von OpenSearch und Einbettungsmodellen für die semantische Suche.
+* Hybrider Suchansatz, der exakte und semantische Übereinstimmungen kombiniert.
 
 ### Potenzial für weitere Erweiterungen
 
-* Integrieren großer Sprachmodelle für Chatbots.
-* Implementierung von Produktempfehlungen.
+* Integrieren von großen Sprachmodellen für Chatbots.
+* Implementieren von Produktempfehlungen.
 * Entwicklung personalisierter Preisstrategien.
-* Der Schwerpunkt liegt auf einem grundlegenden Setup und dem schrittweisen Aufbau komplexerer Szenarien.
+* Schwerpunkt: Beginnen mit einem grundlegenden Setup und schrittweise Erstellen komplexerer Szenarien.
 
-### Pragmatische Implementierung
+### Pragmatische Umsetzung
 
-* Der Ansatz ermöglicht eine schrittweise Einrichtung, um komplexere Anwendungsfälle und Funktionen zu realisieren.
-* Ermutigt Experimente und eine schrittweise Verbesserung der KI- und Personalisierungsfunktionen.
+* Der Ansatz ermöglicht einen schrittweisen Aufbau, um komplexere Anwendungsfälle und Funktionen zu realisieren.
+* Fördert das Experimentieren und die schrittweise Verbesserung der KI- und Personalisierungsfunktionen.

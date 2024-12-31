@@ -1,6 +1,6 @@
 ---
-title: Bleilebenszyklen
-description: Erfahren Sie in dieser tiefen Tauchsitzung, wie Sie Leads mit einem strategischen Lead-Lebenszyklusmodell effektiv einbinden und fördern können. Hier erhalten Sie Empfehlungen eines Marketo Champion zur Vermeidung häufiger Fallstricke beim Vererben, Verfeinern oder Entwerfen eines neuen Modells.
+title: Lead-Lebenszyklen
+description: In dieser anschaulichen Sitzung erfahren Sie, wie Sie Leads effektiv mit einem strategischen Lead-Lebenszyklusmodell interagieren und fördern können. Sie erhalten Tipps von einem Marketo-Experten zur Vermeidung gängiger Fallstricke beim Vererben, Verfeinern oder Entwerfen eines neuen Modells.
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Bleilebenszyklen
+# Lead-Lebenszyklen
 
-Erfahren Sie, wie Unternehmen mithilfe eines Lead-Lebenszyklusmodells basierend auf ihrer Kaufbereitschaft Interessenten erreichen und fördern können. Marketo bietet leistungsstarke Tools, die jedoch beim Vererben, Verfeinern oder Entwerfen eines neuen Modells leicht zu Problemen führen können. Treten Sie diesem tiefen Einblick in die strategische Entwicklung des Lead-Lebenszyklus bei, um allgemeine Fallstricke zu vermeiden, direkt von einem Champion!
+Entdecken Sie, wie Unternehmen mit einem Lead-Lebenszyklusmodell Leads basierend auf ihrer Kaufbereitschaft einbinden und fördern können. Marketo bietet leistungsstarke Tools, aber beim Vererben, Verfeinern oder Entwerfen eines neuen Modells treten leicht Herausforderungen auf. Erhalten Sie direkt von einem Champion Ratschläge zur strategischen Entwicklung des Lead-Lebenszyklus, bei der Sie häufige Fallstricke aufzeigen, die Sie vermeiden sollten!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421711/?learn=on)

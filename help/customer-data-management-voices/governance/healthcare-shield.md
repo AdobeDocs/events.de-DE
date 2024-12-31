@@ -1,6 +1,6 @@
 ---
-title: Adobe Real-time Customer Data Platform und Gesundheitsschild
-description: Bereitstellung von Erlebnissen trotz eingeschränkten Datenzugriffs. Unabhängig davon, ob Sie ein Advertiser, Herausgeber oder Agentur sind, hilft dieses Webinar beim Entsperren der
+title: Adobe Real-time Customer Data Platform und Healthcare Shield
+description: Bereitstellung von Erlebnissen trotz eingeschränkten Datenzugriffs. Unabhängig davon, ob Sie ein Advertiser, ein Publisher oder eine Agentur sind, hilft Ihnen dieses Webinar, das
 solution: Real-Time Customer Data Platform
 feature: Identities
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -17,8 +17,8 @@ ht-degree: 7%
 
 ---
 
-# Adobe Real-time Customer Data Platform und Gesundheitsschild
+# Adobe Real-time Customer Data Platform und Healthcare Shield
 
-Marketing-Experten im Gesundheitswesen, von Zahlern bis hin zu Anbietern von Biowissenschaften, haben in den USA eine zusätzliche Verantwortung, HIPAA zu ehren. Patienten und Verbraucher erwarten eine Personalisierung aller Kanäle und Interaktionen von Marken über den gesamten Lebenszyklus hinweg, wodurch die Marketingexperten im Gesundheitswesen unter zusätzlichen Druck geraten, rasch Innovationen vorzunehmen. In diesem Video erfahren Sie mehr über Adobe Real-Time CDP und das Adobe Experience Platform-Add-on zu Adobe Experience Platform-basierten Anwendungen, mit dem diese Anwendungen HIPAA-fähig gemacht und HIPAA-Anforderungen an die Verarbeitung und Verwendung geschützter Gesundheitsdaten (PHI) erfüllt werden können.
+Gesundheitsmarketer von Kostenträgern bis hin zu Anbietern von Biowissenschaften tragen in den USA eine zusätzliche Verantwortung, HIPAA zu ehren. Patienten und Verbraucher erwarten Personalisierung über alle Kanäle und Interaktionen von Marken während dieses gesamten Lebens, was zusätzlichen Druck auf die Marketing-Fachleute im Gesundheitswesen ausübt, Innovationen mit hoher Geschwindigkeit zu entwickeln. In diesem Video erfahren Sie mehr über Adobe Real-Time CDP und Healthcare Shield, ein Adobe Experience Platform-Add-on für Adobe Experience Platform-basierte Anwendungen, das entwickelt wurde, um diese Anwendungen HIPAA-fähig zu machen und HIPAA-Anforderungen an die Verarbeitung und Verwendung von geschützten Gesundheitsdaten (Protected Health Data, PHI) zu erfüllen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343342/?quality=12&learn=on)

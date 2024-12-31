@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live Februar 2022
-description: Eine Sammlung von Videos und Tutorials für Adobe Experience Manager Sites, die im Rahmen des Adobe Developers Live-Ereignisses bereitgestellt werden.
+description: Eine Videosammlung und Tutorials zu Adobe Experience Manager Sites, die im Rahmen der Adobe Developers Live-Veranstaltung bereitgestellt werden.
 sub-product: sites, content-services
 exl-id: 60db2c54-2d2a-4ae7-bd66-b99869879be7
 duration: 73
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 <img alt="Adobe Developers Live" src="./../../assets/adl.png" />
 
-Adobe Developers Live: Commerce 2022 führt Entwickler und Erlebnisentwickler mit unterschiedlichem Hintergrund und einem besonderen Zweck zusammen - um unglaubliche End-to-End-Erlebnisse zu schaffen. Diese eintägige virtuelle Konferenz wird wichtige Updates für Commerce und Open Source Developer, technische Sitzungen, Community-Netzwerkmöglichkeiten und mehr enthalten.
+Adobe Developers Live: Commerce 2022 führt Entwickler und Erlebnisgestalter mit unterschiedlichem Hintergrund zusammen, um herausragende End-to-End-Erlebnisse zu schaffen. Diese eintägige virtuelle Konferenz bietet wichtige Commerce- und Open Source Developer-Updates, technische Sessions, Community-Networking-Möglichkeiten und mehr.
 
 <!-- 
 ## Highlights
@@ -68,4 +68,4 @@ Adobe Developers Live: Commerce 2022 führt Entwickler und Erlebnisentwickler mi
 
 >[!TIP]
 >
->**Alle Sitzungen werden in der Navigation auf der linken Seite angezeigt**.
+>**Alle Sitzungen werden im Navigationsbereich auf der linken Seite**.

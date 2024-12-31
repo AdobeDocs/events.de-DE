@@ -1,6 +1,6 @@
 ---
-title: Keynote - Adobe Experience Manager Update
-description: Adobe betont die entscheidende Rolle der Entwickler im Experience Manager- und Commerce-Geschäft, hebt das hybride Ereignisformat hervor, feiert Meilensteine und konzentriert sich auf Innovation, Performance, Community-Interaktion und zukünftige Entwicklungen in der Web-Performance, generative Benutzeroberfläche und erweiterte Suchfunktionen.
+title: Keynote - Adobe Experience Manager-Update
+description: Adobe betont die entscheidende Rolle von Entwicklern in seinem Experience Manager- und Commerce-Geschäft, hebt das hybride Ereignisformat hervor, feiert Meilensteine und konzentriert sich auf Innovation, Performance, Community-Engagement und zukünftige Entwicklungen in der Web-Performance, der generativen Benutzeroberfläche und erweiterten Suchfunktionen.
 solution: Experience Manager, Commerce
 feature: Release Information
 role: Developer
@@ -17,28 +17,28 @@ ht-degree: 0%
 
 ---
 
-# Keynote - Adobe Experience Manager Update
+# Keynote - Adobe Experience Manager-Update
 
-Beginnen Sie mit einem Executive Welcome von Loni Stark, Vice President of Strategy and Product bei der Adobe, der die Voraussetzungen für den Tag schafft. Anschließend tritt er bei Cedric Huesler, Director of Product Management für Adobe Experience Manager, ein, da er die Vision von Adobe für digitale Erlebnisse teilt. Erfahren Sie mehr über die neuesten Innovationen, die Adobe Experience Manager vorantreiben, ihre Auswirkungen auf die Web-Entwicklung und eine Vorschau der aktuellen Entwicklungen.
+Beginnen Sie mit einem Executive Welcome von Loni Stark, Vice President of Strategy and Product bei Adobe, der die Voraussetzungen für den Tag schafft. Kommen Sie dann zu Cedric Huesler, Director of Product Management für Adobe Experience Manager, der die Vision von Adobe für digitale Erlebnisse vorstellt. Erfahren Sie mehr über die neuesten Innovationen, die Adobe Experience Manager voranbringen, ihre Auswirkungen auf die Web-Entwicklung und eine Vorschau auf die Zukunft.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439437/?learn=on&enablevpops)
 
 ## Community-Diskussion
 
-Fahren Sie mit der Unterhaltung in der Adobe Developers Live Community [diskussion](https://adobe.ly/3Ywf7Vm) fort.
+Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](https://adobe.ly/3Ywf7Vm) fort.
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
-* **Wichtigkeit der Entwickler** Entwickler sind von entscheidender Bedeutung für die Adobe und ihren Experience Manager sowie für das Adobe Commerce-Geschäft. &#x200B;
-* **Hybridformat** Das Ereignis ist ein besonderes Ereignis, da es sowohl persönlich als auch online Formate kombiniert, um eine stärkere Verbindung zu fördern.
-* **Milestone Achievement** Adobe Experience Manager hat sich zu einem Eckpfeiler des Adobes Digital Experience Business entwickelt. &#x200B;
-* **Historischer Kontext** Die Kerntechnologie von Adobe Experience Manager begann 1993 in einer Wurstfabrik und wurde 2010 von Adobe übernommen.
-* **Community und Innovation** Die Entwickler-Community ist für ihre Führungsrolle und ihre Bereitschaft, insbesondere bei neuen Technologien wie Gen AI, zu stören und zu innovieren, bekannt.
-* **Leistung und Geschwindigkeit** Der Schwerpunkt liegt auf der Erstellung der schnellsten Websites und webbasierten Erlebnisse, mit dem Ziel, Sites so schnell wie native mobile Apps bereitzustellen.
-* **Community-Interaktion** Adobe hat eine Domain gestartet, über die die Community neue Dienste ausprobieren und Feedback geben kann.
-* **Content Management** -Adobe konzentriert sich auf die Trennung von Inhaltsbereitstellung und Content Management, wodurch mehr Flexibilität und Effizienz gewährleistet wird.
-* **Zukünftige Entwicklungen** Adobe investiert in neue Technologien und Tools, um die Webleistung, das Benutzererlebnis und die Entwicklerproduktivität zu verbessern.
-* **Generative Benutzeroberfläche und Personalization** Zukünftige Web-Erlebnisse erfordern eine generative Benutzeroberflächen-Komposition und die Bereitstellung personalisierter Inhalte auf der Grundlage von Echtzeitdaten und Benutzerinteraktionen. &#x200B;
-* **Suche und Indizierung** Adobe implementiert erweiterte Suchfunktionen, einschließlich der Vektorindizierung, um den Inhaltsabruf und das Benutzererlebnis zu verbessern.
-* **Collaboration und Feedback** Adobe fördert die Zusammenarbeit und das Feedback der Community, um ihre Produkte und Dienstleistungen weiter zu verbessern und zu verbessern.
+* **Wichtigkeit von Entwicklern** Entwickler sind für Adobe und sein Experience Manager- und Adobe Commerce-Geschäft von entscheidender Bedeutung. &#x200B;
+* **Hybridformat** Das Ereignis ist besonders, da es sowohl persönliche als auch Online-Formate kombiniert, um eine bessere Verbindung zu fördern.
+* **Meilensteinleistung** Adobe Experience Manager ist zu einem Eckpfeiler des Digital Experience Business von Adobe geworden. &#x200B;
+* **Historical Context** Die Kerntechnologie von Adobe Experience Manager begann 1993 in einer Wurstfabrik und wurde 2010 von Adobe übernommen.
+* **Community and Innovation** Die Entwickler-Community wird für ihre Führungsrolle und ihre Bereitschaft zur Umwälzung und Innovation, insbesondere mit neuen Technologien wie Gen AI, ausgezeichnet.
+* **Leistung und Geschwindigkeit** Schwerpunkt auf der Erstellung der schnellsten Websites und Web-basierten Erlebnisse mit dem Ziel, Sites so schnell wie native Mobile Apps bereitzustellen.
+* **Community Engagement** Adobe hat eine Domain für die Community eingerichtet, um neue Services auszuprobieren und Feedback zu geben.
+* **Content Management** Adobe konzentriert sich auf die Trennung der Inhaltsbereitstellung vom Content-Management und ermöglicht so mehr Flexibilität und Effizienz.
+* **Future Developments** Adobe investiert in neue Technologien und Tools, um die Web-Performance, das Anwendererlebnis und die Entwicklerproduktivität zu verbessern.
+* **Generative Benutzeroberfläche und Personalization** Zukünftige Web-Erlebnisse umfassen die Komposition generativer Benutzeroberflächen und die Bereitstellung personalisierter Inhalte auf der Grundlage von Echtzeitdaten und Benutzerinteraktionen. &#x200B;
+* **Suche und Indizierung** Adobe implementiert erweiterte Suchfunktionen, einschließlich Vektorindizierung, um den Content-Abruf und das Benutzererlebnis zu verbessern.
+* **Collaboration und Feedback** Adobe fördert die Zusammenarbeit mit der Community und das Feedback, um ihre Produkte und Services weiter zu entwickeln und zu verbessern.
 

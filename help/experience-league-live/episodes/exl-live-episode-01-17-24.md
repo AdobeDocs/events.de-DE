@@ -19,28 +19,28 @@ ht-degree: 0%
 
 # Adobe Analytics-Daten und -Analysen in Customer Journey Analytics integrieren
 
-Treten Sie Bryan, Eric und Doug bei, während sie besprechen, wie man sich schnell mit Customer Journey Analytics (CJA) bewegt. Sie erfahren mehr über die Verwendung automatisierter Prozesse zum Verschieben von Daten und Analysen aus Adobe Analytics in Customer Journey Analytics sowie über mögliche Probleme, die während des Vorgangs berücksichtigt werden müssen. Und natürlich werden sie auf dem Weg eine gesunde Dosis von lustigen Tipps und Tricks haben.
+Seien Sie dabei, wenn Bryan, Eric und Doug besprechen, wie Sie schnell mit Customer Journey Analytics (CJA) umgehen können. Sie erfahren mehr über die Verwendung automatisierter Prozesse zum Verschieben von Daten und Analysen von Adobe Analytics nach CJA sowie über alle Aspekte, die Sie während des Prozesses berücksichtigen sollten. Und natürlich haben sie unterwegs eine gesunde Dosis an lustigen Tipps und Tricks.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426778/?quality=12&learn=on)
 
->[!BEGINSHADEBOX &quot;Haben Sie Fragen?&quot;]
+>[!BEGINSHADEBOX „Haben Sie Fragen?“]
 
-Fahren Sie mit der Diskussion über das [Experience League-Community-Forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582) fort.
+Setzen Sie die Diskussion über die Diskussion im [Experience League-Community-Forum fort](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
 
 >[!ENDSHADEBOX]
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
-* Es gibt zwei Möglichkeiten, Daten von Adobe Analytics in Customer Journey Analytics zu übertragen: den Analytics Data Connector (ADC) und das Web SDK.
-* Die ADC ermöglicht das Kopieren von Daten aus einer Report Suite in Adobe Experience Platform zur Analyse, während das Web SDK Daten direkt an Adobe Experience Platform sendet.
-* Datenansichten in Customer Journey Analytics bieten eine Möglichkeit, die Daten anzupassen und zu analysieren, die in die Plattform übertragen werden.
-* Datenansichten bieten leistungsstarke Funktionen wie rückwirkende Änderungen, abgeleitete Felder zur Anpassung und die Möglichkeit, Daten auf granularer Ebene zu filtern und zu analysieren.
-* Verbindungen in Customer Journey Analytics ermöglichen die Vereinigung verschiedener Datensätze, sodass mehrere Datenquellen an einem Ort analysiert werden können.
-* Datenansichten und -verbindungen sollten strategisch und mit Vorsicht verwendet werden, um eine ordnungsgemäße Verwaltung und Kontrolle des Datenzugriffs und der Datenanalyse sicherzustellen.
-* Es gibt ein neues Tool namens &quot;Komponentenmigration&quot;, mit dem Adobe Analytics-Administratoren Projekte in CGA migrieren können.
-* Bei der Migration eines Projekts werden alle Komponenten in den Tabellen sowie alle angewendeten Segmente oder berechneten Metriken in CGA verschoben.
-* Es gibt einen Zuordnungsprozess, bei dem Komponenten, die nicht in CGA vorhanden sind, mithilfe von Sammelfeldern oder abgeleiteten Feldern zugeordnet werden können.
-* Es wird empfohlen, einen Catch-All für Elemente zu erstellen, die nicht in CGA vorhanden sind, und diese dann im Zielprojekt zu bearbeiten.
-* Zuvor wurde angenommen, dass berechnete Metriken und Segmente bei der Migration auf CGA neu erstellt werden mussten. Jetzt gibt es jedoch eine Option, diese zu migrieren.
+* Es gibt zwei Möglichkeiten, Daten von Adobe Analytics in Customer Journey Analytics zu übertragen: den Analytics Data Connector (ADC) und den Web SDK.
+* Mit dem ADC können Daten aus einer Report Suite zur Analyse in Adobe Experience Platform kopiert werden, während der Web-SDK Daten direkt an Adobe Experience Platform sendet.
+* Datenansichten in Customer Journey Analytics bieten die Möglichkeit, die in Platform importierten Daten anzupassen und zu analysieren.
+* Datenansichten bieten leistungsstarke Funktionen wie rückwirkende Änderungen, abgeleitete Felder für die Anpassung und die Möglichkeit, Daten auf granularer Ebene zu filtern und zu analysieren.
+* Verbindungen in Customer Journey Analytics ermöglichen die Vereinigung verschiedener Datensätze und ermöglichen so die Analyse mehrerer Datenquellen an einem Ort.
+* Datenansichten und -verbindungen sollten strategisch und mit Vorsicht verwendet werden, um eine ordnungsgemäße Steuerung und Kontrolle des Datenzugriffs und der Datenanalyse sicherzustellen.
+* Es gibt ein neues Tool namens „Komponentenmigration“, das es Adobe Analytics-Administratoren ermöglicht, Projekte zu CGA zu migrieren.
+* Beim Migrieren eines Projekts werden alle Komponenten in den Tabellen sowie alle angewendeten Segmente oder berechneten Metriken in die CGA verschoben.
+* Es gibt einen Zuordnungsprozess, bei dem Komponenten, die nicht in der CGA vorhanden sind, mithilfe von Sammelfeldern oder abgeleiteten Feldern zugeordnet werden können.
+* Es wird empfohlen, einen Sammelvorgang für Elemente zu erstellen, die nicht in CGA vorhanden sind, und sie dann im Zielprojekt zu bearbeiten.
+* Früher ging man davon aus, dass berechnete Metriken und Segmente bei der Migration zu CGA neu erstellt werden mussten. Jetzt gibt es jedoch eine Option, um sie zu migrieren.
 * Um sicherzustellen, dass berechnete Metriken und Segmente in die Migration einbezogen werden, müssen sie auf eine Tabelle oder Visualisierung in Adobe Analytics angewendet werden.
 

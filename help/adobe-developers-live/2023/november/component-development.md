@@ -1,6 +1,6 @@
 ---
-title: Zurück zur Front-Komponenten-Entwicklung und -Bereitstellung
-description: AEM entwickelt sich weiter, um modernen Herausforderungen zu begegnen, und die Art und Weise, wie wir darauf aufbauen, muss sich auch anpassen. In dieser Sitzung werden wir neue Wege erforschen, alte Aufgaben anzugehen. Entwickleraufwand einfacher als je zuvor machen.
+title: Zurück zur Entwicklung und Bereitstellung von Frontkomponenten
+description: Das AEM entwickelt sich weiter, um den modernen Herausforderungen gerecht zu werden, und auch die Art und Weise, wie wir darauf aufbauen, muss sich anpassen. In dieser Sitzung erkunden wir neue Möglichkeiten, alte Aufgaben anzugehen. Die Entwicklerarbeit wird einfacher denn je.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 ---
 
-# Zurück zur Front-Komponenten-Entwicklung und -Bereitstellung
+# Zurück zur Entwicklung und Bereitstellung von Frontkomponenten
 
-AEM entwickelt sich weiter, um modernen Herausforderungen zu begegnen, und die Art und Weise, wie wir darauf aufbauen, muss sich auch anpassen. In dieser Sitzung werden wir neue Wege erforschen, alte Aufgaben zu bewältigen... und so die Arbeit der Entwickler einfacher als je zuvor machen.
+Das AEM entwickelt sich weiter, um den modernen Herausforderungen gerecht zu werden, und auch die Art und Weise, wie wir darauf aufbauen, muss sich anpassen. In dieser Sitzung erkunden wir neue Möglichkeiten, alte Aufgaben anzugehen… und machen die Entwicklerarbeit so einfach wie nie zuvor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426338/?learn=on)

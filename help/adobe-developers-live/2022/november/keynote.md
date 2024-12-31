@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - NOV 22 - Keynote zur Eröffnung
-description: Keynote - Headless Today & Tomfuture with Adobe Experience ManagerTreten Sie uns für die Eröffnungsrede mit Sr. Director of Engineering, Michael Marth, und Director of Product Management, Cedric Huesler für einen Entwickler ein, der sich den aktuellen und zukünftigen Zustand des Headless-CMS von Adobe Experience Manager ansieht.
+title: Adobe Developers Live - 22. November - Eröffnungs-Keynote
+description: Keynote - Headless Heute und Morgen mit Adobe Experience ManagerNehmen Sie an der Eröffnungs-Keynote mit Sr. Director of Engineering, Michael Marth, und Director of Product Management, Cedric Huesler teil, um einen Überblick über den aktuellen und zukünftigen Status von Adobe Experience Manager Headless CMS zu erhalten.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# Öffnungs-Keynote
+# Keynote zur Eröffnung
 
-Keynote: Headless Today and Tomorrow with Adobe Experience Manager
+Keynote: Headless heute und morgen mit Adobe Experience Manager
 
-Nehmen Sie an der Eröffnungsrede teil mit Sr. Director of Engineering, Michael Marth, und Director of Product Management, Cedric Huesler, um sich einen Überblick über den aktuellen und zukünftigen Zustand von Adobe Experience Manager Headless CMS zu verschaffen.
+Nehmen Sie an der Eröffnungs-Keynote mit Sr. Director of Engineering, Michael Marth, und Cedric Huesler, Director of Product Management, teil, um einen Entwickler-Blick auf den aktuellen und zukünftigen Status von Adobe Experience Manager Headless CMS zu werfen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411296/?quality=12&learn=on)

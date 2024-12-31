@@ -1,6 +1,6 @@
 ---
-title: Integrieren von AEM Cloud Service mit Adobe IO-Ereignissen
-description: Es gibt viele Möglichkeiten, Adobe Experience Manager Cloud Service mit Adobe I/O benutzerspezifischen Ereignissen zu integrieren. Erfahren Sie mehr über die verschiedenen verfügbaren Optionen und wie sie am besten für Ihren spezifischen Anwendungsfall geeignet sein könnten.
+title: Integrieren von AEM Cloud Service mit Adobe IO Events
+description: Es gibt viele Möglichkeiten, Adobe Experience Manager Cloud Service mit benutzerspezifischen Adobe I/O-Ereignissen zu integrieren. Erfahren Sie mehr über die verschiedenen verfügbaren Optionen und darüber, wie sie am besten für Ihren spezifischen Anwendungsfall geeignet sein könnten.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -18,16 +18,16 @@ ht-degree: 5%
 
 ---
 
-# Integrieren von AEM Cloud Service mit Adobe IO-Ereignissen
+# Integrieren von AEM Cloud Service mit Adobe IO Events
 
-Es gibt viele Möglichkeiten, Adobe Experience Manager Cloud Service mit Adobe I/O benutzerspezifischen Ereignissen zu integrieren. Erfahren Sie mehr über die verschiedenen verfügbaren Optionen und wie sie am besten für Ihren spezifischen Anwendungsfall geeignet sein könnten.
+Es gibt viele Möglichkeiten, Adobe Experience Manager Cloud Service mit benutzerspezifischen Adobe I/O-Ereignissen zu integrieren. Erfahren Sie mehr über die verschiedenen verfügbaren Optionen und darüber, wie sie am besten für Ihren spezifischen Anwendungsfall geeignet sein könnten.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3ij0O1W)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/3ij0O1W)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337529/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

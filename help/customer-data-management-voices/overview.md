@@ -1,6 +1,6 @@
 ---
-title: Stimmen im Customer Data Management
-description: Ihr Ziel als technisches und Marketing-Praxisleiter und -Spezialist für das Kundendatenmanagement.  Diese Seite ist Ihre zentrale Anlaufstelle, um von Ihren Kollegen zu hören, sich inspirieren zu lassen und über Entwicklungen im Bereich Martech zu erfahren.
+title: Customer Data Management - Voices
+description: Ihr Ziel als technischer Leiter und Spezialist für Kundendaten-Management und Marketing.  Diese Seite ist Ihre zentrale Anlaufstelle, um von Ihren Kollegen zu hören, sich inspirieren zu lassen und mehr über Entwicklungen in Martech zu erfahren.
 exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
 duration: 117
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -12,42 +12,42 @@ ht-degree: 4%
 
 # Customer Data Management – Voices {#overview}
 
-<img alt="Stimmen im Customer Data Management" src="./assets/cdp-voices-banner.png" />
+<img alt="Customer Data Management - Voices" src="./assets/cdp-voices-banner.png" />
 
-Willkommen beim Customer Data Management Voices Ihr Ziel als technisches und Marketing-Experten für das Kundendatenmanagement. Diese Seite ist Ihre zentrale Anlaufstelle, um von Ihren Kollegen zu hören, sich inspirieren zu lassen und über Entwicklungen im Bereich Martech zu erfahren. Keine Registrierung erforderlich, nur klicken und beobachten.
+Willkommen bei Customer Data Management Voices, Ihrem Ziel, als technischer Leiter und Spezialist für Kundendaten-Management und Marketing. Diese Seite ist Ihre zentrale Anlaufstelle, um von Ihren Kollegen zu hören, sich inspirieren zu lassen und mehr über Entwicklungen in Martech zu erfahren. Keine Registrierung erforderlich, einfach klicken und ansehen.
 
 >[!TIP]
 >
->**Alle aufgezeichneten Sitzungen werden in der Navigation auf der linken Seite angezeigt**.
+>**Alle aufgezeichneten Sitzungen werden im Navigationsbereich auf der linken Seite**.
 
-## Bausteine für das Kundendatenmanagement
+## Bausteine des Kundendaten-Managements
 
 <table>
   <tr>
    <td>
       <a href="./cdm/first-mile.md">
-      <img alt="Optimierung Ihrer ersten Rolle im Data Management" src="./assets/first-mile.png"/>
+      <img alt="Optimierung des ersten Schritts des Daten-Managements" src="./assets/first-mile.png"/>
       </a>
       <div>
-         <a href="./cdm/first-mile.md"><strong>Straffung Ihrer ersten Rolle im Data Management</strong></a>
+         <a href="./cdm/first-mile.md"><strong>Optimierung des ersten Schritts des Daten-Managements</strong></a>
          <br/>
       </div>
    </td>
    <td>
       <a href="./cdm/cdp-success.md">
-      <img alt="Auswählen einer Kundendatenplattform für Erfolg" src="./assets/cdp-success.png"/>
+      <img alt="Auswählen einer Kundendatenplattform für den Erfolg" src="./assets/cdp-success.png"/>
       </a>
       <div>
-         <a href="./cdm/cdp-success.md"><strong>Auswahl einer Kundendatenplattform für Erfolg</strong></a>
+         <a href="./cdm/cdp-success.md"><strong>Auswählen einer Kundendatenplattform für den Erfolg</strong></a>
          <br/>
       </div>
     </td>
     <td>
       <a href="./cdm/people-and-process.md">
-      <img alt="Personen und Prozesse" src="./assets/people-and-process.png"/>
+      <img alt="Personen und Prozess" src="./assets/people-and-process.png"/>
       </a>
       <div>
-         <a href="./cdm/people-and-process.md"><strong>Best Practices der CDP - Personen und Prozess</strong></a>
+         <a href="./cdm/people-and-process.md"><strong>CDP - Best Practices - Personen und Prozesse</strong></a>
          <br/>
       </div>
     </td>
@@ -55,16 +55,16 @@ Willkommen beim Customer Data Management Voices Ihr Ziel als technisches und Mar
    <tr> 
    <td>
       <a href="./cdm/evolving-your-audience-center-of-excellence.md">
-      <img alt="Entwicklung Ihres Audience Center of Excellence" src="./assets/evolving-your-audience-center-of-excellence.png"/>
+      <img alt="Weiterentwicklung Ihres Audience Center of Excellence" src="./assets/evolving-your-audience-center-of-excellence.png"/>
       </a>
       <div>
-         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong>Ausbau Ihres Audience Center of Excellence</strong></a>
+         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong>Weiterentwicklung Ihres Audience Center of Excellence</strong></a>
          <br/>
       </div>
     </td>
    <td>
       <a href="./cdm/building-better-experiences-with-customer-profiles.md">
-      <img alt="Erstellen besserer Erlebnisse mit Kundenprofilen" src="./assets/building-better-experiences-with-customer-profiles.png"/>
+      <img alt="Erstellen besserer Erlebnisse für Kundenprofile" src="./assets/building-better-experiences-with-customer-profiles.png"/>
       </a>
       <div>
          <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>Erstellen besserer Erlebnisse mit Kundenprofilen</strong></a>
@@ -74,10 +74,10 @@ Willkommen beim Customer Data Management Voices Ihr Ziel als technisches und Mar
     </td>
    <td>
       <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md">
-      <img alt="Verbesserung von Data Management-Strategien durch Marketing-Teams" src="./assets/how-marketing-teams-are-improving-data-management-strategies.png"/>
+      <img alt="Wie Marketing-Teams Datenverwaltungsstrategien verbessern" src="./assets/how-marketing-teams-are-improving-data-management-strategies.png"/>
       </a>
       <div>
-         <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md"><strong>Verbessern der Data-Management-Strategien durch Marketing-Teams</strong></a>
+         <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md"><strong>Wie Marketing-Teams ihre Strategien für das Daten-Management verbessern</strong></a>
       </div>
       <p>
       </p>
@@ -85,16 +85,16 @@ Willkommen beim Customer Data Management Voices Ihr Ziel als technisches und Mar
   </tr>
 </table>
 
-## Zielgruppe und Profil - Data Governance und Datenschutz
+## Zielgruppen- und Profildaten-Governance und Datenschutz
 
 <table>
   <tr>
    <td>
       <a href="./governance/healthcare-shield.md">
-      <img alt="Adobe Real-time Customer Data Platform und Gesundheitsschild" src="./assets/healthcare-shield.png"/>
+      <img alt="Adobe Real-time Customer Data Platform und Healthcare Shield" src="./assets/healthcare-shield.png"/>
       </a>
       <div>
-         <a href="./governance/healthcare-shield.md"><strong>Adobe Real-time Customer Data Platform und Gesundheitsschild</strong></a>
+         <a href="./governance/healthcare-shield.md"><strong>Adobe Real-time Customer Data Platform und Healthcare Shield</strong></a>
          <br/>
       </div>
       <p>
@@ -102,10 +102,10 @@ Willkommen beim Customer Data Management Voices Ihr Ziel als technisches und Mar
    </td> 
    <td>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html">
-      <img alt="10 Überlegungen zum verantwortungsvollen Customer Data Management" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
+      <img alt="10 Überlegungen zum verantwortungsvollen Kundendaten-Management" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 Überlegungen zum verantwortlichen Customer Data Management</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 Überlegungen zum verantwortungsvollen Kundendaten-Management</strong></a>
          <br/>
       </div>
       <p>
@@ -113,10 +113,10 @@ Willkommen beim Customer Data Management Voices Ihr Ziel als technisches und Mar
     </td>
     <td>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html">
-      <img alt="Erhöhen der Rolle des Marketingexperten als Data Steward" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
+      <img alt="Aufwertung der Rolle des Marketing-Experten als Data Steward" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>Erhöhen der Rolle des Marketingexperten als Datensteve</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>Stärkung der Rolle des Marketing-Experten als Data Steward</strong></a>
          <br/>
       </div>
       <p>
@@ -126,33 +126,33 @@ Willkommen beim Customer Data Management Voices Ihr Ziel als technisches und Mar
   </tr>
 </table>
 
-## Branchendiskussionen
+## Branchengespräche
 
 <table>
   <tr>
      <td>
       <a href="./industry/build-superb-experiences-with-your-first-party-data.md">
-      <img alt="Erstellen hervorragender Erlebnisse mit Ihren Erstanbieterdaten" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
+      <img alt="Erstellen Sie mit Ihren First-Party-Daten hervorragende Erlebnisse" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
       </a>
       <div>
-         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>Erstellen großartiger Erlebnisse mit Ihren Erstanbieterdaten</strong></a>
+         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>Erstellen Sie mit Ihren First-Party-Daten hervorragende Erlebnisse</strong></a>
       </div>
       <p>
       </p>
     </td>
      <td>
       <a href="./industry/data-collaboration-in-the-first-party-data-context.md">
-      <img alt="Data Collaboration im Erstanbieter-Datenkontext" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
+      <img alt="Data Collaboration im First-Party-Datenkontext" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Daten-Collaboration im Erstanbieter-Datenkontext</strong></a>
+         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Data Collaboration im First-Party-Datenkontext</strong></a>
       </div>
       <p>
       </p>
     </td>
      <td>
       <a href="./industry/the-future-of-data-management-and-the-changing-environment.md">
-      <img alt="Die Zukunft des Data Managements und der sich wandelnden Umgebung" src="./assets/the-future-of-data-management-and-the-changing-environment.png"/>
+      <img alt="Die Zukunft des Daten-Managements und die sich wandelnde Umgebung" src="./assets/the-future-of-data-management-and-the-changing-environment.png"/>
       </a>
       <div>
          <a href="./industry/the-future-of-data-management-and-the-changing-environment.md"><strong>Die Zukunft des Daten-Managements und die sich verändernde Umgebung</strong></a>
@@ -162,10 +162,10 @@ Willkommen beim Customer Data Management Voices Ihr Ziel als technisches und Mar
     </td>
    <td>
       <a href="./industry/brands-vs-consumers.md">
-      <img alt="Eine Tabelle mit zwei Wahrnehmungen - Marken im Vergleich zu Verbrauchern" src="./assets/brands-vs-consumers.png"/>
+      <img alt="Eine Geschichte zweier Wahrnehmungen - Marken vs. Verbraucher" src="./assets/brands-vs-consumers.png"/>
       </a>
       <div>
-         <a href="./industry/brands-vs-consumers.md"><strong>Eine Tabelle mit zwei Wahrnehmungen - Marken vs. Verbraucher</strong></a>
+         <a href="./industry/brands-vs-consumers.md"><strong>Eine Geschichte zweier Wahrnehmungen - Marken vs. Verbraucher</strong></a>
          <br/>
       </div>
     </td>

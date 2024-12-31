@@ -1,6 +1,6 @@
 ---
-title: Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe von Document Generation und Sign APIs
-description: Hier erfahren Sie, wie die Adobe Document Generation API eine leistungsstarke neue Möglichkeit bietet, wirkungsvolle Dokumente zu generieren. In dieser Sitzung erfahren Sie, wie die Adobe Document Generation API in Kombination mit der Adobe Sign-API auf einfache Weise dynamische Dokumente generieren kann, die über den Sign-Workflow verarbeitet werden können.
+title: Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe von APIs zur Dokumenterstellung und zum Signieren
+description: Sehen Sie sich an, wie die Adobe Document Generation API eine leistungsstarke neue Möglichkeit bietet, wirkungsvolle Dokumente zu generieren. In dieser Sitzung erfahren Sie, wie Sie mit der Adobe Document Generation-API in Kombination mit der Adobe Sign-API dynamische Dokumente erstellen können, die über den Sign-Workflow verarbeitet werden können.
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -17,14 +17,14 @@ ht-degree: 8%
 
 ---
 
-# Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe von Document Generation und Sign APIs
+# Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe von APIs zur Dokumenterstellung und zum Signieren
 
-Hier erfahren Sie, wie die Adobe Document Generation API eine leistungsstarke neue Möglichkeit bietet, wirkungsvolle Dokumente zu generieren. In dieser Sitzung erfahren Sie, wie die Adobe Document Generation API in Kombination mit der Adobe Sign-API auf einfache Weise dynamische Dokumente generieren kann, die über den Sign-Workflow verarbeitet werden können.
+Sehen Sie sich an, wie die Adobe Document Generation API eine leistungsstarke neue Möglichkeit bietet, wirkungsvolle Dokumente zu generieren. In dieser Sitzung erfahren Sie, wie Sie mit der Adobe Document Generation-API in Kombination mit der Adobe Sign-API dynamische Dokumente erstellen können, die über den Sign-Workflow verarbeitet werden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338094/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

@@ -1,6 +1,6 @@
 ---
-title: Nutzung der Leistungsfähigkeit von Generative AI und Enterprise DAM zur Förderung personalisierter Commerce-Erlebnisse
-description: Verbessern Sie Ihre Commerce-Erlebnisse mit generativen I-Tools, indem Sie personalisierte AI-Tools wie Experience Manager und Firefly nutzen, um Inhalte effizient zu erstellen und zu verwalten, die Site-Performance zu verbessern und Konversionsraten zu steigern. Dies wird durch reale Beispiele wie Marken veranschaulicht.
+title: Nutzung der Leistungsfähigkeit von generativer KI und Enterprise DAM zur Bereitstellung personalisierter Commerce-Erlebnisse
+description: Optimieren Sie personalisierte Commerce-Erlebnisse mit generativer KI und nutzen Sie Adobe-Tools wie Experience Manager und Firefly für eine effiziente Inhaltserstellung und -verwaltung, eine verbesserte Site-Performance und höhere Konversionsraten, wie Beispiele aus der Praxis wie Hanesbrands zeigen.
 feature: Personalization, Storefront
 topic: Artificial Intelligence
 role: Admin, Developer, Leader, User
@@ -9,26 +9,26 @@ doc-type: Event
 duration: 4225
 last-substantial-update: 2024-11-28T00:00:00Z
 jira: KT-16586
-source-git-commit: a5b6c2c3150fcc98686fe74d68f186bfe4e1befa
+exl-id: a2b24f49-1e9c-4d45-860e-a6c0e086a4e3
+source-git-commit: baacc97f717d27581d0ef28384e2f680dbef854e
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
+# Nutzung der Leistungsfähigkeit von generativer KI und Enterprise DAM zur Bereitstellung personalisierter Commerce-Erlebnisse
 
-# Nutzung der Leistungsfähigkeit von Generative AI und Enterprise DAM zur Förderung personalisierter Commerce-Erlebnisse
-
-Nehmen Sie an dieser interaktiven Sitzung teil, in der erläutert wird, wie generative KI-Dienste zum Erstellen und Bearbeiten von Inhalten verwendet werden können, um Ihren Geschäftsteams skalierbare und benutzerfreundliche Funktionen zu bieten, Inhalte und die Produkterstellung so zu gestalten, dass sie den Anforderungen einer modernen Commerce-Plattform gerecht werden, unabhängig davon, wie viele Storefronts Sie verwalten müssen.
+Nehmen Sie an dieser interaktiven Sitzung teil und erfahren Sie, wie Generative AI-Services verwendet werden können, um Inhalte zu erstellen und zu bearbeiten, um Ihren Geschäftsteams skalierbare und benutzerfreundliche Funktionen zu bieten, die Inhalts- und Produkterstellung zu fördern, damit die Anforderungen einer modernen Commerce-Plattform erfüllt werden, unabhängig davon, wie viele Storefronts Sie verwalten müssen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440500/?learn=on&enablevpops)
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
-* **Generative KI in Commerce** Die Sitzung konzentrierte sich darauf, wie generative KI zur Erstellung personalisierter Commerce-Erlebnisse verwendet werden kann. Dazu gehören das Generieren von Bildern und Text zur Erstellung von umfangreichen Inhaltsvarianten und das Durchführen von AB-Tests zur Optimierung der Konversionsraten.
-* Der **Adobe-Ansatz** Adobe zielt darauf ab, leistungsstarke, personalisierte Commerce-Erlebnisse auf der Basis generativer KI-Dienste bereitzustellen. Dazu gehört, den Handel überall dort einzusetzen, wo Kunden sich befinden, und ein konsistentes Erlebnis über alle Touchpoints hinweg sicherzustellen.
-* Die Tools zur Erstellung und Verwaltung von Inhalten (z. B. Adobe Experience Manager und Adobe Firefly)**unterstützen Sie bei der schnellen und einfachen Erstellung und Verwaltung von Assets wie Adobe, Bannern und Produktvarianten.** Dies hilft bei der Aufrechterhaltung eines Premium-Kundenerlebnisses.
-* **Effizienz und Skalierbarkeit** Die Verwendung von KI ermöglicht die Automatisierung von manuellen Entwurfsaufgaben, wodurch verschwenderische Zeit und die redundante Inhaltserstellung reduziert werden. Dies führt zu einer effizienteren Inhaltserstellung und -verwaltung.
-* **Edge Delivery Services** Adobe-Edge-Bereitstellungsdienste verbessern die Site-Performance, Geschwindigkeit und Agilität, was zu erhöhtem organischem Traffic, höheren Konversionsraten und besserer Interaktion führt.
-* **Beispiele aus der Echtzeit** In der Sitzung wurden Beispiele dafür vorgestellt, wie Unternehmen wie Hanesbrands von der Verwendung von Adobe-Tools profitiert haben, was zu erheblichen Verbesserungen bei der Site-Performance, dem Traffic und den Konversionsraten führte.
-* **Customer Collaboration** Adobe arbeitet mit Kunden über Programme wie das VIP zusammen, um sie bei der Integration und Optimierung ihrer Nutzung von Adobe-Tools für eine bessere Asset-Verwaltung und Asset-Erstellung zu unterstützen.
+* **Generative KI in Commerce** In der Sitzung ging es darum, wie generative KI zum Erstellen personalisierter Commerce-Erlebnisse verwendet werden kann. Dazu gehören die Generierung von Bildern und Text zur Erstellung umfangreicher Inhaltsvarianten und die Durchführung von AB-Tests zur Optimierung der Konversionsraten.
+* Der **Adobe-Ansatz** Adobe zielt darauf ab, hochleistungsfähige, personalisierte Commerce-Erlebnisse bereitzustellen, die auf generativen KI-Services basieren. Dazu gehört es, Commerce überall dort einzusetzen und ein konsistentes Erlebnis über alle Touchpoints hinweg sicherzustellen.
+* **Content Creation and Management** Adobe-Tools wie Adobe Experience Manager und Adobe Firefly helfen bei der schnellen und einfachen Erstellung und Verwaltung von Assets wie Bildern, Bannern und Produktvarianten. Dies hilft bei der Aufrechterhaltung eines erstklassigen Kundenerlebnisses.
+* **Effizienz und Skalierbarkeit** Die Verwendung von KI ermöglicht die Automatisierung manueller Design-Aufgaben, die Verringerung von Zeitverschwendung und redundanter Inhaltserstellung. Dies führt zu einer effizienteren Inhaltserstellung und -verwaltung.
+* **Edge Delivery Services** Adobe-Edge-Bereitstellungs-Services verbessern die Site-Performance, Geschwindigkeit und Agilität, was zu erhöhtem organischen Traffic, höheren Konversionsraten und besserer Interaktion führt.
+* **Beispiele aus der Praxis** Die Sitzung enthielt Beispiele dafür, wie Unternehmen wie Hanesbrands von der Verwendung von Adobe-Tools profitiert haben, was zu erheblichen Verbesserungen bei der Site-Leistung, dem Traffic und den Konversionsraten geführt hat.
+* **Customer Collaboration** Adobe arbeitet mit Kunden über Programme wie das VIP-Programm zusammen, um sie bei der Integration und Optimierung ihrer Verwendung von Adobe-Tools für eine bessere Asset-Verwaltung und Inhaltserstellung zu unterstützen.

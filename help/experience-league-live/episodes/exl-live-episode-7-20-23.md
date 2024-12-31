@@ -1,6 +1,6 @@
 ---
-title: Ausführbare Zielgruppen an einem Ort ​ von jeder Quelle mit Standardkontrollen
-description: Die neuen Funktionen Audience Portal und Komposition haben die Segmentierung und das Zielgruppen-Management in Real-Time CDP auf eine völlig neue Ebene gebracht. Die Erfassung vordefinierter Zielgruppen, das zentrale Zielgruppen-Management und eine neue Arbeitsfläche zur Komposition bieten einen Ort, an dem Sie Ihre wichtigsten Zielgruppen erstellen, organisieren und über Marketing-Kanäle verteilen können.
+title: Verwertbare Zielgruppen an einem Ort​ von jeder Quelle aus, mit Standardsteuerelementen
+description: Die neuen Funktionen Audience Portal und Komposition haben die Segmentierung und Zielgruppenverwaltung in Real-Time CDP auf eine neue Ebene geführt. Die Aufnahme vordefinierter Zielgruppen, zentralisiertes Zielgruppen-Management und eine neue Arbeitsfläche für die Komposition bieten einen Ort, an dem Sie Ihre wichtigsten Zielgruppen erstellen, organisieren und über Marketing-Kanäle verteilen können.
 solution: Journey Optimizer, Real-Time Customer Data Platform, Experience Platform
 feature: Audiences
 kt: KT-13220
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# Ausführbare Zielgruppen an einem Ort &#x200B; von jeder Quelle mit Standardkontrollen
+# Verwertbare Zielgruppen an einem Ort&#x200B; von jeder Quelle aus, mit Standardsteuerelementen
 
-Die neuen Funktionen Audience Portal und Komposition haben die Segmentierung und das Zielgruppen-Management in Real-Time CDP auf eine völlig neue Ebene gebracht. Die Erfassung vordefinierter Zielgruppen, das zentrale Zielgruppen-Management und eine neue Arbeitsfläche zur Komposition bieten einen Ort, an dem Sie Ihre wichtigsten Zielgruppen erstellen, organisieren und über Marketing-Kanäle verteilen können.
+Die neuen Funktionen Audience Portal und Komposition haben die Segmentierung und Zielgruppenverwaltung in Real-Time CDP auf eine neue Ebene geführt. Die Aufnahme vordefinierter Zielgruppen, zentralisiertes Zielgruppen-Management und eine neue Arbeitsfläche für die Komposition bieten einen Ort, an dem Sie Ihre wichtigsten Zielgruppen erstellen, organisieren und über Marketing-Kanäle verteilen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421425/?quality=12&learn=on)
 
-Haben Sie Fragen zu dieser Sendung? Fahren Sie mit der Diskussion über dieses Thema im Adobe Experience League [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366) fort.
+Haben Sie Fragen zu dieser Show? Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366) fort.
 

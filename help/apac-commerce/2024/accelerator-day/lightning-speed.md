@@ -1,6 +1,6 @@
 ---
 title: Blitzgeschwindigkeit - Adobe-Edge Delivery Services
-description: Die neuesten Informationen und Demonstrationen über Adobes blitzen schnell Edge Delivery Services durch Adobe Experience Manager und Adobe Commerce.
+description: Die neuesten Details und Demonstrationen auf Adobe auf blitzschnellen Edge Delivery Services durch Adobe Experience Manager und Adobe Commerce.
 topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Blitzgeschwindigkeit: Adobe Edge Delivery Services
 
-Die neuesten Informationen und Demonstrationen über Adobes blitzen schnell Edge Delivery Services durch Adobe Experience Manager und Adobe Commerce.
+Die neuesten Details und Demonstrationen auf Adobe auf blitzschnellen Edge Delivery Services durch Adobe Experience Manager und Adobe Commerce.
 
-+ Vorgestellt von Kam Radhakrishnan, Senior Solution Engineer - Adobe
++ Präsentiert von Kam Radhakrishnan, Senior Solution Engineer - Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429271/?learn=on)
 

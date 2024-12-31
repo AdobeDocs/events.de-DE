@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live Edge Delivery Services-Verteilung 1 - November 2023
-description: Treten Sie Markus Haack in dieser praktischen Sitzung bei, die live in Adobe Developers Live aufgenommen wurde. Erfahren Sie, wie Sie mit Adobe Experience Manager-Edge Delivery Services von Grund auf eine Website erstellen. Diese Sitzung behandelt alles von der Einrichtung eines GitHub-Repositorys, der Verwaltung von Dokumentbibliotheken, der Veröffentlichung Ihres ersten Inhalts bis hin zur Erstellung von Site-Stilen und benutzerdefinierten Bausteinen. Dieses Handbuch eignet sich ideal für Entwickler, die mit Adobe Experience Manager noch nicht vertraut sind. Es bietet einen umfassenden Überblick über die effiziente Webentwicklung mit AEM optimierten Tools.
+title: Adobe Developers Live Edge Delivery Services Breakout 1. November 2023
+description: Begleiten Sie Markus Haack in dieser praktischen Session, die live bei Adobe Developers Live aufgenommen wurde. Erfahren Sie, wie Sie mit den Edge Delivery Services von Adobe Experience Manager von Grund auf eine Website erstellen können. In dieser Sitzung wird alles behandelt, von der Einrichtung eines GitHub-Repositorys über die Verwaltung von Dokumentbibliotheken, die Veröffentlichung Ihres ersten Inhalts bis hin zu Site-Stilen und der Erstellung benutzerdefinierter Blöcke. Dieses Handbuch, das sich ideal für Entwickler eignet, die noch nicht mit Adobe Experience Manager vertraut sind, bietet einen umfassenden Überblick über die effiziente Web-Entwicklung mit den optimierten Tools von AEM.
 solution: Experience Manager,Experience Manager Sites
 feature-set: Experience Manager
 feature: Edge Delivery Services
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Live Edge Delivery Services-Verteilung 1 - November 2023
+# Adobe Developers Live Edge Delivery Services Breakout 1. November 2023
 
-Treten Sie Markus Haack in dieser praktischen Sitzung bei, die live in Adobe Developers Live aufgenommen wurde. Erfahren Sie, wie Sie mit Adobe Experience Manager-Edge Delivery Services von Grund auf eine Website erstellen. Diese Sitzung behandelt alles von der Einrichtung eines GitHub-Repositorys, der Verwaltung von Dokumentbibliotheken, der Veröffentlichung Ihres ersten Inhalts bis hin zur Erstellung von Site-Stilen und benutzerdefinierten Bausteinen. Dieses Handbuch eignet sich ideal für Entwickler, die mit Adobe Experience Manager noch nicht vertraut sind. Es bietet einen umfassenden Überblick über die effiziente Webentwicklung mit AEM optimierten Tools.
+Begleiten Sie Markus Haack in dieser praktischen Session, die live bei Adobe Developers Live aufgenommen wurde. Erfahren Sie, wie Sie mit den Edge Delivery Services von Adobe Experience Manager von Grund auf eine Website erstellen können. In dieser Sitzung wird alles behandelt, von der Einrichtung eines GitHub-Repositorys über die Verwaltung von Dokumentbibliotheken, die Veröffentlichung Ihres ersten Inhalts bis hin zu Site-Stilen und der Erstellung benutzerdefinierter Blöcke. Dieses Handbuch, das sich ideal für Entwickler eignet, die noch nicht mit Adobe Experience Manager vertraut sind, bietet einen umfassenden Überblick über die effiziente Web-Entwicklung mit den optimierten Tools von AEM.
 
-Fahren Sie mit der Unterhaltung in [Experience League Communities](https://adobe.ly/3Q82EUF) fort.
+Gespräche in [Experience League Communities fortsetzen](https://adobe.ly/3Q82EUF).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425629/?learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Anpassen von Dialogfeldern in der Touch-optimierten Benutzeroberfläche
-description: Erfahren Sie, wie Sie in AEM 6.1 benutzerdefinierte Felder (oder Widgets) für Dialogfelder der Touch-Benutzeroberfläche implementieren. Erfahren Sie, wie Dinge, die zuvor mit ExtJS (klassische Benutzeroberfläche) durchgeführt wurden, jetzt über die Granite-Benutzeroberfläche und die Coral-Benutzeroberfläche durchgeführt werden können.
+description: Erfahren Sie, wie Sie benutzerdefinierte Felder (oder Widgets) für Dialogfelder der Touch-optimierten Benutzeroberfläche in AEM 6.1 implementieren. Erfahren Sie, wie Aktionen, die zuvor mit ExtJS (klassische Benutzeroberfläche) durchgeführt wurden, jetzt mit der Granite- und der Coral-Benutzeroberfläche ausgeführt werden können.
 discoiquuid: 45acb883-7202-494b-bbbb-78189c222093
 targetaudience: target-audience advanced
 exl-id: de13e990-fd41-4d7f-b70a-49b210c38263
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 # Anpassen von Dialogfeldern in der Touch-optimierten Benutzeroberfläche{#customizing-dialog-fields-in-touch-ui}
 
-In dieser Sitzung werden wir erklären, wie in AEM 6.1 benutzerdefinierte Felder (oder Widgets) für Dialogfelder der Touch-Benutzeroberfläche implementiert werden. Das Ziel besteht darin, Ihnen zu zeigen, wie Dinge, die zuvor mit ExtJS (klassische Benutzeroberfläche) durchgeführt wurden, jetzt über die Granite-Benutzeroberfläche und die Coral-Benutzeroberfläche durchgeführt werden können:
+In dieser Sitzung erfahren Sie, wie Sie benutzerdefinierte Felder (oder Widgets) für Dialogfelder der Touch-optimierten Benutzeroberfläche in AEM 6.1 implementieren. Ziel ist es, Ihnen zu zeigen, wie Aktionen, die zuvor mit ExtJS (klassische Benutzeroberfläche) durchgeführt wurden, jetzt mit der Granite- und der Coral-Benutzeroberfläche erledigt werden können:
 
-* Neues Feld erstellen
-* Vorhandenes Feld erweitern
-* Validierung verwalten
+* Erstellen eines neuen Felds
+* Erweitern eines vorhandenen Felds
+* Umgang mit der Validierung
 * Umgang mit Ereignissen
 
 >[!VIDEO](https://video.tv.adobe.com/v/19373/?quality=9)
 
-*Ausgestellt am 7. Oktober 2015*
+*Veröffentlicht am 07.10.2015*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 * Christanto Leonardo, Senior Developer, Adobe
-* Christian Meyer, Entwickler, Adobe
+* Christian Meyer, Developer, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--

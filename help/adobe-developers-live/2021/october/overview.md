@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live Oktober 2021
-description: Eine Sammlung von Videos und Tutorials für Adobe Experience Manager Sites, die im Rahmen des Adobe Developers Live-Ereignisses bereitgestellt werden.
+description: Eine Videosammlung und Tutorials zu Adobe Experience Manager Sites, die im Rahmen der Adobe Developers Live-Veranstaltung bereitgestellt werden.
 sub-product: sites, content-services
 exl-id: e6ebda58-dd9f-4d27-9f94-0233fc98d3c0
 duration: 110
@@ -15,13 +15,13 @@ ht-degree: 9%
 
 <img alt="Adobe Developers Live" src="/help/adobe-developers-live/assets/adl.png" />
 
-Vom 4. bis 5. Oktober 2021 brachte Adobe Developers Live Adobe-Entwickler und Erlebnisentwickler mit unterschiedlichem Hintergrund und einem einzigartigen Ziel zusammen - um unglaubliche End-to-End-Erlebnisse zu schaffen. Auf dieser zweitägigen Konferenz wurden wichtige Entwickleraktualisierungen, technische Sitzungen und Community-Netzwerkmöglichkeiten vorgestellt.
+Am 4. und 5. Oktober 2021 hat Adobe Developers Live Adobe-Entwickler und Erlebnisgestalter mit unterschiedlichem Hintergrund zusammengebracht, um herausragende End-to-End-Erlebnisse zu schaffen. Diese zweitägige Konferenz bot wichtige Entwickler-Updates, technische Sessions und Gelegenheiten zum Networking in der Community.
 
-Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud präsentierten die neuesten technologischen Fortschritte und Entwicklertools, die Design, Content-Erstellungs-Workflows, Dokumentendienste und Customer Experience Management branchenübergreifend ermöglichen.
+Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud präsentierten die neuesten technischen Fortschritte und Entwickler-Tools, die das Design, Workflows zur Inhaltserstellung, Dokumenten-Services und das Customer Experience Management in verschiedenen Branchen ermöglichen.
 
-Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Gesprächen in Experience League Communities teil.
-* [Adobe Developer App Builder-Liste für vollständige Sitzung ](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [AEM Vollständige Sitzungsliste](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=de#M120517)
+Treten Sie mit anderen Entwicklern in Kontakt und nehmen Sie an den Sitzungsgesprächen in Experience League Communities teil.
+* [Vollständige Adobe Developer App Builder-Sitzungsliste](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
+* [Vollständige AEM-Sitzungsliste](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=de#M120517)
 
 ## Highlights
 
@@ -37,34 +37,34 @@ Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Gesprächen in 
       </div>
       <p>
         <br/>
-         Mit GraphQL für Inhaltsfragmente, die für AEM 6.5 und Adobe Experience Manager as a Cloud Service verfügbar sind, sollten wir untersuchen, wie Adobe Experience Manager als Headless-CMS verwendet werden kann.
+         Nachdem GraphQL für Inhaltsfragmente für AEM 6.5 und Adobe Experience Manager as a Cloud Service verfügbar ist, erkunden wir, wie Adobe Experience Manager als Headless-CMS verwendet werden kann.
       </p>
      </td>   
      <td>
       <a href="aep-integration.md">
-      <img alt="Überblick über die Integration von Adobe Experience Platform" src="/help/adobe-developers-live/assets/eric.png"/>
+      <img alt="Übersicht über die Integration von Adobe Experience Platform" src="/help/adobe-developers-live/assets/eric.png"/>
       </a>
       <div>
-         <a href="aep-integration.md"><strong>Überblick über die Adobe Experience Platform-Integration</strong></a>
+         <a href="aep-integration.md"><strong>Überblick über die Integration von Adobe Experience Platform</strong></a>
          <br/><em>mit Eric Knee, Principal Enterprise Solution Architect</em>
       </div>
       <p>
         <br/>
-         In dieser Sitzung erhalten Sie einen Überblick über verschiedene Möglichkeiten, wie Adobe Experience Platform in Ihr Ökosystem integriert werden kann, und über Aspekte, die bei der Planung der Integrationsarbeit zu beachten sind.
+         In dieser Sitzung erhalten Sie einen Überblick über die verschiedenen Möglichkeiten, wie Adobe Experience Platform in Ihr Ökosystem integriert werden kann, und über die Dinge, die Sie bei der Planung der Integrationsarbeit berücksichtigen sollten.
       </p>
    </td>
    </td>
      <td>
       <a href="pdf-services-api.md">
-      <img alt="Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe der Adobe Sign API" src="/help/adobe-developers-live/assets/ben.png"/>
+      <img alt="Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe der Adobe Sign-API" src="/help/adobe-developers-live/assets/ben.png"/>
       </a>
       <div>
-         <a href="pdf-services-api.md"><strong>Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe der Adobe Sign API</strong></a>
+         <a href="pdf-services-api.md"><strong>Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe der Adobe Sign-API</strong></a>
          <br/><em>mit Ben Vanderberg, Principal Developer Evangelist</em>
       </div>
       <p>
         <br/>
-         Adobe Document Generation API ist ein leistungsstarker Dokumenterstellungs-Service, der von Microsoft Word-Vorlagen gesteuert wird, die mit Ihren Daten zusammengeführt wurden. In Kombination mit der Adobe Sign-API können Entwickler auf einfache Weise dynamische Dokumente erstellen, die über den Sign-Workflow verarbeitet werden können.
+         Die Adobe Document Generation-API ist ein leistungsstarker Service zur Dokumenterstellung, der von Microsoft Word-Vorlagen gesteuert wird, die mit Ihren Daten zusammengeführt werden. In Kombination mit der Adobe Sign-API können Entwicklerinnen und Entwickler auf einfache Weise dynamische Dokumente generieren, die über den Sign-Workflow verarbeitet werden können.
       </p>
    </td> 
   </tr>
@@ -72,17 +72,17 @@ Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Gesprächen in 
 
 >[!TIP]
 >
->**Alle Sitzungen werden in der Navigation auf der linken Seite angezeigt**.
+>**Alle Sitzungen werden im Navigationsbereich auf der linken Seite**.
 
 ## Weitere Ressourcen
 
 ### AEM
 
-* [Experience League - AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
+* [Experience League - AEM erkunden](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
 * [Dokumentation zur AEM Sites-Bearbeitung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [AEM Sites-Entwicklungsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [AEM Sites-Verwaltungsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [AEM Sites-Bereitstellungsdokumentation](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=de)
+* [Entwicklungsdokumentation für AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
+* [Dokumentation zur Verwaltung von AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [Dokumentation zur Bereitstellung von AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=de)
 * [AEM as a Cloud Service Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=de)
 * [AEM Assets-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=de)
 * [Tutorials zu AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
@@ -90,12 +90,12 @@ Verbinden Sie sich mit anderen Entwicklern und nehmen Sie an den Gesprächen in 
 
 ### Adobe Experience Platform
 
-* [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+* [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 * [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 * [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)
 
 ### App Builder
 
-* [Überblick über App Builder](https://adobe.ly/aem-appbuilder)
+* [Übersicht über App Builder](https://adobe.ly/aem-appbuilder)
 * [App Builder-Entwicklerhandbuch](https://adobe.ly/appbuilder)
-* [Registrieren des App Builder-Testprogramms](https://adobe.ly/appbuilder-trial)
+* [App Builder-Testprogramm-Anmeldung](https://adobe.ly/appbuilder-trial)

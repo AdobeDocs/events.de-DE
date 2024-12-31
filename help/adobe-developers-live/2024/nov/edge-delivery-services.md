@@ -1,6 +1,6 @@
 ---
-title: Edge Delivery Services - ab einem Jahr sechs Wege besser
-description: Steigern Sie Benutzererlebnisse und Konversionsraten mit Adobe Experience Manager-Edge Delivery Services (AEM), die hohe Geschwindigkeit, Einfachheit, hohe Verfügbarkeit, Komposabilität, Repo-Sites für eine effiziente Entwicklung und zuverlässige Dateneinblicke bieten, ohne personenbezogene Daten zu erfassen.
+title: Edge Delivery Services - ein Jahr nach sechs Jahren besser
+description: Verbessern Sie das Benutzererlebnis und die Konversionsraten mit Adobe Experience Manager-Edge Delivery Services (AEM), die hohe Geschwindigkeit, Einfachheit, hohe Verfügbarkeit, Kompatibilität, Repo-Sites für eine effiziente Entwicklung und zuverlässige Dateneinblicke ohne Erfassung von personenbezogenen Daten bieten.
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
 role: Developer
@@ -9,31 +9,31 @@ doc-type: Event
 duration: 1227
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16542
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 275991ba-0784-481f-b4ba-7f7ea8bed679
+source-git-commit: baacc97f717d27581d0ef28384e2f680dbef854e
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
+# Edge Delivery Services: Ein Jahr nach sechs, noch besser
 
-# Edge Delivery Services: In einem Jahr, sechs Wege besser
-
-Treten Sie Lars Trieloff, Principal bei Adobe bei, wie er auf das erste Jahr der Edge Delivery Services reflektiert. Erfahren Sie mehr über die Herausforderungen, die überwunden werden, die Lehren und die Errungenschaften, die während der Entwicklung des Systems erreicht wurden. Gewinnen Sie Einblicke in die Journey des Produkts und sehen Sie sich die nächsten Schritte an.
+Seien Sie dabei, wenn Lars Trieloff, Principal bei Adobe, über das erste Jahr des Edge Delivery Services nachdenkt. Erfahren Sie mehr über die überwundenen Herausforderungen, die gewonnenen Erkenntnisse und die während der Entwicklung erzielten Ergebnisse. Gewinnen Sie Einblicke in die Journey des Produkts und erhalten Sie eine Vorschau darauf, was als Nächstes kommt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439436/?learn=on&enablevpops)
 
 ## Community-Diskussion
 
-Fahren Sie mit der Unterhaltung in der Adobe Developers Live Community [diskussion](https://adobe.ly/3NTU0qS) fort.
+Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](https://adobe.ly/3NTU0qS) fort.
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
-* **Geschwindigkeit und Leistung** Die Geschwindigkeit ist von entscheidender Bedeutung für Benutzererlebnisse und Konversionsraten. Google priorisiert schnelle Websites für kostenlosen Traffic. Adobe Experience Manager (AEM) mit Edge Delivery Services wird als schnelles Web Content Management System hervorgehoben.
-* **Einfachheit** Eine einfache Architektur ist für die Leistung unverzichtbar. Komplexe Setups, die von AI-Tools wie ChatGPT vorgeschlagen werden, können kontraproduktiv sein.
-* **Verfügbarkeit** AEM Edge Delivery Services verfügen über eine hohe Verfügbarkeit mit minimalen Ausfallzeiten. Die tatsächliche Ausfallzeit im vergangenen Jahr betrug für Hochverfügbarkeitskunden null Minuten. &#x200B;
-* **AEM Kompostheit** bietet die Möglichkeit, sowohl Authoring als auch Versand zusammenzustellen, was Flexibilität bei den verwendeten Tools und CDNs ermöglicht.
-* **Repo Sites** Eine neue Funktion, Repo Sites genannt, ermöglicht die Bereitstellung einer einzelnen Codebasis auf mehreren Sites, wodurch die Entwicklungseffizienz verbessert wird. &#x200B;
-* **Daten und Einblicke** Das Erfassen und Analysieren von Daten zur Site-Leistung und Benutzerinteraktion ist von entscheidender Bedeutung. AEM bietet hierfür Instrumente, ohne personenbezogene Daten (PII) zu erfassen.
-* **KI-Einschränkungen** Aktuelle KI-Tools bieten häufig ungenaue oder zu komplexe Lösungen. Menschliches Fachwissen ist nach wie vor unerlässlich.
-* **Erste Schritte** AEM Edge Delivery Services können einfach aufgerufen und verwendet werden, ohne Instanzen oder spezielle Zugriffsberechtigungen zu benötigen.
+* **Geschwindigkeit und Leistung** Geschwindigkeit ist für das Benutzererlebnis und die Konversionsraten entscheidend.Google legt Wert auf schnelle Websites für organischen Traffic. Adobe Experience Manager (AEM) mit Edge Delivery Services wird als schnelles Web-Content-Management-System hervorgehoben.
+* **Einfachheit** Eine einfache Architektur ist für die Leistung unerlässlich. Komplexe Setups, die von KI-Tools wie ChatGPT vorgeschlagen werden, können kontraproduktiv sein.
+* **Verfügbarkeit** AEM-Edge Delivery Services bieten hohe Verfügbarkeit bei minimalen Ausfallzeiten. Die tatsächliche Ausfallzeit im letzten Jahr betrug für Kunden mit hoher Verfügbarkeit null Minuten. &#x200B;
+* **Kompatibilität** AEM bietet Kompatibilität sowohl beim Authoring als auch bei der Bereitstellung und ermöglicht so Flexibilität bei den verwendeten Tools und CDNs.
+* **Repo Sites** Eine neue Funktion namens Repo Sites ermöglicht die Bereitstellung einer einzelnen Code-Basis auf mehreren Sites, was die Entwicklungseffizienz verbessert. &#x200B;
+* **Daten und Einblicke** Das Erfassen und Analysieren von Daten zur Site-Performance und Benutzerinteraktion ist von entscheidender Bedeutung. AEM bietet Tools dafür, ohne personenbezogene Daten (PII) zu erfassen.
+* **KI-Einschränkungen** Aktuelle KI-Tools bieten häufig ungenaue oder übermäßig komplexe Lösungen. Menschliches Fachwissen ist nach wie vor unerlässlich.
+* **Erste Schritte** AEM-Edge Delivery Services können einfach aufgerufen und verwendet werden, ohne dass Instanzen oder spezielle Zugriffsberechtigungen erforderlich sind.

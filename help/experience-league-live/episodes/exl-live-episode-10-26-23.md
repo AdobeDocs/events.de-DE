@@ -1,6 +1,6 @@
 ---
-title: Workfront Release Deep Dive - Neue Workfront-Homepage
-description: Erfahren Sie von Workfront-Kunden, wie die neue Startseite für sie und ihre Benutzer funktioniert.
+title: Detaillierte Einblicke in Workfront-Versionen - Neue Workfront-Startseite
+description: Erfahren Sie von Workfront-Kunden, wie New Home für sie und ihre Benutzer funktioniert.
 kt: KT-14069
 solution: Workfront
 feature: Work Management
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ---
 
-# Workfront Release Deep Dive - Neue Workfront-Homepage
+# Detaillierte Einblicke in Workfront-Versionen - Neue Workfront-Startseite
 
-Erfahren Sie von Workfront-Kunden, wie die neue Startseite für sie und ihre Benutzer funktioniert. Erfahren Sie mehr über die neuen Home-Funktionen, die im August bereitgestellt werden, und unsere neuen Admin-Layout-Steuerelemente. Finden Sie heraus, was 2024 als Nächstes zu Hause ist.
+Erfahren Sie von Workfront-Kunden, wie New Home für sie und ihre Benutzer funktioniert. Erfahren Sie mehr über die neuen Startseiten-Funktionen, die im August bereitgestellt wurden, und unsere neuen Admin-Layout-Steuerelemente. Und finden Sie heraus, was im Jahr 2024 als Nächstes für Home gilt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424606/?learn=on)
 
-Die komplett überarbeitete Workfront-Startseite wurde zu einem Produktivitätsmotor. Mit den anpassbaren Widgets können Sie Ihren Workflow optimieren und nahtlos durch Projekte, Aufgaben, Probleme, Anforderungen und Erwähnungen navigieren, um sicherzustellen, dass nichts durch die Risse fällt. Dank der Flexibilität, die Startseite an Ihre individuellen Bedürfnisse anzupassen, können Sie Ihren eigenen zentralen Workfront-Hub erstellen.
+Die komplett überarbeitete Workfront-Startseite ist zu einem Kraftpaket für Produktivität geworden. Mit anpassbaren Widgets können Sie Ihren Workflow optimieren und Projekte, Aufgaben, Probleme, Anfragen und Erwähnungen nahtlos durchlaufen, um sicherzustellen, dass nichts durch die Ritzen fällt. Dank der Flexibilität, die Startseite entsprechend Ihren individuellen Anforderungen anzupassen, können Sie Ihren eigenen zentralisierten Workfront-Hub erstellen.
 
-In dieser Experience League Live Session führt Ihnen der Produktexperte Ben Robbins durch das neue Home-Erlebnis, einschließlich neuer Layoutsteuerungen für Administratoren und interessanter Verbesserungen aus dem Jahr 2024. Und Workfront-Kunde Jamie Smith wird Einblicke darüber geben, wie das neue Home-Erlebnis die Produktivität bei AT&amp;T steigert.
+In dieser Experience League-Live-Sitzung führt Sie Produktexperte Ben Robbins durch das neue Startseiten-Erlebnis, einschließlich neuer Admin-Layout-Steuerelemente und aufregender Verbesserungen im Jahr 2024. Und Workfront-Kunde Jamie Smith wird darüber berichten, wie das neue Heimerlebnis die Produktivität bei AT&amp;T steigert.
 
-**Um die Diskussion fortzusetzen, besuchen Sie bitte die [Experience League Community Post!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
+**Um mit der Diskussion fortzufahren, besuchen Sie bitte den [Experience League-Community-Beitrag!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
 

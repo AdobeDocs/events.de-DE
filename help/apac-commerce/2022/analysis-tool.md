@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce Site-weites Analyse-Tool
-description: Site-weites Analyse-ToolDieses Webinar eignet sich ideal für Händler, die Echtzeitzugriff auf alle Systemeinblicke erhalten möchten, sowie für proaktive Schritte zur Lösung von Problemen auf der Adobe Commerce-Site und zur Überwachung des gesamten Site-Zustands.
+title: Adobe Commerce Site Wide Analysis Tool
+description: Site-Wide Analysis ToolDieses Webinar ist ideal für Händler, die Echtzeitzugriff auf alle Systemeinblicke erhalten möchten, proaktive Schritte zum Beheben von Problemen mit Adobe Commerce-Websites und zum Überwachen des allgemeinen Site-Zustands.
 solution: Commerce
 topic: Commerce
 role: Leader, Architect, Developer, Data Architect, Admin, User
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce Site-weites Analyse-Tool
+# Adobe Commerce Site Wide Analysis Tool
 
-Dieses Webinar eignet sich ideal für Händler, die Echtzeitzugriff auf alle Systemeinblicke erhalten möchten, sowie für proaktive Schritte zur Lösung von Problemen auf der Adobe Commerce-Site und zur Überwachung des gesamten Site-Zustands.
+Dieses Webinar ist ideal für Händler, die Echtzeitzugriff auf alle Systemeinblicke, proaktive Schritte zur Lösung von Adobe Commerce-Site-Problemen und zur Überwachung des allgemeinen Site-Zustands erhalten möchten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347334/?quality=12&learn=on)

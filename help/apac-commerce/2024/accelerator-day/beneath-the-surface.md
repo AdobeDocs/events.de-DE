@@ -1,6 +1,6 @@
 ---
-title: Unterhalb der Oberfläche - Erkunden der Zahlungsarchitektur
-description: Übersichtssitzung zum neuesten Stand für die Powerboard Payment Orchestration Plattform der Commonwealth Bank und deren Anwendungsbeispiele für Online-Geschäfte.
+title: Unter der Oberfläche - Zahlungsarchitektur erkunden
+description: Überblick über die neueste Version der Powerboard-Zahlungs-Orchestrierungsplattform der Commonwealth Bank und ihre Anwendungsfälle für das Online-Business.
 topic: Commerce
 feature: Payments
 role: Admin, Developer, Leader, User
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 # Unter der Oberfläche: Zahlungsarchitektur erkunden
 
-Übersichtssitzung zum neuesten Stand für die Powerboard Payment Orchestration Plattform der Commonwealth Bank und deren Anwendungsbeispiele für Online-Geschäfte.
+Überblick über die neueste Version der Powerboard-Zahlungs-Orchestrierungsplattform der Commonwealth Bank und ihre Anwendungsfälle für das Online-Business.
 
-Moderatoren:
+Referenten:
 
-+ Omaya Robinson, PowerBoard Founding Crew Lead, Leiterin des Produktbereichs - CBA
++ Omaya Robinson, PowerBoard Founding Crew Lead, Head of Product - CBA
 + Luke Jericho, Crew Lead, Head of eCommerce - CBA
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429270/?learn=on)

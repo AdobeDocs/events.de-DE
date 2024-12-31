@@ -1,6 +1,6 @@
 ---
-title: Commerce & Kaffee - Biologisches Wachstum
-description: Entdecken Sie 7 Strategien zur Förderung des organischen eCommerce-Wachstums mit Corey Gelato, einschließlich SEO, Social Media und On-site-Optimierung, sowie Adobe Commerce-Tools wie URL-Neuschreibungen, Sitemap-Generierung und Metadatenverwaltung.
+title: Commerce & Coffee - Organisches Wachstum
+description: Entdecken Sie mit Corey Gelato 7 Strategien zur Förderung des organischen E-Commerce-Wachstums, einschließlich SEO, Social Media und Onsite-Optimierung sowie Adobe Commerce-Tools wie URL-Neuschreibungen, Sitemap-Generierung und Metadatenverwaltung.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# Commerce &amp; Kaffee: Biologisches Wachstum
+# Commerce &amp; Coffee: Organisches Wachstum
 
-In dieser Sitzung lesen wir einige der Top-Strategien von Adobe, um eine E-Commerce-Site organisch zu erweitern. Bei der Erzeugung von organischem Wachstum ist es unerlässlich, das digitale Ökosystem Ihres Unternehmens als Ganzes zu betrachten. Wir untersuchen 7 Möglichkeiten, ein E-Commerce-Geschäft organisch von SEO und Social Media zu erweitern, um Verknüpfungen zu erstellen und vor Ort zu optimieren. Corey führt eine Live-Demonstration der Adobe Commerce-Funktionen durch, einschließlich URL-Neuschreibungen, Sitemap-Generierung, Canonical-Meta-Tags, Metadaten und mehr. Wie immer schließen wir die Sitzung mit einem Live-Q&amp;A ab.
+In dieser Sitzung besprechen wir einige der wichtigsten Strategien der Adobe, um eine E-Commerce-Website organisch wachsen zu lassen. Bei der Generierung von organischem Wachstum ist es unerlässlich, das digitale Ökosystem Ihres Unternehmens als Ganzes zu betrachten. Wir unterteilen sieben Möglichkeiten, um ein E-Commerce-Geschäft organisch zu entwickeln, von SEO und Social Media bis hin zu Link-Building und Onsite-Optimierung. Corey führt eine Live-Demonstration der Adobe Commerce-Funktionen durch, einschließlich URL-Neuschreibungen, Sitemap-Generierung, kanonischen Meta-Tags, Metadaten und mehr. Wie immer schließen wir die Sitzung mit einer Live-Frage ab.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416128/?quality=12&learn=on)

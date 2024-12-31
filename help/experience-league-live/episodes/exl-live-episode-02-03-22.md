@@ -1,6 +1,6 @@
 ---
-title: Einführung aller neuen Referenz-Demos in AEM
-description: Erfahren Sie, wie Sie AEM as a Cloud Service mit dem Referenz-Demos-Add-on am schnellsten bereitstellen, vorführen und Funktionen erkunden können.
+title: Vorstellung aller neuen Referenzdemos in AEM
+description: Erfahren Sie mit dem Referenzdemo-Add-on, wie Sie Funktionen von AEM as a Cloud Service am schnellsten bereitstellen, demonstrieren und erkunden können.
 solution: Experience Manager
 event-cta-url: https://youtu.be/FEREXV826NQ
 event-start-time: 2022-02-03 09:00-8
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 ---
 
-# Einführung aller neuen Referenz-Demos in AEM
+# Vorstellung aller neuen Referenzdemos in AEM
 
-Erfahren Sie, wie Sie AEM as a Cloud Service am schnellsten bereitstellen, vorführen und Funktionen erkunden können.
+Erfahren Sie, wie Sie die Funktionen von AEM as a Cloud Service am schnellsten bereitstellen, demonstrieren und erkunden können
 
-Das AEM Referenz-Demos-Add-On ermöglicht die einfache Erstellung von Sandbox-Umgebungen, die mit Beispielinhalten vorab geladen und mithilfe der neuesten Best Practices-Richtlinien für Adobe vorkonfiguriert wurden. Mit dem Add-on können Sie AEM Funktionen einfach im Kontext und mit kaum einer Konfiguration auswerten. Zu den Demos gehören Sites, SPA Editor, Commerce und erweiterte Funktionen von Assets.
+Das AEM-Referenzdemo-Add-on ermöglicht die einfache Erstellung von Sandbox-Umgebungen, die mit Beispielinhalten vorgeladen und mithilfe der neuesten Best-Practice-Richtlinien für Adobe vorkonfiguriert wurden. Mit dem Add-on können Sie AEM-Funktionen einfach im Kontext und fast ohne Konfiguration bewerten. Zu den Demos gehören Sites, der SPA-Editor, Commerce und die erweiterten Funktionen von Assets.
 
-Nehmen Sie an einer Live-Präsentation teil, bei der Adobe Product Manager Hyman Chung und Headwire CTO Ruben Reusser teilnehmen.
+Nehmen Sie an einer Live-Präsentation und Demo mit Adobe Product Manager Hyman Chung und Headwire CTO Ruben Reusser teil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340236/?quality=12&learn=on)
 
-**Aufnahme: 3. Februar 2022, 9 Uhr PST**
+**Aufgezeichnet: 3. Februar 2022, 9 Uhr PST**
 

@@ -1,6 +1,6 @@
 ---
-title: Commerce und Kaffee - KI und Automatisierung
-description: In dieser Sitzung werden die KI-Funktionen von Adobe Commerce ausführlich erläutert. Wir besprechen, was KI und Automatisierung sind, was Kunden erwartet haben und warum Unternehmen sie nicht ignorieren können. Corey führt dann eine gründliche Demonstration von Product Recommendations und Live Search auf der Adobe Commerce-Plattform durch. Die Präsentation und die Demo werden von einem Live-Q&A mit Corey begleitet.
+title: Commerce und Coffee - KI und Automatisierung
+description: In dieser Sitzung werden die KI-Funktionen von Adobe Commerce ausführlich behandelt. Wir besprechen, was KI und Automatisierung ist, was Kunden erwarten und warum Unternehmen dies nicht ignorieren können. Corey durchläuft dann eine gründliche Demonstration von Produkt-Recommendations und Live Search innerhalb der Adobe Commerce-Plattform. Die Präsentation und die Demo werden von einer Live-Q&A mit Corey begleitet.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Commerce und Kaffee - KI und Automatisierung
+# Commerce und Coffee - KI und Automatisierung
 
-In dieser Sitzung werden die KI-Funktionen von Adobe Commerce ausführlich erläutert. Wir besprechen, was KI und Automatisierung sind, was Kunden erwartet haben und warum Unternehmen sie nicht ignorieren können. Corey führt dann eine gründliche Demonstration von Product Recommendations und Live Search auf der Adobe Commerce-Plattform durch. Die Präsentation und die Demo werden von einem Live-Q&amp;A mit Corey begleitet.
+In dieser Sitzung werden die KI-Funktionen von Adobe Commerce ausführlich behandelt. Wir besprechen, was KI und Automatisierung ist, was Kunden erwarten und warum Unternehmen dies nicht ignorieren können. Corey durchläuft dann eine gründliche Demonstration von Produkt-Recommendations und Live Search innerhalb der Adobe Commerce-Plattform. Die Präsentation und die Demo werden von einer Live-Q&amp;A mit Corey begleitet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412709/?quality=12&learn=on)

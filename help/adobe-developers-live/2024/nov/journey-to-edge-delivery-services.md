@@ -1,6 +1,6 @@
 ---
-title: Journey an Edge Delivery Services in Echtzeit
-description: Die Zusammenarbeit von Ensemble mit der PGA Tour nutzt Adobe Experience Manager Headless- und Edge-Bereitstellungsdienste, um 16 aktive Sites effizient zu verwalten und zu aktualisieren, wobei der Schwerpunkt auf Modularität, Wiederverwendbarkeit und schneller Bereitstellung liegt. Zukünftige Pläne zur Verbesserung des Content-Managements mit Helix 5 und dem universellen Editor werden folgen.
+title: Eine reale Journey für Edge Delivery Services
+description: Die Zusammenarbeit von Ensemble mit der PGA Tour nutzt Adobe Experience Manager Headless- und Edge-Bereitstellungs-Services, um 16 aktive Sites effizient zu verwalten und zu aktualisieren, wobei Modularität, Wiederverwendbarkeit und schnelle Bereitstellung betont werden, sowie Zukunftspläne zur Verbesserung des Content-Managements mit Helix 5 und dem universellen Editor.
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
 role: Developer
@@ -9,41 +9,40 @@ doc-type: Event
 duration: 820
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16538
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 8f972775-9641-475d-83dc-f8d7e7e19a89
+source-git-commit: baacc97f717d27581d0ef28384e2f680dbef854e
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
 
 ---
 
+# Eine reale Journey für Edge Delivery Services
 
-# Journey an Edge Delivery Services in Echtzeit
-
-Nehmen Sie an Mark McConnell, Lead Software Developer bei Adobe Partner Ensemble teil, da er Beispiele für das Einbringen von Kunden in das Edge Delivery Services-Ökosystem vorstellt. Erfahren Sie, wie diese Innovation Adobe Experience Manager-Investitionen für den realen Erfolg ergänzt.
+Kommen Sie zu Mark McConnell, Lead Software Developer beim Adobe-Partnerensemble, und er erzählt von Beispielen, wie Kunden in das Edge Delivery Services-Ökosystem gebracht werden. Erfahren Sie, wie diese Innovation die Investitionen von Adobe Experience Manager für den Erfolg in der realen Welt ergänzt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439421/?learn=on&enablevpops)
 
 ## Community-Diskussion
 
-Fahren Sie mit der Unterhaltung in der Adobe Developers Live Community [diskussion](https://adobe.ly/4ffJtT8) fort.
+Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](https://adobe.ly/4ffJtT8) fort.
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
-* **Presenter and Background** Mark McConnell, ein Software-Entwickler mit Ensemble, hat ihre Arbeit mit der PGA Tour mit Adobe-Produkten besprochen.
-* **Project Overview** Ensemble arbeitet seit über drei Jahren mit der PGA Tour zusammen und entwickelt ihre primäre Website, mobile Apps und verschiedene Turnierwebsites.
-* **Verwendete Technologien** Der Schwerpunkt lag auf der Nutzung von Headless- und Edge-Bereitstellungsdiensten von Adobe Experience Manager (AEM), um die Anforderungen der PGA Tour zu erfüllen.
+* **Moderator und Hintergrund** Mark McConnell, ein Softwareentwickler von Ensemble, diskutierte ihre Arbeit mit der PGA Tour unter Verwendung von Adobe-Produkten.
+* **Projektübersicht** Ensemble arbeitet seit über drei Jahren mit der PGA Tour zusammen und entwickelt die primäre Website, mobile Apps und verschiedene turnierspezifische Websites.
+* **Verwendete Technologien** Der Schwerpunkt lag auf der Verwendung von Adobe Experience Manager (AEM) Headless- und Edge-Bereitstellungs-Services, um die Anforderungen der PGA Tour zu erfüllen.
 * **Edge Delivery Services**
-   * Dient zur Unterstützung von 16 aktiven Sites mit etwa 500 Seiten.
-   * Schnellere Einrichtung und häufige Aktualisierungen mit minimalen Entwicklungsressourcen ermöglicht.
-   * Hervorgehobene Modularität und Wiederverwendbarkeit von Codeblöcken über verschiedene Sites hinweg.
+   * Wird verwendet, um 16 aktive Sites mit etwa 500 Seiten zu unterstützen.
+   * Schnelleinrichtung und häufige Aktualisierungen mit minimalen Entwicklungsressourcen möglich.
+   * Hervorgehobene Modularität und Wiederverwendbarkeit von Code-Blöcken über verschiedene Sites hinweg.
 * **Entwicklungseffizienz**
-   * Sites können innerhalb weniger Stunden erstellt und für das Authoring vorbereitet werden und in nur einer Woche mit einer einzigen Entwicklungsressource für Teilzeitanwendungen leben.
-   * Modulare Designprinzipien und Wiederverwendbarkeit von Bausteinen helfen bei der effizienten Entwicklung und Implementierung.
+   * Sites können innerhalb weniger Stunden erstellt und für das Authoring bereit sein und in nur einer Woche mit nur einer einzigen Teilzeit-Entwicklungsressource leben.
+   * Modulare Gestaltungsprinzipien und Wiederverwendbarkeit von Bausteinen helfen bei der effizienten Entwicklung und Bereitstellung.
 * **Integration mit AEM Headless**
    * Wird für Seiten verwendet, die eine komplexere Datenmodellierung und -verteilung erfordern.
-   * Edge-Bereitstellungsdienste werden für statische Seiten verwendet, um den Entwicklungsaufwand zu reduzieren.
-* **Zukünftige Pläne**
-   * Aktualisieren von Sites auf neue AMP-Seiten und AMP-Live-Domänen
-   * Erkunden der Nutzung von Helix 5 und des universellen Editors für ein besseres Content Management.
-* **Erfolgsfaktoren** Collaboration zwischen Ensemble, PGA Tour, Adobe und der Synergie zwischen AEM Sites und Edge-Bereitstellungsdiensten trugen zu ihrem Erfolg bei.
-
+   * Edge-Bereitstellungs-Services werden für eher statische Seiten verwendet, um den Entwicklungsaufwand zu reduzieren.
+* **Zukunftspläne**
+   * Aktualisieren von Sites auf die neue AMP-Seite und AMP-Live-Domains
+   * Erkunden der Verwendung von Helix 5 und des universellen Editors für ein besseres Content-Management.
+* **Erfolgsfaktoren** Collaboration zwischen Ensemble, PGA Tour, Adobe und die Synergie zwischen AEM-Sites und Edge Delivery Services trugen zu ihrem Erfolg bei.

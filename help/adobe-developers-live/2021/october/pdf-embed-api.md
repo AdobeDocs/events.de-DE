@@ -1,6 +1,6 @@
 ---
-title: Wrangle PDF im Internet wie ein Profi
-description: Informieren Sie sich darüber, wie Sie die kostenlose Adobe PDF-Einbettungs-API verwenden können, um die Verwendung von PDF auf Ihrer Website zu erleichtern. Ich werde zeigen, wie man es verwendet, wie man die Benutzeroberfläche des PDF steuern kann und wie man auf Ereignisse wartet, damit man die Nutzung und andere Analysen für PDF verfolgen kann.
+title: PDF im Internet wie ein Profi bekämpfen
+description: Wenn Sie sich ansehen, wie Sie die kostenlose Adobe PDF Embed API verwenden können, wird es Ihnen leichter fallen, PDF auf Ihrer Website zu verwenden. Ich werde Ihnen demonstrieren, wie Sie sie verwenden, wie Sie die Benutzeroberfläche der PDF steuern können und wie Sie auf Ereignisse warten, damit Sie die Nutzung und andere Analysen für PDF verfolgen können.
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -17,15 +17,15 @@ ht-degree: 8%
 
 ---
 
-# Wrangle PDF im Internet wie ein Profi
+# PDF im Internet wie ein Profi bekämpfen
 
-Informieren Sie sich darüber, wie Sie die kostenlose Adobe PDF-Einbettungs-API verwenden können, um die Verwendung von PDF auf Ihrer Website zu erleichtern. Ich werde zeigen, wie man es verwendet, wie man die Benutzeroberfläche des PDF steuern kann und wie man auf Ereignisse wartet, damit man die Nutzung und andere Analysen für PDF verfolgen kann.
+Wenn Sie sich ansehen, wie Sie die kostenlose Adobe PDF Embed API verwenden können, wird es Ihnen leichter fallen, PDF auf Ihrer Website zu verwenden. Ich werde Ihnen demonstrieren, wie Sie sie verwenden, wie Sie die Benutzeroberfläche der PDF steuern können und wie Sie auf Ereignisse warten, damit Sie die Nutzung und andere Analysen für PDF verfolgen können.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337602/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

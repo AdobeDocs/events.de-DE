@@ -1,6 +1,6 @@
 ---
-title: Neuer code-basierter Erlebniskanal in Journey Optimizer
-description: Aktivieren Sie eingehende Oberflächen und die granulare Personalisierungssteuerung mit entwicklerorientierten Aktionen.
+title: Neuer Code-basierter Erlebniskanal in Journey Optimizer
+description: Aktivieren Sie eingehende Oberflächen und granulare Personalisierungssteuerung mit entwicklerorientierten Aktionen.
 kt: KT-14776
 solution: Journey Optimizer
 feature: Code-based Experiences
@@ -16,18 +16,18 @@ ht-degree: 0%
 
 ---
 
-# Neuer code-basierter Erlebniskanal in Journey Optimizer
+# Neuer Code-basierter Erlebniskanal in Journey Optimizer
 
-Aktivieren Sie eingehende Oberflächen und die granulare Personalisierungssteuerung mit entwicklerorientierten Aktionen.
+Aktivieren Sie eingehende Oberflächen und granulare Personalisierungssteuerung mit entwicklerorientierten Aktionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428095/?quality=12&learn=on)
 
-**Details**: Codebasierter Erlebniskanal in Adobe Journey Optimizer eröffnet enorme Möglichkeiten und neue Anwendungsfälle für Marken, die ihre Personalisierungs- und Experimentierprogramme ausbauen. Mit diesem neuen Kanal können Teams die Personalisierungssteuerung mithilfe von HTML- oder JSON-code-basierten Aktionen verbessern und dabei die granularen Aspekte nativer Anwendungen ändern. Codebasierter Experience Channel erweitert Flexibilität und Leistung bei Client-seitigen, Server-seitigen, hybriden und API-basierten Implementierungen.
+**Details**: Der Code-basierte Erlebniskanal in Adobe Journey Optimizer erschließt enorme Chancen und neue Anwendungsfälle für Marken, die ihre Personalisierungs- und Experimentierprogramme ausbauen. Dieser neue Kanal ermöglicht es Teams, die Personalisierungssteuerung mithilfe von HTML- oder JSON-Code-basierten Aktionen zu verbessern und granulare Aspekte nativer Programme zu ändern. Der Code-basierte Experience Channel erweitert die Flexibilität und Leistung für Client-, Server-, Hybrid- und API-basierte Implementierungen.
 
-In dieser Experience League Live-Folge diskutieren wir gemeinsam mit den Produktexperten Robert Calangiu und Brent Kostak neue Funktionen und Anwendungsfälle für Code-basierten Experience Channel. Erfahren Sie, wie Entwickler, Produktmanager und Marketingexperten statische und dynamische Inhalte erstellen und über Web-, mobile, TV-vernetzte Geräte, Kiosks, ATMs und mehr bereitstellen können!
+In dieser Experience League Live-Episode diskutieren wir gemeinsam mit den Produktexperten Robert Calangiu und Brent Kostak neue Funktionen und Anwendungsfälle für den Code-basierten Experience Channel. Erfahren Sie, wie Entwickler, Produkt-Manager und Marketing-Fachleute statische und dynamische Inhalte für Web-, Mobil-, TV-Geräte, Kiosks, Geldautomaten und mehr erstellen und bereitstellen können!
 
->[!BEGINSHADEBOX &quot;Haben Sie Fragen?&quot;]
+>[!BEGINSHADEBOX „Haben Sie Fragen?“]
 
-**Fahren Sie die Diskussion zu diesem Thema im Adobe Experience League-Beitrag [Community Post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"} fort.**
+**Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League fort [Community-Post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
 
 >[!ENDSHADEBOX]

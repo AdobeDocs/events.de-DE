@@ -1,6 +1,6 @@
 ---
-title: Morgen navigieren - Commerce-Roadmap, Einblicke und Innovationen
-description: Eine Zusammenfassung der Adobe Commerce-Tagungen auf dem Gipfeltreffen 2024, einige der neuen Neuerungen, die auf dem kurzfristigen Fahrplan auf die Adobe Commerce-Plattform kommen.
+title: Navigieren in der Zukunft - Commerce-Roadmap, Einblicke und Innovationen
+description: Eine Zusammenfassung der Adobe Commerce-Sessions beim Summit 2024, einige der neuen Innovationen, die auf der Adobe Commerce-Plattform in Kürze verfügbar sein werden.
 topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ---
 
-# Morgen navigieren: Commerce-Roadmap, Einblicke und Innovationen
+# Navigieren in der Zukunft: Commerce-Roadmap, Einblicke und Innovationen
 
-Eine Zusammenfassung der Adobe Commerce-Tagungen auf dem Gipfeltreffen 2024, einige der neuen Neuerungen, die auf dem kurzfristigen Fahrplan auf die Adobe Commerce-Plattform kommen.
+Eine Zusammenfassung der Adobe Commerce-Sessions beim Summit 2024, einige der neuen Innovationen, die auf der Adobe Commerce-Plattform in Kürze verfügbar sein werden.
 
-+ Vorgestellt von Scott Rigby, Adobe Commerce Product Manager JAPAC
++ Präsentiert von Scott Rigby, Adobe Commerce Product Manager JAPAC
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429264/?learn=on)
 

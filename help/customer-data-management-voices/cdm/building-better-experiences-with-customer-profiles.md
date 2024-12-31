@@ -1,6 +1,6 @@
 ---
-title: Erstellen besserer Erlebnisse mit Kundenprofilen
-description: Um ein hervorragendes Kundenerlebnis zu bieten, müssen wir alles, was wir über einen Kunden wissen, in einem Echtzeit-Kundenprofil zusammenführen.
+title: Erstellen besserer Erlebnisse für Kundenprofile
+description: Für ein hervorragendes Kundenerlebnis müssen alle unsere Kenntnisse über einen Kunden in einem Echtzeit-Kundenprofil zusammengeführt werden.
 solution: Real-Time Customer Data Platform
 feature: Profiles
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen besserer Erlebnisse mit Kundenprofilen
+# Erstellen besserer Erlebnisse für Kundenprofile
 
-Um ein hervorragendes Kundenerlebnis zu bieten, müssen wir über unsere Kunden Bescheid wissen. Wenn wir alles, was wir über einen Kunden wissen, in einem Echtzeit-Kundenprofil zusammenführen, können wir ihm ein Erlebnis bieten, das ihn für weitere Informationen zurück hält.
+Für ein ausgezeichnetes Kundenerlebnis müssen wir über unsere Kunden Bescheid wissen. Wenn wir alles, was wir über einen Kunden wissen, mit einem Echtzeit-Kundenprofil zusammenführen, können wir ihm ein Erlebnis bieten, das ihn immer wieder für weitere Informationen zurückkommen lässt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336939/?quality=12&learn=on)

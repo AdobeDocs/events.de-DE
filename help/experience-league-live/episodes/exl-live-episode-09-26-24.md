@@ -1,6 +1,6 @@
 ---
-title: AI-Bash - Entsperren der Leistung des AI-Assistenten in Adobe Experience Platform-Anwendungen und Campaign
-description: KI-gestützte Tools verändern die Art und Weise, wie wir Kunden ansprechen, und optimieren Workflows. Nehmen Sie an unserem Experience League Live-Webinar mit KI-Themen teil, um mit dem Innovationstempo Schritt zu halten und zu erfahren, wie Adobe-Funktionen Ihre Produktivität steigern. 
+title: KI-Bash - Erschließen der Leistungsfähigkeit des KI-Assistenten in Adobe Experience Platform-Programmen und -Campaign
+description: KI-gesteuerte Tools verändern die Art und Weise, wie wir Kunden ansprechen und Workflows optimieren. Nehmen Sie an unserem KI-Webinar zum Thema Experience League Live teil, um mit dem Innovationstempo Schritt zu halten und zu erfahren, wie die Funktionen von Adobe Ihre Produktivität steigern können. 
 kt: KT-15472
 solution: Journey Optimizer, Campaign
 feature: Email Design
@@ -16,21 +16,21 @@ ht-degree: 1%
 
 ---
 
-# AI-Bash - Entsperren der Leistung des AI-Assistenten in Adobe Experience Platform-Anwendungen und Campaign
+# KI-Bash - Erschließen der Leistungsfähigkeit des KI-Assistenten in Adobe Experience Platform-Programmen und -Campaign
 
-Erfahren Sie, wie der KI-Assistent Kundeninteraktionen transformiert und die Produktivität in Adobe Experience Cloud-Anwendungen und Adobe Campaign erhöht. 
+Erfahren Sie, wie der KI-Assistent Kundeninteraktionen transformiert und die Produktivität in Adobe Experience Cloud-Anwendungen und Adobe Campaign steigert. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434781/?learn=on)
 
 **Details anzeigen**:
 
-KI-gestützte Tools verändern die Art und Weise, wie wir Kunden ansprechen, und optimieren Workflows. Nehmen Sie an unserer Experience League-Live-Show mit KI-Themen teil, um mit der Innovationsgeschwindigkeit Schritt zu halten und zu erfahren, wie Adobe-Funktionen Ihre Produktivität steigern.
+KI-gesteuerte Tools verändern die Art und Weise, wie wir Kunden ansprechen und Workflows optimieren. Nehmen Sie an unserer KI-Experience League-Live-Show teil, um mit dem Innovationstempo Schritt zu halten und zu erfahren, wie Adobe-Funktionen Ihre Produktivität steigern.
 
-Fahren Sie während der Campaign- und Journey Optimizer-Kaffeepausen mit dem Gespräch fort:
+Fortsetzung der Unterhaltung während der Kampagnenpause und der Journey Optimizer-Kaffeepause:
 
-* [Adobe Campaign Community Q&amp;A Coffee Break, am 30. September 2024, Montag um 8 Uhr PT](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fexperienceleaguecommunities.adobe.com%2Ft5%2Fcampaign-classic-events%2Fcommunity-q-amp-a-coffee-break-september-30th-with-adobe%2Fev-p%2F703121&amp;data=05%7C02%7Chausmann%40adobe.com%7C7189a987b4f74e95126b08dcd70c74ee%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C638621695970863600%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=2HQwN%2BqCPtffUggjzyJWxZutYbYbOTQU4buQKHSux70%3D&amp;reserved=0)
-* [Adobe Journey Optimizer Community Q&amp;A-Kaffeepause am 1. Oktober 2024, Dienstag um 8 Uhr PT](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fexperienceleaguecommunities.adobe.com%2Ft5%2Fjourney-optimizer-events%2Fcommunity-q-amp-a-coffee-break-october-1st-with-adobe-journey%2Fev-p%2F703114&amp;data=05%7C02%7Chausmann%40adobe.com%7C9eaaed2924ce4bcfc40508dcd70cd9f9%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C638621697420749077%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=B5NeQ57TAnjf7MiSYQ%2B%2Bj0aP2dsidIsz5aAVjY9o9A0%3D&amp;reserved=0)
+* [Adobe Campaign Community Q&amp;A Coffee Break, am 30. September 2024, Montag um 18:00 Uhr MEZ](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fexperienceleaguecommunities.adobe.com%2Ft5%2Fcampaign-classic-events%2Fcommunity-q-amp-a-coffee-break-september-30th-with-adobe%2Fev-p%2F703121&amp;data=05%7C02%7Chausmann%40adobe.com%7C7189a987b4f74e95126b08dcd70c74ee%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C638621695970863600%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=2HQwN%2BqCPtffUggjzyJWxZutYbYbOTQU4buQKHSux70%3D&amp;reserved=0)
+* [Adobe Journey Optimizer Community Q&amp;A Coffee Break am 1. Oktober 2024, Dienstag um 18:00 Uhr MEZ](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fexperienceleaguecommunities.adobe.com%2Ft5%2Fjourney-optimizer-events%2Fcommunity-q-amp-a-coffee-break-october-1st-with-adobe-journey%2Fev-p%2F703114&amp;data=05%7C02%7Chausmann%40adobe.com%7C9eaaed2924ce4bcfc40508dcd70cd9f9%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C638621697420749077%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=B5NeQ57TAnjf7MiSYQ%2B%2Bj0aP2dsidIsz5aAVjY9o9A0%3D&amp;reserved=0)
 
 ## Zusätzliche Ressourcen
 
-[Sicherheitsfaktenblatt](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)
+[Sicherheitsdatenblatt](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)

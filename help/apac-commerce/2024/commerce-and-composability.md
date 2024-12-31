@@ -1,6 +1,6 @@
 ---
-title: Aktivieren diverser Geschäftsmodelle mit Commerce & Composability
-description: Im Mittelpunkt des Treffens standen die Ermöglichung vielfältiger Geschäftsmodelle in Adobe Commerce, die Hervorhebung von B2B-Commerce-Wachstumstrends, die Hervorhebung der Bedeutung von Integrationen für nahtlose Upgrades, die Präsentation personalisierter B2B- zu B2C-Interaktionen durch eine Demo, die Erörterung von Adobe Commerce-Funktionen wie Omnichannel-Unterstützung und API-Messintegration, die Hervorhebung der Vorteile von kombinierbaren Commerce-Services, die Einführung der App Builder für skalierbare Anpassungen und Abonnementverwaltung innerhalb der Plattform.
+title: Ermöglichen verschiedener Geschäftsmodelle mit Commerce und Kompatibilität
+description: Im Mittelpunkt des Treffens standen die Aktivierung verschiedener Geschäftsmodelle in Adobe Commerce, die Hervorhebung von Wachstumstrends im B2B-Commerce, die Betonung der Bedeutung der Vereinfachung von Integrationen für nahtlose Upgrades, die Präsentation personalisierter B2B- zu B2C-Interaktionen mithilfe einer Demo, die Erörterung von Adobe Commerce-Funktionen wie Omni-Channel-Support und API-Mesh-Integration, die Betonung der Vorteile zusammensetzbarer Commerce-Services, die Einführung des App Builder für skalierbare Anpassungen und die Abonnementverwaltung innerhalb der Plattform.
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -15,43 +15,43 @@ ht-degree: 0%
 
 ---
 
-# Aktivieren diverser Geschäftsmodelle mit Commerce &amp; Composability
+# Ermöglichen verschiedener Geschäftsmodelle mit Commerce und Kompatibilität
 
-In der Installationspakete der APAC Commerce Webinar Series begrüßen wir Sharon Selvaraj, Solution Architect Adobe Customer Solutions, um zu erfahren, wie Sie vielfältige Geschäftsmodelle mit Adobe Commerce und der Komponentenarchitektur ermöglichen können.
+In der Mai-Folge der Webinar-Reihe zu APAC Commerce begrüßen wir Sharon Selvaraj, Solution Architect Adobe Customer Solutions, und teilen mit Ihnen, wie Sie mit Adobe Commerce und der zusammensetzbaren Architektur verschiedene Geschäftsmodelle ermöglichen können.
 
-&quot;Business as usual&quot;ist keine Option mehr. Unternehmen, die effektiv auf diese neue Realität reagieren, profitieren davon. Es gibt einen Wandel hin zu einem stärker vernetzten und kundenorientierten Geschäftskonzept, bei dem Kundenerlebnisse, Zusammenarbeit und Partnerschaften eine zentrale Rolle bei der Bereitstellung von Mehrwert für die Endverbraucher spielen.
+„Business as usual“ ist keine Alternative mehr. Unternehmen, die wirksam auf diese neue Realität reagieren, profitieren davon. Es gibt eine Verlagerung hin zu einem stärker vernetzten und kundenorientierten Geschäftsansatz, bei dem Kundenerlebnisse, Zusammenarbeit und Partnerschaften eine zentrale Rolle bei der Bereitstellung von Mehrwert für Endverbraucher spielen.
 
-Unternehmen nutzen Adobe Commerce, um mehrere Geschäftsmodelle auf derselben Plattform bereitzustellen, um die Kaufpräferenzen der Kunden zu berücksichtigen. Der Aufbau einer skalierbaren Komponentenarchitektur, die von der Plattform angeboten wird, ermöglicht größere Flexibilität und Anpassungsfähigkeit an sich ändernde Marktbedingungen und Kundenbedürfnisse.
+Unternehmen nutzen Adobe Commerce, um mehrere Geschäftsmodelle auf derselben Plattform bereitzustellen, um die Kaufpräferenzen der Kunden zu berücksichtigen. Der Aufbau einer skalierbaren zusammensetzbaren Architektur, die von der Plattform angeboten wird, ermöglicht eine größere Flexibilität und Anpassungsfähigkeit an sich ändernde Marktbedingungen und Kundenanforderungen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429800/?learn=on)
 
-## Wichtige Schritte aus dem Meeting
+## Wichtige Erkenntnisse aus dem Meeting
 
-### Fokusbereiche
+### Schwerpunkte
 
-* Aktivieren diverser Geschäftsmodelle in Adobe Commerce mit einem Fokus auf B2B Commerce
-* Vereinfachung von Integrationen und Anpassungen für nahtlose zukünftige Versionsaktualisierungen
+* Unterstützung verschiedener Geschäftsmodelle in Adobe Commerce mit einem Schwerpunkt auf B2B-Commerce
+* Vereinfachung von Integrationen und Anpassungen für nahtlose Upgrades zukünftiger Versionen
 
 ### Statistiken und Trends
 
 * Der B2B-Handel verzeichnet eine jährliche Wachstumsrate von 11 %
-* Voraussichtlicher Anstieg der B2B-Verkaufsinteraktionen in digitalen Kanälen bis 2025
+* Erwarteter Anstieg der B2B-Verkaufsinteraktionen in digitalen Kanälen bis 2025
 
 ### Demo-Highlights
 
-* Abbildung verschiedener Personas, die in der Journey B2B zu B2C interagieren
-* Betonung auf personalisierten Erlebnissen und effizientem Auftragsmanagement
+* Abbildung verschiedener Rollen, die auf der B2B- zu B2C-Journey interagieren
+* Betonung von personalisierten Erlebnissen und effizientem Auftragsmanagement
 
 ### Adobe Commerce-Funktionen
 
-* Omnichannel-Unterstützung
+* Omni-Channel-Support
 * Personalisierte Erlebnisse
-* Integration mit Drittanbietersystemen über API-Maschen und App Builder
+* Integration mit Drittanbietersystemen über API Mesh und App Builder
 
-### Vorgestellte technische Aspekte
+### Technologische Aspekte
 
-* Bedeutung von zusammenstellbaren Commerce-Dienstleistungen
-* Verwendung von API-Gittern für die Orchestrierung
+* Bedeutung zusammenstellbarer Commerce-Services
+* Verwendung von API-Mesh für die Orchestrierung
 * Verwendung von Adobe-Ereignissen zur Anpassung und Plattformerweiterung
 
 ### Vorteile von App Builder

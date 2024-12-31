@@ -1,6 +1,6 @@
 ---
-title: Maximieren Sie das Potenzial Ihrer mobilen App mit Adobe Journey Optimizer
-description: Erfahren Sie mehr über die Vorteile von In-App-Nachrichten als Echtzeit-Interaktionskanal und die Konfiguration und Erstellung personalisierter Mobile-App-Erlebnisse in Adobe Journey Optimizer.
+title: Maximieren Sie das Potenzial Ihrer Mobile App mit Adobe Journey Optimizer
+description: Erfahren Sie mehr über die Vorteile von In-App-Nachrichten als Echtzeit-Interaktionskanal und die Konfiguration und Erstellung personalisierter Mobile App-Erlebnisse in Adobe Journey Optimizer.
 solution: Journey Optimizer
 feature: In App
 role: User
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Maximieren Sie das Potenzial Ihrer mobilen App mit Adobe Journey Optimizer
+# Maximieren Sie das Potenzial Ihrer Mobile App mit Adobe Journey Optimizer
 
-Erfahren Sie mehr über die Vorteile von In-App-Nachrichten als Echtzeit-Interaktionskanal und die Konfiguration und Erstellung personalisierter Mobile-App-Erlebnisse in Adobe Journey Optimizer.
+Erfahren Sie mehr über die Vorteile von In-App-Nachrichten als Echtzeit-Interaktionskanal und die Konfiguration und Erstellung personalisierter Mobile App-Erlebnisse in Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419194/?quality=12&learn=on)
 
-Haben Sie Fragen dazu? Fahren Sie mit der Diskussion über dieses Thema im Adobe Experience League- [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-maximize-your/td-p/599638) fort.
+Haben Sie Fragen dazu? Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community-Post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-maximize-your/td-p/599638) fort.

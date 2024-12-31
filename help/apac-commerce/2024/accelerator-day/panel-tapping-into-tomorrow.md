@@ -1,5 +1,5 @@
 ---
-title: Bis morgen - Zahlungstrends nach unten
+title: Neue Perspektiven - Zahlungstrends unten unter
 description: Die neuesten Innovationen der Commonwealth Bank für digitale Zahlungen, Betrug und KI.
 feature: Payments
 topic: Commerce
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 ---
 
-# Antizipation in die Zukunft: Zahlungstrends nach unten (Podiumsdiskussion)
+# Tapping into Tomorrow: Zahlungstrends unten unter (Podiumsdiskussion)
 
 Die neuesten Innovationen der Commonwealth Bank für digitale Zahlungen, Betrug und KI.
 
-Vorgestellt von:
+Präsentiert von:
 
-+ Kate Crous, geschäftsführender Geschäftsführer von Everyday Business Banking - CBA
++ Kate Crous, Executive General Manager Everyday Business Banking - CBA
 + David Watts, Executive General Manager Quants Data Analytics and Technology - CBA
-+ James Roberts, General Manager für Betrugsstrategie und Betrugsstrategie und Governance - CBA
++ James Roberts, General Manager Fraud and Scams Strategy and Governance - CBA
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429268/?learn=on)
 

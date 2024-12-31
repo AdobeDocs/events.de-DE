@@ -1,6 +1,6 @@
 ---
-title: Fragen Sie mich irgendwas
-description: Im Jahresende beantwortet Corey Gelato Fragen und präsentiert Adobe Commerce-Funktionen wie Live Search, Kategorieregeln, Kundensegmentierung und B2B-Anführungszeichen, um Unternehmen in Spitzenzeiten zu unterstützen.
+title: Frag mich was
+description: Commerce Im AMA zum Jahresende beantwortet Corey Gelato Fragen und präsentiert Adobe Commerce-Funktionen wie Live Search, Kategorieregeln, Kundensegmentierung und B2B-Angebote, um Unternehmen dabei zu helfen, sich in Spitzenzeiten zu behaupten.
 solution: Commerce
 feature-set: Commerce
 feature: Search, Categories, Price Rules, Customers, B2B
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Fragen Sie mich irgendwas
+# Frag mich was
 
-Auf der letzten Commerce &amp; Kaffee des Jahres Corey Gelato beantwortet Kundenfragen in dieser &quot;Fragen Sie mich alles&quot;-Sitzung. Er nimmt Fragen sowohl live als auch von der Registrierung, gibt seine strategische Beratung und demonstriert Funktionen in Adobe Commerce wie Live Search, Kategorie- und Preisregeln, Kundensegmentierung und dynamische Bausteine, hat vom Verkäufer Angebote für B2B initiiert und sogar einen Blick in das, was Coreys Lieblingseigenschaft von Adobe Commerce ist! Wir hoffen, dass diese Veranstaltung Unternehmen dabei hilft, während einer Spitzensaison zu jeder Jahreszeit Erfolg zu haben.
+Auf der letzten Commerce &amp; Coffee des Jahres beantwortet Corey Gelato Kundenfragen in dieser „Ask Me Anything“ Session. Er nimmt Fragen sowohl live als auch aus der Registrierung auf, gibt seine strategische Beratung und demonstriert Funktionen in Adobe Commerce wie Live Search, Kategorie- und Preisregeln, Kundensegmentierung und dynamische Blöcke, vom Verkäufer initiierte Angebote für B2B und sogar einen Blick in das, was Coreys Lieblingsfeature von Adobe Commerce ist! Wir hoffen, dass diese Sitzung Unternehmen in einer Hauptsaison zu jeder Jahreszeit zum Erfolg verhilft.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425651/?learn=on)

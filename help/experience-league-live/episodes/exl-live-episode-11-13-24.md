@@ -1,6 +1,6 @@
 ---
-title: Einführung des KI-Assistenten für Zielgruppen für Marketingexperten in Real-Time CDP
-description: Nehmen Sie an einer spannenden Live-Sitzung teil, in der Adobe Produkt- und Ingenieurexperten Ihnen einen spannenden Einblick in unsere neueste innovative Entwicklung geben - AI Assistant for Audiences, der in Kürze nach Adobe Real-Time CDP kommt, um Einblicke und Aktionen von Zielgruppen zu gewinnen.
+title: Einführung in den KI-Assistenten für Zielgruppen für Marketing-Experten in Real-Time CDP
+description: Nehmen Sie an einer spannenden Live-Session teil, bei der Adobe-Produkt- und Ingenieurexperten Ihnen einen spannenden Einblick in unsere neueste bahnbrechende Innovation geben - den KI-Assistenten für Zielgruppen, der bald in Adobe Real-Time CDP verfügbar ist, um Einblicke und Aktionen für Zielgruppen zu optimieren.
 kt: KT-16450
 solution: Experience Platform
 feature: AI Assistant
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Einführung des KI-Assistenten für Zielgruppen für Marketingexperten in Real-Time CDP
+# Einführung in den KI-Assistenten für Zielgruppen für Marketing-Experten in Real-Time CDP
 
-Nehmen Sie an einer spannenden Live-Sitzung teil, in der Adobe Produkt- und Ingenieurexperten Ihnen einen spannenden Einblick in unsere neueste bahnbrechende Innovation geben: AI Assistant for Audiences, der in Kürze nach Adobe Real-Time CDP kommt, um Einblicke und Aktionen von Zielgruppen zu gewinnen. Mithilfe natürlicher Sprache können Marketingexperten den KI-Assistenten für Zielgruppen als neue Ergänzung ihres Teams nutzen, um die Zielgruppengröße zu schätzen, Gründe für Fluktuationen zu verstehen und leistungsstarke, zielorientierte Zielgruppen zu definieren, mehr Anwendungsfälle zu erschließen und Zielgruppen zu erreichen, auf die es ankommt.
+Nehmen Sie an einer spannenden Live-Session teil, bei der Adobe-Produkt- und Ingenieurexperten Ihnen einen spannenden Einblick in unsere neueste bahnbrechende Innovation geben: KI-Assistent für Zielgruppen, der bald in Adobe Real-Time CDP verfügbar ist, um Einblicke und Aktionen für Zielgruppen zu optimieren. In natürlicher Sprache können Marketing-Fachleute den KI-Assistenten für Zielgruppen als neue Ergänzung zu ihrem Team nutzen, um die Zielgruppengröße zu schätzen, die Gründe für Schwankungen zu verstehen und leistungsstarke zielorientierte Zielgruppen zu definieren, wodurch mehr Anwendungsfälle erschlossen und Zielgruppen erreicht werden können, die von Bedeutung sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438012/?quality=12&learn=on)
 
-[**Fahren Sie die Diskussion auf der Experience League Community fort**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720)
+[**Die Diskussion über die Experience League-Community fortsetzen**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720)

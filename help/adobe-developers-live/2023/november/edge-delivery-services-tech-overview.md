@@ -1,6 +1,6 @@
 ---
 title: Edge-Bereitstellungsdienste
-description: Die vielleicht am meisten über Veränderungen in der AEM gesprochen, sehen Sie einen detaillierten technischen Überblick über die neuen Edge Delivery Services, die der AEM angehören.
+description: Die vielleicht am meisten über den Wandel in der AEM-Welt geredet, sehen Sie einen detaillierten technischen Überblick über die neuen Edge Delivery Services, die der AEM-Familie beitreten.
 feature-set: Experience Manager
 feature: Edge Delivery Services
 product: experience manager
@@ -21,8 +21,8 @@ ht-degree: 5%
 
 ---
 
-# Technische Übersicht über Edge Delivery Services
+# Technische Übersicht für Edge Delivery Services
 
-Die vielleicht am meisten über Veränderungen in der AEM gesprochen, sehen Sie einen detaillierten technischen Überblick über die neuen Edge Delivery Services, die der AEM angehören.
+Die vielleicht am meisten über den Wandel in der AEM-Welt geredet, sehen Sie einen detaillierten technischen Überblick über die neuen Edge Delivery Services, die der AEM-Familie beitreten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426339/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: AEM 6.0 Entwicklermodus
-description: Erfahren Sie mehr über den Entwicklermodus in AEM 6.0.
+title: AEM 6.0-Entwicklermodus
+description: Informationen zum Entwicklermodus in AEM 6.0.
 discoiquuid: cbfc5299-e915-4ac5-8ce6-57a289b973ec
 targetaudience: target-audience advanced
 exl-id: e9f24562-7b97-46ff-aab9-865823a19a5b
@@ -12,27 +12,27 @@ ht-degree: 0%
 
 ---
 
-# AEM 6.0 Entwicklermodus{#aem-developer-mode}
+# AEM 6.0-Entwicklermodus{#aem-developer-mode}
 
-David stellt Ihnen den Entwicklermodus in AEM 6.O vor. Der Entwicklermodus lautet:
+David Catalan führt Sie in AEM 6.O in den Entwicklermodus ein. Der Entwicklermodus ist:
 
 * Eine Verbindung zwischen Autoren und Entwickler (Komponentenstruktur)
-* Debugging-Helfer (Fehlerbenachrichtigung)
-* Testbegleitung (Tool zum Testen von Anwendungen) (Hobbes.js AEM Implementierung)
+* Ein Debugging-Helper (Fehlerbenachrichtigung)
+* Eine Testbegleitung (Tool zum Testen von Anwendungen) (Hobbes.js-AEM-Implementierung)
 
 >[!VIDEO](https://video.tv.adobe.com/v/19501/?quality=9)
 
-*Ausgestellt am 16. Juli 2014*
+*Veröffentlicht am 16.07.2014*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 David Catalan, QE Developer, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/aem-6-developer-mode-07-16-14.pdf)
 
-**Sitzungsfragen und -antworten**
+**Fragen und Antworten zur Sitzung**
 
 [Datei abrufen](assets/q-a-developer-mode-7-16-14.pdf)
 <!--

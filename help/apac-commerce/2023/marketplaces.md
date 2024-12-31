@@ -1,6 +1,6 @@
 ---
-title: Dürfen Sie wachsen? Mirakl Marketplace als Wachstumsmotor
-description: In dieser Sitzung erfahren Sie, wie Sie Marktplätze nutzen können, um inkrementelle Umsätze zu steigern und gleichzeitig ein außergewöhnliches Kundenerlebnis zu bieten. Außerdem lernen Sie, wie Sie sich an einen immer anspruchsvolleren Verbrauchermarkt anpassen können. Die Rolle von KI bei der Personalisierung und den laufenden Vorgängen. Immer mehr Unternehmen sehen Marktplätze als strategischen Eckpfeiler ihres Unternehmens.
+title: Zu wachsen wagen? Kleinere Marktplätze als Wachstumsmotor
+description: In dieser Sitzung erfahren Sie, wie Sie Marktplätze nutzen können, um inkrementelle Umsätze zu erzielen und gleichzeitig ein außergewöhnliches Kundenerlebnis zu bieten, und wie wichtig die Anpassung an einen zunehmend anspruchsvollen Verbrauchermarkt ist. Die Rolle von KI bei der Personalisierung sowie im täglichen Betrieb. Immer mehr Unternehmen sehen Marktplätze als strategischen Eckpfeiler ihrer Geschäftstätigkeit an.
 solution: Commerce
 feature-set: Commerce
 feature: Best Practices, Merchandising, Personalization, Customers
@@ -20,18 +20,18 @@ ht-degree: 0%
 
 ---
 
-# Dürfen Sie wachsen? Mirakl Marketplace als Wachstumsmotor
+# Zu wachsen wagen? Kleinere Marktplätze als Wachstumsmotor
 
-Wir freuen uns, in der Septemberausgabe der APAC Commerce Webinar Series Gastredner, Cheryl Jones und Joael Pereira, begrüßen zu dürfen, die sich uns von Mirakl, einem der Adobe Premier Technology Partner, anschließen. In dieser Sitzung erfahren Sie, wie Sie Marktplätze nutzen können, um inkrementelle Umsätze zu steigern und gleichzeitig ein außergewöhnliches Kundenerlebnis zu bieten. Außerdem lernen Sie, wie Sie sich an einen immer anspruchsvolleren Verbrauchermarkt anpassen können. Sie werden die Einfachheit und Einfachheit der Integration von Marktplätzen in Ihren Adobe Commerce-Shop mit einer Demo genießen und die Möglichkeit haben, unsere Redner live zu fragen.
+Commerce Im September freuen wir uns, die Gastredner Cheryl Jones und Joael Pereira von Mirakl, einem der führenden Technologiepartner der Adobe, bei uns begrüßen zu dürfen. In dieser Sitzung erfahren Sie, wie Sie Marktplätze nutzen können, um inkrementelle Umsätze zu erzielen und gleichzeitig ein außergewöhnliches Kundenerlebnis zu bieten, und wie wichtig die Anpassung an einen zunehmend anspruchsvollen Verbrauchermarkt ist. Sie erfahren anhand einer Demo, wie einfach und einfach die Integration von Marketplaces in Ihren Adobe Commerce-Store ist, und haben die Möglichkeit, unseren Rednern live Fragen zu stellen.
 
-Entdecken Sie:
+Seien Sie dabei:
 
-* Was treibt den Aufstieg von Marktplätzen voran
-* Wie Marktplätze Kundenerwartungen gerecht werden
-* Vorteile und potenzielle Kapitalrendite
-* Beispiele von Einzelhändlern, die mit Marktplätzen erfolgreich waren
-* Die Rolle von KI bei der Personalisierung sowie bei laufenden Vorgängen
+* Was treibt den Aufstieg der Marktplätze voran?
+* Wie Marktplätze die Kundenerwartungen erfüllen
+* Vorteile und potenzielle Investitionsrendite
+* Beispiele für Einzelhändler, die mit Marktplätzen erfolgreich waren
+* Die Rolle von KI bei der Personalisierung sowie im täglichen Betrieb
 
-Immer mehr Unternehmen sehen Marktplätze als einen strategischen Eckpfeiler ihres Geschäfts, und diejenigen, die investieren, profitieren davon. Das Wachstum des Marketplace &amp; Drop-Schiffes war 2022 um das Sechstfache höher als der E-Commerce allein, sodass es klar ist, dass es in diesem Raum eine Chance für diejenigen gibt, die es wagen zu wachsen.
+Immer mehr Unternehmen betrachten Märkte als strategischen Eckpfeiler ihres Geschäfts, und diejenigen, die investieren, ernten den Gewinn. Das Wachstum von Marketplace &amp; Drop Ship war im Jahr 2022 6-mal höher als das von E-Commerce allein. Es ist also klar, dass es in diesem Bereich eine Chance für diejenigen gibt, die sich zu entwickeln wagen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425190/?learn=on)

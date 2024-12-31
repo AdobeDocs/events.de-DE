@@ -1,6 +1,6 @@
 ---
 title: Analytics im Büro oder unterwegs
-description: Mit so vielen Anforderungen an Ihre Zeit und Aufmerksamkeit müssen Sie in der Lage sein, geschäftliche Einblicke in jeder Umgebung zu erstellen und zu erhalten - egal ob Sie hinter einem Schreibtisch oder draußen sind und so weiter.
+description: Mit so vielen Anforderungen an Ihre Zeit und Aufmerksamkeit müssen Sie in der Lage sein, geschäftliche Einblicke in jeder Umgebung zu erstellen und darauf zuzugreifen - egal, ob Sie sich hinter einem Schreibtisch oder unterwegs befinden.
 solution: Analytics
 feature: Analytics Dashboards
 kt: 11360
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Analytics im Büro oder unterwegs
 
-**Unberührbare Einblicke jederzeit und überall mit Adobe[!DNL Analytics]**
+**Reibungslose Einblicke jederzeit und überall mit Adobe[!DNL Analytics]**
 
-Mit so vielen Anforderungen an Ihre Zeit und Aufmerksamkeit müssen Sie in der Lage sein, geschäftliche Einblicke in jeder Umgebung zu erstellen und zu erhalten - egal ob Sie hinter einem Schreibtisch oder draußen sind und so weiter.
+Mit so vielen Anforderungen an Ihre Zeit und Aufmerksamkeit müssen Sie in der Lage sein, geschäftliche Einblicke in jeder Umgebung zu erstellen und darauf zuzugreifen - egal, ob Sie sich hinter einem Schreibtisch oder unterwegs befinden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410834/?quality=12&learn=on)
 
-Sehen Sie sich das Video oben an, um sich dieses Live-Stream-Ereignis anzusehen, bei dem Adobe [!DNL Analytics]-Experten Tipps zum Anpassen und Aufrufen von Einblicken in Analysis Workspace und der [!DNL Analytics] Dashboards-App gegeben haben.
+Sehen Sie sich das obige Video an, um sich dieses Live-Stream-Ereignis anzusehen. Dort gaben Adobe-[!DNL Analytics]-Experten einige großartige Tipps zum Anpassen und Zugreifen auf Einblicke in Analysis Workspace und die [!DNL Analytics] Dashboards-App.
 
-Haben Sie Fragen dazu? Fahren Sie mit der Diskussion über dieses Thema im Adobe Experience League [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037) fort.
+Haben Sie Fragen dazu? Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037) fort.
 

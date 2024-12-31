@@ -1,6 +1,6 @@
 ---
 title: Tracking von Qualitätsmetriken Ihres JavaScript-Projekts
-description: Methode zur Integration der Sonarqube-Analyse in JavaScript-Projekte und damit Zugriff auf ・ Grundlegende statische Code-Analyse ・ Unit-Testabdeckung ・ Integration-Testabdeckung (AEM)
+description: 'Methodik zur Integration der sonarqube-Analyse in JavaScript-Projekte und damit Zugriff auf: ・ Grundlegende statische Code-Analyse ・ Abdeckung von Unit-Tests ・ Abdeckung von Integrationstests (AEM)'
 discoiquuid: 6511d4b9-302a-453a-a6b0-8eea40769b20
 targetaudience: target-audience advanced
 exl-id: 0fa00df5-af2c-4e08-9160-dee6ecc33c2b
@@ -14,21 +14,21 @@ ht-degree: 2%
 
 # Tracking von Qualitätsmetriken Ihres JavaScript-Projekts{#track-quality-metrics-of-your-javascript-project}
 
-Methode zur Integration der Sonarqube-Analyse in JavaScript-Projekte und somit Zugriff auf:
+Methode zur Integration der sonarqube-Analyse in JavaScript-Projekte und somit Zugriff auf:
 
-* Grundlegende statische Codeanalyse
-* Unit-Tests-Abdeckung
-* Abdeckung durch Integrationstests (AEM)
+* Grundlegende statische Code-Analyse
+* Abdeckung von Unit-Tests
+* Abdeckung von Integrationstests (AEM)
 
 >[!VIDEO](https://video.tv.adobe.com/v/19372/?quality=9)
 
-*Zugestellt am 9. Dezember 2015*
+*Veröffentlicht am 09.12.2015*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 * David Catalan, Lead QE Developer, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/aem-gems-js-quality-metrics-12-9-15.pdf)
 

@@ -1,6 +1,6 @@
 ---
-title: Skaliertes Bereitstellen von Commerce-Erlebnissen
-description: Erfahren Sie, wie Sie Adobe Experience Manager und Adobe Commerce mithilfe der Commerce integration framework einrichten und konfigurieren, um leistungsstarke Erlebnisse unter Last bereitzustellen.
+title: Bereitstellung von Commerce-Erlebnissen in großem Maßstab
+description: Erfahren Sie, wie Sie Adobe Experience Manager und Adobe Commerce mithilfe der Commerce integration framework einrichten und konfigurieren, um hochleistungsfähige Erlebnisse unter Last bereitzustellen.
 solution: Commerce, Experience Manager
 feature: Developer Tools
 topic: Integrations
@@ -18,14 +18,14 @@ ht-degree: 17%
 
 ---
 
-# Skaliertes Bereitstellen von Commerce-Erlebnissen
+# Bereitstellung von Commerce-Erlebnissen in großem Maßstab
 
-Erfahren Sie, wie Sie Adobe Experience Manager und Adobe Commerce mithilfe der Commerce integration framework einrichten und konfigurieren, um leistungsstarke Erlebnisse unter Last bereitzustellen.
+Erfahren Sie, wie Sie Adobe Experience Manager und Adobe Commerce mithilfe der Commerce integration framework einrichten und konfigurieren, um hochleistungsfähige Erlebnisse unter Last bereitzustellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337582/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

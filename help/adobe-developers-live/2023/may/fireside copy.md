@@ -1,6 +1,6 @@
 ---
-title: Fireside Chat mit AEM Produktleiter
-description: Fireside Chat mit Adobe Experience Manager-ProduktführernSie haben den Tag damit verbracht, zu hören und zu sehen, was für Sie gebaut wurde, um brillante Erlebnisse für Ihre Kunden zu schaffen. Stellen Sie jetzt Ihre Fragen an unsere Produktführer, Cedric Huesler, Director of Product Management und Michael Marth, Sr. Director of Engineering. Gehostet von Ron Nagy.
+title: Fireside Chat mit AEM Product Leaders
+description: 'Chatten Sie mit Adobe Experience Manager Product Leaders am KaminSie haben den ganzen Tag damit verbracht zu hören und zu sehen, was Sie aufbauen, um Ihren Kunden brillante Erlebnisse zu bieten. Stellen Sie nun Ihre Fragen an unsere Produktführer Cedric Huesler, Director of Product Management und Michael Marth, Sr. Director of Engineering. Gastgeber: Ron Nagy.'
 product: experience manager
 sub-product: sites
 topic: Development
@@ -19,10 +19,10 @@ ht-degree: 0%
 ---
 
 
-# Fireside Chat mit AEM Produktleiter
+# Fireside Chat mit AEM Product Leaders
 
-Fireside Chat mit Adobe Experience Manager-Produktführern
+Fireside Chat mit Adobe Experience Manager Product Leaders
 
-Sie haben den Tag damit verbracht, zu hören und zu sehen, was für Sie aufbaut, um brillante Erlebnisse für Ihre Kunden zu schaffen. Stellen Sie jetzt Ihre Fragen an unsere Produktführer, Cedric Huesler, Director of Product Management und Michael Marth, Sr. Director of Engineering. Gehostet von Ron Nagy.
+Sie haben den ganzen Tag damit verbracht, zu hören und zu sehen, was für Sie erstellt wird, um brillante Erlebnisse für Ihre Kunden zu schaffen. Stellen Sie nun Ihre Fragen an unsere Produktführer Cedric Huesler, Director of Product Management und Michael Marth, Sr. Director of Engineering. Gastgeber: Ron Nagy.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419941/?learn=on)

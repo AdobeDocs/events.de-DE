@@ -1,6 +1,6 @@
 ---
-title: Erläuterung komplexer Prozesse im Aktivitätsprotokoll
-description: Treten Sie Beth Massura, Jimmy Spencer und Moderatorin von Corey Bayless in dieser "Deep Dive"-Sitzung ein, um innovative Fehlerbehebungsverfahren für komplexe Multi-Bein-Prozesse in Marketo zu entdecken, indem Sie mithilfe von Aktivitätsprotokollnotizen nachverfolgen, wo Prozesse beginnen, enden, scheitern und erfolgreich sind.
+title: Kennzeichnen komplexer Prozesse im Aktivitätsprotokoll
+description: Begleiten Sie Beth Massura, Jimmy Spencer und den Moderator Corey Bayless in dieser Deep Dive Session, um innovative Fehlerbehebungstechniken für komplexe mehrteilige Prozesse in Marketo zu entdecken und mithilfe von Aktivitätsprotokollnotizen zu verfolgen, wo Prozesse beginnen, enden, scheitern und erfolgreich sind.
 solution: Marketo Engage
 feature: Audit Trail
 role: Admin, Developer, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Erläuterung komplexer Prozesse im Aktivitätsprotokoll
+# Kennzeichnen komplexer Prozesse im Aktivitätsprotokoll
 
-Hast du schon einmal gefühlt, dass es so ist, wenn du herausfindest, warum dein Prozess gescheitert ist, nach einer Nadel in einem Heuhaufen zu suchen? Wir können miteinander in Verbindung treten! Viele MOPP-Profis wünschen effiziente Möglichkeiten, komplexe Prozesse zu beheben, und wir sind dafür da! Nehmen Sie an dieser Deep Dive-Sitzung teil, um zu erfahren, wie Marketo Champs mit vordefiniertem Denken eine Spur von Breadcrumbs für komplexe mehrteilige Prozesse erstellt haben. Erfahren Sie, wo Prozesse für Ihre Datensätze beginnen, enden, fehlschlagen und erfolgreich sind, indem Sie die von Ihnen erstellten Aktivitätsprotokollnotizen verwenden. Gastgeber von Beth Massura &amp; Jimmy Spencer, Moderiert von Corey Bayless.
+Haben Sie jemals das Gefühl gehabt, dass die Suche nach einer Nadel im Heuhaufen gleicht, wenn Sie herausfinden, warum Ihr Prozess fehlgeschlagen ist? Wir können einen Bezug herstellen! Geschäftsreisende MOPPs wollen effiziente Wege, komplexe Prozesse zu beheben, und wir sind dafür da! In dieser tiefen Einblicke erfahren Sie, wie Marketo Champs vorkonfiguriertes Denken verwendet haben, um eine Spur von Breadcrumbs für komplexe mehrteilige Prozesse zu erstellen. Erfahren Sie anhand der von Ihnen erstellten Aktivitätsprotokollnotizen, wo Prozesse für Ihre Datensätze beginnen, enden, fehlschlagen und erfolgreich sein können. Moderiert von Beth Massura &amp; Jimmy Spencer, moderiert von Corey Bayless.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427149/?learn=on)

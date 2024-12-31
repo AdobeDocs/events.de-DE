@@ -1,6 +1,6 @@
 ---
-title: AEM mit Adobe App Builder erweitern
-description: Die Entwicklung von Microservices, die Integration von Backend-Systemen und die Automatisierung von Workflows waren noch nie so einfach.
+title: Erweitern von AEM mit Adobe App Builder
+description: Die Entwicklung von Microservices, die Integration von Backend-Systemen und die Automatisierung von Workflows war noch nie so einfach.
 solution: Experience Manager
 feature: App Builder
 kt: 9501
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ---
 
-# AEM mit Adobe App Builder erweitern
+# Erweitern von AEM mit Adobe App Builder
 
-Die Entwicklung von Microservices, die Integration von Backend-Systemen und die Automatisierung von Workflows waren noch nie so einfach.
+Die Entwicklung von Microservices, die Integration von Backend-Systemen und die Automatisierung von Workflows war noch nie so einfach.
 
-Treten Sie Host Mark Szulc und Gäste Sarah Xu &amp; Zoran Nikolovski bei, da sie reale Beispiele für die Verwendung der neuen Adobe App Builder (ehemals Project Firefly) zur Erweiterung und Integration von Adobe Experience Manager diskutieren.  Von der Erweiterung bestehender Funktionen in wenigen Minuten bis hin zum Aufbau neuer Funktionen werden Sie sehen, was für Anregungen nötig ist und mit dem Erstellen beginnen.
+Seien Sie dabei, wenn Gastgeber Mark Szulc und die Gäste Sarah Xu &amp; Zoran Nikolovski über reale Beispiele diskutieren, wie die neue Adobe App Builder (früher Project Firefly) zur Erweiterung und Integration von Adobe Experience Manager verwendet werden kann.  Von der Erweiterung vorhandener Funktionen in wenigen Minuten bis hin zur Erstellung neuer Funktionen werden Sie sehen, was inspiriert werden muss, und mit der Erstellung beginnen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339319/?quality=12&learn=on)
 

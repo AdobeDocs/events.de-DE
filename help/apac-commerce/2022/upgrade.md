@@ -1,6 +1,6 @@
 ---
-title: Vorteile der Aktualisierung auf Adobe Commerce 2.4.4
-description: Upgrade auf Adobe Commerce 2.4.4 Die neueste Version von Adobe Commerce stellt einen Schritt nach vorn hinsichtlich Commerce-Funktionen, Sicherheit und Leistung dar. Nehmen Sie an diesem Webinar teil, um zu erfahren, wie Sie ein reibungsloses Upgrade planen und durchführen können, um die neuesten Verbesserungen nutzen zu können.
+title: Vorteile eines Upgrades auf Adobe Commerce 2.4.4
+description: Die Aktualisierung auf Adobe Commerce 2.4.4Die neueste Version von Adobe Commerce stellt einen Fortschritt bei den Commerce-Funktionen, der Sicherheit und der Leistung dar. Nehmen Sie an diesem Webinar teil, um zu erfahren, wie Sie ein reibungsloses Upgrade planen und durchführen können, um von den neuesten Verbesserungen zu profitieren.
 feature-set: Commerce
 feature: Upgrade
 solution: Commerce
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Vorteile der Aktualisierung auf Adobe Commerce 2.4.4
+# Vorteile eines Upgrades auf Adobe Commerce 2.4.4
 
-Die neueste Version von Adobe Commerce ist ein Schritt vorwärts in den Bereichen Commerce-Funktionen, Sicherheit und Leistung. Nehmen Sie an diesem Webinar teil, um zu erfahren, wie Sie ein reibungsloses Upgrade planen und durchführen können, um die neuesten Verbesserungen nutzen zu können.
+Die neueste Version von Adobe Commerce markiert einen Schritt vorwärts in den Bereichen Commerce, Sicherheit und Leistung. Nehmen Sie an diesem Webinar teil, um zu erfahren, wie Sie ein reibungsloses Upgrade planen und durchführen können, um von den neuesten Verbesserungen zu profitieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344453/?quality=12&learn=on)

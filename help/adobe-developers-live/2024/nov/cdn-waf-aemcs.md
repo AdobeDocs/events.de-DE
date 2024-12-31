@@ -1,6 +1,6 @@
 ---
 title: CDN- und WAF-Konfiguration in Adobe Experience Manager as a Cloud Service
-description: Verbessern Sie die Leistung und Sicherheit von Adobe Experience Manager as a Cloud Service-Anwendungen mit anpassbaren CDN-Regeln, WAF-Schutz und der Config Pipeline, wie von Adobe-Experten gemeinsam genutzt.
+description: Verbessern Sie die Leistung und Sicherheit von Adobe Experience Manager as a Cloud Service-Anwendungen mit anpassbaren CDN-Regeln, WAF-Schutz und der Konfigurations-Pipeline, wie sie von Adobe-Experten geteilt werden.
 feature: Security
 topic: Performance, Security
 role: Developer
@@ -19,21 +19,21 @@ ht-degree: 0%
 
 # CDN- und WAF-Konfiguration in Adobe Experience Manager as a Cloud Service
 
-Das gesamte Potenzial von Adobe verwaltetem CDN mit anpassbaren CDN-Regeln, WAF-Schutz und der Config Pipeline wird freigeschaltet. Marius Petria, Sr. Computer Scientist bei Adobe, Quentin Vecchio, Software Development Engineer bei Adobe, und Florian Froese, Software Development Engineer bei Adobe, teilen Strategien zur Verbesserung der Leistung und Sicherheit von Adobe Experience Manager as a Cloud Service-Anwendungen.
+Erschließen Sie das volle Potenzial von Adobe-verwaltetem CDN mit anpassbaren CDN-Regeln, WAF-Schutz und der Konfigurations-Pipeline. Marius Petria, Sr. Computer Scientist bei Adobe, Quentin Vecchio, Software Development Engineer bei Adobe, und Florian Froese, Software Development Engineer bei Adobe, teilen Strategien zur Verbesserung der Performance und Sicherheit von Adobe Experience Manager as a Cloud Service-Anwendungen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440401/?learn=on&enablevpops)
 
 ## Community-Diskussion
 
-Fahren Sie mit der Unterhaltung in der Adobe Developers Live Community [diskussion](https://adobe.ly/3O0TyYa) fort.
+Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](https://adobe.ly/3O0TyYa) fort.
 
 ## Wichtigste Punkte
 
-* **Einführung neuer Konfigurationsfunktionen** Mit der Präsentation werden neue Konfigurationsfunktionen für das CDN in einem Cloud-Service eingeführt, wobei der Schwerpunkt auf der Möglichkeit liegt, das CDN für verschiedene Anwendungsfälle zu konfigurieren.
-* **CDN-Konfigurationsoptionen** Die neuen Optionen ermöglichen die Interaktion mit HTTP-Anforderungen und -Antworten, z. B. Hinzufügen/Entfernen von Kopfzeilen, Umschreiben von Anfragepfaden, Blockieren von Traffic, Umleiten von Clients und Proxing zu unterschiedlichen Quellen.
-* **Verbesserungen der Sicherheit** Zu den neuen Funktionen gehören Traffic-Filterregeln zum Blockieren oder Protokollieren von Traffic auf der Grundlage von Anforderungsmustern sowie die Einführung von M WAF für erweiterten Schutz vor Web-Angriffen wie SQL-Injection und XSS.
-* **Deklarative Konfiguration** Die Konfiguration erfolgt mithilfe von YAML-Dateien und wird über eine Konfigurations-Pipeline in Cloud Manager bereitgestellt, wodurch sie schnell und unkompliziert ausgeführt wird.
-* **Anforderungs- und Antwortumwandlungen** Die neuen Funktionen ermöglichen Anforderungsumwandlungen zum Normalisieren von URLs und zum Entfernen unnötiger Abfrageparameter und Antworttransformationen, um Kopfzeilen festzulegen, bevor Antworten an Clients gesendet werden.
-* **Traffic-Filter und Ratenbegrenzung** Traffic-Filter können bestimmte IPs oder Länder blockieren und Ratenbegrenzungen implementieren, um den Schutz vor DDoS-Angriffen zu gewährleisten. Die Ratenbegrenzung kann anhand verschiedener Kriterien wie Client-IP, Benutzeragent und Anfragepfad konfiguriert werden.
-* **Monitoring- und Analyse-Tools** Adobe bietet Tools wie Elasticsearch/Kibana- und Splunk-Dashboards, um Traffic und Nutzung zu analysieren und so potenzielle Sicherheitsbedrohungen zu identifizieren und zu minimieren.
-* **Praktische Demo** Die Präsentation enthält eine Demo, in der gezeigt wird, wie CDN-Konfigurationen mit Cloud Manager bereitgestellt werden und wie Fehler behandelt und Konfigurationen lokal mithilfe von AEM validiert werden.
+* **Einführung neuer Konfigurationsfunktionen** Die Präsentation führt neue Konfigurationsfunktionen für das CDN in einem Cloud-Service ein, wobei der Schwerpunkt auf der Möglichkeit liegt, das CDN für verschiedene Anwendungsfälle zu konfigurieren.
+* **CDN-Konfigurationsoptionen** Die neuen Optionen ermöglichen die Interaktion mit HTTP-Anfragen und -Antworten, z. B. das Hinzufügen/Entfernen von Kopfzeilen, das Umschreiben von Anfragepfaden, das Blockieren von Traffic, das Weiterleiten von Clients und den Proxy-Vorgang an verschiedene Ursprünge.
+* **Sicherheitsverbesserungen** Die neuen Funktionen umfassen Traffic-Filterregeln zum Blockieren oder Protokollieren von Traffic basierend auf Anfragemustern und die Einführung von M WAF für erweiterten Schutz vor Web-Angriffen wie SQL-Injection und XSS.
+* **Deklarative Konfiguration** Die Konfiguration erfolgt mithilfe von YAML-Dateien und wird über eine Konfigurations-Pipeline in Cloud Manager bereitgestellt, was einen schnellen und einfachen Prozess ermöglicht.
+* **Anfrage- und Antworttransformationen** Die neuen Funktionen ermöglichen Anfragetransformationen, um URLs zu normalisieren und unnötige Abfrageparameter zu entfernen. Außerdem ermöglichen sie Antworttransformationen, um Header festzulegen, bevor Antworten an Clients gesendet werden.
+* **Traffic-Filter und Ratenbegrenzung** Traffic-Filter können bestimmte IPs oder Länder blockieren und eine Ratenbegrenzung implementieren, um sich vor DDoS-Angriffen zu schützen. Die Ratenbegrenzung kann auf Grundlage verschiedener Kriterien wie Client-IP, Benutzeragent und Anfragepfad konfiguriert werden.
+* **Überwachungs- und Analyse-Tools** Adobe bietet Tools wie Elasticsearch-/Kibana- und Splunk-Dashboards zur Analyse von Traffic und Nutzung, die dabei helfen, potenzielle Sicherheitsbedrohungen zu identifizieren und zu minimieren.
+* **Praktische Demo** Die Präsentation enthält eine Demo, in der gezeigt wird, wie CDN-Konfigurationen mithilfe von Cloud Manager bereitgestellt werden und wie Fehler behandelt und Konfigurationen mithilfe von AEM lokal validiert werden können.

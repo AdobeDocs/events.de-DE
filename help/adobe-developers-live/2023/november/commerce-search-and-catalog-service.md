@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce SaaS-Angebote - Such- und Katalogdienst
-description: Erfahren Sie mehr über die Dienste für Suche und Katalog , um Ihre Storefront-Erlebnisse zu verbessern und zu optimieren.  In dieser Demonstration wird der Connector für Commerce-Services erläutert und beschrieben, wie Sie diese mit Ihrer Storefront mit GraphQL nutzen können.
+title: Adobe Commerce SaaS-Angebote - Such- und Katalogservice
+description: Erfahren Sie mehr über die Services für Suche und Katalog, um Ihre Storefront-Erlebnisse zu verbessern und zu optimieren.  In dieser Demonstration wird der Commerce Services-Connector und seine Verwendung in Ihrer Storefront mit GraphQL erläutert.
 solution: Commerce
 feature-set: Commerce
 feature: Saas, Services, Catalog Service
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Erfahren Sie mehr über Adobe Commerce SaaS-Angebote - Such- und Katalogdienst
+# Erfahren Sie mehr über Adobe Commerce SaaS-Angebote - Search and Catalog Service
 
-Erfahren Sie mehr über die Dienste für Suche und Katalog , um Ihre Storefront-Erlebnisse zu verbessern und zu optimieren.  In dieser Demonstration wird der Connector für Commerce-Services erläutert und beschrieben, wie Sie diese mit Ihrer Storefront mit GraphQL nutzen können.
+Erfahren Sie mehr über die Services für Suche und Katalog, um Ihre Storefront-Erlebnisse zu verbessern und zu optimieren.  In dieser Demonstration wird der Commerce Services-Connector und seine Verwendung in Ihrer Storefront mit GraphQL erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425806/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Bereitstellen von Adobe Analytics auf einer lokalen AEM-Instanz mithilfe des Dynamic Tag Management Cloud Service
-description: AEM 6 enthält einen Cloud-Service für Dynamic Tag Management (DTM), die von Adobe empfohlene Methode zur Bereitstellung von Adobe Analytics (und anderen Lösungen des Marketings Cloud) auf einer Website. Erfahren Sie, wie Sie selbst eine lokale AEM-Instanz mit dem DTM-Dienst verbinden und alle gewünschten Nutzungsdaten an Adobe Analytics senden.
+title: Bereitstellen von Adobe Analytics auf einer lokalen AEM-Instanz mithilfe von Dynamic Tag Management Cloud Service
+description: AEM 6 umfasst einen Cloud-Service für Dynamic Tag Management (DTM), die von Adobe empfohlene Methode zur Bereitstellung von Adobe Analytics (und anderen Lösungen des Marketings Cloud) auf einer Website. Erfahren Sie, wie Sie sogar eine lokale AEM-Instanz mit dem DTM-Service verbinden und die gewünschten Nutzungsdaten an Adobe Analytics senden können.
 topic-tags: Dynamictagmanagement
 discoiquuid: a91aeec3-337f-4cfd-850d-6ece0041e550
 targetaudience: target-audience advanced
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 # Bereitstellen von Adobe Analytics auf einer lokalen AEM-Instanz über den DTM-Cloud-Service{#how-to-deploy-adobe-analytics-on-a-local-aem-instance-by-using-the-dynamic-tag-management-cloud-service}
 
-AEM 6 enthält einen Cloud-Service für Dynamic Tag Management (DTM), die von Adobe empfohlene Methode zur Bereitstellung von Adobe Analytics (und anderen Lösungen des Marketings Cloud) auf einer Website. Erfahren Sie, wie Sie selbst eine lokale AEM-Instanz mit dem DTM-Dienst verbinden und alle gewünschten Nutzungsdaten an Adobe Analytics senden.
+AEM 6 umfasst einen Cloud-Service für Dynamic Tag Management (DTM), die von Adobe empfohlene Methode zur Bereitstellung von Adobe Analytics (und anderen Lösungen des Marketings Cloud) auf einer Website. Erfahren Sie, wie Sie sogar eine lokale AEM-Instanz mit dem DTM-Service verbinden und die gewünschten Nutzungsdaten an Adobe Analytics senden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19401/?quality=9)
 
-*Ausgestellt am 1. Oktober 2014*
+*Veröffentlicht am 01.10.2014*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
-Sandro Looser, Lösungsarchitektur, Adobe
+Sandro Looser, Solution Architect, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/dtm-10-1-2014.pdf)
 
 ## Verwandte Links {#related-links}
 
-[Integrieren mit Adobe Dynamic Tag Management](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
+[Integration mit Adobe Dynamic Tag Management](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
 [DTM-Hilfe](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 

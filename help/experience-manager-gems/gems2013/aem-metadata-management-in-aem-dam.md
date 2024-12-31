@@ -1,6 +1,6 @@
 ---
-title: Metadatenverwaltung in AEM DAM
-description: Erfahren Sie, wie AEM DAM die Metadaten von Assets verwaltet. Erfahren Sie mehr über den XMP-Standard und dessen Verwendung durch DAM, die Verwendung von Metadaten bei Suchvorgängen und die Erweiterung der integrierten Metadatenschemata. Der neue Metadatenschema-Editor, der mit dem neuesten DAM-Feature Pack eingeführt wurde, wird ebenfalls vorgestellt.
+title: Metadatenverwaltung im AEM-DAM
+description: Erfahren Sie, wie das AEM-DAM die Metadaten von Assets verwaltet. Erfahren Sie mehr über den XMP-Standard und dessen Verwendung durch das DAM, wie Sie Metadaten bei der Suche verwenden und wie Sie die integrierten Metadatenschemata erweitern können. Außerdem wird der neue Metadatenschema-Editor vorgestellt, der mit dem neuesten DAM Feature Pack eingeführt wurde.
 discoiquuid: 0e2538bc-7a1a-41ce-8fed-64805ca1bb89
 targetaudience: target-audience advanced
 exl-id: 11302a97-d19e-4572-99f3-6315d0bd936e
@@ -12,19 +12,19 @@ ht-degree: 0%
 
 ---
 
-# Metadatenverwaltung in AEM DAM{#metadata-management-in-aem-dam}
+# Metadatenverwaltung im AEM-DAM{#metadata-management-in-aem-dam}
 
-Erfahren Sie, wie AEM DAM die Metadaten von Assets verwaltet. Erfahren Sie mehr über den XMP-Standard und dessen Verwendung durch DAM, die Verwendung von Metadaten bei Suchvorgängen und die Erweiterung der integrierten Metadatenschemata. Der neue Metadatenschema-Editor, der mit dem neuesten DAM-Feature Pack eingeführt wurde, wird ebenfalls vorgestellt.
+Erfahren Sie, wie das AEM-DAM die Metadaten von Assets verwaltet. Erfahren Sie mehr über den XMP-Standard und dessen Verwendung durch das DAM, wie Sie Metadaten bei der Suche verwenden und wie Sie die integrierten Metadatenschemata erweitern können. Außerdem wird der neue Metadatenschema-Editor vorgestellt, der mit dem neuesten DAM Feature Pack eingeführt wurde.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19524/?quality=9)
 
-*Ausgestellt am 20. November 2013*
+*Veröffentlicht am 20.11.2013*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
-Ugo Cei, Entwickler-Technischer Marketing-Manager, Adobe
+Ugo CEI, Developer Technical Marketing Manager, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/metadata-management-in-aem-dam.pdf)
 

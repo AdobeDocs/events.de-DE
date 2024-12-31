@@ -1,6 +1,6 @@
 ---
-title: 7 Möglichkeiten zum Erstellen von Kundenloyalität und Kundenbindung
-description: Erfahren Sie 7 Strategien zur Steigerung der Kundenloyalität und -bindung mit Corey Gelato, die Best Practices wie Personalisierung, Prämienprogramme und Transparenz sowie Adobe Commerce-Tools wie Product Recommendations, Preisregeln und Promotions enthalten.
+title: 7 Möglichkeiten zum Aufbau von Kundentreue und Kundenbindung
+description: Lernen Sie mit Corey Gelato 7 Strategien zur Steigerung der Kundentreue und -bindung kennen. Diese umfassen Best Practices wie Personalisierung, Prämienprogramme und Transparenz sowie Adobe Commerce-Tools wie Produkt-Recommendations, Preisregeln und Werbeaktionen.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# 7 Möglichkeiten zum Erstellen von Kundenloyalität und Kundenbindung
+# 7 Möglichkeiten zum Aufbau von Kundentreue und Kundenbindung
 
-In diesem Webinar wird untersucht, wie Ihr Unternehmen die Kundenzufriedenheit, -bindung und -loyalität sicherstellen kann, und zwar zu einem Zeitpunkt, zu dem Verbraucher leicht zu wechseln sind, um Marken zu wechseln oder Alternativen zu testen. Sr. Commerce Strategy Consultant, Corey Gelato berichtet über &quot;7 Wege, um Kundenloyalität und Kundenbindung aufzubauen&quot;. Vom Kundendienst und der Personalisierung bis hin zu Transparenz und Authentizität taucht er in Best Practices ein, um zu verhindern, dass Kunden für weitere Informationen zurückkehren. Corey demonstriert Adobe Commerce-Funktionen wie Product Recommendations, Einrichten von Prämienprogrammen, Warenkorb- und Katalogpreisregeln, Promotions, Produktbewertungen und mehr.
+In diesem Webinar wird untersucht, wie Ihr Unternehmen Kundenzufriedenheit, Kundenbindung und Kundentreue gewährleisten kann, während Verbraucher leicht dazu gebracht werden können, andere Marken zu wechseln oder Alternativen auszuprobieren. Sr. Commerce Strategy Consultant, Corey Gelato prüft „7 Wege, um Kundenloyalität und Kundenbindung aufzubauen“. Vom Kundenservice über die Personalisierung bis hin zu Transparenz und Authentizität - er taucht in Best Practices ein, damit die Kunden immer wieder neue Kunden ansprechen können. Corey zeigt Adobe Commerce-Funktionen, einschließlich Produkt-Recommendations, der Einrichtung von Belohnungsprogrammen, Warenkorb- und Katalogpreisregeln, Werbeaktionen, Produktbewertungen und mehr.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419686/?learn=on)

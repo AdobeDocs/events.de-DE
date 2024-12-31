@@ -1,6 +1,6 @@
 ---
-title: Ausführbare Kampagnen - Erfahren Sie, wie ausführbare Dateien Effizienz und Wirkung steigern können.
-description: Mit Chris Willis, Courtny Edwards-Jones und Jane Musatova in diesem Adobe Champion Deep Dive erfahren Sie, wie ausführbare Kampagnen in Marketo Prozesse optimieren, Datengenauigkeit sicherstellen und komplexe Workflows automatisieren können, mit praktischen Beispielen und einem Fokus auf die Minimierung von Fehlern und Rückständen.
+title: Ausführbare Kampagnen - Erfahren Sie, wie ausführbare Dateien die Effizienz und Wirkung steigern können.
+description: Seien Sie dabei, wenn Chris Willis, Courtny Edwards-Jones und Jane Musatova in diesem Adobe Champion Deep Dive erfahren, wie ausführbare Kampagnen in Marketo Prozesse optimieren, die Datengenauigkeit gewährleisten und komplexe Workflows automatisieren können - mit praktischen Beispielen und einem Fokus auf die Minimierung von Fehlern und Rückständen.
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -16,25 +16,25 @@ ht-degree: 0%
 
 ---
 
-# Ausführbare Kampagnen - Erfahren Sie, wie ausführbare Dateien die Effizienz steigern und die Auswirkungen beeinflussen können
+# Ausführbare Kampagnen - Erfahren Sie, wie ausführbare Dateien die Effizienz und Wirkung steigern können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427704/?learn=on)
 
 **Moderiert von** Chris Willis
-**Redner** Höflicher Edwards-Jones und Jane Musatova
+**Redner** Courtny Edwards-Jones und Jane Musatova
 
 ## Übersicht
 
-In dieser Ausgabe des Adobe Champion Deep Dive diskutieren wir über die Verwendung ausführbarer Kampagnen in Marketo und zeigen Ihnen Beispiele, wie sie zur Optimierung von Prozessen und zur Gewährleistung der Datengenauigkeit verwendet werden können. Ausführbare Kampagnen sind ein Typ von intelligenter Kampagne, die synchron abläuft und Abhängigkeiten zwischen verschiedenen Schritten ermöglicht. Sie können verwendet werden, um fehlgeschlagene Prozesse wie die Standardisierung von Daten oder die Lead-Qualifizierung automatisch erneut auszuführen, bevor Sie mit dem nächsten Schritt fortfahren. Das Dokument behandelt auch die Verwendung von übergeordneten Kampagnen und verschachtelten ausführbaren Dateien sowie die Einschränkungen ausführbarer Kampagnen, z. B. die Unmöglichkeit, Webhooks zu verwenden oder Warteschritte zu unternehmen.
+In dieser Ausgabe des Adobe Champion Deep Dive besprechen wir die Verwendung von ausführbaren Kampagnen in Marketo und liefern Beispiele dafür, wie sie zur Optimierung von Prozessen und zur Gewährleistung der Datengenauigkeit verwendet werden können. Ausführbare Kampagnen sind eine Art intelligente Kampagne, die Flüsse synchron ausführt und Abhängigkeiten zwischen verschiedenen Schritten zulässt. Sie können verwendet werden, um fehlgeschlagene Prozesse wie die Datenstandardisierung oder die Lead-Qualifizierung automatisch zu wiederholen, bevor mit dem nächsten Schritt fortgefahren wird. Das Dokument behandelt auch die Verwendung übergeordneter Kampagnen und verschachtelter ausführbarer Dateien sowie die Einschränkungen ausführbarer Kampagnen, z. B. die Unfähigkeit, Webhooks oder Warteschritte zu verwenden.
 
-## Welchen Zweck hat die Verwendung ausführbarer Kampagnen?
+## Welchen Zweck haben ausführbare Kampagnen?
 
-Die Verwendung ausführbarer Kampagnen dient der Optimierung und Automatisierung komplexer Workflows in Marketo. Ausführbare Kampagnen ermöglichen es Ihnen, eine Abfolge von Aktionen zu definieren, die abgeschlossen werden müssen, bevor Sie mit dem nächsten Schritt einer Kampagne fortfahren. Dadurch wird sichergestellt, dass jede Aktion vollständig ausgeführt wird, bevor sie fortgesetzt wird. So wird das Risiko von Fehlern oder unvollständigen Prozessen verringert. Ausführbare Kampagnen können verwendet werden, um fehlgeschlagene Prozesse erneut auszuprobieren, Daten zu standardisieren und anzureichern, Leads zu qualifizieren, interessante Momente zu erfassen und vieles mehr. Sie bieten eine effizientere und besser organisierte Methode zur Verwaltung und Automatisierung Ihrer Marketing-Vorgänge.
+Ausführbare Kampagnen dienen der Optimierung und Automatisierung komplexer Workflows in Marketo. Mit ausführbaren Kampagnen können Sie eine Sequenz von Aktionen definieren, die abgeschlossen werden müssen, bevor Sie mit dem nächsten Schritt in einer Kampagne fortfahren. Dadurch wird sichergestellt, dass jede Aktion vollständig ausgeführt wird, bevor der Vorgang fortgesetzt wird, wodurch das Risiko von Fehlern oder unvollständigen Prozessen reduziert wird. Ausführbare Kampagnen können verwendet werden, um fehlgeschlagene Prozesse erneut auszuführen, Daten zu standardisieren und anzureichern, Leads zu qualifizieren, interessante Momente zu erfassen und vieles mehr. Sie bieten eine effizientere und organisiertere Möglichkeit, Marketing-Vorgänge zu verwalten und zu automatisieren.
 
 ## Was ist eine ausführbare Kampagne und wie funktioniert sie?
 
-Bei einer ausführbaren Kampagne handelt es sich um einen Typ von Smart-Kampagne in Marketo, die die sequenzielle Ausführung mehrerer Datenflüsse innerhalb einer Kampagne ermöglicht. Damit soll sichergestellt werden, dass jeder Fluss vollständig ausgeführt wird, bevor der nächste beginnt. Dies unterscheidet sich von einer Anforderungskampagne, die asynchron ausgeführt wird und mehrere Flüsse parallel ausführen kann.
+Eine ausführbare Kampagne ist eine Art intelligente Kampagne in Marketo, die die sequenzielle Ausführung mehrerer Flüsse innerhalb einer Kampagne ermöglicht. Sie soll sicherstellen, dass jeder Fluss vollständig ausgeführt wird, bevor der nächste beginnt. Dies unterscheidet sich von einer Anfragekampagne, bei der Flüsse asynchron ausgeführt werden und mehrere Flüsse parallel ausgeführt werden können.
 
-Um eine ausführbare Kampagne zu erstellen, müssen Sie bei der Erstellung der Kampagne die Option &quot;Ausführbare Datei&quot; aktivieren. Nach der Erstellung können Sie der Kampagne Workflow-Schritte hinzufügen, z. B. Datenwerte ändern, E-Mails senden oder den Programmstatus aktualisieren. Für ausführbare Kampagnen gibt es jedoch einige Einschränkungen. Sie können in einer ausführbaren Kampagne keine Trigger, Webhooks oder Warteschritte verwenden.
+Um eine ausführbare Kampagne zu erstellen, aktivieren Sie beim Erstellen der Kampagne das Kontrollkästchen „Ausführbar“. Nach der Erstellung können Sie der Kampagne Flussschritte hinzufügen, z. B. das Ändern von Datenwerten, das Senden von E-Mails oder das Aktualisieren des Programmstatus. Es gibt jedoch einige Einschränkungen bei ausführbaren Kampagnen. Sie können keine Trigger, Webhooks oder Warteschritte innerhalb einer ausführbaren Kampagne verwenden.
 
-Ausführbare Kampagnen sind für Prozesse nützlich, die voneinander abhängen, bei denen ein Fluss abgeschlossen werden muss, bevor der nächste beginnen kann. Sie können dabei helfen, betriebliche Prozesse zu optimieren, die Datenverarbeitung zu vereinfachen und das Risiko von Fehlern oder Rückständen zu minimieren. Durch die Verwendung ausführbarer Kampagnen können Sie sicherstellen, dass jeder Schritt in einem Prozess abgeschlossen ist, bevor Sie zum nächsten Schritt übergehen, was die Effizienz und Genauigkeit Ihrer Marketing-Vorgänge verbessert.
+Ausführbare Kampagnen sind für Prozesse nützlich, die voneinander abhängig sind, bei denen ein Fluss abgeschlossen sein muss, bevor der nächste beginnen kann. Sie können dabei helfen, betriebliche Prozesse zu optimieren, die Datenverarbeitung zu vereinfachen und das Risiko von Fehlern oder Rückständen zu minimieren. Durch die Verwendung ausführbarer Kampagnen können Sie sicherstellen, dass jeder Schritt in einem Prozess abgeschlossen ist, bevor Sie mit dem nächsten fortfahren, wodurch die Effizienz und Genauigkeit Ihrer Marketing-Vorgänge verbessert wird.

@@ -1,6 +1,6 @@
 ---
 title: Bereitstellung eines personalisierteren Kundenerlebnisses in Echtzeit
-description: Adobe Target und Adobe Real-time Customer Data Platform können integriert werden, um ein personalisierteres Kundenerlebnis zu bieten. In diesem Livestream-Ereignis sehen Sie, wie die Integration dieser beiden Plattformen Unternehmen dabei helfen kann, Daten in Echtzeit zu erfassen und anschließend zielgerichtete Erlebnisse zu erstellen und zu testen. Sehen Sie sich den End-to-End-Prozess dieser leistungsstarken Funktion in einer Live-Demonstration an.
+description: Adobe Target und Adobe Real-time Customer Data Platform können integriert werden, um ein personalisierteres Kundenerlebnis zu bieten. In diesem Livestream-Ereignis erfahren Sie, wie die Integration dieser beiden Plattformen Unternehmen dabei helfen kann, Daten in Echtzeit zu erfassen und anschließend zielgerichtete Erlebnisse zu erstellen und zu testen. Sehen Sie sich den End-to-End-Prozess dieser leistungsstarken Funktion in einer Live-Demonstration an.
 solution: Target, Real-Time Customer Data Platform
 feature: Integrations
 kt: 11004
@@ -17,9 +17,9 @@ ht-degree: 1%
 
 # Bereitstellung eines personalisierteren Kundenerlebnisses in Echtzeit
 
-Adobe Target und Adobe Real-time Customer Data Platform können integriert werden, um ein personalisierteres Kundenerlebnis zu bieten. In diesem Livestream-Ereignis sehen Sie, wie die Integration dieser beiden Plattformen Unternehmen dabei helfen kann, Daten in Echtzeit zu erfassen und anschließend zielgerichtete Erlebnisse zu erstellen und zu testen. Sehen Sie sich den End-to-End-Prozess dieser leistungsstarken Funktion in einer Live-Demonstration an.
+Adobe Target und Adobe Real-time Customer Data Platform können integriert werden, um ein personalisierteres Kundenerlebnis zu bieten. In diesem Livestream-Ereignis erfahren Sie, wie die Integration dieser beiden Plattformen Unternehmen dabei helfen kann, Daten in Echtzeit zu erfassen und anschließend zielgerichtete Erlebnisse zu erstellen und zu testen. Sehen Sie sich den End-to-End-Prozess dieser leistungsstarken Funktion in einer Live-Demonstration an.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409425/?quality=12&learn=on)
 
-Weitere Informationen zu [Edge-Segmentierung](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=de) und [Streaming-Segmentierung](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=de) finden Sie in der Dokumentation .
+Weitere Informationen zur [Edge-Segmentierung](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=de) und [Streaming-Segmentierung](https://experienceleague.adobe.com/de/docs/experience-platform/segmentation/ui/streaming-segmentation) finden Sie in der Dokumentation.
 

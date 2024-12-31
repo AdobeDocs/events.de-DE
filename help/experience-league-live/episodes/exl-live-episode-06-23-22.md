@@ -1,6 +1,6 @@
 ---
-title: Fragen an Experten - Real-Time CDP-Verbindungen
-description: In dieser zweiten von drei Livestream-Sitzungen zur Datenerfassung für die Adobe Experience Cloud werden unsere Lieblingssachverständigen einen umfassenden Überblick über das Adobe RTCDP Connections-Produkt geben, in dem Kunden über ein serverseitiges Tag-Management-System Ereignisse an Nicht-Adobe-Ziele weiterleiten können.
+title: Fragen an Experten - Real-Time CDP Connections
+description: In dieser zweiten von drei Livestream-Sitzungen zur Datenerfassung für den Adobe Experience Cloud bieten unsere Experten einen umfassenden Überblick über das Produkt Adobe CDP Connections . Damit können Kunden mithilfe eines serverseitigen Tag-Management-Systems Ereignisse an Ziele weiterleiten, die nicht mit Adobe verbunden sind.
 solution: Data Collection,Experience Platform
 feature: Event Forwarding
 kt: 10490
@@ -16,16 +16,16 @@ ht-degree: 0%
 
 ---
 
-# Fragen Sie die Experten: Real-Time CDP-Verbindungen
+# Fragen an Experten: Real-Time CDP Connections
 
-In dieser zweiten von drei Livestream-Sitzungen zur Datenerfassung für die Adobe Experience Cloud werden unsere Lieblingssachverständigen einen umfassenden Überblick über das Adobe RTCDP Connections-Produkt geben, in dem Kunden über ein serverseitiges Tag-Management-System Ereignisse an Nicht-Adobe-Ziele weiterleiten können.
+In dieser zweiten von drei Livestream-Sitzungen zur Datenerfassung für den Adobe Experience Cloud bieten unsere Experten einen umfassenden Überblick über das Produkt Adobe CDP Connections . Damit können Kunden mithilfe eines serverseitigen Tag-Management-Systems Ereignisse an Ziele weiterleiten, die nicht mit Adobe verbunden sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344251/?quality=12&learn=on)
 
-**Fahren Sie die Diskussion** in der [Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195#M285){target="_blank"} fort!
+**Diskutieren Sie weiter** in der [Experience League-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195#M285){target="_blank"}!
 
 ## Zusätzliche Experience League LIVE-Sitzungen aus dieser Datenerfassungsreihe
 
-* [Experten fragen - Grundlagen des Web SDK](exl-live-episode-05-26-22.md)
-* [Experten fragen - Datenspeicher und Datenvorbereitung](exl-live-episode-07-21-22.md)
+* [Fragen an Experten - Die Grundlagen von Web SDK](exl-live-episode-05-26-22.md)
+* [Fragen an Experten - Datenströme und Datenvorbereitung](exl-live-episode-07-21-22.md)
 

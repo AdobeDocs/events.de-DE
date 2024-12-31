@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce-Roadmap - Highlights
-description: Treten Sie Ed Kennedy, Senior Product Marketing Manager für Adobe Commerce, bei, um aktuelle Informationen zu den wichtigsten Adobe Commerce-Produktinvestitionen zu erhalten.
+title: Adobe Commerce Roadmap-Highlights
+description: Seien Sie dabei, wenn Ed Kennedy, Senior Product Marketing Manager für Adobe Commerce, über die neuesten Updates zu den wichtigsten Investitionen in Adobe Commerce-Produkte informiert wird
 solution: Commerce, Commerce Intelligence
 role: Admin, Architect, Developer, Leader, User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce-Roadmap - Highlights
+# Adobe Commerce Roadmap-Highlights
 
-Schließen Sie sich an Ed Kennedy, Senior Product Marketing Manager für Adobe Commerce, an, um aktuelle Informationen zu den wichtigsten Adobe Commerce-Produktinvestitionen zu erhalten, darunter Adobe Experience Platform Connector für Adobe Commerce, Intelligente Kategorien, API-Mesh, App Builder, Blau/Grün-Implementierung und Autoskalierung.
+Kommen Sie zu Ed Kennedy, Senior Product Marketing Manager für Adobe Commerce, und erfahren Sie mehr über die neuesten Updates zu den wichtigsten Adobe Commerce-Produktinvestitionen, einschließlich Adobe Experience Platform Connector für Adobe Commerce, Intelligent Categories, API Mesh, App Builder, Blau/Grün-Bereitstellung und Automatisches Skalieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410838/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce mit Adobe Experience Manager Assets und GenAI beleben
-description: Verbessern Sie die Adobe Commerce-Stores, indem Sie Adobe Experience Manager Assets und GenAI mit Adobe Express integrieren, um markenbestätigte Bildverweise zu nutzen, die Qualität der Medieninhalte zu verbessern und die E-Commerce-Leistung zu steigern.
+title: Adobe Commerce mit Adobe Experience Manager Assets und GenAI stärken
+description: Erweitern Sie Adobe Commerce-Stores durch die Integration von Adobe Experience Manager Assets und GenAI mit Adobe Express, um markengenehmigte Bildreferenzen zu nutzen, die Qualität von Medieninhalten zu verbessern und die E-Commerce-Leistung zu steigern.
 feature: Generative AI, Integrations
 topic: Artificial Intelligence, Commerce, Integrations
 solution: Commerce, Experience Manager, Experience Manager Assets
@@ -18,27 +18,27 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce mit Adobe Experience Manager Assets und GenAI beleben
+# Adobe Commerce mit Adobe Experience Manager Assets und GenAI stärken
 
-Entdecken Sie, wie Ankush Malhotra, Sr. Computer Scientist bei der Adobe und Pablo Moreno, Sr. Software Engineer bei der Adobe, Adobe Experience Manager Assets und GenAI mit Adobe Expreß integrieren, um Adobe Commerce-Stores zu erweitern. Nutzen Sie markenbestätigte Bildverweise, verbessern Sie die Qualität der Medieninhalte und steigern Sie die E-Commerce-Leistung mit dieser leistungsstarken Kombination.
+Erfahren Sie, wie Ankush Malhotra, Sr. Computer Scientist bei Adobe und Pablo Moreno, Sr. Software Engineer bei Adobe, Adobe Experience Manager Assets und GenAI mit Adobe Express integrieren, um die Adobe Commerce-Stores zu erweitern. Nutzen Sie markeninterne genehmigte Bildverweise, verbessern Sie die Qualität von Medieninhalten und steigern Sie die E-Commerce-Leistung mit dieser leistungsstarken Kombination.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440400/?learn=on&enablevpops)
 
 ## Community-Diskussion
 
-Fahren Sie mit der Unterhaltung in der Adobe Developers Live Community [diskussion](https://adobe.ly/40CS6CP) fort.
+Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](https://adobe.ly/40CS6CP) fort.
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
-* **Zweck der Integration** Die Integration zielt darauf ab, die Markenkonsistenz sicherzustellen, indem nur genehmigte Assets verwendet, Assets effizient verwaltet, Zugriffsbeschränkungen durchgesetzt und große Dateien zur Weboptimierung verarbeitet werden.
-* **Demoübersicht** Eine Demo wurde bereitgestellt, in der gezeigt wird, wie Bilder zwischen IAM-Assets und Adobe Commerce hochgeladen, angepasst und synchronisiert werden.
-* **Konfiguration** Zu den Konfigurationsoptionen gehören die Auswahl des IAM-Repositorys, das Festlegen von SKU-Werten und die Verwendung der Bild-Client-ID des Asset-Selektors.
-* **Asset-Verwaltung** Die Integration ermöglicht das Remote-Hosting von Bildern, die von IAM-Assets und nicht von Adobe Commerce bereitgestellt werden.
-* Der Adobe Expreß **Anpassung** kann zum Bearbeiten von Bildern verwendet werden, einschließlich AI-Funktionen für Änderungen.
+* **Zweck der Integration** Die Integration soll die Markenkonsistenz sicherstellen, indem nur genehmigte Assets verwendet, Assets effizient verwaltet, Zugriffsbeschränkungen durchgesetzt und große Dateien für die Web-Optimierung verarbeitet werden.
+* **Demoübersicht** Es wurde eine Demo bereitgestellt, die zeigt, wie Bilder zwischen IAM-Assets und Adobe Commerce hochgeladen, angepasst und synchronisiert werden.
+* **Konfiguration** Zu den Konfigurationsoptionen gehören das Auswählen des IAM-Repositorys, das Festlegen von SKU-Werten und die Verwendung der Bild-Client-ID des Asset-Wählers.
+* **Asset-**: Die Integration ermöglicht das Remote-Hosting von Bildern, die von IAM-Assets und nicht von Adobe Commerce bereitgestellt werden.
+* **Anpassung** Adobe Expreß kann zum Bearbeiten von Bildern verwendet werden, einschließlich KI-Funktionen für Änderungen.
 * **Metadaten und Synchronisierung** Metadatenfelder wie SKU und Bildrollen werden verwendet, um Bilder mit Produkten zu verknüpfen, und Aktualisierungen werden innerhalb von 1-2 Minuten synchronisiert.
-* **Ereignisgesteuerte Architektur** Die Integration verwendet Adobe IO-Ereignisse und eine ereignisgesteuerte Architektur, um Assets zwischen IAM-Assets und Adobe Commerce zu synchronisieren.
-* **Kompatibilität** Die Integration ist mit PBB-Checkout-, Control Pins- und B2B-Widgets kompatibel und nutzt GraphQL-APIs.
-* **Anpassungsoptionen** Entwickler können die Asset-Übereinstimmungsregeln mithilfe von AI Builder-Anwendungen anpassen.
-* **Einrichtungsanforderungen** Erfordert eine laufende Medienlizenz, ein Support-Ticket für dynamische Medien mit offener API und das Zusammenführen der Codebasis des öffentlichen Repository-Asset-Handels.
-* **Zukünftige Roadmap** Zu den künftigen Funktionen gehören die Unterstützung zusätzlicher Medientypen, die Personalisierung im Maßstab und die Metadaten-Kreuzbestäubung zwischen Adobe Commerce und IAM-Assets.
-* **VIP Programm** Interessierte Parteien können sich dem VIP-Programm anschließen, um frühzeitig in der Entwicklungs- und Testphase auf die Hilfe zugreifen zu können.
+* **Ereignisgesteuerte Architektur** Die Integration verwendet Adobe-IO-Ereignisse und eine ereignisgesteuerte Architektur, um Assets zwischen IAM-Assets und Adobe Commerce zu synchronisieren.
+* **Kompatibilität** Die Integration ist mit PBB-Checkout, Control Pins und B2B-Widgets kompatibel und nutzt GraphQL-APIs.
+* **Anpassungsoptionen** Entwickler können die Regeln zum Abgleichen von Assets mithilfe von AI Builder-Programmen anpassen.
+* **Setup-Anforderungen** Erfordert eine aktive Medienlizenz, ein Support-Ticket für Dynamic Media mit offener API und das Zusammenführen der Commerce-Code-Basis für öffentliche Repositorys.
+* **Future Roadmap** Zu den neuen Funktionen gehören die Unterstützung zusätzlicher Medientypen, skalierbare Personalisierung und die Bestäubung von Metadaten zwischen Adobe Commerce- und IAM-Assets.
+* **VIP-Programm** Interessierte können dem VIP-Programm beitreten, um frühzeitig Zugang zu erhalten und während der Entwicklungs- und Testphase Unterstützung zu erhalten.

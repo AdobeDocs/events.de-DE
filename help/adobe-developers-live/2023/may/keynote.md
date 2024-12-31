@@ -1,6 +1,6 @@
 ---
-title: Öffnungs-Keynote
-description: Keynote - Erstellen von Composable-Services der nächsten Generation mit Adobe Experience ManagerErhalten Sie einen Überblick darüber, wie wir auf einer sich ständig weiterentwickelnden Web-Plattform aufbauen, um neue Innovationen wie Composable Services der nächsten Generation, universellen Editor, Edge-Bereitstellung und generative KI für unsere Entwickler-Community zu bringen. Wir werden auch unsere Tagssitzungen in der Vorschau ansehen, um Sie für eine produktive Adobe Developers Live einzurichten!
+title: Keynote zur Eröffnung
+description: Keynote - Erstellen von zusammensetzbaren Services der nächsten Generation mit Adobe Experience ManagerErfahren Sie mehr darüber, wie wir auf einer sich ständig weiterentwickelnden Web-Plattform aufbauen, um neue Innovationen wie zusammensetzbare Services der nächsten Generation, universellen Editor, Edge-Bereitstellung und generative KI in unsere Entwickler-Community zu bringen. Wir werden auch eine Vorschau unserer Sitzungen für den Tag anzeigen, um Sie für eine produktive Adobe Developers Live vorzubereiten!
 product: experience manager
 sub-product: sites
 topic: Development
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Öffnungs-Keynote
+# Keynote zur Eröffnung
 
-Schlüsselwort: Erstellen von zusammenstellbaren Diensten der nächsten Generation mit Adobe Experience Manager
+Keynote: Erstellen von zusammensetzbaren Services der nächsten Generation mit Adobe Experience Manager
 
-Verschaffen Sie sich einen Überblick darüber, wie wir auf einer sich ständig weiterentwickelnden Web-Plattform aufbauen, um neue Innovationen wie Composable Services der nächsten Generation, Universal Editor, Edge Delivery und Generative KI in unsere Entwickler-Community zu bringen. Wir werden auch unsere Tagssitzungen in der Vorschau ansehen, um Sie für eine produktive Adobe Developers Live einzurichten!
+Verschaffen Sie sich einen Überblick darüber, wie wir auf einer sich ständig weiterentwickelnden Web-Plattform aufbauen, um neue Innovationen wie zusammensetzbare Services der nächsten Generation, universeller Editor, Edge-Bereitstellung und generative KI in unsere Entwickler-Community zu bringen. Wir werden auch eine Vorschau unserer Sitzungen für den Tag anzeigen, um Sie für eine produktive Adobe Developers Live vorzubereiten!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419949/?learn=on)

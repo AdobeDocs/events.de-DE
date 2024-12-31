@@ -1,6 +1,6 @@
 ---
-title: AEM Tech Sneak Peak
-description: Hier erhalten Sie einen Einblick in unsere Arbeit für die nächste Generation von Adobe Experience Manager in einen technischen Vortrag.
+title: AEM Tech Sneak Peek
+description: Verschaffen Sie sich in einem technischen Vortrag einen Einblick in unsere Arbeit an der nächsten Adobe Experience Manager-Generation.
 discoiquuid: 78af3b2f-b010-4753-bacc-18696a598ded
 targetaudience: target-audience advanced
 exl-id: 9b023ec2-70c3-40ba-92bf-37271c197602
@@ -12,19 +12,19 @@ ht-degree: 0%
 
 ---
 
-# AEM Tech Sneak Peak{#aem-tech-sneak-peek}
+# AEM Tech Sneak Peek{#aem-tech-sneak-peek}
 
-Hier erhalten Sie einen Einblick in unsere Arbeit für die nächste Generation von Adobe Experience Manager in einen technischen Vortrag.
+Verschaffen Sie sich in einem technischen Vortrag einen Einblick in unsere Arbeit an der nächsten Adobe Experience Manager-Generation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19384/?quality=9)
 
-*Ausgestellt am 21. Januar 2015*
+*Veröffentlicht am 21.01.2015*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 * Gabriel Walt, Product Manager, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/aem-technical-sneak-peek.pdf)
 <!--

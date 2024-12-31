@@ -1,6 +1,6 @@
 ---
-title: Abschließende Bemerkungen
-description: Schließen Sie Adobe Developers Live Commerce mit Sr. Director, Product Management Chris Hedge.
+title: Schlussbemerkungen
+description: Schließen Sie Adobe Developers Live Commerce mit Sr. Director, Product Management Chris Hedge ab.
 role: User
 level: Beginner
 kt: 9787
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Abschließende Bemerkungen
+# Schlussbemerkungen
 
-Schließen Sie Adobe Developers Live Commerce mit Sr. Director, Product Management Chris Hedge.
+Schließen Sie Adobe Developers Live Commerce mit Sr. Director, Product Management Chris Hedge ab.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340625/?quality=12&learn=on)

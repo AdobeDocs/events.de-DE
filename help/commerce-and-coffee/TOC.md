@@ -1,7 +1,7 @@
 ---
-user-guide-title: Commerce- und Kaffeeereignisse
-breadcrumb-title: Commerce- und Kaffeeereignisse
-user-guide-description: Adobe Commerce und Coffee sind eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zur Verwendung von Adobe Commerce teilen.
+user-guide-title: Commerce- und Kaffeeveranstaltungen
+breadcrumb-title: Commerce- und Kaffeeveranstaltungen
+user-guide-description: Adobe Commerce and Coffee ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zur Verwendung von Adobe Commerce vorstellen.
 source-git-commit: 1e328fb4db0a3ba6988beb4922d67d585d01e43a
 workflow-type: tm+mt
 source-wordcount: '91'
@@ -14,23 +14,23 @@ ht-degree: 5%
 
 + [Übersicht](overview.md)
 + 2024 {#2024}
-   + [Fragen Sie mich irgendwas](2024/ask-me-anything.md)
-   + [E-Commerce-Grundlagen](2024/ecommerce-essentials.md)
-   + [Vorbereitung der Spitzensaison](2024/peak-season-prep.md)
-   + [Personalisieren von eCommerce-Erlebnissen mit KI](2024/personalize-ecommerce.md)
-   + [Strategien für B2B eCommerce](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
+   + [Frag mich was](2024/ask-me-anything.md)
+   + [eCommerce Essentials](2024/ecommerce-essentials.md)
+   + [Saisonvorbereitung](2024/peak-season-prep.md)
+   + [Personalisieren von E-Commerce-Erlebnissen mit KI](2024/personalize-ecommerce.md)
+   + [Strategien für B2B-E-Commerce](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
 + 2023 {#2023}
-   + [Fragen Sie mich irgendwas](2023/ask-me-anything.md)
-   + [Vorbereitung der Spitzensaison](2023/peak-season-prep.md)
-   + [Organisches Wachstum](2023/organic-growth.md)
-   + [7 Möglichkeiten zum Erstellen von Kundenloyalität und Kundenbindung](2023/loyalty-retention.md)
-   + [Ermöglichen des B2B-Erfolgs](2023/b2b.md)
+   + [Frag mich was](2023/ask-me-anything.md)
+   + [Saisonvorbereitung](2023/peak-season-prep.md)
+   + [organisches Wachstum](2023/organic-growth.md)
+   + [7 Möglichkeiten zum Aufbau von Kundentreue und Kundenbindung](2023/loyalty-retention.md)
+   + [B2B-Erfolg unterstützen](2023/b2b.md)
 + 2022 {#2022}
    + [KI und Automatisierung](2022/ai-and-automation.md)
    + [E-Commerce-Trends](2022/ecommerce-trends.md)
-   + [Urlaub Retrospektive](2022/holiday.md)
-   + [Vorbereitung der Spitzensaison](2022/peak-season-prep.md)
-   + [Spitzensaison fragt mich alles](2022/peak-season-ask-anything.md)
+   + [Urlaubs-Retrospektive](2022/holiday.md)
+   + [Saisonvorbereitung](2022/peak-season-prep.md)
+   + [In der Hochsaison bitte mich um alles](2022/peak-season-ask-anything.md)
    + [Personalisierung](2022/personalization.md)
 
 <!--+ Commerce Events {#commerce-events}

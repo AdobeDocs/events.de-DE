@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Online-Communities mit AEM 6.1
-description: Erfahren Sie, wie Sie AEM leistungsstarke Authoring-Oberfläche nutzen können, um eine lebendige Kundengemeinschaft zu schaffen, und lernen Sie die Tools kennen, mit denen Sie Ihre Fan-Basis lange nach dem Start für immer binden können.
+description: Erfahren Sie, wie Sie die leistungsstarke Authoring-Oberfläche von AEM nutzen können, um eine lebendige Kunden-Community aufzubauen, und lernen Sie die Tools kennen, mit denen Sie Ihre Fan-Gemeinde auch lange nach dem Start bei der Stange halten können.
 discoiquuid: 62b6b8d4-b763-4801-9918-447a2c5deb01
 targetaudience: target-audience advanced
 exl-id: 86ceb0d8-b8ce-4ab9-8b54-68ac3dfeea95
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 # Erstellen von Online-Communities mit AEM 6.1{#creating-online-communities-with-aem}
 
-Stellen Sie sich vor, Sie könnten eine Community-Site in Stunden anstatt in Wochen aufstellen, ohne dass Sie von Ihren CQ-Ingenieuren wenig bis gar keine Hilfe erhalten. AEM Communities 6.1 wird sich darauf konzentrieren, diese Möglichkeit mithilfe eines von Assistenten gesteuerten Vorlagenansatzes zu bieten, der eine Vielzahl von anfänglichen Anwendungsfällen abdeckt. AEM Communities 6.1 bietet außerdem die Möglichkeit, diese neuen Community-Sites über AEM WCM [!DNL Sites]-Funktion weiter anzupassen. Lernen Sie, wie Sie AEM leistungsstarke Authoring-Oberfläche nutzen können, um eine lebendige Kundengemeinschaft zu schaffen, und lernen Sie die Tools kennen, mit denen Sie Ihre Fan-Basis lange nach dem Start für immer binden können.
+Stellen Sie sich vor, Sie könnten eine Community-Site innerhalb von Stunden statt Wochen und mit wenig oder gar keiner Unterstützung durch Ihre CQ-Techniker einrichten. AEM Communities 6.1 konzentriert sich auf die Bereitstellung dieser Funktion über einen Ansatz mit assistentengesteuerten Vorlagen, um eine Vielzahl von anfänglichen Anwendungsfällen abzudecken. AEM Communities 6.1 wird auch die Möglichkeit bieten, diese neuen Community-Sites über die WCM-[!DNL Sites]-Funktion von AEM weiter anzupassen. Seien Sie dabei, wenn wir Ihnen zeigen, wie Sie die leistungsstarke Authoring-Oberfläche von AEM nutzen können, um eine lebendige Kunden-Community aufzubauen, und lernen Sie die Tools kennen, mit denen Sie Ihre Fan-Gemeinde auch lange nach dem Start bei der Stange halten können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19381/?quality=9)
 
-*Ausgestellt am 22. Juli 2015*
+*Veröffentlicht am 22.07.2015*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 * Bertrand de Coatpont, Group Product Manager, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/aem-6-1-communities-gems.pdf)
 <!--

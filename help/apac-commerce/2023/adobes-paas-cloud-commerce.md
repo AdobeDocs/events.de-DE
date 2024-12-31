@@ -1,6 +1,6 @@
 ---
-title: Optimieren Ihres Unternehmens mit Adobe PaaS Cloud Commerce
-description: Erkunden Sie den Wert der Adobe Commerce Cloud PaaS-Lösung. Für alle, die sich derzeit selbst hosten und wissen möchten, was eine PaaS-Lösung ihnen bieten könnte, ist dieses Webinar für Sie.
+title: Optimieren Sie Ihr Unternehmen mit Adobe PaaS Cloud Commerce
+description: Erkunden Sie den Wert der Adobe-Commerce Cloud-PaaS-Lösung. Für alle, die derzeit selbstständig hosten und wissen möchten, was eine PaaS-Lösung ihnen bieten könnte, ist dieses Webinar genau das Richtige für Sie.
 feature-set: Commerce
 feature: Upgrade
 solution: Commerce
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# Optimieren Ihres Unternehmens mit Adobe PaaS Cloud Commerce
+# Optimieren Sie Ihr Unternehmen mit Adobe PaaS Cloud Commerce
 
-In der neuesten Runde der APAC Commerce Webinar Serie erforschen wir den Wert der Adobe Commerce Cloud PaaS Lösung. Dieses Webinar ist für jeden, der selbst Hosting betreibt und wissen möchte, was eine PaaS-Lösung ihnen bieten kann. Wenn Sie bereits Adobe Commerce Cloud-Kunde sind, können Sie sich uns anschließen, um mehr darüber zu erfahren, wie Sie den Nutzen Ihrer bestehenden Einrichtung maximieren können.
+Im neuesten Teil der Webinar-Serie zu APAC Commerce erfahren Sie mehr über den Wert der Adobe-Commerce Cloud-PaaS-Lösung. Dieses Webinar richtet sich an all jene, die selbst ein Hosting durchführen und wissen möchten, welche PaaS-Lösungen ihnen zur Verfügung stehen. Wenn Sie bereits Adobe Commerce Cloud-Kunde sind, erhalten Sie von uns weitere Informationen darüber, wie Sie den Wert Ihrer bestehenden Einrichtung maximieren können.
 
-Sie werden von einem unserer Kunden, Panatrade, dem führenden Sportbekleidungshändler in Indonesien, erfahren, wie sie von On-Premise zu Adobe Commerce Cloud Journey und wie sie die Vorteile des Umzugs zu einer vollständig optimierten und verwalteten Lösung für ihr E-Commerce-Geschäft nutzen.
+Sie erfahren von einem unserer Kunden, Panatrade, dem führenden Sportswear-Händler in Indonesien, wie sie von On-Premise nach Adobe Commerce Cloud Journey haben und wie sie von den Vorteilen des Umstiegs auf eine vollständig optimierte und verwaltete Lösung für ihr E-Commerce-Geschäft profitieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419132/?learn=on)

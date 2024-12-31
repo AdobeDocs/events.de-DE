@@ -1,6 +1,6 @@
 ---
 title: Einführung in Adobe Commerce
-description: Erfahren Sie mehr über den aktuellen Status von Adobe Commerce und einige der Verbesserungen, die in den letzten Jahren eingeführt wurden. Adobe Commerce ist eine moderne Unternehmenslösung, die sich an mehrere Branchen und Anwendungsfälle anpasst. Diese Live-Diskussion geht an mehrere Bestandskunden und an die Art und Weise, wie sie Adobe Commerce zum Abschluss ihres Commerce-Erlebnisses verwendet haben.
+description: Erfahren Sie mehr über den aktuellen Status von Adobe Commerce und einige der Verbesserungen, die in den letzten Jahren vorgenommen wurden. Adobe Commerce ist eine moderne Unternehmenslösung, die sich an mehrere Branchen und Anwendungsfälle anpasst. Diese Live-Diskussion geht auf mehrere bestehende Kunden ein und erläutert, wie diese Adobe Commerce zur Vervollständigung ihres Commerce-Erlebnisses verwendet haben.
 solution: Commerce
 feature: Best Practices
 role: Leader, User
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Einführung in Adobe Commerce
 
-Erfahren Sie mehr über den aktuellen Status von Adobe Commerce und einige der Verbesserungen, die in den letzten Jahren eingeführt wurden. Adobe Commerce ist eine moderne Unternehmenslösung, die sich an mehrere Branchen und Anwendungsfälle anpasst. Diese Live-Diskussion geht an mehrere Bestandskunden und an die Art und Weise, wie sie Adobe Commerce zum Abschluss ihres Commerce-Erlebnisses verwendet haben.
+Erfahren Sie mehr über den aktuellen Status von Adobe Commerce und einige der Verbesserungen, die in den letzten Jahren vorgenommen wurden. Adobe Commerce ist eine moderne Unternehmenslösung, die sich an mehrere Branchen und Anwendungsfälle anpasst. Diese Live-Diskussion geht auf mehrere bestehende Kunden ein und erläutert, wie diese Adobe Commerce zur Vervollständigung ihres Commerce-Erlebnisses verwendet haben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425803/?learn=on)

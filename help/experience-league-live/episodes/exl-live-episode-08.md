@@ -1,6 +1,6 @@
 ---
-title: Customer Journey Analytics - Die interne Scoop
-description: Mit Customer Journey Analytics (CJA) können Sie mehrere Datensätze in der Benutzeroberfläche kombinieren und unternehmensübergreifend benutzerdefinierte Analysen durchführen. Aber dann wissen Sie das wahrscheinlich schon. Aber wissen Sie, warum CJA geschaffen wurde? Oder warum es so entworfen wurde? Oder wie können Sie die neuen Datenansichtsfunktionen am besten für Analysen verwenden, wie Sie es noch nie zuvor geschafft haben? In dieser Experience League Live-Folge lernen Sie alle Ein- und Ausgänge von CJA von den Leuten, die sie entworfen und gebaut haben, und hören, wie es dazu kam. Lernen Sie einige ihrer bevorzugten Funktionen und Tipps kennen, um die Daten in Ihrem Unternehmen optimal zu nutzen.
+title: Customer Journey Analytics - The Inside Scoop
+description: Customer Journey Analytics (CJA) ermöglicht es Ihnen, mehrere Datensätze in einer Benutzeroberfläche zu kombinieren und benutzerdefinierte Analysen in Ihrem gesamten Unternehmen durchzuführen. Aber Sie wissen das wahrscheinlich schon. Aber wissen Sie, warum CJA erstellt wurde? Oder warum war es so konzipiert? Oder wie lassen sich die neuen Funktionen für Datenansichten am besten wie nie zuvor zum Analysieren verwenden? In dieser Experience League Live-Episode erfahren Sie alles über CJA von den Menschen, die es entworfen und gebaut haben, und erfahren, wie es entstanden ist. Erfahren Sie mehr über die beliebtesten Funktionen und Tipps, um die Daten in Ihrem gesamten Unternehmen optimal zu nutzen.
 solution: Customer Journey Analytics
 feature: Basics
 kt: 9607
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ---
 
-# Customer Journey Analytics - Die interne Scoop
+# Customer Journey Analytics - The Inside Scoop
 
-Mit Customer Journey Analytics (CJA) können Sie mehrere Datensätze in der Benutzeroberfläche kombinieren und unternehmensübergreifend benutzerdefinierte Analysen durchführen. Aber dann wissen Sie das wahrscheinlich schon. Aber wissen Sie, warum CJA geschaffen wurde? Oder warum es so entworfen wurde? Oder wie können Sie die neuen Datenansichtsfunktionen am besten für Analysen verwenden, wie Sie es noch nie zuvor geschafft haben?
+Customer Journey Analytics (CJA) ermöglicht es Ihnen, mehrere Datensätze in einer Benutzeroberfläche zu kombinieren und benutzerdefinierte Analysen in Ihrem gesamten Unternehmen durchzuführen. Aber Sie wissen das wahrscheinlich schon. Aber wissen Sie, warum CJA erstellt wurde? Oder warum war es so konzipiert? Oder wie lassen sich die neuen Funktionen für Datenansichten am besten wie nie zuvor zum Analysieren verwenden?
 
-In dieser Experience League Live-Folge lernen Sie alle Ein- und Ausgänge von CJA von den Leuten, die sie entworfen und gebaut haben, und hören, wie es dazu kam. Lernen Sie einige ihrer bevorzugten Funktionen und Tipps kennen, um die Daten in Ihrem Unternehmen optimal zu nutzen.
+In dieser Experience League Live-Episode erfahren Sie alles über CJA von den Menschen, die es entworfen und gebaut haben, und erfahren, wie es entstanden ist. Erfahren Sie mehr über die beliebtesten Funktionen und Tipps, um die Daten in Ihrem gesamten Unternehmen optimal zu nutzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340025/?quality=12&learn=on)
 

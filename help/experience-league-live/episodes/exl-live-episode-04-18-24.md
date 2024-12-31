@@ -1,6 +1,6 @@
 ---
-title: Marketo Measure - Neue Discover-Dashboards
-description: Marketo Measure hat die Discover-Dashboards komplett überarbeitet. Das sind nicht nur kleine Verbesserungen und Ergänzungen, sondern eine komplette Neuerung. Die Vorstände wurden neu gestaltet und vor allem vereinfacht. Diese neuen Pinnwände sind viel intuitiver und benutzerfreundlicher, um Ihnen die benötigten Daten zu liefern - schnell und einfach!
+title: Marketo Measures neue Discover Dashboards
+description: Marketo Measure hat die Discover-Dashboards vollständig überarbeitet. Das sind nicht nur kleine Verbesserungen und Ergänzungen; es ist eine komplette Umgestaltung. Die Dashboards wurden überarbeitet und vor allem vereinfacht. Diese neuen Boards sind viel intuitiver und benutzerfreundlicher, um Ihnen die benötigten Daten schnell und einfach zu liefern!
 kt: KT-15186
 solution: Marketo Measure
 event-cta-url-live: https://www.youtube.com/watch?v=UI-P0ezCHqA
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 ---
 
-# Marketo Measure - Neue Discover-Dashboards
+# Marketo Measures neue Discover Dashboards
 
-Marketo Measure hat die Discover-Dashboards komplett überarbeitet. Das sind nicht nur kleine Verbesserungen und Ergänzungen, sondern eine komplette Neuerung. Die Vorstände wurden neu gestaltet und vor allem vereinfacht. Diese neuen Pinnwände sind viel intuitiver und benutzerfreundlicher, um Ihnen die benötigten Daten zu liefern - schnell und einfach!
+Marketo Measure hat die Discover-Dashboards vollständig überarbeitet. Das sind nicht nur kleine Verbesserungen und Ergänzungen; es ist eine komplette Umgestaltung. Die Dashboards wurden überarbeitet und vor allem vereinfacht. Diese neuen Boards sind viel intuitiver und benutzerfreundlicher, um Ihnen die benötigten Daten schnell und einfach zu liefern!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428093/?quality=12&learn=on)
 
-Behandelte Themen:
+Gesprächsthemen:
 
 * Attributionsphilosophie in einer B2B-Marketing-Welt
-* Ihre Berichtserstellung auf Umsatz umstellen
-* Entdecken Sie Profi-Tipps für die strategische Segmentierung und Verbesserung der Daten.
-* Erfahren Sie, wie Sie häufig vorgenommene Fehler beheben können.
-* Welche neuen vordefinierten Dashboards sind verfügbar und wie Sie sie optimal nutzen können
-* Neu verfügbare Metriken und deren Verwendung zur Steigerung von Geschäftseinblicken
+* Umstellung der Mentalität des Reportings auf den Umsatz
+* Entdecken Sie Tipps für Profis zur strategischen Segmentierung und Optimierung von Daten
+* Erfahren Sie, wie Sie häufig gemachte Fehler beheben können
+* Welche neuen vordefinierten Dashboards sind verfügbar und wie können Sie sie optimal nutzen?
+* Neu verfügbare Metriken und deren Verwendung zur Verbesserung der geschäftlichen Erkenntnisse
 * Erstellen und Speichern benutzerdefinierter Berichte

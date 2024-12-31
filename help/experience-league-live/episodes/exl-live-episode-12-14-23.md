@@ -1,6 +1,6 @@
 ---
-title: Countdown bis 2024 mit den fünf wichtigsten neuen Funktionen in Adobe Real-Time CDP
-description: Erfahren Sie, wie Sie mit neuen Funktionen Zielgruppen effektiver und effizienter für eine wirkungsvolle Personalisierung aktivieren können.
+title: Countdown bis 2024 mit den Top 5 der neuen Funktionen in Adobe Real-Time CDP
+description: Erfahren Sie, wie Sie mit neuen Funktionen Zielgruppen effektiver und effizienter aktivieren können, um eine wirkungsvolle Personalisierung zu erzielen.
 jira: KT-14415
 solution: Real-Time Customer Data Platform, Experience Platform
 feature: Destinations, Audiences
@@ -17,36 +17,36 @@ ht-degree: 1%
 
 ---
 
-# Countdown bis 2024 mit den fünf wichtigsten neuen Funktionen in Adobe Real-Time CDP
+# Countdown bis 2024 mit den Top 5 der neuen Funktionen in Adobe Real-Time CDP
 
-Erfahren Sie, wie Sie mit den 2023 veröffentlichten neuen Funktionen Zielgruppen effektiver und effizienter für eine wirkungsvolle Personalisierung aktivieren können.
+Erfahren Sie, wie Sie mit den im Jahr 2023 veröffentlichten neuen Funktionen Zielgruppen effektiver und effizienter aktivieren können, um eine wirkungsvolle Personalisierung zu erzielen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
->[!BEGINSHADEBOX &quot;Haben Sie Fragen?&quot;]
+>[!BEGINSHADEBOX „Haben Sie Fragen?“]
 
-Fahren Sie mit der Diskussion über dieses Thema im Adobe Experience League-Beitrag [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"} fort.
+Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"} fort.
 
 >[!ENDSHADEBOX]
 
 ## Zusammenfassung 
 
-Sind Sie ein aktueller Real-Time CDP-Anwender und suchen nach Einblicken in die neuen Funktionen des Produkts, warum es wichtig ist und wie Adobe Ihnen dabei helfen kann, Ihre Customer Data Management-Strategien zu verbessern? Schauen Sie nicht weiter - Sie sind an die richtige Stelle gekommen! In dieser Serie werden wir uns tief in die kürzlich in Real-Time CDP eingeführten Funktionen eintauchen, damit Sie die neuen Funktionen sofort nutzen und Ihre Organisation beeinflussen können.
+Sind Sie ein aktueller Real-Time CDP-Anwender und suchen nach Einblicken in die neuen Funktionen des Produkts, deren Bedeutung und die Frage, wie Adobe Ihnen helfen kann, Ihre Strategien für das Kundendaten-Management zu verbessern? Schau nicht weiter - du bist an der richtigen Stelle! In dieser Serie gehen wir ausführlich auf die kürzlich in Real-Time CDP eingeführten Funktionen ein, damit Sie sofort von den neuen Funktionen profitieren und sich positiv auf Ihr Unternehmen auswirken können.
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
-In dieser Sitzung werden wir fünf neue Funktionen besprechen und zeigen, die in den letzten Monaten eingeführt wurden:
+In dieser Sitzung besprechen und zeigen wir fünf neue Funktionen, die in den letzten Monaten eingeführt wurden:
 
 1. Berechnete Attribute
-2. Partnerdatenunterstützung
+2. Partner Data Support
 3. Unser neues Zielgruppen-Framework
-4. Look-alike-Zielgruppen
+4. Lookalike-Zielgruppen
 5. Neue Ziele, einschließlich LiveRamp
 
-Nach Abschluss dieser Sitzung sollten Sie Folgendes erwarten:
+Nach dieser Sitzung sollten Sie Folgendes erwarten:
 
-* In einer Live-Demo erfahren Sie, wie diese Funktionen in der Praxis funktionieren.
-* Erfahren Sie, warum diese Funktionen von Bedeutung sind und Ihnen als Praktikant Effizienz und Nutzen bieten.
-* Nutzen Sie diese neuen Funktionen noch heute
-* Beginnen Sie noch heute mit der Verbesserung Ihrer Kundenpersonalisierung!
+* Erfahren Sie in einer Live-Demo, wie diese Funktionen in der Praxis funktionieren
+* Erfahren Sie, warum diese Funktionen wirkungsvoll sind und Ihnen als Anwender Effizienz und Wert bieten
+* in der Lage sein, diese neuen Funktionen schon heute zu nutzen
+* Verbessern Sie noch heute Ihre Kundenpersonalisierung!
 

@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - NOV 22 - Forms, das funktioniert - Nutzung von Client-Bibliotheken und Headless Forms
-description: Forms, das funktioniert - Nutzung von Client-Bibliotheken und Headless-FormularenAdobe Experience Manager Forms hat viele aufregende neue Funktionen für Cloud Service veröffentlicht. Für Formularentwickler ist es manchmal erforderlich, benutzerdefinierte Skripte und JavaScript-Bibliotheken von Drittanbietern zu nutzen, um das Benutzererlebnis in Adobe Experience Manager Forms zu verbessern. In dieser Sitzung erfahren Sie, wie Sie Client-Bibliotheken verwenden und das Skript von Formularautoren ausnutzen können, damit sie einfach Funktionen auswählen können, die für erweiterte Berechnungen, Datumsmanipulationen und benutzerdefinierte modale Fenster erforderlich sind. Außerdem werden wir unsere neuesten Innovationen mit Headless Adaptive Forms präsentieren, sobald Sie ein Formular erstellen können. und verwenden sie in mehreren Kanälen, einschließlich Web, SPA App mithilfe von React und passen Sie die React-App an. Unsere Produktexperten zeigen Ihnen, wie Sie dasselbe Formular für Datenerfassungserlebnisse in interaktiven Kanälen wie WhatApp verwenden können, damit Sie Formulare genau wie gewünscht verwenden können.
+title: Adobe Developers Live - 22. November - Forms, die funktionieren - Nutzung von Client-Bibliotheken und Headless-Forms
+description: Forms, die funktionieren - Nutzung von Client-Bibliotheken und Headless-FormularenAdobe Experience Manager Forms hat viele aufregende neue Funktionen für den Cloud Service veröffentlicht. Für Formularentwickler besteht manchmal die Notwendigkeit, benutzerdefinierte Skripte und JavaScript-Bibliotheken von Drittanbietern zu nutzen, um das Adobe Experience Manager Forms-Benutzererlebnis zu verbessern. In dieser Sitzung zeigen wir Ihnen, wie Sie Client-Bibliotheken verwenden und die Skripterstellung Formularautoren entziehen können, sodass sie Funktionen einfach auswählen können, die für erweiterte Berechnungen, Datumsbearbeitung und benutzerdefinierte modale Fenster erforderlich sind. Wir werden auch unsere neuesten Innovationen mit Headless Adaptive Forms präsentieren, wo Sie ein Formular einmal erstellen und in mehreren Kanälen verwenden können, einschließlich Web, SPA-App mit React und Anpassung der React-App.Unsere Produktexperten zeigen, wie Sie dasselbe Formular für Datenerfassungserlebnisse in interaktiven Kanälen wie Whats. So können Sie Formulare arbeiten So, wie Sie es wollen.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,14 +20,14 @@ ht-degree: 0%
 
 ---
 
-# Forms, das funktioniert - Nutzung von Client-Bibliotheken und Headless Forms
+# Forms, die funktionieren - Nutzung von Client-Bibliotheken und Headless-Forms
 
-Adobe Experience Manager Forms hat viele aufregende neue Funktionen auf dem Cloud Service veröffentlicht. Für Formularentwickler ist es manchmal erforderlich, benutzerdefinierte Skripte und JavaScript-Bibliotheken von Drittanbietern zu verwenden, um das Benutzererlebnis in Adobe Experience Manager Forms zu verbessern.
+Adobe Experience Manager Forms hat viele aufregende neue Funktionen auf dem Cloud Service veröffentlicht. Bei Formularentwicklern besteht manchmal die Notwendigkeit, benutzerdefinierte Skripte und JavaScript-Bibliotheken von Drittanbietern zu nutzen, um das Adobe Experience Manager Forms-Benutzererlebnis zu verbessern.
 
-In dieser Sitzung zeigen wir Ihnen, wie Sie Client-Bibliotheken verwenden und das Skript aus den Händen der Formularautoren entfernen können, sodass sie einfach Funktionen auswählen können, die für erweiterte Berechnungen, Datumsmanipulationen und benutzerdefinierte modale Fenster erforderlich sind.
+In dieser Sitzung zeigen wir Ihnen, wie Sie Client-Bibliotheken verwenden und die Skripterstellung für Formularautoren überflüssig machen, sodass diese einfach Funktionen auswählen können, die für erweiterte Berechnungen, Datumsbearbeitung und benutzerdefinierte modale Fenster erforderlich sind.
 
-Außerdem werden wir unsere neuesten Innovationen mit Headless Adaptive Forms präsentieren, mit denen Sie ein Formular einmal erstellen und in mehreren Kanälen verwenden können, darunter Web, SPA App mithilfe von React und Anpassen der React-App.
+Wir werden auch unsere neuesten Innovationen mit Headless Adaptive Forms präsentieren, wo Sie ein Formular einmal erstellen und es in mehreren Kanälen verwenden können, einschließlich Web, SPA-App mit React und Anpassung der React-App.
 
-Unsere Produktexperten zeigen Ihnen, wie Sie dasselbe Formular für Datenerfassungserlebnisse in interaktiven Kanälen wie WhatApp verwenden können, damit Sie Formulare genau wie gewünscht verwenden können.
+Unsere Produktexperten zeigen Ihnen, wie Sie dasselbe Formular für Datenerfassungserlebnisse in interaktiven Kanälen wie WhatsApp verwenden können - damit Formulare genau so funktionieren, wie Sie es wünschen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411301/?quality=12&learn=on)

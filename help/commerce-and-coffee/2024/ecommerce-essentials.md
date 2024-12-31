@@ -1,6 +1,6 @@
 ---
-title: Commerce & Coffee - E-Commerce-Grundlagen meistern
-description: Corey Gelato behandelt E-Commerce-Grundlagen zu Adobe Commerce und hebt Strategien für personalisierte Merchandising, Treueprogramme, optimierte Zahlungen und Versand sowie wirksame Marketingkampagnen hervor, um Kundeninteraktionen, Kundenbindung und Konversionen zu fördern.
+title: Commerce und Kaffee - E-Commerce-Grundlagen meistern
+description: Corey Gelato's Session behandelt eCommerce Essentials auf Adobe Commerce und hebt Strategien für personalisiertes Merchandising, Treueprogramme, optimierte Zahlungen und Versand sowie effektive Marketing-Kampagnen zur Förderung von Kundeninteraktion, Kundenbindung und Konversionen hervor.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -17,30 +17,30 @@ ht-degree: 0%
 
 # Commerce &amp; Coffee: E-Commerce-Grundlagen meistern
 
-In dieser Sitzung untersucht Senior Commerce Strategy Consultant, Corey Gelato, die wesentlichen Elemente des E-Commerce-Erfolgs auf Adobe Commerce. Erfahren Sie, wie Sie mühelos maßgeschneiderte Promotions erstellen und Treueprogramme nutzen können, damit Kunden Konversionen fördern und gleichzeitig Kundenerlebnisse personalisieren können. Wir bieten Ihnen einen Überblick darüber, wie Sie Ihre Zahlungen und Sendungen mit nativer Unterstützung von Zahlungsmethoden und Versandunternehmen optimieren können.
+In dieser Sitzung untersucht der Senior Commerce Strategy Consultant, Corey Gelato, die wesentlichen Elemente des E-Commerce-Erfolgs auf Adobe Commerce. Entdecken Sie, wie Sie mühelos maßgeschneiderte Angebote erstellen und Treueprogramme für Kunden nutzen können, um Konversionen zu fördern und gleichzeitig Kundenerlebnisse zu personalisieren. Wir bieten Ihnen einen Überblick darüber, wie Sie Ihre Zahlungen und den Versand mit nativer Unterstützung von Zahlungsmethoden und Versandunternehmen optimieren können.
 
-Corey wird auch eine Live-Demonstration von Kategorievermarktungstechniken von manueller Organisation über automatisiertere Smart-Product-Zuweisungen bis hin zu Best Practices für Content und Customer Management präsentieren.
+Corey wird auch eine Live-Demonstration von Kategorie-Merchandising-Techniken vorstellen, die von der manuellen Organisation bis hin zu stärker automatisierten Smart-Produkt-Zuweisungen sowie Best Practices für Content- und Kundenverwaltung reichen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429437/?learn=on)
 
 ## Wichtigste Punkte
 
-Die 3 wichtigsten Takeaways aus dem Webinar &quot;Mastering eCommerce Essentials&quot; mit Cory Gelato:
+Die drei wichtigsten Erkenntnisse aus dem Webinar „Mastering eCommerce Essentials“ mit Cory Gelato:
 
 **Merchandising und Personalization**
 
-* Die Verwendung maschineller Lernalgorithmen für Merchandising kann den Umsatz und die Kundenzufriedenheit erheblich beeinträchtigen.
-* Personalisierte Produktempfehlungen, die auf individuellen Kundenerlebnissen basieren, erhöhen die Interaktions- und Konversionsraten.
+* Die Verwendung von Machine-Learning-Algorithmen für das Merchandising kann sich erheblich auf den Umsatz und die Kundenzufriedenheit auswirken.
+* Personalisierte Produktempfehlungen, die auf individuellen Kundenerlebnissen basieren, verbessern Interaktions- und Konversionsraten.
 * Effektive Merchandising-Regeln in Kombination mit maschinellem Lernen führen zu maßgeschneiderten Empfehlungen, die das Einkaufserlebnis insgesamt verbessern.
 
-**Marketing- und Promotionsstrategie**
+**Marketing- und Werbestrategie**
 
-* Marketing und Promotions sind für erfolgreiche E-Commerce-Strategien unerlässlich, die sowohl auf Verbraucher als auch auf Unternehmen ausgerichtet sind.
-* Strategien wie Rabatte, Sonderangebote und Treueprogramme fördern Käufe, fördern Konversionen und fördern die Kundentreue.
-* Die Nutzung mehrerer Kanäle wie Social Media, E-Mail-Marketing und SEO verbessert die Kundeninteraktion und -bindung.
+* Marketing- und Werbeaktionen sind für erfolgreiche E-Commerce-Strategien, die sowohl an Verbraucher als auch an Unternehmen gerichtet sind, von entscheidender Bedeutung.
+* Strategien wie Rabatte, Sonderangebote und Treueprogramme bieten Anreize für Käufe, fördern Konversionen und fördern die Kundentreue.
+* Durch die Nutzung mehrerer Kanäle wie Social Media, E-Mail-Marketing und SEO werden Kundeninteraktion und Kundenbindung verbessert.
 
 **Kundensegmentierung für personalisierte Erlebnisse**
 
-* Die Verwendung von Kundenattributen und Segmentierung ermöglicht die Erstellung personalisierter Erlebnisse auf der Grundlage von Kundeninteressen wie Fitness-Voreinstellungen, was zu erhöhter Kundeninteraktion und -zufriedenheit führt.
-* Die Implementierung von Treueprogrammen mit Prämienpunkten für verschiedene Aktionen wie Registrierung, Newsletter-Anmeldungen und Verweise kann die Kundenbindung steigern und Anreize für gewünschte Verhaltensweisen schaffen, was letztlich zur Kundenloyalität beiträgt.
-* Das Anpassen von Promotions auf der Grundlage spezifischer Datenpunkte und das Erstellen spezieller Kataloge für verschiedene Kundengruppen durch Kategorieberechtigungen und freigegebene Kataloge kann das Einkaufserlebnis erheblich verbessern und die Kundeninteraktion und Konversionsraten steigern.
+* Durch die Verwendung von Kundenattributen und die Segmentierung können Sie personalisierte Erlebnisse erstellen, die auf Kundeninteressen wie Fitness-Voreinstellungen basieren, was zu einer verbesserten Kundeninteraktion und Kundenzufriedenheit führt.
+* Die Implementierung von Treueprogrammen mit Belohnungspunkten für verschiedene Aktionen wie Registrierung, Newsletter-Anmeldungen und Empfehlungen kann die Kundenbindung steigern, Anreize für gewünschte Verhaltensweisen schaffen und letztendlich die Kundenloyalität fördern.
+* Durch die Anpassung von Werbeaktionen auf der Grundlage spezifischer Datenpunkte und die Erstellung spezieller Kataloge für bestimmte Kundengruppen mithilfe von Kategorieberechtigungen und freigegebenen Katalogen kann das Einkaufserlebnis erheblich verbessert und die Kundeninteraktion und Konversionsraten erhöht werden.

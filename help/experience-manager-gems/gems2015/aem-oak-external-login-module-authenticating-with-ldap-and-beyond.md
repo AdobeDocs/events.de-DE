@@ -1,6 +1,6 @@
 ---
-title: Externes Oak-Anmeldemodul - Authentifizierung mit LDAP und darüber hinaus
-description: Siehe das neue externe Anmeldemodul von Apache Jackrabbit Oak. Erfahren Sie mehr über Details und das Zusammenspiel des Anmeldemoduls, des Synchronisierungshandlers und des Identitäts-Providers. Hier erhalten Sie eine Demonstration der erforderlichen Konfiguration, damit LDAP-Benutzer automatisch zu Authentifizierungszwecken in AEM importiert werden können. Erfahren Sie mehr über Tipps und Tricks, wie Sie das System debuggen können, wenn Dinge nicht sofort funktionieren.
+title: Externes Anmeldemodul von Oak - Authentifizierung mit LDAP und darüber hinaus
+description: Siehe das neue externe Anmeldemodul von Apache Jackrabbit Oak. Lernen Sie die Details und das Zusammenspiel des Anmeldemoduls, des Synchronisierungs-Handlers und des Identitätsanbieters kennen. Hier erhalten Sie eine Demonstration der erforderlichen Konfiguration, damit LDAP-Benutzer zu Authentifizierungszwecken automatisch in AEM importiert werden können. Erfahren Sie Tipps und Tricks zum Debugging des Systems, wenn etwas nicht sofort funktioniert.
 discoiquuid: dbc3dbdf-3bae-4ad8-a4dd-0bd28abebc58
 targetaudience: target-audience advanced
 exl-id: 31d8076c-b61e-4d3d-bc92-0cee1852d026
@@ -12,19 +12,19 @@ ht-degree: 0%
 
 ---
 
-# Externes Oak-Anmeldemodul - Authentifizierung mit LDAP und darüber hinaus{#oak-s-external-login-module-authenticating-with-ldap-and-beyond}
+# Externes Anmeldemodul von Oak - Authentifizierung mit LDAP und darüber hinaus{#oak-s-external-login-module-authenticating-with-ldap-and-beyond}
 
-Siehe das neue externe Anmeldemodul von Apache Jackrabbit Oak. Erfahren Sie mehr über Details und das Zusammenspiel des Anmeldemoduls, des Synchronisierungshandlers und des Identitäts-Providers. Hier erhalten Sie eine Demonstration der erforderlichen Konfiguration, damit LDAP-Benutzer automatisch zu Authentifizierungszwecken in AEM importiert werden können. Erfahren Sie mehr über Tipps und Tricks, wie Sie das System debuggen können, wenn Dinge nicht sofort funktionieren.
+Siehe das neue externe Anmeldemodul von Apache Jackrabbit Oak. Lernen Sie die Details und das Zusammenspiel des Anmeldemoduls, des Synchronisierungs-Handlers und des Identitätsanbieters kennen. Hier erhalten Sie eine Demonstration der erforderlichen Konfiguration, damit LDAP-Benutzer zu Authentifizierungszwecken automatisch in AEM importiert werden können. Erfahren Sie Tipps und Tricks zum Debugging des Systems, wenn etwas nicht sofort funktioniert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19382/?quality=9)
 
-*Ausgestellt am 29. Juli 2015*
+*Veröffentlicht am 29.07.2015*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
-* Tobias Bocanegra, Principal Scientist, Adobe
+* Tobias Bocanegra, Hauptwissenschaftler, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/oak-ldap-cqgems.pdf)
 <!--

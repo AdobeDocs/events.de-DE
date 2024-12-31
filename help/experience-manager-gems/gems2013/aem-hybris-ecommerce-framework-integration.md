@@ -1,6 +1,6 @@
 ---
 title: Integration des hybris/AEM 5.6 eCommerce-Frameworks
-description: Erfahren Sie mehr über unsere Integrationslösung für hybris in AEM. Wir beginnen mit einem Überblick darüber, wie der Connector in das eCommerce-Framework integriert wird und welche allgemeinen Workflows bei der Verwendung dieser Lösung verwendet werden. Dann gehen wir in eine tiefere Diskussion darüber, wie der Connector erweitert und/oder angepasst werden kann, um an projektspezifische Bedürfnisse anzupassen.
+description: Erfahren Sie mehr über unsere Integrationslösung für Hybris in AEM. Wir beginnen mit einem Überblick darüber, wie der Connector in das E-Commerce-Framework integriert wird und welche allgemeinen Workflows bei der Verwendung dieser Lösung verwendet werden. Dann gehen wir näher darauf ein, wie der Connector erweitert und/oder angepasst werden kann, um projektspezifischen Bedürfnissen gerecht zu werden.
 discoiquuid: 7fc5a2ec-df8c-44c1-95d0-050d77f82349
 targetaudience: target-audience advanced
 exl-id: d729b2b1-d279-4204-9101-68df5aee79c0
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 # Integration des hybris/AEM 5.6 eCommerce-Frameworks{#hybris-aem-ecommerce-framework-integration}
 
-In dieser Sitzung präsentieren wir unsere Integrationslösung für Hybris in AEM. Wir beginnen mit einem Überblick darüber, wie der Connector in das eCommerce-Framework integriert wird und welche allgemeinen Workflows bei der Verwendung dieser Lösung verwendet werden. Dann gehen wir in eine tiefere Diskussion darüber, wie der Connector erweitert und/oder angepasst werden kann, um an projektspezifische Bedürfnisse anzupassen.
+In dieser Sitzung stellen wir Ihnen unsere Integrationslösung für Hybris in AEM vor. Wir beginnen mit einem Überblick darüber, wie der Connector in das E-Commerce-Framework integriert wird und welche allgemeinen Workflows bei der Verwendung dieser Lösung verwendet werden. Dann gehen wir näher darauf ein, wie der Connector erweitert und/oder angepasst werden kann, um projektspezifischen Bedürfnissen gerecht zu werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19578/?quality=9)
 
-*Zugestellt am 13. Mai 2013*
+*Veröffentlicht am 13.05.2013*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 Felix Oghina, Adobe Product Developer
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/hybris-aem-5-6-ecommerce-framework-integration.pdf)
 

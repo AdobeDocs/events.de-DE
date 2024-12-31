@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - NOV 22 - Die 10 wichtigsten Tipps zur Beschleunigung Ihrer Adobe Experience Manager-Site
-description: Die 10 wichtigsten Tipps zur Beschleunigung Ihrer Adobe Experience Manager SiteDie hervorragende Erlebnisleistung ist der Schlüssel zum Erlebniserfolg. In dieser Sitzung werden wir unsere 10 wichtigsten Tipps für Best Practices an Sie weitergeben, damit Ihre Entwickler Ihre Adobe Experience Manager-Websites schneller erstellen können.
+title: Adobe Developers Live - 22. November - Die 10 besten Tipps zur Beschleunigung Ihrer Adobe Experience Manager-Site
+description: Die 10 wichtigsten Tipps zur Beschleunigung Ihrer Adobe Experience Manager-SiteDie großartige Leistung des Erlebnisses ist der Schlüssel zum Erfolg des Erlebnisses. In dieser Sitzung geben wir Ihnen unsere 10 besten Best Practices für Tipps, die Ihre Entwickler dabei unterstützen, Ihre Adobe Experience Manager-Websites schneller zu gestalten.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Die 10 wichtigsten Tipps zur Beschleunigung Ihrer Adobe Experience Manager-Site
 
-Große Erlebnisleistung ist der Schlüssel zum Erlebniserfolg. In dieser Sitzung werden wir unsere 10 wichtigsten Tipps für Best Practices an Sie weitergeben, damit Ihre Entwickler Ihre Adobe Experience Manager-Websites schneller erstellen können.
+Eine hervorragende Erlebnisleistung ist der Schlüssel zum Erfolg des Erlebnisses. In dieser Sitzung geben wir Ihnen unsere 10 besten Best Practices für Tipps, die Ihre Entwickler dabei unterstützen, Ihre Adobe Experience Manager-Websites schneller zu gestalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)

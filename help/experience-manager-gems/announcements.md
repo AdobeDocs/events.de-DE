@@ -1,5 +1,5 @@
 ---
-title: Mitteilungen
+title: Ankündigungen
 description: Diese Seite wird angezeigt, wenn bevorstehende Sitzungen noch nicht definiert sind.
 version: Cloud Service
 feature: Release Information
@@ -21,5 +21,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* Informationen zu anstehenden Sitzungen werden Anfang November 2022 folgen.
->* Registrieren Sie sich bei [Adobe AEM Benutzergruppe](https://aem-augs.adobe.com/), um automatisch über bevorstehende Webinare benachrichtigt zu werden.
+>* Informationen zu kommenden Sitzungen folgen Anfang November 2022.
+>* Registrieren Sie sich unter [Adobe in der AEM-Benutzergruppe](https://aem-augs.adobe.com/), um automatisch über bevorstehende Webinare benachrichtigt zu werden.

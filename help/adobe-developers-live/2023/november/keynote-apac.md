@@ -1,6 +1,6 @@
 ---
-title: Entwickler Live-APAC-Tastatur
-description: Nehmen Sie am 14. November 2023 Mark Szulc, Principal Product Manager & APAC Regional Evangelist, und Ron Nagy, Senior Evangelist, an der Adobe Experience Manager Keynote während Adobe Developers Live APAC - Content and Commerce teil.
+title: APAC-Keynote für Entwickler live
+description: Seien Sie dabei, wenn Mark Szulc, Principal Product Manager und APAC Regional Evangelist, und Ron Nagy, Senior Evangelist, am 14. November 2023 bei der Adobe Experience Manager Keynote während Adobe Developers Live APAC - Content and Commerce teilnehmen.
 solution: Commerce, Experience Manager as a Cloud Service
 topic: Development
 role: Admin, Developer
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Live Opening Keynote (APAC) - November 2023
+# Adobe Developers Live-Eröffnungs-Keynote (APAC) - November 2023
 
-Nehmen Sie am 14. November 2023 Mark Szulc, Principal Product Manager &amp; APAC Regional Evangelist, und Ron Nagy, Senior Evangelist, für die Adobe Experience Manager Keynote bei Adobe Developers Live APAC: Content and Commerce teil.
+Seien Sie dabei, wenn Mark Szulc, Principal Product Manager und APAC Regional Evangelist, und Ron Nagy, Senior Evangelist, am 14. November 2023 bei der Adobe Experience Manager Keynote während Adobe Developers Live APAC: Content and Commerce auftreten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426342/?learn=on)

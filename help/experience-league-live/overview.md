@@ -1,6 +1,6 @@
 ---
 title: Experience League LIVE-Ereignisse
-description: Eine Sammlung von Links zu vorherigen Experience League-LIVE-Ereignissen
+description: Eine Sammlung von Links zu vorherigen Experience League LIVE-Ereignissen
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -17,19 +17,19 @@ ht-degree: 3%
 
 # Experience League LIVE 
 
-Experience League LIVE ist eine Live-Streaming-Show des Experience League-Teams.  Sie können sich mit Adobe-Produktexperten verbinden und praktische Tipps, Tricks und Strategien lernen, die Sie mit den Adobe Experience Cloud-Anwendungen anwenden können.
+Experience League LIVE ist eine vom Experience League-Team produzierte Live-Streaming-Show.  Dort haben Sie Gelegenheit, sich mit Adobe-Produktexperten auszutauschen und praktische Tipps, Tricks und Strategien für die Arbeit mit den Adobe Experience Cloud-Programmen kennenzulernen.
 
 <div id="upcoming-events">
 
-## Bevorstehende Experience League LIVE-Ereignisse
+## Anstehende Experience League LIVE-Events
 
 <table>
 <tr>
 
 <td style="vertical-align: top;">
-    Kehren Sie bitte bald auf diese Seite zurück, um weitere bevorstehende Episoden von Experience League LIVE zu sehen!
+    Bitte kehren Sie bald zu dieser Seite zurück, um weitere bevorstehende Folgen von Experience League LIVE zu sehen!
     </br>
-    Wählen Sie im Inhaltsverzeichnis auf der linken Seite dieser Seite die vorherigen Folgen aus.
+    Wählen Sie im Inhaltsverzeichnis links auf dieser Seite vorherige Folgen aus.
   </td>
 </tr>
 </table>
@@ -54,11 +54,11 @@ Experience League LIVE ist eine Live-Streaming-Show des Experience League-Teams.
 
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience League LIVE Apr. 21" src="episodes/assets/WebBanner-June26-2024.jpg">
+      <img alt="Experience League LIVE, 21. April" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-26-24.md">
-        <strong>Wie die neuesten Adobe Real-Time CDP-Versionen die Nadel für Ihr Unternehmen bewegen können</strong>
+        <strong>Wie die neuesten Adobe Real-Time CDP-Versionen die Nadel für Ihr Unternehmen verschieben können</strong>
       </a>
       <br/><em>mit Nina Caruso, Rudi Shumpert und Doug Moore</em>
       <br/><em>26. Juni 2024</em>
@@ -67,10 +67,10 @@ Experience League LIVE ist eine Live-Streaming-Show des Experience League-Teams.
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-16-24.md">
-      <img alt="Experience League LIVE ep8" src="episodes/assets/WebBanner-May16-2024.jpg">
+      <img alt="Experience League LIVE EP8" src="episodes/assets/WebBanner-May16-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-05-16-24.md"><strong>So migrieren Sie Analytics auf Web SDK</strong></a>
+      <a href="episodes/exl-live-episode-05-16-24.md"><strong>So migrieren Sie Analytics zu Web SDK</strong></a>
       <br/><em>mit Mitch Rice, Joe Khoury und Doug Moore</em>
       <br/><em>16. Mai 2024</em>
     </div>
@@ -78,11 +78,11 @@ Experience League LIVE ist eine Live-Streaming-Show des Experience League-Teams.
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
-      <img alt="Experience League LIVE 26. Mai" src="episodes/assets/WebBanner-Apr24-2024.jpg">
+      <img alt="Experience League LIVE, 26. Mai" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-04-24-24.md">
-        <strong> Neuer code-basierter Erlebniskanal in Journey Optimizer</strong>
+        <strong>Neuer Code-basierter Erlebniskanal in Journey Optimizer</strong>
       </a>
       <br/><em>mit Sandra Hausmann, Robert Calangiu und Brent Kostak</em>
       <br/><em>24. April 2024</em>
@@ -95,5 +95,5 @@ Experience League LIVE ist eine Live-Streaming-Show des Experience League-Teams.
 
 >[!TIP]
 >
->Weitere Lernmethoden finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
+>Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
 

@@ -1,6 +1,6 @@
 ---
-title: Kombinierbare Commerce-Strategien für skalierbaren und agilen E-Commerce
-description: Nehmen Sie an einem Webinar teil, in dem Sie sich mit der Welt der komponierbaren Architektur beschäftigen und erfahren, wie sie die E-Commerce-Landschaft revolutioniert. Erfahren Sie, wie dieser innovative architektonische Ansatz Unternehmen in die Lage versetzt, flexible, skalierbare und personalisierte Kundenerlebnisse zu schaffen, indem er branchenführende Commerce-Komponenten zusammenstellt und orchestriert.
+title: Zusammensetzbare Commerce-Strategien für skalierbaren und agilen E-Commerce
+description: Nehmen Sie an einem aufschlussreichen Webinar teil, das einen Einblick in die Welt der zusammensetzbaren Architektur und deren Revolutionierung der E-Commerce-Landschaft bietet. Erfahren Sie, wie dieser innovative architektonische Ansatz es Unternehmen ermöglicht, flexible, skalierbare und personalisierte Kundenerlebnisse zu schaffen, indem sie erstklassige Commerce-Komponenten zusammenstellen und orchestrieren.
 solution: Commerce
 topic: Commerce
 role: Leader, Architect, Developer, Data Architect, Admin, User
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# Kombinierbare Commerce-Strategien für skalierbaren und agilen E-Commerce
+# Zusammensetzbare Commerce-Strategien für skalierbaren und agilen E-Commerce
 
-Nehmen Sie an einem Webinar teil, in dem Sie sich mit der Welt der komponierbaren Architektur beschäftigen und erfahren, wie sie die E-Commerce-Landschaft revolutioniert. Erfahren Sie, wie dieser innovative architektonische Ansatz Unternehmen in die Lage versetzt, flexible, skalierbare und personalisierte Kundenerlebnisse zu schaffen, indem er branchenführende Commerce-Komponenten zusammenstellt und orchestriert.
+Nehmen Sie an einem aufschlussreichen Webinar teil, das einen Einblick in die Welt der zusammensetzbaren Architektur und deren Revolutionierung der E-Commerce-Landschaft bietet. Erfahren Sie, wie dieser innovative architektonische Ansatz es Unternehmen ermöglicht, flexible, skalierbare und personalisierte Kundenerlebnisse zu schaffen, indem sie erstklassige Commerce-Komponenten zusammenstellen und orchestrieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420655/?learn=on)

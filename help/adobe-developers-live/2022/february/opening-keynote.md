@@ -1,6 +1,6 @@
 ---
-title: Öffnungs-Keynote
-description: Das Entwickler-Ökosystem war immer für den Erfolg von Magento entscheidend, und das ist für Adobe Commerce und Magento Open Source heute nicht anders. Kick-off ... (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
+title: Keynote zur Eröffnung
+description: Das Entwickler-Ökosystem war schon immer ausschlaggebend für den Erfolg von Magento, und das unterscheidet sich auch heute nicht von Adobe Commerce und Magento Open Source. Start … (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 role: User
 level: Beginner
 kt: 9791
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Öffnungs-Keynote
+# Keynote zur Eröffnung
 
-Das Entwickler-Ökosystem war immer für den Erfolg von Magento entscheidend, und das ist für Adobe Commerce und Magento Open Source heute nicht anders. Beginnen Sie mit einem spannenden Tag mit informativen Inhalten und eindringlichen Diskussionen, zu denen die Adobe Vision für die Plattform, die Weiterentwicklung von Open Source und bevorstehende Verbesserungen bei Entwicklererlebnissen, Erweiterbarkeit, Benutzererlebnisentwicklung und Best Practices für die Site-Wartung gehören.
+Das Entwickler-Ökosystem war schon immer ausschlaggebend für den Erfolg von Magento, und das unterscheidet sich auch heute nicht von Adobe Commerce und Magento Open Source. Starten Sie einen aufregenden Tag mit informativen Inhalten und durchdachten Diskussionen, die die Vision der Adobe für die Plattform, die Entwicklung von Open Source und die bevorstehenden Verbesserungen der Entwicklererfahrung, der Erweiterbarkeit, der Entwicklung von Benutzererlebnissen und der Best Practices für die Site-Wartung umfassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340620/?quality=12&learn=on)

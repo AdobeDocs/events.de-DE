@@ -1,6 +1,6 @@
 ---
-title: Commerce und Kaffee - Personalisierung von E-Commerce-Erlebnissen mit KI
-description: Corey Gelato, Sr. Commerce Strategy Consultant, stellt die KI-gestützten Tools von Adobe Commerce vor, einschließlich prädiktiver Analysen, Produktempfehlungen, Live Search und Chatbots, um personalisierte E-Commerce-Erlebnisse und zielgerichtete Marketing-Kampagnen zu verbessern.
+title: Commerce und Coffee - Personalisieren von E-Commerce-Erlebnissen mit KI
+description: Corey Gelato, Sr. Commerce Strategy Consultant, präsentiert KI-gesteuerte Tools von Adobe Commerce, einschließlich prädiktiver Analysen, Produktempfehlungen, Live-Suche und Chatbots, um personalisierte E-Commerce-Erlebnisse und zielgerichtete Marketing-Kampagnen zu verbessern.
 solution: Commerce
 feature: Personalization, Search, Merchandising
 topic: Commerce, Artificial Intelligence
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Commerce und Kaffee: Personalisierung von E-Commerce-Erlebnissen mit KI
+# Commerce &amp; Coffee: Personalisieren von E-Commerce-Erlebnissen mit KI
 
-Auf dieser Sitzung von Commerce &amp; Coffee führt uns Sr. Commerce Strategy Consultant, Corey Gelato, durch die verfügbaren KI-Funktionen, um E-Commerce-Erlebnisse weiter zu personalisieren. Im Folgenden erfahren Sie, wie die KI-Algorithmen von Adobe Commerce das Kundenverhalten analysieren, Segmente basierend auf ihren Voreinstellungen erstellen und diese Daten verwenden, um über Product Recommendations maßgeschneiderte Produkte vorzuschlagen.
+Auf dieser Sitzung von Commerce &amp; Coffee führt uns Sr. Commerce Strategy Consultant, Corey Gelato, durch die verfügbaren KI-Funktionen, um E-Commerce-Erlebnisse weiter zu personalisieren. Wir gehen darauf ein, wie die KI-Algorithmen von Adobe Commerce das Kundenverhalten analysieren, Segmente basierend auf ihren Präferenzen erstellen und diese Daten verwenden, um über die Produkt-Recommendations maßgeschneiderte Produkte vorzuschlagen.
 
-Corey erläutert außerdem, wie AI bei der Erstellung gezielter Marketing-Kampagnen helfen kann, die bei einzelnen Kunden durch personalisierte Produktbeschreibungen, E-Mails und Website-Banner ankommen. So wichtig es ist, vergangene Daten zu analysieren, kann die Vorhersage zukünftigen Kundenverhaltens genauso wirkungsvoll sein. Mithilfe von Prognoseanalysen können Benutzer die zukünftigen Einkaufstrends ihrer Kunden vorhersagen und so die Möglichkeit für proaktive personalisierte Angebote schaffen. Corey beschreibt, wie man mit Live Search- und Chatbot-Funktionen ein besser personalisiertes Einkaufserlebnis schafft. Anschließend gibt er eine Live-Demonstration von Product Recommendations, Category Merchandising und Live Search frei. Wie immer beantworten wir Kundenfragen live während der Fragen &amp; Antworten!
+Corey hebt auch hervor, wie KI dabei helfen kann, zielgerichtete Marketing-Kampagnen zu erstellen, die durch personalisierte Produktbeschreibungen, E-Mails und Website-Banner bei einzelnen Kunden Anklang finden. So wichtig es auch ist, vergangene Daten zu analysieren, kann die Prognose des zukünftigen Kundenverhaltens ebenso aussagekräftig sein. Mithilfe der prädiktiven Analyse können Benutzer die zukünftigen Kauftrends ihrer Kunden vorhersagen und so die Möglichkeit für proaktive personalisierte Angebote schaffen. Corey beschreibt, wie man mit Live Search- und Chatbot-Funktionen ein besseres personalisiertes Einkaufserlebnis schafft. Anschließend zeigt er eine Live-Demonstration von Produkt-Recommendations, Kategorie-Merchandising und Live-Suche. Wie immer beantworten wir Kundenfragen live bei Fragen und Antworten!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427493/?learn=on)

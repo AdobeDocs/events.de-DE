@@ -1,6 +1,6 @@
 ---
-title: Jenseits der Grenzen - Projektionen für den künftigen Handel
-description: Podiumsdiskussion unter der Leitung von Allyce Truscott von der Adobe über die Herausforderungen und Lösungen für die Führung eines Online-Geschäfts im aktuellen Wirtschaftsklima.
+title: Jenseits der Grenzen - Prognosen für den künftigen Handel
+description: Podiumsdiskussion von Allyce Truscott aus Adobe zu den Herausforderungen und Lösungen für die Führung eines Online-Geschäfts im aktuellen Wirtschaftsklima.
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ---
 
-# Jenseits der Grenzen: Projektionen für den künftigen Handel (Podiumsdiskussion)
+# Jenseits der Grenzen: Prognosen für den künftigen Handel (Podiumsdiskussion)
 
-Podiumsdiskussion unter der Leitung von Allyce Truscott von der Adobe über die Herausforderungen und Lösungen für die Führung eines Online-Geschäfts im aktuellen Wirtschaftsklima.
+Podiumsdiskussion von Allyce Truscott aus Adobe zu den Herausforderungen und Lösungen für die Führung eines Online-Geschäfts im aktuellen Wirtschaftsklima.
 
-Redner:
+Lautsprecher:
 
 + Allyce Truscott, Head of New Business - Digital Experience - Adobe
 + Carolina de Figuerido - Krispy Kreme

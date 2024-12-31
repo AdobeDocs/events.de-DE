@@ -1,6 +1,6 @@
 ---
-title: Selbstinvestition - Adobe [!DNL Marketo Engage] Zertifizierung
-description: Sind Sie neugierig darauf, wie die Zertifizierung Ihre Marketing-Karriere ankurbeln kann? Treten Sie Adobe Marketo Engage Champions bei, während sie ihre Erfahrungen und Tipps zum Studium, zur Vorbereitung und zur Teilnahme an der Prüfung teilen, um ein Marketo-zertifizierter Experte oder Architekt zu werden!
+title: Investieren in sich selbst - Adobe [!DNL Marketo Engage] Zertifizierung
+description: Möchten Sie wissen, wie die Zertifizierung Ihre Marketing-Karriere steigern kann? Werden Sie Mitglied bei Adobe Marketo Engage Champions, die ihre Erfahrungen und Tipps zum Studieren, Vorbereiten und Ablegen der Prüfung zum Marketo Certified Expert oder Architect weitergeben!
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# Selbstinvestition - Adobe [!DNL Marketo Engage]-Zertifizierung
+# Investieren in sich selbst - Adobe [!DNL Marketo Engage] Zertifizierung
 
-Haben Sie sich für den Zertifizierungsprozess interessiert und wie er Ihrer Marketing-Karriere helfen kann? Oder vielleicht interessieren Sie sich für das Studium, die Vorbereitung und die Prüfung? Treten Sie Adobe [!DNL Marketo Engage] Champions bei, wenn sie ihre Journey besprechen, um ein Marketo-zertifizierter Experte oder Architekt zu werden!
+Sie haben sich für den Zertifizierungsprozess interessiert und wissen, wie dieser Ihre Marketing-Karriere unterstützen kann? Oder vielleicht interessieren Sie sich für den Prozess zum Lernen, Vorbereiten und Ablegen der Prüfung? Seien Sie dabei, wenn Adobe [!DNL Marketo Engage] Champions über ihren Journey diskutieren, um ein Marketo Certified Expert oder Architect zu werden!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416760/?quality=12&learn=on)
 
-Klicken Sie für die Sitzungsfolien auf **[hier](assets/certification.pdf){target="_blank"}** .
+Klicken Sie **[hier](assets/certification.pdf){target="_blank"}** für die Sitzungsfolien.

@@ -1,6 +1,6 @@
 ---
-title: Commerce und Kaffee - E-Commerce-Trends
-description: Diese Sitzung vertieft sich in fünf der wichtigsten Trends im eCommerce von heute. Wir diskutieren Strategien und Taktiken über die wichtigsten Trends sowie über die Auswirkungen, die sie bei der Implementierung auf Ihr Unternehmen haben. Corey durchläuft dann eine Demonstration von Event-Tickern, Kategorieberechtigungen, B2B-Funktionen und mehr. Die Präsentation und die Demo werden von einem Live-Q&A mit Corey begleitet.
+title: Commerce und Kaffee - E-Commerce Trends
+description: In dieser Sitzung werden fünf der wichtigsten Trends im E-Commerce von heute vorgestellt. Wir besprechen Strategien und Taktiken rund um die wichtigsten Trends sowie deren Auswirkungen auf Ihr Unternehmen, wenn sie implementiert werden. Corey durchläuft dann eine Demonstration von Event-Tickern, Kategorieberechtigungen, B2B-Funktionen und mehr. Die Präsentation und die Demo werden von einer Live-Q&A mit Corey begleitet.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Commerce und Kaffee - E-Commerce-Trends
+# Commerce und Kaffee - E-Commerce Trends
 
-Diese Sitzung vertieft sich in fünf der wichtigsten Trends im eCommerce von heute. Wir diskutieren Strategien und Taktiken über die wichtigsten Trends sowie über die Auswirkungen, die sie bei der Implementierung auf Ihr Unternehmen haben. Corey durchläuft dann eine Demonstration von Event-Tickern, Kategorieberechtigungen, B2B-Funktionen und mehr. Die Präsentation und die Demo werden von einem Live-Q&amp;A mit Corey begleitet.
+In dieser Sitzung werden fünf der wichtigsten Trends im E-Commerce von heute vorgestellt. Wir besprechen Strategien und Taktiken rund um die wichtigsten Trends sowie deren Auswirkungen auf Ihr Unternehmen, wenn sie implementiert werden. Corey durchläuft dann eine Demonstration von Event-Tickern, Kategorieberechtigungen, B2B-Funktionen und mehr. Die Präsentation und die Demo werden von einer Live-Q&amp;A mit Corey begleitet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412701/?quality=12&learn=on)

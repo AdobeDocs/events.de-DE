@@ -1,6 +1,6 @@
 ---
-title: Globales Marketing mit Marketo Engage entsperren - Adobe Champion Deep Dive - August 2024
-description: Nehmen Sie an der Deep Dive im August teil, um das globale Marketing mit Marketo Engage zu ermöglichen. Hier erhalten Sie Informationen zur Datenstrukturierung, zur Einhaltung gesetzlicher Vorschriften, zur Kampagnenunterstützung mit Segmentierungen, Snippets, dynamischen Inhalten und mehr sowie Einblicke in die Optimierung von Arbeitsbereichen und Partitionen für mehrere Marken und Instanzen.
+title: Globales Marketing mit Marketo Engage - Adobe Champion Deep Dive - August 2024
+description: Machen Sie sich mit auf den August Deep Dive, um globales Marketing mit Marketo Engage zu erschließen. Es geht um Datenstrukturierung, rechtliche Compliance, Kampagnenunterstützung mit Segmentierungen, Snippets, dynamische Inhalte und mehr sowie um Einblicke in die Optimierung von Arbeitsbereichen und Partitionen für mehrere Marken und Instanzen.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 ---
 
-# Globales Marketing mit Marketo Engage entsperren - Adobe Champion Deep Dive - August 2024
+# Globales Marketing mit Marketo Engage - Adobe Champion Deep Dive - August 2024
 
-Ihr Unternehmen ist bereit, Marketo Engage zu nutzen, um mehrere Sprachen, Länder, Geschäftseinheiten und/oder Produkte zu unterstützen, und Sie möchten diese Transformation auf die richtige Weise starten. Nehmen Sie an der August Deep Dive teil, um einen umfassenden Leitfaden zu den Komplexität der Einführung, Pflege und Berichterstattung zu globalen Marketinginitiativen zu erhalten. Wir werden uns mit der Strukturierung Ihrer Daten und Instanzen mithilfe von Arbeitsbereichen und Partitionen, der Anpassung an die unterschiedlichen rechtlichen Anforderungen weltweit und der Unterstützung Ihrer Kampagnen mit Segmentierungen, Snippets, dynamischen Inhalten und mehr befassen.
+Ihr Unternehmen ist bereit, Marketo Engage für die Unterstützung mehrerer Sprachen, Länder, Geschäftsbereiche und/oder Produkte zu nutzen, und Sie möchten diese Umstellung auf dem richtigen Weg beginnen. Seien Sie dabei, wenn wir Ihnen im August Deep Dive einen umfassenden Leitfaden zu den Feinheiten der Einführung, Pflege und Berichterstellung zu globalen Marketing-Initiativen vorstellen. Wir behandeln, wie Sie Ihre Daten und Instanzen mithilfe von Arbeitsbereichen und Partitionen strukturieren, wie Sie unterschiedliche rechtliche Anforderungen auf der ganzen Welt erfüllen und wie Sie Ihre Kampagnen mit Segmentierungen, Snippets, dynamischen Inhalten und mehr unterstützen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433245/?learn=on)
 
@@ -26,31 +26,31 @@ Ihr Unternehmen ist bereit, Marketo Engage zu nutzen, um mehrere Sprachen, Länd
 
 ### Bedeutung des globalen Marketings
 
-* Erörtert wurde die Nutzung von Marketo Engage für mehrere Sprachen, Länder, Geschäftseinheiten und Produkte.
-* Hervorgehoben wurden die Anforderungen an das Scoping, das Verständnis und die Einhaltung rechtlicher Anforderungen.
-* Hervorgehobene Komplexität wie kulturelle Nuancen, Sprachüberlegungen und die Beibehaltung einer konsistenten, aber lokal relevanten Botschaft.
+* Es wurde die Verwendung von Marketo Engage für mehrere Sprachen, Länder, Geschäftsbereiche und Produkte diskutiert.
+* Hervorgehobene Anforderungen an Umfang, Verständnis und Einhaltung gesetzlicher Anforderungen.
+* Hervorgehobene Komplexität wie kulturelle Nuancen, Sprachüberlegungen und die Pflege einer konsistenten, aber dennoch lokal relevanten Botschaft.
 
 ### Strukturieren von Marketo-Instanzen
 
-* Einblicke in die Organisation von Instanzen basierend auf Regionen, Geschäftseinheiten oder Produkten.
-* Verwendung von persönlichen Partitionen für ein effektives Datenmanagement.
+* Einblicke in das Organisieren von Instanzen basierend auf Regionen, Geschäftseinheiten oder Produkten.
+* Verwendung von persönlichen Partitionen für eine effektive Datenverwaltung.
 * Strategien zum Verschieben von Personen zwischen Partitionen mithilfe intelligenter Kampagnen und Zuweisungsregeln.
-* Stress auf die frühzeitige Planung und Strukturierung von Daten für Skalierbarkeit und rechtliche Einhaltung.
+* Betonung auf die frühzeitige Planung und Strukturierung von Daten für Skalierbarkeit und Einhaltung gesetzlicher Vorschriften.
 
-### Datenverwaltung und Datenschutz - Compliance
+### Daten-Management und Einhaltung von Datenschutzbestimmungen
 
-* Wichtigkeit des Verständnisses und der Einhaltung der DSGVO und lokaler Datenschutzrichtlinien.
-* Collaboration mit juristischen Teams für die Richtlinienentwicklung.
-* Best Practices für das Datenmanagement wie die selektive Datenerfassung, sichere Speicherung und Datenlöschung auf Anfrage.
-* Diskussion über Präferenzzentren für die Benutzerdatenkontrolle.
+* Bedeutung des Verständnisses und der Einhaltung der DSGVO und lokaler Datenschutzrichtlinien.
+* Collaboration mit Rechtsexperten für die Politikentwicklung.
+* Best Practices für das Daten-Management, z. B. selektive Datenerfassung, sichere Speicherung und Datenlöschung auf Anfrage.
+* Erläuterung von Präferenzzentren für die Benutzerdatenkontrolle.
 
-### Personalization und Testen von E-Mail-Inhalten
+### E-Mail-Inhalt Personalization und Tests
 
-* Verwenden von Velocity-Skripten für personalisierte E-Mail-Inhalte.
-* Teststrategien für die dynamische Inhaltsoptimierung.
+* Verwendung von Velocity-Scripting für personalisierte E-Mail-Inhalte
+* Teststrategien für die Optimierung dynamischer Inhalte.
 
 ### Workspace- und Partitionsoptimierung
 
-* Einblicke in die Optimierung von Arbeitsbereichen und Partitionen für mehrere Marken und Instanzen.
+* Erkenntnisse zur Optimierung von Arbeitsbereichen und Partitionen für mehrere Marken und Instanzen.
 
-Dieses Webinar bietet umfassende Anleitungen zu globalen Marketingstrategien, zur Marketo Engage-Nutzung, zu Best Practices für das Datenmanagement, zur Einhaltung der Datenschutzbestimmungen und zur Personalisierung von E-Mail-Inhalten für wirksame globale Kampagnen.
+Dieses Webinar bietet umfassende Informationen zu globalen Marketing-Strategien, zur Marketo Engage-Nutzung, zu Best Practices für das Daten-Management, zur Einhaltung von Datenschutzbestimmungen und zur Personalisierung von E-Mail-Inhalten für effektive globale Kampagnen.

@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - NOV 22 - Einbinden von In-Context- und Headless-Authoring in Ihre nächste JS-App
-description: Die Integration von In-Context- und Headless-Authoring in Next.JS AppNext.js bietet eine hervorragende Entwicklererfahrung zum Erstellen von React-Apps, die produktionsbereit sind, insbesondere mit hybridem statischem und Server-Rendering. Es ist ein ideales Bereitstellungsgerät für Websites, die von Adobe Experience Manager unterstützt werden. In dieser Sitzung erfahren Sie, wie Sie schnell eine neue Next.js-App mit Adobe Experience Manager-Inhalten bootstrapping durchführen können.Verwenden Sie das React-Bearbeitbare SDK, um kontextbezogene Bearbeitung zu aktivieren.Abrufen von Inhalten von Headless-CMS von Adobe Experience Manager und Rendern in der Next.js-App
+title: Adobe Developers Live - 22. November - Nutzen Sie Ihre Next.js-App für kontextbezogenes und Headless-Authoring
+description: Die Integration von kontextbezogenem und Headless-Authoring in Ihre Next.js-AppNext.js bietet großartige Entwicklererfahrung beim Erstellen von React-Apps, die für die Produktion bereit sind, insbesondere mit hybridem statischem und Server-Rendering. Es ist ein perfektes Bereitstellungsinstrument für Sites, die von Adobe Experience Manager unterstützt werden. In dieser Sitzung zeigen wir Ihnen, wie Sie schnell eine neue Next.js-App bootstrappen können, die mit Adobe Experience Manager-Inhalten arbeitet. Verwenden Sie React Editable SDK, um die kontextbezogene Bearbeitung zu aktivieren. Abrufen von Inhalten aus Adobe Experience Manager Headless CMS und Rendern in der Next.js-App
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,14 +20,14 @@ ht-degree: 0%
 
 ---
 
-# Die Bearbeitung im Kontext und ohne Headless-Elemente in Ihre nächste JS-App integrieren
+# Integrieren von kontextbezogenem und Headless-Authoring in Ihre Next.js-App
 
-Next.js bietet eine hervorragende Entwicklererfahrung zum Erstellen von React-Apps, die produktionsbereit sind, insbesondere mit hybridem statischem und Server-Rendering. Es ist ein perfektes Lieferfahrzeug für Standorte mit Adobe Experience Manager.
+Next.js bietet großartige Entwicklererfahrung beim Erstellen von React-Apps, die für die Produktion bereit sind, insbesondere mit hybridem statischem und Server-Rendering. Es ist ein perfektes Lieferfahrzeug für Standorte mit Adobe Experience Manager.
 
-In dieser Sitzung werden wir Ihnen zeigen, wie Sie:
+In dieser Sitzung zeigen wir Ihnen, wie Sie:
 
 * Schnelles Bootstrapping einer neuen Next.js-App, die mit Adobe Experience Manager-Inhalten arbeitet
-* Verwenden des React Editable SDK zum Aktivieren der kontextbezogenen Bearbeitung
-* Abrufen von Inhalten aus dem Headless-CMS von Adobe Experience Manager und Rendern im Next.js-Programm
+* Verwenden von bearbeitbarem React-SDK zum Aktivieren von kontextbezogener Bearbeitung
+* Abrufen von Inhalten aus Adobe Experience Manager Headless CMS und Rendern in der Next.js-App
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411303/?quality=12&learn=on)

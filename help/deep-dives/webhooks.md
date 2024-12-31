@@ -1,6 +1,6 @@
 ---
-title: Adobe Marketo Engage Champion Deep Dive - Verwenden von Webhooks zum Übertragen von Daten
-description: Erfahren Sie, wie Sie mit Darshil Shah und Josh Arrington mithilfe von Webhooks in Marketo effizient Daten übertragen können. Diese Informationen decken die strukturierte Datenverarbeitung, Fehlerverwaltung, Authentifizierungsmethoden und praktische Anwendungsfälle wie CRM-Integration und E-Commerce ab, moderiert von John Grundy.
+title: Detaillierte Einblicke in Adobe Marketo Engage Champions - Verwendung von Webhooks zur Datenübertragung
+description: Erfahren Sie, wie Sie mithilfe von Webhooks in Marketo mit Darshil Shah und Josh Arrington Daten effizient übertragen können. Sie behandeln strukturierte Datenverarbeitung, Fehlermanagement, Authentifizierungsmethoden und praktische Anwendungsfälle wie CRM-Integration und E-Commerce unter der Moderation von John Grundy.
 feature: Webhooks, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -16,18 +16,18 @@ ht-degree: 0%
 
 ---
 
-# Verwenden von Webhooks zum Übertragen von Daten
+# Verwenden von Webhooks zur Datenübertragung
 
-Manchmal ist das gesamte Spektrum der Erstellung, des Testens und der Bereitstellung einer API nicht erforderlich. Stattdessen können Sie selbst mit einem Webhook arbeiten, um eine Vielzahl von Datenübertragungen in Ihr CRM-System oder andere integrierte Systeme durchzuführen. Nehmen Sie an Darshil Shah und Josh Arrington teil, um zu erfahren, wie Sie diese Funktion nutzen und sich schnell zur Effizienz bewegen können! Moderiert von John Grundy.
+Manchmal ist die gesamte Rolle des Erstellens, Testens und Bereitstellens einer API nicht erforderlich. Stattdessen können Sie sich selbst mit einem Webhook versorgen, um eine Vielzahl von Datenübertragungen in Ihr CRM-System oder andere integrierte Systeme auszuführen. Kommen Sie zu Darshil Shah und Josh Arrington und erfahren Sie, wie Sie diese Funktion nutzen und sich schnell zur Effizienz bewegen können! Moderiert von John Grundy.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428687/?learn=on)
 
-Diese Veranstaltung bietet einen umfassenden Überblick über Webhooks in Marketo und bietet praktische Ratschläge zur effektiven Nutzung. Die Redner erläutern die Verwendung von Webhooks zum strukturierten Senden und Empfangen von Daten, empfehlen die Verwendung von GET- und POST-Anfragen und weisen darauf hin, dass Webhooks mit JSON- oder XML-Formaten verwendet werden können. Sie zeigen verschiedene Anwendungsfälle für Webhooks auf, darunter CRM-Integration, Ereignisverwaltung, E-Commerce und Cloud-Speicher. Die Wichtigkeit der Fehlerbehebung wird hervorgehoben, mit Tipps zum Umgang mit Fehlern, zur Automatisierung der Wiederherstellung und zum Einrichten von Warnhinweisen. Authentifizierungsmethoden wie API-basierte Authentifizierung, einfache Authentifizierung und OAuth 2.0-Authentifizierung werden besprochen und empfohlen, OAuth 2.0 für eine bessere Sicherheit zu verwenden. Implementierungsdetails umfassen die Verwendung von Webhooks in Trigger-Kampagnen und Batch-Kampagnen sowie Einschränkungen wie die Zeitüberschreitungsgrenze von 30 Sekunden und die sorgfältige Verarbeitung großer Datensätze. Insgesamt bietet das Webinar wertvolle Einblicke in die effektive Nutzung von Webhooks in Marketo.
+Diese Veranstaltung bietet einen umfassenden Überblick über Webhooks in Marketo und praktische Ratschläge zu ihrer effektiven Verwendung. Die Sprecher erklären die Verwendung von Webhooks für das strukturierte Senden und Empfangen von Daten, empfehlen die Verwendung von GET- und POST-Anfragen und erwähnen, dass Webhooks mit JSON- oder XML-Formaten verwendet werden können. Sie heben verschiedene Anwendungsfälle für Webhooks hervor, einschließlich CRM-Integration, Ereignis-Management, E-Commerce und Cloud-Speicher. Es wird die Bedeutung der Fehlerbehandlung mit Tipps zum Umgang mit Fehlern, zur Automatisierung der Wiederherstellung und zum Einrichten von Warnhinweisen hervorgehoben. Authentifizierungsmethoden wie API-basierte Authentifizierung, Standardauthentifizierung und OAuth 2.0-Authentifizierung werden besprochen, wobei empfohlen wird, OAuth 2.0 für eine bessere Sicherheit zu verwenden. Zu den Implementierungsdetails gehören die Verwendung von Webhooks in Trigger- und Batch-Kampagnen sowie Einschränkungen wie das 30-Sekunden-Timeout und die sorgfältige Handhabung großer Datensätze. Insgesamt bietet das Webinar wertvolle Einblicke in die effektive Verwendung von Webhooks in Marketo.
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
-* Webhooks in Marketo bieten eine strukturierte Möglichkeit zum Senden und Empfangen von Daten, die JSON- oder XML-Formate unterstützen.
-* Webhooks bieten verschiedene Anwendungsfälle, darunter CRM-Integration, Ereignisverwaltung, E-Commerce und Cloud-Speicher.
-* Der Umgang mit Fehlern ist von entscheidender Bedeutung. Es ist wichtig, Prozesse zur Fehlerbehebung, zur Automatisierung der Wiederherstellung und zur Einrichtung von Warnhinweisen für unerwartete Fehler einzurichten.
-* Zu den Authentifizierungsmethoden für Webhooks gehören API-basierte Authentifizierung, einfache Authentifizierung und OAuth 2.0-Authentifizierung.
-* Es ist wichtig, die Einschränkungen zu berücksichtigen, wie z. B. die 30-Sekunden-Timeout-Beschränkung und die Notwendigkeit einer sorgfältigen Verarbeitung großer Datensätze.
+* Webhooks in Marketo bieten eine strukturierte Möglichkeit zum Senden und Empfangen von Daten und unterstützen dabei JSON- oder XML-Formate.
+* Webhooks verfügen über verschiedene Anwendungsfälle, darunter CRM-Integration, Ereignis-Management, E-Commerce und Cloud-Speicher.
+* Die Fehlerbehandlung ist wichtig, und es ist wichtig, Prozesse einzurichten, um Fehler zu behandeln, die Wiederherstellung zu automatisieren und Warnungen für unerwartete Fehler einzurichten.
+* Zu den Authentifizierungsmethoden für Webhooks gehören API-basierte Authentifizierung, Standardauthentifizierung und OAuth 2.0-Authentifizierung.
+* Es ist wichtig, die Einschränkungen zu berücksichtigen, wie z. B. die maximale Wartezeit von 30 Sekunden und die Notwendigkeit einer sorgfältigen Handhabung großer Datensätze

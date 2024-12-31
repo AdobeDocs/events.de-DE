@@ -1,6 +1,6 @@
 ---
-title: Spotlight - Adobe Journey Optimizer muss drei Funktionen testen
-description: Steigern Sie Ihre Kundeninteraktion in diesem Sommer mit den drei Funktionen von Adobe Journey Optimizer - Journey-Experimentierung, Frequenzlimitierung und mehrsprachiges Messaging
+title: Summer Spotlight - Drei Funktionen müssen in Adobe Journey Optimizer ausprobiert werden
+description: Verbessern Sie die Kundenbindung noch in diesem Sommer mit den drei Funktionen von Adobe Journey Optimizer - Journey-Experimentieren, Frequenzlimitierung und mehrsprachiges Messaging.
 kt: 15471
 solution: Journey Optimizer
 feature: Experimentation, Frequency Rules
@@ -16,18 +16,18 @@ ht-degree: 0%
 
 ---
 
-# Spotlight - Adobe Journey Optimizer muss drei Funktionen testen
+# Summer Spotlight - Drei Funktionen müssen in Adobe Journey Optimizer ausprobiert werden
 
-Steigern Sie Ihre Kundeninteraktion in diesem Sommer mit den drei Funktionen von Adobe Journey Optimizer: Journey-Experimentierung, Frequenzlimitierung und mehrsprachiges Messaging.
+Verbessern Sie Ihre Kundeninteraktion in diesem Sommer mit den drei Funktionen von Adobe Journey Optimizer: Journey-Experimentieren, Frequenzlimitierung und mehrsprachiges Messaging.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433225/?learn=on)
 
 
 **Details anzeigen**:
-Je mehr der Sommer aufbläst, desto größer sind auch die Möglichkeiten, mit Ihren Kunden auf neue und wirkungsvolle Weise zu interagieren. Nehmen Sie an einer einstündigen Experience League-Live für Journey Optimizer-Experten teil, egal ob Sie Marketingoperationen, Kampagnen-/Journey-Management oder Kundenerlebnisse betreiben, in denen wir uns mit den leistungsstarken Funktionen von Adobe Journey Optimizer beschäftigen.
+Mit der Erwärmung des Sommers eröffnen sich neue und wirkungsvolle Möglichkeiten, mit Ihren Kunden zu interagieren. Seien Sie dabei, wenn wir eine einstündige Experience League-Live-Sitzung für Journey Optimizer-Fachleute organisieren, egal ob Sie im Marketing-Bereich, im Kampagnen-/Journey-Management oder im Kundenerlebnis tätig sind. Wir informieren Sie über die leistungsstarken Funktionen von Adobe Journey Optimizer.
 
-Erfahren Sie, wie Sie mit Journey-Experimenten Ihre Kundeninteraktionen optimieren können, um optimale Ergebnisse in Ihren Journey zu erzielen. Erfahren Sie, wie Sie die Frequenzlimitierung implementieren, um eine Überkommunikation zu vermeiden und sicherzustellen, dass Ihre Nachrichten auf die Marke gesetzt werden. Informieren Sie sich über die Vorteile mehrsprachiger Nachrichten, um mit unterschiedlichen Zielgruppen in ihren bevorzugten Sprachen zu kommunizieren.
+Erfahren Sie, wie Sie mit Journey-Experimenten Ihre Kundeninteraktionen optimieren können, um in allen Ihren Journey optimale Ergebnisse zu erzielen. Erfahren Sie, wie Sie eine Frequenzlimitierung implementieren, um Überkommunikation zu vermeiden und sicherzustellen, dass Ihre Nachrichten das Ziel erreichen. Erkunden Sie die Vorteile mehrsprachiger Nachrichten, um mit verschiedenen Zielgruppen in ihren bevorzugten Sprachen in Kontakt zu treten.
 
-Diese Sommerzeit-Veranstaltung wird Ihre kanalübergreifenden Marketingstrategien verbessern und die Interaktionsmöglichkeiten der Saison optimal nutzen. Verpassen Sie nicht diese Chance, die Journey und Kampagnen Ihrer Kunden zu erhöhen, um den Erfolg mit Adobe Journey Optimizer zu fördern.
+Diese Sommerveranstaltung wird Ihre Omni-Channel-Marketing-Strategien verbessern und das Beste aus den Interaktionsmöglichkeiten der Saison machen. Lassen Sie sich diese Chance nicht entgehen, Ihre Kunden-Journey und -Kampagnen für mehr Erfolg mit Adobe Journey Optimizer zu sorgen.
 
-**Fahren Sie die Diskussion auf der [Adobe Journey Optimizer Community Q&amp;A Coffee Break](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu[...]ugust-28th-8-30-am-pt-supercharge-your/td-p/697931) im Journey Optimizer Community Forum fort.**
+**Setzen Sie die Diskussion bei der [Adobe Journey Optimizer Community Q&amp;A Coffee Break](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu[…]28.-8-30-am-pt-supercharge-your/td-p/697931) im Journey Optimizer Community Forum fort.**

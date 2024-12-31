@@ -1,6 +1,6 @@
 ---
-title: Entwicklung Ihres Audience Center of Excellence
-description: Ein Audience Center of Excellence (COE)-Modell wurde seit langem als optimale Methode zur Unterstützung von Data Management Platform (DMPs) entwickelt.
+title: Weiterentwicklung Ihres Audience Center of Excellence
+description: Ein Modell für ein Audience Center of Excellence (COE) ist seit langem die optimale Methode zur Unterstützung von Data Management-Plattformen (DMPs).
 solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Entwicklung Ihres Audience Center of Excellence
+# Weiterentwicklung Ihres Audience Center of Excellence
 
-Als Plattformen, die die Verwaltung von Kundendaten erleichtern, müssen sich auch Zielgruppen und Aktivierungsprogramme entwickeln. Auch die Personen und Prozesse, die diese Plattformen unterstützen. Ein Audience Center of Excellence (COE)-Modell wurde seit langem als optimale Methode zur Unterstützung von Data Management Platform (DMPs) entwickelt.
+Als die Plattformen, die die Verwaltung von Kundendaten erleichtern, müssen sich auch Zielgruppen und Aktivierungsprogramme weiterentwickeln. Das Gleiche gilt für die Menschen und Prozesse, die diese Plattformen unterstützen. Ein Modell für ein Audience Center of Excellence (COE) ist seit langem die optimale Methode zur Unterstützung von Data Management-Plattformen (DMPs).
 
 >[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
 
-Um dieses Video zu ergänzen, können Sie auch ein Whitepaper herunterladen](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)[
+Als Ergänzung zu diesem Video können Sie auch [Whitepaper herunterladen](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)

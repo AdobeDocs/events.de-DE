@@ -1,6 +1,6 @@
 ---
-title: AEM Web-Performance
-description: Die schnelle Bereitstellung komplexer Web-Erlebnisse ist eine Herausforderung. In diesem Vortrag wird Joel Licht auf einige der häufigsten Fallstricke werfen. Dazu gehören Theorie, Beispiele, Best Practices sowie Demonstration von Tools.
+title: AEM-Webleistung
+description: Die schnelle Bereitstellung komplexer Web-Erlebnisse ist eine Herausforderung. In diesem Vortrag beleuchtet Joel einige der häufigsten Fallstricke. Sie umfasst Theorie, Beispiele, Best Practices sowie die Demonstration von Tools.
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
 exl-id: dfb6708b-0b2e-4ee1-8983-014d1f3bc708
@@ -12,19 +12,19 @@ ht-degree: 0%
 
 ---
 
-# AEM Web-Performance{#aem-web-performance}
+# AEM-Webleistung{#aem-web-performance}
 
-Die schnelle Bereitstellung komplexer Web-Erlebnisse ist eine Herausforderung. In diesem Vortrag wird Joel Licht auf einige der häufigsten Fallstricke werfen. Es umfasst Theorie, Beispiele, Best Practices sowie Demonstration von Tools in den folgenden Bereichen - Netzwerk und Latenz: Optimierungen für HTTP/1.1 und HTTP/2 - Langsame AEM Server-Anforderungen: Identifizieren von Problemen - JavaScript: Minimierung des Verwaltungsaufwands
+Die schnelle Bereitstellung komplexer Web-Erlebnisse ist eine Herausforderung. In diesem Vortrag beleuchtet Joel einige der häufigsten Fallstricke. Sie umfasst Theorie, Beispiele, Best Practices sowie die Demonstration von Tools für die folgenden Bereiche: - Netzwerk und Latenz: Optimierungen für HTTP/1.1 und HTTP/2 - Langsame AEM-Server-Anfragen: Identifizierung von Problemen - JavaScript: Minimierung des Overheads
 
 >[!VIDEO](https://video.tv.adobe.com/v/19296/?quality=9)
 
-*Zugestellt am 1. Juni 2016*
+*Veröffentlicht am 01.06.2016*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
-* Joel Richard, Entwickler, Adobe
+* Joel Richard, Developer, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/aem-gems-060116-web-performance.pdf)
 
@@ -32,7 +32,7 @@ Die schnelle Bereitstellung komplexer Web-Erlebnisse ist eine Herausforderung. I
 
 >[!WARNING]
 >
->AEM Versionen 6.4 und älter sind End of Life und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Auf archivierte Versionen der Dokumentation kann von dieser [Seite](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de) aus zugegriffen werden.
+>Die AEM-Versionen 6.4 und älter sind veraltet und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archivierte Versionen der Dokumentation können von dieser Seite [ werden](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
 
 Apache:\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
@@ -44,7 +44,7 @@ Web-Standards:\
 AEM:\
 [https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html)
 
-AEM Komponenten:\
+AEM-Komponenten:\
 [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\
 [https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html](https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html)
 

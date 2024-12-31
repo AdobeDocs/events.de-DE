@@ -1,6 +1,6 @@
 ---
-title: AEM von Headful bis Headless (und alles dazwischen
-description: Eine detaillierte Auflistung der häufigsten Adobe Experience Manager Sites-Implementierungen.
+title: AEM von Headful zu Headless (und alles dazwischen)
+description: Eine detaillierte Aufschlüsselung der häufigsten Adobe Experience Manager Sites-Implementierungen.
 solution: Experience Manager
 feature: Headless
 event-cta-url: https://youtu.be/idByz7WrhbQ
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ---
 
-# AEM von Headful bis Headless (und alles dazwischen
+# AEM von Headful zu Headless (und alles dazwischen)
 
-Eine detaillierte Auflistung der häufigsten Adobe Experience Manager Sites-Implementierungen.
+Eine detaillierte Aufschlüsselung der häufigsten Adobe Experience Manager Sites-Implementierungen.
 
-Treten Sie Gastgeber Danny Gordon und die Gäste Amol Anand, Sachin Mali und Sean Steimer bei, da sie verschiedene Funktionen von Adobe Experience Manager für die Verwaltung und Bereitstellung von Inhalten vergleichen und kontrastreichen. Beim Content Management gibt es keine &quot;Einheitsgröße&quot;. Erfahren Sie, welche Funktionen für Ihr Unternehmen aufgrund von Authoring-Anforderungen, Bereitstellungsplattformen und Entwicklungstechnologien optimal sind.
+Seien Sie dabei, wenn Gastgeber Danny Gordon und die Gäste Amol Anand, Sachin Mali und Sean Steimer verschiedene Funktionen von Adobe Experience Manager für die Verwaltung und Bereitstellung von Inhalten vergleichen und miteinander in Kontrast setzen. Es gibt keine Patentlösung für das Content-Management. Erfahren Sie, welche Funktionen basierend auf den Anforderungen an die Inhaltserstellung, den Bereitstellungsplattformen und der Entwicklungstechnologie für Ihr Unternehmen optimal sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342475/?quality=12&learn=on)
 
@@ -27,7 +27,7 @@ Treten Sie Gastgeber Danny Gordon und die Gäste Amol Anand, Sachin Mali und Sea
 
 ## Präsentationsfolien
 
-Laden Sie die während der Aufzeichnung dargestellten Folien herunter:
+Laden Sie die während der Aufzeichnung vorgestellten Folien herunter:
 
 **[AEMHeadfulHeadless.pdf](../assets/documents/AEMHeadfulHeadless.pdf)**
 

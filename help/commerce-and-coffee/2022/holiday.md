@@ -1,6 +1,6 @@
 ---
-title: Commerce und Kaffee - Retrospektive für Urlaub 2021
-description: In dieser Sitzung wird die eCommerce-Landschaft während der einzigartigen Weihnachtssaison 2021 gelungen. Mithilfe dieser Erkenntnisse besprechen wir, wie Sie Ihre Adobe Commerce-Strategie 2022 besser beeinflussen können. Corey zeigt dann Produktwarnungen, BOPIS/Curbside-Abholung, Belohnungen und Loyalität und vieles mehr. Die Präsentation und die Demo werden von einem Live-Q&A mit Corey begleitet.
+title: Commerce und Kaffee - Urlaubs-Retrospektive 2021
+description: In dieser Sitzung werfen wir einen Blick darauf, wie die E-Commerce-Landschaft in der einzigartigen Weihnachtszeit 2021 erfolgreich war. Anhand dieser Erkenntnisse besprechen wir Methoden, wie Sie Ihre Adobe Commerce-Strategie im Jahr 2022 besser beeinflussen können. Corey zeigt dann Warnhinweise zu Produktbeständen, BOPIS / Curbside-Pick-up, Belohnungen und Treue und vieles mehr. Die Präsentation und die Demo werden von einer Live-Q&A mit Corey begleitet.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Retrospektive für Urlaub 2021
+# Urlaubs-Retrospektive 2021
 
-In dieser Sitzung wird die eCommerce-Landschaft während der einzigartigen Weihnachtssaison 2021 gelungen. Mithilfe dieser Erkenntnisse besprechen wir, wie Sie Ihre Adobe Commerce-Strategie 2022 besser beeinflussen können. Corey zeigt dann Produktwarnungen, BOPIS/Curbside-Abholung, Belohnungen und Loyalität und vieles mehr. Die Präsentation und die Demo werden von einem Live-Q&amp;A mit Corey begleitet.
+In dieser Sitzung werfen wir einen Blick darauf, wie die E-Commerce-Landschaft in der einzigartigen Weihnachtszeit 2021 erfolgreich war. Anhand dieser Erkenntnisse besprechen wir Methoden, wie Sie Ihre Adobe Commerce-Strategie im Jahr 2022 besser beeinflussen können. Corey zeigt dann Warnhinweise zu Produktbeständen, BOPIS / Curbside-Pick-up, Belohnungen und Treue und vieles mehr. Die Präsentation und die Demo werden von einer Live-Q&amp;A mit Corey begleitet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412715/?quality=12&learn=on)

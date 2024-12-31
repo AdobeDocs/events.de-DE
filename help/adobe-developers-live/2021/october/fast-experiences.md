@@ -1,6 +1,6 @@
 ---
-title: Bereitstellen schneller Erlebnisse mit Experience Manager Cloud Service
-description: Adobe Experience Manager as a Cloud Service ist so konzipiert, dass Inhalte effizient und effektiv bereitgestellt werden. Ein wichtiges Element für diese Effizienz ist es, dass ein Projekt eine gut entwickelte Caching- und Invalidierungs-Strategie hat. In dieser Sitzung werden wir einige Fallen behandeln, in die Projekte fallen, und Tipps geben, wie Sie Ihre Cache-Trefferquote und die Cache-Abdeckung verbessern können, mit Beispielen aus realen Szenarien.
+title: Schnelle Erlebnisse mit Experience Manager Cloud Service
+description: Adobe Experience Manager as a Cloud Service wurde entwickelt, um Inhalte effizient und effektiv bereitzustellen. Ein wichtiges Element für diese Effizienz ist, dass ein Projekt über eine gut konzipierte Strategie für Caching und Invalidierung verfügt. In dieser Sitzung behandeln wir einige der Fallen, in die Projekte fallen, und geben Tipps, wie Sie Ihre Cache-Trefferquote und Cache-Abdeckung verbessern können, mit Beispielen aus realen Szenarien.
 solution: Experience Manager
 feature: Dispatcher
 topic: Performance
@@ -18,16 +18,16 @@ ht-degree: 3%
 
 ---
 
-# Bereitstellen schneller Erlebnisse mit Experience Manager Cloud Service
+# Schnelle Erlebnisse mit Experience Manager Cloud Service
 
-Adobe Experience Manager as a Cloud Service ist so konzipiert, dass Inhalte effizient und effektiv bereitgestellt werden. Ein wichtiges Element für diese Effizienz ist es, dass ein Projekt eine gut entwickelte Caching- und Invalidierungs-Strategie hat. In dieser Sitzung werden wir einige Fallen behandeln, in die Projekte fallen, und Tipps geben, wie Sie Ihre Cache-Trefferquote und die Cache-Abdeckung verbessern können, mit Beispielen aus realen Szenarien.
+Adobe Experience Manager as a Cloud Service wurde entwickelt, um Inhalte effizient und effektiv bereitzustellen. Ein wichtiges Element für diese Effizienz ist, dass ein Projekt über eine gut konzipierte Strategie für Caching und Invalidierung verfügt. In dieser Sitzung behandeln wir einige der Fallen, in die Projekte fallen, und geben Tipps, wie Sie Ihre Cache-Trefferquote und Cache-Abdeckung verbessern können, mit Beispielen aus realen Szenarien.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3CUkzoB)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/3CUkzoB)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337846/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

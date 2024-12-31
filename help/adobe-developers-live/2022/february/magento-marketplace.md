@@ -1,6 +1,6 @@
 ---
 title: Verbrauchsbasierte Lösungen im Magento Marketplace
-description: Commerce-Dienste, die auf strategischen Partnerschaften basieren, bieten Magento Open Source-Händlern branchenführende Lösungen, um ein nahtloses Käufererlebnis zu bieten.. (Die Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein.)
+description: Commerce Magento Open Source Services, unterstützt durch strategische Partnerschaften, stattet Händler mit branchenführenden Lösungen aus, um ein nahtloses Käufererlebnis zu bieten… (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein).
 role: User
 level: Beginner
 kt: 9788
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Verbrauchsbasierte Lösungen im Magento Marketplace
 
-Commerce Services, die auf strategischen Partnerschaften basieren, bieten Magento Open Source-Händlern branchenführende Lösungen, um ein nahtloses Kundenerlebnis zu bieten. Unter Berücksichtigung des Verbrauchs erleichtert Adobe es Betriebssystemen, klein zu beginnen, ihre Nutzung und Kosten zu erhöhen und gleichzeitig ihr Wachstum zu beschleunigen. Wir führen Sie durch, wie Zahlungsdienste und zukünftige Erweiterungen von Commerce-Dienstleistungen Entwicklungszeit sparen und kostengünstige und einheitliche Lösungen von Adobe bereitstellen.
+Commerce Services basiert auf strategischen Partnerschaften und bietet Händlern von Magento Open Sourcen branchenführende Lösungen für ein nahtloses Kundenerlebnis. Mit Blick auf einen verbrauchsorientierten Ansatz macht Adobe es Betriebssystemen leichter, klein anzufangen, ihre Nutzung und ihre Kosten zu erhöhen und gleichzeitig ihr Wachstum zu beschleunigen. Wir zeigen Ihnen, wie Zahlungsdienste und zukünftige Commerce Services-Erweiterungen Entwicklungszeit sparen und kostengünstige und einheitliche Lösungen von Adobe bereitstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340626/?quality=12&learn=on)

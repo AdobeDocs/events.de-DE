@@ -1,6 +1,6 @@
 ---
-title: AEM Content und Commerce mit Adobe Developer App Builder erweitern
-description: Adobe Experience Manager Content & Commerce bietet mithilfe der Commerce integration framework (CIF) eine flexible Architektur für die Verbindung von Adobe Experience Manager mit Adobe Commerce oder einer anderen Commerce-Lösung - kommerziell oder eigenständig. App Builder und GraphQL spielen eine wesentliche Rolle für Adobe Experience Manager Content & Commerce und die CIF. In diesem Vortrag werden Integrations- und Erweiterbarkeitsmuster für Adobe Experience Manager Commerce mit App Builder erläutert. Es werden die verschiedenen Integrationsmuster erläutert, bei denen App Builder als Middleware dienen und Ihre Commerce-Lösung mit Adobe Experience Manager verbinden kann. Wir zeigen, wie App Builder zur Bereitstellung von Commerce-Daten und -Transaktionen für Adobe Experience Manager Commerce verwendet werden kann.
+title: Erweitern von AEM-Inhalten und Commerce mit Adobe Developer App Builder
+description: Adobe Experience Manager Content und Commerce unter Verwendung der Commerce integration framework (CIF) bieten eine flexible Architektur, um Adobe Experience Manager mit Adobe Commerce oder einer anderen Commerce-Lösung zu verbinden - kommerziell oder eigenständig. App Builder und GraphQL spielen eine wesentliche Rolle für Adobe Experience Manager Content & Commerce und die CIF. In diesem Vortrag werden Integrations- und Erweiterungsmuster von Adobe Experience Manager Commerce mithilfe von App Builder erläutert. Es zeigt die verschiedenen Integrationsmuster, bei denen App Builder als Middleware dienen und Ihre Commerce-Lösung mit Adobe Experience Manager verbinden kann. Wir werden zeigen, wie App Builder verwendet werden kann, um Commerce-Daten und Transaktionen für Adobe Experience Manager Commerce bereitzustellen.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -18,16 +18,16 @@ ht-degree: 2%
 
 ---
 
-# AEM Content und Commerce mit Adobe Developer App Builder erweitern
+# Erweitern von AEM-Inhalten und Commerce mit Adobe Developer App Builder
 
-Adobe Experience Manager Content &amp; Commerce bietet mithilfe der Commerce integration framework (CIF) eine flexible Architektur für die Verbindung von Adobe Experience Manager mit Adobe Commerce oder einer anderen Commerce-Lösung - kommerziell oder eigenständig. App Builder und GraphQL spielen eine wesentliche Rolle für Adobe Experience Manager Content &amp; Commerce und die CIF. In diesem Vortrag werden Integrations- und Erweiterbarkeitsmuster für Adobe Experience Manager Commerce mit App Builder erläutert. Es werden die verschiedenen Integrationsmuster erläutert, bei denen App Builder als Middleware dienen und Ihre Commerce-Lösung mit Adobe Experience Manager verbinden kann. Wir zeigen, wie App Builder zur Bereitstellung von Commerce-Daten und -Transaktionen für Adobe Experience Manager Commerce verwendet werden kann.
+Adobe Experience Manager Content und Commerce unter Verwendung der Commerce integration framework (CIF) bieten eine flexible Architektur, um Adobe Experience Manager mit Adobe Commerce oder einer anderen Commerce-Lösung zu verbinden - kommerziell oder eigenständig. App Builder und GraphQL spielen eine wesentliche Rolle für Adobe Experience Manager Content &amp; Commerce und die CIF. In diesem Vortrag werden Integrations- und Erweiterungsmuster von Adobe Experience Manager Commerce mithilfe von App Builder erläutert. Es zeigt die verschiedenen Integrationsmuster, bei denen App Builder als Middleware dienen und Ihre Commerce-Lösung mit Adobe Experience Manager verbinden kann. Wir werden zeigen, wie App Builder verwendet werden kann, um Commerce-Daten und Transaktionen für Adobe Experience Manager Commerce bereitzustellen.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/3om4942)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/3om4942)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337567/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

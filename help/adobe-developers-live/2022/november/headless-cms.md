@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - NOV 22 - Adobe Experience Manager as a Headless CMS - Wo/Wann/Warum?
-description: 'Adobe Experience Manager as a Headless CMS - Wo/Wann/Warum?In dieser Sitzung erfahren Sie, wie Sie Headless-CMS über Adobe Experience Manager auf viele Arten implementieren. In dieser Sitzung wird Folgendes behandelt: Inhaltsdienste über Exporter/Servlets Inhaltsfragment über Asset-API (Demo) Inhaltsfragment per GraphQL (Demo) Einige Echtzeitanwendungsfälle rund um die Verwendung von Inhaltsfragmenten und deren Ansätze SPA Editor-Lernprozessen (Einige Lösungsansätze zur Auswahl) (Demo)'
+title: Adobe Developers Live - 22. November - Adobe Experience Manager als Headless-CMS - Wo/Wann/Warum?
+description: Adobe Experience Manager as a Headless CMS - Wo/Wann/Warum?In dieser Sitzung erfahren Sie, wie Sie Headless CMS über Adobe Experience Manager auf viele Arten implementieren. In dieser Sitzung wird Folgendes behandelt - Content Services über Exporter/Servlets Inhaltsfragment über Asset-API (Demo) Inhaltsfragment über GraphQL (Demo) Einige Echtzeit-Anwendungsfälle rund um die Verwendung von Inhaltsfragmenten und ihre Ansätze SPA-Editor-Lernprozesse (Einige Lösungsansätze bei der Auswahl) (Demo)
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -22,12 +22,12 @@ ht-degree: 0%
 
 # Adobe Experience Manager as a Headless CMS - Wo/Wann/Warum?
 
-In dieser Sitzung erfahren Sie, wie Sie Headless-CMS über Adobe Experience Manager auf verschiedene Arten implementieren können. Diese Sitzung wird sich mit folgenden Themen befassen:
+In dieser Sitzung erfahren Sie, wie Sie Headless-CMS über Adobe Experience Manager auf viele Arten implementieren. In dieser Sitzung werden folgende Themen behandelt:
 
-* Inhaltsdienste über Exporter/Servlets
+* Content Services über Exporter/Servlets
 * Inhaltsfragment über Asset-API (Demo)
-* Inhaltsfragment über Grafik (Demo)
-* Einige Echtzeitanwendungsfälle rund um die Verwendung von Inhaltsfragmenten und deren Ansätzen
-* SPA Editor-Lernprozesse (Lösungsansätze zur Auswahl) (Demo)
+* Inhaltsfragment über GraphQL (Demo)
+* Einige Echtzeitanwendungsfälle rund um die Verwendung von Inhaltsfragmenten und ihre Ansätze
+* Lerninhalte des SPA-Editors (Lösungsansatz zur Auswahlentscheidung) (Demo)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411299/?quality=12&learn=on)

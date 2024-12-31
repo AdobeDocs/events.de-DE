@@ -1,6 +1,6 @@
 ---
-title: Commerce der nächsten Generation - Der Aufstieg von Gen-KI-Anwendungen
-description: Überblick und Demonstrationen der KI in Commerce, der neuesten generativen KI durch Adobe Express und der Möglichkeit, diese für Commerce- und Inhaltsteams in der realen Welt zu nutzen.
+title: Handel der nächsten Generation - Der Aufstieg von Gen-KI-Anwendungen
+description: Überblick und Demonstrationen von KI in Commerce, die neueste generative KI von Adobe über Adobe Express und wie sie für Commerce- und Content-Teams in der realen Welt genutzt werden kann.
 topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ---
 
-# Commerce der nächsten Generation: Der Aufstieg von Gen-KI-Anwendungen
+# Handel der nächsten Generation: Der Aufstieg von Gen-KI-Anwendungen
 
-Überblick und Demonstrationen der KI in Commerce, der neuesten generativen KI durch Adobe Express und der Möglichkeit, diese für Commerce- und Inhaltsteams in der realen Welt zu nutzen.
+Überblick und Demonstrationen von KI in Commerce, die neueste generative KI von Adobe über Adobe Express und wie sie für Commerce- und Content-Teams in der realen Welt genutzt werden kann.
 
-+ Vorgestellt von Eroka O&#39;Connor, Senior Solution Consultant - Adobe
++ Präsentiert von Eroka O&#39;Connor, Senior Solution Consultant - Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429269/?learn=on)
 

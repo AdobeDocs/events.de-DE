@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce Innovation Spotlight-Webinar
-description: Lassen Sie sich von uns inspirieren, wie Sie die neuesten Funktionen und Architekturen übernehmen können, um Ihren Kunden das beste Erlebnis zu bieten und Ihr Unternehmen zu erweitern!In diesem Webinar.
+description: Sehen Sie sich unsere Inspirationsquelle an, um die neuesten Funktionen und Architekturen anzuwenden und Ihren Kunden das beste Erlebnis zu bieten und Ihr Geschäft auszubauen!In diesem Webinar erfahren Sie mehr darüber.
 solution: Commerce
 topic: Commerce
 role: Admin, Developer, User
@@ -21,23 +21,23 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427965/?learn=on)
 
-Im Rahmen der Commerce-Webinar-Serie für 2024 werden wir eine Reihe von Partnern aus der APAC-Region begrüßen, die sich über einige Innovationshighlights aus aktuellen Implementierungen informieren. Lassen Sie sich von uns inspirieren, wie Sie die neuesten Funktionen und Architekturen übernehmen können, um Ihren Kunden das beste Erlebnis zu bieten und Ihr Unternehmen zu erweitern!
+Zum Auftakt der Commerce Webinar-Serie für 2024 begrüßen wir eine Reihe von Partnern aus der APAC-Region, die einige Innovations-Highlights aus den letzten Implementierungen teilen. Seien Sie dabei, wenn wir Ihnen zeigen, wie Sie die neuesten Funktionen und Architekturen einsetzen können, um Ihren Kunden das beste Erlebnis zu bieten und Ihr Unternehmen auszubauen!
 In diesem Webinar erfahren Sie mehr über:
 
-* Schnelles, bestes Erlebnis mit PWA Studio
-* Nutzung von App Builder für Out-of-Process-Erweiterbarkeit
-* Innovative Commerce-Funktionen, die von Miter10, Mitsubishi Motors und anderen wichtigen Einzelhändlern in APAC genutzt werden
+* Schnelle, erstklassige Erlebnisse mit PWA Studio
+* Nutzung von App Builder für prozessexterne Erweiterbarkeit
+* Innovative Commerce-Funktionen, die von Mitre10, Mitsubishi Motors und anderen wichtigen Einzelhändlern in APAC verwendet werden
 
-Da sich die Commerce-Landschaft weiterentwickelt und verändert, müssen Sie unbedingt sicherstellen, dass Sie das Potenzial Ihrer Commerce-Plattform maximieren, um wettbewerbsfähig zu bleiben und Ihren Kunden ein einzigartiges Erlebnis zu bieten. In dieser Sitzung werden wir untersuchen, wie Unternehmen moderne Architektur und die neuesten Funktionen in Adobe Commerce einführen, um weiter voranzukommen.
+Im Zuge der Weiterentwicklung und Verlagerung der Commerce-Landschaft ist es wichtig sicherzustellen, dass Sie das Potenzial Ihrer Commerce-Plattform maximieren, um wettbewerbsfähig zu bleiben und Ihren Kunden ein unvergleichliches Erlebnis zu bieten. In dieser Sitzung erkunden wir, wie Unternehmen moderne Architektur und die neuesten Funktionen in Adobe Commerce einsetzen, um einen Vorsprung zu haben.
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
-* Adobe Commerce bietet eine Reihe von Funktionen, die an spezifische Geschäftsanforderungen angepasst werden können.
-* Der Einsatz von PWI Studio ermöglicht eine schnelle und effiziente Entwicklung und Implementierung innovativer Lösungen.
-* Beispiele für innovative Lösungen sind ein Marktplatz für Bauern, die ihre Produkte verkaufen, eine Konfigurator-App für die Anpassung von Fahrzeugen und eine Plattform für die Anmietung von Geräten.
+* Adobe Commerce bietet eine Reihe von Funktionen und Möglichkeiten, die an spezifische Geschäftsanforderungen angepasst werden können.
+* Der Einsatz von PWI Studio ermöglicht eine schnelle und effiziente Entwicklung und Bereitstellung innovativer Lösungen.
+* Beispiele für innovative Lösungen sind ein Marktplatz für Bauern zum Verkauf ihrer Produkte, eine Konfigurator-App zur Anpassung von Fahrzeugen und eine Plattform zur Vermietung von Ausrüstung.
 * Adobe Analytics bietet wertvolle Einblicke in das Benutzerverhalten und hilft bei der Optimierung des Kundenerlebnisses.
-* Die Integration verschiedener Datenquellen und die Verwendung komplexer Logik können zu einem robusten und personalisierten Benutzererlebnis führen.
-* Die Möglichkeit, Abonnements zu verwalten, auf Rechnungen zuzugreifen und Bestellungen anzupassen, bietet den Kunden mehr Komfort und Flexibilität.
-* B2B-Funktionen, wie z. B. Anforderungslisten und Preisvarianten je nach Standort, verbessern das Benutzererlebnis für Geschäftskunden.
-* Die Verwendung von Echtzeit-Daten und dynamischer Preisgestaltung gewährleistet Genauigkeit und Transparenz für Kunden.
-* Gemeinsame Anstrengungen zwischen Agenturen und Kunden sind der Schlüssel zu einer erfolgreichen Umsetzung und kontinuierlichen Verbesserung innovativer Lösungen.
+* Die Integration verschiedener Datenquellen und die Verwendung komplexer Logik können ein robustes und personalisiertes Benutzererlebnis schaffen.
+* Die Möglichkeit, Abonnements zu verwalten, auf Rechnungen zuzugreifen und Bestellungen anzupassen, bietet Kunden mehr Komfort und Flexibilität.
+* B2B-Funktionen wie Anforderungslisten und standortabhängige Preisvariationen verbessern das Anwendererlebnis für Geschäftskunden.
+* Die Verwendung von Echtzeitdaten und dynamischen Preisen stellt Genauigkeit und Transparenz für Kunden sicher.
+* Die Zusammenarbeit zwischen Agenturen und Kunden ist der Schlüssel für die erfolgreiche Umsetzung und kontinuierliche Verbesserung innovativer Lösungen.

@@ -1,6 +1,6 @@
 ---
-title: Wie gehe ich mit all diesen Zielgruppen um?
-description: Treten Sie dem Host Doug Moore und den Gästen Nick Cammuso und Jackie Chevallier bei, während sie sich die Verwendung von Audience Manager (AAM) und Real-time Customer Data Platform ... (Beschreibungen sollten zwischen 60 und 160 Zeichen sein)
+title: Wie kann ich all diese Zielgruppen verwalten?
+description: Seien Sie dabei, wenn Gastgeber Doug Moore und die Gäste Nick Cammuso und Jackie Chevallier sich anschauen, wie sie sowohl Audience Manager (AAM) als auch Real-time Customer Data Platform verwenden … (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 solution: Audience Manager, Real-Time Customer Data Platform, Experience Platform
 feature: Audiences
 kt: 10358
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ---
 
-# Wie gehe ich mit all diesen Zielgruppen um?
+# Wie kann ich all diese Zielgruppen verwalten?
 
-Treten Sie dem Gastgeber Doug Moore und den Gästen Nick Cammuso und Jackie Chevallier bei, wenn sie sich mit der Verwendung von Audience Manager (AAM) und Real-time Customer Data Platform (RTCDP) beschäftigen, um Sie bei der Erreichung Ihrer wichtigsten Zielgruppenstrategien und Anwendungsfälle zu unterstützen. Außerdem wird gezeigt, wie Sie wichtige Zielgruppensegmente aus AAM nehmen und an die RTCDP senden können, um mehr Flexibilität und Targeting zu erzielen.
+Seien Sie dabei, wenn Gastgeber Doug Moore und die Gäste Nick Cammuso und Jackie Chevallier uns zeigen, wie sie sowohl Audience Manager (AAM) als auch Real-time Customer Data Platform (RTCDP) verwenden können, um Ihre wichtigsten Zielgruppenstrategien und Anwendungsfälle zu erreichen. Außerdem erfahren Sie, wie Sie wichtige Zielgruppensegmente aus AAM übernehmen und zur Steigerung der Flexibilität und Zielgruppenbestimmung an RTCDP senden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342611/?quality=12&learn=on)
 
-Um das Gespräch über diese Sitzung fortzusetzen, besuchen Sie bitte den [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419), wo wir auch Fragen beantworten werden, auf die wir in der Sitzung nicht live geantwortet haben.
+Um mit der Unterhaltung über diese Sitzung fortzufahren, besuchen Sie bitte den [Experience League-Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419), in dem wir auch Fragen beantworten können, für die wir in der Sitzung keine Zeit hatten.
 

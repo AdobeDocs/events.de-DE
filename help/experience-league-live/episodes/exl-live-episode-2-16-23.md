@@ -1,6 +1,6 @@
 ---
 title: Beschleunigen Sie Ihre Web-Erlebnisse!
-description: Die Ladezeiten von Sites und die Gesamtleistung wirken sich direkt auf die Kundenzufriedenheit aus und fördern die Konversion.
+description: Die Ladezeiten der Site und die Gesamtleistung haben einen direkten Einfluss auf die Kundenzufriedenheit und fördern die Konversion.
 solution: Experience Manager,Experience Manager Sites
 feature: Developing
 kt: 11840
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Beschleunigen Sie Ihre Web-Erlebnisse!
 
-**Verstehen des Unterschieds zwischen schnell und am schnellsten**
+**Den Unterschied zwischen Schnell und Schnell verstehen**
 
-Die Ladezeiten von Sites und die Gesamtleistung wirken sich direkt auf die Kundenzufriedenheit aus und fördern die Konversion.
+Die Ladezeiten der Site und die Gesamtleistung haben einen direkten Einfluss auf die Kundenzufriedenheit und fördern die Konversion.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414150/?quality=12&learn=on)
 
-Sehen Sie sich das Video oben an, um sich dieses Live-Stream-Ereignis anzusehen, bei dem Experten für Adobe-Erlebnisbereitstellung besprachen, was zu beachten ist und welche Schritte Sie zur Leistungssteigerung unternehmen können.
+Sehen Sie sich das obige Video an, um dieses Live-Stream-Ereignis zu sehen, bei dem Experten für die Bereitstellung von Adobe-Erlebnissen besprochen haben, was zu beachten ist und welche Schritte Sie unternehmen können, um die Leistung zu steigern.
 
-**Haben Sie Fragen dazu?** Fahren Sie die Diskussion zu diesem Thema im Adobe Experience League [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836) fort.
+**Haben Sie Fragen dazu?** Fortsetzung der Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836).
 

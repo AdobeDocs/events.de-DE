@@ -1,6 +1,6 @@
 ---
-title: Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe der Adobe Sign API
-description: Adobe Document Generation API ist ein leistungsstarker Dokumenterstellungs-Service, der von Microsoft Word-Vorlagen gesteuert wird, die mit Ihren Daten zusammengeführt wurden. In Kombination mit der Adobe Sign-API können Entwickler auf einfache Weise dynamische Dokumente erstellen, die über den Sign-Workflow verarbeitet werden können.
+title: Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe der Adobe Sign-API
+description: Die Adobe Document Generation-API ist ein leistungsstarker Service zur Dokumenterstellung, der von Microsoft Word-Vorlagen gesteuert wird, die mit Ihren Daten zusammengeführt werden. In Kombination mit der Adobe Sign-API können Entwicklerinnen und Entwickler auf einfache Weise dynamische Dokumente generieren, die über den Sign-Workflow verarbeitet werden können.
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -17,14 +17,14 @@ ht-degree: 10%
 
 ---
 
-# Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe der Adobe Sign API
+# Generieren von Dokumenten und Erfassen von E-Signaturen in Ihren Apps mithilfe der Adobe Sign-API
 
-Adobe Document Generation API ist ein leistungsstarker Dokumenterstellungs-Service, der von Microsoft Word-Vorlagen gesteuert wird, die mit Ihren Daten zusammengeführt wurden. In Kombination mit der Adobe Sign-API können Entwickler auf einfache Weise dynamische Dokumente erstellen, die über den Sign-Workflow verarbeitet werden können.
+Die Adobe Document Generation-API ist ein leistungsstarker Service zur Dokumenterstellung, der von Microsoft Word-Vorlagen gesteuert wird, die mit Ihren Daten zusammengeführt werden. In Kombination mit der Adobe Sign-API können Entwicklerinnen und Entwickler auf einfache Weise dynamische Dokumente generieren, die über den Sign-Workflow verarbeitet werden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338097/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Platform-Dokumentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
+- [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)
 - [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)

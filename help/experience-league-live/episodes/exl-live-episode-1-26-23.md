@@ -1,6 +1,6 @@
 ---
 title: Datenerfassungs-Highlights und Roadmap
-description: Die Datenerfassung ist bei Adobe von größter Bedeutung! Die Daten, mit denen Sie arbeiten, müssen verlässlich sein. Wir hatten letztes Jahr eine ereignisreiche Zeit mit Releases und haben tolle Dinge auf uns zukommen lassen.
+description: Die Datenerfassung ist bei Adobe von größter Bedeutung! Die Daten, mit denen Sie arbeiten, müssen verlässlich sein. Wir hatten letztes Jahr ein ereignisreiches Programm mit Releases und großartigen Dingen, die auf uns zukommen.
 solution: Data Collection,Experience Platform,Analytics,Real-Time Customer Data Platform,Customer Journey Analytics
 feature: Data Collection
 kt: 11645
@@ -19,13 +19,13 @@ ht-degree: 17%
 
 # Datenerfassungs-Highlights und Roadmap
 
-**Was wir veröffentlicht haben und was mit der Adobe-Datenerfassung herauskommt**
+**Was haben wir veröffentlicht und was ist mit der Adobe-Datenerfassung zu tun**
 
-Die Datenerfassung ist bei Adobe von größter Bedeutung! Die Daten, mit denen Sie arbeiten, müssen verlässlich sein. Wir hatten letztes Jahr eine ereignisreiche Zeit mit Releases und haben tolle Dinge auf uns zukommen lassen.
+Die Datenerfassung ist bei Adobe von größter Bedeutung! Die Daten, mit denen Sie arbeiten, müssen verlässlich sein. Wir hatten letztes Jahr ein ereignisreiches Programm mit Releases und großartigen Dingen, die auf uns zukommen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412963/?quality=12&learn=on)
 
-Sehen Sie sich das Video oben an, um sich dieses Live-Stream-Ereignis anzusehen, bei dem Adobe-Datenerfassungsexperten eine Zusammenfassung wichtiger aktueller Aktualisierungen sowie einen Überblick über bevorstehende Roadmap-Elemente gaben.
+Sehen Sie sich das obige Video an, um dieses Live-Stream-Ereignis zu sehen, bei dem Adobe-Datenerfassungsexperten eine Zusammenfassung wichtiger aktueller Updates sowie einen Einblick in bevorstehende Roadmap-Elemente gaben.
 
-Haben Sie Fragen dazu? Fahren Sie mit der Diskussion über dieses Thema im Adobe Experience League [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316) fort.
+Haben Sie Fragen dazu? Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316) fort.
 

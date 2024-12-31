@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - NOV 22 - Effiziente Entwicklung in Adobe Experience Manager as a Cloud Service
-description: Effiziente Entwicklung in Adobe Experience Manager as a Cloud Service Cloud Manager bietet verschiedene Pipelinetypen, um das Entwicklererlebnis zu verbessern und ihren Arbeitsablauf zu optimieren, einschließlich einer Frontend-Code-Bereitstellungs-Pipeline. In dieser Sitzung erfahren Sie, wie Sie eine vorhandene Website für die schnelle Frontend-Codebereitstellung einrichten.
+title: Adobe Developers Live - 22. November - Effiziente Entwicklung auf Adobe Experience Manager as a Cloud Service
+description: Effiziente Entwicklung in Adobe Experience Manager as a Cloud Service Cloud Manager bietet verschiedene Arten von Pipelines, um das Entwicklererlebnis zu verbessern und den Workflow zu optimieren, einschließlich einer Frontend-Code-Bereitstellungs-Pipeline.In dieser Sitzung erfahren Sie, wie Sie eine vorhandene Website für die schnelle Frontend-Code-Bereitstellung einrichten.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 ---
 
-# Effiziente Entwicklung in Adobe Experience Manager as a Cloud Service
+# Effiziente Entwicklung auf Adobe Experience Manager as a Cloud Service
 
-Cloud Manager bietet verschiedene Pipelinetypen, um das Entwicklererlebnis zu verbessern und den Arbeitsablauf zu optimieren, einschließlich einer Frontend-Code-Bereitstellungs-Pipeline.
+Cloud Manager bietet verschiedene Arten von Pipelines, um das Entwicklererlebnis zu verbessern und den Workflow zu optimieren, einschließlich einer Frontend-Code-Bereitstellungs-Pipeline.
 
-In dieser Sitzung erfahren Sie, wie Sie eine vorhandene Website für die schnelle Implementierung von Frontend-Code einrichten.
+In dieser Sitzung erfahren Sie, wie Sie eine vorhandene Website für die schnelle Frontend-Code-Bereitstellung einrichten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411306/?quality=12&learn=on)

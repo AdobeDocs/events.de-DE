@@ -1,6 +1,6 @@
 ---
-title: Bereitstellung des richtigen Angebots zur richtigen Zeit mit Entscheidungsmanagement
-description: Adobe Target und Adobe Real-time Customer Data Platform können integriert werden, um ein personalisierteres Kundenerlebnis zu bieten. In diesem Livestream-Ereignis sehen Sie, wie die Integration dieser beiden Plattformen Unternehmen dabei helfen kann, Daten in Echtzeit zu erfassen und anschließend zielgerichtete Erlebnisse zu erstellen und zu testen. Sehen Sie sich den End-to-End-Prozess dieser leistungsstarken Funktion in einer Live-Demonstration an.
+title: Mit Entscheidungs-Management das richtige Angebot zur richtigen Zeit unterbreiten
+description: Adobe Target und Adobe Real-time Customer Data Platform können integriert werden, um ein personalisierteres Kundenerlebnis zu bieten. In diesem Livestream-Ereignis erfahren Sie, wie die Integration dieser beiden Plattformen Unternehmen dabei helfen kann, Daten in Echtzeit zu erfassen und anschließend zielgerichtete Erlebnisse zu erstellen und zu testen. Sehen Sie sich den End-to-End-Prozess dieser leistungsstarken Funktion in einer Live-Demonstration an.
 solution: Journey Optimizer
 kt: 11028
 feature: Offers
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# Bereitstellung des richtigen Angebots zur richtigen Zeit mit Entscheidungsmanagement
+# Mit Entscheidungs-Management das richtige Angebot zur richtigen Zeit unterbreiten
 
-**Rank angebote mithilfe von KI und verwende sie in Ihren internen und externen Nachrichtenkanälen.**
+**Ordnen Sie Angebote mithilfe von KI ein und verwenden Sie sie in Ihren internen und externen Messaging-Kanälen.**
 
-Da die meisten Journey heute über mehrere Oberflächen und Multi-Touchpoint verfügen, ist es entscheidend, die richtigen Angebote zu finden und zu liefern. Angebote können nicht nur Rabatte, sondern auch Treueprogramm und Treueprogramm, Upgrades, Erinnerungen, Promotions und sogar Lernangebote beinhalten. Mehr als je zuvor nutzen Marketer künstliche Intelligenz für wichtige Anwendungsfälle im Echtzeit-Entscheidungsmanagement.
+Da die meisten Kunden-Journey heutzutage über mehrere Oberflächen und mehrere Touchpoints verfügen, ist es entscheidend, die richtigen Angebote zur richtigen Interaktion zu finden und bereitzustellen. Neben Rabatten können Angebote Treue- und Bindungsnachrichten, Upgrades, Erinnerungen, Werbeaktionen und sogar Lernmöglichkeiten umfassen. Mehr denn je setzen Marketer auf künstliche Intelligenz für geschäftskritische Anwendungsfälle des Entscheidungs-Managements in Echtzeit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410560/?quality=12&learn=on)
 
-Bei diesem Live-Stream-Ereignis stellten Adobe-Produktexperten die neuesten intelligenten Angebotsranking-Funktionen vor und zeigten, wie Journey und Kampagnen in Adobe Journey Optimizer Angebote hinzugefügt werden können.  Außerdem wurde gezeigt, wie Angebote in nativen Journey Optimizer-Kanälen wie E-Mail, SMS und Mobile Apps sowie in externen Systemen und integrierten Anwendungen wie Adobe Target platziert werden können.
+In dieser Live-Stream-Veranstaltung stellten Adobe-Produktexperten die neuesten intelligenten Angebots-Ranking-Funktionen vor und zeigten, wie Journey und Kampagnen in Adobe Journey Optimizer Angebote hinzugefügt werden können.  Außerdem wurde gezeigt, wie Angebote in nativen Journey Optimizer-Kanälen wie E-Mail, SMS und Mobile Apps sowie in externen Systemen und integrierten Anwendungen wie Adobe Target platziert werden können.
 
-Fahren Sie mit der Diskussion über dieses Thema im Adobe Experience League [Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55) fort.
+Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55) fort.

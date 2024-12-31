@@ -1,6 +1,6 @@
 ---
-title: Nahtlose Integration von Experience Manager Assets mit Anwendungen
-description: Nahtlose Integration von Experience Manager Assets mit AnwendungenMöchte Ihr Unternehmen Adobe Experience Manager (AEM)-gehostete Assets von Ihren Nicht-Adobe-CMS bereitstellen? Möchten Sie wissen, wie Sie stabile, prüfbare und wartbare AEM Assets-Integrationen in Minuten anstatt in Stunden/Tagen schreiben? In dieser Sitzung werden wir die Integrationsfunktion der nächsten Generation von Experience Manager Assets vorstellen, einer brandneuen Innovation für die Asset-Bereitstellung, die speziell für die Erhöhung der Entwicklungsgeschwindigkeit (schnellere TTV) entwickelt wurde und extrem niedrigen Wartungsaufwand (niedrigere TCO) ermöglicht. Die Innovation ermöglicht den Konsum und die Bereitstellung markengenehmigter Assets, die auf AEM Assets-Cloud Services gehostet werden, und ermöglicht es Unternehmen, die Asset-Verfügbarkeit (für Content-Authoring und Bereitstellung) zu steuern und Einblicke in deren Nutzung zu erhalten.
+title: Nahtlose Integration von Experience Manager Assets mit Programmen
+description: Nahtlose Integration von Experience Manager Assets mit AnwendungenMöchte Ihr Unternehmen auf Adobe Experience Manager (AEM) gehostete Assets von Ihren Nicht-Adobe-CMS bereitstellen? Möchten Sie wissen, wie Sie stabile, testbare und verwaltbare AEM Assets-Integrationen in Minuten anstatt in Stunden/Tagen schreiben können? In dieser Sitzung stellen wir die Integrationsfunktion der nächsten Generation von Experience Manager Assets vor, eine brandneue Innovation für die Asset-Bereitstellung, die speziell entwickelt wurde, um die Entwicklungsgeschwindigkeit zu erhöhen (schnelleres TV) und einen extrem niedrigen Wartungsaufwand (niedrigere TCO) ermöglicht. Die Neuerung ermöglicht die Nutzung und Bereitstellung von markenbestätigten Assets auf dem AEM Assets-Cloud Service und versetzt Unternehmen in die Lage, die Verfügbarkeit von Assets (für die Inhaltserstellung und -bereitstellung) zu steuern und Einblicke in ihren Verbrauch zu erhalten.
 product: experience manager
 sub-product: assets
 topic: Development
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Nahtlose Integration von Experience Manager Assets mit Anwendungen
+# Nahtlose Integration von Experience Manager Assets mit Programmen
 
-Nahtlose Integration von Experience Manager Assets mit Anwendungen
+Nahtlose Integration von Experience Manager Assets mit Programmen
 
-Möchte Ihr Unternehmen Adobe Experience Manager (AEM)-gehostete Assets von Ihren Nicht-Adobe-CMS bereitstellen? Möchten Sie wissen, wie Sie stabile, prüfbare und wartbare AEM Assets-Integrationen in Minuten anstatt in Stunden/Tagen schreiben? In dieser Sitzung werden wir die Integrationsfunktion der nächsten Generation von Experience Manager Assets vorstellen, einer brandneuen Innovation für die Asset-Bereitstellung, die speziell für die Erhöhung der Entwicklungsgeschwindigkeit (schnellere TTV) entwickelt wurde und extrem niedrigen Wartungsaufwand (niedrigere TCO) ermöglicht. Die Innovation ermöglicht den Konsum und die Bereitstellung markengenehmigter Assets, die auf AEM Assets-Cloud Services gehostet werden, und ermöglicht es Unternehmen, die Asset-Verfügbarkeit (für Content-Authoring und Bereitstellung) zu steuern und Einblicke in deren Nutzung zu erhalten. → Fahren Sie mit dem Gespräch fort unter: https://adobe.ly/3LQUiij
+Möchte Ihr Unternehmen gehostete Adobe Experience Manager (AEM)-Assets von Ihren Nicht-Adobe-CMS bereitstellen? Möchten Sie wissen, wie Sie stabile, testbare und verwaltbare AEM Assets-Integrationen in Minuten anstatt in Stunden/Tagen schreiben können? In dieser Sitzung stellen wir die Integrationsfunktion der nächsten Generation von Experience Manager Assets vor, eine brandneue Innovation für die Asset-Bereitstellung, die speziell entwickelt wurde, um die Entwicklungsgeschwindigkeit zu erhöhen (schnelleres TV) und einen extrem niedrigen Wartungsaufwand (niedrigere TCO) ermöglicht. Die Neuerung ermöglicht die Nutzung und Bereitstellung von markenbestätigten Assets auf dem AEM Assets-Cloud Service und versetzt Unternehmen in die Lage, die Verfügbarkeit von Assets (für die Inhaltserstellung und -bereitstellung) zu steuern und Einblicke in ihren Verbrauch zu erhalten. → Setzen Sie das Gespräch fort unter: https://adobe.ly/3LQUiij
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419943/?learn=on)

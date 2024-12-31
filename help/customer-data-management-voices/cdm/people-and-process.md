@@ -1,6 +1,6 @@
 ---
-title: Best Practices der CDP - Personen und Prozesse
-description: Erfahren Sie, wie Sie Ihre Kundendatenplattform optimal nutzen können, indem Sie in die Mitarbeiter und Prozesse hinter den Technologien investieren. Adobe's Nina Caruso teilt Ihnen, wie Sie Ihr Unternehmen einrichten ... (Die Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
+title: CDP - Best Practices - Personen und Prozesse
+description: Erfahren Sie, wie Sie Ihre CDP optimal nutzen können, indem Sie in die Mitarbeiter und Prozesse hinter der Technologie investieren. Nina Caruso von Adobe erzählt, wie man sein Unternehmen einrichtet … (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -16,14 +16,14 @@ ht-degree: 7%
 
 ---
 
-# Best Practices der CDP - Personen und Prozesse
+# CDP - Best Practices - Personen und Prozesse
 
-Erfahren Sie, wie Sie Ihre Kundendatenplattform optimal nutzen können, indem Sie in die Mitarbeiter und Prozesse hinter den Technologien investieren. Adobe&#39;s Nina Caruso teilt Ihnen, wie Sie Ihre Organisation erfolgreich einrichten und dabei organisatorische Siloes aufteilen.
+Erfahren Sie, wie Sie Ihre CDP optimal nutzen können, indem Sie in die Mitarbeiter und Prozesse hinter der Technologie investieren. Nina Caruso von Adobe erzählt, wie man sein Unternehmen für den Erfolg gründet und gleichzeitig die organisatorischen Silos auflöst.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344313/?quality=12&learn=on)
 
 ## Zusätzliche Informationen
 
-* [Optimierung Ihrer ersten Rolle im Data Management](first-mile.md)
-* [Erhöhen der Rolle des Marketingexperten als Datensteve](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+* [Optimierung des ersten Schritts des Daten-Managements](first-mile.md)
+* [Stärkung der Rolle des Marketing-Experten als Data Steward](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
 * [10 Überlegungen zum verantwortungsvollen Kundendaten-Management](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)

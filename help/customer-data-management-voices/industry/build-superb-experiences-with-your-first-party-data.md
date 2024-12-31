@@ -1,6 +1,6 @@
 ---
-title: Erstellen hervorragender Erlebnisse mit Ihren Erstanbieterdaten
-description: Erfahren Sie, wie Sie Erstanbieter-Cookie-Daten mit einwilligungsbasierten dauerhaften IDs verknüpfen, um Zugriff auf den Golden Customer Record zu erhalten.
+title: Erstellen Sie mit Ihren First-Party-Daten hervorragende Erlebnisse
+description: Erfahren Sie, wie Sie Erstanbieter-Cookie-Daten mit einverständnisbasierten dauerhaften Kennungen verbinden können, um Zugriff auf den goldenen Kundendatensatz zu erhalten.
 solution: Real-Time Customer Data Platform
 feature: Identities
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen hervorragender Erlebnisse mit Ihren Erstanbieterdaten
+# Erstellen Sie mit Ihren First-Party-Daten hervorragende Erlebnisse
 
-Drittanbieter-Cookies gehen möglicherweise weg, aber Erstanbieterdaten müssen weiterhin Eigentum, Verwaltung und Schutz sein. Erfahren Sie, wie Sie Erstanbieter-Cookie-Daten mit einwilligungsbasierten dauerhaften IDs verknüpfen, um Zugriff auf den &quot;goldenen&quot;Kundendatensatz zu erhalten.
+Third-Party-Cookies werden möglicherweise entfernt, aber First-Party-Daten liegen weiterhin in Ihrem Besitz, verwalten und schützen. Erfahren Sie, wie Sie Erstanbieter-Cookie-Daten mit einverständnisbasierten dauerhaften Kennungen verbinden können, um Zugriff auf den „goldenen“ Kundendatensatz zu erhalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340369/?quality=12&learn=on)

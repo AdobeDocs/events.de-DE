@@ -1,6 +1,6 @@
 ---
 title: Schnelle Site-Erstellung
-description: Adobe Experience Manager führt innovative neue Wege zur Erstellung einer Website ein. Anstatt mit dem Adobe Experience Manager-Projektarchetyp zu beginnen, können wir nun mit einer entsprechenden Site-Vorlage für Ihr Projekt beginnen. In dieser Sitzung wird der neue durchgängige Prozess zum Erstellen von Sites anhand einer Site-Vorlage vorgestellt. Sie werden sehen, wie (1) Frontend-Entwickler mit einer Echtzeitvorschau der Designänderungen arbeiten, die über die Frontend-Cloud Manager-Pipeline bereitgestellt werden, und (2) Teams, die Vorlagen definieren, mit den Anwendern vor der Live-Schaltung nebeneinander arbeiten können.
+description: Adobe Experience Manager führt neue innovative Methoden zur Erstellung einer Website ein. Anstatt mit dem Adobe Experience Manager-Projektarchetyp zu beginnen, können wir nun alle mit einer entsprechenden Site-Vorlage für Ihr Projekt beginnen. In dieser Sitzung präsentieren wir den neuen End-to-End-Prozess zum Erstellen von Sites basierend auf einer Site-Vorlage. Sie erfahren, wie (1) Frontend-Entwicklerinnen und -Entwickler mit der Echtzeitvorschau von Design-Änderungen arbeiten, die über die Frontend-Cloud Manager-Pipeline bereitgestellt werden, und (2) Teams, die Vorlagen definieren, können vor der Live-Schaltung Seite an Seite mit Fachleuten arbeiten.
 solution: Experience Manager
 feature: Core Components, Code Deployment
 topic: Development
@@ -20,14 +20,14 @@ ht-degree: 2%
 
 # Schnelle Site-Erstellung
 
-Adobe Experience Manager führt innovative neue Wege zur Erstellung einer Website ein. Anstatt mit dem Adobe Experience Manager-Projektarchetyp zu beginnen, können wir nun mit einer entsprechenden Site-Vorlage für Ihr Projekt beginnen. In dieser Sitzung wird der neue durchgängige Prozess zum Erstellen von Sites anhand einer Site-Vorlage vorgestellt. Sie werden sehen, wie (1) Frontend-Entwickler mit einer Echtzeitvorschau der Designänderungen arbeiten, die über die Frontend-Cloud Manager-Pipeline bereitgestellt werden, und (2) Teams, die Vorlagen definieren, mit den Anwendern vor der Live-Schaltung nebeneinander arbeiten können.
+Adobe Experience Manager führt neue innovative Methoden zur Erstellung einer Website ein. Anstatt mit dem Adobe Experience Manager-Projektarchetyp zu beginnen, können wir nun alle mit einer entsprechenden Site-Vorlage für Ihr Projekt beginnen. In dieser Sitzung präsentieren wir den neuen End-to-End-Prozess zum Erstellen von Sites basierend auf einer Site-Vorlage. Sie erfahren, wie (1) Frontend-Entwicklerinnen und -Entwickler mit der Echtzeitvorschau von Design-Änderungen arbeiten, die über die Frontend-Cloud Manager-Pipeline bereitgestellt werden, und (2) Teams, die Vorlagen definieren, können vor der Live-Schaltung Seite an Seite mit Fachleuten arbeiten.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/2Y4sJMf)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/2Y4sJMf)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337721/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

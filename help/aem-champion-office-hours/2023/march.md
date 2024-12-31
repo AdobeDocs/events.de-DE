@@ -23,6 +23,6 @@ ht-degree: 0%
 
 # Adobe Experience Manager Champion Office Hours - Sites Focus
 
-Fokus auf AEM Sites.
+Konzentrieren Sie sich auf AEM Sites.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420725/?learn=on)

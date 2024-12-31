@@ -1,6 +1,6 @@
 ---
-title: Composability - App Builder, API-Mesh und Headless
-description: Überblick über die neuesten Entwicklungen auf der Adobe Commerce- und App Builder-Plattform zur Erweiterung digitaler Erlebnisse durch Headless-Composable-Innovation. Vorgestellt von Jason Ford, Head of ANZ Solution Engineering - Adobe
+title: Kompatibilität - App Builder, API Mesh und Headless
+description: Überblick über die neuesten Entwicklungen auf der Adobe Commerce- und App Builder-Plattform für die Erweiterbarkeit digitaler Erlebnisse durch Headless, zusammensetzbare Innovationen. Präsentiert von Jason Ford, Leiter ANZ Solution Engineering - Adobe
 feature: API Mesh
 topic: Commerce
 role: Admin, Developer, Leader, User
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 ---
 
-# Composability: App Builder, API-Mesh und Headless
+# Zusammensetzbarkeit: App Builder, API Mesh und Headless
 
-Überblick über die neuesten Entwicklungen auf der Adobe Commerce- und App Builder-Plattform zur Erweiterung digitaler Erlebnisse durch Headless-Composable-Innovation.
+Überblick über die neuesten Entwicklungen auf der Adobe Commerce- und App Builder-Plattform für die Erweiterbarkeit digitaler Erlebnisse durch Headless, zusammensetzbare Innovationen.
 
-+ Vorgestellt von Jason Ford, Head of ANZ Solution Engineering - Adobe
++ Präsentiert von Jason Ford, Leiter ANZ Solution Engineering - Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
 

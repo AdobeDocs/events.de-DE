@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - NOV 22 - Neueste Adobe Experience Manager Headless-Innovationen für Entwickler
-description: Neueste Adobe Experience Manager Headless-Innovationen für Entwickler Das Headless-Produktangebot von Adobe Experience Manager entwickelt sich weiter und wird besser. Mit APIs und anderen Innovationen, die Entwicklern mehr Tools zur Erledigung von Aufgaben bieten, werden wir in dieser Sitzung zeigen, wie Sie einige dieser Verbesserungen nutzen können, einschließlich der Verwaltung Headless Content über API und des Imports aus anderen Quellen und der Erstellung erweiterter Graph QL-Abfragen, die das CDN für eine optimale Bereitstellung nutzen.
+title: Adobe Developers Live - 22. November - Neueste Adobe Experience Manager Headless-Innovationen für Entwickler
+description: Neueste Adobe Experience Manager Headless-Innovationen für Entwickler Das Adobe Experience Manager Headless-Produktangebot entwickelt sich weiter und wird immer besser. Es umfasst APIs und andere Innovationen, die Entwicklern mehr Tools zur Erledigung von Aufgaben bieten. In dieser Sitzung zeigen wir Ihnen, wie Sie einige dieser Fortschritte nutzen können, einschließlich der Verwaltung von Headless-Inhalten über API und des Imports aus anderen Quellen und der Erstellung erweiterter Graph QL-Abfragen, die das CDN für eine optimale Bereitstellung nutzen.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 # Neueste Adobe Experience Manager Headless-Innovationen für Entwickler
 
-Das Headless-Produktangebot von Adobe Experience Manager entwickelt sich weiter und wird besser. Es beinhaltet APIs und andere Innovationen, die Entwicklern mehr Werkzeuge zur Umsetzung von Aufgaben bieten.
+Das Adobe Experience Manager Headless-Produktangebot entwickelt sich weiter und wird immer besser. Es umfasst APIs und andere Innovationen, die Entwickelnden mehr Tools zur Erledigung von Aufgaben bieten.
 
-In dieser Sitzung werden wir zeigen, wie Sie einige dieser Verbesserungen verwenden können, einschließlich der Verwaltung von Headless Content über API und des Imports aus anderen Quellen und der Erstellung erweiterter Graph QL-Abfragen, die das CDN für eine optimale Bereitstellung nutzen.
+In dieser Sitzung zeigen wir Ihnen, wie Sie einige dieser Fortschritte nutzen können, einschließlich der Verwaltung von Headless-Inhalten über API und des Imports aus anderen Quellen, und wie Sie erweiterte Graph QL-Abfragen erstellen, die das CDN für eine optimale Bereitstellung nutzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411304/?quality=12&learn=on)

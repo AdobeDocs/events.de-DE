@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - NOV 22 - Erstellen von Inhalten und Commerce-Erlebnissen mithilfe von App Builder und API Mesh
-description: In dieser Sitzung erfahren Sie, wie der durchgängige Entwicklerfluss eine Headless-Experience-gesteuerte Commerce-Storefront aufbaut, angefangen mit dem AppBuilder-API-Mesh zum Aggregieren verschiedener Inhaltsquellen aus Adobe Experience Manager und Commerce Erfahren Sie, wie Sie ein Headless-Erlebnis mit Produkten erstellen, die mit Adobe Experience Manager-Inhaltsfragmenten angereichert wurden Verwenden von MikroFronten für , um einen Warenkorb in Ihre Anwendung zu integrieren.
+title: Adobe Developers Live - 22. November - So erstellen Sie Inhalte und Commerce-Erlebnisse mit App Builder und API Mesh
+description: In dieser Sitzung erfahren Sie, wie Sie den durchgängigen Entwicklerfluss zum Erstellen einer von Headless-Erlebnissen gesteuerten Commerce-Storefront nutzen, beginnend mit der AppBuilder-API Mesh zum Aggregieren verschiedener Inhaltsquellen aus Adobe Experience Manager und Commerce Erfahren Sie, wie Sie ein Headless-Erlebnis erstellen, in dem Produkte angezeigt werden, die mit Adobe Experience Manager-Inhaltsfragmenten angereichert sind Verwenden Sie Micro Frontends für , um einen Warenkorb in Ihr Programm zu integrieren
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ---
 
-# Erstellen von Inhalten und Commerce-Erlebnissen mit App Builder und API Measurement
+# Erstellen von Inhalten und Commerce-Erlebnissen mit App Builder und API Mesh
 
-In dieser Sitzung erfahren Sie, wie der durchgängige Entwicklerfluss eine Headless-Erlebnis-gesteuerte Commerce-Storefront erstellt.
+In dieser Sitzung erfahren Sie, wie Sie den durchgängigen Entwicklerfluss zum Erstellen einer Storefront für den Handel, die auf Headless-Erlebnisse basiert,
 
-* Einstieg in AppBuilder API-Mesh zum Aggregieren verschiedener Inhaltsquellen aus Adobe Experience Manager und Commerce
-* Erfahren Sie, wie Sie ein Headless-Erlebnis mit Produkten erstellen, die mit Adobe Experience Manager Content Fragments angereichert wurden
+* Beginnen mit AppBuilder API Mesh zum Aggregieren verschiedener Inhaltsquellen aus Adobe Experience Manager und Commerce
+* Erfahren Sie, wie Sie ein Headless-Erlebnis mit Produkten erstellen, die mit Adobe Experience Manager-Inhaltsfragmenten angereichert sind
 * Verwenden Sie Micro Frontends für , um einen Warenkorb in Ihre Anwendung zu integrieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411440/?quality=12&learn=on)

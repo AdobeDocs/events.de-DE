@@ -1,6 +1,6 @@
 ---
 title: Commerce und Kaffee - Personalization
-description: In dieser Sitzung werden Strategien und Taktiken zur Personalisierung Ihrer Commerce-Website vorgestellt, die Jahr für Jahr wettbewerbsfähig bleiben. Wir überprüfen, warum, was und wie die Auswirkungen auf die Konvertierung personalisiert und diskutiert werden, die in direktem Zusammenhang mit der Personalisierung stehen. Corey führt dann eine Demonstration von Kategorieberechtigungen, Kundensegmenten, dynamischen Bausteinen/Widgets, Produkt-Recommendations und mehr durch. Die Präsentation und die Demo werden von einem Live-Q&A mit Corey begleitet.
+description: In dieser Sitzung werden Strategien und Taktiken zur Personalisierung Ihrer Commerce-Site vorgestellt und Sie können das ganze Jahr über wettbewerbsfähig bleiben. Wir überprüfen das Warum, was und wie Sie personalisieren können und erörtern die Auswirkungen auf die Konversion, die direkt mit der Personalisierung zusammenhängen. Corey führt anschließend eine Demonstration von Kategorieberechtigungen, Kundensegmenten, dynamischen Bausteinen/Widgets, Produkt-Recommendations und mehr durch. Die Präsentation und die Demo werden von einer Live-Q&A mit Corey begleitet.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Commerce und Kaffee - Personalization
 
-In dieser Sitzung werden Strategien und Taktiken zur Personalisierung Ihrer Commerce-Website vorgestellt, die Jahr für Jahr wettbewerbsfähig bleiben. Wir überprüfen, warum, was und wie die Auswirkungen auf die Konvertierung personalisiert und diskutiert werden, die in direktem Zusammenhang mit der Personalisierung stehen. Corey führt dann eine Demonstration von Kategorieberechtigungen, Kundensegmenten, dynamischen Bausteinen/Widgets, Produkt-Recommendations und mehr durch. Die Präsentation und die Demo werden von einem Live-Q&amp;A mit Corey begleitet.
+In dieser Sitzung werden Strategien und Taktiken zur Personalisierung Ihrer Commerce-Site vorgestellt und Sie können das ganze Jahr über wettbewerbsfähig bleiben. Wir überprüfen das Warum, was und wie Sie personalisieren können und erörtern die Auswirkungen auf die Konversion, die direkt mit der Personalisierung zusammenhängen. Corey führt anschließend eine Demonstration von Kategorieberechtigungen, Kundensegmenten, dynamischen Bausteinen/Widgets, Produkt-Recommendations und mehr durch. Die Präsentation und die Demo werden von einer Live-Q&amp;A mit Corey begleitet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412700/?quality=12&learn=on)

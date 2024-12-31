@@ -1,6 +1,6 @@
 ---
-title: Einführung in den AEM Universal Editor
-description: Der universelle Editor ist die nächste Generation AEM kontextbezogenen Seiten-Editors und löst die aktuellen Einschränkungen des AEM Seiten-Editors oder SPA-Editors. Es ist unabhängig von Frameworks, Rendering-Engines und Datenquellen - und bietet so die Freiheit, die die Entwickler suchen, und macht es wirklich universell.
+title: Einführung in den universellen AEM-Editor
+description: Der universelle Editor ist die nächste Generation des kontextbezogenen AEM-Seiteneditors und löst die aktuellen Einschränkungen des AEM-Seiteneditors oder SPA-Editors. Es ist unabhängig von Frameworks, Rendering-Engines und Datenquellen - und bietet somit all die Freiheit, die die Entwickler anstreben, und macht sie wirklich universell.
 olution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Einführung in den AEM Universal Editor
+# Einführung in den universellen AEM-Editor
 
-Der universelle Editor ist die nächste Generation AEM kontextbezogenen Seiten-Editors und löst die aktuellen Einschränkungen des AEM Seiten-Editors oder SPA-Editors. Es ist unabhängig von Frameworks, Rendering-Engines und Datenquellen - und bietet so die Freiheit, die die Entwickler suchen, und macht es wirklich universell.
+Der universelle Editor ist die nächste Generation des kontextbezogenen AEM-Seiteneditors und löst die aktuellen Einschränkungen des AEM-Seiteneditors oder SPA-Editors. Es ist unabhängig von Frameworks, Rendering-Engines und Datenquellen - und bietet somit all die Freiheit, die die Entwickler anstreben, und macht sie wirklich universell.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426341/?learn=on)

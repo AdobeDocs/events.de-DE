@@ -1,6 +1,6 @@
 ---
-title: Vorbereiten auf Marketo Engage auf Adobe Identity
-description: Nehmen Sie an dieser Schulungssitzung teil, um sich auf die Migration von Marketo Engage-Abonnements zu Adobe Identity vorzubereiten, wobei der Schwerpunkt auf der Benutzermigration, Schlüsselaktionen und wichtigen Ressourcen für Administratoren liegt. Außerdem erhalten Sie Anleitungen zum Navigieren in der Migrationskonsole und zum Verständnis der Änderungen bei jedem Meilenstein.
+title: Vorbereiten des Marketo Engage auf Adobe Identity
+description: Nehmen Sie an dieser Schulungssitzung teil, um sich auf die Migration von Marketo Engage-Abonnements zu Adobe Identity vorzubereiten, wobei der Schwerpunkt auf der Benutzermigration, wichtigen Aktionen und wichtigen Ressourcen für Admins liegt, sowie auf Anleitungen zum Navigieren in der Migrationskonsole und zum Verständnis der Änderungen bei jedem Milestone.
 solution: Marketo
 feature: Administration
 role: Admin, Developer, Leader, User
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ---
 
-# Vorbereiten auf Marketo Engage auf Adobe Identity
+# Vorbereiten des Marketo Engage auf Adobe Identity
 
-Dies ist eine Schulung zur Migration von [Adobe Marketo Engage-Abonnements zur Integration in das Adobe Identity Management-System](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Der Inhalt eignet sich am besten für Marketo Engage-Administratoren. Diese Schulung vermittelt Ihnen das notwendige Wissen, um Ihre Organisation funktionsübergreifend vorzubereiten und interne Benutzer über diese bevorstehende Änderung zu informieren.
+Dies ist eine Schulung zur Migration von [Adobe Marketo Engage-Abonnements für die Integration mit dem Adobe Identity Management-System](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Der Inhalt eignet sich am besten für Marketo Engage-Administratoren. Diese Schulung vermittelt Ihnen das erforderliche Wissen, um Ihr Unternehmen funktionsübergreifend vorzubereiten und interne Benutzer über diesen bevorstehenden Wandel zu informieren.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Übersicht
 
-Diese Schulungssitzung konzentriert sich auf die Migration von Marketo Engage-Abonnements zu Adobe Identity und Adobe Admin Console. Er behandelt wesentliche Aspekte in jeder Phase (Produkt-, Benutzer- und Support-Übergang) der Migration-Journey, wobei der Schwerpunkt auf der Benutzermigration liegt.
+Diese Schulung konzentriert sich auf die Migration von Marketo Engage-Abonnements zu Adobe Identity und Adobe Admin Console. Es behandelt wesentliche Aspekte in jedem Schritt (Umstellung auf Produkt, Anwender und Support) der Migrations-Journey, wobei der Schwerpunkt auf der Benutzermigration liegt.
 
-## In dieser Sitzung werden Sie voraussichtlich Folgendes hören:
+## In dieser Sitzung werden Sie Folgendes erwarten:
 
-1. Übersicht über Änderungen oder Änderungen, Migrationsaktionen, die von den Administratoren oder Benutzern Ihrer Organisation benötigt werden, und Mitteilungen von Adobe zu jedem Meilenstein.
-1. Zu den wichtigsten Migrationsaktionen gehören die Planung eines Migrationsdatums während der Vormigration, die Erwartung während der Benutzermigration und die Navigation in der Migrationskonsole für Instanzen, die für die Selbstmigration infrage kommen.
-1. Hilfreiche Ressourcen und vier wichtige Schritte, die Administratoren durchführen sollten, um Ihr Unternehmen auf die bevorstehenden Änderungen vorzubereiten.
+1. Überblick darüber, was sich ändert oder nicht ändert, die von den Administratoren oder Benutzern Ihres Unternehmens erforderlichen Migrationsaktionen und die Mitteilungen von Adobe bei jedem Milestone.
+1. Zu den wichtigsten Migrationsaktionen gehören die Planung eines Migrationsdatums während der Vormigration, was während der Benutzermigration zu erwarten ist und die Navigation in der Migrationskonsole für Instanzen, die für die Selbstmigration geeignet sind.
+1. Hilfreiche Ressourcen und vier wichtige Schritte, die Administratoren unternehmen sollten, um Ihr Unternehmen auf die bevorstehenden Änderungen vorzubereiten.

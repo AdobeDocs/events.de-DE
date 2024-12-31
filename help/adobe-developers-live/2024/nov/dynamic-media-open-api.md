@@ -1,6 +1,6 @@
 ---
-title: Skalierbare Web-optimierte Bereitstellung und Inhaltsumwandlung mithilfe von Dynamic Media mit der Open API über die Asset-Auswahl
-description: Verwalten und liefern Sie Rich-Media-Assets nahtlos mit der Open API von Dynamic Media, die Anpassung, Optimierung und entwicklerfreundliche Programmverwaltung sowie erweiterte Modifikatoren, intelligente Bildbearbeitung und vielseitige Integrationsmuster bietet.
+title: Skalierbare, Web-optimierte Bereitstellung und Inhaltstransformation mithilfe von Dynamic Media mit Open API über den Asset-Selektor
+description: Mit der Open API von Dynamic Media können Sie Rich-Media-Assets nahtlos verwalten und bereitstellen. Sie bietet Anpassungs-, Optimierungs- und entwicklungsfreundliche programmgesteuerte Verwaltung sowie erweiterte Modifikatoren, intelligente Bildbearbeitung und vielseitige Integrationsmuster.
 solution: Experience Manager, Experience Manager Assets
 feature: Dynamic Media, Edge Delivery Services
 topic: Development
@@ -10,52 +10,52 @@ doc-type: Event
 duration: 991
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16550
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 6d62d137-dcfe-4819-b04e-8ed41c271957
+source-git-commit: baacc97f717d27581d0ef28384e2f680dbef854e
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
+# Skalierbare, Web-optimierte Bereitstellung und Inhaltstransformation mithilfe von Dynamic Media mit Open API über den Asset-Selektor
 
-# Skalierbare Web-optimierte Bereitstellung und Inhaltsumwandlung mithilfe von Dynamic Media mit der Open API über die Asset-Auswahl
-
-Erfahren Sie, wie Adobe Experience Manager Assets as a Cloud Service und Dynamic Media die Inhaltsbereitstellung verbessern. Karanjeet Singh, Engineering Manager, demonstriert smartes Zuschneiden, vorkonfiguriertes Authoring und die Integration mit Edge Delivery Services und Drittanbieteranwendungen für optimierte Workflows.
+Erfahren Sie, wie Adobe Experience Manager Assets as a Cloud Service und Dynamic Media die Inhaltsbereitstellung verbessern. Karanjeet Singh, Engineering Manager, demonstriert smartes Zuschneiden, Vorgabenerstellung und Integration mit Edge Delivery Services und Anwendungen von Drittanbietern für optimierte Workflows.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440336/?learn=on&enablevpops)
 
 ## Community-Diskussion
 
-Fahren Sie mit der Unterhaltung in der Adobe Developers Live Community [diskussion](https://adobe.ly/3YMhKU9) fort.
+Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](https://adobe.ly/3YMhKU9) fort.
 
-## Wichtige Schritte
+## Wichtige Erkenntnisse
 
-* **Einführung in Dynamic Media mit offener API**
-   * Nahtloses Verwalten und Bereitstellen von Rich-Media-Assets (Bildern, Videos) mit benutzerdefinierter und optimierter Konfiguration direkt.
-   * Demokratisieren von Assets als Cloud-Service für verschiedene Anwendungen (Adobe und Drittanbieter).
+* **Einführung in Dynamic Media mit Open API**
+   * Nahtlose Verwaltung und Bereitstellung von Rich-Media-Assets (Bildern, Videos) mit Anpassung und Optimierung im laufenden Betrieb.
+   * Demokratisierung von Assets as a Cloud Service für verschiedene Anwendungen (Adobe und Drittanbieter).
 
 * **Vorteile**
-   * Keine Binärkopien, die den inhärenten Asset-Lebenszyklus beibehalten.
+   * Keine Binärkopien, Beibehaltung des inhärenten Asset-Lebenszyklus
    * Öffentliche und eingeschränkte URLs zur Asset-Bereitstellung.
-   * Entwicklerfreundliche programmatische Verwaltung über offene APIs.
+   * Entwicklerfreundliche programmgesteuerte Verwaltung über offene APIs.
 
 * **Integrationsmuster**
-   * Über die Asset-Auswahl.
-   * Über die Suche Öffnen Sie APIs.
+   * Über den Asset-Wähler.
+   * Über die Suche öffnen Sie APIs.
 
-* **Inhaltsumwandlung und Web-optimierte Bereitstellung**
-   * Vier Arten von URLs für unterschiedliche Zwecke (Ausgabedarstellungen, Inhaltstransformation, adaptives Video-Streaming, Metadaten).
-   * Es wurden neue erweiterte Modifikatoren eingeführt (Vorgaben, Ebenenmaske, DSGVO-Unschärfemaske, intelligente Bildbearbeitung).
+* **Inhaltstransformation und Web-optimierte Bereitstellung**
+   * Vier URL-Typen für verschiedene Zwecke (Ausgabedarstellungen, Inhaltstransformation, adaptives Video-Streaming, Metadaten).
+   * Neue erweiterte Modifikatoren (Voreinstellungen, Ebenenmaske, DPR-Unschärfemaske, intelligente Bildbearbeitung).
    * Unterstützung für AV- und TIFF-Ausgabeformate.
 
-* **Smart Imaging** Browserformat-Konvertierung, Optimierung der Netzwerkbandbreite und Geräte-Pixel-Verhältnis (DPR).
+* **Intelligente Bildbearbeitung** Browser-Formatkonvertierung, Optimierung der Netzwerkbandbreite und Gerätepixelverhältnis (Device Pixel Ratio, DPR).
 
 * **Asset-Wähler**
    * Benutzeroberfläche zur Integration von Adobe Experience Manager-Assets.
-   * Zwei Benutzeroberflächen-Varianten: modale und reale Ansicht.
-   * Integrationsschritte und Beispiele für die Verwendung in nachgelagerten Anwendungen.
+   * Zwei Benutzeroberflächenvarianten: modale und reale Ansicht.
+   * Integrationsschritte und Nutzungsbeispiele in nachgelagerten Anwendungen.
 
 * **Beispiele und Demonstrationen**
-   * Benutzerdefinierte E-Mail-Client- und Webseiten-Integration.
-   * Verwendung von erweiterten Modifikatoren und smarten Zuschnitten.
+   * Benutzerdefinierte Integration von E-Mail-Client und Website-Seite.
+   * Verwendung von erweiterten Modifikatoren und smartem Zuschneiden.
    * Bereitstellungsdienste mit adaptivem Audio-Streaming und Hotspot-Integration.

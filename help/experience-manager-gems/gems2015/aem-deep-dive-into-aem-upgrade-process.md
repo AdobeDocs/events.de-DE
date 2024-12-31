@@ -1,6 +1,6 @@
 ---
-title: Einblick in AEM Upgrade-Prozess
-description: Erfahren Sie mehr über das allgemeine Aktualisierungsszenario, Upgrade-Erweiterungspunkte und wie wir die Upgrade-Mechanismen testen. Erfahren Sie mehr über die technischen Herausforderungen im Zusammenhang mit der Aktualisierung. Hier erhalten Sie Informationen zu möglichen Upgrade- und Nebenstufen-Szenarien, Tipps zur Beschleunigung des Prozesses und Informationen zu erweiterten Funktionen.
+title: Detaillierte Einblicke in den AEM-Upgrade-Prozess
+description: Erfahren Sie mehr über das allgemeine Upgrade-Szenario, Upgrade-Erweiterungspunkte und darüber, wie wir die Upgrade-Mechanismen testen. Lernen Sie einige der technischen Herausforderungen im Zusammenhang mit Upgrades kennen. Hier erhalten Sie Informationen über mögliche Upgrade- und Sidegrade-Szenarien, Tipps zur Beschleunigung des Prozesses und Informationen über erweiterte Funktionen.
 discoiquuid: 86781dba-fe73-46f9-a5d0-a4f04c0c1fc5
 targetaudience: target-audience advanced
 exl-id: 691e1ac6-853a-4860-8258-a1c8fc46d32e
@@ -12,15 +12,15 @@ ht-degree: 0%
 
 ---
 
-# Einblick in AEM Upgrade-Prozess{#deep-dive-into-aem-upgrade-process}
+# Detaillierte Einblicke in den AEM-Upgrade-Prozess{#deep-dive-into-aem-upgrade-process}
 
-Erfahren Sie mehr über das allgemeine Aktualisierungsszenario, Upgrade-Erweiterungspunkte und wie wir die Upgrade-Mechanismen testen. Erfahren Sie mehr über die technischen Herausforderungen im Zusammenhang mit der Aktualisierung. Hier erhalten Sie Informationen zu möglichen Upgrade- und Nebenstufen-Szenarien, Tipps zur Beschleunigung des Prozesses und Informationen zu erweiterten Funktionen.
+Erfahren Sie mehr über das allgemeine Upgrade-Szenario, Upgrade-Erweiterungspunkte und darüber, wie wir die Upgrade-Mechanismen testen. Lernen Sie einige der technischen Herausforderungen im Zusammenhang mit Upgrades kennen. Hier erhalten Sie Informationen über mögliche Upgrade- und Sidegrade-Szenarien, Tipps zur Beschleunigung des Prozesses und Informationen über erweiterte Funktionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19376/?quality=9)
 
-*Ausgestellt am 14. Oktober 2015*
+*Veröffentlicht am 14.10.2015*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 * Bertrand Delacretaz, Principal Scientist, Adobe
 * Tomek Rekawek Software Developer, Adobe

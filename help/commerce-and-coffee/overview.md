@@ -1,6 +1,6 @@
 ---
 title: Commerce und Kaffee
-description: Die Adobe Commerce- und Coffee-Serie konzentriert sich auf Commerce-Strategien und -Taktiken, unterstützt durch Statistiken, die das Ereignisthema widerspiegeln.
+description: Die Adobe Commerce- und Coffee-Serie konzentriert sich auf Strategien und Taktiken von Commerce und wird durch Statistiken unterstützt, die das Veranstaltungsthema widerspiegeln.
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
 source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Commerce und Kaffee
 
-Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden mit allen Qualifikationsstufen und Funktionen von Sr. Commerce Strategy Consultant, Corey Gelato. Die Serie konzentriert sich auf Commerce-Strategien und -Taktiken, unterstützt durch Statistiken, die das Ereignisthema widerspiegeln. Im Anschluss an die Präsentation wird in einer Live-Demonstration gezeigt, wie die diskutierten Strategien in einer Commerce-Plattform umgesetzt werden können. Jede Veranstaltung schließt ab, indem die Teilnehmer die Möglichkeit haben, Fragen live zu stellen und direkt mit den Adobe-Experten zu interagieren. Sie hinterlassen bei jedem Event ein neues Gefühl dafür, warum und wie Sie wettbewerbsfähig bleiben und Erfolg erzielen können, und maximieren gleichzeitig das Angebot Ihrer Adobe Commerce-Plattform.
+Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden aller Qualifikationsstufen und Funktionen, Sr. Commerce Strategy Consultant, Corey Gelato. Die Serie konzentriert sich auf Strategien und Taktiken von Commerce, unterstützt durch Statistiken, die das Veranstaltungsthema widerspiegeln. Im Anschluss an die Präsentation findet eine Live-Demonstration statt, in der gezeigt wird, wie die besprochenen Strategien innerhalb einer Commerce-Plattform in die Tat umgesetzt werden. Jede Veranstaltung bietet den Teilnehmern die Möglichkeit, Fragen live zu stellen und direkt mit den Adobe-Fachleuten zu interagieren. Sie erhalten bei jeder Veranstaltung ein neues Verständnis dafür, warum und wie Sie wettbewerbsfähig bleiben und erfolgreich sein können, und maximieren gleichzeitig die Leistungsfähigkeit Ihrer Adobe Commerce-Plattform.
 
-## Ereignisse 2024
+## Veranstaltungen 2024
 
 <!-- CARDS
 * 2024/ask-me-anything.md
@@ -29,8 +29,8 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/ask-me-anything.md" title="Fragen Sie mich irgendwas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437034/?format=jpeg&nocache=1732308154244" alt="Fragen Sie mich irgendwas"
+                    <a href="2024/ask-me-anything.md" title="Frag mich was" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437034/?format=jpeg&nocache=1732308154244" alt="Frag mich was"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -38,12 +38,12 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/ask-me-anything.md" target="_blank" rel="referrer" title="Fragen Sie mich irgendwas">Fragen Sie mich nach etwas</a>
+                        <a href="2024/ask-me-anything.md" target="_blank" rel="referrer" title="Frag mich was">Fragen Sie mich irgendetwas</a>
                     </p>
-                    <p class="is-size-6">Commerce und Coffee beantworten Teilnehmerfragen zu Adobe Commerce, erkunden Sie die Unternehmenshierarchie, Metriken zur Website-Performance, B2B-Personalisierung, Best Practices für die Live-Suche und bevorstehende Produktverbesserungen.</p>
+                    <p class="is-size-6">Commerce und Coffee beantworten Fragen von Teilnehmern zu Adobe Commerce und liefert Informationen zu Unternehmenshierarchien, Website-Leistungsmetriken, B2B-Personalisierung, Best Practices für die Live-Suche und kommenden Produktverbesserungen.</p>
                 </div>
                 <a href="2024/ask-me-anything.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
         </div>
@@ -52,8 +52,8 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md" title="Commerce- und Kaffeestrategien für B2B eCommerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432604/?format=jpeg&nocache=1732308154235" alt="Commerce- und Kaffeestrategien für B2B eCommerce"
+                    <a href="2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md" title="Commerce- und Kaffeestrategien für B2B-E-Commerce" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432604/?format=jpeg&nocache=1732308154235" alt="Commerce- und Kaffeestrategien für B2B-E-Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -61,12 +61,12 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md" target="_blank" rel="referrer" title="Commerce- und Kaffeestrategien für B2B eCommerce">Commerce- und Kaffeestrategien für B2B eCommerce</a>
+                        <a href="2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md" target="_blank" rel="referrer" title="Commerce- und Kaffeestrategien für B2B-E-Commerce">Commerce- und Kaffeestrategien für B2B-E-Commerce</a>
                     </p>
-                    <p class="is-size-6">Corey Gelato präsentiert Strategien zur Maximierung der nativen B2B-Funktionen von Adobe Commerce, einschließlich Self-Service-Optionen, freigegebener Kataloge, Anführungszeichen und Schnellbestellungen, während gleichzeitig wichtige eCommerce-Trends untersucht werden, um Wachstum zu fördern und B2B-Unternehmen erfolgreich zu positionieren.</p>
+                    <p class="is-size-6">Corey Gelato zeigt Strategien zur Maximierung der nativen B2B-Funktionen von Adobe Commerce auf, einschließlich Self-Service-Optionen, freigegebener Kataloge, Angebote und schneller Bestellungen, während er gleichzeitig wichtige E-Commerce-Trends untersucht, um das Wachstum zu fördern und B2B-Unternehmen für den Erfolg zu positionieren.</p>
                 </div>
                 <a href="2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
         </div>
@@ -75,8 +75,8 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/ecommerce-essentials.md" title="Commerce &amp; Coffee - E-Commerce-Grundlagen meistern" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429437/?format=jpeg&nocache=1732308154232" alt="Commerce &amp; Coffee - E-Commerce-Grundlagen meistern"
+                    <a href="2024/ecommerce-essentials.md" title="Commerce und Kaffee - E-Commerce-Grundlagen meistern" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429437/?format=jpeg&nocache=1732308154232" alt="Commerce und Kaffee - E-Commerce-Grundlagen meistern"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,12 +84,12 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/ecommerce-essentials.md" target="_blank" rel="referrer" title="Commerce &amp; Coffee - E-Commerce-Grundlagen meistern">Commerce &amp; Kaffee - E-Commerce-Grundlagen meistern</a>
+                        <a href="2024/ecommerce-essentials.md" target="_blank" rel="referrer" title="Commerce und Kaffee - E-Commerce-Grundlagen meistern">Commerce und Coffee - Beherrschen von E-Commerce Essentials</a>
                     </p>
-                    <p class="is-size-6">Corey Gelato behandelt E-Commerce-Grundlagen zu Adobe Commerce und hebt Strategien für personalisierte Merchandising, Treueprogramme, optimierte Zahlungen und Versand sowie wirksame Marketingkampagnen hervor, um Kundeninteraktionen, Kundenbindung und Konversionen zu fördern.</p>
+                    <p class="is-size-6">Corey Gelato's Session behandelt eCommerce Essentials auf Adobe Commerce und hebt Strategien für personalisiertes Merchandising, Treueprogramme, optimierte Zahlungen und Versand sowie effektive Marketing-Kampagnen zur Förderung von Kundeninteraktion, Kundenbindung und Konversionen hervor.</p>
                 </div>
                 <a href="2024/ecommerce-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
         </div>
@@ -98,8 +98,8 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/peak-season-prep.md" title="Commerce und Kaffee - Vorbereitung der Hochsaison" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434700/?format=jpeg&nocache=1732308154240" alt="Commerce und Kaffee - Vorbereitung der Hochsaison"
+                    <a href="2024/peak-season-prep.md" title="Commerce &amp; Coffee - Vorbereitung auf die Hauptsaison" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434700/?format=jpeg&nocache=1732308154240" alt="Commerce &amp; Coffee - Vorbereitung auf die Hauptsaison"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,12 +107,12 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/peak-season-prep.md" target="_blank" rel="referrer" title="Commerce und Kaffee - Vorbereitung der Hochsaison">Commerce &amp; Kaffee - Vorbereitung der Spitzensaison</a>
+                        <a href="2024/peak-season-prep.md" target="_blank" rel="referrer" title="Commerce &amp; Coffee - Vorbereitung auf die Hauptsaison">Commerce &amp; Coffee - Vorbereitung auf die Hauptsaison</a>
                     </p>
-                    <p class="is-size-6">Die Sitzung von Corey Gelato bietet E-Commerce-Unternehmen Strategien, um während der Spitzensaisons die Leistung ihrer Website zu optimieren, Inventar zu verwalten, die Kundeninteraktion mit KI-Tools zu verbessern und Analysen nach der Saison zu nutzen, um die Bindung und Treue zu verbessern.</p>
+                    <p class="is-size-6">Corey Gelato's Session bietet Strategien für E-Commerce-Unternehmen, sich in den Hochsaisons zu behaupten, indem sie die Website-Performance optimieren, Inventar verwalten, die Kundeninteraktion mit KI-Tools verbessern und Analysen nach der Saison nutzen, um die Kundenbindung und -loyalität zu verbessern.</p>
                 </div>
                 <a href="2024/peak-season-prep.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
         </div>
@@ -121,8 +121,8 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/personalize-ecommerce.md" title="Commerce und Kaffee - Personalisierung von E-Commerce-Erlebnissen mit KI" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427493/?format=jpeg&nocache=1732308154247" alt="Commerce und Kaffee - Personalisierung von E-Commerce-Erlebnissen mit KI"
+                    <a href="2024/personalize-ecommerce.md" title="Commerce und Coffee - Personalisieren von E-Commerce-Erlebnissen mit KI" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427493/?format=jpeg&nocache=1732308154247" alt="Commerce und Coffee - Personalisieren von E-Commerce-Erlebnissen mit KI"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -130,12 +130,12 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/personalize-ecommerce.md" target="_blank" rel="referrer" title="Commerce und Kaffee - Personalisierung von E-Commerce-Erlebnissen mit KI">Commerce &amp; Kaffee - Personalisieren von E-Commerce-Erlebnissen mit KI</a>
+                        <a href="2024/personalize-ecommerce.md" target="_blank" rel="referrer" title="Commerce und Coffee - Personalisieren von E-Commerce-Erlebnissen mit KI">Commerce und Coffee - Personalisieren von E-Commerce-Erlebnissen mit KI</a>
                     </p>
-                    <p class="is-size-6">Corey Gelato, Sr. Commerce Strategy Consultant, stellt die KI-gestützten Tools von Adobe Commerce vor, einschließlich prädiktiver Analysen, Produktempfehlungen, Live Search und Chatbots, um personalisierte E-Commerce-Erlebnisse und zielgerichtete Marketing-Kampagnen zu verbessern.</p>
+                    <p class="is-size-6">Corey Gelato, Sr. Commerce Strategy Consultant, präsentiert KI-gesteuerte Tools von Adobe Commerce, einschließlich prädiktiver Analysen, Produktempfehlungen, Live-Suche und Chatbots, um personalisierte E-Commerce-Erlebnisse und zielgerichtete Marketing-Kampagnen zu verbessern.</p>
                 </div>
                 <a href="2024/personalize-ecommerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
         </div>
@@ -158,8 +158,8 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2023/ask-me-anything.md" title="Fragen Sie mich irgendwas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425651/?format=jpeg&nocache=1732308154583" alt="Fragen Sie mich irgendwas"
+                    <a href="2023/ask-me-anything.md" title="Frag mich was" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425651/?format=jpeg&nocache=1732308154583" alt="Frag mich was"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -167,12 +167,12 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/ask-me-anything.md" target="_blank" rel="referrer" title="Fragen Sie mich irgendwas">Fragen Sie mich nach etwas</a>
+                        <a href="2023/ask-me-anything.md" target="_blank" rel="referrer" title="Frag mich was">Fragen Sie mich irgendetwas</a>
                     </p>
-                    <p class="is-size-6">Im Jahresende beantwortet Corey Gelato Fragen und präsentiert Adobe Commerce-Funktionen wie Live Search, Kategorieregeln, Kundensegmentierung und B2B-Anführungszeichen, um Unternehmen in Spitzenzeiten zu unterstützen.</p>
+                    <p class="is-size-6">Commerce Im AMA zum Jahresende beantwortet Corey Gelato Fragen und präsentiert Adobe Commerce-Funktionen wie Live Search, Kategorieregeln, Kundensegmentierung und B2B-Angebote, um Unternehmen dabei zu helfen, sich in Spitzenzeiten zu behaupten.</p>
                 </div>
                 <a href="2023/ask-me-anything.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
         </div>
@@ -181,8 +181,8 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2023/b2b.md" title="Ermöglichen des B2B-Erfolgs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421687/?format=jpeg&nocache=1732308154575" alt="Ermöglichen des B2B-Erfolgs"
+                    <a href="2023/b2b.md" title="B2B-Erfolg unterstützen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421687/?format=jpeg&nocache=1732308154575" alt="B2B-Erfolg unterstützen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -190,12 +190,12 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/b2b.md" target="_blank" rel="referrer" title="Ermöglichen des B2B-Erfolgs">Ermöglichen des B2B-Erfolgs</a>
+                        <a href="2023/b2b.md" target="_blank" rel="referrer" title="B2B-Erfolg unterstützen">B2B-Erfolg unterstützen</a>
                     </p>
-                    <p class="is-size-6">Erfahren Sie mehr über die erweiterten B2B-Funktionen von Adobe Commerce mit Corey Gelato, einschließlich freigegebener Kataloge, Anführungszeichen, Anforderungslisten und Genehmigungs-Workflows. Lernen Sie gleichzeitig Strategien kennen, um Wachstum zu fördern und in der sich entwickelnden B2B-Commerce-Landschaft wettbewerbsfähig zu bleiben.</p>
+                    <p class="is-size-6">Erkunden Sie mit Corey Gelato die erweiterten B2B-Funktionen von Adobe Commerce, einschließlich Shared Catalog, Quotes, Anforderungslisten und Genehmigungs-Workflows, und lernen Sie Strategien kennen, um das Wachstum zu steigern und in der sich entwickelnden B2B-Commerce-Landschaft wettbewerbsfähig zu bleiben.</p>
                 </div>
                 <a href="2023/b2b.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
         </div>
@@ -204,8 +204,8 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2023/loyalty-retention.md" title="7 Möglichkeiten zum Erstellen von Kundenloyalität und Kundenbindung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419686/?format=jpeg&nocache=1732308154578" alt="7 Möglichkeiten zum Erstellen von Kundenloyalität und Kundenbindung"
+                    <a href="2023/loyalty-retention.md" title="7 Möglichkeiten zum Aufbau von Kundentreue und Kundenbindung" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419686/?format=jpeg&nocache=1732308154578" alt="7 Möglichkeiten zum Aufbau von Kundentreue und Kundenbindung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -213,12 +213,12 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/loyalty-retention.md" target="_blank" rel="referrer" title="7 Möglichkeiten zum Erstellen von Kundenloyalität und Kundenbindung">7 Möglichkeiten zum Erstellen von Kundenloyalität und Kundenbindung</a>
+                        <a href="2023/loyalty-retention.md" target="_blank" rel="referrer" title="7 Möglichkeiten zum Aufbau von Kundentreue und Kundenbindung">7 Möglichkeiten zum Aufbau von Kundentreue und Kundenbindung</a>
                     </p>
-                    <p class="is-size-6">Erfahren Sie 7 Strategien zur Steigerung der Kundenloyalität und -bindung mit Corey Gelato, die Best Practices wie Personalisierung, Prämienprogramme und Transparenz sowie Adobe Commerce-Tools wie Product Recommendations, Preisregeln und Promotions enthalten.</p>
+                    <p class="is-size-6">Lernen Sie mit Corey Gelato 7 Strategien zur Steigerung der Kundentreue und -bindung kennen. Diese umfassen Best Practices wie Personalisierung, Prämienprogramme und Transparenz sowie Adobe Commerce-Tools wie Produkt-Recommendations, Preisregeln und Werbeaktionen.</p>
                 </div>
                 <a href="2023/loyalty-retention.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
         </div>
@@ -227,8 +227,8 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2023/organic-growth.md" title="Commerce &amp; Kaffee - Biologisches Wachstum" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416128/?format=jpeg&nocache=1732308154567" alt="Commerce &amp; Kaffee - Biologisches Wachstum"
+                    <a href="2023/organic-growth.md" title="Commerce &amp; Coffee - Organisches Wachstum" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416128/?format=jpeg&nocache=1732308154567" alt="Commerce &amp; Coffee - Organisches Wachstum"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -236,12 +236,12 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/organic-growth.md" target="_blank" rel="referrer" title="Commerce &amp; Kaffee - Biologisches Wachstum">Commerce &amp; Kaffee - Organisches Wachstum</a>
+                        <a href="2023/organic-growth.md" target="_blank" rel="referrer" title="Commerce &amp; Coffee - Organisches Wachstum">Commerce und Kaffee - organisches Wachstum</a>
                     </p>
-                    <p class="is-size-6">Entdecken Sie 7 Strategien zur Förderung des organischen eCommerce-Wachstums mit Corey Gelato, einschließlich SEO, Social Media und On-site-Optimierung, sowie Adobe Commerce-Tools wie URL-Neuschreibungen, Sitemap-Generierung und Metadatenverwaltung.</p>
+                    <p class="is-size-6">Entdecken Sie mit Corey Gelato 7 Strategien zur Förderung des organischen E-Commerce-Wachstums, einschließlich SEO, Social Media und Onsite-Optimierung sowie Adobe Commerce-Tools wie URL-Neuschreibungen, Sitemap-Generierung und Metadatenverwaltung.</p>
                 </div>
                 <a href="2023/organic-growth.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
         </div>
@@ -250,8 +250,8 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2023/peak-season-prep.md" title="Vorbereitung der Spitzensaison" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424390/?format=jpeg&nocache=1732308154571" alt="Vorbereitung der Spitzensaison"
+                    <a href="2023/peak-season-prep.md" title="Saisonvorbereitung" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424390/?format=jpeg&nocache=1732308154571" alt="Saisonvorbereitung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -259,12 +259,12 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/peak-season-prep.md" target="_blank" rel="referrer" title="Vorbereitung der Spitzensaison">Vorbereitung der Spitzensaison</a>
+                        <a href="2023/peak-season-prep.md" target="_blank" rel="referrer" title="Saisonvorbereitung">Vorbereitung auf die Hauptsaison</a>
                     </p>
-                    <p class="is-size-6">Lassen Sie sich von Corey Gelato anschließen, um die Spitzen-Saisonstrategien zu erkunden, einschließlich Promotions, Content Staging und Preisregeln, mit Live-Demonstrationen und Experten-Tipps, die Ihnen helfen, Ihre eCommerce-Site ganzjährig wettbewerbsfähig zu halten.</p>
+                    <p class="is-size-6">Erkunden Sie gemeinsam mit Corey Gelato die Strategien der Hochsaison, einschließlich Werbeaktionen, Content-Staging und Preisregeln, mit Live-Demonstrationen und Expertentipps, die Ihrer eCommerce-Site helfen, das ganze Jahr über wettbewerbsfähig zu bleiben.</p>
                 </div>
                 <a href="2023/peak-season-prep.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Mehr erfahren</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
         </div>

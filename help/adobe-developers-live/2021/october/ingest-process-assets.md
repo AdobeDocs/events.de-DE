@@ -1,6 +1,6 @@
 ---
-title: Erfassen und Verarbeiten von Assets in Experience Manager Assets as a Cloud Service
-description: Kunden haben mehrere Möglichkeiten, Assets in Adobe Experience Manager zu laden und sie in Adobe Experience Manager Assets einmal zu verarbeiten. Wie wählen Kunden den richtigen Ansatz für ihren Anwendungsfall aus? Wie können sie die Import- und Verarbeitungsfunktionen der Plattform nutzen, um den Wert ihrer Investitionen zu maximieren und ihre Wertschöpfungszeit zu verkürzen? Erfahren Sie mehr über die neuen Funktionen der Adobe Experience Manager Assets Cloud Service-Plattform.
+title: Aufnehmen und Verarbeiten von Assets in Experience Manager Assets as a Cloud Service
+description: Wir haben mehrere Möglichkeiten für Kunden, Assets in Adobe Experience Manager zu importieren und sie in Adobe Experience Manager Assets einmal zu verarbeiten. Wie wählen Kunden den richtigen Ansatz für ihren Anwendungsfall? Wie können sie die Import- und Verarbeitungsfunktionen der Plattform nutzen, um den Wert ihrer Investition zu maximieren und ihre Wertschöpfungszeit zu verkürzen? Erfahren Sie, wie die neuen Funktionen der Adobe Experience Manager Assets Cloud Service-Plattform.
 solution: Experience Manager,Experience Manager Assets
 feature: Asset Ingestion
 role: User
@@ -17,16 +17,16 @@ ht-degree: 3%
 
 ---
 
-# Erfassen und Verarbeiten von Assets in Experience Manager Assets as a Cloud Service
+# Aufnehmen und Verarbeiten von Assets in Experience Manager Assets as a Cloud Service
 
-Kunden haben mehrere Möglichkeiten, Assets in Adobe Experience Manager zu laden und sie in Adobe Experience Manager Assets einmal zu verarbeiten. Wie wählen Kunden den richtigen Ansatz für ihren Anwendungsfall aus? Wie können sie die Import- und Verarbeitungsfunktionen der Plattform nutzen, um den Wert ihrer Investitionen zu maximieren und ihre Wertschöpfungszeit zu verkürzen? Erfahren Sie mehr über die neuen Funktionen der Adobe Experience Manager Assets Cloud Service-Plattform.
+Wir haben mehrere Möglichkeiten für Kunden, Assets in Adobe Experience Manager zu importieren und sie in Adobe Experience Manager Assets einmal zu verarbeiten. Wie wählen Kunden den richtigen Ansatz für ihren Anwendungsfall? Wie können sie die Import- und Verarbeitungsfunktionen der Plattform nutzen, um den Wert ihrer Investition zu maximieren und ihre Wertschöpfungszeit zu verkürzen? Erfahren Sie, wie die neuen Funktionen der Adobe Experience Manager Assets Cloud Service-Plattform.
 
-Fahren Sie mit der Unterhaltung in **[Experience League Communities](https://adobe.ly/2Zq7dlg)** fort.
+Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/2Zq7dlg)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337773/?quality=12&learn=on&hidetitle=true)
 
 ## Weitere Ressourcen
 
-- [Adobe Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Überblick über Adobe Experience Manager-Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

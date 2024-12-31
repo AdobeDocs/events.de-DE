@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Champion Office Hours - Cloud Manager
-description: Nehmen Sie an der Mai-Edition von Adobe AEM Champion Office Hours teil, um über Best Practices zu diskutieren, Tipps zu teilen und Live-Q&A rund um AEM Cloud Manager zu führen. Ob Sie neu AEM sind, haben Sie eine Frage dazu, wie Cloud Manager Ihre Workflows optimieren kann oder verstehen möchte, wie die vordefinierte Build-Pipeline und stabile Bereitstellung von Cloud Manager es Unternehmen ermöglicht, AEM Anwendungen automatisch in der Cloud zu erstellen, zu testen und bereitzustellen. Unsere AEM haben die Antworten!
+description: Nehmen Sie an der Mai-Ausgabe der Adobe AEM Champion Office Hours teil, da ein Panel von Adobe Experience Manager Champions Best Practices bespricht, Tipps austauscht und an einer Live-Q&A rund um die Cloud Manager von AEM teilnimmt. Ganz gleich, ob Sie neu bei AEM sind, eine Frage dazu haben, wie Cloud Manager Ihre Workflows optimieren kann oder verstehen möchten, wie die vorkonfigurierte Build-Pipeline und die stabile Bereitstellung von Cloud Manager es Unternehmen ermöglicht, AEM-Anwendungen automatisch zu erstellen, zu testen und in der Cloud bereitzustellen, haben unsere AEM Champions die Antworten!
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 # Adobe Experience Manager Champion Office Hours - Cloud Manager
 
-Nehmen Sie an der Mai-Edition von Adobe AEM Champion Office Hours teil, um sich über die Best Practices von Adobe Experience Manager Champions zu informieren, Tipps zu teilen und sich mit einem Live-Q&amp;A rund um AEM Cloud Manager zu beschäftigen.
+Nehmen Sie an der Mai-Ausgabe der Adobe AEM Champion Office Hours teil, da ein Panel von Adobe Experience Manager Champions Best Practices bespricht, Tipps austauscht und Live-Fragen und -Antworten zur Cloud Manager von AEM veröffentlicht.
 
-Unabhängig davon, ob Sie neu AEM sind, eine Frage dazu haben, wie Cloud Manager Ihre Workflows optimieren kann oder wie die vorkonfigurierte Build-Pipeline und stabile Bereitstellung von Cloud Manager es Unternehmen ermöglicht, AEM Anwendungen automatisch in der Cloud zu erstellen, zu testen und bereitzustellen - unsere AEM Champions haben die richtigen Antworten!
+Egal, ob Sie neu bei AEM sind, eine Frage dazu haben, wie Cloud Manager Ihre Workflows optimieren kann, oder verstehen möchten, wie die vorkonfigurierte Build-Pipeline und die stabile Bereitstellung von Cloud Manager es Unternehmen ermöglicht, AEM-Anwendungen automatisch zu erstellen, zu testen und in der Cloud bereitzustellen, unsere AEM Champions haben die Antworten!
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420726/?learn=on)

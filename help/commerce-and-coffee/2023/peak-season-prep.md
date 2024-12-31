@@ -1,6 +1,6 @@
 ---
-title: Vorbereitung der Spitzensaison
-description: Lassen Sie sich von Corey Gelato anschließen, um die Spitzen-Saisonstrategien zu erkunden, einschließlich Promotions, Content Staging und Preisregeln, mit Live-Demonstrationen und Experten-Tipps, die Ihnen helfen, Ihre eCommerce-Site ganzjährig wettbewerbsfähig zu halten.
+title: Saisonvorbereitung
+description: Erkunden Sie gemeinsam mit Corey Gelato die Strategien der Hochsaison, einschließlich Werbeaktionen, Content-Staging und Preisregeln, mit Live-Demonstrationen und Expertentipps, die Ihrer eCommerce-Site helfen, das ganze Jahr über wettbewerbsfähig zu bleiben.
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Vorbereitung der Spitzensaison
+# Saisonvorbereitung
 
-Während dieser Sitzung von Commerce &amp; Coffee taucht Corey Gelato eingehend in die Best Practices und Strategien der Spitzensaison für 2023 ein, egal ob Sie in der traditionellen Weihnachtszeit oder in einer branchenspezifischen geschäftigen Zeit auftreten. ECommerce ist weiterhin der &quot;Go-to-Channel&quot;für alle Käufer, ob B2C oder B2B. Mithilfe von Techniken, die während dieser Sitzung geteilt werden, kann Ihr Team Ihre Waren und/oder Dienstleistungen auf Ihrer/Ihren Site(s) erfolgreich und effektiv fördern und während einer Spitzensaison jederzeit wettbewerbsfähig bleiben.
+In dieser Sitzung von Commerce &amp; Coffee taucht Corey Gelato ausführlich in die Best Practices und Strategien der Hauptsaison für 2023 ein, unabhängig davon, ob die eigene Saison in der Hauptsaison oder in einer branchenspezifischen Periode stattfindet. E-Commerce ist weiterhin der erste Kanal für alle Käufer, ob B2C oder B2B. Mithilfe von Techniken, die während dieser Sitzung geteilt werden, kann Ihr Team Ihre Waren und/oder Dienstleistungen auf Ihren Websites erfolgreich und effektiv bewerben und während einer Hochsaison jederzeit wettbewerbsfähig bleiben.
 
-Nach einer Demonstration von Funktionen wie Inhaltstaging und -vorschau, Promotions, Katalog- und Warenkorbpreisregeln und mehr beantwortet Corey Fragen während einer Live-Q&amp;A-Sitzung.
+Nach einer Demonstration von Funktionen wie Inhalts-Staging und Vorschau, Promotions, Preisregeln für Katalog und Warenkorb und mehr beantwortet Corey Fragen während einer Live-Q&amp;A-Sitzung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424390/?learn=on)

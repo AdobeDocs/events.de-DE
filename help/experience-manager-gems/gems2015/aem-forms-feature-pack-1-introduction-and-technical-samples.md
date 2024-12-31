@@ -1,6 +1,6 @@
 ---
-title: AEM [!DNL Forms] Einführung in Feature Pack 1 und technische Beispiele
-description: AEM [!DNL Forms] Feature Pack 1 ist der Aktualisierungspfad für LiveCycle-Bereitstellungen und erweitert die Reichweite dieser Implementierungen um alle Funktionen von AEM [!DNL Forms] und mehr. Zusätzlich wurde eine Einführung in kundenorientierte Proben veröffentlicht.
+title: Einführung  [!DNL Forms]  AEM-Feature Pack 1 und technische Beispiele
+description: AEM [!DNL Forms] Feature Pack 1 ist der Upgrade-Pfad für LiveCycle-Bereitstellungen und erweitert die Reichweite dieser Bereitstellungen um alle Funktionen von AEM [!DNL Forms] plus mehr. Darüber hinaus wurde eine Einführung in kundenorientierte Beispiele veröffentlicht.
 discoiquuid: db0f097d-9796-466d-b923-35be1e6483e1
 targetaudience: target-audience advanced
 exl-id: f651ed2b-a329-49d3-9595-64768cab9205
@@ -12,20 +12,20 @@ ht-degree: 0%
 
 ---
 
-# AEM [!DNL Forms] Einführung in Feature Pack 1 und technische Beispiele{#aem-forms-feature-pack-introduction-and-technical-samples}
+# Einführung in AEM [!DNL Forms] Feature Pack 1 und technische Beispiele{#aem-forms-feature-pack-introduction-and-technical-samples}
 
-AEM [!DNL Forms] Feature Pack 1 ist der Aktualisierungspfad für LiveCycle-Bereitstellungen und erweitert die Reichweite dieser Implementierungen um alle Funktionen von AEM [!DNL Forms] und mehr. Zusätzlich wurde eine Einführung in kundenorientierte Proben veröffentlicht.
+AEM [!DNL Forms] Feature Pack 1 ist der Upgrade-Pfad für LiveCycle-Bereitstellungen und erweitert die Reichweite dieser Bereitstellungen um alle Funktionen von AEM [!DNL Forms] und mehr. Darüber hinaus wurde eine Einführung in kundenorientierte Beispiele veröffentlicht.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19380/?quality=9)
 
-*Ausgestellt am 4. Februar 2015*
+*Veröffentlicht am 04.02.2015*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 * Steve Monroe, Senior Manager Enterprise Solutions, Adobe
 * Girish Bedekar, LiveCycle Solution Evangelist, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/aem-forms-fp1-2015-0204.pdf)
 <!--

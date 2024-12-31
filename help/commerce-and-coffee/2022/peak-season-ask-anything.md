@@ -1,6 +1,6 @@
 ---
-title: 'Commerce & Kaffee - Hochsaison: "Fragen Sie mich etwas!"'
-description: Diese "Fragen Sie mich alles"-Sitzung berührt die Anpassung an Änderungen in letzter Minute für Ihre Commerce-Site während der Spitzensaison. Wir besprechen die Urlaubserwartungen von 2022, Last Minute-Promotions, Checkout-Optionen und Marketing-Strategien, um eine erfolgreiche Spitzensaison zu fördern. Die Präsentation und die Demo werden von einem Live-Q&A mit Corey Gelato begleitet.
+title: Commerce & Coffee - Hauptsaison 'Ask me anything'
+description: Diese „Ask Me Anything“-Sitzung berührt die Anpassung an Änderungen in letzter Minute für Ihre Commerce-Site während der Hauptsaison. Wir diskutieren Urlaubserwartungen für 2022, Last-Minute-Angebote, Checkout-Optionen und Marketing-Strategien, um eine erfolgreiche Hauptsaison zu fördern. Die Präsentation und die Demo werden von einer Live-Q&A mit Corey Gelato begleitet.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Commerce &amp; Kaffee - Hochsaison: &quot;Fragen Sie mich etwas!&quot;
+# Commerce &amp; Coffee - Hauptsaison &#39;Ask me anything&#39;
 
-Diese &quot;Fragen Sie mich alles&quot;-Sitzung berührt die Anpassung an Änderungen in letzter Minute für Ihre Commerce-Site während der Spitzensaison. Wir besprechen die Urlaubserwartungen von 2022, Last Minute-Promotions, Checkout-Optionen und Marketing-Strategien, um eine erfolgreiche Spitzensaison zu fördern. Die Präsentation und die Demo werden von einem Live-Q&amp;A mit Corey Gelato begleitet.
+Diese „Ask Me Anything“-Sitzung berührt die Anpassung an Änderungen in letzter Minute für Ihre Commerce-Site während der Hauptsaison. Wir diskutieren Urlaubserwartungen für 2022, Last-Minute-Angebote, Checkout-Optionen und Marketing-Strategien, um eine erfolgreiche Hauptsaison zu fördern. Die Präsentation und die Demo werden von einer Live-Q&amp;A mit Corey Gelato begleitet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412273/?quality=12&learn=on)

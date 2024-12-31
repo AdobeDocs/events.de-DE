@@ -1,6 +1,6 @@
 ---
-title: Schritte zum Erstellen einer Site mit den neuen JavaScript-Bausteinen
-description: Hands-on-Erstellen einer Website mit den neuen JavaScript-BausteinenErfahren Sie mehr über die Komponentenfähigkeit der nächsten Generation, die neueste Innovation von AEM Sites. Es verfügt über ein völlig neues Authoring- und Entwicklererlebnis, um die schnellsten Websites im Web zu erstellen. In dieser Sitzung erfahren Sie, wie Sie von Grund auf neue Sites mit der Komponentenfähigkeit der nächsten Generation entwickeln, wie ein typisches Projekt eingerichtet und strukturiert wird, wie der Entwicklungs-Workflow funktioniert, wie Inhalte gestalten, benutzerdefinierte Bausteine implementiert werden und wie Sie Ihre Änderungen in die Produktion mit Schwerpunkt auf der Web-Leistung übertragen können.
+title: Praktisches Erstellen einer Site mit den neuen JavaScript-Bausteinen
+description: Praktisches Erstellen einer Site mit den neuen JavaScript-BausteinenErfahren Sie mehr über die Kompatibilität der nächsten Generation, die neueste Innovation von AEM Sites. Es verfügt über ein völlig neues Authoring- und Entwicklererlebnis, um die schnellsten Sites im Web zu erstellen. In dieser Sitzung erfahren Sie, wie Sie neue Sites mit der Kompatibilität der nächsten Generation von Grund auf entwickeln, wie ein typisches Projekt eingerichtet und strukturiert ist, wie der Entwicklungs-Workflow funktioniert, wie Sie Inhalte gestalten, benutzerdefinierte Blöcke implementieren und wie Sie Ihre Änderungen an der Produktion mit Schwerpunkt auf Web-Leistung durchführen.
 product: experience manager
 sub-product: sites
 topic: Development
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Schritte zum Erstellen einer Site mit den neuen JavaScript-Bausteinen
+# Praktisches Erstellen einer Site mit den neuen JavaScript-Bausteinen
 
-Schritte zum Erstellen einer Site mit den neuen JavaScript-Bausteinen
+Praktisches Erstellen einer Site mit den neuen JavaScript-Bausteinen
 
-Erfahren Sie mehr über die Komponentenfähigkeit der nächsten Generation, die neueste Innovation von AEM Sites. Es verfügt über ein völlig neues Authoring- und Entwicklererlebnis, um die schnellsten Websites im Web zu erstellen. In dieser Sitzung erfahren Sie, wie Sie von Grund auf neue Sites mit der Komponentenfähigkeit der nächsten Generation entwickeln, wie ein typisches Projekt eingerichtet und strukturiert wird, wie der Entwicklungs-Workflow funktioniert, wie Inhalte gestalten, benutzerdefinierte Bausteine implementiert werden und wie Sie Ihre Änderungen in die Produktion mit Schwerpunkt auf der Web-Leistung übertragen können.
+Erfahren Sie mehr über die Kompatibilität der nächsten Generation, die neueste Innovation von AEM Sites. Es verfügt über ein völlig neues Authoring- und Entwicklererlebnis, um die schnellsten Sites im Web zu erstellen. In dieser Sitzung erfahren Sie, wie Sie neue Sites mit der Kompatibilität der nächsten Generation von Grund auf entwickeln, wie ein typisches Projekt eingerichtet und strukturiert ist, wie der Entwicklungs-Workflow funktioniert, wie Sie Inhalte gestalten, benutzerdefinierte Blöcke implementieren und wie Sie Ihre Änderungen an der Produktion mit Schwerpunkt auf Web-Leistung durchführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419944/?learn=on)

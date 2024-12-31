@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live Edge Delivery Services-Verteilung 2 - November 2023
-description: Ekrem Dogan befasst sich in dieser Sitzung von Adobe Developers Live mit den entscheidenden Aspekten der Optimierung der Website-Performance. Aufgenommen am 6. November 2023, erlernen Sie Strategien für das Erreichen und Verwalten eines Top-Lighthouse-Punkts und stellen Sie mit Adobe Experience Manager effiziente und benutzerfreundliche Websites sicher. Dieser Vortrag enthält praktische Tipps und Beispiele aus der Praxis, was es zu einem Muss für Entwickler macht, die sich auf die Optimierung der Webleistung konzentrieren.
+title: Adobe Developers Live Edge Delivery Services Breakout 2. November 2023
+description: Ekrem Dogan geht in dieser Session von Adobe Developers Live auf die wesentlichen Aspekte der Optimierung der Website-Performance ein. Aufgenommen am 6. November 2023, lernen Sie Strategien kennen, mit denen Sie eine Top-Lighthouse-Bewertung erreichen und aufrechterhalten und effiziente und benutzerfreundliche Websites mit Adobe Experience Manager sicherstellen können. Dieser Vortrag enthält praktische Tipps und Beispiele aus der Praxis, sodass er für Entwickler, die sich auf die Optimierung der Web-Leistung konzentrieren, unbedingt zur Verfügung steht.
 solution: Experience Manager,Experience Manager Sites
 feature-set: Experience Manager
 feature: Edge Delivery Services
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Live Edge Delivery Services-Verteilung 2 - November 2023
+# Adobe Developers Live Edge Delivery Services Breakout 2. November 2023
 
-Ekrem Dogan befasst sich in dieser Sitzung von Adobe Developers Live mit den entscheidenden Aspekten der Optimierung der Website-Performance. Aufgenommen am 6. November 2023, erlernen Sie Strategien für das Erreichen und Verwalten eines Top-Lighthouse-Punkts und stellen Sie mit Adobe Experience Manager effiziente und benutzerfreundliche Websites sicher. Dieser Vortrag enthält praktische Tipps und Beispiele aus der Praxis, was es zu einem Muss für Entwickler macht, die sich auf die Optimierung der Webleistung konzentrieren.
+Ekrem Dogan geht in dieser Session von Adobe Developers Live auf die wesentlichen Aspekte der Optimierung der Website-Performance ein. Aufgenommen am 6. November 2023, lernen Sie Strategien kennen, mit denen Sie eine Top-Lighthouse-Bewertung erreichen und aufrechterhalten und effiziente und benutzerfreundliche Websites mit Adobe Experience Manager sicherstellen können. Dieser Vortrag enthält praktische Tipps und Beispiele aus der Praxis, sodass er für Entwickler, die sich auf die Optimierung der Web-Leistung konzentrieren, unbedingt zur Verfügung steht.
 
-Fahren Sie mit der Unterhaltung in [Experience League Communities](https://adobe.ly/3rC7TTm) fort.
+Gespräche in [Experience League Communities fortsetzen](https://adobe.ly/3rC7TTm).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425625/?learn=on)

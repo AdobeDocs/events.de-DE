@@ -1,6 +1,6 @@
 ---
 title: Orchestrieren von Commerce-APIs für Headless-Implementierungen
-description: Erfahren Sie, wie Revanth Kumar, Softwareingenieur bei der Adobe, mithilfe von API-Mesh mehrere Datenquellen für leistungsstarke, Headless-Commerce-Erlebnisse integrieren und verwalten kann, mit Vorteilen wie verbesserter Sicherheit, Leistung und vereinfachter Entwicklung.
+description: Erfahren Sie, wie Revanth Kumar, Software Engineer bei Adobe, API Mesh verwendet, um mehrere Datenquellen für leistungsstarke Headless-Commerce-Erlebnisse zu integrieren und zu verwalten, mit Vorteilen wie verbesserter Sicherheit, Leistung und vereinfachter Entwicklung.
 solution: Commerce
 feature: APIs, Headless
 topic: Commerce, Development, Headless
@@ -20,32 +20,32 @@ ht-degree: 0%
 
 # Orchestrieren von Commerce-APIs für Headless-Implementierungen
 
-Erfahren Sie, wie Revanth Kumar, Softwareingenieur bei der Adobe, API-Mesh verwendet, um APIs aus verschiedenen Quellen zusammenzufügen, zu erweitern, umzuwandeln und in einer Umgebung mit geringem Code zu verteilen. Bereitstellung leistungsstarker, Headless Commerce-Erlebnisse mit unkomplizierter Leistung.
+Erfahren Sie, wie Revanth Kumar, Software Engineer bei Adobe, API Mesh verwendet, um APIs aus verschiedenen Quellen zusammenzufügen, zu erweitern, umzuformen und in einer Low-Code-Umgebung zu verteilen. Einfaches Bereitstellen von leistungsstarken Headless-Commerce-Erlebnissen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440402/?learn=on&enablevpops)
 
 ## Community-Diskussion
 
-Fahren Sie mit der Unterhaltung in der Adobe Developers Live Community [diskussion](https://adobe.ly/40IDxO9) fort.
+Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](https://adobe.ly/40IDxO9) fort.
 
 ## Wichtige Schlussfolgerungen
 
-* **Einführung in das API-Mesh**
-   * API Measurement ist ein Tool, das mehrere Datenquellen zu einem einzigen GraphQL-Endpunkt kombiniert und so den Entwicklungsprozess für Frontend-Entwickler vereinfacht.
-   * Sie fungiert als umfassender GraphQL-Proxy und bietet Vorteile wie bessere Sicherheit, Drosselung, DoS-Schutz und die Möglichkeit, Geschäftslogik mit geringem oder keinem Code hinzuzufügen.
-* **Vorteile des API-Meshs**
-   * Vereinfachen Sie die Verarbeitung mehrerer Datenquellen, indem Sie sie zu einem einzigen Endpunkt zusammenfassen.
-   * Erhöht die Anwendungsleistung und -sicherheit.
+* **Einführung in API Mesh**
+   * API Mesh ist ein Tool, das mehrere Datenquellen zu einem einzigen GraphQL-Endpunkt kombiniert und den Entwicklungsprozess für Frontend-Entwicklerinnen und -Entwickler vereinfacht.
+   * Sie fungiert als erweiterter GraphQL-Proxy und bietet Vorteile wie bessere Sicherheit, Einschränkungen und DDoS-Schutz sowie die Möglichkeit, Geschäftslogik mit wenig oder keinem Code hinzuzufügen.
+* **Vorteile von API Mesh**
+   * Vereinfacht die Verarbeitung mehrerer Datenquellen, indem sie zu einem einzigen Endpunkt kombiniert werden.
+   * Verbessert die Anwendungsleistung und -sicherheit.
    * Verringert die Belastung der Backend-Ressourcen, was zu mehr Stabilität und Stabilität führt.
-   * Beschleunigt die Implementierungsprozesse, wodurch Änderungen einfacher und schneller werden.
-* **Funktionen des API-Meshs**
-   * Unterstützt verschiedene Datenquellen, einschließlich REST-Endpunkten, GraphQL- und JSON-Schemas.
-   * Ermöglicht die Umwandlung von Daten und das Konfliktmanagement mithilfe von Filter- und Präfixschemata.
-   * Bietet erweiterte Funktionen wie die Einrichtung von CORS-Headern, die Zwischenspeicherung, Hooks zum Hinzufügen benutzerdefinierter Logik und die Geheimnisverwaltung.
+   * Beschleunigt Bereitstellungsprozesse, wodurch Änderungen einfacher und schneller werden.
+* **Funktionen von API Mesh**
+   * Unterstützt verschiedene Datenquellen, einschließlich REST-Endpunkte, GraphQL- und JSON-Schemata.
+   * Ermöglicht Datenumwandlung und Konfliktmanagement mithilfe von Filter- und Präfixschemata.
+   * Bietet erweiterte Funktionen wie Einrichtung von CORS-Headern, Caching, Erweiterungspunkte zum Hinzufügen benutzerdefinierter Logik und Verwaltung von geheimen Daten.
 * **Praktische Demonstration**
-   * Die Sitzung umfasste eine Live-Demo, in der gezeigt wurde, wie API-Mesh eingerichtet und verwendet wird, einschließlich Erstellen eines Gitters, Hinzufügen von Quellen und Bereitstellen.
-   * Die Verwendung von GitHub-Code für die gemeinsame Entwicklung und automatisierte CI/CD-Workflows für die Gitterbereitstellung wurde demonstriert.
-   * Debugging und Fehlerbehebung** Erläuterung der Verwendung von VS-Code zum Debuggen von API-Mesh, einschließlich der Einrichtung von Haltepunkten und der Überprüfung von Antworten.
-   * Es wurde hervorgehoben, wie wichtig das Zwischenspeichern und die Verwendung von CDNs wie Fastly ist, um die Leistung zu verbessern.
+   * Die Sitzung enthielt eine Live-Demo, die zeigt, wie API Mesh eingerichtet und verwendet wird, einschließlich der Erstellung eines Netzes, dem Hinzufügen von Quellen und der Bereitstellung.
+   * Demonstration der Verwendung von GitHub-Codespaces für die gemeinsame Entwicklung und automatisierte CI/CD-Workflows für die Bereitstellung von Mesh.
+   * Debugging und Fehlerbehebung** Erläutert, wie Sie VS-Code zum Debuggen von API Mesh verwenden, einschließlich der Einrichtung von Haltepunkten und der Überprüfung von Antworten.
+   * hat die Bedeutung des Caching und der Verwendung von CDNs wie Fastly zur Verbesserung der Leistung hervorgehoben.
 * **Förderung des Beitrags der Gemeinschaft**
-   * Ermutigte Benutzer, zum API-Mesh-Beispiele-Repository beizutragen, indem sie Pull-Anforderungen mit neuen Beispielen oder Verbesserungen erstellen.
+   * Ermutigte Benutzer, zum API Mesh-Repository beizutragen, indem sie Pull-Anfragen mit neuen Beispielen oder Verbesserungen erstellen.

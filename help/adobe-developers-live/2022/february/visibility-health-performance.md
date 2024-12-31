@@ -1,6 +1,6 @@
 ---
-title: Vollständige Sichtbarkeit des Zustands und der Leistung Ihrer Adobe Commerce-Plattform
-description: In dieser Sitzung erfahren Sie mehr über die verfügbaren Tools zur Überwachung des Zustands, der Sicherheit und der Qualität der Adobe Commerce-Plattform.
+title: Vollständige Übersicht über den Zustand und die Leistung Ihrer Adobe Commerce-Plattform
+description: In dieser Sitzung erfahren Sie mehr über die verfügbaren Tools zur Überwachung von Zustand, Sicherheit und Qualität der Adobe Commerce-Plattform.
 role: User
 level: Beginner
 kt: 9792
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Vollständige Sichtbarkeit des Zustands und der Leistung Ihrer Adobe Commerce-Plattform
+# Vollständige Übersicht über den Zustand und die Leistung Ihrer Adobe Commerce-Plattform
 
-In dieser Sitzung erfahren Sie mehr über die verfügbaren Tools zur Überwachung des Zustands, der Sicherheit und der Qualität der Adobe Commerce-Plattform.
+In dieser Sitzung erfahren Sie mehr über die verfügbaren Tools zur Überwachung von Zustand, Sicherheit und Qualität der Adobe Commerce-Plattform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340624/?quality=12&learn=on)

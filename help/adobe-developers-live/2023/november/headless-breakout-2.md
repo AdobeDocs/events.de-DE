@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - 23. NOV - Headless-Verteilung 2
-description: In dieser informativen Sitzung von Adobe Developers Live teilen Gabriel Walt und Alex Tondo Einblicke darüber, wie Adobe.com den universellen Editor in Adobe Experience Manager verwendet, um ihre Inhaltsstrategie zu verbessern. Diese wurden am 6. November 2023 aufgenommen und besprechen die Funktionen dieses WYSIWYG-Editors bei der Optimierung der Prozesse zur Inhaltsbereitstellung und dessen Rolle bei der Vereinfachung der Inhaltsbearbeitung. Diese Sitzung eignet sich ideal für Benutzer, die verstehen möchten, wie Inhaltswerkzeuge in AEM effektiv für dynamische und ansprechende digitale Erlebnisse eingesetzt werden können.
+title: Adobe Developers Live - 23. NOVEMBER - Headless-Breakout 2
+description: In dieser informativen Sitzung von Adobe Developers Live teilen Gabriel Walt und Alex Tondo Einblicke, wie Adobe.com den universellen Editor in Adobe Experience Manager verwendet, um ihre Inhaltsstrategie zu verbessern. Aufgenommen am 6. November 2023, erörtern sie die Funktionen dieses WYSIWYG-Editors bei der Optimierung von Prozessen zur Inhaltsbereitstellung und seine Rolle bei der Vereinfachung der Inhaltserstellung. Diese Sitzung ist ideal für diejenigen, die verstehen möchten, wie Sie Content-Tools in AEM effektiv für dynamische und ansprechende digitale Erlebnisse verwenden können.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Live Headless-Verteilung 2 - November 2023
+# Adobe Developers Live Headless Breakout 2. November 2023
 
-In dieser informativen Sitzung von Adobe Developers Live teilen Gabriel Walt und Alex Tondo Einblicke darüber, wie Adobe.com den universellen Editor in Adobe Experience Manager verwendet, um ihre Inhaltsstrategie zu verbessern. Diese wurden am 6. November 2023 aufgenommen und besprechen die Funktionen dieses WYSIWYG-Editors bei der Optimierung der Prozesse zur Inhaltsbereitstellung und dessen Rolle bei der Vereinfachung der Inhaltsbearbeitung. Diese Sitzung eignet sich ideal für Benutzer, die verstehen möchten, wie Inhaltswerkzeuge in AEM effektiv für dynamische und ansprechende digitale Erlebnisse eingesetzt werden können.
+In dieser informativen Sitzung von Adobe Developers Live teilen Gabriel Walt und Alex Tondo Einblicke, wie Adobe.com den universellen Editor in Adobe Experience Manager verwendet, um ihre Inhaltsstrategie zu verbessern. Aufgenommen am 6. November 2023, erörtern sie die Funktionen dieses WYSIWYG-Editors bei der Optimierung von Prozessen zur Inhaltsbereitstellung und seine Rolle bei der Vereinfachung der Inhaltserstellung. Diese Sitzung ist ideal für diejenigen, die verstehen möchten, wie Sie Content-Tools in AEM effektiv für dynamische und ansprechende digitale Erlebnisse verwenden können.
 
-Fahren Sie mit der Unterhaltung in [Experience League Communities](https://adobe.ly/46ELi7X) fort.
+Gespräche in [Experience League Communities fortsetzen](https://adobe.ly/46ELi7X).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425635/?learn=on)

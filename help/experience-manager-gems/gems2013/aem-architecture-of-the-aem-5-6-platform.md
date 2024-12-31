@@ -1,6 +1,6 @@
 ---
 title: Architektur der AEM 5.6-Plattform
-description: Erfahren Sie mehr über die Entwicklung der Architektur der AEM Anwendungsplattform. Seit der ersten Veröffentlichung von Communiqué 1, bis zum letzten Start von AEM 5.6, durchlief die Anwendung einige Änderungen, um die vielseitige und erweiterbare Anwendungsplattform zu werden, die sie heute ist.
+description: Erfahren Sie mehr über die Entwicklung der Architektur der AEM-Anwendungsplattform. Seit der ersten Veröffentlichung von Communiqué 1, bis zur jüngsten Markteinführung von AEM 5.6, hat die Anwendung mehrere Änderungen durchlaufen, um zu der vielseitigen und erweiterbaren Anwendungsplattform zu werden, die sie heute ist.
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
 exl-id: 75228968-d47a-4d4a-9f55-a8ba95b8d32c
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 # Architektur der AEM 5.6-Plattform{#architecture-of-the-aem-platform}
 
-Erfahren Sie mehr über die Entwicklung der Architektur der AEM-Anwendungsplattform. Seit der ersten Veröffentlichung von Communiqué 1 bis zum letzten Start von AEM 5.6 hat sich die Anwendung massiv verändert, um zur vielseitigen und erweiterbaren Anwendungsplattform zu werden.
+Erfahren Sie mehr über die Entwicklung der Architektur der AEM-Anwendungsplattform. Seit der ersten Veröffentlichung von Communiqué 1 bis zur jüngsten Markteinführung von AEM 5.6 hat die Anwendung mehrere massive Änderungen durchlaufen, um die vielseitige und erweiterbare Anwendungsplattform zu werden, die sie heute ist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
-*Zugestellt am 8. Mai 2013*
+*Veröffentlicht am 08.05.2013*
 
-**Vorgestellt von:**
+**Präsentiert von:**
 
 Felix Meschberger, Principal Scientist, Adobe
 
-**Presenter-Folien**
+**Präsentationsfolien**
 
 [Datei abrufen](assets/20130508-aem56-architecture.pdf)
 
-**Sitzungsfragen und -antworten**
+**Fragen und Antworten zur Sitzung**
 
 [Datei abrufen](assets/questionsanswers-aem56-architecture.pdf)
 
