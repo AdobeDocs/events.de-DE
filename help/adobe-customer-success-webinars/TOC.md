@@ -2,9 +2,9 @@
 user-guide-title: Adobe Customer Success-Webinare
 breadcrumb-title: Adobe Customer Success-Webinare
 user-guide-description: Adobe Kundenerfolgs-geführte Webinare, die Sie bei der Optimierung Ihrer Investition in Adobe-Experience Cloud unterstützen. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 0%
    + [Lean Teams und Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Meistern der Adobe Admin Console](2024/adobe-admin-console.md)
    + [Beherrschen von Cookies und Datenschutz](2024/mastering-cookies-data-privacy.md)
+   + [Beherrschen der sequenziellen Logik](2024/sequential-logic.md)
    + [Organisatorische Bereitschaft für die Inhaltslieferkette](2024/organizational-readiness-content-supply-chain.md)
    + [Integration von Real-time Customer Data Platform und Marketo](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platform-Migrationsbereitschaft](2024/rtcdp-migration-readiness.md)

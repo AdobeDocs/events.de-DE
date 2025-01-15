@@ -9,7 +9,7 @@ duration: 3153
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16471
 exl-id: 0e765a3e-9ff8-4a4a-8987-e56631adfc58
-source-git-commit: e8a5a53449923fcbbf6f10d0e62757d86a409842
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -19,6 +19,7 @@ ht-degree: 0%
 # Frag mich was
 
 Corey und Agbi beantworteten Fragen sowohl live als auch aus Registrierungen, teilten ihre Best Practices und demonstrierten Funktionen in Adobe Commerce, um Kunden zu jeder Jahreszeit zum Erfolg zu verhelfen.
+
 >[!VIDEO](https://video.tv.adobe.com/v/3437034/?learn=on&enablevpops)
 
 ## Wichtigste Punkte
