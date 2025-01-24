@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience League-Ereignisaufzeichnungen
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Eine Sammlung von Ereignisaufzeichnungen, die sich auf die Verwendung von Adobe Enterprise-Produkten konzentrieren
-source-git-commit: 27358919021fbca757879bbb8ed9667bd973578f
+source-git-commit: 766c04837f2ccf65813d93bed7d57522a4e17be3
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '438'
 ht-degree: 11%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 11%
    + [GenStudio for Performance Marketing-Ereignisse](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
    + [Lernen von Kollegen](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo und Mokkas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
+   + [Marketo Champion Office Hours](https://experienceleague.adobe.com/docs/events/marketo-champion-office-hours/overview.html)
    + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [Kompetenzaustausch](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Mit Workfront aufwachen](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
@@ -96,6 +97,7 @@ ht-degree: 11%
       + [Experience Cloud-Techniksitzungen](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Lernen von Kollegen](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Marketo und Mokkas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
+      + [Marketo Champion Office Hours](https://experienceleague.adobe.com/docs/events/marketo-champion-office-hours/overview.html)
       + [Skill Builder](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [Kompetenzaustausch](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Journey Optimizer {#ajo}
