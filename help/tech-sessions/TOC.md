@@ -2,7 +2,7 @@
 user-guide-title: Experience Cloud Tech Sessions
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud Tech Sessions ist ein proaktiver Ansatz zur Fallbearbeitung, indem Kunden lösungsspezifische Webinare angeboten werden.
-source-git-commit: b6f18d1a7adb683886bd08ad86998e619be24c29
+source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 15%
@@ -43,5 +43,3 @@ ht-degree: 15%
    + Workfront {#workfront-office-hours}
       + [Doppelte Kontakte korrigieren](2023/workfront-fix-duplicate-contacts.md)
       + [Korrekturabzugs-Genehmigungsberichte](2023/workfront-proof-approval-reports.md)
-
-
