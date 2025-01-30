@@ -1,23 +1,23 @@
 ---
-title: Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics
-description: Beherrschen Sie sequenzielle Logik und Analyse in Customer Journey Analytics (CJA) mit grundlegenden Aspekten, praktischen Beispielen und Geschäftsanwendungen, wie in der Sitzung von Andy Powers erläutert.
+title: Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Foundations
+description: Beherrschen Sie die sequenzielle Segmentierung und Filter in AA und CJA mit grundlegenden Aspekten, praktischen Beispielen und Geschäftsanwendungen, wie in der Sitzung von Andy Powers erläutert.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3259
 last-substantial-update: 2025-01-15T00:00:00Z
 jira: KT-17125
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+exl-id: db84e4aa-2585-4a08-8e85-bbf67419cc24
+source-git-commit: eba128e9c55c6f22e172b2700dae34dfbd2c16b3
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
 # Beherrschen sequenzieller Logik in AA und CJA: Grundlagen
 
-Grundlegendes Verständnis von THEN und zugehörigen sequenziellen Logikoperatoren in Adobe Analytics und Customer Journey Analytics. Die sequenzielle Logik ermöglicht eine hochwertige Analyse in Adobe Analytics und Customer Journey Analytics, aber sie wird nicht ausreichend genutzt und oft missverstanden. In diesem Webinar wird die Grundlage für die Bewertung dieser Benutzenden in Analysis Workspace geschaffen.
+Grundlegendes Verständnis von THEN und zugehörigen sequenziellen Logikoperatoren in Adobe Analytics (sequenzielle Segmente) und Customer Journey Analytics (sequenzielle Filter). Die sequenzielle Logik ermöglicht eine hochwertige Analyse in Adobe Analytics und Customer Journey Analytics, aber sie wird nicht ausreichend genutzt und oft missverstanden. In diesem Webinar wird die Grundlage für die Bewertung dieser Benutzenden in Analysis Workspace geschaffen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442925/?learn=on&enablevpops)
 
