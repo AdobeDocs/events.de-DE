@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience Manager GEMS-Veranstaltungen
 user-guide-description: Erfahren Sie mehr über AEM Gems, eine Reihe technischer Vertiefungen durch Adobe Experience Manager-Experten.
 breadcrumb-title: AEM GEMs-Ereignisse
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 1%
 # GEMS-Veranstaltungen für Experience Manager {#experience-manager-gems-recordings}
 
 + [Übersicht](overview.md)
++ {#gems2025} 2025
+   + [Erste Schritte mit Adobe-verwaltetem CDN](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
    + [Erschließen der Leistungsfähigkeit von AEM Sites - Meistern der Content-Management-APIs](gems2024/content-management-apis.md)
    + [Neue Funktionen in Rapid Development Environments für AEM](gems2024/rapid-development-environment-news.md)

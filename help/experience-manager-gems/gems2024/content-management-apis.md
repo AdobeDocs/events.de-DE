@@ -12,7 +12,7 @@ duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
 exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
-source-git-commit: ac0f7915bfbedd8f1c814420caaae7f1eeb5aeef
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -24,6 +24,7 @@ ht-degree: 0%
 Die Methoden zur Verwendung von AEM Sites entwickeln sich schnell weiter und fügen den herkömmlichen Benutzerinteraktionen API-First-Muster hinzu. Ganz gleich, ob Sie Ihre Abläufe optimieren oder Ihre Automatisierung optimieren möchten, es ist von entscheidender Bedeutung, solchen Trends einen Schritt voraus zu sein. Nehmen Sie an einer ausführlichen Sitzung teil, in der wir die zugehörigen hochmodernen Updates in AEM Sites erkunden und erfahren, wie sie Ihre Content-Management-Strategie unterstützen können.
 
 In dieser Sitzung erfahren Sie,
+
 * **Erweiterte OpenAPI-**: Erkunden Sie die neuesten OpenAPI-Implementierungen für nahtlose CRUD-Vorgänge mit strukturierten AEM-Inhalten.
 * **Eventing und Webhooks** Erfahren Sie, wie die Eventing- und Webhook-Funktionen von Adobe I/O Prozesse basierend auf Inhalts- und Statusänderungen in AEM automatisieren können.
 * **Neue REST-APIs für die**: Lernen Sie die neuen REST-APIs kennen, die Ihre Workflows zur Inhaltsübersetzung in AEM vereinfachen und optimieren.
