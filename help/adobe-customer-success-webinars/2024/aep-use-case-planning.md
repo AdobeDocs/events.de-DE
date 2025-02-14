@@ -1,6 +1,6 @@
 ---
 title: Von der Vision zum Wert - AEP-Anwendungsfallplanung
-description: Erfahren Sie, wie Sie wirkungsvolle Kundenerlebnisse bereitstellen können, indem Sie eine Strategie mit klaren Zielen und Erfolgsfaktoren definieren, die mit Geschäftsergebnissen und KPIs übereinstimmen, einen Fahrplan für die Erzielung eines erreichbaren Werts aufstellen und die Funktionen der Adobe-Lösung effektiv nutzen.
+description: In der AEP-Anwendungsfallplanungs-Sitzung werden die Wertzuordnung, die Strategieausrichtung und die Maximierung des Geschäftswerts mithilfe von KPIs behandelt. Sie hilft Unternehmen, ihre Ziele an den Geschäftsergebnissen auszurichten und Adobe-Lösungen für wirkungsvolle Kundenerlebnisse zu nutzen.
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
 exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '167'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Erfahren Sie, wie Sie durch die Definition einer Strategie mit klaren Zielen und
 
 1. Abstimmung auf Geschäftsergebnisse und KPIs
 1. Informieren Sie sich über einen Fahrplan zur Wertschöpfung
-1. Effektive Nutzung der Funktionen der Adobe-Lösung.
+1. Effektive Nutzung der Adobe-Lösungsfunktionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433025/?learn=on)
 

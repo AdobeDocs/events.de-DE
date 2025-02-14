@@ -1,6 +1,6 @@
 ---
 title: Integrieren von privaten GitHub-Repositorys in AEM Cloud Manager
-description: In diesem AEM GEMs-Webinar zeigen wir Ihnen, wie Sie das Hinzufügen Ihres eigenen privaten GitHub-Repositorys in Cloud Manager optimal nutzen können. Wir beginnen mit dem Onboarding des Repositorys, mit dem Sie jetzt das GitHub-Repository direkt mit Ihren Cloud Manager-Pipelines verknüpfen können, sodass Sie Ihren Code nicht mehr konsequent mit dem Adobe-Repository synchronisieren müssen. Anschließend möchten wir zeigen, wie Sie mit dieser Funktion Ihren Testprozess nach links verschieben können, indem Sie die Cloud Manager-Code-Qualitätsprüfungen auf die Pull-Anfrageebene bringen, bevor der Code zusammengeführt wird. Auf diese Weise könnten Sie als AEM-Entwicklungsperson die Probleme identifizieren, bei denen Ihr Cloud Manager-Build früher im Entwicklungszyklus fehlgeschlagen wäre.
+description: Im AEM GEMs-Webinar wird gezeigt, wie ein privates GitHub-Repository in Cloud Manager hinzugefügt, direkt mit Pipelines verknüpft und nach links verschoben getestet werden kann, um Probleme auf der Pull-Anfrageebene zu identifizieren, bevor Code zusammengeführt wird.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 8191106e64cbfb6337e37c411e56630d59aabe2e
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Dieses Webinar wurde abgeschlossen. Bitte sehen Sie sich die Aufzeichnung unten 
 
 ## Integrieren von privaten GitHub-Repositorys in AEM Cloud Manager
 
-In diesem AEM GEMs-Webinar zeigen wir Ihnen, wie Sie das Hinzufügen Ihres eigenen privaten GitHub-Repositorys in Cloud Manager optimal nutzen können. Wir beginnen mit dem Onboarding des Repositorys, mit dem Sie jetzt das GitHub-Repository direkt mit Ihren Cloud Manager-Pipelines verknüpfen können, sodass Sie Ihren Code nicht mehr konsequent mit dem Adobe-Repository synchronisieren müssen. Anschließend möchten wir zeigen, wie Sie mit dieser Funktion Ihren Testprozess nach links verschieben können, indem Sie die Cloud Manager-Code-Qualitätsprüfungen auf die Pull-Anfrageebene bringen, bevor der Code zusammengeführt wird. Auf diese Weise könnten Sie als AEM-Entwicklungsperson die Probleme identifizieren, bei denen Ihr Cloud Manager-Build früher im Entwicklungszyklus fehlgeschlagen wäre.
+In diesem AEM GEMs-Webinar zeigen wir Ihnen, wie Sie das Hinzufügen Ihres eigenen privaten GitHub-Repositorys in Cloud Manager optimal nutzen können. Wir beginnen mit dem Onboarding von Repositorys, durch das Sie das GitHub-Repository jetzt direkt mit Ihren Cloud Manager-Pipelines verknüpfen können, sodass Sie Ihren Code nicht mehr konsistent mit dem Adobe-Repository synchronisieren müssen. Anschließend möchten wir zeigen, wie Sie mit dieser Funktion Ihren Testprozess nach links verschieben können, indem Sie die Cloud Manager-Code-Qualitätsprüfungen auf die Pull-Anfrageebene bringen, bevor der Code zusammengeführt wird. Auf diese Weise könnten Sie als AEM-Entwicklungsperson die Probleme identifizieren, bei denen Ihr Cloud Manager-Build zu einem früheren Zeitpunkt in Ihrem Entwicklungszyklus fehlgeschlagen wäre.
 
 ## Moderatoren
 
@@ -45,4 +45,4 @@ In diesem AEM GEMs-Webinar zeigen wir Ihnen, wie Sie das Hinzufügen Ihres eigen
 >
 >* Webinar-/themenspezifische Community-Interaktionen zu diesem Webinar auf Experience League finden Sie im entsprechenden [Kontextuellen Thread](https://adobe.ly/4f1jhMo).
 >
->* Um Benachrichtigungen über unsere kommenden Webinare zu erhalten, registrieren Sie sich bitte unter [Adobe auf AEM User Group](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen über unsere kommenden Webinare zu erhalten, registrieren Sie sich bitte bei der AEM-Benutzergruppe von [Adobe](https://aem-augs.adobe.com/).

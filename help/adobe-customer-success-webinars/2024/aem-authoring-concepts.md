@@ -1,6 +1,6 @@
 ---
-title: AEM-Grundlagen Einführung in die wichtigsten Konzepte und Funktionen von AEM Authoring
-description: Entdecken Sie, wie AEM eine robuste und flexible Authoring-Umgebung bietet, die verschiedene Methoden zur Inhaltserstellung unterstützt, von herkömmlichen Web-Seiten bis hin zu Headless-CMS-Setups.Wichtige Diskussionspunkte:Authoring einschließlich universeller EditorInhaltsfragmentfunktionenZusammenarbeit
+title: AEM-Grundlagen Einführung in die wichtigsten Konzepte und Funktionen der Inhaltserstellung in AEM
+description: In der AEM-Sitzung zu Authoring-Grundlagen wurden wichtige Konzepte behandelt, etwa das duale Umgebungsmodell, Herausforderungen bei der Inhaltserstellung, Authoring-Tools, Funktionen für die Zusammenarbeit und Übersetzung sowie Edge-Bereitstellungs-Services.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -10,14 +10,14 @@ duration: 3248
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16416
 exl-id: 5966c14a-7adb-48d8-bf20-9fb4a350745f
-source-git-commit: ac0f7915bfbedd8f1c814420caaae7f1eeb5aeef
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '315'
 ht-degree: 1%
 
 ---
 
-# AEM-Grundlagen Einführung in die wichtigsten Konzepte und Funktionen von AEM Authoring
+# AEM-Grundlagen Einführung in die wichtigsten Konzepte und Funktionen der Inhaltserstellung in AEM
 
 Entdecken Sie, wie AEM eine robuste und flexible Authoring-Umgebung bietet, die verschiedene Methoden zur Inhaltserstellung unterstützt, von herkömmlichen Web-Seiten bis hin zu Headless-CMS-Setups.
 
@@ -31,13 +31,13 @@ Entdecken Sie, wie AEM eine robuste und flexible Authoring-Umgebung bietet, die 
 
 ## Wichtige Erkenntnisse
 
-### Grundlagen zum AEM-Authoring
+### Grundlagen zum Authoring in AEM
 
 In dieser Sitzung wurden die Grundlagen der Inhaltserstellung in Adobe Experience Manager (AEM) einschließlich der wichtigsten Konzepte und Funktionen vorgestellt.
 
-### AEM-Authoring-Modell
+### AEM Authoring-Modell
 
-Verstehen des dualen Umgebungsmodells der AEM, das die Autorenumgebung (zum Erstellen, Bearbeiten und Überprüfen von Inhalten) und die Veröffentlichungsumgebung (in der Inhalte live geschaltet und für Endbenutzende zugänglich gemacht werden) umfasst.
+Verstehen des dualen Umgebungsmodells von AEM, das die Autorenumgebung (zum Erstellen, Bearbeiten und Überprüfen von Inhalten) und die Veröffentlichungsumgebung (in der Inhalte live geschaltet und Endbenutzern zugänglich gemacht werden) umfasst.
 
 ### Herausforderungen bei der Inhaltserstellung
 
@@ -50,7 +50,7 @@ Erkennung der Herausforderungen bei der Skalierung der Inhaltserstellung, wie z.
 * **Seiteneditor** Herkömmlicher WYSIWYG-Editor zum Erstellen und Bearbeiten von Webseiten. &#x200B;
 * **Inhaltsfragment-Editor** Zum Erstellen von Headless-Inhalten, die über verschiedene Kanäle hinweg wiederverwendet werden können. &#x200B;
 * **Universeller Editor** Eine moderne Benutzeroberfläche für die Inhaltserstellung, die sowohl AEM-Inhalte als auch ordnungsgemäß instrumentierte externe Inhalte unterstützt. &#x200B;
-* **Dokumentenbasiertes Authoring** Ermöglicht die Erstellung von Inhalten mithilfe bekannter Tools wie Microsoft Word oder Google Docs, die in AEM-Workflows integriert sind. &#x200B;
+* **Dokumentenbasiertes Authoring** Ermöglicht die Inhaltserstellung mit bekannten Tools wie Microsoft Word oder Google Docs, die in AEM-Workflows integriert sind. &#x200B;
 
 ### Partizipative Funktionen
 
@@ -62,4 +62,4 @@ AEM unterstützt mehrsprachiges Inhaltsmanagement durch Übersetzungs-Workflows,
 
 ### Edge-Bereitstellungsdienste
 
-Erwähnung von Edge-Bereitstellungs-Services als Teil von AEM Cloud , wodurch der Prozess der Inhaltserstellung und -veröffentlichung verbessert wird.
+Erwähnung von Edge-Bereitstellungs-Services als Teil von AEM Cloud, wodurch der Prozess der Inhaltserstellung und -veröffentlichung verbessert wird.

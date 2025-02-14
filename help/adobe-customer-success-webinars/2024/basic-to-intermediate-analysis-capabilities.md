@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics und CJA-Schnellstart für grundlegende bis mittlere Analysefunktionen
-description: Die Sitzung „Quickstart for Basic Intermediate Analysis Capabilities“ unter der Leitung von Dr. Kirsten Schaffer behandelte die Einrichtung robuster Analysefunktionen, Governance- und Analysepfade, den Vergleich von Adobe Analytics und Customer Journey Analytics, die Diskussion von Analysetypen und die Betonung der Bedeutung einer einzigen Datenquelle für das Daten-Reporting.
+description: In der Sitzung ging es um die Einrichtung analytischer Funktionen, den Vergleich von Adobe Analytics und Customer Journey Analytics und um wichtige Funktionen für Marketing-Berichte.
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: 8554d43670bd692167c5013345fa734b3ea808bc
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -30,17 +30,17 @@ Erfahren Sie, wie Sie schnell mit Adobe Analytics und Customer Journey Analytics
 
 * **Einführung von Lautsprechern**
    * Frederick, Senior Customer Success Manager bei Adobe, stellte die Veranstaltung vor.
-   * Dr. Kirsten Schaffer, Principal Customer Success Manager bei Adobe, ist Moderatorin.
+   * Moderatorin ist Dr. Kirsten Schaffer, Principal Customer Success Manager bei Adobe.
 
 * **Sitzungsinhalt**
    * In dieser Sitzung wird die Einrichtung einer Organisation für robuste Analysefunktionen, Governance-Aspekte und Laufpfade für Analytics und Customer Journey Analytics behandelt.
-   * Diskussion, wann verschiedene Adobe-Lösungen und Adobe-Empfehlungen für Digital Insights verwendet werden sollten.
+   * Erörterung, wann verschiedene Adobe-Lösungen verwendet werden sollten, und Empfehlungen von Adobe für Digital Insights.
 
 * **Wichtige Diskussionsthemen**
    * **Externe und interne Kräfte** Beeinflussung der digitalen Analyse, einschließlich Marktveränderungen, Datenschutz und Governance, Datendemokratie und Datenkomplexität.
    * **Aufbau einer robusten analytischen Grundlage** Messstrategie, Datenerfassung, Erkenntnisse und Analyse, Lernen, Data Governance.
    * **Einrichten eines Digital-Analytics-Teams** Rollen und Zuständigkeiten, Erstellen eines Hybrid-Teams und effizientes Verwalten von Analytics-Anfragen.
-   * **Adobe-Aktivierungsoptionen** Experience League, On-Demand-Kurse, Schulungskurse, Community-Support.
+   * **Optionen für die** von Adobe: Experience League, On-Demand-Kurse, Schulungskurse, Community-Support.
 
 * **Vergleich zwischen Adobe Analytics und Customer Journey Analytics (CGA)**
    * Adobe Analytics ist die Grundlage für die Digitalanalyse.
@@ -61,5 +61,5 @@ Erfahren Sie, wie Sie schnell mit Adobe Analytics und Customer Journey Analytics
 * **Highlights mit Fragen und Antworten**
    * Erläuterung von Komponenten und statischen Datenschemata.
    * Beschreibung der Offline-Daten.
-   * Recommendations für die Migration von Adobe Analytics zu CGA.
+   * Empfehlungen für die Migration von Adobe Analytics zu CGA.
    * Es ist wichtig, eine zentrale Datenquelle für das Daten-Reporting zu definieren.

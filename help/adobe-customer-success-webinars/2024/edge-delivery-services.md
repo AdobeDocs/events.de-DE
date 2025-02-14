@@ -1,6 +1,6 @@
 ---
 title: Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services
-description: ATM Edge Delivery Services (EDS) erweitert die ATM-Funktionen durch zusammenstellbare Services, schnelle Entwicklungszyklen und hohe Punktzahlen. Unterstützt werden das dokumentbasierte und WYSIWYG-Authoring, Server-lose Architektur, die schnelle Site-Erstellung und umfangreiche Anpassungsoptionen.
+description: In der Sitzung zu Edge Delivery Services (EDS) wurden die Architektur, die Integration mit dokumentbasiertem und AEM-basiertem Authoring, die schnelle Site-Erstellung, Anpassungsoptionen und Best Practices für die Aufrechterhaltung der hohen Leistung behandelt.
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
@@ -10,16 +10,16 @@ duration: 3589
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16631
 exl-id: 2057e491-9ec3-4bfe-b85a-6b74d70822bf
-source-git-commit: 1387be704e6b6dc1a7446e409da7da81403fdc3c
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
 # Optimierung der Inhaltsbereitstellung: Die Leistungsfähigkeit von Edge Services nutzen
 
-In dieser Sitzung geben wir einen Überblick über Edge Delivery Services (EDS) und seine Architektur. Wir werden uns damit befassen, wie EDS mit der dokumentbasierten und AEM-basierten Inhaltserstellung über den universellen Editor integriert wird. In einer Live-Demo wird EDS in Aktion gezeigt, gefolgt von Ressourcen für weitere Untersuchungen und einer Fragerunde.
+In dieser Sitzung geben wir einen Überblick über Edge Delivery Services (EDS) und seine Architektur. Wir werden uns damit befassen, wie EDS mit dem dokumentbasierten Authoring und dem AEM-basierten Authoring über den universellen Editor integriert wird. In einer Live-Demo wird EDS in Aktion gezeigt, gefolgt von Ressourcen für weitere Untersuchungen und einer Fragerunde.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440938/?learn=on&enablevpops)
 
@@ -32,8 +32,8 @@ In dieser Sitzung geben wir einen Überblick über Edge Delivery Services (EDS) 
 
 ### Authoring-Optionen
 
-* **Dokumentenbasiertes Authoring** Verwendet vertraute Tools wie Microsoft Word oder Google Docs für die Inhaltserstellung, was eine schnelle Inhaltserstellung ohne umfangreiche Schulung ermöglicht. &#x200B;
-* **Universeller Editor** Bietet eine WYSIWYG-Schnittstelle, die herkömmlichen ATM-Sites ähnelt und eine detailliertere und visuellere Inhaltserstellung ermöglicht. &#x200B;
+* **Dokumentenbasiertes Authoring** Verwendet vertraute Tools wie Microsoft Word oder Google Docs für die Inhaltserstellung, was eine schnelle Inhaltserstellung ohne umfangreiche Schulungen ermöglicht. &#x200B;
+* **Universeller Editor** Bietet eine WYSIWYG-Oberfläche, die der herkömmlichen ATM-Sites ähnelt und eine detailliertere und visuellere Inhaltserstellung ermöglicht. &#x200B;
 
 ### Architektur
 
@@ -65,4 +65,4 @@ In dieser Sitzung geben wir einen Überblick über Edge Delivery Services (EDS) 
 ### Support und Dokumentation
 
 * Eine umfassende Dokumentation steht zur Verfügung, um Benutzende durch den Einrichtungs- und Anpassungsprozess zu führen. &#x200B;
-* Benutzende sollten sich bei ungelösten Problemen an den Adobe-Support wenden. &#x200B;
+* Benutzende werden ermutigt, sich bei ungelösten Problemen an den Adobe-Support zu wenden. &#x200B;
