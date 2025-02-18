@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: 6201fd942b87ec5e094a90c314d30dcb38a2b278
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 4%
@@ -17,22 +17,22 @@ ht-degree: 4%
 
 # Experience League LIVE 
 
-Experience League LIVE ist eine vom Experience League-Team produzierte Live-Streaming-Show.  Dort haben Sie Gelegenheit, sich mit Adobe-Produktexperten auszutauschen und praktische Tipps, Tricks und Strategien für die Arbeit mit den Adobe Experience Cloud-Programmen kennenzulernen.
+Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-Streaming-Show.  Dort haben Sie Gelegenheit, sich mit Produktexperten von Adobe auszutauschen und praktische Tipps, Tricks und Strategien für die Arbeit mit den Programmen rund um Adobe Experience Cloud kennenzulernen.
 
 <div id="upcoming-events">
 
-## Anstehende Experience League LIVE-Events
+## Bevorstehende Experience League LIVE-Events
 
 <table>
 <tr>
 <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
-      <img alt="Experience League LIVE, 27. Februar" src="episodes/assets/WebBanner-02-27-25.jpg">
+      <img alt="Experience League LIVE 27. Februar" src="episodes/assets/WebBanner-Feb-27-2025.png">
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-27-25.md">
         <strong>Ermöglichen operativer Einblicke mit dem KI-Assistenten in Adobe Experience Platform</strong>
       </a>
-      <br/><em>mit Rudi Shumpert, Namita Krishnan und Huong Vu</em>
+      <br/><em>mit Daniel Wright, Namita Krishnan und Huong Vu</em>
       <br/><em>27. Februar 2025</em>
     </div>
   </td>
@@ -59,7 +59,7 @@ Experience League LIVE ist eine vom Experience League-Team produzierte Live-Stre
 
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience League LIVE, 21. April" src="episodes/assets/WebBanner-June26-2024.jpg">
+      <img alt="Experience League LIVE 21. April" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-26-24.md">
@@ -72,7 +72,7 @@ Experience League LIVE ist eine vom Experience League-Team produzierte Live-Stre
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-16-24.md">
-      <img alt="Experience League LIVE EP8" src="episodes/assets/WebBanner-May16-2024.jpg">
+      <img alt="Experience League LIVE ep8" src="episodes/assets/WebBanner-May16-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-05-16-24.md"><strong>So migrieren Sie Analytics zu Web SDK</strong></a>
