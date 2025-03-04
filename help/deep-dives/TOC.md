@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '75'
 ht-degree: 4%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 4%
 
 # Tiefe Tauchgänge {#deep-dives-recordings}
 
-+ [Übersicht](overview.md)
++ [Überblick](overview.md)
 + Detaillierte Einblicke in Marketo {#deep-dives-marketo}
-   + [Migration von Admin Consolen](admin-console.md)
+   + [Admin Console-Migration](admin-console.md)
    + [APIs](api.md)
    + [Automatisieren und Optimieren von Kampagnenvorgängen mithilfe der Marketo-API](campaign-operations.md)
    + [Zertifizierung](certification.md)
@@ -31,6 +31,7 @@ ht-degree: 4%
    + [Vererben einer Instanz](inheriting-an-instance.md)
    + [Lead-Lebenszyklen](lead-lifecycles.md)
    + [Nutzung von PMCF-Feldern für Skalierbarkeit](pmcf-fields.md)
+   + [Marketo Forms und AEM Forms](marketo-forms-aem-forms.md)
    + [E-Mail-Zustellbarkeit maximieren](maximize-email-deliverability.md)
    + [Instanz mit einem kleinen Team maximieren](small-team-instance.md)
    + [Kennzeichnen komplexer Prozesse im Aktivitätsprotokoll](activity-log.md)
