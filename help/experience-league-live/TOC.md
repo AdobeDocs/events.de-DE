@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '514'
 ht-degree: 4%
 
 ---
@@ -19,8 +19,9 @@ ht-degree: 4%
 
 # Live-Events von Experience League {#experience-league-live-recordings}
 
-+ [Übersicht](overview.md)
++ [Überblick](overview.md)
 + Folgen {#episodes}
+   + [EP. 45: Warte nicht… Zusammenarbeit! Einführung in Real-Time CDP Collaboration](episodes/exl-live-episode-04-10-25.md)
    + [EP. 44: Operative Erkenntnisse mit KI-Assistent in Adobe Experience Platform erschließen](episodes/exl-live-episode-02-27-25.md)
    + [EP. 43: Einführung in den KI-Assistenten für Zielgruppen für Marketing-Fachleute in Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [EP. 42: Enthüllung der Inhaltskarten für Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
@@ -51,18 +52,18 @@ ht-degree: 4%
    + [EP. 17: Bereitstellung eines personalisierteren Kundenerlebnisses in Echtzeit](episodes/exl-live-episode-09-20-22.md)
    + [EP. 16: Fragen Sie die Experten - Nützliche Erweiterungen in Tags (Launch), um das Web-SDK aufzuladen](episodes/exl-live-episode-08-23-22.md)
    + [EP. 15: Fragen an Experten - Datenströme und Datenvorbereitung](episodes/exl-live-episode-07-21-22.md)
-   + [EP. 14: Fragen Sie die Experten - RTCDP Connections](episodes/exl-live-episode-06-23-22.md)
+   + [EP. 14: Fragen Sie die Fachleute - RTCDP Connections](episodes/exl-live-episode-06-23-22.md)
    + [EP. 13: Fragen Sie die Fachleute - Die Grundlagen von Web SDK](episodes/exl-live-episode-05-26-22.md)
    + [EP. 12: Push-Benachrichtigungen mit Journey Optimizer](episodes/exl-live-episode-05-12-22.md)
    + [EP. 11: AAM und Real-Time CDP - Wie gehe ich mit all diesen Zielgruppen um?](episodes/exl-live-episode-04-28-22.md)
    + [EP. 10: AEM von Headful zu Headless (und alles dazwischen)](episodes/exl-live-episode-04-21-22.md)
    + [EP. 9: Einführung aller neuen Referenzdemos in AEM](episodes/exl-live-episode-02-03-22.md)
-   + [EP. 8: Customer Journey Analytics: Der Innenlöffel](episodes/exl-live-episode-08.md)
-   + [EP. 7: Erweitern von AEM mit Adobe App Builder](episodes/exl-live-episode-07.md)
+   + [EP. 8: Customer Journey Analytics: The Inside Scoop](episodes/exl-live-episode-08.md)
+   + [EP. 7. Erweitern von AEM mit Adobe App Builder](episodes/exl-live-episode-07.md)
    + [EP. 6: Menschen statt Geräte messen](episodes/exl-live-episode-06.md)
    + [EP. 5: Schnellere Live-Schaltung als je zuvor mit schneller Site-Erstellung](episodes/exl-live-episode-05.md)
    + [EP. 4: Wer hat darauf geklickt? Und was hat er dann gemacht?](episodes/exl-live-episode-04.md)
    + [EP. 3: Expertentipps für eine erfolgreiche Kampagne zum Jahresende](episodes/exl-live-episode-03.md)
    + [EP. 2: Machen Sie Ihr nächstes Zielgruppensegment intelligenter als je zuvor](episodes/exl-live-episode-02.md)
-   + [EP. 1: Meine drei beliebtesten Adobe [!DNL Analytics] Implementierungstipps](episodes/exl-live-episode-01.md)
+   + [EP. 1: Meine drei beliebtesten Tipps zur  [!DNL Analytics]  von Adobe](episodes/exl-live-episode-01.md)
 + [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
