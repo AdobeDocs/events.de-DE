@@ -2,7 +2,7 @@
 title: Neue Funktionen in schnellen Entwicklungsumgebungen für AEM
 description: In der Sitzung wird gezeigt, wie RDEs die schnelle Bereitstellung und Überprüfung von Änderungen ermöglichen, die Entwicklungsdurchlaufzeiten verkürzen und nahezu sofortiges Feedback liefern. Außerdem werden neue Funktionen wie verbesserte Protokollierung und Frontend-Unterstützung eingeführt.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 3cf88775-de57-4d1a-aa86-b6e93b47cfcf
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%

@@ -1,15 +1,15 @@
 ---
 title: Adobe Experience Manager Forms Cloud Service - Sichere digitale Mehrkanal-Registrierung
-description: Erfahren Sie, wie Sie mit Adobe Experience Manager Forms as a Cloud Service moderne, sichere digitale Registrierungserlebnisse erstellen können. In dieser Sitzung werden Best Practices für die Sicherung von in Workflows verarbeiteten Daten, die Externalisierung gesendeter Daten in den Azure-Speicher und die Erfassung von Insights mithilfe von Adobe [!DNL Analytics] mit Adaptive Forms in Cloud Service vorgestellt.
+description: Erfahren Sie, wie Sie mit Adobe Experience Manager Forms as a Cloud Service moderne, sichere digitale Registrierungserlebnisse erstellen können. In dieser Sitzung werden Best Practices für die Sicherung von in Workflows verarbeiteten Daten, die Externalisierung gesendeter Daten in den Azure-Speicher und die Erfassung von Insights mithilfe von Adobe  [!DNL Analytics]  Adaptive Forms in Cloud Service vorgestellt.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9194
 type: Event
 exl-id: d1cd8681-ec55-4776-99bf-a41fbb755a9a
 duration: 1551
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 7%
@@ -20,7 +20,7 @@ ht-degree: 7%
 
 Erfahren Sie, wie Sie mit Adobe Experience Manager Forms as a Cloud Service moderne, sichere digitale Registrierungserlebnisse erstellen können.
 
-In dieser Sitzung werden Best Practices für die Sicherung von in Workflows verarbeiteten Daten, die Externalisierung gesendeter Daten in den Azure-Speicher und die Erfassung von Einblicken mithilfe von Adobe-[!DNL Analytics] mit Adaptive Forms in Cloud Service vorgestellt.
+In dieser Sitzung werden Best Practices für die Sicherung von in Workflows verarbeiteten Daten, die Externalisierung gesendeter Daten in den Azure-Speicher und die Erfassung von Insights mithilfe von Adobe [!DNL Analytics] mit Adaptive Forms in Cloud Service vorgestellt.
 
 In unserer Roadmap wird auch eine Vorschau einiger Integrationen enthalten sein, z. B. Microsoft PowerAutomate und die Integration von Teams mit Adobe Experience Manager Forms.
 

@@ -3,7 +3,7 @@ title: Beschleunigen der AEM as a Cloud Service-Entwicklung mit schnellen Entwic
 description: 'Um Änderungen bereitzustellen, müssen in aktuellen Cloud-Entwicklungsumgebungen ein Prozess verwendet werden, der umfassende Code-Sicherheits- und Qualitätsregeln anwendet, die als CI/CD-Pipeline bezeichnet werden. Für Situationen, in denen schnelle und iterative Änderungen erforderlich sind, hat Adobe schnelle Entwicklungsumgebungen (Rapid Development Environments, kurz: RDEs) eingeführt. RDEs ermöglichen es Entwicklerinnen und Entwicklern, Änderungen schnell bereitzustellen und zu überprüfen und so den Zeitaufwand für das Testen von Funktionen, die nachweislich in einer lokalen Entwicklungsumgebung funktionieren, zu minimieren.'
 feature-set: Experience Manager
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -15,7 +15,7 @@ thumbnail: kt-11797.jpeg
 event-start-time: 2023-2-22 08:30-8
 exl-id: 365c9641-66f9-4e94-aa84-ad7c894959fe
 duration: 3387
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -44,6 +44,6 @@ RDEs ermöglichen es Entwicklerinnen und Entwicklern, Änderungen schnell bereit
 
 >[!NOTE]
 >
->* Informationen zu sitzungsspezifischen Community-Interaktionen auf Experience League finden Sie in diesem [Kontextuellen Thread](http://bit.ly/3x1Cl8x)
+>* Informationen zu sitzungsspezifischen Community-Interaktionen in Experience League finden Sie unter [Kontextueller Thread](http://bit.ly/3x1Cl8x)
 >
->* Um Benachrichtigungen zu unseren kommenden Webinaren zu erhalten, registrieren Sie sich bitte unter [Adobe auf AEM User Group](https://aem-augs.adobe.com/).
+>* Um Benachrichtigungen zu unseren kommenden Webinaren zu erhalten, registrieren Sie sich bitte bei der AEM-Benutzergruppe von [Adobe](https://aem-augs.adobe.com/).

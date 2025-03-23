@@ -6,12 +6,12 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9179
 type: Event
 exl-id: a96e31ec-8079-412f-818c-ebf82b512bbd
 duration: 1889
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 7%

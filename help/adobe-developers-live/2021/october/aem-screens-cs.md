@@ -6,12 +6,12 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9193
 type: Event
 exl-id: 6aa73e70-8fd0-4bae-a589-7cab23be5109
 duration: 1777
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 5%
@@ -29,5 +29,5 @@ Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/3umX
 ## Weitere Ressourcen
 
 - [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Übersicht über Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

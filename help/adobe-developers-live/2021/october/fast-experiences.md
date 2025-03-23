@@ -6,12 +6,12 @@ feature: Dispatcher
 topic: Performance
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9178
 type: Event
 exl-id: 47e84e07-441f-4947-a9d9-80d055f32b2e
 duration: 1780
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 3%
@@ -29,5 +29,5 @@ Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/3CUk
 ## Weitere Ressourcen
 
 - [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Übersicht über Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

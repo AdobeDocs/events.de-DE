@@ -7,13 +7,13 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7163
 type: Event
 thumbnail: 331278.jpg
 exl-id: f5ae88b3-d42c-4b40-9d70-e2dbb254e070
 duration: 875
-source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%

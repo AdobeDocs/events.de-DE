@@ -1,6 +1,6 @@
 ---
 title: Einfaches Verwalten ständig wechselnder Inhalte
-description: Erfahren Sie mehr über die Experience Manager Author Collaboration Tools
+description: Erfahren Sie mehr über die Experience Manager Author Collaboration-Tools
 solution: Experience Manager, Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -9,12 +9,12 @@ feature: Authoring
 topic: Collaboration
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7342
 exl-id: 9655db30-bb17-4f0e-abd2-3267821c6b7e
 duration: 3667
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -29,7 +29,7 @@ In dieser 5-teiligen Webinar-Reihe erfahren Sie, wie Sie in Adobe Experience Man
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 
-Erfahren Sie mehr über die Experience Manager Author Collaboration Tools.
+Erfahren Sie mehr über die Experience Manager Author Collaboration-Tools.
 
 ## Serienaufnahmen
 

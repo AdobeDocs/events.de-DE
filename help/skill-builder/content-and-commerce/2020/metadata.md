@@ -9,12 +9,12 @@ feature-set: Experience Manager Assets
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7339
 exl-id: b988b7ca-316f-4a14-9ca1-a9dc6b24aa5d
 duration: 2964
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 3%

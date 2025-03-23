@@ -2,7 +2,7 @@
 title: Meistern von Inhalten und Experience Fragments
 description: Mit diesem Webinar zur Wiederverwendbarkeit von Inhalten revolutionieren Sie die Art und Weise, wie Sie Inhalte erstellen und ihr volles Potenzial erschließen.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites
 feature: Content Fragments, Experience Fragments, Learn From Your Peers
 topic: Content Management
@@ -15,7 +15,7 @@ thumbnail: 3419557.jpeg
 event-start-time: 2023-5-16 08:30-8
 exl-id: 13aa3a2f-0a66-4bb2-92c5-93da0f2e62fb
 duration: 3560
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%

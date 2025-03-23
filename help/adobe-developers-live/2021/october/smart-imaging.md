@@ -5,12 +5,12 @@ solution: Experience Manager,Experience Manager Assets
 feature: Smart Crop, Smart Services
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9176
 type: Event
 exl-id: b3218ecd-4682-4bd1-8444-594ae925e4d8
 duration: 1757
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 2%
@@ -28,5 +28,5 @@ Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/3F58
 ## Weitere Ressourcen
 
 - [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Übersicht über den Adobe Experience Manager-Cloud Service ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Übersicht über Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

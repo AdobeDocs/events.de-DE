@@ -4,12 +4,12 @@ description: Demonstrieren der in der Adobe Experience Manager-Modernisierungs-T
 solution: Experience Manager
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9135
 type: Event
 exl-id: da237121-7d66-49fc-864f-6132e3936fed
 duration: 1843
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 12%

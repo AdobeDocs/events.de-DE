@@ -1,16 +1,16 @@
 ---
 title: Kunden-Anwendungsfall und Implementierung von AEM Headless in Verwendung
 description: Sitzungsankündigung
-solution: Experience Manager
+solution: Experience Manager, Experience Manager 6.5
 feature-set: Experience Manager
-version: 6.5
+version: Experience Manager 6.5
 feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
 exl-id: 6e35763d-d18a-468c-9b34-df14da7c7e2f
 duration: 3729
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 *Dieses Webinar wurde am **Mittwoch, 12. Oktober um 3 Uhr UTC)**. Die Aufzeichnung ist unten verfügbar.*
 
-Diese außergewöhnliche AEM GEMs-Sitzung bietet zwei Lautsprecher, die AEM als Kunden betreiben. Die Sitzung wird wie folgt in zwei Hälften aufgeteilt:
+Diese außergewöhnliche AEM GEMs-Sitzung bietet zwei Redner, die AEM als Kunden betreiben. Die Sitzung wird wie folgt in zwei Hälften aufgeteilt:
 
 ## Teil 1: AEM als Headless-CMS Wo/Wann/Warum?
 
@@ -35,7 +35,7 @@ In dieser Sitzung behandeln wir Folgendes:
 * Inhaltsfragment über Asset-API (Demo)
 * Inhaltsfragment über GraphQL (Demo)
 * Einige Echtzeitanwendungsfälle rund um die Verwendung von Inhaltsfragmenten und ihre Ansätze
-* Lerninhalte des SPA-Editors (Lösungsansatz zur Auswahlentscheidung) (Demo)
+* SPA-Editor-Lernprogramme (Lösungsansatz zur Auswahlentscheidung) (Demo)
 
 ## Teil 2: Bereitstellen von Headless-Inhalten über die GraphQL-API und Inhaltsfragmente
 
@@ -54,5 +54,5 @@ Dadurch entfällt die Anforderung, dass die API viele Endpunkte bereitstellen mu
 
 >[!NOTE]
 >
->* Informationen zu sitzungsspezifischen Community-Interaktionen auf Experience League finden Sie in diesem [Kontextuellen Thread](https://adobe.ly/3r6P4nr)
->* Um automatische Benachrichtigungen zu Webinaren zu erhalten, registrieren Sie sich bitte bei der AEM-Benutzergruppe [Adobe](https://aem-augs.adobe.com/).
+>* Informationen zu sitzungsspezifischen Community-Interaktionen in Experience League finden Sie unter [Kontextueller Thread](https://adobe.ly/3r6P4nr)
+>* Um automatische Benachrichtigungen zu Webinaren zu erhalten, registrieren Sie sich bitte bei der AEM User Group von [Adobe](https://aem-augs.adobe.com/).

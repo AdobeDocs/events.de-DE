@@ -5,12 +5,12 @@ solution: Commerce,Experience Manager
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9181
 type: Event
 exl-id: f5186897-3afd-4732-99f5-a69dad44b037
 duration: 1523
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 5%

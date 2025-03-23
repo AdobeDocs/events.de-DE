@@ -7,13 +7,13 @@ feature: APIs
 topic: Development, Headless
 role: Developer
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7167
 type: Event
 thumbnail: 331768.jpg
 exl-id: 0f0c18f7-d4ef-4391-a9f8-5a3c38d779c6
 duration: 1642
-source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%

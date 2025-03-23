@@ -1,15 +1,15 @@
 ---
 title: Neue Funktionen in Adobe Experience Manager Assets as a Cloud Service
-description: Im Jahr 2021 haben wir Adobe Experience Manager Assets as a Cloud Service viele Funktionen hinzugefügt, um wichtige Entwickler- und Geschäftsanwendungsfälle zu lösen. Schließen wir das Jahr ab, nehmen Sie an dieser Sitzung teil, um einen Crashkurs über die neuen Funktionen und vielleicht eine oder zwei Demos zu erhalten.
+description: Im Jahr 2021 haben wir viele Funktionen zu Adobe Experience Manager Assets as a Cloud Service hinzugefügt, um wichtige Entwickler- und Geschäftsanwendungsfälle zu lösen. Schließen wir das Jahr ab, nehmen Sie an dieser Sitzung teil, um einen Crashkurs über die neuen Funktionen und vielleicht eine oder zwei Demos zu erhalten.
 solution: Experience Manager,Experience Manager Assets
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9152
 type: Event
 exl-id: ce592a15-3ed9-4bff-bc3c-b655037e22b9
 duration: 1692
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 9%
@@ -18,7 +18,7 @@ ht-degree: 9%
 
 # Neue Funktionen in Adobe Experience Manager Assets as a Cloud Service
 
-Im Jahr 2021 haben wir Adobe Experience Manager Assets as a Cloud Service viele Funktionen hinzugefügt, um wichtige Entwickler- und Geschäftsanwendungsfälle zu lösen. Schließen wir das Jahr ab, nehmen Sie an dieser Sitzung teil, um einen Crashkurs über die neuen Funktionen und vielleicht eine oder zwei Demos zu erhalten.
+Im Jahr 2021 haben wir viele Funktionen zu Adobe Experience Manager Assets as a Cloud Service hinzugefügt, um wichtige Entwickler- und Geschäftsanwendungsfälle zu lösen. Schließen wir das Jahr ab, nehmen Sie an dieser Sitzung teil, um einen Crashkurs über die neuen Funktionen und vielleicht eine oder zwei Demos zu erhalten.
 
 Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/2XSAcg)**.
 

@@ -1,17 +1,17 @@
 ---
 title: Adobe Client-Datenschicht - Ereignisgesteuerte Datenverarbeitung
-description: Wollten Sie schon immer die Geheimnisse und Details hinter der Adobe-Client-Datenschicht kennen? Wie es konzipiert ist, wie die Architektur aussieht und wie können Sie es in vollem Umfang nutzen? Nehmen Sie an dieser Sitzung teil und erfahren Sie alles darüber. Als Bonus wird in einem Commerce-Beispiel gezeigt, wie die Kernkomponenten die ACDL hydrieren und später die Launch-Erweiterung mit anderen Anwendungen wie Adobe [!DNL Analytics]  oder Adobe Target interagiert.
+description: Wollten Sie schon immer die Geheimnisse und Details hinter der Adobe Client-Datenschicht kennen? Wie es konzipiert ist, wie die Architektur aussieht und wie können Sie es in vollem Umfang nutzen? Nehmen Sie an dieser Sitzung teil und erfahren Sie alles darüber. Als Bonus wird in einem Commerce-Beispiel gezeigt, wie die Kernkomponenten die ACDL-Datei hydrieren und später die Launch-Erweiterung mit anderen Anwendungen wie Adobe  [!DNL Analytics]  Adobe Target interagiert.
 solution: Data Collection,Experience Manager
 feature: Tags
 topic: Development
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9134
 type: Event
 exl-id: a38f67cd-3eb5-4590-a9be-484d0074508f
 duration: 2359
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 7%
@@ -20,7 +20,7 @@ ht-degree: 7%
 
 # Adobe Client-Datenschicht - Ereignisgesteuerte Datenverarbeitung
 
-Wollten Sie schon immer die Geheimnisse und Details hinter der Adobe-Client-Datenschicht kennen? Wie es konzipiert ist, wie die Architektur aussieht und wie können Sie es in vollem Umfang nutzen? Nehmen Sie an dieser Sitzung teil und erfahren Sie alles darüber. Als Bonus wird in einem Commerce-Beispiel gezeigt, wie die Kernkomponenten die ACDL hydrieren und später die Launch-Erweiterung mit anderen Anwendungen wie Adobe [!DNL Analytics] oder Adobe Target interagiert.
+Wollten Sie schon immer die Geheimnisse und Details hinter der Adobe Client-Datenschicht kennen? Wie es konzipiert ist, wie die Architektur aussieht und wie können Sie es in vollem Umfang nutzen? Nehmen Sie an dieser Sitzung teil und erfahren Sie alles darüber. Als Bonus wird in einem Commerce-Beispiel gezeigt, wie die Kernkomponenten die ACDL-Datei hydrieren und später die Launch-Erweiterung mit anderen Anwendungen wie Adobe [!DNL Analytics] oder Adobe Target interagiert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337585/?quality=12&learn=on&hidetitle=true)
 
