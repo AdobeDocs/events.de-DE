@@ -5,7 +5,7 @@ user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: ee8aede121140f6a4ce9f5da2656b3e3cc0e0137
+source-git-commit: 3311f2f2898f9d37f39b25d205d6db780565cc8f
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="Übersicht über die AEM-Version 2024.11.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="2024/assets/2024-11-play-button.png" alt="Übersicht über die AEM-Version 2024.11.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" alt="Übersicht über die AEM-Version 2024.11.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -40,9 +40,9 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/2024-11-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.11.0">2024.11.0 AEM-Version - Übersicht</a>
+                        <a href="2024/2024-11-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.11.0">2024.11.0 Übersicht über die AEM-Version</a>
                     </p>
-                    <p class="is-size-6">Diese Version enthält wichtige Updates für Adobe Experience Manager (AEM) Sites und Assets, einschließlich verbesserter Erweiterbarkeit der Benutzeroberfläche, neuer Ausgabedarstellungsoptionen, erweiterter Bildmodifikatoren und Verbesserungen für Edge Delivery Services mit dem universellen Editor in AEM.</p>
+                    <p class="is-size-6">Diese Version enthält wichtige Aktualisierungen für Adobe Experience Manager (AEM) Sites und Assets, einschließlich verbesserter Erweiterbarkeit der Benutzeroberfläche, neuer Ausgabeformate, erweiterter Bildmodifikatoren und Verbesserungen an Edge Delivery Services mit dem universellen Editor in AEM.</p>
                 </div>
                 <a href="2024/2024-11-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Details</span>
@@ -84,7 +84,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.10.0">2024.10.0 AEM-Versionsübersicht</a>
+                        <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.10.0">2024.10.0 AEM - Versionsübersicht</a>
                     </p>
                     <p class="is-size-6">Die Funktionen in dieser Version konzentrieren sich auf Experience Manager Assets- und Cloud Service-Innovationen und umfassen Folgendes:AEM Assets Neue Preise und Verpackungen für AEM Assets mit Assets Ultimate und Asset PrimeAEM Cloud Service Weiterleiten von Protokollen an mehr Ziele Pipeline-freie URL-Umleitungen für Business-Anwender ​ RDEs unterstützen Konfigurations-Pipeline-YAMLs​ Interaktive AEM Developer Console</p>
                 </div>
@@ -107,9 +107,9 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        Übersicht über die AEM-Version <a href="2024/2024-9-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.9.0">2024.9.0</a>
+                        <a href="2024/2024-9-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.9.0">2024.9.0 AEM - Versionsübersicht</a>
                     </p>
-                    <p class="is-size-6">Die Funktionen in dieser Version konzentrieren sich auf Experience Manager Assets- und Cloud Service-Innovationen und umfassen Folgendes:AEM Assets - Asset Selector Enhancement to Support Collections​ Assets Content Hub - Support DRM (abgelaufene und lizenzierte Assets)​AEM Cloud Service - Cloud Manager Support for Edge Delivery​ Edge Side Includes (ESI)​ Standardauthentifizierung​ Interactive AEM Developer Console</p>
+                    <p class="is-size-6">Die Funktionen in dieser Version konzentrieren sich auf Experience Manager Assets- und Cloud Service-Innovationen und umfassen Folgendes:AEM Assets - Asset-Selektor-Verbesserung zur Unterstützung von Sammlungen​ Assets Content Hub - Unterstützung für DRM (abgelaufene und lizenzierte Assets)​AEM Cloud Service - Cloud Manager-Unterstützung für Edge Delivery​ Edge Side Includes (ESI)​ Standardauthentifizierung​ Interactive AEM Developer Console</p>
                 </div>
                 <a href="2024/2024-9-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Details</span>
@@ -130,9 +130,9 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        Übersicht über die AEM-Version <a href="2024/2024-8-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.8.0">2024.8.0</a>
+                        <a href="2024/2024-8-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.8.0">2024.8.0 AEM - Versionsübersicht</a>
                     </p>
-                    <p class="is-size-6">Die Funktionen in dieser Version konzentrieren sich auf AEM Assets und Dynamic Media, Forms, Sites und Cloud Foundation-Innovationen und umfassen Folgendes: Dynamic Media Composable Templates for 1:1 Dynamic Variations Forms GenAI Assistant Universal Editor mit neuer AEM-Inhaltsstrukturintegration​ Verwalten des Lebenszyklus von DV-Zertifikaten und Unterstützung für Edge Delivery Services über das Cloud Manager Experience Audit Dashboard Verbesserungen bei der Pipeline-Leistung</p>
+                    <p class="is-size-6">Die Funktionen in dieser Version konzentrieren sich auf AEM Assets- und Dynamic Media-, Forms-, Sites- und Cloud Foundation-Innovationen und umfassen Folgendes: Zusammensetzbare Dynamic Media-Vorlagen für 1:1-Varianten Forms GenAI Assistant Universal Editor mit neuer AEM-Inhaltsstrukturintegration​ Verwalten des Lebenszyklus von DV-Zertifikaten und Unterstützung für Edge Delivery Services über Cloud Manager Experience Audit Dashboard Verbesserungen bei der Pipeline-Leistung</p>
                 </div>
                 <a href="2024/2024-8-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Details</span>
@@ -153,9 +153,9 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        Übersicht über die AEM-Version <a href="2024/2024-7-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.7.0">2024.7.0</a>
+                        <a href="2024/2024-7-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.7.0">2024.7.0 AEM - Versionsübersicht</a>
                     </p>
-                    <p class="is-size-6">Die Funktionen in dieser Version konzentrieren sich auf Experience Manager Assets- und Cloud Service-Innovationen und umfassen die folgenden:AEM Assets:Content credentials in AEM Assets​AI-gestützten Untertiteln für Videos mit Dynamic Media​Asset-Selektor-Verbesserungen für Upload​Cloud Manager:Self-Service-Konfiguration von kundenverwalteten CDN-Anmeldeinformationen​CDN Purge​Traffic-Filterregeln-Warnhinweise​</p>
+                    <p class="is-size-6">Die Funktionen in dieser Version konzentrieren sich auf Experience Manager Assets- und Cloud Service-Innovationen und umfassen die folgenden:AEM Assets:Content Credentials in AEM Assets​AI-gestützten Untertitel für Videos mit Dynamic Media​Asset-Selektor-Verbesserungen beim Hochladen​Cloud Manager:Self-Service-Konfiguration von kundenverwalteten CDN-Anmeldeinformationen​CDN Purge​Traffic-Filterregeln-Warnhinweise​</p>
                 </div>
                 <a href="2024/2024-7-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Details</span>
@@ -176,9 +176,9 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        Übersicht über die AEM-Version <a href="2024/2024-6-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.6.0">2024.6.0</a>
+                        <a href="2024/2024-6-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.6.0">2024.6.0 AEM - Versionsübersicht</a>
                     </p>
-                    <p class="is-size-6">Die Funktionen in der Version vom Juni 2024 konzentrieren sich auf AEM Assets mit Content Hub, Dynamic Media mit OpenAPI-Funktionen, Assets Admin Console-Selektorverbesserungen - Tags und abgelaufene Assets, Inhaltsfragmentmodelle in der Inhaltsfragmentkonsole, Cloud Foundation - Hinzufügen privater Repositorys in Cloud Manager und Cloud Foundation - Inhaltswiederherstellung.</p>
+                    <p class="is-size-6">Schwerpunkte der Funktionen der Version vom Juni 2024 sind AEM Assets mit Content Hub, Dynamic Media mit OpenAPI-Funktionen, Assets-Selektorverbesserungen - Tags und abgelaufene Assets, Inhaltsfragmentmodelle in Inhaltsfragmenten in Admin Console, Cloud Foundation - Hinzufügen privater Repositorys in Cloud Manager und Cloud Foundation - Inhaltswiederherstellung.</p>
                 </div>
                 <a href="2024/2024-6-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Details</span>
@@ -199,9 +199,9 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        Übersicht über die AEM-Version <a href="2024/2024-5-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.5.0">2024.5.0</a>
+                        <a href="2024/2024-5-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.5.0">2024.5.0 AEM - Versionsübersicht</a>
                     </p>
-                    <p class="is-size-6">Die Funktionen in dieser Version konzentrieren sich auf - Neue Publish-Optionen für AEM und Dynamic Media Universal Editor-Verbesserungen Migration von adaptiven Forms Foundation-Komponenten zu Kernkomponenten Zusätzliche CAPTCHA-Unterstützung in adaptiven Forms Cloud Foundation-Verbesserungen</p>
+                    <p class="is-size-6">Die Funktionen in dieser Version konzentrieren sich auf - Neue Veröffentlichungsoptionen für AEM und Dynamic Media Universal Editor-Verbesserungen Migration von adaptiven Forms Foundation-Komponenten zu Kernkomponenten Zusätzliche CAPTCHA-Unterstützung in den Erweiterungen der adaptiven Forms Cloud Foundation</p>
                 </div>
                 <a href="2024/2024-5-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Details</span>
@@ -222,9 +222,9 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        Übersicht über die AEM-Version <a href="2024/2024-4-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.4.0">2024.4.0</a>
+                        <a href="2024/2024-4-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.4.0">2024.4.0 AEM - Versionsübersicht</a>
                     </p>
-                    <p class="is-size-6">Die Funktionen in dieser Version konzentrieren sich auf Experience Manager Assets- und Cloud Service-Innovationen und umfassen Folgendes:AEM Assets:1-Klick-Asset/-Ordnername in der Assets-AnsichtVereinfachtes Sucherlebnis mit natürlicher SpracheVorschau von dynamischen Ausgabedarstellungen einschließlich smartem Zuschneiden aus der Assets-Ansicht Einfaches Bearbeiten von Videos innerhalb der AEM mit Express-SchnellaktionenCloud Manager:CDN-Optimierungen und -OptimierungSelf-Service-Konfiguration der Versionsbereinigung und Wartungsaufgaben der AuditprotokollbereinigungErweitern des Protokoll-Streaming auf Anbieter außerhalb von Splunk mit Self-Service-, dedizierter IP-UnterstützungCDN-Unterstützung für ESI, auch über SDIVerbesserte Java-Protokollierungserfahrung für RDE</p>
+                    <p class="is-size-6">Die Funktionen in dieser Version konzentrieren sich auf Experience Manager Assets- und Cloud Service-Innovationen und umfassen Folgendes:AEM Assets:1-Klick-Asset/-Ordnername in der Assets-AnsichtVereinfachtes Sucherlebnis mit natürlicher SpracheVorschau von dynamischen Ausgabedarstellungen einschließlich smartem Zuschneiden aus der Assets-Ansicht Einfaches Bearbeiten von Videos in AEM mit Express-SchnellaktionenCloud Manager:CDN-Optimierungen und -OptimierungSelf-Service-Konfiguration der Versionsbereinigung und Wartungsaufgaben für die AuditprotokollbereinigungErweitern Sie das Protokoll-Streaming auf andere Anbieter als Splunk, mit Self-Service, dedizierter IP-UnterstützungCDN-Unterstützung für ESI, auch über SDIVerbesserte Java-Protokollierungserfahrung für RDE</p>
                 </div>
                 <a href="2024/2024-4-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Details</span>
@@ -245,9 +245,9 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/2024-3-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.3.0">2024.3.0 AEM-Versionsübersicht</a>
+                        <a href="2024/2024-3-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.3.0">2024.3.0 AEM - Versionsübersicht</a>
                     </p>
-                    <p class="is-size-6">Erlebnisse mit hoher Wirkung AEM-Authoring mit Edge Delivery Services-Edge Delivery Services für FormulareInhalte für alle, für alle universellen Editor Actionable Intelligence AEM Sites - Generate Content Variations (GenAI)Schnelle Entwicklung CruD OpenAPIs für Inhaltsfragmente und -modelleCloud Service Foundation - Erweiterte NetzwerkfunktionenWeitere wichtige VerbesserungenVergleichen von InhaltsfragmentversionenUnterstützung für die Multisite-Verwaltung für Experience FragmentsAktualisierter Content Importer v1.51.0 Sidekick-Erweiterung v6.41.0</p>
+                    <p class="is-size-6">Erlebnisse mit hoher Wirkung AEM Authoring mit Edge Delivery Services Edge Delivery Services für FormsInhalte für alle, für alle universellen Editor Actionable Intelligence AEM Sites - Generate Content Variations (GenAI)Schnelle Entwicklung CruD OpenAPIs für Inhaltsfragmente und -modelleCloud Service Foundation - Erweiterte NetzwerkfunktionenWeitere wichtige VerbesserungenVergleichen von InhaltsfragmentversionenUnterstützung für die Verwaltung von Multisites für Experience FragmentsAktualisierter Content Importer v1.51.0 Sidekick-Erweiterung v6.41.0</p>
                 </div>
                 <a href="2024/2024-3-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Details</span>
@@ -268,7 +268,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        Übersicht über die AEM-Version <a href="2024/2024-1-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.1.0">2024.1.0</a>
+                        <a href="2024/2024-1-0.md" target="_blank" rel="referrer" title="Übersicht über die AEM-Version 2024.1.0">2024.1.0 AEM - Versionsübersicht</a>
                     </p>
                     <p class="is-size-6">Die Funktionen in dieser Version konzentrieren sich auf Experience Manager Assets- und Cloud Service-Innovationen und umfassen Folgendes: Integration von AEM Assets mit AEM Assets Cloud Service und Adobe Journey Optimizer, Smart-Tags-Blockierungsliste, vordefinierte Videovorschau-Ausgabedarstellung, Cloud Manager - Benutzerdefinierte Berechtigungen</p>
                 </div>
