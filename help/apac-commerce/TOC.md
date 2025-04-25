@@ -2,9 +2,9 @@
 user-guide-title: APAC Commerce Events
 breadcrumb-title: APAC Commerce Events
 user-guide-description: Adobe Commerce Events ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zur Verwendung von Adobe Commerce vorstellen können.
-source-git-commit: 888157b1ae32dcd6657ddbac51c448ac72c65933
+source-git-commit: 0019364eaad86248349d31290f25f758d762eaf4
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '147'
 ht-degree: 4%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 4%
 
 # APAC Commerce Events {#apac-commerce-recordings}
 
-+ [Übersicht](overview.md)
++ [Überblick](overview.md)
 + 2024 {#2024}
    + [Tag des Beschleunigers](2024/accelerator-day/overview.md)
    + Tag des Beschleunigers{#accelerator-day}
@@ -35,7 +35,7 @@ ht-degree: 4%
    + [7 Möglichkeiten, ein E-Commerce-Geschäft organisch auszubauen](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
    + [KI-gestützte Personalisierung](2023/ai-personalisation.md)
-   + [Adobe auf PaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)
+   + [Adobes PaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)
    + [Förderung von E-Commerce-Konversionen](2023/ecommerce-conversions.md)
    + [Zusammensetzbare Commerce-Strategien](2023/composable-commerce.md)
    + [Marktplätze als Wachstumsmotor](2023/marketplaces.md)
@@ -46,7 +46,6 @@ ht-degree: 4%
    + [Site Wide Analysis Tool](2022/analysis-tool.md)
    + [Daten mit MBI in Werte umwandeln](2022/mbi.md)
    + [Aktualisieren auf 2.4.4](2022/upgrade.md)
-+ [Highlights der Versions-Roadmap](release-highlights.md)
 
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
