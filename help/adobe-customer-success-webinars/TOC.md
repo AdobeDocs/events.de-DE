@@ -13,7 +13,7 @@ ht-degree: 0%
 # Kundenerfolgs-Webinare zu Adobe {#adobe-customer-success-webinar-recordings}
 
 + [Kundenerfolgs-Webinare zu Adobe](overview.md)
-+ {#2025} 2025
++ 2025{#2025}
    + [Adobe Digital Insights](2025/adobe-digital-insights.md)
    + [Integration von AEM und Workfront](2025/aem-workfront-integration.md)
    + [Erstellen effektiver Web-Seiten](2025/build-effective-web-pages.md)

@@ -20,7 +20,7 @@ ht-degree: 0%
 # Datenverlust {#data-drip-recordings}
 
 + [Datenverlust](overview.md)
-+ {#2025} 2025
++ 2025{#2025}
    + [Adobe Analytics Grundlagen und mehr](2025/adobe-analytics-basics-beyond.md)
    + [Marketing-Kanäle und Attributionsmodellierung](2025/marketing-channel-attribution-modeling.md)
 

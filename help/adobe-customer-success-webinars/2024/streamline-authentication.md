@@ -32,9 +32,9 @@ Dieses Webinar führt Teilnehmende durch die Migration von den veralteten JWT-An
 * **Fragen und Antworten** Fragen wurden während des gesamten Meetings gestellt und am Ende wurde eine dedizierte Frage- und Antwortsitzung hinzugefügt.
 * **Vorteile von OAuth** OAuth vereinfacht im Vergleich zu JWT die Entwicklung, erhöht die Sicherheit und optimiert die Wartung.
 * **Zeitplan für die Migration**
-   * 1. Mai 2023 - Ankündigung der zukünftigen Einstellung.
-   * 2. Juni 2024 - Letztes Datum für die Erstellung neuer Anmeldedaten für Service-Konten.
-   * 27. Januar 2025 - Das Ende der Lebensdauer von Service-Konten und APIs, die sie verwenden, funktionieren nicht mehr.
+   * &#x200B;1. Mai 2023 - Ankündigung der zukünftigen Einstellung.
+   * &#x200B;2. Juni 2024 - Letztes Datum für die Erstellung neuer Anmeldedaten für Service-Konten.
+   * &#x200B;27. Januar 2025 - Das Ende der Lebensdauer von Service-Konten und APIs, die sie verwenden, funktionieren nicht mehr.
 * **&#x200B;Besondere Hinweise für AEM** Im Webinar wurde erörtert, wie sich die Migration auf AEM-Cloud- und On-Premise-Kunden auswirkt, einschließlich spezifischer Autorisierungsmuster und -konfigurationen.
 * **Automatisch generierte Integrationen** Automatisch generierte Integrationen werden vor Ablauf der Frist automatisch per Adobe migriert.
 * **Support und Dokumentation** Adobe bietet umfangreiche Dokumentationen und Unterstützung für den Migrationsprozess. Kunden können sich an Adobe-Mitarbeiter oder professionelle Services wenden, um Unterstützung zu erhalten.

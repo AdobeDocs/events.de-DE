@@ -33,7 +33,7 @@ ht-degree: 0%
 + Ressourcenmanagement-{#resource-management}
    + [Ressourcen- und Kapazitätsplanung](user-groups/resource-and-capacity-planning.md)
    + [Ressourcenverwaltung](user-groups/resource-management.md)
-+ {#review-and-approve-work} überprüfen und genehmigen
++ überprüfen und genehmigen{#review-and-approve-work}
    + [Marketing-Workflows und Genehmigungen](user-groups/marketing-workflows-and-approvals.md)
    + [IT-Workflows und Genehmigungen](user-groups/it-workflows-and-approvals.md)
 + Arbeitszeittabellen-{#timesheets}

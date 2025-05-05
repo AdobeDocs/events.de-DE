@@ -33,7 +33,7 @@ In diesem tiefen Einblick zeigen wir Ihnen, wie Sie mit der Marketo-API beginnen
 ## Wichtige Schlussfolgerungen
 
 * **Fokus** Die Sitzung konzentrierte sich auf die Automatisierung und Optimierung von Kampagnenvorgängen mithilfe der Marketo-API.
-* **API-Wichtigkeit** APIs sind entscheidend für die Automatisierung sich wiederholender Aufgaben, die Kommunikation zwischen Systemen und die Einsparung von Zeit und Geld.API-Grundlagen** Erläuterung der Funktionsweise einer * **API, einschließlich des Unterschieds zwischen GET- und POST-Anfragen.
+* **API-Wichtigkeit** APIs sind entscheidend für die Automatisierung sich wiederholender Aufgaben, die Kommunikation zwischen Systemen und die Einsparung von Zeit und Geld.API-Grundlagen **&#x200B; Erläuterung der Funktionsweise einer * &#x200B;** API, einschließlich des Unterschieds zwischen GET- und POST-Anfragen.
 
 ### Anwendungsfälle
 

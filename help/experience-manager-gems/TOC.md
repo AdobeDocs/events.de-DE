@@ -13,7 +13,7 @@ ht-degree: 1%
 # GEMS-Veranstaltungen für Experience Manager {#experience-manager-gems-recordings}
 
 + [Übersicht](overview.md)
-+ {#gems2025} 2025
++ 2025{#gems2025}
    + [Erste Schritte mit Adobe-verwaltetem CDN](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
    + [Erschließen der Leistungsfähigkeit von AEM Sites - Meistern der Content-Management-APIs](gems2024/content-management-apis.md)
@@ -102,7 +102,7 @@ ht-degree: 1%
    + [AEM Tech Sneak Peek](gems2015/aem-tech-sneak-peek.md)
    + [Tipps und Tricks für die  [!DNL AEM Sites] -Touch-Benutzeroberfläche](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [Tracking von Qualitätsmetriken Ihres JavaScript-Projekts](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
-+ {#gems2014} 2014
++ 2014{#gems2014}
    + [Bereitstellen von Adobe Analytics auf einer lokalen AEM-Instanz über den DTM-Cloud-Service](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
    + [So nutzen Sie Ihr DAM-Feature Pack optimal](gems2014/aem-dam-feature-pack.md)
    + [Bereitstellen verwalteter Inhalte für Ihre nativen Apps](gems2014/aem-delivering-managed-content-to-your-native-apps.md)
@@ -119,7 +119,7 @@ ht-degree: 1%
    + [Detaillierte technische Einblicke in die AEM 6-Plattform](gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
    + [Technische Übersicht über die AEM 6-Plattform](gems2014/aem-technical-overview-of-the-aem-6-platform.md)
    + [Anpassung der Benutzeroberfläche für AEM 6](gems2014/aem-user-interface-customization-for-aem6.md)
-+ {#gems2013} 2013
++ 2013{#gems2013}
    + [Architektur der AEM 5.6-Plattform](gems2013/aem-architecture-of-the-aem-5-6-platform.md)
    + [Fehlerbehebung bei CQ/AEM 5.6](gems2013/aem-cq-aem-5-6-troubleshooting.md)
    + [E-Commerce-Integrations-Framework](gems2013/aem-ecommerce-integration-framework.md)

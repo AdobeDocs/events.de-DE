@@ -20,7 +20,7 @@ In dieser Sitzung wird Justin Edelson, globaler Experte für AEM und Co-Projektl
 * [!UICONTROL Sitemap-Generator]
 * [!UICONTROL AEM-Fiddle]
 * [!UICONTROL Allgemeine Listen]
-* [!UICONTROL Typekit-Cloud Service ]
+* [!UICONTROL Typekit-Cloud Service &#x200B;]
 
 >[!VIDEO](https://video.tv.adobe.com/v/19374/?quality=9)
 

@@ -14,7 +14,7 @@ ht-degree: 4%
 
 + [Übersicht](overview.md)
 + 2024 {#2024}
-   + {#nov2024}. November
+   + . November{#nov2024}
       + [Grundgedanke](2024/nov/keynote.md)
       + AEM Cloud Service {#aem-cloud-service}
          + [AEM-APIs und Eventing](2024/nov/apis-eventing.md)
@@ -44,7 +44,7 @@ ht-degree: 4%
          + [Edge Delivery Services und Adobe Commerce](2024/nov/commerce-storefront-eds.md)
          + [Orchestrieren von Commerce-APIs für Headless-Implementierungen](2024/nov/commerce-api-headless.md)
 + 2023 {#2023}
-   + {#nov2023}. November
+   + . November{#nov2023}
       + [Keynote zur Eröffnung](2023/november/keynote.md)
       + [Eröffnungs-Keynote (APAC)](2023/november/keynote-apac.md)
       + [Automatisieren von Inhalts-Workflows mit App Builder](2023/november/content-workflows.md)
@@ -142,7 +142,7 @@ ht-degree: 4%
       + [Schnelle Frontend-Entwicklung](2021/february/rapid-frontend-devlopment.md)
       + [SPA-Editor 2.0](2021/february/spa-editor-2-0.md)
       + [Umwandeln einer Site in eine Progressive Web App](2021/february/any-site-into-pwa.md)
-   + {#oct2021}. Oktober
+   + . Oktober{#oct2021}
       + [Übersicht](2021/october/overview.md)
       + [Keynote zur Eröffnung](2021/october/keynote.md)
       + [Beschleunigung des Wechsels zu Experience Manager CS](2021/october/accelerate-transistion.md)
