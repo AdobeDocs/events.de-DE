@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Die Navigation ist für Ihre Besucher von entscheidender Bedeutung, um sich auf Ihrer Site zurechtzufinden und in Ihre Konversionstrichter zu gelangen. Erfahren Sie, wie Sie die Effektivität Ihrer Navigation verfolgen und diese mit Adobe Analytics verbessern können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457376/?learn=on&captions=ger)

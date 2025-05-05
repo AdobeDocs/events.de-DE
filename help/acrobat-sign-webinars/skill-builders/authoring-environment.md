@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Machen Sie sich noch besser mit den Optionen vertraut, die in der Authoring-Umgebung von Acrobat Sign verfügbar sind. Zu den behandelten Themen gehören: Überblick über die Vorbereitung Ihrer Acrobat Sign-Dokumentvorlagen mithilfe von Acrobat, Text-Tagging und die Acrobat Sign-Authoring-Umgebung. Detaillierte Einblicke in die Authoring-Umgebung, einschließlich Klonen vs. Kopieren von Feldern, Hinzufügen von Spezialfeldern, Zuweisen von Feldern und Einrichten von bedingten Feldern und Berechnungsfeldern. Senden von Vorlagen zur Signatur, Vergleichen der Dokumentvorlage mit der Formularfeldvorlage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428189/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455914/?learn=on&captions=ger)
 
 ## Wichtigste Punkte
 

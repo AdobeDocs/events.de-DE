@@ -26,4 +26,4 @@ Die Befähigung von Teams zur Datenerfassung ist für die Förderung von Innovat
 * Best Practices für die Bereitstellung des richtigen Kontexts und die Sicherstellung einer effektiven Datennutzung.
 * Erfahren Sie, wie Adobe Analytics und Customer Journey Analytics Ihren Teams helfen können, Daten zu verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453596/?learn=on&captions=ger)

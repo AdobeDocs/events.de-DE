@@ -26,7 +26,7 @@ Aufschlussreiche Strategien und praktische Ansätze für Organisationen, die ihr
 * Verwenden von Workfront zur Unterstützung von Lean Project Management
 * Kontinuierliches Lernen und Anpassung
 
->[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456718/?learn=on&captions=ger)
 
 ## Übersicht über Meetings
 

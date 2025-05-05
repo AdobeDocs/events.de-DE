@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Eine hervorragende Erlebnisleistung ist der Schlüssel zum Erfolg des Erlebnisses. In dieser Sitzung geben wir Ihnen unsere 10 besten Best Practices für Tipps, die Ihre Entwickler dabei unterstützen, Ihre Adobe Experience Manager-Websites schneller zu gestalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457184/?quality=12&learn=on&captions=ger)

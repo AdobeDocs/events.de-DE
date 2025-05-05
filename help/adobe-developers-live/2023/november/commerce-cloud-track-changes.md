@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Verfolgen Sie die Bereitstellungsereignisse Ihres Commerce-Projekts in New Relic, indem Sie eine Skriptintegration erstellen. Einfaches Aktivieren der Funktion &quot;New Relic-Änderungen verfolgen“, um Bereitstellungsereignisse in Ihrem Commerce in einem Cloud-Infrastrukturprojekt zu überwachen. Die Datenerfassung für Bereitstellungen hilft bei der Analyse der Auswirkungen von Bereitstellungsänderungen auf die Gesamtleistung, z. B. CPU, Arbeitsspeicher, Transaktionsreaktionszeiten und mehr.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426313/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456454/?learn=on&captions=ger)

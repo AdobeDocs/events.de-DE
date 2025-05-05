@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Der universelle Editor ist die nächste Generation des kontextbezogenen AEM-Seiteneditors und löst die aktuellen Einschränkungen des AEM-Seiteneditors oder SPA-Editors. Es ist unabhängig von Frameworks, Rendering-Engines und Datenquellen - und bietet somit all die Freiheit, die die Entwickler anstreben, und macht sie wirklich universell.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426341/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456477/?learn=on&captions=ger)

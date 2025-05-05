@@ -18,4 +18,4 @@ ht-degree: 0%
 
 In dieser Sitzung erfahren Sie mehr über die verfügbaren Tools zur Überwachung von Zustand, Sicherheit und Qualität der Adobe Commerce-Plattform.
 
->[!VIDEO](https://video.tv.adobe.com/v/340624/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456871/?quality=12&learn=on&captions=ger)

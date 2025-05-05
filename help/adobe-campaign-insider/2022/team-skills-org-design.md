@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In der heutigen Cross-Channel- und digitalen Welt haben die Verbraucher die Möglichkeit, überall, zu jeder Zeit und auf jede gewünschte Weise einzugreifen. Und der Marketer muss bereit sein, da er sonst ein schlechtes Kundenerlebnis oder schlimmere Abnutzung riskiert. Die Antwort ist nicht nur eine Marketing-Plattform, die die Orchestrierung von Nachrichten über verschiedene Kanäle hinweg unterstützt, sondern auch eine Marketing-Organisation, die die Planung, Ausführung und Messung von Marketing-Kampagnen über alle Kanäle hinweg unterstützt.
 
->[!VIDEO](https://video.tv.adobe.com/v/343871/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457058/?quality=12&learn=on&captions=ger)

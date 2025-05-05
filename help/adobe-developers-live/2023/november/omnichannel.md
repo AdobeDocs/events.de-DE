@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Die Ausrichtung von Inhalten zwischen eingehenden und ausgehenden Kanälen kann schwierig zu organisieren sein. Mit Adobe Experience Manager können Sie sowohl eingehende als auch ausgehende Inhalte erstellen und diese Inhalte auf der Kunden-Journey verwenden. In dieser Sitzung werden Integrationsmuster mit Adobe Target, Adobe Campaign, Adobe Journey Optimizer und mehr behandelt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426337/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455022/?learn=on&captions=ger)

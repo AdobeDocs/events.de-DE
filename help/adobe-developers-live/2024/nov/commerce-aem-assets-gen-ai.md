@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Ankush Malhotra, Sr. Computer Scientist bei Adobe und Pablo Moreno, Sr. Software Engineer bei Adobe, Adobe Experience Manager Assets und GenAI mit Adobe Express integrieren, um die Adobe Commerce-Stores zu erweitern. Nutzen Sie markeninterne genehmigte Bildverweise, verbessern Sie die Qualität von Medieninhalten und steigern Sie die E-Commerce-Leistung mit dieser leistungsstarken Kombination.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440400/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440558/?learn=on&enablevpops&captions=ger)
 
 ## Community-Diskussion
 

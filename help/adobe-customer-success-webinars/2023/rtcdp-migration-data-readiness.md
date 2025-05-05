@@ -25,4 +25,4 @@ Lernen Sie die Strategie hinter der organisatorischen Vorbereitung aus der Persp
 * Erfahren Sie, wie Sie als Organisation geschäftliche Anwendungsfälle abstimmen können
 * Wichtige Ressourcen und Aktionen für die Bereitschaft von Real-Time CDP
 
->[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457072/?learn=on&captions=ger)

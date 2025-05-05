@@ -25,6 +25,6 @@ ht-degree: 0%
 
 + Präsentiert von Jason Ford, Leiter ANZ Solution Engineering - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455463/?learn=on&captions=ger)
 
 [&lt; Zurück zum Adobe Commerce Accelerator Day](./overview.md)

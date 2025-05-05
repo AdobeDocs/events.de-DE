@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Entfesseln Sie die Zukunft Adobe Commerces! Erkunden Sie unsere hochmoderne Präsentation über die neuesten Verbesserungen unserer Commerce-Plattform, die auf generativer KI- und 3D-Technologie basiert. Erfahren Sie, wie diese Innovationen die Kundeninteraktion neu definieren und den Geschäftserfolg vorantreiben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426312/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456465/?learn=on&captions=ger)

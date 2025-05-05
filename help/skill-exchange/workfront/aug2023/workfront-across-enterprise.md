@@ -31,4 +31,4 @@ Wie sie im Laufe der Zeit sowohl ihre Prozesse als auch ihre Infrastruktur entwi
 Praktische Hinweise zur Integration von Workfront in Ihren größeren Technologiestapel und zur Weiterentwicklung wichtiger Workflows
 Wie IPG die Grundlagen für die Content Supply Chain schafft
 
->[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456671/?learn=on&captions=ger)

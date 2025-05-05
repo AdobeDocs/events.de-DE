@@ -24,4 +24,4 @@ Erwerben Sie die Taktiken, um die Unternehmensziele durch strategischen Einfluss
 - Weichenstellung für langfristigen Erfolg
 - Strategische Initiativen wirksam vorantreiben
 
->[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456792/?learn=on&captions=ger)

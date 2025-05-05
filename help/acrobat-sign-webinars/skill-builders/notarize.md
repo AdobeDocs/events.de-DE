@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Integration notarialisieren - der schnellere und einfachere Weg, Ihre Dokumente zu notarialisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454381/?learn=on&captions=ger)
 
 ## Wichtige behandelte Themen
 

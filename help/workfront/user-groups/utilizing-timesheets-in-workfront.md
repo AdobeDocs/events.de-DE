@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Nicholas Twillie und Alma Martinez von Walgreens reden über die Nachverfolgung von Zeit durch Arbeitszeittabellen in Workfront. Sehen Sie sich an, wie Christian Barnes Ihnen die technischen Aspekte von Arbeitszeittabellen zeigt.
 
->[!VIDEO](https://video.tv.adobe.com/v/341228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457343/?quality=12&learn=on&captions=ger)

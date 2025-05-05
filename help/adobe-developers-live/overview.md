@@ -80,7 +80,7 @@ Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/ai-and-personalization.md" title="KI und Personalization für Adobe Experience Manager Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440405/?format=jpeg&nocache=1733162925381" alt="KI und Personalization für Adobe Experience Manager Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440415/?format=jpeg&nocache=1733162925381&captions=ger" alt="KI und Personalization für Adobe Experience Manager Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/cdn-waf-aemcs.md" title="CDN- und WAF-Konfiguration in Adobe Experience Manager as a Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440401/?format=jpeg&nocache=1733162925358" alt="CDN- und WAF-Konfiguration in Adobe Experience Manager as a Cloud Service"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440611/?format=jpeg&nocache=1733162925358&captions=ger" alt="CDN- und WAF-Konfiguration in Adobe Experience Manager as a Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +237,7 @@ Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/extension-manager.md" title="Extension Manager für Adobe Experience Manager Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440404/?format=jpeg&nocache=1733162926516" alt="Extension Manager für Adobe Experience Manager Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440437/?format=jpeg&nocache=1733162926516&captions=ger" alt="Extension Manager für Adobe Experience Manager Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -390,7 +390,7 @@ Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/asset-migration-blueprint.md" title="Assets-Migrationsplan" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440403/?format=jpeg&nocache=1733162927528" alt="Assets-Migrationsplan"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440448/?format=jpeg&nocache=1733162927528&captions=ger" alt="Assets-Migrationsplan"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -413,7 +413,7 @@ Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/performant-delivery.md" title="Best Practices für einen leistungsstarken Versand" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440399/?format=jpeg&nocache=1733162927540" alt="Best Practices für einen leistungsstarken Versand"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440426/?format=jpeg&nocache=1733162927540&captions=ger" alt="Best Practices für einen leistungsstarken Versand"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

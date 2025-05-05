@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Machen Sie sich mit allen Optionen vertraut, die beim Senden von Vereinbarungen zur Unterzeichnung verfügbar sind. In dieser Sitzung erfahren Sie mehr über: Senden an mehrere Empfänger Verfügbare Empfängerrollen (Unterzeichner, Formularausfüller, Delegator usw.) Hinzufügen eines CC-Felds, Passwortschutz und mehr.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428186/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454889/?learn=on&captions=ger)
 
 Das Webinar bietet Einblicke in die erweiterten Funktionen von Acrobat Sign zum Einrichten von Workflows mit mehreren Teilnehmern, zum Konfigurieren von Empfängerrollen und zum Verwenden von Empfängergruppen und privaten Nachrichten. Dieses Lernen kann dazu beitragen, den Prozess des Versands von Dokumenten zur Signatur zu optimieren und die Zusammenarbeit zwischen den Unterzeichnungsteilnehmern zu verbessern.
 

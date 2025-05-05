@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Nutzen Sie alle Automatisierungsfunktionen mit der Low-Code-/No-Code-Lösung von Microsoft, Power Automate, direkt in Adobe Acrobat Sign. Erfahren Sie, wie Nicht-Entwickler die Leistung und Flexibilität haben, Workflows der nächsten Generation zu erstellen. In dieser Sitzung erfahren Sie, wie Sie: die Workflow-Integration einrichten, um mit der Workflow-Erstellung zu beginnen, mit vorgefertigten Vorlagen beginnen. Ein riesiges Ökosystem an Connectoren nutzen, um Acrobat Sign in Ihre gebündelten und benutzerdefinierten Programme zu integrieren. Steigern Sie die Produktivität und erweitern Sie die Funktionen von Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454933/?learn=on&captions=ger)
 
 ## Weitere Informationen zu Power Automate
 

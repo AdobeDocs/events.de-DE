@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Alle Acrobat Sign-Administratoren und Endbenutzer/Einzelpersonen aufrufen. In dieser Sitzung wird sowohl die Erstellung als auch die Verwendung von Workflows behandelt. Erfahren Sie, wie Sie als Acrobat Sign-Gruppe oder Konto-Administrator vordefinierte Workflows definieren können, um Dokumente automatisch zur Signatur an die richtigen Parteien weiterzuleiten und dann Zugriff auf Ihre gesamte Acrobat Sign-Gruppe zu gewähren. Und als Endanwender erfahren Sie, wie Sie diese Workflows verwenden können, um sicherzustellen, dass Dokumente beim ersten Mal richtig signiert werden - und zwar jedes Mal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454911/?learn=on&captions=ger)
 
 ## Behandelte Themen
 

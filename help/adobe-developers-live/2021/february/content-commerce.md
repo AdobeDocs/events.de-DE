@@ -27,6 +27,6 @@ Diese Sitzung hilft Entwicklerinnen und Entwicklern bei den ersten Schritten mit
 
 Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/36Yd3v6)**.
 
->[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454403/?quality=12&learn=on&hidetitle=true&captions=ger)
 
 Klicken Sie **[hier](/help/adobe-developers-live/assets/content-commerce.pdf)** für die Sitzungsfolien.

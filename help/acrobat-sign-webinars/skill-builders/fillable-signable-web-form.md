@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie ein Web-Formular erstellen, mit dem jeder ausfüllen und signieren kann, ohne die Transaktion initiieren oder sogar die E-Mail-Adresse des Unterzeichners kennen zu müssen. Außerdem erfahren Sie, wie Sie eine Dokumentvorlage vorbereiten, die für einzelne Signaturtransaktionen sowie für die Bereitstellung an eine eindeutige URL für eine umfassende Freigabe verwendet werden kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455458/?learn=on&captions=ger)
 
 ## Wichtigste Punkte
 

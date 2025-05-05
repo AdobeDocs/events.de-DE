@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Erfahren Sie mehr über die in Acrobat Sign verfügbaren Analysen und Berichte und sehen Sie, wie Sie Daten anzeigen können, um die Erkenntnisse zu liefern, die Sie für die Weiterentwicklung Ihres Unternehmens benötigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428191/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454414/?learn=on&captions=ger)
 
 ## Neue Reporting- und Exportfunktionen
 

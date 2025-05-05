@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Lernen Sie die Tools und Best Practices für die Vertragsverwaltung kennen, damit Sie jederzeit über den Status Ihrer Verträge informiert sind. In dieser Sitzung wird Folgendes behandelt: Welche Aktionen Sie mit Dokumenten auf der Registerkarte Verwalten durchführen können, wie Daten aus Web-Formularen und Massensendungen verarbeitet und verwendet werden und wie Sie nach den benötigten Dokumenten suchen und filtern können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428190/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455010/?learn=on&captions=ger)
 
 In dieser Sitzung erörtert der Sprecher, wie Vereinbarungen mithilfe von Adobe Acrobat Sign verwaltet und verfolgt werden können. &#x200B; Sie erläutern die verschiedenen Vertragsstatus, zeigen Maßnahmen auf, die in Bezug auf laufende Vereinbarungen ergriffen werden können, und stellen Ressourcen für weiteres Lernen bereit.

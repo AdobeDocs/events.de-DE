@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Commerce-Eröffnungs-Keynote
 
->[!VIDEO](https://video.tv.adobe.com/v/3433144/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453959/?learn=on&captions=ger)

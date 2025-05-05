@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Erfahren Sie mehr über drei einfache Möglichkeiten, Ihre Dokumente für die elektronische Signatur einzurichten. Unabhängig davon, ob es sich um PDF-, Microsoft 365-Dateien oder sogar eine einfache Bilddatei handelt, bietet Ihnen diese Sitzung die Tools, die Sie benötigen, um dieses Dokument signieren zu lassen. Wir werden drei Methoden behandeln: die einfache Drag-and-Drop-Authoring-Umgebung von Adobe Acrobat Sign Einrichten eines PDF-Formulars in Adobe Acrobat Verwenden Sie Text-Tags für die schnelle Dokumenterstellung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428184/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455957/?learn=on&captions=ger)
 
 ## Was sind die Vorteile der Verwendung von Text-Tags in Verbindung mit Microsoft Word?
 

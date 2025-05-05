@@ -26,4 +26,4 @@ Segmente in Adobe Analytics können sehr leistungsstark sein, aber mit dieser Le
 * Die Macht der Ausschlusslogik
 * Auswahl der richtigen Konfiguration für einen erfolgreichen Test
 
->[!VIDEO](https://video.tv.adobe.com/v/3432748/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456938/?learn=on&captions=ger)

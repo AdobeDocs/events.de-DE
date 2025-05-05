@@ -26,4 +26,4 @@ In dieser Sitzung erfahren Sie Folgendes:
 * Best Practices für die Nutzung von Segmentierung und dynamischen Inhalten in Adobe Commerce
 * Strategien für ein effektives Content-Management zur Verbesserung der Kundeninteraktion
 
->[!VIDEO](https://video.tv.adobe.com/v/3433146/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456949/?learn=on&captions=ger)

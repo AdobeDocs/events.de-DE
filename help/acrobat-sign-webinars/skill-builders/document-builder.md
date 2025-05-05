@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Profitieren Sie von den Vorteilen bereits ausgefüllter Angebote, Verträge, Rechnungen und mehr durch die Automatisierung alltäglicher Aufgaben wie der Vorbereitung datengesteuerter Dokumente direkt in Salesforce. Mit Document Builder können Sie mit Salesforce-Daten vor dem Versand zur Signatur dynamisch ein Dokument generieren, was einen einmal umständlichen Prozess einfacher und optimierter macht. Wir werden den Prozess Schritt für Schritt durchlaufen, um Ihnen Zeit und Mühe zu sparen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454922/?learn=on&captions=ger)
 
 ## Welchen Zweck hat Document Builder für Acrobat Sign?
 

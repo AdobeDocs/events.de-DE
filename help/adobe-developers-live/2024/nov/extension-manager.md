@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Iryna Lagno, Sr. Software Engineer bei Adobe, die Adobe Experience Manager-Funktionalität für Autoren über Headless-Bearbeitungsoberflächen und den universellen Editor erweitern können. Aktivieren Sie organisationsübergreifende Benutzeroberflächenerweiterungen und veröffentlichen Sie sie sogar, damit andere sie über den Extension Manager nutzen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440404/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440437/?learn=on&enablevpops&captions=ger)
 
 ## Community-Diskussion
 

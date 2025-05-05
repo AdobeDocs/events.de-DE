@@ -28,4 +28,4 @@ Erfahren Sie, wie Sie die Priorisierung von Daten-Streams für die Kampagnenorch
 - Verständnis der Bedeutung von und Best Practices für die Priorisierung von Datenstrom
 - Marketing-Kampagnen in Echtzeit optimieren
 
->[!VIDEO](https://video.tv.adobe.com/v/3427302/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456814/?learn=on&captions=ger)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Alles über Segmente - So schneiden Sie Ihre Daten für Einblicke aus
 
->[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456616/?learn=on&captions=ger)

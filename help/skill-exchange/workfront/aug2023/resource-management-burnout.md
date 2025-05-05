@@ -30,4 +30,4 @@ In dieser Sitzung teilen Tia Calvert, Product Manager, und Erin Kuchera, Creativ
 * Einbinden des Time-of-Tracking
 * Beispiele dafür, wie die Mayo Clinic Analytics und Resource Manager verwendet, um Teams Transparenz zu bieten und neue Arbeiten zu planen
 
->[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457105/?learn=on&captions=ger)

@@ -25,4 +25,4 @@ Nutzen und aktivieren Sie Ihre Datenerfassungsstrategie, um eine zeitnahere Inte
 * Überblick über die allgemeine Architektur
 * Überlegungen zur Datenerfassungs- und Aktivierungsstrategie
 
->[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456233/?learn=on&captions=ger)

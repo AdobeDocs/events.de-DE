@@ -27,7 +27,7 @@ Dieses Webinar vermittelt ein tieferes Verständnis dafür, wie der Content Acce
 * Inhaltsexperimente und Optimierung
 * Generative KI
 
->[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444468/?learn=on&enablevpops&captions=ger)
 
 ## Wichtige Erkenntnisse
 

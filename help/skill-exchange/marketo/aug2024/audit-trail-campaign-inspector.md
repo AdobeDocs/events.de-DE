@@ -26,4 +26,4 @@ In dieser Sitzung erfahren Sie Folgendes:
 * Best Practices für die Verwendung des Audit-Protokolls, einschließlich Informationen zur Überprüfung, wie oft und warum dies wichtig ist, sowie die zusätzlichen Vorteile der neuesten Version vom Juni 2024.
 * Erfahren Sie, wie Sie mit dem Kampagneninspektor regelmäßig Smart-Kampagnen überprüfen können, einschließlich der zu suchenden Elemente (Volumen, Batch im Vergleich zu Trigger, Trigger mit hoher Latenz, die Ihre Instanz verlangsamen könnten usw.).
 
->[!VIDEO](https://video.tv.adobe.com/v/3432944/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456960/?learn=on&captions=ger)

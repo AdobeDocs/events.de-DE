@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Informieren Sie sich über die neue Ära der Hyperpersonalisierung. Wir bauen auf einem Reifegradmodell für die Personalisierung auf, besprechen gängige Blocker und geben taktische Tipps für die ersten Schritte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457354/?learn=on&captions=ger)
 
 ## Wichtige Diskussionspunkte
 

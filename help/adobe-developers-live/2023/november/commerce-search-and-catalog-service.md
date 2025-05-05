@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Erfahren Sie mehr über die Services für Suche und Katalog, um Ihre Storefront-Erlebnisse zu verbessern und zu optimieren.  In dieser Demonstration wird der Commerce Services-Connector und seine Verwendung in Ihrer Storefront mit GraphQL erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425806/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454745/?learn=on&captions=ger)

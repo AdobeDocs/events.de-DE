@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Im Webinar wird gezeigt, wie die Integration dieser Konzepte die Effizienz steigern, Kundenerlebnisse verbessern und datengestützte Entscheidungsfindung innerhalb von Unternehmen unterstützen kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457017/?learn=on&captions=ger)
 
 ## Wichtige Erkenntnisse
 
