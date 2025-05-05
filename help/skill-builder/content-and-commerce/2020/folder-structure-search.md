@@ -31,13 +31,13 @@ Die Grundlagen zum Einrichten und Verwenden des DAM.
 
 ## Ressourcen
 
-* [AEM Assets-Benutzerhandbuch](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
-* [Einrichten der AEM Assets-Ordnerstruktur](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
+* [AEM Assets-Benutzerhandbuch](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=de)
+* [Einrichten der AEM Assets-Ordnerstruktur](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html?lang=de)
 * [Einrichten von AEM Assets-Ordnerberechtigungen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=de)
-* [Verwenden von Sammlungen zum Organisieren und Freigeben von Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [Suchen nach visuell ähnlichen Assets mit maschinellem Lernen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Erhalten Sie präzise und genaue Suchergebnisse mit dynamischen Suchfacetten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Erweiterte Volltextsuchsyntax](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
+* [Verwenden von Sammlungen zum Organisieren und Freigeben von Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html?lang=de)
+* [Suchen nach visuell ähnlichen Assets mit maschinellem Lernen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=de)
+* [Erhalten Sie präzise und genaue Suchergebnisse mit dynamischen Suchfacetten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=de)
+* [Erweiterte Volltextsuchsyntax](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=de#using)
 
 ## Serienaufnahmen
 

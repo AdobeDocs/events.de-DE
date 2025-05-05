@@ -30,5 +30,5 @@ In dieser Experience League-Live-Sitzung erklären Adobe-Produktexperten, wie Si
 
 **Klicken Sie auf das Bild oben, um die Sendung zu sehen!**
 
-Setzen Sie die Diskussion über den [Experience League-Community-Beitrag fort](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Setzen Sie die Diskussion über den [Experience League-Community-Beitrag fort](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273?profile.language=de#M132).
 

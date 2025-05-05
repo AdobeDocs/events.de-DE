@@ -25,6 +25,6 @@ In diesem On-Demand-Webinar stellen Lyndsy Denk, Marketing Training and Enableme
 * Tipps, wie Sie entscheiden können, welche Kanäle Sie für Ihre Kommunikation verwenden möchten
 * Wie Sie Ihre Kommunikationsstrategie iterativ betrachten können, angefangen von der aktuellen Position bis hin zur Reife
 
-Sie können auch das „Communications Cookbook“ mit Ideen und Beispielen echter Kommunikation, die Ihre Kollegen mit ihren Nutzern teilen, hier herunterladen: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
+Sie können auch das „Communications Cookbook“ mit Ideen und Beispielen echter Kommunikation, die Ihre Kollegen mit ihren Nutzern teilen, hier herunterladen: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=de
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

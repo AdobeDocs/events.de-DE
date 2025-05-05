@@ -41,4 +41,4 @@ Nutzen Sie Ihre E-Commerce-Daten für den Erfolg während der Weihnachtssaison. 
 ## Nützliche Ressourcen
 
 [Commerce Intelligence-Benutzerhandbuch](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=de)
-[Commerce Intelligence-Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Commerce Intelligence-Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=de)

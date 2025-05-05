@@ -27,5 +27,5 @@ Die Datenerfassung ist bei Adobe von größter Bedeutung! Die Daten, mit denen S
 
 Sehen Sie sich das obige Video an, um dieses Live-Stream-Ereignis zu sehen, bei dem Adobe-Datenerfassungsexperten eine Zusammenfassung wichtiger aktueller Updates sowie einen Einblick in bevorstehende Roadmap-Elemente gaben.
 
-Haben Sie Fragen dazu? Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316) fort.
+Haben Sie Fragen dazu? Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923?profile.language=de#M316) fort.
 

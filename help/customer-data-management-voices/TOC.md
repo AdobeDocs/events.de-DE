@@ -21,8 +21,8 @@ ht-degree: 6%
    + [Erstellen besserer Erlebnisse für Kundenprofile](cdm/building-better-experiences-with-customer-profiles.md)
    + [Wie Marketing-Teams Datenverwaltungsstrategien verbessern](cdm/how-marketing-teams-are-improving-data-management-strategies.md)
 + Zielgruppen- und Profildaten-Governance und {#governance}
-   + [10 Überlegungen zum verantwortungsvollen Kundendaten-Management](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [Stärkung der Rolle des Marketing-Experten als Data Steward](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+   + [10 Überlegungen zum verantwortungsvollen Kundendaten-Management](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=de)
+   + [Stärkung der Rolle des Marketing-Experten als Data Steward](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=de)
    + [Data Governance und Datenschutz bei Zielgruppenprofilen](governance/healthcare-shield.md)
 + Branchenspezifische {#industry}
    + [Erstellen Sie mit Ihren First-Party-Daten hervorragende Erlebnisse](industry/build-superb-experiences-with-your-first-party-data.md)

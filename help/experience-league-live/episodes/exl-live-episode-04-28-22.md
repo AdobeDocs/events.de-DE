@@ -21,5 +21,5 @@ Seien Sie dabei, wenn Gastgeber Doug Moore und die Gäste Nick Cammuso und Jacki
 
 >[!VIDEO](https://video.tv.adobe.com/v/342611/?quality=12&learn=on)
 
-Um mit der Unterhaltung über diese Sitzung fortzufahren, besuchen Sie bitte den [Experience League-Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419), in dem wir auch Fragen beantworten können, für die wir in der Sitzung keine Zeit hatten.
+Um mit der Unterhaltung über diese Sitzung fortzufahren, besuchen Sie bitte den [Experience League-Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340?profile.language=de#M419), in dem wir auch Fragen beantworten können, für die wir in der Sitzung keine Zeit hatten.
 

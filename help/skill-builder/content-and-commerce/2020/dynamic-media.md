@@ -31,7 +31,7 @@ Automatisieren Sie die Ausgabe von Assets für alle Kanäle und Bildschirme mit 
 
 ## Ressourcen
 
-*[Dynamic Media-Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
+*[Dynamic Media-Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=de#dynamic-media)
 *[Schnellstartanleitung zur Rich-Media-Strategie](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Anleitung zu Rich-Media-Bildvorgaben](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
 *[Image is Everything Blog Series](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)

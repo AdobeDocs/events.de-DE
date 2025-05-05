@@ -28,5 +28,5 @@ Anthony Rumsey, Informatiker, Adobe
 
 [Datei abrufen](assets/9-10-2014-delivering-managed-content-to-your-native-apps.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

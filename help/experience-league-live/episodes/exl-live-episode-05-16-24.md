@@ -26,8 +26,8 @@ Erfahren Sie mehr über die neueste und beste (NEUE) Möglichkeit, Adobe Analyti
 
 Wir konfigurieren einen Datenstrom am Edge und installieren und konfigurieren die Web SDK-Erweiterung in unserer Tags-Eigenschaft. Wir zeigen Ihnen, wie Sie verschiedene Regeltypen von der Analytics-Erweiterung in die Web-SDK migrieren.
 
-Um Fragen zu stellen oder sich an Adobe-Experten und Kollegen zu wenden, besuchen Sie bitte die [Experience League Community-Diskussion](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
+Um Fragen zu stellen oder sich an Adobe-Experten und Kollegen zu wenden, besuchen Sie bitte die [Experience League Community-Diskussion](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538?profile.language=de){target="_blank"}.
 
-Weitere Informationen finden Sie unter [Implementieren von Adobe Analytics mit der Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview).
+Weitere Informationen finden Sie unter [Implementieren von Adobe Analytics mit der Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/de/docs/analytics/implementation/aep-edge/web-sdk/overview).
 
 Um an einem bevorstehenden Webinar **strategische Schritte zur Implementierung von Web SDK** teilzunehmen, registrieren Sie [HIER](https://engage.adobe.com/step_by_step_guide_implement.html).

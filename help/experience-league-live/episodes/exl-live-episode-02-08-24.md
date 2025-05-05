@@ -24,7 +24,7 @@ Einführung zu Anwendungsfall-Playbooks - Ein umsetzbarer Katalog branchenspezif
 
 >[!BEGINSHADEBOX „Haben Sie Fragen?“]
 
-Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488) fort.
+Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=de#M488) fort.
 
 >[!ENDSHADEBOX]
 
@@ -51,7 +51,7 @@ Ein Beispiel für einen in dieser Sitzung besprochenen Anwendungsfall ist ein An
 
 ## Zusätzliche Ressourcen
 
-* **[Anwendungsfall - Playbooks - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+* **[Anwendungsfall - Playbooks - Übersicht](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=de){target="_blank"}**
   *Anwendungsfall-Playbooks können Ihnen dabei helfen, das Problem bei den ersten Schritten mit Real-Time CDP oder Adobe Journey Optimizer zu lösen, wenn Sie möglicherweise nicht genau wissen, womit Sie beginnen sollen oder wie Sie die richtigen Assets erstellen, um Ihre gewünschten Anwendungsfälle zu erreichen.*
 
 * **[Erste Schritte mit Playbooks für Anwendungsfälle](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=de){target="_blank"}**

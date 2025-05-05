@@ -28,5 +28,5 @@ Stellen Sie sich vor, Sie könnten eine Community-Site innerhalb von Stunden sta
 
 [Datei abrufen](assets/aem-6-1-communities-gems.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

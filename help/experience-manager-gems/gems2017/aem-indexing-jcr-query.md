@@ -35,16 +35,16 @@ AEM-Dokumentation
 
 >[!WARNING]
 >
->Die AEM-Versionen 6.4 und älter sind veraltet und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archivierte Versionen der Dokumentation können von dieser Seite [ werden](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
+>Die AEM-Versionen 6.4 und älter sind veraltet und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).  Archivierte Versionen der Dokumentation können von dieser Seite [ werden](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
 >
 >Informationen zu dieser Sitzung finden Sie unter *Oak-Abfragen und -Indizierung* und *Best Practices für Abfragen und Indizierung* in der Dokumentation zu AEM 6.3.
 
 Dokumentation zu Oak
 
-* [Oak-Abfrage und -Indizes](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html)
+* [Oak-Abfrage und -Indizes](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html?lang=de)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

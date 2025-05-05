@@ -31,5 +31,5 @@ Anwendungsfälle werden überall geteilt und bieten anschauliche Beispiele dafü
 
 ## Zusätzliche Ressourcen
 
-[Einführung in Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-[Commerce Intelligence-Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Einführung in Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=de)
+[Commerce Intelligence-Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=de)

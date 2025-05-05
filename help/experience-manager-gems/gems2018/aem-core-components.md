@@ -24,7 +24,7 @@ Erfahren Sie alles über die Kernkomponenten und die damit verbundenen Funktione
 
 Gabriel Walt, Product Manager, Adobe
 
-Dokumentation zu [AEM-Kernkomponenten](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+Dokumentation zu [AEM-Kernkomponenten](https://helpx.adobe.com/de/experience-manager/core-components/user-guide.html)
 
 AEM GEMs - AEM-Kernkomponenten - Datum: 12/05/2018
 

@@ -33,5 +33,5 @@ In diesem aufgezeichneten Webinar erfahren Sie, wie Sie den ROI Ihrer Anzeigenka
 
 ## Nützliche Ressourcen
 
-[Eine Tour durch den Data Warehouse-Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[Verbinden Sie Ihre Daten](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[Eine Tour durch den Data Warehouse-Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=de)
+[Verbinden Sie Ihre Daten](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=de)

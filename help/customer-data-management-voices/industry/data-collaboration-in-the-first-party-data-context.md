@@ -31,8 +31,8 @@ Bereitstellung von Erlebnissen trotz eingeschränkten Datenzugriffs. Unabhängig
 
 ## Zusätzliche Informationen
 
-[Übersicht zu Segment Match](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
+[Übersicht zu Segment Match](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=de)
 
-[Audience Marketplace für Datenkäufer](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
+[Audience Marketplace für Datenkäufer](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=de)
 
 [Benutzerbasierte Ziele](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=de)

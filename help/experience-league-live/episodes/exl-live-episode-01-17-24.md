@@ -25,7 +25,7 @@ Seien Sie dabei, wenn Bryan, Eric und Doug besprechen, wie Sie schnell mit Custo
 
 >[!BEGINSHADEBOX „Haben Sie Fragen?“]
 
-Setzen Sie die Diskussion über die Diskussion im [Experience League-Community-Forum fort](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+Setzen Sie die Diskussion über die Diskussion im [Experience League-Community-Forum fort](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093?profile.language=de#M3582).
 
 >[!ENDSHADEBOX]
 

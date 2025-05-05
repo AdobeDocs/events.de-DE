@@ -36,8 +36,8 @@ In diesem Artikel erfahren Sie von Ihrer Peers-Sitzung über die Einrichtung und
 
 ## In dieser Präsentation referenzierte Ressourcen
 
-* [Interaktionsprogramme](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
-* [Verstehen der Interaktionsbewertung](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
-* [Hinzufügen eines Programms zu einem Interaktionsprogramm-Stream](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
-* [Übersicht über die Programm-Importbibliothek](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [Interaktionsprogramme](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [Verstehen der Interaktionsbewertung](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [Hinzufügen eines Programms zu einem Interaktionsprogramm-Stream](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [Übersicht über die Programm-Importbibliothek](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
 * [Diskussionsfaden der Marketing Nation](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)

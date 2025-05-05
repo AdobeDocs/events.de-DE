@@ -22,7 +22,7 @@ Erfahren Sie, wie Sie die Edge Bridge-Erweiterung verwenden, um die Migrationsl�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
-**Um die Diskussion fortzusetzen, besuchen Sie bitte die [Diskussion über die Experience League-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
+**Um die Diskussion fortzusetzen, besuchen Sie bitte die [Diskussion über die Experience League-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990?profile.language=de#M550){target="_blank"}.**
 
 
 **Details anzeigen**:

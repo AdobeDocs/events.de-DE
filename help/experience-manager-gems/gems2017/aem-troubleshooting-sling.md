@@ -33,12 +33,12 @@ Timothee Maret, Senior Developer, Adobe
 
 >[!WARNING]
 >
->Die AEM-Versionen 6.4 und älter sind veraltet und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archivierte Versionen der Dokumentation können von dieser Seite [ werden](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
+>Die AEM-Versionen 6.4 und älter sind veraltet und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).  Archivierte Versionen der Dokumentation können von dieser Seite [ werden](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
 >
 >Informationen zu dieser Sitzung finden Sie unter *Benutzersynchronisierung* in der AEM-Dokumentation.
 
 * [Apache Sling-Inhaltsverteilung](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [Zurück zur Übersicht](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Zurück zur Übersicht](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >

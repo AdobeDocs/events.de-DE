@@ -25,5 +25,5 @@ Suchen Sie nach Best Practices zur Optimierung des Prozesses der Erstellung mehr
 Keith Brazil, VP of Technology, Translations.com
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

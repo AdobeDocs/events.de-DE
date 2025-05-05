@@ -36,12 +36,12 @@ Präsentationsfolien - 11/21/18
 
 ## Verwandte Links {#related-links}
 
-[Wochenend-Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[Wochenend-Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=de)
 
-[Dokumentation](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[Dokumentation](https://helpx.adobe.com/de/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
 [Beispiel - We.Retail-Journal](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

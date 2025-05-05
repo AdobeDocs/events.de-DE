@@ -31,4 +31,4 @@ Weitere Informationen zu Best Practices finden Sie stattdessen in der Dokumentat
 
 * [Best Practices für die Verwaltung mehrerer Websites](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [Best Practices für die Übersetzung](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [Zurück zur Übersicht](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Zurück zur Übersicht](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)

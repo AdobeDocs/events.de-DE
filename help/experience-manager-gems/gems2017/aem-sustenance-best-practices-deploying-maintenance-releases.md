@@ -29,5 +29,5 @@ Lernen Sie die Best Practices für die Bereitstellung von AEM-Wartungsversionen 
 
 [Datei abrufen](assets/aem-sustenance-best-practices-gems.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -26,5 +26,5 @@ Vom Unit-Test bis zum Integrationstest einer Experience Manager-Anwendung Automa
 
 [Datei abrufen](assets/aem-gems-tools-for-testing-12-14-16.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

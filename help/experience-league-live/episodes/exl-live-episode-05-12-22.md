@@ -26,5 +26,5 @@ Push-Benachrichtigungen helfen Ihnen, Ihre Mobile-App-Benutzer jederzeit zu erre
 
 [Laden Sie die Android AEPSampleAPP herunter](https://github.com/adobe/aepsdk-sample-app-android)
 
-Um mit der Unterhaltung über diese Sitzung fortzufahren, besuchen Sie bitte den [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+Um mit der Unterhaltung über diese Sitzung fortzufahren, besuchen Sie bitte den [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869?profile.language=de).
 

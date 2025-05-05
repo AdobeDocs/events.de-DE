@@ -25,6 +25,6 @@ In diesem On-Demand-Webinar werden Jace Newbold, Consulting Manager bei Workfron
 * Was jeder Administrator bzw. jede Administratorin heute tun sollte, um sein/ihr zukünftiges Selbst (und zukünftige Administratoren bzw. Administratorinnen) auf den Erfolg vorzubereiten
 * Eine herunterladbare Checkliste mit Fragen, Ressourcen und Links, die Sie durch den Prozess der Prüfung und Dokumentation Ihrer Instanz führt
 
-Checkliste für geerbte Instanzen und Blueprint: https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+Checkliste für geerbte Instanzen und Blueprint: https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

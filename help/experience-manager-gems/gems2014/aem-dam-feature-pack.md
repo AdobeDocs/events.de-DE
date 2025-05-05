@@ -31,5 +31,5 @@ In der Sitzung werden auch die Möglichkeiten der Konfiguration von Aufgabenober
 Varun Nagpal, Informatiker, Adobe
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

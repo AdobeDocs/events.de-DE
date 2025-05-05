@@ -37,7 +37,7 @@ Wir beschreiben die Funktionen von Oak Lucene-Indizes und wie sie verwendet werd
 
 >[!WARNING]
 >
->Die AEM-Versionen 6.4 und älter sind veraltet und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Archivierte Versionen der Dokumentation können von dieser Seite [ werden](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
+>Die AEM-Versionen 6.4 und älter sind veraltet und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).  Archivierte Versionen der Dokumentation können von dieser Seite [ werden](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
 >
 >Informationen zu dieser Sitzung finden Sie unter *Oak-Abfragen und -Indizierung* in der Dokumentation zu AEM 6.1.
 

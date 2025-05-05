@@ -29,5 +29,5 @@ Francois Le Droff, Senior Computer Scientist, Cloud Integration, Adobe
 [Datei abrufen](assets/gem-2018-05-aem-events.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

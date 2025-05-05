@@ -30,23 +30,23 @@ Sehen Sie sich unsere erste Marketo &amp; Mokkas Session des Jahres mit unseren 
    * [5 Funktionen im Jahr 2025](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **Target-Kontoverwaltung**
-   * [Übersicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [Übersicht](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
    * [FAQs](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
    * [Video mit Tipps und Tricks](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **Prädiktive Zielgruppen**
-   * [Übersicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [Übersicht](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
    * [Nutzungsszenarios](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **Erweiterte Journey-Analyse**
-   * [Reporting - Übersicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [Lebenszyklus Modeler - Übersicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [Reporting - Übersicht](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [Lebenszyklus Modeler - Übersicht](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **Sandbox**
-   * [Übersicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [Übersicht](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **Arbeitsbereiche und Partitionen**
-   * [Übersicht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [Übersicht](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
 ## Wichtige Erkenntnisse
 

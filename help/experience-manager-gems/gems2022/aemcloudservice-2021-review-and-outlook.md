@@ -31,6 +31,6 @@ Dieses Webinar wurde am 25. Januar 2022 durchgeführt und von Bertrand de Coatpo
 
 >[!MORELIKETHIS]
 >
->* [Entsprechende Ereignisseite für Adobe Experience Manager-Benutzergruppen](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
+>* [Entsprechende Ereignisseite für Adobe Experience Manager-Benutzergruppen](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266?profile.language=de)
 >* [Entsprechender kontextueller Thread](https://adobe.ly/3rqbSOz)
 >* Registrieren Sie sich bei der AEM-Benutzergruppe von [Adobe](https://aem-augs.adobe.com/) um über bevorstehende Webinare informiert zu werden.

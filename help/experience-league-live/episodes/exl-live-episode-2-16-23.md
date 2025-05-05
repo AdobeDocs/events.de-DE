@@ -27,5 +27,5 @@ Die Ladezeiten der Site und die Gesamtleistung haben einen direkten Einfluss auf
 
 Sehen Sie sich das obige Video an, um dieses Live-Stream-Ereignis zu sehen, bei dem Experten für die Bereitstellung von Adobe-Erlebnissen besprochen haben, was zu beachten ist und welche Schritte Sie unternehmen können, um die Leistung zu steigern.
 
-**Haben Sie Fragen dazu?** Fortsetzung der Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836).
+**Haben Sie Fragen dazu?** Fortsetzung der Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513?profile.language=de#M36836).
 

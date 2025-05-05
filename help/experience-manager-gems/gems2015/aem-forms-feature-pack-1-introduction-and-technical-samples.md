@@ -29,5 +29,5 @@ AEM [!DNL Forms] Feature Pack 1 ist der Upgrade-Pfad für LiveCycle-Bereitstellu
 
 [Datei abrufen](assets/aem-forms-fp1-2015-0204.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

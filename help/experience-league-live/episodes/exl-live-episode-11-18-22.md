@@ -27,5 +27,5 @@ Mit so vielen Anforderungen an Ihre Zeit und Aufmerksamkeit müssen Sie in der L
 
 Sehen Sie sich das obige Video an, um sich dieses Live-Stream-Ereignis anzusehen. Dort gaben Adobe-[!DNL Analytics]-Experten einige großartige Tipps zum Anpassen und Zugreifen auf Einblicke in Analysis Workspace und die [!DNL Analytics] Dashboards-App.
 
-Haben Sie Fragen dazu? Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037) fort.
+Haben Sie Fragen dazu? Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787?profile.language=de#M3037) fort.
 

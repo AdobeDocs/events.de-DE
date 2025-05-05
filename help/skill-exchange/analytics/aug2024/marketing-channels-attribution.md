@@ -25,7 +25,7 @@ In der heutigen schnelllebigen digitalen Marketing-Landschaft ist es für die Op
 * Einführung in Marketing-Kanäle: Erfahren Sie, wie wichtig es ist, verschiedene Marketing-Kanäle zu identifizieren und zu kategorisieren, um ihre Auswirkungen auf Ihre digitale Präsenz zu verstehen.
 * Konfigurieren von Adobe Analytics: Verschaffen Sie sich praktische Kenntnisse über das Einrichten von Kampagnen-Trackingcodes, das Erfassen relevanter Daten und die Verwendung von Adobe Launch für eine effiziente Datenerfassung.
 
-  Um das in dieser Sitzung vorgestellte Tool für den Kampagnen-Trackingcode herunterzuladen, besuchen Sie [Mastering Adobe Analytics-Marketing Channels &amp; Attribution](https://experienceleague.adobe.com/en/perspectives/mastering-adobe-analytics-marketing-channels-attribution) in Experience League Perspectives.
+  Um das in dieser Sitzung vorgestellte Tool für den Kampagnen-Trackingcode herunterzuladen, besuchen Sie [Mastering Adobe Analytics-Marketing Channels &amp; Attribution](https://experienceleague.adobe.com/de/perspectives/mastering-adobe-analytics-marketing-channels-attribution) in Experience League Perspectives.
 
 * Klassifizierungs- und Verarbeitungsregeln: Erfahren Sie, wie Sie den Classification Rule Builder verwenden und Marketing-Kanal-Verarbeitungsregeln für eine präzise Klassifizierung der Traffic-Quelle konfigurieren.
 * Attributionsmodelle: Informieren Sie sich über die verschiedenen in Adobe Analytics verfügbaren Attributionsmodelle und wie Sie sie anwenden können, um die Effektivität Ihrer Marketing-Maßnahmen zu messen und zu optimieren.

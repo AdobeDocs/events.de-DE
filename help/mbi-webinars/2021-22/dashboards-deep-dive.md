@@ -35,5 +35,5 @@ Machen Sie mit jedem Commerce Intelligence-Account eine geführte Tour durch die
 
 ## Nützliche Ressourcen
 
-[Dashboards](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
-[Exportieren von Diagrammdaten](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+[Dashboards](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=de)
+[Exportieren von Diagrammdaten](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=de)

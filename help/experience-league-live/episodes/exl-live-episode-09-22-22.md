@@ -24,5 +24,5 @@ Mit der neuen Kampagnenfunktion von Journey Optimizer können Sie einmalige gepl
 
 In dieser Experience League Live-Episode, die ursprünglich am 22. September 2022 stattfand, diskutieren Gastgeber Sandra Hausmann und Produktexperten Bridgette Darling und Frederic Mary über die Anwendungsfälle, die diese neue Funktion abdeckt. Sie zeigen außerdem, wie eine Kampagne in Journey Optimizer einfach eingerichtet und ausgeführt werden kann. Erfahren Sie, wie Sie mit Kampagnen und Journey überzeugende personalisierte Kundenerlebnisse bereitstellen können und wie der neue Workflow für Inline-Messaging in jeder dieser beiden Arbeitsflächen genutzt wird.
 
-Setzen Sie die Diskussion zu diesem Thema im [Experience League-Community-Beitrag fort](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896#M52). Wir hoffen von Ihnen zu hören!
+Setzen Sie die Diskussion zu diesem Thema im [Experience League-Community-Beitrag fort](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896?profile.language=de#M52). Wir hoffen von Ihnen zu hören!
 

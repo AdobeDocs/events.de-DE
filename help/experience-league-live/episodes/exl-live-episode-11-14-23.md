@@ -26,5 +26,5 @@ Verhaltensdaten sind eine wichtige Komponente bei der Bereitstellung personalisi
 
 In dieser Experience League-Live-Sitzung zeigen Ihnen Produktexperten, wie Sie mit „berechneten Attributen“ in Real-Time CDP und Journey Optimizer über eine einfache Benutzeroberfläche Verhaltens-Aggregate als Profilattribute erstellen können, die für eine erweiterte Segmentierung und Personalisierung verwendet werden können.
 
-**Setzen Sie die Diskussion zu diesem Thema auf der [Experience League Community Post der Sendung fort](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}**.
+**Setzen Sie die Diskussion zu diesem Thema auf der [Experience League Community Post der Sendung fort](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722?profile.language=de#M5){target="_blank"}**.
 

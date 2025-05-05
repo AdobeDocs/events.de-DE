@@ -31,12 +31,12 @@ Eine klare Strategie zur Optimierung der Auffindbarkeit festlegen.
 
 ## Ressourcen
 
-*[Verwenden von Metadatenschemata zum Verwalten von Asset-Metadaten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
+*[Verwenden von Metadatenschemata zum Verwalten von Asset-Metadaten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html?lang=de)
 *[Erweitern von Metadatenschemata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=de)
 *[Optimieren der Metadatenbearbeitung mit kaskadierenden Metadaten](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=de)
 *[Automatisches Anwenden von Metadaten auf Assets mithilfe von Metadatenprofilen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=de)
-*[AEM-Metadatenschemata](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
-*[Verwalten von Asset-Metadaten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
+*[AEM-Metadatenschemata](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=de#administer)
+*[Verwalten von Asset-Metadaten](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=de#RegisteringacustomnamespacewithinAEM)
 
 ## Serienaufnahmen
 

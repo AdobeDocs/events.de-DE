@@ -28,5 +28,5 @@ Siehe das neue externe Anmeldemodul von Apache Jackrabbit Oak. Lernen Sie die De
 
 [Datei abrufen](assets/oak-ldap-cqgems.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

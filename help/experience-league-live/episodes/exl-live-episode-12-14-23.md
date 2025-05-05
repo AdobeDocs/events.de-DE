@@ -25,7 +25,7 @@ Erfahren Sie, wie Sie mit den im Jahr 2023 veröffentlichten neuen Funktionen Zi
 
 >[!BEGINSHADEBOX „Haben Sie Fragen?“]
 
-Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"} fort.
+Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558?profile.language=de#M14){target="_blank"} fort.
 
 >[!ENDSHADEBOX]
 

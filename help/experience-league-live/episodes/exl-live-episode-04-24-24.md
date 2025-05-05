@@ -28,6 +28,6 @@ In dieser Experience League Live-Episode diskutieren wir gemeinsam mit den Produ
 
 >[!BEGINSHADEBOX „Haben Sie Fragen?“]
 
-**Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League fort [Community-Post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
+**Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League fort [Community-Post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305?profile.language=de#M205){target="_blank"}.**
 
 >[!ENDSHADEBOX]

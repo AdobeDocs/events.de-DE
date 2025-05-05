@@ -34,5 +34,5 @@ In dieser Sitzung erfahren Sie, wie Sie benutzerdefinierte Felder (oder Widgets)
 
 [Datei abrufen](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

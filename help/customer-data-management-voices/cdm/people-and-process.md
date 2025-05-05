@@ -25,5 +25,5 @@ Erfahren Sie, wie Sie Ihre CDP optimal nutzen können, indem Sie in die Mitarbei
 ## Zusätzliche Informationen
 
 * [Optimierung des ersten Schritts des Daten-Managements](first-mile.md)
-* [Stärkung der Rolle des Marketing-Experten als Data Steward](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
-* [10 Überlegungen zum verantwortungsvollen Kundendaten-Management](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+* [Stärkung der Rolle des Marketing-Experten als Data Steward](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=de)
+* [10 Überlegungen zum verantwortungsvollen Kundendaten-Management](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=de)

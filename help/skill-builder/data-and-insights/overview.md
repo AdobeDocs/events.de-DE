@@ -19,11 +19,11 @@ Fördern Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online- 
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=de">
       <img alt="Personalisieren und Automatisieren mit Adobe Target" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=de">
         <strong>Personalisieren und Automatisieren mit Adobe Target</strong>
       </a>
     </div>
@@ -32,11 +32,11 @@ Fördern Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online- 
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html?lang=de">
       <img alt="Innovationen und Trends 2022" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html?lang=de">
         <strong>2022 Innovationen und Trends</strong>
       </a>
     </div>
@@ -45,11 +45,11 @@ Fördern Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online- 
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html?lang=de">
       <img alt="Analytics- und Target-Anwendungen für Mobile Apps und Apps" src="https://video.tv.adobe.com/v/343819?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html?lang=de">
         <strong>Analytics- und Target-Anwendungen für Mobile Apps und </strong>
       </a>
     </div>

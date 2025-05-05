@@ -37,5 +37,5 @@ Gabriel Walt, Product Manager, Adobe
 [Entwickeln mit HTL](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
