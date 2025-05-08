@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 461e5475eda2446e1d5339a93efee6ba88e78171
+source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 4%
 
 ---
@@ -23,7 +23,21 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 ## Bevorstehende Experience League LIVE-Events
 
-Schauen Sie bald wieder vorbei, um Informationen über die nächste geplante Show zu erhalten.
+<table>
+    <tr>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-22-25.md">
+              <img alt="Experience League LIVE, 22. Mai" src="episodes/assets/May-22-2025-WebBanner.jpg">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-05-22-25.md">
+                <strong>Content Analytics: Optimieren Sie die Leistung mit KI-Einblicken</strong>
+              </a>
+              <br/><em>mit Shay O'Reilly, Jennifer Werkmeister und Doug Moore</em>
+              <br/><em>22. Mai 2025</em>
+            </div>
+        </td>
+    </tr>
+</table>
 
 </div>
 
@@ -87,5 +101,5 @@ Schauen Sie bald wieder vorbei, um Informationen über die nächste geplante Sho
 
 >[!TIP]
 >
->Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/de?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
+>Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
 

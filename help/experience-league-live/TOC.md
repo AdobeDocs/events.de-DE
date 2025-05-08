@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
+source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '523'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Überblick](overview.md)
 + Folgen {#episodes}
+   + [EP. 46: Content Analytics: Leistung mit KI-Einblicken optimieren](episodes/exl-live-episode-05-22-25.md)
    + [EP. 45: Warte nicht… Zusammenarbeit! Einführung in Real-Time CDP Collaboration](episodes/exl-live-episode-04-10-25.md)
    + [EP. 44: Operative Erkenntnisse mit KI-Assistent in Adobe Experience Platform erschließen](episodes/exl-live-episode-02-27-25.md)
    + [EP. 43: Einführung in den KI-Assistenten für Zielgruppen für Marketing-Fachleute in Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
