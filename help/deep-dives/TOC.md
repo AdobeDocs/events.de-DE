@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
+source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '89'
 ht-degree: 3%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 3%
 # Tiefe Tauchgänge {#deep-dives-recordings}
 
 + [Überblick](overview.md)
-+ Detaillierte Einblicke in Marketo {#deep-dives-marketo}
++ Tiefere Einblicke in Marketo {#deep-dives-marketo}
    + [Admin Console-Migration](admin-console.md)
    + [APIs](api.md)
    + [Automatisieren und Optimieren von Kampagnenvorgängen mithilfe der Marketo-API](campaign-operations.md)
@@ -36,5 +36,6 @@ ht-degree: 3%
    + [E-Mail-Zustellbarkeit maximieren](maximize-email-deliverability.md)
    + [Instanz mit einem kleinen Team maximieren](small-team-instance.md)
    + [Kennzeichnen komplexer Prozesse im Aktivitätsprotokoll](activity-log.md)
+   + [Salesforce Hintergrundsynchronisations-Upgrade und Nutzungsüberwachung](salesforce-background-sync.md)
    + [Globales Marketing erschließen](global-marketing.md)
    + [Verwenden von Webhooks zur Datenübertragung](webhooks.md)
