@@ -9,13 +9,13 @@ doc-type: Event
 duration: 2559
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18062
-source-git-commit: a12db1c83c836f71c5b0dfe8649596eaf7b90065
+exl-id: 896d90d0-5db1-4c10-88ea-88562929c31d
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
-
 
 # Revolutionieren Sie Ihr Webinar-Erlebnis: Entdecken Sie die Wirkung interaktiver Webinare
 
@@ -34,3 +34,10 @@ Die Adobe Marketo Engage-Expertin Maria Cruz nutzt interaktive Webinare bei MRM,
 * **Automatisierte Prozesse sparen Zeit** Die Umstellung auf interaktive Webinare ermöglicht die Automatisierung von Prozessen wie Lead-Routing, Verkaufswarnungen und Folgemaßnahmen, wodurch der manuelle Aufwand reduziert und Workflows beschleunigt werden.
 
 * **Erstellen wiederholbarer Playbooks** Die Erstellung wiederholbarer Playbooks auf der Grundlage von Einblicken und Erfahrungen aus Webinaren kann dazu beitragen, die Bemühungen auf sichere Weise zu skalieren und zukünftige Webinar-Strategien zu verbessern.
+
+## Weitere Ressourcen
+
+* Treten Sie dem [Diskussions-Thread](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) auf der Marketing Nation Community bei, wo Fragen und Antworten gepostet werden.
+* [Erfahren Sie mehr über GenAI-Funktionen in interaktiven Webinaren](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
+* [Erkunden Sie die Grundlagen interaktiver Webinare](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [Erfahren Sie, wie Sie interaktive Webinar-Pods (Umfragen, Fragen und Antworten, CTAs) verwenden](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)

@@ -2,9 +2,9 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 26c495842dbfdc6db8b81fd61ed84a3e3593b396
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 0%
    + [Beherrschen der sequenziellen Logik - Visual Framework](2025/mastering-sequential-logic.md)
    + [Beherrschen der sequenziellen Logik - Start stoppt](2025/sequential-logic-start-stop.md)
    + [Optimieren der AEM-Leistung](2025/optimize-aem-performance.md)
+   + [Digitale Kommunikation personalisieren](2025/personalize-digital-communications.md)
    + [Gewinner des Executive Sponsoring für AEP-Projekte](2025/exec-sponsorship-aep-projects.md)
    + [Grundlagen und Best Practices zu Workfront Fusion](2025/adobe-workfront-fusion-best-practices.md)
    + [Intelligenteres Marketing beginnt hier - Integration von Google und Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
