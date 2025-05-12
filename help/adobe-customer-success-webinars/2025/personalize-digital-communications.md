@@ -9,9 +9,9 @@ duration: 2971
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18065
 exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
-source-git-commit: 59fbdc672cf8faee7d18d0922eb90268e7202490
+source-git-commit: db8e0b36dff5abf5665e3a75e9dcda4f9a84e044
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Erfahren Sie, wie AEM Forms Finanzdienstleistern dabei helfen kann, personalisie
    * Die Verarbeitung in-person ist 42-mal teurer als die digitale.
    * Das Onboarding eines Kunden kostet persönlich 55 US-Dollar mehr als online.
 
-* **AEM Forms-Funktionen** AEM Forms ist eine End-to-End-Lösung, die die betriebliche Effizienz und außergewöhnliche Benutzererlebnisse steigert. Zu den wichtigsten Funktionen gehören Omni-Channel-Formulare, automatisierte Workflows, personalisierte Kundenkommunikation und die Integration mit Adobe Experience Cloud und AEM Sights. Mit diesen Funktionen können Unternehmen den Formularabbruch um 63 % reduzieren, den Self-Service um 113 % steigern und die Geschwindigkeit der Formularausfüllung um 58 % verbessern.
+* **AEM Forms-Funktionen** AEM Forms ist eine End-to-End-Lösung, die die betriebliche Effizienz und außergewöhnliche Benutzererlebnisse steigert. Zu den wichtigsten Funktionen gehören Omni-Channel-Formulare, automatisierte Workflows, personalisierte Kundenkommunikation und die Integration mit dem Adobe Experience Cloud-Ökosystem. Mit diesen Funktionen können Unternehmen den Formularabbruch um 63 % reduzieren, den Self-Service um 113 % steigern und die Geschwindigkeit der Formularausfüllung um 58 % verbessern.
 
 * **Innovationen im Formularentwurf** Die Einführung eines Cloud-basierten Designers vereinfacht die Formularerstellung mit Drag-and-Drop-Funktionen, Fragmenten für wiederverwendbare Inhalte und der Integration mit Datenmodellen. Dieses modernisierte Tool reduziert die Abhängigkeit von der IT und ermöglicht schnellere Aktualisierungen, wodurch die in einigen Unternehmen für Formularänderungen erforderliche Durchlaufzeit von acht Wochen erreicht wird.
 
