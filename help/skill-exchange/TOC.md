@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Sammlung von Aufzeichnungen von Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: 974518ee6e9955f64cfbbd1ac0b4d45a5bf1aebe
+source-git-commit: 3df61129609f91640357ef9346f0e82fe0fff7b3
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '663'
 ht-degree: 9%
 
 ---
@@ -186,6 +186,7 @@ ht-degree: 9%
       + [Die Zukunft von Adobe Workfront Proof](workfront/apr2022/workfront-proof.md)
       + [Track Experience Makers im Blickpunkt](workfront/apr2022/grow-track-spotlight.md)
       + [Track Experience Makers im Blickpunkt](workfront/apr2022/learn-track-spotlight.md)
+      + [Termine und Timelines der Projekte verwalten](workfront/apr2022/projects-dates-timelines.md)
       + [Grundlegendes zu Objekten in Workfront](workfront/apr2022/understanding-objects.md)
 + Digitalbits {#digital-bites}
    + [Ermöglichen Sie betriebliche Effizienz mit einem erstklassigen Betriebsmodell](digital-bites/operational-model.md)
