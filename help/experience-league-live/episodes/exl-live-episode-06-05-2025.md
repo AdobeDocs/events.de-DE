@@ -21,7 +21,7 @@ Erfahren Sie, wie die Federated Audience Komposition einen umfassenden Ansatz f�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
-**Um die Diskussion fortzusetzen, besuchen Sie bitte unsere [Diskussion über die Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}.**
+**Um die Diskussion fortzusetzen, besuchen Sie bitte unsere [Diskussion über die Experience League Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976?profile.language=de#M636){target="_blank"}.**
 
 **Details anzeigen**:
 Erweiterter Zugriff auf Unternehmens-Data Warehouses, um Zielgruppen zu erstellen und markeninitiierte, aktuelle Erlebnisse zu ermöglichen.
