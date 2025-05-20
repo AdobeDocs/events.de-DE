@@ -2,9 +2,9 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
+source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 + [Kundenerfolgs-Webinare zu Adobe](overview.md)
 + 2025 {#2025}
-   + [Adobe Digital Insights](2025/adobe-digital-insights.md)
+   + [Stand der Einführung von Digital- und GenAI](2025/state-of-digital-and-genai-adoption-webinar.md)
+   + [Urlaubsergebnisse 2024 und Trends für 2025](2025/adobe-digital-insights.md)
    + [AEM mit GenAI](2025/aem-genai.md)
    + [Integration von AEM und Workfront](2025/aem-workfront-integration.md)
    + [KI und Adobe Target](2025/ai-adobe-target.md)
