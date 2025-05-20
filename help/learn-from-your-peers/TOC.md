@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Sammlung von Aufzeichnungen aus [!DNL Experience Makers Learn from your peers]
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+source-git-commit: 97016d0d62c2eefca2fd305fedc093c814e3bcc9
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '327'
 ht-degree: 20%
 
 ---
@@ -114,4 +114,4 @@ ht-degree: 20%
          + [Was ist Workfront Governance?](workfront/2022/03/what-is-workfront-governance.md)
       + Februar {#february}
          + [Grundlegendes zur Benutzerverwaltung](workfront/2022/02/understanding-user-management.md)
-+ [Erfahren Sie, wie Sie eine herausragende Adobe Champion-Anwendung einreichen](./adobe-champion-application.md)
++ [Erfahren Sie, wie Sie sich bewerben und als Champion auffallen können](./adobe-champion-application.md)
