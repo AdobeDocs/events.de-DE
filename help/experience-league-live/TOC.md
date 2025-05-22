@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: f7a4b6f56c7edcb895773f2e377f96f710b5c29b
+source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '539'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Überblick](overview.md)
 + Folgen {#episodes}
+   + [EP. 48: Übergeordnete Frequenzlimitierung und Konfliktpriorisierung](episodes/exl-live-episode-06-18-25.md)
    + [EP. 47: Agile Workflows für personalisierte Inhalte in großem Maßstab](episodes/exl-live-episode-47-2025-06-05.md)
    + [EP. 46: Content Analytics: Leistung mit KI-Einblicken optimieren](episodes/exl-live-episode-05-22-25.md)
    + [EP. 45: Warte nicht… Zusammenarbeit! Einführung in Real-Time CDP Collaboration](episodes/exl-live-episode-04-10-25.md)
