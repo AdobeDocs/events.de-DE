@@ -9,18 +9,19 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 72c55a817d1783da88dbb56027fde44debc1429f
+solution: Marketo Engage
+source-git-commit: 2350c0da88e103994f8a7d86f2e35785d7241a8f
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
 
 # Marketo und Mokkas {#marketo-and-mochas-recordings}
 
-+ [Übersicht](overview.md)
-+ 2025{#2025}
++ [Überblick](overview.md)
++ 2025 {#2025}
    + [5 Marketo-Funktionen Wissenswert](2025/5-features-to-know.md)
 + 2024 {#2024}
    + [Frag mich was](2024/ask-me-anything.md)
