@@ -1,7 +1,7 @@
 ---
 title: Frag mich was
-description: Adobe Nehmen Sie am letzten interaktiven Webinar des Jahres mit Kate Kolbert und James Letham teil, in dem es um Webinar-Optimierung, Programmaktualisierungen, nicht genutzte Marketo-Funktionen, Best Practices für das E-Mail-Marketing, Datenbankverwaltung, Benutzerberechtigungen, Marketo-Salesforce-Synchronisierung, dynamische Chat-Interaktion und Lebenszyklusphasen geht.
-solution: Marketo
+description: Nehmen Sie am letzten interaktiven Webinar des Jahres von Adobe mit Kate Kolbert und James Letham teil, das Webinar-Optimierung, Programm-Updates, nicht genutzte Marketo-Funktionen, Best Practices für das E-Mail-Marketing, Datenbankverwaltung, Benutzerberechtigungen, Marketo-Salesforce-Synchronisierung, dynamische Chat-Interaktion und Lebenszyklusphasen behandelt.
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 3438
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16502
 exl-id: a842ed22-c6db-4de3-af02-c7363207d00c
-source-git-commit: e8a5a53449923fcbbf6f10d0e62757d86a409842
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Frag mich was
 
-Das Transkript enthält eine letzte interaktive Webinar-Session des Jahres, die von Adobe moderiert wird und an der die Moderatoren Kate Kolbert und James Letham teilnehmen. In der interaktiven Sitzung wurden verschiedene Fragen der Teilnehmenden zur Optimierung der Webinar-Registrierungen, zur Einrichtung und Aktualisierung von Programmen für das neue Jahr, zur Nutzung nicht genügend genutzter Marketo-Funktionen und zu Best Practices für E-Mail-Marketing und Datenbankverwaltung behandelt. Zu den wichtigsten Themen gehörten die Wichtigkeit der Domain-Aufwärmung, die Verwaltung von Duplikaten, Benutzerberechtigungen und die Verbesserung der Marketo-Salesforce-Synchronisierung. In der Sitzung wurde der Wert des proaktiven Daten-Managements hervorgehoben und die Funktionen von Marketo genutzt, um die Marketing-Maßnahmen zu verbessern.
+Das Transkript enthält eine letzte interaktive Webinar-Session des Jahres, die von Adobe ausgerichtet wird und an der die Moderatoren Kate Kolbert und James Letham teilnehmen. In der interaktiven Sitzung wurden verschiedene Fragen der Teilnehmenden zur Optimierung der Webinar-Registrierungen, zur Einrichtung und Aktualisierung von Programmen für das neue Jahr, zur Nutzung nicht genügend genutzter Marketo-Funktionen und zu Best Practices für E-Mail-Marketing und Datenbankverwaltung behandelt. Zu den wichtigsten Themen gehörten die Wichtigkeit der Domain-Aufwärmung, die Verwaltung von Duplikaten, Benutzerberechtigungen und die Verbesserung der Marketo-Salesforce-Synchronisierung. In der Sitzung wurde der Wert des proaktiven Daten-Managements hervorgehoben und die Funktionen von Marketo genutzt, um die Marketing-Maßnahmen zu verbessern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438195/?learn=on&enablevpops)
 

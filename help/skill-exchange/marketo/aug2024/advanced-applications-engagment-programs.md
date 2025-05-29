@@ -1,7 +1,7 @@
 ---
 title: Entfesseln Sie die Leistungsfähigkeit von Multi-Stream-Journey - Erweiterte Anwendungen von Interaktionsprogrammen
 description: Definieren Sie Kunden-Journey-Phasen anhand von Beispielen aus verschiedenen Geschäftsmodellen.  Übersetzen Sie die Kunden-Journey-Blueprint in Multi-Stream-Interaktionsprogramme.  Nutzen Sie native Reporting-Funktionen zur Analyse Ihrer Interaktionsprogramme über Kundenlebenszyklen hinweg.
-solution: Marketo
+solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 2384
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15999
 exl-id: 4ea88475-d316-47e2-8851-2712f07632e4
-source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
