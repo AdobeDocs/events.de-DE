@@ -7,13 +7,15 @@ feature: Integrations, Email Design, Personalization
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-06-05 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
+last-substantial-update: 2025-06-06T00:00:00Z
 exl-id: 0f8157a2-b0d1-4d46-a682-0268dadb65c5
-source-git-commit: 3dd5c359900bf76fa45f0a774d778eed171e20d9
+source-git-commit: 389135f15fe353f4cc3e1100f65ae3fabaee141a
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
+
 
 # Agile Workflows für personalisierte Inhalte in jedem Maßstab
 
@@ -23,8 +25,4 @@ Unabhängig davon, ob Ihre Teams Inhalte direkt in AJO erstellen, mit GenStudio 
 
 Verpassen Sie nicht diese Gelegenheit, Ihre Marketing-Strategien zu transformieren und Ihre Zielgruppe wie nie zuvor zu interagieren.
 
-[Registrieren Sie sich jetzt](https://engage.adobe.com/ExpLeagueLive-250605.html) und werden Sie Teil der Revolution bei der Kundenbindung!
-
-![Webbanner](/help/experience-league-live/assets/WebBannerExLLive-June05-2025.png)
-
-Schaffst du&#39;s nicht? Melden Sie sich trotzdem an und wir senden Ihnen die Aufzeichnung anschließend zu. Wir hoffen, Sie dort zu sehen!
+>[!VIDEO](https://video.tv.adobe.com/v/3463407/?quality=12&learn=on)
