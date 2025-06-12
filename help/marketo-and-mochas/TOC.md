@@ -10,10 +10,10 @@ event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
 solution: Marketo Engage
-source-git-commit: 2350c0da88e103994f8a7d86f2e35785d7241a8f
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 6%
+source-wordcount: '95'
+ht-degree: 5%
 
 ---
 
@@ -22,6 +22,8 @@ ht-degree: 6%
 
 + [Überblick](overview.md)
 + 2025 {#2025}
+   + [Eine neue oder aktuelle Bizible-Instanz übernehmen](2025/inheriting-bizible-instance.md)
+   + [Überprüfen einer geerbten oder aktuellen Instanz](2025/auditing-inherited-instance.md)
    + [5 Marketo-Funktionen Wissenswert](2025/5-features-to-know.md)
 + 2024 {#2024}
    + [Frag mich was](2024/ask-me-anything.md)

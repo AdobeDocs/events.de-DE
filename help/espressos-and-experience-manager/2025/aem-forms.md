@@ -1,6 +1,6 @@
 ---
-title: AEM Forms
-description: AEM Forms verbessert das Performance-Management durch betriebliche Effizienz und außergewöhnliche Anwendererlebnisse. Zu den wichtigsten Vorteilen zählen höhere Formularausfüllraten, Konversionsraten, verbesserte Benutzererlebnisse und weniger Kundenfehler. Die Funktionen umfassen Omni-Channel-Formulare, automatisierte Workflows, interaktive Kundenkommunikation und die Integration mit Adobe Experience Cloud, die von KI für eine verbesserte Personalisierung unterstützt werden. Zu den geschäftlichen Auswirkungen zählen eine 2,5-fache Steigerung der Konversionsraten bei der Online-Registrierung, eine 85 % schnellere Formularbearbeitung und eine 50 %ige Verringerung der Kundenfehler. Die Cloud-native Leistung stellt sicher, dass Formulare aktuell, skalierbar, sicher und verfügbar sind. Zu den Innovationen gehören das dokumentenbasierte Authoring, dialogorientierte Formulare und die Unterstützung des universellen Editors. KI unterstützt beim Erstellen von Formularen, Automatisieren von Tests und Verbessern der Effizienz. Greifen Sie auf frühe Innovationen zu, indem Sie sich an Adobe wenden. In den Summit-Sessions werden Vordenkerrolle, Top-Innovationen und Fallstudien vorgestellt. Greifen Sie auf Ressourcen zu, registrieren Sie sich für den Summit und wenden Sie sich an Account Manager von Solution, um weitere Hilfe zu erhalten.
+title: Espresso & Experience Manager - AEM Forms
+description: AEM Forms steigert die Leistung mit Omni-Channel-Formularen, KI-gestützter Personalisierung und Cloud-nativer Skalierbarkeit. Dies führt zu 2,5-fachen Konversionen, 85 % schnelleren Bearbeitungen und 50 % weniger Fehlern.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3297
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17535
 exl-id: cb810398-5e62-4128-8338-71ea1bccc6f9
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---

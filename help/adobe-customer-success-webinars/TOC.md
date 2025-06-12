@@ -2,9 +2,9 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,13 @@ ht-degree: 0%
 
 + [Kundenerfolgs-Webinare zu Adobe](overview.md)
 + 2025 {#2025}
+   + [KI-Laufwerksautomatisierung in Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
+   + [KI - Über die Grundlagen hinaus](2025/ai-beyond-basics.md)
+   + [Optimierung digitaler Erlebnisse mit KI-Einblicken](2025/accelerating-digital-experience-optimization.md)
+   + [Meistern von Digital Asset Manager in AEM Content Hub](2025/mastering-dam-aem-content-hub.md)
+   + [Digitale Trends und Vorbereitung auf die Zukunft](2025/digital-trends-preparing-future.md)
+   + [Northstar Architecture](2025/northstar-architecture.md)
+   + [New Relic Essentials für AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
    + [Stand der Einführung von Digital- und GenAI](2025/state-of-digital-and-genai-adoption-webinar.md)
    + [Urlaubsergebnisse 2024 und Trends für 2025](2025/adobe-digital-insights.md)
    + [AEM mit GenAI](2025/aem-genai.md)

@@ -3,16 +3,16 @@ title: Marketo und Mokkas
 description: Marketo On-Demand Events ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zur optimalen Verwendung von Adobe Marketo vorstellen können.
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '1172'
+source-wordcount: '1309'
 ht-degree: 0%
 
 ---
 
 # Marketo und Mokkas
 
-Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser Ressourcen mit den Adobe Marketo [Dokumentation](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=de) und [Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=de) erhalten Sie ein besseres Verständnis dafür, wie Sie Adobe Marketo zur Unterstützung Ihres Unternehmens verwenden.
+Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser Ressourcen mit den Adobe Marketo [Dokumentation](https://experienceleague.adobe.com/docs/marketo-engage.html) und [Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) erhalten Sie ein besseres Verständnis dafür, wie Sie Adobe Marketo zur Unterstützung Ihres Unternehmens verwenden.
 
 ## Aufzeichnungen 2025
 
@@ -20,16 +20,64 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
 
 {cta  = Watch}
 
+* 2025/inheriting-bizible-instance.md
+* 2025/auditing-inherited-instance.md
 * 2025/5-features-to-know.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo Measure and Mochas - Inheriting a New or Current Bizible Instance">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/inheriting-bizible-instance.md" title="Marketo Measure und Mokkas - Eine neue oder aktuelle Bizible-Instanz übernehmen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459038/?format=jpeg&nocache=1749739012261" alt="Marketo Measure und Mokkas - Eine neue oder aktuelle Bizible-Instanz übernehmen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/inheriting-bizible-instance.md" target="_blank" rel="referrer" title="Marketo Measure und Mokkas - Eine neue oder aktuelle Bizible-Instanz übernehmen">Marketo Measure und Mokkas - Eine neue oder aktuelle Bizible-Instanz vererben</a>
+                    </p>
+                    <p class="is-size-6">Nehmen Sie an unserem Marketo Measure- und Mokkas-Webinar mit Carly Gaver und Kate Colbert teil, um Best Practices für das Auditing und die Optimierung der Einrichtung, Konfiguration, Kanäle und Berichte Ihrer Marketo Measure-Instanz (Bizible) zu erlernen.</p>
+                </div>
+                <a href="2025/inheriting-bizible-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo & Mochas - Auditing an Inherited or Current Instance">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/auditing-inherited-instance.md" title="Marketo und Mokkas - Prüfen einer geerbten oder aktuellen Instanz" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459034/?format=jpeg&nocache=1749739012233" alt="Marketo und Mokkas - Prüfen einer geerbten oder aktuellen Instanz"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/auditing-inherited-instance.md" target="_blank" rel="referrer" title="Marketo und Mokkas - Prüfen einer geerbten oder aktuellen Instanz">Marketo und Mokkas - Prüfen einer geerbten oder aktuellen Instanz</a>
+                    </p>
+                    <p class="is-size-6">Haben Sie Ihre Marketo-Instanz geerbt oder möchten Sie sie überprüfen? Seien Sie dabei, wenn Cynthia Chang und Carly Gaver, Adobe Advisors, 5 wichtige Schritte für das Auditing und die Optimierung Ihres Marketo Engages lernen.</p>
+                </div>
+                <a href="2025/auditing-inherited-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo & Mochas - 5 Marketo Features to Know in 2025">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/5-features-to-know.md" title="Marketo &amp; Mokkas - 5 Marketo-Funktionen im Jahr 2025" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444165/?format=jpeg&nocache=1739487703491" alt="Marketo &amp; Mokkas - 5 Marketo-Funktionen im Jahr 2025"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444165/?format=jpeg&nocache=1749739012247" alt="Marketo &amp; Mokkas - 5 Marketo-Funktionen im Jahr 2025"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,7 +119,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ask-me-anything.md" title="Frag mich was" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1739487703914" alt="Frag mich was"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1749739013183" alt="Frag mich was"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +142,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/attribution-dashboard-recording.md" title="Marketo und Mokkas - Grundlagen der Attribution Dashboards-Aufzeichnung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1739487703898" alt="Marketo und Mokkas - Grundlagen der Attribution Dashboards-Aufzeichnung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1749739013155" alt="Marketo und Mokkas - Grundlagen der Attribution Dashboards-Aufzeichnung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +165,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/drive-growth-with-reporting.md" title="Marketo &amp; Mokkas - Wachstumsförderung mit Reporting (Maturity Pt 3)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1739487703946" alt="Marketo &amp; Mokkas - Wachstumsförderung mit Reporting (Maturity Pt 3)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1749739013210" alt="Marketo &amp; Mokkas - Wachstumsförderung mit Reporting (Maturity Pt 3)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +188,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lead-nurture-success.md" title="Marketo &amp; Mokkas - Grundlage für den Erfolg von Lead Nurture" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1739487703955" alt="Marketo &amp; Mokkas - Grundlage für den Erfolg von Lead Nurture"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1749739013195" alt="Marketo &amp; Mokkas - Grundlage für den Erfolg von Lead Nurture"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +211,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" title="Marketo Measure- und Mokkas-Aktivitäten und benutzerdefinierte Modelle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1739487703927" alt="Marketo Measure- und Mokkas-Aktivitäten und benutzerdefinierte Modelle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1749739013169" alt="Marketo Measure- und Mokkas-Aktivitäten und benutzerdefinierte Modelle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +234,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/maturity-part1-foundation.md" title="Marketo &amp; Mokkas - Reife Teil 1 - Fundament legen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1739487703936" alt="Marketo &amp; Mokkas - Reife Teil 1 - Fundament legen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1749739013247" alt="Marketo &amp; Mokkas - Reife Teil 1 - Fundament legen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +257,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/new-discover-dashboard.md" title="Neue Discover Dashboards" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1739487703972" alt="Neue Discover Dashboards"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1749739013235" alt="Neue Discover Dashboards"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +280,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/optimize-marketo-usage.md" title="Marketo und Mokkas - Reife Teil 2 - Optimierung der Marketo-Nutzung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1739487703965" alt="Marketo und Mokkas - Reife Teil 2 - Optimierung der Marketo-Nutzung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1749739013222" alt="Marketo und Mokkas - Reife Teil 2 - Optimierung der Marketo-Nutzung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -274,7 +322,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/attribution.md" title="Marketo und Mokkas - Marketo Measure Attribution" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1739487705172" alt="Marketo und Mokkas - Marketo Measure Attribution"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1749739013472" alt="Marketo und Mokkas - Marketo Measure Attribution"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -297,7 +345,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/deliverability-part-one.md" title="Marketo und Mokkas - Zustellbarkeit (Teil 1)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1739487705157" alt="Marketo und Mokkas - Zustellbarkeit (Teil 1)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1749739013447" alt="Marketo und Mokkas - Zustellbarkeit (Teil 1)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -320,7 +368,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/deliverability-part-two.md" title="Marketo und Mokkas - Zustellbarkeit (Teil 2)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1739487705183" alt="Marketo und Mokkas - Zustellbarkeit (Teil 2)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1749739013485" alt="Marketo und Mokkas - Zustellbarkeit (Teil 2)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -343,7 +391,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/lead-scoring.md" title="Marketo und Mokkas - Lead-Bewertung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1739487705204" alt="Marketo und Mokkas - Lead-Bewertung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1749739013460" alt="Marketo und Mokkas - Lead-Bewertung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -366,7 +414,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/lifecycle-modeling.md" title="Kunden-Journey-Management - Lebenszyklusmodellierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1739487705221" alt="Kunden-Journey-Management - Lebenszyklusmodellierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1749739013497" alt="Kunden-Journey-Management - Lebenszyklusmodellierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -389,7 +437,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/msi-best-practices.md" title="Best Practices für MSI und Optimierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1739487705195" alt="Best Practices für MSI und Optimierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1749739013521" alt="Best Practices für MSI und Optimierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -412,7 +460,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/online-offline.md" title="Online- vs. Offline-Kanäle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1739487705213" alt="Online- vs. Offline-Kanäle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1749739013534" alt="Online- vs. Offline-Kanäle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -435,7 +483,7 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/program-management.md" title="Marketo und Mokkas - Best Practices für die Programmverwaltung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1739487705229" alt="Marketo und Mokkas - Best Practices für die Programmverwaltung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1749739013509" alt="Marketo und Mokkas - Best Practices für die Programmverwaltung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

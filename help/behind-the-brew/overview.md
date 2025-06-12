@@ -3,7 +3,7 @@ title: 'In: Behind the Brew'
 description: Behind the Brew, die Begleitserie zu Commerce & Coffee, ist auf technisch versierte Kundinnen und Kunden zugeschnitten, die versuchen, Back-End-Best Practices, Integrationen und erweiterte Funktionen zu beherrschen, um ihre E-Commerce-Erlebnisse zu verbessern.
 duration: 15
 exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
-source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 7%
@@ -18,6 +18,7 @@ Hinter dem Brew steht die Begleitserie zu Commerce &amp; Coffee. Sie richtet sic
 
 {cta  = Watch event}
 
+* 2025/proactive-monitoring-tools.md
 * 2025/app-builder.md
 * 2025/commerce-intelligence.md
 * 2025/deep-dive-live-search.md
@@ -31,7 +32,7 @@ Hinter dem Brew steht die Begleitserie zu Commerce &amp; Coffee. Sie richtet sic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder.md" title="Adobe Developer App-Builder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1737765880344" alt="Adobe Developer App-Builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1749738836125" alt="Adobe Developer App-Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -54,7 +55,7 @@ Hinter dem Brew steht die Begleitserie zu Commerce &amp; Coffee. Sie richtet sic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/commerce-intelligence.md" title="Adobe Commerce Intelligence (fka MBI)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443025/?format=jpeg&nocache=1737765880333" alt="Adobe Commerce Intelligence (fka MBI)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443025/?format=jpeg&nocache=1749738836111" alt="Adobe Commerce Intelligence (fka MBI)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -77,7 +78,7 @@ Hinter dem Brew steht die Begleitserie zu Commerce &amp; Coffee. Sie richtet sic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/deep-dive-live-search.md" title="Ein tiefer Einblick in die Live-Suche" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443021/?format=jpeg&nocache=1737765880353" alt="Ein tiefer Einblick in die Live-Suche"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443021/?format=jpeg&nocache=1749738836153" alt="Ein tiefer Einblick in die Live-Suche"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -100,7 +101,7 @@ Hinter dem Brew steht die Begleitserie zu Commerce &amp; Coffee. Sie richtet sic
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/commerce-storefront.md" title="Optimieren der Commerce-Storefront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443031/?format=jpeg&nocache=1737765880320" alt="Optimieren der Commerce-Storefront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443031/?format=jpeg&nocache=1749738836139" alt="Optimieren der Commerce-Storefront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +111,7 @@ Hinter dem Brew steht die Begleitserie zu Commerce &amp; Coffee. Sie richtet sic
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/commerce-storefront.md" target="_blank" rel="referrer" title="Optimieren der Commerce-Storefront">Optimieren Sie Ihre Commerce-Storefront</a>
                     </p>
-                    <p class="is-size-6">Optimieren Sie Ihre Commerce-Instanz mit Tipps von Adobe-Experten für Wartung, Bot-Aktivität und Daten-Management</p>
+                    <p class="is-size-6">Optimieren Sie Ihre Commerce-Instanz mit den Expertentipps von Adobe zu Wartung, Bot-Aktivität und Daten-Management</p>
                 </div>
                 <a href="2025/commerce-storefront.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
