@@ -26,4 +26,4 @@ Wichtige Diskussionspunkte
 * Untersuchen Sie wichtige Anwendungsfälle, die Anwendung von Funktionen und Tipps und Tricks für den Reifegrad-Fortschritt.
 * Diskutieren Sie über bevorstehende Funktionen und Verbesserungen des Tools
 
->[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463367/?learn=on&enablevpops&captions=ger)
