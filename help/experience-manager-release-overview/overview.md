@@ -30,7 +30,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-3-0.md" title="Übersichtsvideo zur AEM-Version 2025.3.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463859/?format=jpeg&nocache=1749737199687" alt="Übersichtsvideo zur AEM-Version 2025.3.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463874/?format=jpeg&nocache=1749737199687&captions=ger" alt="Übersichtsvideo zur AEM-Version 2025.3.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
