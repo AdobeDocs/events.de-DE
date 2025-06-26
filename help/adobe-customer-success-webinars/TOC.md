@@ -2,9 +2,9 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+source-git-commit: 062259db0862dc5fb1624932b40a9a6f43d9f0d0
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,9 @@ ht-degree: 0%
 
 + [Kundenerfolgs-Webinare zu Adobe](overview.md)
 + 2025 {#2025}
+   + [Workfront und JIRA](2025/workfront-and-jira.md)
+   + [Transformieren von B2B- und B2B2C-Commerce](2025/transforming-b2b-commerce.md)
+   + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
    + [KI-Laufwerksautomatisierung in Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
    + [KI - Über die Grundlagen hinaus](2025/ai-beyond-basics.md)
    + [Optimierung digitaler Erlebnisse mit KI-Einblicken](2025/accelerating-digital-experience-optimization.md)

@@ -3,7 +3,7 @@ title: Kundenerfolgs-Webinare zu Adobe
 description: Kundenerfolgs-geführte Webinare von Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
 duration: 42
-source-git-commit: 780ad36ca10f4c8692ebfed7fc3e0c31ac2d1115
+source-git-commit: 062259db0862dc5fb1624932b40a9a6f43d9f0d0
 workflow-type: tm+mt
 source-wordcount: '3963'
 ht-degree: 0%
@@ -20,6 +20,9 @@ Kundenerfolgs-geführte Webinare von Adobe helfen Ihnen, Ihre Investition in Exp
 
 {cta = Watch}
 
+* 2025/workfront-and-jira.md
+* 2025/transforming-b2b-commerce.md
+* 2025/journey-optimizer-essentials.md
 * 2025/unlock-efficiency-ai-drive-automation-workfront.md
 * 2025/ai-beyond-basics.md
 * 2025/accelerating-digital-experience-optimization.md
@@ -81,7 +84,7 @@ Kundenerfolgs-geführte Webinare von Adobe helfen Ihnen, Ihre Investition in Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="KI-Assistent - Über die Grundlagen hinaus" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463367/?format=jpeg&nocache=1749832505279&captions=ger" alt="KI-Assistent - Über die Grundlagen hinaus"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1749832505279" alt="KI-Assistent - Über die Grundlagen hinaus"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -518,7 +521,7 @@ Kundenerfolgs-geführte Webinare von Adobe helfen Ihnen, Ihre Investition in Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="GenAI-Experimente in AJO und seine Beziehung zu Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444468/?format=jpeg&nocache=1749832505582&captions=ger" alt="GenAI-Experimente in AJO und seine Beziehung zu Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1749832505582" alt="GenAI-Experimente in AJO und seine Beziehung zu Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -865,7 +868,7 @@ Kundenerfolgs-geführte Webinare von Adobe helfen Ihnen, Ihre Investition in Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Grundlagen der Integration von Real-Time Customer Data Platform und Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433677/?format=jpeg&nocache=1749832508605&captions=ger" alt="Grundlagen der Integration von Real-Time Customer Data Platform und Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1749832508605" alt="Grundlagen der Integration von Real-Time Customer Data Platform und Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1026,7 +1029,7 @@ Kundenerfolgs-geführte Webinare von Adobe helfen Ihnen, Ihre Investition in Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="Datenstrom-Priorisierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456814/?format=jpeg&nocache=1749832508615&captions=ger" alt="Datenstrom-Priorisierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1749832508615" alt="Datenstrom-Priorisierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1210,7 +1213,7 @@ Kundenerfolgs-geführte Webinare von Adobe helfen Ihnen, Ihre Investition in Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Personalization Maturity - Der Weg zur Hyperpersonalisierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457354/?format=jpeg&nocache=1749832508737&captions=ger" alt="Personalization Maturity - Der Weg zur Hyperpersonalisierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1749832508737" alt="Personalization Maturity - Der Weg zur Hyperpersonalisierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1256,7 +1259,7 @@ Kundenerfolgs-geführte Webinare von Adobe helfen Ihnen, Ihre Investition in Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="Maximieren der Effizienz - Lean Teams und Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457017/?format=jpeg&nocache=1749832508759&captions=ger" alt="Maximieren der Effizienz - Lean Teams und Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1749832508759" alt="Maximieren der Effizienz - Lean Teams und Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1371,7 +1374,7 @@ Kundenerfolgs-geführte Webinare von Adobe helfen Ihnen, Ihre Investition in Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="Strategische Führung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456792/?format=jpeg&nocache=1749832508850&captions=ger" alt="Strategische Führung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1749832508850" alt="Strategische Führung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1532,7 +1535,7 @@ Kundenerfolgs-geführte Webinare von Adobe helfen Ihnen, Ihre Investition in Exp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Maximieren der Effizienz mit Adobe Workfront - Webinar zu „schlanken Teams“" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456718/?format=jpeg&nocache=1749832508862&captions=ger" alt="Maximieren der Effizienz mit Adobe Workfront - Webinar zu „schlanken Teams“"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1749832508862" alt="Maximieren der Effizienz mit Adobe Workfront - Webinar zu „schlanken Teams“"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
