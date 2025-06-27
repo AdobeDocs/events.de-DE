@@ -3,9 +3,9 @@ user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
 solution: Workfront
-source-git-commit: 594aa341ffe96b91b2b8535f8748b770f1baf349
+source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -48,5 +48,6 @@ ht-degree: 0%
    + [Anfrage-Warteschlangen und Aufnahme-Forms](user-groups/request-queues-and-intake-forms.md)
 + Versionen {#releases}
    + [Version 25.4](webinars/25-4-release-webinar.md)
+   + [Version 25.1](webinars/25-1-release-webinar.md)
    + [Version 24.1](webinars/24-1-release-webinar.md)
 

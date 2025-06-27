@@ -2,10 +2,10 @@
 user-guide-title: Technische Sitzungen zu Experience Cloud
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud Tech Sessions ist ein proaktiver Ansatz zur Fallbearbeitung, indem Kunden lösungsspezifische Webinare angeboten werden.
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 15%
+source-wordcount: '161'
+ht-degree: 14%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 15%
 
 + [Technische Sitzungen zu Experience Cloud](overview.md)
 + 2025 {#2025}
+   + [Migrieren von Adobe Analytics zu AEP Web SDK](2025/migrate-analytics-to-aep-web-sdk.md)
    + [Fehlerbehebung bei der Adobe Campaign Classic-Bereitstellungsleistung](2025/acc-delivery-performance.md)
    + [Dispatcher-Konfigurationen in AEM as a Cloud Service](2025/dispatcher-configurations.md)
    + [Optimale Nutzung von Marketo Measure](2025/getting-most-marketo-measure.md)
