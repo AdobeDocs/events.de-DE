@@ -27,4 +27,4 @@ Diese Sitzung vermittelt ein grundlegendes Verständnis von drei wichtigen Aspek
 * Erstellen einer benutzerfreundlichen Navigation für ein optimales Site-Erlebnis
 * Die SEO-Grundlage in AEM Sites schaffen
 
->[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464324/?learn=on&enablevpops&captions=ger)
