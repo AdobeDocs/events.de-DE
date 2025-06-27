@@ -1,5 +1,5 @@
 ---
-title: 'Mastering AEM Sites: Anleitung für Anfänger zu Vorlagen, Navigation und SEO'
+title: Meistern von AEM Sites - Vorlagen, Navigation und SEO
 description: 'Lernen Sie die AEM Sites-Grundlagen kennen: So verwenden Sie Seitenvorlagen, entwerfen Sie eine intuitive Navigation und wenden Sie wichtige SEO-Verfahren an, um die Sichtbarkeit und Site-Leistung zu verbessern.'
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
@@ -9,9 +9,9 @@ doc-type: Event
 duration: 2025
 last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-18431
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: f9e38f359b801bc6abc7a108f1da755922e43c65
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ Diese Sitzung vermittelt ein grundlegendes Verständnis von drei wichtigen Aspek
 * Erstellen einer benutzerfreundlichen Navigation für ein optimales Site-Erlebnis
 * Die SEO-Grundlage in AEM Sites schaffen
 
->[!VIDEO](https://video.tv.adobe.com/v/3464324/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
