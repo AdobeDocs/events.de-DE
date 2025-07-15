@@ -1,5 +1,5 @@
 ---
-title: Adobe Analytics und CJA-Schnellstart für grundlegende bis mittlere Analysefunktionen
+title: Adobe Analytics und CJA - Schnellstart für grundlegende bis mittlere Analysefunktionen
 description: In der Sitzung ging es um die Einrichtung analytischer Funktionen, den Vergleich von Adobe Analytics und Customer Journey Analytics und um wichtige Funktionen für Marketing-Berichte.
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
@@ -9,7 +9,7 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Adobe Analytics und CJA: Schnellstart für grundlegende bis mittlere Analysefunktionen
 
-Erfahren Sie, wie Sie schnell mit Adobe Analytics und Customer Journey Analytics (CJA) beginnen können, um Ihre Marketing-Aktivitäten mit datengesteuerten Entscheidungen zu unterstützen: Erfahren Sie, wie Sie Ihr Unternehmen für robuste Analysefunktionen einrichten, verstehen Sie, wann Sie welche Analyselösung am besten verwenden sollten, und ordnen Sie die Analytics- und CJA-Funktionen den Analytics-Reifegraden zum Erstellen wichtiger Marketing-Berichte zu.
+Erfahren Sie, wie Sie schnell mit Adobe Analytics und Customer Journey Analytics (CJA) beginnen können, um Ihre Marketing-Aktivitäten mit datengesteuerten Entscheidungen zu unterstützen: Erfahren Sie, wie Sie Ihr Unternehmen für robuste Analysefunktionen einrichten, verstehen Sie, wann welche Analyselösung am besten verwendet werden sollte, und ordnen Sie die Analytics- und CJA-Funktionen den Analytics-Reifegraden zum Erstellen wichtiger Marketing-Berichte zu.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440933/?learn=on&enablevpops)
 
@@ -30,7 +30,7 @@ Erfahren Sie, wie Sie schnell mit Adobe Analytics und Customer Journey Analytics
 
 * **Einführung von Lautsprechern**
    * Frederick, Senior Customer Success Manager bei Adobe, stellte die Veranstaltung vor.
-   * Moderatorin ist Dr. Kirsten Schaffer, Principal Customer Success Manager bei Adobe.
+   * Moderatorin ist Dr. Kerstin Schäfer, Principal Customer Success Strategist bei Adobe.
 
 * **Sitzungsinhalt**
    * In dieser Sitzung wird die Einrichtung einer Organisation für robuste Analysefunktionen, Governance-Aspekte und Laufpfade für Analytics und Customer Journey Analytics behandelt.
@@ -38,7 +38,7 @@ Erfahren Sie, wie Sie schnell mit Adobe Analytics und Customer Journey Analytics
 
 * **Wichtige Diskussionsthemen**
    * **Externe und interne Kräfte** Beeinflussung der digitalen Analyse, einschließlich Marktveränderungen, Datenschutz und Governance, Datendemokratie und Datenkomplexität.
-   * **Aufbau einer robusten analytischen Grundlage** Messstrategie, Datenerfassung, Erkenntnisse und Analyse, Lernen, Data Governance.
+   * **Aufbau einer robusten analytischen Grundlage** Messstrategie, Datenerfassung, insight und Analyse, Lernen, Data Governance.
    * **Einrichten eines Digital-Analytics-Teams** Rollen und Zuständigkeiten, Erstellen eines Hybrid-Teams und effizientes Verwalten von Analytics-Anfragen.
    * **Optionen für die** von Adobe: Experience League, On-Demand-Kurse, Schulungskurse, Community-Support.
 
