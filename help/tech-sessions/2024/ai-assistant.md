@@ -4,11 +4,12 @@ description: Nehmen Sie an einem aufschlussreichen Webinar mit Rachel Hanessian 
 role: Admin
 level: Beginner
 doc-type: Event
+solution: Experience Platform, Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
 exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
-source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 # Steigern Sie Ihre Produktivität mit dem KI-Assistenten in Adobe Experience Platform
 
-Ein aufschlussreiches Webinar, in dem Sie lernen, wie Sie KI-Assistenten einrichten, damit Sie produktiver arbeiten und Anwendungsfälle für Real-Time CDP, Journey Optimizer und Customer Journey Analytics erkunden können.
+Ein aufschlussreiches Webinar, in dem Sie lernen, wie Sie KI-Assistenten einrichten, damit Sie produktiver arbeiten und Anwendungsfälle erkunden können, um Real-Time CDP, Journey Optimizer und Customer Journey Analytics zu verbessern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435344/?learn=on)
 
@@ -43,7 +44,7 @@ Generative KI wird schnell übernommen, wobei 89 % der Marketer glauben, dass si
 ### KI-Assistent - Übersicht
 
 * Der KI-Assistent ist eine Dialogschnittstelle, die von generativer KI unterstützt wird.
-* Es wurde für Real-Time CDP, Journey Optimizer und Customer Journey Analytics entwickelt.
+* Er wurde für die Echtzeit-Kundendatenplattform, Journey Optimizer und Customer Journey Analytics entwickelt.
 * Es hilft bei Produktkenntnissen, Einblicken in den Betrieb und der Optimierung von Workflows.
 
 ### Funktionen und Personas

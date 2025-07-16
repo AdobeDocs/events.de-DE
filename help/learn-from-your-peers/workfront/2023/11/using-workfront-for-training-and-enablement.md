@@ -2,13 +2,14 @@
 title: Verwenden von Workfront für Schulungs- und Aktivierungswebinar
 description: In unserem On-Demand-Webinar erfahren Sie, wie Workfront die Mitarbeiterschulung verbessert. Gewinnen Sie Einblicke von JPMorgan Chase-, IBM- und Adobe Workfront-Experten bei der Erstellung maßgeschneiderter Pfade, der Organisation von Materialien und der Nutzung von Workfront für effektives Onboarding und langfristige Akzeptanz.
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3574
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15826
 exl-id: 8300b149-1e69-4a29-b0ab-8134d46df4a4
-source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%

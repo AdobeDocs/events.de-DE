@@ -3,12 +3,13 @@ title: Was ist Workfront Governance?
 description: Erkunden Sie die Governance in Workfront mit unserem On-Demand-Webinar. Lernen Sie vom Mayo Clinic College of Medicine und von Workfront-Experten, kleine, sich entwickelnde Praktiken zu beginnen und sich an deren Journey zu umfassender Governance zu beteiligen.
 role: Admin
 level: Beginner, Intermediate, Experienced
+solution: Workfront
 doc-type: Event
 duration: 3713
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15810
 exl-id: bb1959ae-30cc-428c-957a-cb9264641b17
-source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%

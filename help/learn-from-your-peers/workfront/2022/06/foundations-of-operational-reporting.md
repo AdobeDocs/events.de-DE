@@ -3,13 +3,14 @@ title: Grundlagen des Webinars zur operativen Berichterstattung
 description: Erfahren Sie von Ihren Kollegen, was Systemadministratoren in Workfront messen sollten. Entdecken Sie wichtige Metriken, Reporting-Anforderungen und Beispiel-Dashboards in unserem On-Demand-Webinar.
 feature: Reports and Dashboards
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3672
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15813
 exl-id: 3f98a8e2-c288-4270-b6ea-b21d5751ae2b
-source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 1%

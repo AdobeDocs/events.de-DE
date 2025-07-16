@@ -2,13 +2,14 @@
 title: Webinar zur Kommunikation mit Endbenutzern
 description: In unserem On-Demand-Webinar erfahren Sie mehr über die verschiedenen Strategien zur Kommunikation mit Workfront-Benutzern. Erfahren Sie von IDEXX-, Adobe- und Adobe Workfront-Experten mehr über effektive Kanäle und Kommunikationsarten und lernen Sie, Ihre Strategie iterativ weiterzuentwickeln.
 role: Admin, Leader
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3649
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15825
 exl-id: d1cec74c-aeca-4832-a7e7-be1e9cee112c
-source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -25,6 +26,6 @@ In diesem On-Demand-Webinar stellen Lyndsy Denk, Marketing Training and Enableme
 * Tipps, wie Sie entscheiden können, welche Kanäle Sie für Ihre Kommunikation verwenden möchten
 * Wie Sie Ihre Kommunikationsstrategie iterativ betrachten können, angefangen von der aktuellen Position bis hin zur Reife
 
-Sie können auch das „Communications Cookbook“ mit Ideen und Beispielen echter Kommunikation, die Ihre Kollegen mit ihren Nutzern teilen, hier herunterladen: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=de
+Sie können auch das „Communications Cookbook“ mit Ideen und Beispielen echter Kommunikation, die Ihre Kollegen mit ihren Nutzern teilen, hier herunterladen: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

@@ -2,13 +2,14 @@
 title: Einrichten eines Webinars zum Workfront-Kompetenzzentrum
 description: In unserem On-Demand-Webinar erfahren Sie von Mattel- und Adobe Workfront-Experten, wie Sie ein Workfront Center of Excellence (CoE) einrichten. Entdecken Sie wichtige Komponenten, Voraussetzungen und inkrementelle Schritte für eine nachhaltige und skalierbare Verwaltung, die Verbesserung der Benutzerakzeptanz und die Verbesserung der Produktnutzung und Datenintegrität.
 role: Admin, Leader
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3715
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15824
 exl-id: 02d88c39-f53c-4529-ab0e-aebf0f2dff42
-source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%

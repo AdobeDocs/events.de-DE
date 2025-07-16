@@ -5,11 +5,12 @@ feature: Get Started with Workfront
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3629
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15816
 exl-id: 8d1b25a6-1224-4158-9f67-7997b6cf2e67
-source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%

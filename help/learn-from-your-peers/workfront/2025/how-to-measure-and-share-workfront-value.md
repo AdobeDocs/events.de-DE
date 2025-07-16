@@ -2,13 +2,15 @@
 title: Artikulieren der Wirkung - So messen und teilen Sie den Wert von Workfront
 description: In diesem On-Demand-Webinar stellen James Hill und Ellen Saltmarsh von Synchrony und Daniel Clarke von EMMsphere ihre Strategien vor, um ihr „Warum“ für die Übernahme von Workfront zu erläutern, messbare Ergebnisse wie Zeit- und Kosteneinsparungen zu definieren, Erfolgsgeschichten zu kommunizieren, um Zustimmung bei Stakeholdern zu gewinnen, und ein schrittweises Playbook zur Wertschöpfung zu verwenden.
 topic: Administration
+solution: Workfront
 role: Admin, Leader
 level: Beginner
 doc-type: Event
 duration: 3534
 last-substantial-update: 2025-02-27T00:00:00Z
 jira: KT-17413
-source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
+exl-id: 9b7a9bc0-6444-40e5-9e3c-3926ac761e31
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%

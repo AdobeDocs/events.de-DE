@@ -2,13 +2,14 @@
 title: Alles über das Webinar zu Anfragewarteschlangen
 description: Erfahren Sie von Ihren Kollegen, wie Sie Workfront-Anfragewarteschlangen maximieren. Entdecken Sie in unserem On-Demand-Webinar die vielfältigen Einsatzmöglichkeiten und Best Practices von Disney's Yellow Shoes.
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3611
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15814
 exl-id: fa9b2c3b-62ac-4f4f-9aec-2e696be5ef48
-source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%

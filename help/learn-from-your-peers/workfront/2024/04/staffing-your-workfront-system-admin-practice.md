@@ -2,6 +2,7 @@
 title: Personal für Ihr Workfront System Admin Practice-Webinar
 description: Erfahren Sie in unserem On-Demand-Webinar von Dell und Adobe Workfront-Experten, welche strategische Bedeutung Systemadministratoren haben. Hier finden Sie Tipps zum Schutz der Vollzeit-Mitarbeiterzahl, zur Nutzung der Gruppenadministratorrolle und zur Definition von Rollenprofilen für eine effektive Einrichtung und Skalierbarkeit in Adobe Workfront.
 topic: Administration
+solution: Workfront
 role: Admin, Leader
 level: Beginner
 doc-type: Event
@@ -9,7 +10,7 @@ duration: 3638
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15827
 exl-id: 51619ec3-f5d5-48a9-aa29-fbaa2289a576
-source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%

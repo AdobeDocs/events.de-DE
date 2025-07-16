@@ -1,6 +1,7 @@
 ---
 title: Grundlegendes zum Webinar zur Benutzerverwaltung
 description: Nehmen Sie an unserem On-Demand-Webinar teil, um die Einrichtung und Organisation von Workfront-Benutzern zu verstehen. Erfahren Sie von den Experten von Thermo Fisher Scientific und Adobe Workfront mehr über Lizenzen, Zugriffsebenen, Gruppen, Teams, Objekthierarchie, Freigabeberechtigungen und Best Practices für ein effektives Benutzermanagement.
+solution: Workfront
 role: Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,7 +9,7 @@ duration: 3686
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15808
 exl-id: 3f7e6991-5e18-4637-9ab4-d1deca267040
-source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%

@@ -4,11 +4,12 @@ description: Erfahren Sie von erfahrenen Fachleuten, wie Sie eine Workfront-Inst
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3641
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15820
 exl-id: 742737b9-4177-4a21-a883-ba6b67d67195
-source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -25,6 +26,6 @@ In diesem On-Demand-Webinar werden Jace Newbold, Consulting Manager bei Workfron
 * Was jeder Administrator bzw. jede Administratorin heute tun sollte, um sein/ihr zukünftiges Selbst (und zukünftige Administratoren bzw. Administratorinnen) auf den Erfolg vorzubereiten
 * Eine herunterladbare Checkliste mit Fragen, Ressourcen und Links, die Sie durch den Prozess der Prüfung und Dokumentation Ihrer Instanz führt
 
-Checkliste für geerbte Instanzen und Blueprint: https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+Checkliste für geerbte Instanzen und Blueprint: https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

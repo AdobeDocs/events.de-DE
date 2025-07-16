@@ -1,6 +1,7 @@
 ---
 title: Erfahren Sie, wie Sie sich bewerben und als Champion auffallen können
 description: Nehmen Sie am Adoption Marketing-Team von Adobe und den aktuellen Adobe Champions teil, um ein exklusives Webinar zu erhalten, in dem wir Sie durch das Programm führen und Tipps zum Senden einer herausragenden Anwendung teilen.
+solution: General
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -8,7 +9,7 @@ duration: 3519
 last-substantial-update: 2025-05-20T00:00:00Z
 jira: KT-18134
 exl-id: 57953e9b-2bed-4b5b-b345-84f00f2801ff
-source-git-commit: 27f01773802dadf8df60b0c1963e6e622e5db657
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%

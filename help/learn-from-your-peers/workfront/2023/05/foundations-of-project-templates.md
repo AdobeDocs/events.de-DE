@@ -4,13 +4,14 @@ description: In unserem On-Demand-Webinar erfahren Sie von Experten, wie Sie Pro
 feature: Projects
 topic: Administration
 role: Admin, User
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3664
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15823
 exl-id: b8c4d196-8b74-4309-b15e-79b1d6d57e36
-source-git-commit: c3837c03d30bea15181ee45213755e5106c60e52
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
