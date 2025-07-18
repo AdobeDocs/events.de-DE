@@ -2,18 +2,21 @@
 title: Transformieren von B2B- und B2B2C-Commerce mit Personalization und Automatisierung
 description: Erfahren Sie, wie B2B-Commerce die Personalisierung mit AEM, Target und AEP skalieren kann, um B2B2C-Erlebnisse zu optimieren und datengesteuerte, einheitliche Inhalte und Angebote zu fördern.
 role: Admin, Developer, Leader, User
+solution: Experience Manager, Target, Commerce
+feature: Edge Delivery Services
+topic: Personalization
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2661
 last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-18445
-source-git-commit: 062259db0862dc5fb1624932b40a9a6f43d9f0d0
+exl-id: 7f0f594f-a989-4689-995f-1135078de8fc
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # Transformieren von B2B- und B2B2C-Commerce mit Personalisierung und Automatisierung
 

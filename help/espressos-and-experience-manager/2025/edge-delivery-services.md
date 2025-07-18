@@ -3,19 +3,20 @@ title: Espresso & Experience Manager - Edge Delivery Services
 description: Sehen Sie sich unser erstes Webinar zu Espresso und AEM an! Die Experten Casey & Rajan behandeln Edge Delivery Services, den universellen Editor und SPEED, um die Site-Geschwindigkeit, Konvertierungen und die Bearbeitungsfreundlichkeit zu erhöhen.
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
+feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3425
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18154
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 327602fa-17f1-4372-a429-37b570b11302
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # Espresso &amp; Experience Manager: Edge Delivery Services
 

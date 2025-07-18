@@ -1,6 +1,7 @@
 ---
-title: KI und Personalization für Adobe Experience Manager Edge Delivery Services
+title: Einführung von KI und Personalization in Adobe Experience Manager Edge Delivery Services
 description: Erfahren Sie, wie Sie KI und Personalisierung mit einer grundlegenden Architektur, semantischen Suche und erweiterten Anwendungsfällen in Adobe Experience Manager Edge Delivery Services integrieren können. Dies zeigte Andreas Haller, Principal Solution Architect bei Cognizant Netcentric.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: Edge Delivery Services, Search, Generative AI
 topic: Artificial Intelligence, Personalization
 role: Developer
@@ -10,18 +11,18 @@ duration: 1029
 last-substantial-update: 2024-11-25T00:00:00Z
 jira: KT-16578
 exl-id: d560045b-4404-41f6-b53e-787877faab5b
-source-git-commit: 514a63003edc87f1de5cf8f14b9fca7d1f937ae2
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-# KI und Personalization für Adobe Experience Manager Edge Delivery Services
+# Einführung von KI und Personalization in Adobe Experience Manager Edge Delivery Services
 
-Entdecken Sie die grundlegende Architektur zur Integration von Personalisierung und KI in Adobe Experience Manager Edge Delivery Services. Seien Sie dabei, wenn Andreas Haller, Principal Solution Architect bei Cognizant Netcentric, die semantische Suche und erweiterte Anwendungsfälle zur Verbesserung Ihrer Projekte demonstriert.
+Entdecken Sie die grundlegende Architektur zur Integration von Personalisierung und KI in Adobe Experience Manager Edge Delivery Services. Andreas Haller, Principal Solution Architect bei Cognizant Netcentric, demonstriert semantische Suche und erweiterte Anwendungsfälle zur Verbesserung Ihrer Projekte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440415/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3440405/?learn=on&enablevpops)
 
 ## Community-Diskussion
 

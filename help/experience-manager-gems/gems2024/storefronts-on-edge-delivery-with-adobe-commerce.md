@@ -1,7 +1,7 @@
 ---
 title: Erstellen von Storefronts auf Edge Delivery Services mit Adobe Commerce
 description: Im AEM GEMs-Webinar erfahren Sie, wie Sie eine leistungsstarke Storefront für Edge Delivery Services für Adobe Commerce erstellen, die die Projekteinrichtung, die Commerce SaaS-Integration, anpassbare Frontend-Komponenten und neue Authoring-Funktionen zur Verbesserung von Commerce-Erlebnissen umfasst.
-solution: Experience Manager
+solution: Experience Manager, Commerce
 version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Commerce
@@ -13,7 +13,7 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
 exl-id: 6294fa1b-4807-484b-ac51-f01bb1dd9656
-source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%

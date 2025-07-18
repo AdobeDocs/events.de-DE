@@ -1,6 +1,7 @@
 ---
 title: Magische Schaltflächen und wie sie erstellt werden
-description: Verbessern Sie Workflows und Benutzererlebnisse mit der Erweiterbarkeit der Adobe-Benutzeroberfläche, ermöglichen Sie benutzerdefinierte Integrationen durch Adobe App Builder, vereinfachen Sie komplexe Aufgaben mit einer „magischen Schaltfläche“ und unterstützen Sie die nahtlose Integration mit Unternehmenssystemen, mit zukünftigen Erweiterungen für weitere Adobe-Services.
+description: Verbessern Sie Workflows und Benutzererlebnisse mit der Erweiterbarkeit der Benutzeroberfläche von Adobe, ermöglichen Sie benutzerdefinierte Integrationen über Adobe App Builder, vereinfachen Sie komplexe Aufgaben mit einer „magischen Schaltfläche“ und unterstützen Sie die nahtlose Integration mit Unternehmenssystemen, mit zukünftigen Erweiterungen zu mehr Adobe-Services.
+solution: Experience Manager
 topic: Development
 role: Developer
 level: Beginner, Intermediate
@@ -9,7 +10,7 @@ duration: 1226
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16548
 exl-id: 9dafd048-8b3a-444f-bf0e-d49f76ae7054
-source-git-commit: baacc97f717d27581d0ef28384e2f680dbef854e
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -37,5 +38,5 @@ Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](htt
 * **Extension Manager** Mit diesem Tool können Benutzende verwalten, wie Erweiterungen in AEM-Umgebungen angezeigt werden und funktionieren.
 * **Vorteile** Benutzeroberflächenerweiterungen minimieren Kontextwechsel, verbessern die Effizienz und ermöglichen eine nahtlose Integration mit anderen Unternehmenssystemen. Sie werden von Adobe gehostet, verwenden moderne Technologie-Stacks und können unabhängig von AEM verwaltet werden.
 * **Anwendungsfälle** Beispiele sind die Workflow-Automatisierung, benutzerdefinierte Widgets, Datensynchronisierung und benutzerdefinierte Dashboards. Als spezifische Beispiele werden ein Inhaltsassistent für Gen AI, ein Lokalisierungs-Tool und eine Modellauswahl genannt.
-* **Future Developments** Adobe erweitert die Erweiterbarkeit der Benutzeroberfläche auf weitere Services, einschließlich Workfront, Content Hub und Gen Studio.
+* **Künftige**: Adobe erweitert die Erweiterbarkeit der Benutzeroberfläche auf weitere Services, einschließlich Workfront, Content Hub und Gen Studio.
 * **Ressourcen** Dokumentation und weitere Lernressourcen sind über bereitgestellte QR-Codes verfügbar.

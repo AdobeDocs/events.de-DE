@@ -1,6 +1,7 @@
 ---
 title: Moderne Adobe Experience Manager-APIs und -Eventing
 description: Erweitern Sie Programme und integrieren Sie AMS-Services mit modernen APIs, die von einem dedizierten Team unterstützt werden, sowie umfassende Ressourcen auf developer.adobe.com mit neuen APIs für Inhaltsfragmente, Ereignisintegration und Chancen für Early Adopters.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: APIs, Integrations
 topic: Integrations
 role: Developer
@@ -10,7 +11,7 @@ duration: 1310
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16549
 exl-id: 3cb11b21-d673-4373-82bb-72a6a1e73161
-source-git-commit: baacc97f717d27581d0ef28384e2f680dbef854e
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # Moderne Adobe Experience Manager-APIs und -Eventing
 
-Erfahren Sie, wie das Cloud-native Ereignissystem von Adobe Experience Manager Workflows durch die nahtlose Integration mit externen Systemen modernisiert. Mathias Siegel, Principal Product Manager, und Ian Reasor, Sr. Computer Scientist bei Adobe, berichten über die neuesten APIs, Ereignisse und Anwendungsfälle aus der Praxis.
+Erfahren Sie, wie das Cloud-native Ereignissystem von Adobe Experience Manager Workflows durch die nahtlose Integration mit externen Systemen modernisiert. Mathias Siegel, Principal Product Manager, und Ian Reasor, Sr. Computer Scientist bei Adobe, berichten über die neuesten APIs, Ereignisse und realen Anwendungsfälle.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440203/?learn=on&enablevpops)

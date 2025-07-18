@@ -1,7 +1,7 @@
 ---
 title: Entwickeln außergewöhnlicher Commerce-Storefront-Erlebnisse mit Edge Delivery Services und Adobe Commerce
 description: Die Integration der Services zur Bereitstellung von Anzeigen mit Adobe Commerce verbessert E-Commerce-Storefronts durch die Nutzung wirkungsvoller Erlebnisse, schneller Edge-Bereitstellung, anpassbarer Adobe Commerce-Dropdown-Menüs und eines einheitlichen Technologie-Stacks für verbessertes SEO, schnelleres Laden von Seiten und nahtlose Entwicklererlebnisse.
-solution: Commerce, Experience Manager
+solution: Commerce, Experience Manager, Experience Manager as a Cloud Service
 feature: Storefront, Edge Delivery Services
 topic: Commerce
 role: Developer
@@ -11,7 +11,7 @@ duration: 1234
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16544
 exl-id: 6447e5df-3a7d-46fc-af43-ba362c1cdd9f
-source-git-commit: baacc97f717d27581d0ef28384e2f680dbef854e
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Entwickeln außergewöhnlicher Commerce-Storefront-Erlebnisse mit Edge Delivery Services und Adobe Commerce
 
-Was ist nötig, um außergewöhnliche Commerce-Storefronts zu erstellen? Surya Lamech, Senior Product Marketing Manager, und Deck Reyes, Practice Lead für Adobe Experience Manager Expert Solutions, erläutern, wie Inhalte, Assets, neue „Dropdown-Listen“ von Commerce und Edge Delivery Services das Commerce Developer-Erlebnis verbessern.
+Was ist nötig, um außergewöhnliche Commerce-Storefronts zu erstellen? Surya Lamech, Senior Product Marketing Manager, und Deck Reyes, Practice Lead für Adobe Experience Manager Expert Solutions, erläutern, wie Inhalte, Assets, neue „Dropdown-Listen“ von Commerce und Edge Delivery Services das Commerce Developer Experience verbessern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439471/?learn=on&enablevpops)
 
@@ -36,5 +36,5 @@ Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](htt
 * **Technologie-Stack** Die Integration umfasst die Verwendung von einfachen CSS-, JavaScript- und APIs. Adobe Commerce bietet eine superschnelle API über das Federation Gateway.
 * **Content-Management** Benutzer können Inhalte mit verschiedenen Authoring-Tools erstellen und verwalten, einschließlich APM-Authoring, SharePoint, Google Drive und Microsoft Word.
 * **Integration Starter Kit** Adobe bietet ein Starter Kit, um den Integrationsprozess mit vordefinierten Datenflüssen für gängige Objekte wie Produkte, Kunden, Lager, Bestellungen und Sendungen zu vereinfachen und zu beschleunigen.
-* **Developer Experience** Adobe zielt darauf ab, das Entwicklererlebnis in Adobe Commerce und Adobe Experience Manager (AEM) mithilfe desselben Technologie-Stacks und derselben Fähigkeiten zu vereinheitlichen.
-* **Resources** Adobe bietet verschiedene Lernmaterialien, Codebeispiele und Tutorials, mit denen Entwickler außergewöhnliche Einkaufserlebnisse effizient erstellen und pflegen können.
+* **Entwicklererlebnis** Adobe zielt darauf ab, das Entwicklererlebnis in Adobe Commerce und Adobe Experience Manager (AEM) mithilfe desselben Technologie-Stacks und derselben Fähigkeiten zu vereinheitlichen.
+* **Ressourcen** Adobe bietet verschiedene Lernmaterialien, Codebeispiele und Tutorials, mit denen Entwickler außergewöhnliche Einkaufserlebnisse effizient erstellen und verwalten können.

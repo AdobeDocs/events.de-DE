@@ -1,25 +1,26 @@
 ---
-title: AEM GEMs - Erste Schritte mit Adobe-verwaltetem CDN
-description: Erfahren Sie, wie Sie das von Adobe verwaltete CDN in AEM Cloud Service konfigurieren, um die Leistung und Sicherheit mit neuen CDN-Konfigurationsfunktionen zu verbessern.
+title: AEM GEMs - Erste Schritte mit Adobe Managed CDN
+description: Erfahren Sie, wie Sie das in Adobe verwaltete CDN in AEM Cloud Service konfigurieren, um die Leistung und Sicherheit mit neuen CDN-Konfigurationsfunktionen zu verbessern.
 role: Developer, User
 level: Intermediate
+feature: Edge Delivery Services
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30T00:00:00Z
 jira: KT-17227
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: 4cd0332f-95bf-45f4-a765-aba020c0d7b0
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 0%
 
 ---
 
+# AEM GEMs - Erste Schritte mit Adobe Managed CDN
 
-# AEM GEMs - Erste Schritte mit Adobe-verwaltetem CDN
+Erfahren Sie mehr über das von Adobe verwaltete CDN in AEM Cloud Service und wie es konfiguriert werden kann. Erkunden Sie gemeinsam mit uns die neuen CDN-Konfigurationsfunktionen, mit denen Sie sowohl die Leistung als auch die Sicherheit Ihrer AEM as a Cloud Service-Programme verbessern können. In dieser Sitzung werden Sie Folgendes entdecken:
 
-Erfahren Sie mehr über das von Adobe verwaltete CDN in AEM Cloud Service und dessen Konfiguration. Erkunden Sie gemeinsam mit uns die neuen CDN-Konfigurationsfunktionen, mit denen Sie sowohl die Leistung als auch die Sicherheit Ihrer AEM as a Cloud Service-Programme verbessern können. In dieser Sitzung werden Sie Folgendes entdecken:
-
-* Was ist das Adobe-CDN?
+* Was ist das Adobe CDN?
 * Relevante Topologien für AEMaaCS und Edge Delivery Services
 * Typische Anwendungsfälle, die mit CDN-Regeln implementiert werden können
 * Verwenden von RDEs zum schnellen Testen und Bereitstellen von CDN-Konfigurationen
@@ -50,11 +51,11 @@ Haben Sie eine Frage, vielleicht einen Kommentar?  Beteiligen Sie sich an der Di
 
 * **Konfigurations-Pipeline** Bereitstellen von YAML-Dateien zum Konfigurieren von CDN-Regeln.
 * **Traffic-Schutz** Verwenden Sie Traffic-Filterregeln, um Traffic basierend auf Mustern zu blockieren, zu protokollieren und zu warnen.
-* **Ratenbegrenzung** Protect gegen DDoS-Angriffe durch Begrenzung der Anzahl der Anfragen pro IP.
+* **Ratenbegrenzung** Schützen Sie sich vor DDoS-Angriffen, indem Sie die Anzahl der Anfragen pro IP begrenzen.
 
 ### Tools und Analyse
 
-* **Elasticsearch-Kibana** Stapel, Nutzung und Traffic mit bereitgestellten Dashboards analysieren.
+* **Elasticsearch Kibana-Stack** Analysieren Sie die Nutzung und den Traffic mit den bereitgestellten Dashboards.
 * **Protokollweiterleitung** Leiten Sie Protokolle zur Analyse an eine Splunk-Instanz weiter.
 
 ### Demo-Highlights
