@@ -27,7 +27,7 @@ Sparen Sie Zeit durch Kopieren und Einfügen der unten stehenden Berechnungen.
 >[!NOTE]
 >
 >Die Syntax für benutzerdefinierte Feldberechnungen hat sich seit der Präsentation im Jahr 2019 geändert. Die in der Präsentation angegebenen Konzepte und anderen Anweisungen sind jedoch weiterhin korrekt.
->>**Die folgenden Berechnungen wurden aktualisiert, um die neuesten Syntaxregeln widerzuspiegeln.**
+>&#x200B;>**Die folgenden Berechnungen wurden aktualisiert, um die neuesten Syntaxregeln widerzuspiegeln.**
 
 **Erstes Commit-Datum**
 
