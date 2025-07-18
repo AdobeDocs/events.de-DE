@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Erschließen Sie das volle Potenzial von Adobe Managed CDN mit anpassbaren CDN-Regeln, WAF-Schutz und der Konfigurations-Pipeline. Marius Petria, Sr. Computer Scientist bei Adobe, Quentin Vecchio, Software Development Engineer bei Adobe, und Florian Froese, Software Development Engineer bei Adobe, teilen Strategien zur Verbesserung der Leistung und Sicherheit von Adobe Experience Manager as a Cloud Service-Anwendungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440401/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440611/?learn=on&enablevpops&captions=ger)
 
 ## Community-Diskussion
 
