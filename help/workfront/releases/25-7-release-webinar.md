@@ -27,5 +27,5 @@ Das Webinar mit den neuesten Workfront-Funktionsverbesserungen in der Version vo
 Links zum Slide Deck und zum Experience League Community Post mit den Fragen und Antworten finden Sie weiter unten,
 
 * [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/0710125+-+Adobe+Workfront+Third+Quarter+Release+Webinar.pdf)
-* [Experience League-Community-Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-third-quarter-release-webinar/td-p/763800)
-* Weitere Informationen zu den Versionsfunktionen finden Sie auf der Seite „Versionsübersicht[ im dritten Quartal 2025](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q3/25-q3-release-overview).
+* [Experience League-Community-Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-third-quarter-release-webinar/td-p/763800?profile.language=de)
+* Weitere Informationen zu den Versionsfunktionen finden Sie auf der Seite „Versionsübersicht[ im dritten Quartal 2025](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/release-25-q3/25-q3-release-overview).
