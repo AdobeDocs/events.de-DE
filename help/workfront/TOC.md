@@ -3,9 +3,9 @@ user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
 solution: Workfront
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -13,14 +13,19 @@ ht-degree: 1%
 
 # Workfront-Ereignisse {#workfront-recordings}
 
-+ [Workfront-Benutzergruppen und Webinare](overview.md)
++ [Workfront On-Demand-Workshops](overview.md)
 
++ Webinare veröffentlichen {#releases}
+   + [Version 25.7](releases/25-7-release-webinar.md)
+   + [Version 25.4](releases/25-4-release-webinar.md)
+   + [Version 25.1](releases/25-1-release-webinar.md)
+   + [Version 24.1](releases/24-1-release-webinar.md)
 + Top 3 {#top3}
    + [Creative-Ansätze mit Blueprints](top3/blueprints.md)
 + Versus! {#versus}
    + [Gruppen vs. Teams](versus/groups-vs-teams.md)
 + Experteneinblicke {#expert-insights}
-+[Anfrage-Warteschlangen mit Lyndsy Denk](expert-insights/request-queues.md)
+   + [Anfrage-Warteschlangen mit Lyndsy Denk](expert-insights/request-queues.md)
 + Workshop-Rückspulen {#workshop-rewind}
    + Workflow {#workflow}
       + [Creative-Methoden zum Verwalten von Ressourcen](classics/creative-ways-of-managing-resources.md)
@@ -63,9 +68,5 @@ ht-degree: 1%
    + Anfrage-Warteschlangen und -Aufnahme {#request-queues-and-intake}
       + [Anfrage-Warteschlangen und Aufnahme-Forms](user-groups/request-queues-and-intake-forms.md)
 
-+ Versionen {#releases}
-   + [Version 25.7](releases/25-7-release-webinar.md)
-   + [Version 25.4](releases/25-4-release-webinar.md)
-   + [Version 25.1](releases/25-1-release-webinar.md)
-   + [Version 24.1](releases/24-1-release-webinar.md)
+
 
