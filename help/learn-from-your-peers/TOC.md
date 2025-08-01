@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Sammlung von Aufzeichnungen aus [!DNL Experience Makers Learn from your peers]
-source-git-commit: 97016d0d62c2eefca2fd305fedc093c814e3bcc9
+source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '334'
 ht-degree: 20%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 20%
    + Mai {#may2023}
       + [Meistern von Inhalten und Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
-   + Mai 2025 {#may2025}
+   + Mai 2025 {#may2025}
       + [Entdecken Sie die Wirkung interaktiver Webinare](marketo/may2025/interactive-webinars.md)
    + November 2024 {#nov2024}
       + [Erweiterte Segmentierungsprüfungen](marketo/nov2024/advanced-segmentation.md)
@@ -114,4 +114,5 @@ ht-degree: 20%
          + [Was ist Workfront Governance?](workfront/2022/03/what-is-workfront-governance.md)
       + Februar {#february}
          + [Grundlegendes zur Benutzerverwaltung](workfront/2022/02/understanding-user-management.md)
++ [Erkunden von Adobe-Benutzergruppen in Experience Cloud](./adobe-user-groups.md)
 + [Erfahren Sie, wie Sie sich bewerben und als Champion auffallen können](./adobe-champion-application.md)
