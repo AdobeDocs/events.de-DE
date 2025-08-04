@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3492
 last-substantial-update: 2025-08-01T00:00:00Z
 jira: KT-18677
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+exl-id: b0344cef-66f3-4882-b0d8-eb2e298a08d2
+source-git-commit: 64d09d3316d604d92d1186e3785e64ac1bbaa800
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # Erkunden von Adobe-Benutzergruppen in Experience Cloud
 
@@ -26,11 +26,7 @@ Wenn Sie mit Adobe Experience Cloud-Lösungen arbeiten und Ihre Kenntnisse erwei
 
 ## Sitzungsübersicht
 
-Diese Sitzung behandelte,
-
 * Erfahren Sie, was Benutzergruppen sind und wie sie Zusammenarbeit, Problemlösung und Kompetenzaufbau unterstützen.
 * Hier erhalten Sie praktische Anleitungen dazu, wie Sie einer Benutzergruppe beitreten oder eine Gruppe bilden können, einschließlich verfügbarer Ressourcen, Tools und Unterstützung von Adobe.
 * Erfahren Sie direkt von aktiven Benutzergruppenleitern in AEM, Analytics, Marketo Engage und Workfront, wie sie durch Peer-to-Peer-Lernen professionell wachsen und echte Herausforderungen lösen konnten.
 * Entdecken Sie Führungsmöglichkeiten, z. B. als Benutzergruppenleiter oder als Mitglied einer Benutzergruppe teilnehmen zu können.
-
-
