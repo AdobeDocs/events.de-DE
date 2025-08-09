@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Willkommen bei einer weiteren Folge von Expert Insights!  Ich bin Cynthia Boon, Ihre „On-Demand“ Workfront CSM und freue mich, Ihnen mitteilen zu können, dass wir die einzige und einzige haben, Madalyn Destafney, die einige ihrer umfangreichen Erfahrungen teilt, um Kunden bei der Implementierung und Messung von Service Level Agreements (SLAs) mit Workfront zu helfen. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469987/?learn=on&enablevpops&captions=ger)
 
 Wie im Video versprochen, haben wir Madalyns Präsentation mit ihren Schritten, berechneten Ausdrücken und Berichtsbeispielen verknüpft. 
 
