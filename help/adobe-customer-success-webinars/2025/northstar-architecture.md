@@ -1,19 +1,20 @@
 ---
 title: 'In: EA Northstar Architecture Planning'
 description: Das Webinar zum lösungsübergreifenden Architekturdesign behandelte den Wert und die Erstellung von Northstar-Diagrammen mit wichtigen Erkenntnissen für Entwickler, Führungskräfte und Benutzer.
+solution: General
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3546
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18244
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 54e7d661-eecb-42ec-8bff-7776bafbdb31
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # In: EA Northstar Architecture Planning
 

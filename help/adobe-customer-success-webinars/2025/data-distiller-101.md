@@ -1,19 +1,20 @@
 ---
 title: Data Distiller 101
 description: Das Data Distiller 101-Webinar stellt seine Funktionen in den Bereichen Datensegmentierung, Anreicherung und KI/ML-Integration vor und bietet skalierbare Lösungen für Datenarchitekten und Marketing-Entitäten, um datengestützte Entscheidungsfindungen zu verbessern.
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2659
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17375
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: 111724c4-a20b-4b18-b600-c285f54195a8
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # Data Distiller 101
 
@@ -39,7 +40,7 @@ Im Webinar wurden fünf grundlegende Anwendungsfälle für Data Distiller hervor
 
 * Erstellen von markenorientierten Datenmodellen für ein südamerikanisches Einzelhandelsunternehmen.
 * E-Mails mit dem besten Angebot mit personalisierten Daten für ein Telekommunikationsunternehmen anreichern.
-* Datenoptimierung für Reporting- und Attributionsmodellierung für einen Luxuseinzelhändler.
+* Optimieren von Daten für die Reporting- und Attributionsmodellierung für eine Luxus-retailer.
 * Anpassen von Insights für operatives Dashboard.
 * Nutzung von KI- und ML-Funktions-Pipelines für Trainings- und Scoring-Modelle.
 

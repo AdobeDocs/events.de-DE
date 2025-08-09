@@ -1,6 +1,7 @@
 ---
 title: GenAI-Experimente in AJO und seine Beziehung zu Adobe Target
 description: Im Rahmen des Treffens wurden die Funktionen des KI-Inhaltsbeschleunigers bei der Generierung von Text, Bildern und HTML, Inhaltsexperimente über Adobe Journey Optimizer, die Integration mit Adobe Target zur Optimierung und Personalisierung, verschiedene Anwendungsfälle für kombinierte Tools und zukünftige Entwicklungen einschließlich erweiterter KI-Funktionen hervorgehoben.
+solution: Journey Optimizer, Target
 feature: AI Assistant, Generative AI
 topic: Artificial Intelligence
 role: Admin, Developer, Leader, User
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2016
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17374
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: f085fe77-4025-4121-bd2a-24ec1436be93
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
 
 ---
-
 
 # GenAI-Experimente in AJO und seine Beziehung zu Adobe Target
 
@@ -27,7 +28,7 @@ Dieses Webinar vermittelt ein tieferes Verständnis dafür, wie der Content Acce
 * Inhaltsexperimente und Optimierung
 * Generative KI
 
->[!VIDEO](https://video.tv.adobe.com/v/3444468/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
 
 ## Wichtige Erkenntnisse
 

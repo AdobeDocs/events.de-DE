@@ -2,10 +2,10 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 0%
+source-wordcount: '475'
+ht-degree: 4%
 
 ---
 
@@ -14,44 +14,58 @@ ht-degree: 0%
 
 + [Kundenerfolgs-Webinare zu Adobe](overview.md)
 + 2025 {#2025}
-   + [AEMs aufkommende Technologie](2025/personalized-experiences-aem.md)
-   + [AEM mit GenAI](2025/aem-genai.md)
-   + [Integration von AEM und Workfront](2025/aem-workfront-integration.md)
-   + [KI und Adobe Target](2025/ai-adobe-target.md)
-   + [KI - Über die Grundlagen hinaus](2025/ai-beyond-basics.md)
-   + [KI-Laufwerksautomatisierung in Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
-   + [Best Practices und Erkenntnisse für die Modellierung von XDM-Schemata](2025/model-xdm-schemas.md)
-   + [Erstellen effektiver Web-Seiten](2025/build-effective-web-pages.md)
-   + [Grundlagen zur Inhaltslieferkette](2025/content-supply-chain-basics.md)
-   + [Konzeption von Strategien für effektive Messung](2025/impactful-insights.md)
-   + [Agile-Marketing-Organisation kultivieren](2025/agile-marketing-organization.md)
-   + [Data Distiller 101](2025/data-distiller-101.md)
-   + [Optimierung digitaler Erlebnisse mit KI-Einblicken](2025/accelerating-digital-experience-optimization.md)
-   + [Digitale Trends und Vorbereitung auf die Zukunft](2025/digital-trends-preparing-future.md)
-   + [Förderung der Kundeninteraktion](2025/driving-customer-engagement.md)
-   + [Treueprogramme durch Personalization und Daten verbessern](2025/enhance-loyalty-programs.md)
-   + [Verbessern von Personalization](2025/enhancing-personalization.md)
-   + [Grundlegende Architektur](2025/cja-vision.md)
-   + [GenAI-Experiment](2025/gen-ai-experimentation.md)
-   + [GenStudio for Performance Marketing-Betriebsmodell](2025/genstudio-for-performance-marketing-operating-model.md)
-   + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
-   + [Meistern von AEM Sites](2025/mastering-aem-sites.md)
-   + [Meistern von Digital Asset Manager in AEM Content Hub](2025/mastering-dam-aem-content-hub.md)
-   + [Beherrschen der sequenziellen Logik - Visual Framework](2025/mastering-sequential-logic.md)
-   + [Beherrschen der sequenziellen Logik - Start stoppt](2025/sequential-logic-start-stop.md)
-   + [Migration von Adobe Analytics zu CJA](2025/analytics-to-cja-migration.md)
-   + [New Relic Essentials für AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
-   + [Northstar Architecture](2025/northstar-architecture.md)
-   + [Optimieren der AEM-Leistung](2025/optimize-aem-performance.md)
-   + [Digitale Kommunikation personalisieren](2025/personalize-digital-communications.md)
-   + [Nutzen-Roadmap für CJA](2025/roadmap-to-value-cja.md)
-   + [Gewinner des Executive Sponsoring für AEP-Projekte](2025/exec-sponsorship-aep-projects.md)
-   + [Grundlagen und Best Practices zu Workfront Fusion](2025/adobe-workfront-fusion-best-practices.md)
-   + [Workfront und JIRA](2025/workfront-and-jira.md)
-   + [Intelligenteres Marketing beginnt hier - Integration von Google und Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
-   + [Stand der Einführung von Digital- und GenAI](2025/state-of-digital-and-genai-adoption-webinar.md)
-   + [Transformieren von B2B- und B2B2C-Commerce](2025/transforming-b2b-commerce.md)
-   + [Urlaubsergebnisse 2024 und Trends für 2025](2025/adobe-digital-insights.md)
+   + Commerce {#commerce2025}
+      + [Transformieren von B2B- und B2B2C-Commerce](2025/transforming-b2b-commerce.md)
+   + Customer Journey Analytics {#cja2025}
+      + [Entwerfen eines Betriebsmodells für CJA Success](2025/cja-operating-model.md)
+      + [Grundlegende Architektur](2025/cja-vision.md)
+      + [Migration von Adobe Analytics zu CJA](2025/analytics-to-cja-migration.md)
+      + [Nutzen-Roadmap für CJA](2025/roadmap-to-value-cja.md)
+      + [Intelligenteres Marketing beginnt hier - Integration von Google und Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
+   + Experience Manager {#aem2025}
+      + [AEMs aufkommende Technologie](2025/personalized-experiences-aem.md)
+      + [AEM mit GenAI](2025/aem-genai.md)
+      + [Integration von AEM und Workfront](2025/aem-workfront-integration.md)
+      + [Erstellen effektiver Web-Seiten](2025/build-effective-web-pages.md)
+      + [Förderung der Kundeninteraktion](2025/driving-customer-engagement.md)
+      + [Enrollment Journey mit AEM Forms](2025/payer-enrollment-journey.md)
+      + [Meistern von AEM Sites](2025/mastering-aem-sites.md)
+      + [Meistern von Digital Asset Manager in AEM Content Hub](2025/mastering-dam-aem-content-hub.md)
+      + [Meistern von Dynamic Media mit Open API](2025/dynamic-media-open-ai.md)
+      + [New Relic Essentials für AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
+      + [Optimieren der AEM-Leistung](2025/optimize-aem-performance.md)
+      + [Digitale Kommunikation personalisieren](2025/personalize-digital-communications.md)
+   + Experience Platform {#aep2025}
+      + [KI - Über die Grundlagen hinaus](2025/ai-beyond-basics.md)
+      + [Best Practices und Erkenntnisse für die Modellierung von XDM-Schemata](2025/model-xdm-schemas.md)
+      + [Data Distiller 101](2025/data-distiller-101.md)
+      + [Gewinner des Executive Sponsoring für AEP-Projekte](2025/exec-sponsorship-aep-projects.md)
+   + GenStudio for Performance Marketing {#genstudio2025}
+      + [GenStudio for Performance Marketing-Betriebsmodell](2025/genstudio-for-performance-marketing-operating-model.md)
+   + Journey Optimizer {#ajo2025}
+      + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
+   + Mehrfachlösung {#multisolution2025}
+      + [Grundlagen zur Inhaltslieferkette](2025/content-supply-chain-basics.md)
+      + [Optimierung digitaler Erlebnisse mit KI-Einblicken](2025/accelerating-digital-experience-optimization.md)
+      + [Treueprogramme durch Personalization und Daten verbessern](2025/enhance-loyalty-programs.md)
+      + [Verbessern von Personalization](2025/enhancing-personalization.md)
+      + [GenAI-Experiment](2025/gen-ai-experimentation.md)
+      + [Beherrschen der sequenziellen Logik - Visual Framework](2025/mastering-sequential-logic.md)
+      + [Beherrschen der sequenziellen Logik - Start stoppt](2025/sequential-logic-start-stop.md)
+   + Target {#target2025}
+      + [KI und Adobe Target](2025/ai-adobe-target.md)
+   + Allgemein {#general2025}
+      + [Urlaubsergebnisse 2024 und Trends für 2025](2025/adobe-digital-insights.md)
+      + [Konzeption von Strategien für effektive Messung](2025/impactful-insights.md)
+      + [Agile-Marketing-Organisation kultivieren](2025/agile-marketing-organization.md)
+      + [Digitale Trends und Vorbereitung auf die Zukunft](2025/digital-trends-preparing-future.md)
+      + [Northstar Architecture](2025/northstar-architecture.md)
+      + [Stand der Einführung von Digital- und GenAI](2025/state-of-digital-and-genai-adoption-webinar.md)
+   + Workfront {#workfront2025}
+      + [KI-Laufwerksautomatisierung in Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
+      + [Grundlagen und Best Practices zu Workfront Fusion](2025/adobe-workfront-fusion-best-practices.md)
+      + [Workfront und JIRA](2025/workfront-and-jira.md)
+
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Targets KI-gesteuertes Personalization](2024/ai-personalization.md)

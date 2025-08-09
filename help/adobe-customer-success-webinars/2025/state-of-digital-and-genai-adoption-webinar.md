@@ -1,19 +1,20 @@
 ---
 title: Adobe Digital Insights - Webinar zum Stand der Einführung von Digital- und GenAI
 description: Entdecken Sie wichtige Trends im Einzelhandel und auf Reisen von Adobe, unterstützt durch 1T+-Site-Visits - GenAI, Mobile, KPIs und Customer Insights, um das Wachstum zu fördern.
+solution: General
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3531
 last-substantial-update: 2025-05-20T00:00:00Z
 jira: KT-18108
-source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
+exl-id: 2158dece-ff41-42e7-b000-96172a707599
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Digital Insights: Webinar zum Stand der Einführung von Digital- und GenAI
 
