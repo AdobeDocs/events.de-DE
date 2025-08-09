@@ -25,20 +25,20 @@ Dieser Workshop wurde am 29. Mai 2025 aufgezeichnet und beinhaltete unser Adobe 
 ## Ressourcen
 
 * [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Adobe+Workfront+Data+Connect+052925.pdf)
-* [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725)
+* [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725?profile.language=de)
 
 ## Zusammenfassung 
 
-* Was ist [Data Connect](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/data-lake/data-lake-overview)? Eine sichere und skalierbare Lösung, die geschäftliche Einblicke bietet, indem Workfront-Daten mit Visualisierungs-Tools wie Tableau, Power BI, Domo und Looker verbunden werden.
+* Was ist [Data Connect](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/data-lake/data-lake-overview)? Eine sichere und skalierbare Lösung, die geschäftliche Einblicke bietet, indem Workfront-Daten mit Visualisierungs-Tools wie Tableau, Power BI, Domo und Looker verbunden werden.
 * Es ist im Ultimate-Paket enthalten, aber für diejenigen unter Prime und Select als Add-on ($) verfügbar. Wenden Sie sich an Ihr Konto-Team , um weitere Informationen zu erhalten.
 * Auch wenn wir Ihnen (zumindest im Moment) keine Testfahrt zum Spielen anbieten können, können Sie sich jederzeit an Ihr Account-Team wenden, um zu sehen, ob es mit einer personalisierten Demo helfen kann, um Ihr Anliegen zur Führung zu führen.
-* **Experience League-**: Enthält [Terminologiezuordnungstabellen](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/data-lake/data-dictionary), mit denen sich zwischen Workfront-Schnittstellennamen, API-Referenzen und Data-Lake-Feldnamen übersetzen lässt.
+* **Experience League-**: Enthält [Terminologiezuordnungstabellen](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/data-lake/data-dictionary), mit denen sich zwischen Workfront-Schnittstellennamen, API-Referenzen und Data-Lake-Feldnamen übersetzen lässt.
 * **Aktuelle Funktionen** Data Connect unterstützt derzeit über 110 Workfront-Objekte (seit 70 bei der Einführung im Oktober), wobei die Daten alle 4 Stunden aktualisiert werden. Sie bietet drei Arten von Ansichten: Aktueller Status, Momentaufnahmen des täglichen Verlaufs und Transaktionsereignisdaten für die historische Analyse.
 * **Kunden-Anwendungsfälle** Kunden verwenden Data Connect zur Überwachung von Benutzeraktivitäten, Identifizierung von Prozessengpässen, Status-Zeit-Tracking, Compliance-Prüfungen, SLA-Tracking, Kapazitätsplanung und Verbindung von Workfront-Daten mit externen Datensätzen in ihren bestehenden Data Warehouses. 
 
-Wenn Sie weitere Fragen zu Matt haben oder mitteilen möchten, wie Sie Data Connect verwenden, beantworten Sie bitte diesen [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725)!
+Wenn Sie weitere Fragen zu Matt haben oder mitteilen möchten, wie Sie Data Connect verwenden, beantworten Sie bitte diesen [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725?profile.language=de)!
 
 
-Wir hoffen, Sie bei zukünftigen Customer Success-Workshops begrüßen zu dürfen!  Sehen Sie sich unbedingt die [Workfront Events](https://experienceleague.adobe.com/events/?filters=Workfront) auf Experience League an, um die vollständige Liste zu erhalten und sich zu registrieren.
+Wir hoffen, Sie bei zukünftigen Customer Success-Workshops begrüßen zu dürfen!  Sehen Sie sich unbedingt die [Workfront Events](https://experienceleague.adobe.com/events/?lang=de&filters=Workfront) auf Experience League an, um die vollständige Liste zu erhalten und sich zu registrieren.
 
 

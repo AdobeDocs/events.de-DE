@@ -37,7 +37,7 @@ Sie werden überrascht sein über all die fantastischen Ideen, die sie teilt, da
 
 ## Ressourcen
 
-Während der Veranstaltung erwähnte Kiersten zwei Ressourcen, die wir der [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315) angehängt haben.
+Während der Veranstaltung erwähnte Kiersten zwei Ressourcen, die wir der [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=de) angehängt haben.
 * **Beispielbericht** - Aufgabenberichte nach Geschäftszeiten 
 * **Leitplanken für das DSW** Feedback-Routing: Dies ist ein fantastisches Beispiel dafür, wie Sie Ihren Benutzerinnen und Benutzern beibringen können, Updates in Workfront bereitzustellen! 
 

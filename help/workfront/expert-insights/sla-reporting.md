@@ -33,15 +33,15 @@ Wie im Video versprochen, haben wir Madalyns Präsentation mit ihren Schritten, 
 
 Während der Präsentation teilte Madalyn ihre benutzerdefinierten Formulare und berechneten Felder. Wenn Sie also gerade erst mit diesen Funktionen beginnen, finden Sie hier einige Links, die Sie in die richtige Richtung weisen. 
 
-* Tutorial-Wiedergabeliste - [Erstellen und Freigeben benutzerdefinierter Forms](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
+* Tutorial-Wiedergabeliste - [Erstellen und Freigeben benutzerdefinierter Forms](https://experienceleague.adobe.com/de/playlists/workfront-create-and-manage-custom-forms)
 
-* Artikel - [Erste Schritte mit berechneten Feldern und Ausdrücken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artikel - [Erste Schritte mit berechneten Feldern und Ausdrücken](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Tipps und Tricks - [Berechnete Felder, die jeder kennen sollte - und wie man darüber berichtet!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Tipps und Tricks - [Berechnete Felder, die jeder kennen sollte - und wie man darüber berichtet!](https://experienceleague.adobe.com/de/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Interessieren Sie sich für weitere Tipps von Madalyn? Sehen Sie sich ihre Tipps und Tricks in der Workfront Community an! 
 
-* [Dienstag - Technische Bytes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
+* [Dienstag - Technische Bytes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=de#M2742)
 
 ## Über den Sprecher 
 

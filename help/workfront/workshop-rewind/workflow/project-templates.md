@@ -25,7 +25,7 @@ Dieser Workshop wurde am 8. April 2025 aufgezeichnet und beinhaltete Ross Barton
 Neben der On-Demand-Aufzeichnung haben wir auch das Dia-Deck und Tipps einbezogen, die im Chat geteilt wurden:  
 
 * [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
+* [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=de)
 
 ## Tipps
 
@@ -39,4 +39,4 @@ Neben der On-Demand-Aufzeichnung haben wir auch das Dia-Deck und Tipps einbezoge
 
 Eines der größten Themen, das wir im Chat sahen, war die Herausforderung, Projektvorlagen einfach zu halten, aber gleichzeitig den Aufwand zu verfolgen und sicherzustellen, dass Teams alle Schritte ausführen, die zum Abschließen des Projekts erforderlich sind.  
 
- Wir hoffen, Sie bei zukünftigen Customer Success-Workshops begrüßen zu dürfen!  Sehen Sie sich unbedingt die [Workfront Events](https://experienceleague.adobe.com/events/?filters=Workfront) auf Experience League an, um die vollständige Liste zu erhalten und sich zu registrieren.
+ Wir hoffen, Sie bei zukünftigen Customer Success-Workshops begrüßen zu dürfen!  Sehen Sie sich unbedingt die [Workfront Events](https://experienceleague.adobe.com/events/?lang=de&filters=Workfront) auf Experience League an, um die vollständige Liste zu erhalten und sich zu registrieren.

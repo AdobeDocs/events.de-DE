@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Expert Insights - Anfrage-Warteschlangen mit Lyndsy Denk
 
-Willkommen bei Expert Insights!  Ich bin Cynthia Boon, Ihre „On-Demand“ Workfront CSM und für diese Folge haben wir Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167) ! Wir besprechen Lyndsys Workfront-Story und gehen dann in ihre Helpdesk-Anfragewarteschlange ein.
+Willkommen bei Expert Insights!  Ich bin Cynthia Boon, Ihre „On-Demand“ Workfront CSM und für diese Folge haben wir Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=de) ! Wir besprechen Lyndsys Workfront-Story und gehen dann in ihre Helpdesk-Anfragewarteschlange ein.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
 
@@ -36,15 +36,15 @@ Während unseres Chats teilte Lyndsy Folgendes mit:
 
 Wie versprochen, hier sind die Ressourcen, die wir besprochen haben, zusammen mit einigen zusätzlichen Links für Anfrage-Warteschlangen und Warteschlangen-Themen:
 
-* Ressourcen zum Thema [Verwalten einer geerbten Instanz](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) enthalten den Link zum Webinar und Details zum [Blueprint-Tutorial](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
+* Ressourcen zum Thema [Verwalten einer geerbten Instanz](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) enthalten den Link zum Webinar und Details zum [Blueprint-Tutorial](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
 
-* Dokumentation zu Anforderungswarteschlangen: [Warteschlangenthemen erstellen](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* Dokumentation zu Anforderungswarteschlangen: [Warteschlangenthemen erstellen](https://experienceleague.adobe.com/de/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* Lyndsys Webinar-Präsentation für [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096): Kommunikation mit Endbenutzern (diese Seite enthält auch einen Link zum [Endbenutzer-Comms-Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
+* Lyndsys Webinar-Präsentation für [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=de): Kommunikation mit Endbenutzern (diese Seite enthält auch einen Link zum [Endbenutzer-Comms-Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=de))
 
-* Lyndsys [Skill Exchange-Präsentationsressourcen](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
+* Lyndsys [Skill Exchange-Präsentationsressourcen](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=de#M3642)
 
-* Und vergiss nicht, die [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) Ask Me ANYTHING About Workfront Proof zu besuchen, wo Lyndsy zusammen mit Monique Evans und Richard Carlson deine Fragen rund um Proofing beantwortet hat!
+* Und vergiss nicht, die [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=de) Ask Me ANYTHING About Workfront Proof zu besuchen, wo Lyndsy zusammen mit Monique Evans und Richard Carlson deine Fragen rund um Proofing beantwortet hat!
 
 ## Über den Sprecher 
 
