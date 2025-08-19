@@ -1,7 +1,6 @@
 ---
 title: Adobe Campaign Classic-Bereitstellungsleistung - Fehlerbehebung
 description: In dieser Sitzung wurden wichtige Strategien zur Verbesserung der E-Mail- und SMS-Versandleistung mit Adobe Campaign behandelt. Sie löste häufig auftretende Probleme wie Bereitstellungsverzögerungen, geringen Durchsatz und langsame Transaktionen und bietet Lösungen wie Batch-Optimierung, SQL-Protokollierung und Server-Leistungsüberwachung. Zu den Best Practices für die Zustellbarkeit gehörten die ordnungsgemäße E-Mail-Authentifizierung (SPF, DKIM, DMARC), die Überwachung auf schwarzen Listen und Spam-Prüfungen. Um die Leistung zu verbessern, haben Experten saubere Workflows, Einschränkungsregeln und das Vermeiden von freigegebenen Containern empfohlen. Tipps zum SMS-Versand mit Fokus auf die ordnungsgemäße Einrichtung externer Konten und Protokollanalyse. Die Sitzung konzentrierte sich auch auf die Tracking-Validierung, die Datenbankwartung mithilfe von aufgeblähten Berichten und die Anwendung von Druck-/Ermüdungsregeln zur Steigerung der Interaktion. Eine Sitzungsaufzeichnung wird per E-Mail freigegeben und auf der Adobe Experience Site veröffentlicht.
-version: Classic v7
 solution: Campaign Classic v7
 product: Adobe Campaign
 feature: SMS, Deliverability, Troubleshooting
@@ -11,13 +10,13 @@ doc-type: Event
 duration: 2257
 last-substantial-update: 2025-04-25T00:00:00Z
 jira: KT-17869
-source-git-commit: 373605f79b3122382e221252232a26535ff3109b
+exl-id: a7e1e198-b63b-4a2a-9ffc-7f72bf4c61c1
+source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
 
 ---
-
 
 # Technische Sitzungen: Adobe Campaign Classic-Bereitstellungsleistung - Fehlerbehebung
 

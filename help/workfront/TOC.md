@@ -3,9 +3,9 @@ user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
 solution: Workfront
-source-git-commit: 1ea39689a5a29311da7930039b7d5fc308c296b0
+source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '210'
 ht-degree: 1%
 
 ---
@@ -26,9 +26,11 @@ ht-degree: 1%
 + Versus! {#versus}
    + [Gruppen vs. Teams](versus/groups-vs-teams.md)
 + Experteneinblicke {#expert-insights}
+   + [Inhaltslieferkette](expert-insights/content-supply-chain.md)
    + [Nicht traditionelle Workfront-Workflows](expert-insights/non-traditional-workfront-workflows.md)
    + [Anfrage-Warteschlangen mit Lyndsy Denk](expert-insights/request-queues.md)
    + [SLA-Reporting in Workfront](expert-insights/sla-reporting.md)
+   + [Enterprise Work Management](expert-insights/enterprise-work-management.md)
 + Workshop-Rückspulen {#workshop-rewind}
    + Integrationen {#integrations}
       + [Einfaches Navigieren in Feldern mit Mehrfachauswahl](workshop-rewind/integrations/mulit-select-fields.md)

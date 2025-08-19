@@ -2,9 +2,9 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '484'
 ht-degree: 4%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 4%
    + Commerce {#commerce2025}
       + [Transformieren von B2B- und B2B2C-Commerce](2025/transforming-b2b-commerce.md)
    + Customer Journey Analytics {#cja2025}
+      + [Sponsoring durch Führungskräfte](2025/cja-success.md)
+      + [Strategien für das Änderungsmanagement](2025/cja-adoption.md)
       + [Entwerfen eines Betriebsmodells für CJA Success](2025/cja-operating-model.md)
       + [Grundlegende Architektur](2025/cja-vision.md)
       + [Migration von Adobe Analytics zu CJA](2025/analytics-to-cja-migration.md)
@@ -35,6 +37,7 @@ ht-degree: 4%
       + [New Relic Essentials für AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
       + [Optimieren der AEM-Leistung](2025/optimize-aem-performance.md)
       + [Digitale Kommunikation personalisieren](2025/personalize-digital-communications.md)
+      + [Überblick über den universellen Editor](2025/modern-aem-authoring.md)
    + Experience Platform {#aep2025}
       + [KI - Über die Grundlagen hinaus](2025/ai-beyond-basics.md)
       + [Best Practices und Erkenntnisse für die Modellierung von XDM-Schemata](2025/model-xdm-schemas.md)
@@ -52,7 +55,7 @@ ht-degree: 4%
       + [GenAI-Experiment](2025/gen-ai-experimentation.md)
       + [Beherrschen der sequenziellen Logik - Visual Framework](2025/mastering-sequential-logic.md)
       + [Beherrschen der sequenziellen Logik - Start stoppt](2025/sequential-logic-start-stop.md)
-   + Target {#target2025}
+   + Ziel {#target2025}
       + [KI und Adobe Target](2025/ai-adobe-target.md)
    + Allgemein {#general2025}
       + [Urlaubsergebnisse 2024 und Trends für 2025](2025/adobe-digital-insights.md)
