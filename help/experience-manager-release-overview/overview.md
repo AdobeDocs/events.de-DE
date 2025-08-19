@@ -35,7 +35,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-6-0.md" title="Übersichtsvideo zur AEM-Version 2025.06.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470878/?format=jpeg&nocache=1755640186432" alt="Übersichtsvideo zur AEM-Version 2025.06.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470887/?format=jpeg&nocache=1755640186432&captions=ger" alt="Übersichtsvideo zur AEM-Version 2025.06.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,7 +58,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-5-0.md" title="Übersichtsvideo zur AEM-Version 2025.5.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464307/?format=jpeg&nocache=1755640186479" alt="Übersichtsvideo zur AEM-Version 2025.5.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464359/?format=jpeg&nocache=1755640186479&captions=ger" alt="Übersichtsvideo zur AEM-Version 2025.5.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +81,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-4-0.md" title="Übersichtsvideo zur AEM-Version 2025.04.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463991/?format=jpeg&nocache=1755640186489" alt="Übersichtsvideo zur AEM-Version 2025.04.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464011/?format=jpeg&nocache=1755640186489&captions=ger" alt="Übersichtsvideo zur AEM-Version 2025.04.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -104,7 +104,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-3-0.md" title="Übersichtsvideo zur AEM-Version 2025.3.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463859/?format=jpeg&nocache=1755640186459" alt="Übersichtsvideo zur AEM-Version 2025.3.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463874/?format=jpeg&nocache=1755640186459&captions=ger" alt="Übersichtsvideo zur AEM-Version 2025.3.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -150,7 +150,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="Übersichtsvideo zur AEM-Version 2025.01.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1755640186447" alt="Übersichtsvideo zur AEM-Version 2025.01.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456083/?format=jpeg&nocache=1755640186447&captions=ger" alt="Übersichtsvideo zur AEM-Version 2025.01.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -221,7 +221,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="Übersichtsvideo zur AEM-Version 2025.01.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1755640186852" alt="Übersichtsvideo zur AEM-Version 2025.01.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456083/?format=jpeg&nocache=1755640186852&captions=ger" alt="Übersichtsvideo zur AEM-Version 2025.01.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -244,7 +244,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-11-0.md" title="Übersichtsvideo zur AEM-Version 2024.11.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440920/?format=jpeg&nocache=1755640186871" alt="Übersichtsvideo zur AEM-Version 2024.11.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440929/?format=jpeg&nocache=1755640186871&captions=ger" alt="Übersichtsvideo zur AEM-Version 2024.11.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -336,7 +336,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-7-0.md" title="Übersichtsvideo zur AEM-Version 2024.7.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1755640186889" alt="Übersichtsvideo zur AEM-Version 2024.7.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432540/?format=jpeg&nocache=1755640186889&captions=ger" alt="Übersichtsvideo zur AEM-Version 2024.7.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -382,7 +382,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-5-0.md" title="Übersichtsvideo zur AEM-Version 2024.5.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1755640186927" alt="Übersichtsvideo zur AEM-Version 2024.5.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448071/?format=jpeg&nocache=1755640186927&captions=ger" alt="Übersichtsvideo zur AEM-Version 2024.5.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -405,7 +405,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-4-0.md" title="Übersichtsvideo zur AEM-Version 2024.4.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1755640186936" alt="Übersichtsvideo zur AEM-Version 2024.4.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446318/?format=jpeg&nocache=1755640186936&captions=ger" alt="Übersichtsvideo zur AEM-Version 2024.4.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -428,7 +428,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-3-0.md" title="Übersichtsvideo zur AEM-Version 2024.3.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1755640186944" alt="Übersichtsvideo zur AEM-Version 2024.3.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3450616/?format=jpeg&nocache=1755640186944&captions=ger" alt="Übersichtsvideo zur AEM-Version 2024.3.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -451,7 +451,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-1-0.md" title="Übersichtsvideo zur AEM-Version 2024.1.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1755640186954" alt="Übersichtsvideo zur AEM-Version 2024.1.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448938/?format=jpeg&nocache=1755640186954&captions=ger" alt="Übersichtsvideo zur AEM-Version 2024.1.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

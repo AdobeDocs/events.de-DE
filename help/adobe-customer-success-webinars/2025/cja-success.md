@@ -20,7 +20,7 @@ ht-degree: 0%
 
 In unserer vierten Sitzung gehen wir darauf ein, wie der Mangel an starkem Executive Sponsoring die Entscheidungsfindung, Budgetzuweisung und das Änderungsmanagement verzögern wird. In diesem Webinar erkunden wir, welche wichtige Rolle Führungskräfte bei der Förderung von Adobe Customer Journey Analytics-Programmen, der Ausrichtung funktionsübergreifender Teams und der Förderung messbarer Geschäftsergebnisse spielen. Lernen Sie praktische Strategien kennen, um leitende Stakeholder einzubinden, den Wert effektiv zu kommunizieren und eine Kultur datengestützter Entscheidungsfindung aufzubauen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470863/?learn=on&enablevpops&captions=ger)
 
 ## Erstellen von Business Cases
 
