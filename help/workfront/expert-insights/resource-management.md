@@ -27,21 +27,21 @@ Suchen Sie nach Hinweisen zu den ersten Schritten mit dem Ressourcen-Management?
 
 ## Ressourcen
 
-Funktionswarnung!  Sehen Sie sich die Details unter [Neues Feld Arbeitszeit](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519) an: Jetzt können Sie die Benutzerkapazität anpassen UND die Verfügbarkeit basierend auf dem Zeitplan des Benutzers berechnen.
+Funktionswarnung!  Sehen Sie sich die Details unter [Neues Feld Arbeitszeit](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855?profile.language=de#M519) an: Jetzt können Sie die Benutzerkapazität anpassen UND die Verfügbarkeit basierend auf dem Zeitplan des Benutzers berechnen.
 
 Suchen Sie nach Möglichkeiten, Ihre Daten besser zu analysieren, um sicherzustellen, dass Sie bereit sind? Schauen Sie sich den Katalog der einsatzbereiten Blueprints an!
 
-[Verwenden Sie Workfront-Blueprints, um Ihre Arbeitsverwaltungsumgebung zu optimieren!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+[Verwenden Sie Workfront-Blueprints, um Ihre Arbeitsverwaltungsumgebung zu optimieren!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=de)
 
 Suchen Sie nach dem Unterschied zwischen dem Ressourcenplaner und dem Workload-Balancer? Im Folgenden finden Sie einige kurze Videos:
 
-* [Was ist der Ressourcenplaner?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en)
-* [Arbeit im Workload Balancer zuweisen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=en)
+* [Was ist der Ressourcenplaner?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=de)
+* [Arbeit im Workload Balancer zuweisen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=de)
 
 Da der Ressourcenplaner und der Workload Balancer zwei verschiedene Tools innerhalb der Ressourcenverwaltungsfunktion sind, ist es von entscheidender Bedeutung, die Filter in beiden zu verstehen. Weitere Informationen finden Sie hier:
 
-* [Filtern von Informationen im Ressourcenplaner](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=en)
-* [Filtern von Informationen im Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en)
+* [Filtern von Informationen im Ressourcenplaner](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=de)
+* [Filtern von Informationen im Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=de)
 
 ## Über den Sprecher
 

@@ -34,9 +34,9 @@ Natalie teilte ihre bevorzugten Agile-Ressourcen während des Interviews so wie 
 
 Auf der Suche nach einfachen Einstiegsmöglichkeiten? Sehen Sie sich diese Artikel und kurze Videodemos an:
 
-* [Frühzeitiges Opt-in für Adobe Workfront-Boards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [Erstellen oder Bearbeiten einer Pinnwand - enthält Beschreibungen der einzelnen Pinnwand-Vorlagen](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Adobe Workfront-Boards - kurze Videodemonstrationen](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Frühzeitiges Opt-in für Adobe Workfront-Boards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=de)
+* [Erstellen oder Bearbeiten einer Pinnwand - enthält Beschreibungen der einzelnen Pinnwand-Vorlagen](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=de)
+* [Adobe Workfront-Boards - kurze Videodemonstrationen](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=de)
 
 ## Über den Sprecher
 
