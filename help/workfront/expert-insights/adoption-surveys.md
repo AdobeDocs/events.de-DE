@@ -35,7 +35,7 @@ Während der Präsentation besprachen Jaime und Danielle einige zusätzliche Res
 * [Workfront Admin-Chat - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Umfrage zur Benutzerakzeptanz bei Workfront](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-Möchten Sie mehr Informationen über die Akzeptanz und das allgemeine Onboarding? Schau dir unseren Blog an! - [Neue Workfront-Kunden! Willkommen beim Adobe Workfront Customer Success Onboarding-Blog!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
+Möchten Sie mehr Informationen über die Akzeptanz und das allgemeine Onboarding? Schau dir unseren Blog an! - [Neue Workfront-Kunden! Willkommen beim Adobe Workfront Customer Success Onboarding-Blog!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=de)
 
 ## Über den Sprecher
 

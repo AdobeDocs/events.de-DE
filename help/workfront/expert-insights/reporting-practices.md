@@ -41,15 +41,15 @@ Seien Sie dabei, wenn ich mit Nichole über ihre Rolle als Reporting-Guru bei On
 
 ## Ressourcen
 
-* **Blog** - [Sparen Sie Zeit durch berechnete benutzerdefinierte Felder](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
-* **Artikel** - [Berechnete Datenausdrücke]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=en#:~:text=Sie können Datenausdrücke verwenden, die ein neues Feld generieren.&amp;text=Weitere Informationen zum Erstellen von Daten in einem benutzerdefinierten Formular.)
-* **Ereignisnachbereitung** - [Workshop zu berechneten benutzerdefinierten Feldern](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
-* **Community** - [Reporting Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* **Blog** - [Verwenden Sie Workfront-Blueprints, um Ihre Arbeitsverwaltungsumgebung zu optimieren!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+* **Blog** - [Sparen Sie Zeit durch berechnete benutzerdefinierte Felder](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237?profile.language=de)
+* **Artikel** - [Berechnete Datenausdrücke]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=de#:~:text=Sie können Datenausdrücke verwenden, die ein neues Feld generieren.&amp;text=Weitere Informationen zum Erstellen von Daten in einem benutzerdefinierten Formular.)
+* **Ereignisnachbereitung** - [Workshop zu berechneten benutzerdefinierten Feldern](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725?profile.language=de)
+* **Community** - [Reporting Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=de#M1406)
+* **Blog** - [Verwenden Sie Workfront-Blueprints, um Ihre Arbeitsverwaltungsumgebung zu optimieren!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=de)
    * *Erste Schritte* - In diesem Blog finden Sie weitere Informationen zu den Berichtspaketen „Systemwartungs-Dashboard“ und „Nutzungs-Dashboard“. 
    * *Bonus-Tipp!* - Abonnieren Sie den Blog, um Benachrichtigungen zu erhalten, wenn neue Blueprints veröffentlicht werden. 
-* **Artikel** - [Platzhalterfiltervariablen](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en)
-* **Artikel** - [Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansicht](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* **Artikel** - [Platzhalterfiltervariablen](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=de)
+* **Artikel** - [Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansicht](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=de)
 
 ## Über den Sprecher
 
