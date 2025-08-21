@@ -3,10 +3,10 @@ user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
 solution: Workfront
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 1%
+source-wordcount: '227'
+ht-degree: 2%
 
 ---
 
@@ -26,13 +26,15 @@ ht-degree: 1%
 + Versus! {#versus}
    + [Gruppen vs. Teams](versus/groups-vs-teams.md)
 + Experteneinblicke {#expert-insights}
-   + [Adoption](expert-insights/adoption.md)
+   + [Einführung](expert-insights/adoption.md)
    + [Umfragen zur Akzeptanz](expert-insights/adoption-surveys.md)
+   + [Agile](expert-insights/agile.md)
    + [Inhaltslieferkette](expert-insights/content-supply-chain.md)
    + [Verschmelzung](expert-insights/fusion.md)
    + [Governance und Exzellenzzentren](expert-insights/centers-of-excellence.md)
    + [Nicht traditionelle Workfront-Workflows](expert-insights/non-traditional-workfront-workflows.md)
    + [Berichtspraktiken](expert-insights/reporting-practices.md)
+   + [Ressourcenverwaltung](expert-insights/resource-management.md)
    + [Anfrage-Warteschlangen mit Lyndsy Denk](expert-insights/request-queues.md)
    + [SLA-Reporting in Workfront](expert-insights/sla-reporting.md)
    + [Enterprise Work Management](expert-insights/enterprise-work-management.md)
@@ -42,6 +44,7 @@ ht-degree: 1%
       + [Erschließung echter Ereigniskosten](workshop-rewind/integrations/event-costs.md)
    + Planung {#planning}
       + [Erfolg auf Teamebene mit Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [Neueste Informationen zu Workfront Planning](workshop-rewind/planning/workfront-planning.md)
    + Workflow {#workflow}
       + [Creative-Methoden zum Verwalten von Ressourcen](classics/creative-ways-of-managing-resources.md)
       + [E-Mail-Benachrichtigungen verwalten](workshop-rewind/workflow/email-notifications.md)
