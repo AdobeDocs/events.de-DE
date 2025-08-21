@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Suchen Sie nach Hinweisen zu den ersten Schritten mit dem Ressourcen-Management? Begleiten Sie Ihren On-Demand-Workfront-CSM zu einem Gespräch mit unserer erfahrenen Adobe Workfront-Ressourcenmanagementexpertin Corinna Jevons und erkunden Sie die häufigsten Fragen und Best-Practice-Ansätze zur Implementierung dieser Workfront-Funktion.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469890/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469912/?learn=on&enablevpops&captions=ger)
 
 ## Ressourcen
 

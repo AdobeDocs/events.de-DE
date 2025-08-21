@@ -26,7 +26,7 @@ ht-degree: 0%
 
 Hier ist Ihr On-Demand Workfront CSM, und ich bin mit einem neuen Video wieder da!  Dieses Mal haben wir eine Präsentation von einem unserer fantastischen Kunden, Jaime Davidson von Cognizant!  Während unserer November Connect-Veranstaltung bot sie ihr Zeit und ihr Fachwissen an und teilte ihre Erfahrungen und Ressourcen zur Implementierung von Umfragen zur Workfront-Einführung mit. *Bonus!* Unsere ganz eigene Workfront CSM, gibt Danielle Johnston auch ihre Erkenntnisse und Empfehlungen weiter!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469959/?learn=on&enablevpops&captions=ger)
 
 ## Ressourcen
 

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Willkommen zurück zu einem neuen Expert Insights-Interview, dieses Mal mit Ratschlägen zu den Best Practices für die ersten Schritte mit Agile in Ihrer Organisation. Begleiten Sie Ihren On-Demand Workfront CSM zu einem Gespräch mit unserer ansässigen Adobe Workfront Agile-Expertin Natalie Mitchell und erkunden Sie die allgemeinen Fragen und Empfehlungen zur Implementierung der Agile-Methode mit Ihren Teams.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469891/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469925/?learn=on&enablevpops&captions=ger)
 
 ## Ressourcen
 
