@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3470
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18628
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 79a28ff0-7f89-4d71-80e4-6f9cd5c07380
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 1%
 
 ---
-
 
 # Schneller Einstieg, intelligente Skalierung: Aktivierung des Erfolgs auf Team-Ebene mit Workfront Planning
 
@@ -35,7 +35,7 @@ Im Folgenden finden Sie einige zusätzliche Schnelllinks zu Ressourcen, die Ihne
 
 ### Training
 
-* [Planen Sie mit Adobe Workfront Ihren Weg zum Erfolg](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077?profile.language=de)
+* [Planen Sie mit Adobe Workfront Ihren Weg zum Erfolg](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
 * [Handbuch - Ihr Workfront-Planungs-GPS](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
 ### Schulungsvideos planen
@@ -44,9 +44,7 @@ Im Folgenden finden Sie einige zusätzliche Schnelllinks zu Ressourcen, die Ihne
 * [Erstellen einer Workspace (Erste Schritte mit der Grundlage für die Planung)](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
 * [Erstellen und Verwalten eines Datensatztyps](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
 * [Erstellen und Verwalten von Tabellenansichten](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [Dokumentation: Adobe Workfront Planning Overview](https://experienceleague.adobe.com/de/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [Adobe Workfront Planning-Versionsaktivität](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [Dokumentation: Adobe Workfront Planning Overview](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [Adobe Workfront Planning-Versionsaktivität](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-In Kürze werden weitere Veranstaltungen zur Workfront-Planung verfügbar sein. Besuchen Sie daher regelmäßig die [Veranstaltungsseite auf Experience League](https://experienceleague.adobe.com/events/?lang=de&filters=Workfront), damit Sie sie nicht verpassen!
-
-
+In Kürze werden weitere Veranstaltungen zur Workfront-Planung verfügbar sein. Besuchen Sie daher regelmäßig die [Veranstaltungsseite auf Experience League](https://experienceleague.adobe.com/events/?filters=Workfront), damit Sie sie nicht verpassen!

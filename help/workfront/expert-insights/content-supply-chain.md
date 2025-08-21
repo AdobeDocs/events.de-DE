@@ -11,13 +11,13 @@ doc-type: Event
 duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: f8600288-a19b-440c-b60d-94078014353e
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights - Content Supply Chain mit Core Kombol
 
@@ -53,4 +53,4 @@ Sie ist in der Identifikation von Kundenbedürfnissen, der Entwicklung maßgesch
 
 ## Haben Sie etwas zu teilen?
 
-Haben Sie eine großartige Geschichte zu teilen, entweder während einer Veranstaltung oder in einem Expert Insights-Video? Wenden Sie sich unter [CSatScale@adobe.com|mailto:CSatScale@adobe.com] an unser Team.
+Haben Sie eine großartige Geschichte zu teilen, entweder während einer Veranstaltung oder in einem Expert Insights-Video? Wenden Sie sich unter [CSatScale@adobe.com](mailto:CSatScale@adobe.com) an unser Team.
