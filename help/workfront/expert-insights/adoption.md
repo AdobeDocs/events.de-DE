@@ -25,7 +25,7 @@ Adoption ist ein Thema, auf das wir regelmäßig zurückkommen. In dieser Ausgab
 
 Workfront Seien Sie dabei, wenn ich mit Leslie darüber spreche, warum Adoption ein so wichtiges Thema ist, zusammen mit einigen unserer Lieblingsstrategien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469936/?learn=on&enablevpops&captions=ger)
 
 ## Tipps, Ratschläge und mehr
 

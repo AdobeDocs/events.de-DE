@@ -27,7 +27,7 @@ Für die Platte ist sie genauso großartig, intelligent und großzügig zu arbei
 
 Seien Sie dabei, wenn ich mit Nichole über ihre Rolle als Reporting-Guru bei On-Demand Workfront CSM spreche, über ihre Lieblingsfeatures und -tipps und darüber, wie wir alle „mehr wie Nichole“ sein können! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469974/?learn=on&enablevpops&captions=ger)
 
 ## Tipps
 

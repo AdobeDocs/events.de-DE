@@ -33,7 +33,7 @@ Sie werden überrascht sein über all die fantastischen Ideen, die sie teilt, da
 * Initiieren von Creative Brief-Überprüfungen, um die Anforderungen ihrer Benutzenden und Projekte zu erfüllen. 
 * *BONUS!* Sie teilt auch ein Beispiel für einen ihrer Lieblings-Fusion-Anwendungsfälle!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469948/?learn=on&enablevpops&captions=ger)
 
 ## Ressourcen
 
