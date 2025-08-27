@@ -2,9 +2,9 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '490'
 ht-degree: 4%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 4%
       + [Agile-Marketing-Organisation kultivieren](2025/agile-marketing-organization.md)
       + [Digitale Trends und Vorbereitung auf die Zukunft](2025/digital-trends-preparing-future.md)
       + [Northstar Architecture](2025/northstar-architecture.md)
+      + [KI-gesteuertes Wachstum und Playbooks mit Spitzenleistungen](2025/ai-driven-growth.md)
       + [Stand der Einführung von Digital- und GenAI](2025/state-of-digital-and-genai-adoption-webinar.md)
    + Workfront {#workfront2025}
       + [KI-Laufwerksautomatisierung in Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
