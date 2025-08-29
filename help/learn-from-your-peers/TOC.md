@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Sammlung von Aufzeichnungen aus [!DNL Experience Makers Learn from your peers]
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+source-git-commit: fd99debc943f21bd6454e8cce91b8cf3e0770738
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '338'
 ht-degree: 20%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 20%
    + Februar {#feb2024}
       + [Kommunikation, Anforderungen und Tests in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+   + August {#aug2025}
+      + [Smart-Tags für AEM](experience-manager/aug2025/smart-tags.md)
    + Juli {#jul2024}
       + [Erfolge im großen Maßstab freischalten](experience-manager/july2024/global-digital-presence.md)
    + November {#nov2023}
