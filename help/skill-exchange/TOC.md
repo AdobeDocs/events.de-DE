@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Sammlung von Aufzeichnungen von Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '722'
 ht-degree: 9%
 
 ---
@@ -133,6 +133,9 @@ ht-degree: 9%
       + [Tipps für die Bewältigung komplexer Journey in Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [Journey jenseits der E-Mail](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
+   + August 2025 {#aug2025}
+      + [Verbessern der Datenkategorisierung](marketo/2025/aug/data-categorization-with-ai.md)
+      + [Straffung der Folgemaßnahmen](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + August 2024 {#aug2024}
       + [Keynote zur Eröffnung](marketo/aug2024/keynote.md)
       + [Erweiterte Anwendungen von Interaktionsprogrammen](marketo/aug2024/advanced-applications-engagment-programs.md)
@@ -166,6 +169,12 @@ ht-degree: 9%
       + [Berichte innerhalb von [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Tipps und Tricks zu Ultimate für Ihre Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + August 2025 {#aug2025}
+      + [Keynote zur Eröffnung](workfront/2025/aug/keynote.md)
+      + [Erweiterter Textmodus](workfront/2025/aug/advanced-text-mode.md)
+      + [Automatisieren der Erstellung von Benutzerkonten mit Fusion](workfront/2025/aug/fusion-user-account-creation.md)
+      + [Kompetenzzentrum](workfront/2025/aug/center-of-excellence.md)
+      + [Meistern der KI-Tools von Workfront](workfront/2025/aug/workfront-ai-tools.md)
    + August 2024 {#aug2024}
       + [Keynote zur Eröffnung](workfront/aug2024/keynote.md)
       + [Anpassen des Workload Balancer](workfront/aug2024/workload-balancer.md)
