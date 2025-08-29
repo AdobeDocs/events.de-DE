@@ -31,4 +31,4 @@ Erfahren Sie, wie Adobe Experience Platform und agentische KI die Erstellung dig
 Nutzen Sie diese Erkenntnisse, um Ihre Workflows zu optimieren, die Personalisierung zu verbessern und Ihr Know-how im Bereich Digital Experience Management zukunftssicher zu machen.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3471327/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471364/?learn=on&enablevpops&captions=ger)
