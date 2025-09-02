@@ -1,6 +1,7 @@
 ---
 title: Vorbereiten Ihres Workfront-Unternehmens auf ein Exzellenzzentrum
 description: Erfahren Sie, wie Sie mit Governance-Strategien, Executive Sponsoring und Best Practices ein Workfront Center of Excellence starten und skalieren.
+solution: Workfront
 feature: Get Started with Workfront
 role: User
 level: Beginner
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18875
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: b4e3f704-b0a7-4b1e-a2a5-d8ff427ece84
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '370'
 ht-degree: 0%
 
 ---
-
 
 # Vorbereiten Ihres Workfront-Unternehmens auf ein Exzellenzzentrum
 

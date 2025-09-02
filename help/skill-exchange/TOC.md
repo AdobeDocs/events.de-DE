@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Sammlung von Aufzeichnungen von Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '750'
 ht-degree: 9%
 
 ---
@@ -134,6 +134,9 @@ ht-degree: 9%
       + [Journey jenseits der E-Mail](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
    + August 2025 {#aug2025}
+      + [Keynote zur Eröffnung](marketo/2025/aug/opening-keynote.md)
+      + [KI-gestützte Lebenszyklus-Engine](marketo/2025/aug/ai-lifecycle-engine.md)
+      + [Design Studio für globale Marketing-Vorgänge](marketo/2025/aug/design-studio.md)
       + [Verbessern der Datenkategorisierung](marketo/2025/aug/data-categorization-with-ai.md)
       + [Straffung der Folgemaßnahmen](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + August 2024 {#aug2024}
@@ -174,7 +177,10 @@ ht-degree: 9%
       + [Erweiterter Textmodus](workfront/2025/aug/advanced-text-mode.md)
       + [Automatisieren der Erstellung von Benutzerkonten mit Fusion](workfront/2025/aug/fusion-user-account-creation.md)
       + [Kompetenzzentrum](workfront/2025/aug/center-of-excellence.md)
+      + [Aktivieren von Benutzern für neue Funktionen](workfront/2025/aug/enable-users-new-features.md)
+      + [Erste Schritte mit Überprüfungen und Genehmigungen](workfront/2025/aug/review-approval.md)
       + [Meistern der KI-Tools von Workfront](workfront/2025/aug/workfront-ai-tools.md)
+      + [Optimierung von Creative-Workflows mit Workfront und AEM](workfront/2025/aug/workflows-workfront-aem.md)
    + August 2024 {#aug2024}
       + [Keynote zur Eröffnung](workfront/aug2024/keynote.md)
       + [Anpassen des Workload Balancer](workfront/aug2024/workload-balancer.md)

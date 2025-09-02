@@ -1,6 +1,7 @@
 ---
 title: Erhöhen des Workfront-Reportings mit dem erweiterten Textmodus
 description: Erfahren Sie, wie Sie den Adobe Workfront-Textmodus beherrschen, um Spalten zusammenzuführen, benutzerdefinierte Wertausdrücke zu erstellen und dynamische Eingabeaufforderungen für intelligentere Berichte zu erstellen.
+solution: Workfront
 feature: Text Mode Reporting
 speaker-name-1: Nathan Johnson
 speaker-company-1: Adobe
@@ -10,13 +11,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18878
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: 22811352-8232-44b6-af8c-89483a729838
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
-
 
 # Erhöhen des Workfront-Reportings mit dem erweiterten Textmodus
 
