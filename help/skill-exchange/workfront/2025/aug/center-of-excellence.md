@@ -27,7 +27,7 @@ Die Einrichtung eines Kompetenzzentrums (CoE) ist entscheidend für die Förderu
 * **Überlegungen zur Personalausstattung** Erkunden Sie die wichtigsten Aspekte der Personalausstattung Ihres CoE, indem Sie Schlüsselrollen und Verantwortlichkeiten für Ihre Admin-Praxis ermitteln. Wissen, wie man ein Team aufbaut, das die Initiativen Ihres CoE effektiv unterstützen und fördern kann.
 * **Tipps und Tricks** Gewinnen Sie praktische Einblicke und Best Practices für die Verwaltung und Pflege Ihres Code. Entdecken Sie Strategien zur Bewältigung gemeinsamer Herausforderungen, zur Förderung der Zusammenarbeit und zur Sicherstellung kontinuierlicher Verbesserungen. Seien Sie dabei, wenn Sie sich mit dem Wissen und den Tools ausstatten, die Sie benötigen, um ein florierendes Exzellenzzentrum in Ihrem Workfront-Unternehmen zu schaffen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471593/?learn=on&enablevpops&captions=ger)
 
 ## Wichtige Schritte zum Starten Ihres CODE
 

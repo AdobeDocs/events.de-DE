@@ -50,7 +50,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756848631023" alt="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471364/?format=jpeg&nocache=1756848631023&captions=ger" alt="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -183,7 +183,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Keynote zur Eröffnung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1756848632015" alt="Keynote zur Eröffnung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471484/?format=jpeg&nocache=1756848632015&captions=ger" alt="Keynote zur Eröffnung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -365,7 +365,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Vorbereiten Ihres Workfront-Unternehmens auf ein Exzellenzzentrum" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756848632522" alt="Vorbereiten Ihres Workfront-Unternehmens auf ein Exzellenzzentrum"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471593/?format=jpeg&nocache=1756848632522&captions=ger" alt="Vorbereiten Ihres Workfront-Unternehmens auf ein Exzellenzzentrum"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -411,7 +411,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Automatisieren der Erstellung von Workfront-Benutzerkonten mit Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756848632510" alt="Automatisieren der Erstellung von Workfront-Benutzerkonten mit Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471580/?format=jpeg&nocache=1756848632510&captions=ger" alt="Automatisieren der Erstellung von Workfront-Benutzerkonten mit Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -434,7 +434,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="Erste Schritte mit Überprüfungen und Genehmigungen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1756848632551" alt="Erste Schritte mit Überprüfungen und Genehmigungen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471569/?format=jpeg&nocache=1756848632551&captions=ger" alt="Erste Schritte mit Überprüfungen und Genehmigungen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

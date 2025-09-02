@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Sind Sie der E-Mail-Feedback-Schleife müde, wenn Sie versuchen, Genehmigung für ein Asset zu erhalten? Die Überprüfungs- und Genehmigungsfunktion von Workfront ist ein unschätzbares Tool zur Verkürzung von Zykluszeiten, zur Angleichung zwischen Stakeholdern und zur Sicherstellung der Einhaltung von Compliance-Standards. Erfahren Sie mehr über die ersten Schritte mit der neuen Prüf- und Genehmigungsfunktion in Workfront. Wir sprechen auch Empfehlungen für die Umstellung Ihres vorhandenen Proofing-Prozesses in die neue Prüf- und Genehmigungsfunktion an.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471493/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471569/?learn=on&enablevpops&captions=ger)
 
 ## Transformieren von Überprüfung und Genehmigung mit Workfront
 
