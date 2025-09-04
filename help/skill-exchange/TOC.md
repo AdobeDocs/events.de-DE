@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Sammlung von Aufzeichnungen von Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
+source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '837'
 ht-degree: 9%
 
 ---
@@ -31,8 +31,11 @@ ht-degree: 9%
       + [Journey jenseits der E-Mail](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics {#analytics}
    + Aug. 2025 {#aug2025}
+      + [Keynote zur Eröffnung](analytics/2025/aug/opening-keynote.md)
       + [Anpassungen in Adobe Analytics Workspace](analytics/2025/aug/analysis-workspace-customizations.md)
       + [Dashboards liefern keine Einblicke](analytics/2025/aug/dashboards-insights.md)
+      + [Daten-Storytelling mit Analysis Workspace](analytics/2025/aug/data-storytelling.md)
+      + [Daten an PowerPoint](analytics/2025/aug/data-to-powerpoint.md)
       + [Skalierbare Analytics-Workflows](analytics/2025/aug/scalable-workflows.md)
       + [Segmentierung und Personalisierung](analytics/2025/aug/segmentation-personalization.md)
       + [Workspace-Funktionen, die Sie verwenden sollten](analytics/2025/aug/workspace-features.md)
@@ -107,9 +110,18 @@ ht-degree: 9%
       + [Erste Schritte](analytics/jun2021/getting-started.md)
       + [Marketing-Kanäle, bitte verantwortungsvoll nutzen](analytics/jun2021/marketing-channels.md)
       + [Alles zusammenbringen](analytics/jun2021/putting-all-together.md)
++ Customer Journey Analytics {#cja}
+   + August 2025 {#aug2025}
+      + [Keynote zur Eröffnung](cja/2025/aug/opening-keynote.md)
+      + [Customer Journey Analytics Journey Canvas](cja/2025/aug/journey-canvas.md)
+      + [Customer Journey Analytics-Datenmodell](cja/2025/aug/cja-data-model.md)
+      + [Moderne nimmt klassische AA-Rezepte an](cja/2025/aug/modern-takes-classic-aa.md)
+      + [Die Story hinter jeder Journey](cja/2025/aug/story-behind-journey.md)
 + Experience Manager {#aem}
    + August 2025 {#aug2025}
       + [Keynote zur Eröffnung](aem/2025/aug/opening-keynote.md)
+      + [Asset-Workflows, Berechtigungen und Integration](aem/2025/aug/asset-workflows-permissions-integration.md)
+      + [Entwickeln von Berichten und ROI-Metriken für AEM Assets](aem/2025/aug/reports-roi-metrics.md)
       + [Zukunftsfähiges Inhalts-Framework](aem/2025/aug/content-framework.md)
       + [Skalierbares Asset-Management](aem/2025/aug/scalable-asset-management.md)
    + August 2024 {#aug2024}
@@ -143,9 +155,6 @@ ht-degree: 9%
          + [Die Macht der Wiederverwendbarkeit](aem/aug2022/reusability.md)
          + [Steigern des Geschäftswerts durch Personalisierung von Inhalten in AEM](aem/aug2022/personalization.md)
          + [Maximieren der AEM-Implementierung](aem/aug2022/implementation.md)
-+ Customer Journey Analytics {#cja}
-   + August 2025 {#aug2025}
-      + [Moderne nimmt klassische AA-Rezepte an](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
    + August 2025 {#aug2025}
       + [Keynote zur Eröffnung](marketo/2025/aug/opening-keynote.md)
