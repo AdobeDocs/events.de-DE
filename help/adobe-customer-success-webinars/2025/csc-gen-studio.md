@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Dieses Webinar bietet einen allgemeinen Überblick über die moderne Inhaltslieferkette und veranschaulicht, wie Unternehmen die Erstellung und Bereitstellung von Inhalten auf allen Kanälen und in allen Zielgruppen beschleunigen, vereinfachen und steuern können. Die Betrachter erfahren mehr über die integrierte Leistungsfähigkeit von Adobe GenStudio as a -Produktsuite mit AEM Sites, AEM Assets, Workfront und Creative Cloud, die eine Echtzeit-Zusammenarbeit ermöglicht, Workflows automatisiert und eine skalierbare, markeninterne kreative Ausführung ermöglicht. Die Sitzung soll Geschäfts- und IT-Führungskräfte darüber informieren, wie eine einheitliche Plattform für die Bereitstellung von Inhalten die Marketing-Agilität, die kreative Wirkung und das messbare Geschäftswachstum fördern kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472978/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472988/?learn=on&enablevpops&captions=ger)
 
 ## Ermöglichen der nahtlosen Inhaltserstellung mit Adobe
 
