@@ -26,7 +26,7 @@ In dieser Sitzung lernen Admins und DAM-Bibliothekarinnen und -Bibliothekare die
 * Verstehen und Anwenden von Berechtigungen und Zugriffssteuerung in DAM
 * Funktionen von DAM, Best Practices und Integrationsstrategien mit DAM
 
->[!VIDEO](https://video.tv.adobe.com/v/3471383/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471461/?learn=on&enablevpops&captions=ger)
 
 ## Effizientes Digital Asset Management
 

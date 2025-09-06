@@ -23,7 +23,7 @@ Geschäftssinn und ethisches Denken: Treffen Sie intelligente, ethische Entschei
 Research Methodology &amp; Storytelling Craft: Verwandeln Sie Datenergebnisse in überzeugende Narrative für Stakeholder.
 Technische Kompetenz und emotionale Intelligenz: Liefern Sie Unterstützung und Lösungen mit Einfühlungsvermögen, nicht nur mit technischem Geschick.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471201/?learn=on&enablevpops&captions=ger)
 
 ## Entsperren von Analytics für menschliche Auswirkungen
 

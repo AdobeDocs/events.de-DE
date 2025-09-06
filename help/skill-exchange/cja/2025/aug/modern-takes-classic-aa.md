@@ -25,7 +25,7 @@ Sind Sie bereit, Ihre alte Adobe Analytics-Schürze aufzuhängen und in eine mod
 Unabhängig davon, ob Sie Ihre Verarbeitungsregeln vermissen oder versuchen, den perfekten Plan (Datenansicht) für Ihre nächste Analyse zu finden, wird Sie diese Sitzung Schritt für Schritt durch die Küche der modernen Analyse führen.
 Kommen Sie hungrig nach Einblicken - und verlassen Sie Ihre Site mit einer vollständigen Auswahl an CJA-fähigen Techniken
 
->[!VIDEO](https://video.tv.adobe.com/v/3471110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471249/?learn=on&enablevpops&captions=ger)
 
 ## Transformieren von Analytics mit CJA: Wichtige Erkenntnisse
 

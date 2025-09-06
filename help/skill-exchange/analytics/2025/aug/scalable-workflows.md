@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Seien Sie dabei, wenn Adobe-Expertin Ioana Maftei, Senior Analytics Manager bei IBM, erzählt, wie man skalierbare, gesteuerte Analyse-Workflows erstellt, die die Inhaltslieferkette messbar machen. Erfahren Sie, wie Sie den richtigen Mitarbeitern zum richtigen Zeitpunkt die richtigen Erkenntnisse liefern, eine teamübergreifende Zusammenarbeit ermöglichen und Analysis Workspace-Projekte an verschiedene Rollen und Anforderungen anpassen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471238/?learn=on&enablevpops&captions=ger)
 
 ## Zuordnen von Rollen zu Analytics-Stadien
 

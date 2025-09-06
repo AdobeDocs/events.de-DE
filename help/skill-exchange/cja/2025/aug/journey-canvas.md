@@ -24,7 +24,7 @@ Die Teilnehmer lernen, wie sie mit der Analyse auf Journey-Ebene umsetzbare Mög
 
 Schließlich werden wir in Strategien eintauchen, mit denen diese Einblicke unternehmensweit skaliert werden können, indem wir Journey-Canvas-Ergebnisse mit granularen Dashboards verbinden und so eine kontinuierliche Optimierung an jedem Touchpoint ermöglichen. Egal, ob Sie neu bei CJA sind oder bereits ein erfahrener Anwender sind, diese Veranstaltung bietet Ihnen eine klare Methodik für die Verwendung von Journey Canvas, um Ihre CX-Programme zu verbessern und greifbare Ergebnisse zu erzielen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471223/?learn=on&enablevpops&captions=ger)
 
 ## Journey-Arbeitsfläche: Von der Analyse zur Aktivierung
 
