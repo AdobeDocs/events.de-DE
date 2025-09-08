@@ -8,16 +8,16 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 1617cde0fc7e455a4cf9dfb3d1082d9abe79620d
+source-git-commit: aac0d6689d2911380fa548f5fe31a5665f120084
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 4%
+source-wordcount: '157'
+ht-degree: 20%
 
 ---
 
 # Experience League LIVE 
 
-Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-Streaming-Show.  Dort haben Sie Gelegenheit, sich mit Produktexperten von Adobe auszutauschen und praktische Tipps, Tricks und Strategien für die Arbeit mit den Programmen rund um Adobe Experience Cloud kennenzulernen.
+Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-Streaming-Show.  Sie bietet Ihnen eine Gelegenheit, sich mit Produktfachleuten von Adobe auszutauschen und praktische Tipps, Tricks und Strategien für die Arbeit mit den Anwendungen rund um Adobe Experience Cloud zu erhalten.
 
 <div id="upcoming-events">
 
@@ -25,8 +25,8 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-31-25.md">
-              <img alt="Experience League LIVE am 31. Juli" src="episodes/assets/WebBanner-31July2025.png">
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-30-25.md">
+              <img alt="Experience League LIVE 30. September 2025" src="../experience-league-live/assets/30Sept2025_WebBanner.png">
             </a>
             </div>
         </td>
@@ -96,5 +96,5 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 >[!TIP]
 >
->Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/de?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
+>Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
 
