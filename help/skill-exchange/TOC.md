@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Sammlung von Aufzeichnungen von Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: b28e983603f63980fa53b9311d54244c0ee5228a
+source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '843'
 ht-degree: 9%
 
 ---
@@ -203,6 +203,7 @@ ht-degree: 9%
       + [Aktivieren von Benutzern für neue Funktionen](workfront/2025/aug/enable-users-new-features.md)
       + [Erste Schritte mit Überprüfungen und Genehmigungen](workfront/2025/aug/review-approval.md)
       + [Meistern der KI-Tools von Workfront](workfront/2025/aug/workfront-ai-tools.md)
+      + [Profi-Tipps für Benutzerverwaltung und Lizenzierung](workfront/2025/aug/user-management-licensing.md)
       + [Optimierung von Creative-Workflows mit Workfront und AEM](workfront/2025/aug/workflows-workfront-aem.md)
    + August 2024 {#aug2024}
       + [Keynote zur Eröffnung](workfront/aug2024/keynote.md)
