@@ -412,7 +412,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Adobe Experience Manager-Eröffnungs-Keynote" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757465010566" alt="Adobe Experience Manager-Eröffnungs-Keynote"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471405/?format=jpeg&nocache=1757465010566&captions=ger" alt="Adobe Experience Manager-Eröffnungs-Keynote"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -976,7 +976,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/user-management-licensing.md" title="Maximieren der Workfront-Lizenz - Profi-Tipps für Benutzerverwaltung und Lizenzierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757465013296" alt="Maximieren der Workfront-Lizenz - Profi-Tipps für Benutzerverwaltung und Lizenzierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473967/?format=jpeg&nocache=1757465013296&captions=ger" alt="Maximieren der Workfront-Lizenz - Profi-Tipps für Benutzerverwaltung und Lizenzierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
