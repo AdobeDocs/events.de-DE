@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 685c6dde3c7c79dd852742720a258fbae903ccc7
+source-git-commit: a536d27a3c3a57bc51ca768ded7d05e8b1eb44f4
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '578'
 ht-degree: 3%
 
 ---
@@ -21,8 +21,9 @@ ht-degree: 3%
 
 + [Überblick](overview.md)
 + Folgen {#episodes}
-   + [EP.50: Erweitern Sie Ihre mobile Reichweite mit RCS und WhatsApp in Journey Optimizer](/help/experience-league-live/episodes/exl-live-episode-09-30-25.md)
-   + [EP.49: Förderung personalisierter Inhalte in Journey Optimizer mit AEM-Inhaltsfragmenten und Dynamic Media](episodes/exl-live-episode-07-31-25.md)
+   + [EP. 51: Entfesseln Sie die Leistungsfähigkeit von Customer Journey Analytics B2B edition](episodes/exl-live-episode-10-16-25.md)
+   + [EP. 50: Erweitern Sie Ihre mobile Reichweite mit RCS und WhatsApp in Journey Optimizer](episodes/exl-live-episode-09-30-25.md)
+   + [EP. 49: Bereitstellen personalisierter Inhalte in Journey Optimizer mit AEM-Inhaltsfragmenten und Dynamic Media](episodes/exl-live-episode-07-31-25.md)
    + [EP. 48: Übergeordnete Frequenzlimitierung und Konfliktpriorisierung](episodes/exl-live-episode-06-18-25.md)
    + [EP. 47: Agile Workflows für personalisierte Inhalte in großem Maßstab](episodes/exl-live-episode-47-2025-06-05.md)
    + [EP. 46: Content Analytics: Leistung mit KI-Einblicken optimieren](episodes/exl-live-episode-05-22-25.md)
