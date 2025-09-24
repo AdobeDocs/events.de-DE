@@ -1,6 +1,6 @@
 ---
 title: Experience Maker im Blickpunkt - Prozessverbesserungen und betriebliche Effizienz
-description: Wie James Hill, Vice President, Operational Excellence at Synchrony, die Vorteile und die Priorität von Verbesserungen schätzt, die Übernahme von Systemänderungen überwacht und diese Änderungen letztendlich mit den tatsächlichen Geschäftsergebnissen verbindet Beispiele dafür, wie Daniel Clarke, Senior Workfront Consultant bei EMMsphere, Effizienz gefunden hat, um sicherzustellen, dass die Team-Ressourcen so weit wie möglich reichen. Er wird über mehrere erfolgreiche Fusion-Szenarien berichten, über die Methodik, die hinter ihrer Erstellung stand und darüber, wie er den Wert dieser Arbeit mit dem Führungsteam zeigen konnte.“
+description: Wie James Hill, Vice President, Operational Excellence at Synchrony, die Vorteile und die Priorität von Verbesserungen schätzt, die Übernahme von Systemänderungen überwacht und diese Änderungen letztendlich mit den tatsächlichen Geschäftsergebnissen verbindet Beispiele dafür, wie Daniel Clarke, Senior Workfront Consultant bei EMMsphere, Effizienz gefunden hat, um sicherzustellen, dass die Team-Ressourcen so weit wie möglich reichen. Er wird über mehrere erfolgreiche Fusion-Szenarien berichten, über die Methodik, die hinter ihrer Erstellung stand und darüber, wie er den Wert dieser Arbeit mit dem Führungsteam zeigen konnte
 solution: Workfront
 role: User
 level: Intermediate, Experienced
@@ -9,9 +9,9 @@ duration: 2404
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16099
 exl-id: ce5a8f39-c8ac-4a47-baaf-7b105e8b5f5a
-source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
+source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

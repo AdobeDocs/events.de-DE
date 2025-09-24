@@ -1,6 +1,6 @@
 ---
 title: Entfesseln Sie die Leistungsfähigkeit moderner SPAs in AEM - Master Headless- und SPA-Editor-Ansätze
-description: Die Grundlagen von Single Page Applications verstehen, Headless-AEM und seine Integration mit Frontend-Frameworks erkunden. Mit dem AEM-SPA-Editor für einen optimierten Entwicklungsprozess lassen sich Best Practices für das Erstellen, Bereitstellen und Verwalten von SPAs in AEMDon nicht verpassen, um Einblicke von einem Experten zu erhalten und Ihre Digitalstrategie mit modernen SPA-Techniken in AEM zu verbessern.“
+description: Grundlegendes zu Single Page Applications Analysieren von Headless AEM und seiner Integration mit Frontend-Frameworks Verwenden des AEM-SPA-Editors für einen optimierten Entwicklungsprozess Best Practices zum Erstellen, Bereitstellen und Verwalten von SPAs in AEMDenn Sie sich diese Gelegenheit nicht entgehen lassen, Einblicke von einem Experten zu erhalten und Ihre Digitalstrategie mit modernen SPA-Techniken in AEM zu verbessern.
 solution: Experience Manager
 role: Developer, User
 level: Intermediate, Experienced
@@ -10,7 +10,7 @@ last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16095
 exl-id: 7c9fbc23-b458-4d9c-ab38-0c9b032eb704
 hidefromtoc: true
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
