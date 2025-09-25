@@ -2,10 +2,10 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 4%
+source-wordcount: '502'
+ht-degree: 3%
 
 ---
 
@@ -42,6 +42,7 @@ ht-degree: 4%
       + [KI - Über die Grundlagen hinaus](2025/ai-beyond-basics.md)
       + [Best Practices und Erkenntnisse für die Modellierung von XDM-Schemata](2025/model-xdm-schemas.md)
       + [Data Distiller 101](2025/data-distiller-101.md)
+      + [Anwendungsfälle und Fehlerbehebung bei Identitätsdiagrammen](2025/identity-graph.md)
       + [Gewinner des Executive Sponsoring für AEP-Projekte](2025/exec-sponsorship-aep-projects.md)
    + GenStudio for Performance Marketing {#genstudio2025}
       + [Inhaltslieferkette und Adobe GenStudio](2025/csc-gen-studio.md)
