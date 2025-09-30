@@ -8,19 +8,21 @@ event-cta-url-live: https://www.youtube.com/live/Pf5O5b0Ehig
 event-start-time: 2025-09-30 09:00-7
 event-guests: Sandra Hausmann, Travis Jordan, Nikhil Sharma
 exl-id: 963b69d7-8ffa-4bb4-9b1b-980d6d94821f
-source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
+source-git-commit: 8b4b83630e23a9deeaef97c12a5e0850b2347c3e
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
 # Erweitern Sie Ihre mobile Reichweite mit RCS und WhatsApp in Journey Optimizer
 
-In dieser Experience League Live-Show werden Travis Jordan und Nikhil Sharma zeigen, wie Adobe Journey Optimizer kürzlich die mobile Interaktion mit leistungsstarken neuen Kanalerweiterungen und Funktionen, einschließlich WhatsApp, RCS und Custom SMS Provider, erweitert hat.
+Travis Jordan und Nikhil Sharma zeigten, wie Adobe Journey Optimizer kürzlich die mobile Interaktion mit leistungsstarken neuen Kanalerweiterungen und Funktionen, einschließlich WhatsApp, RCS und Custom SMS Provider, erweitert hat.
 
-Erfahren Sie, wie Sie mit diesen neuen Kanälen direkt in Journey Optimizer koordinierte, personalisierte mobile Erlebnisse bereitstellen können, die über den reinen Text hinausgehen und Funktionen wie interaktive Schaltflächen, Karussells, schnelle Antworten und mehr umfassen. Wir erläutern die Vorteile und Unterschiede zwischen RCS und WhatsApp, erläutern die Einrichtung dieser neuen Kanäle, einschließlich API-Anmeldeinformationen und Webhooks, und erläutern, wie Sie diese Kanäle in Ihre bestehende Omni-Channel-Interaktionsstrategie integrieren können.
+Sie haben gezeigt, wie Sie umfassende, personalisierte Erlebnisse für Mobilgeräte bereitstellen können, die über bloßen Text hinausgehen und interaktive Schaltflächen, Karussells, schnelle Antworten und mehr umfassen - alles direkt in Journey Optimizer mit diesen neuen Kanälen orchestriert. Sie erläuterten die Vorteile und Unterschiede zwischen RCS und WhatsApp, erläuterten die Einrichtung dieser neuen Kanäle, einschließlich API-Anmeldeinformationen und Webhooks, und zeigten, wie Sie diese Kanäle in Ihre bestehende Omni-Channel-Interaktionsstrategie integrieren können.
 
-> ![Banner anzeigen](../assets/30Sept2025_WebBanner.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
-[Jetzt registrieren!](https://engage.adobe.com/ExpLeagueLive-250930.html)
+Nehmen Sie an der [Adobe Journey Optimizer Community Ask Me Anything teil!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477) am **Mittwoch, 15. Oktober von 8:00 bis 9:00** werden wir von Adobe Journey Optimizer-Experten begleitet: Nikhil Sharma (@snikhil) - Sr. Engineering Manager, Travis Jordan (@Travis_Jordan) - Principal Product Manager, und Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer.
+
+Wir beantworten Ihre Fragen während dieses Live-Chats.
