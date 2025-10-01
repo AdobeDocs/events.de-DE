@@ -2,9 +2,9 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '511'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 3%
 + [Kundenerfolgs-Webinare zu Adobe](overview.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
+      + [Adobe Commerce mit Adobe Experience Platform anreichern](2025/enriching-adobe-commerce.md)
       + [Transformieren von B2B- und B2B2C-Commerce](2025/transforming-b2b-commerce.md)
    + Customer Journey Analytics {#cja2025}
       + [Sponsoring durch Führungskräfte](2025/cja-success.md)
@@ -39,6 +40,7 @@ ht-degree: 3%
       + [Digitale Kommunikation personalisieren](2025/personalize-digital-communications.md)
       + [Überblick über den universellen Editor](2025/modern-aem-authoring.md)
    + Experience Platform {#aep2025}
+      + [KI-Agenten](2025/ai-agents.md)
       + [KI - Über die Grundlagen hinaus](2025/ai-beyond-basics.md)
       + [Best Practices und Erkenntnisse für die Modellierung von XDM-Schemata](2025/model-xdm-schemas.md)
       + [Data Distiller 101](2025/data-distiller-101.md)
