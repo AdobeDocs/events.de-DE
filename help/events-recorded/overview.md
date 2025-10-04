@@ -49,17 +49,17 @@ Bleiben Sie auf dem Laufenden bei exklusiven Veranstaltungen und Webinaren, um I
 * https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=de
   {title = Adobe Developers Live}
   {description = Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=de}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html?lang=de
   {title = AEM Champion Office Hours}
   {description = If you are interested in advancing your knowledge and use of Adobe Experience Manager, interacting with Experience Manager thought leaders, and earning exclusive swag - then join the AEM Champion Office Hours User Group today!}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png?lang=de}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html?lang=de
   {title = APAC Adobe Commerce Webinars}
   {description = The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png?lang=de}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=de
   {title = Adobe Customer Success Webinars}
@@ -89,7 +89,7 @@ Bleiben Sie auf dem Laufenden bei exklusiven Veranstaltungen und Webinaren, um I
 * https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=de 
   {title = Deep Dives}
   {description = Deep Dive on-demand events recordings help you gain a better understanding how to use Adobe Marketo to support your business.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png?lang=de}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=de
   {title = Experience League LIVE}
@@ -99,7 +99,7 @@ Bleiben Sie auf dem Laufenden bei exklusiven Veranstaltungen und Webinaren, um I
 * https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=de
   {title = Experience Manager GEMS}
   {description = Technical Adobe Experience Manager deep dives delivered by Adobe experts. This series is a compliment of the product documentation and of all other technical channels regarding Adobe Experience Manager, allowing developers to get in touch and go deep on a specific topic.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png?lang=de}
   {cta  = View recordings}Experience Manager GEMS>
 * https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=de
   {title = Experience Manager Release Overview}
@@ -280,7 +280,7 @@ Bleiben Sie auf dem Laufenden bei exklusiven Veranstaltungen und Webinaren, um I
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=de" title="Adobe Developers Live" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png" alt="Adobe Developers Live"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=de" alt="Adobe Developers Live"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -303,7 +303,7 @@ Bleiben Sie auf dem Laufenden bei exklusiven Veranstaltungen und Webinaren, um I
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html?lang=de" title="AEM Champion Office Hours" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png" alt="AEM Champion Office Hours"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png?lang=de" alt="AEM Champion Office Hours"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -326,7 +326,7 @@ Bleiben Sie auf dem Laufenden bei exklusiven Veranstaltungen und Webinaren, um I
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html?lang=de" title="APAC Adobe Commerce-Webinare" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png" alt="APAC Adobe Commerce-Webinare"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png?lang=de" alt="APAC Adobe Commerce-Webinare"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -464,7 +464,7 @@ Bleiben Sie auf dem Laufenden bei exklusiven Veranstaltungen und Webinaren, um I
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=de" title="Tiefe Tauchgänge" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png" alt="Tiefe Tauchgänge"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png?lang=de" alt="Tiefe Tauchgänge"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -510,7 +510,7 @@ Bleiben Sie auf dem Laufenden bei exklusiven Veranstaltungen und Webinaren, um I
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=de" title="EXPERIENCE MANAGER GEMS" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png" alt="EXPERIENCE MANAGER GEMS"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png?lang=de" alt="EXPERIENCE MANAGER GEMS"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
