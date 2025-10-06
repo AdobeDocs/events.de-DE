@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
+source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '601'
 ht-degree: 3%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 3%
 
 + [Überblick](overview.md)
 + Folgen {#episodes}
+   + [EP. 53: Die nächste Ära des Experimentierens: Wie künstliche Intelligenz intelligentere Tests und Wachstum fördert](episodes/exl-live-episode-10-30-25.md)
    + [EP. 52: Adobe Experience Platform Agent Orchestrator](episodes/exl-live-episode-10-22-25.md)
    + [EP. 51: Entfesseln Sie die Leistungsfähigkeit von Customer Journey Analytics B2B edition](episodes/exl-live-episode-10-16-25.md)
    + [EP. 50: Erweitern Sie Ihre mobile Reichweite mit RCS und WhatsApp in Journey Optimizer](episodes/exl-live-episode-09-30-25.md)
