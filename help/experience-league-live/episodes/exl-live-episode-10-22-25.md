@@ -6,10 +6,10 @@ solution: Experience Platform
 feature: AI Assistant
 event-cta-url-live: https://youtube.com/live/WS_DzRmYNzw
 event-start-time: 2025-10-22 08:30-7
-event-guests: Daniel Wright, Namita Krishnan, Huong Vu
-source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
+event-guests: Daniel Wright, Namita Krishnan, Huong Vu, Cole Connelly
+source-git-commit: facacb2fe59edc77e5add50d4b02b08e14030184
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,12 @@ ht-degree: 0%
 
 Adobe Experience Platform Agent Orchestrator ist die neue agentische Schicht in Adobe Experience Platform. Experience Platform Agent Orchestrator wurde entwickelt, um die umfangreichen Daten und das Kundenwissen der Plattform zu nutzen. Es unterstützt die Intelligenz und das Denken der speziell entwickelten Adobe Experience Platform-Experten und ermöglicht es ihnen, komplexe Entscheidungsfindungs- und Problemlösungsaufgaben schnell und skaliert auszuführen - alles unter menschlicher Aufsicht. Über eine Gesprächsoberfläche wie den KI-Assistenten können Benutzer auf diese Agenten und andere KI-Komponenten zugreifen, um höhere Produktivitäts- und Effizienzgewinne zu erzielen.
 
-> ![Banner anzeigen](assets/WebBanner-Oct22-2025.jpg)
+In dieser Sitzung werden wir gemeinsam mit dem Produkt-Team von Experience Platform Agent Orchestrator folgende Themen untersuchen:
+
+* Ein Überblick über Agent Orchestrator und seine neuesten Updates
+* Wie Agent Orchestrator Expertenagenten orchestriert, um messbare Ergebnisse zu erzielen und End-to-End-Anwendungsfälle zu unterstützen
+* Wie Agent Orchestrator das Vertrauen, die Transparenz, die Sicherheit und die Schutzmaßnahmen bietet, die Marken benötigen, um KI-Lösungen selbstbewusst zu verwenden
+
+> ![Banner anzeigen](assets/WebBanner-v2-Oct22-2025.jpg)
 
 [Erinnerung für die Sendung festlegen!](https://youtube.com/live/WS_DzRmYNzw)
