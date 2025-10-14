@@ -32,7 +32,7 @@ In dieser AEM Gem-Sitzung wird beschrieben, wie Sie AEM in einer Produktionsumge
 
 >[!WARNING]
 >
->Die AEM-Versionen 6.4 und älter sind veraltet und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).  Archivierte Versionen der Dokumentation können von dieser Seite [ werden](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
+>Die AEM-Versionen 6.4 und älter sind veraltet und werden nicht mehr von Adobe verkauft.  Adobe empfiehlt ein Upgrade auf die neueste Version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de).  Archivierte Versionen der Dokumentation können von dieser Seite [&#x200B; werden](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=de).
 >
 >Da es sich auf diese Sitzung bezieht, lesen Sie *Oak-Abfragen und -Indizierung: AEM mit MongoDB* in der Dokumentation zu AEM 6.1.
 

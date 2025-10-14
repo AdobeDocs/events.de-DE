@@ -96,7 +96,7 @@ Denken Sie über eine Migration Ihrer Implementierung auf die neue Adobe Web SDK
 
 <br> 
 
-Setzen Sie die Diskussion zu diesem Thema in der [Experience League-Community-Diskussion ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620?profile.language=de#M240).
+Setzen Sie die Diskussion zu diesem Thema in der [Experience League-Community-Diskussion &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620?profile.language=de#M240).
 <br> 
 
 ## Zusätzliche Experience League LIVE-Sitzungen aus dieser Datenerfassungsreihe

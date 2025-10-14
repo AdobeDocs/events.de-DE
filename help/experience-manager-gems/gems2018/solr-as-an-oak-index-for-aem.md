@@ -35,7 +35,7 @@ Datum: 07/18/2018
 
 >[!MORELIKETHIS]
 >
->* [Adobe I/O-Ereignisse - Analytics-Trigger ](aem-analytics-triggers.md)
+>* [Adobe I/O-Ereignisse - Analytics-Trigger &#x200B;](aem-analytics-triggers.md)
 >* [Ermöglichen von leistungsfähigeren Asset-Analysen mit AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 <!-- wrong link, needs to be replaced. removed for now:

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Top 3: Creative-Ansätze mit Blueprints
 
-Hallo zusammen! Ich bin&#39;s, dein „On-Demand Workfront CSM“ und ich bin wieder mit einem anderen Top 3 Video!  Lassen Sie uns dieses Mal über [Blueprints“ ](https://experienceleague.adobe.com/de/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview). Wahrscheinlich haben Sie schon einmal von mir gehört, dass Blueprints die Abkürzung zu Ihrer &quot;Workfront-Arbeit“ sind. Aber was sind die anderen Möglichkeiten, Blueprints zu verwenden, um Ihre Unternehmensanforderungen schneller zu verfolgen?
+Hallo zusammen! Ich bin&#39;s, dein „On-Demand Workfront CSM“ und ich bin wieder mit einem anderen Top 3 Video!  Lassen Sie uns dieses Mal über [Blueprints“ &#x200B;](https://experienceleague.adobe.com/de/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview). Wahrscheinlich haben Sie schon einmal von mir gehört, dass Blueprints die Abkürzung zu Ihrer &quot;Workfront-Arbeit“ sind. Aber was sind die anderen Möglichkeiten, Blueprints zu verwenden, um Ihre Unternehmensanforderungen schneller zu verfolgen?
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465321/?learn=on&enablevpops&captions=ger)
 
