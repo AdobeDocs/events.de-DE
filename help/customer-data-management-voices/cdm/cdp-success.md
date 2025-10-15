@@ -26,4 +26,4 @@ Bei all dem Getöse um CDPs auf dem Markt ist es schwierig zu wissen, worauf man
 
 *[Best Practices für Personen und Prozesse für das Kundendaten-Management](people-and-process.md)
 *[Erstellen Sie mit Ihren First-Party-Daten hervorragende Erlebnisse](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html?lang=de)
-*[Fallstudie - TSB setzt bei jedem Kunden auf Echtzeit-Datenpersonalisierung.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)
+*[Fallstudie - TSB setzt bei jedem Kunden auf Echtzeit-Datenpersonalisierung.](https://business.adobe.com/de/customer-success-stories/tsb-case-study.html)

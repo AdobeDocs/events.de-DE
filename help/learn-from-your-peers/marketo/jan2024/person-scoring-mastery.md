@@ -38,5 +38,5 @@ In diesem Webinar lernen Sie Folgendes:
 * Bewertung von Personen/Leads mit lokalen Einflussübungen - [Arbeitsblatt herunterladen](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * Die große Liste der Lead-Bewertungsregeln - [Arbeitsblatt anzeigen](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
 * Marketo Engage Program Import Library - [Dokumentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html?lang=de){target="_blank"}
-* Lead-Bewertung Alles Wissenswerte zum Prozess vor, während und nach dem - [On-Demand-Webinar](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* Lead-Bewertung Alles Wissenswerte zum Prozess vor, während und nach dem - [On-Demand-Webinar](https://business.adobe.com/de/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * Champion&#39;s take on lead scoring - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}

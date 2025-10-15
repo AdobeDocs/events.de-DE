@@ -37,13 +37,13 @@ Core ist ein wirklich strategisches CSM, das das Tempo vorgibt, mit dem wir Adob
 
 ### Summit-Sitzungen
 
-* [Wie Adobe seine Inhaltslieferkette optimiert hat - S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Erfahren Sie mehr über den Ansatz von Adobe zur Bereitstellung seiner Inhaltslieferkette in seiner eigenen Marketing-Organisation 
-* [Revolutionieren der Inhaltserstellung mit Adobe - S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Entdecken Sie, wie Adobe Ihre Inhaltslieferkette maximieren und Ihren Kreativ-Workflow beschleunigen kann 
+* [Wie Adobe seine Inhaltslieferkette optimiert hat - S316](https://business.adobe.com/de/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Erfahren Sie mehr über den Ansatz von Adobe zur Bereitstellung seiner Inhaltslieferkette in seiner eigenen Marketing-Organisation 
+* [Revolutionieren der Inhaltserstellung mit Adobe - S305](https://business.adobe.com/de/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Entdecken Sie, wie Adobe Ihre Inhaltslieferkette maximieren und Ihren Kreativ-Workflow beschleunigen kann 
 
 ### Produktdemos
 
-* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - da eine interaktive [Produktdemo] erforderlich ist, um den Umfang dessen zu veranschaulichen, was in unserer Enterprise Work Management-Lösung vorhanden sein kann.  
-* [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - Ich finde es toll, wie umfassend dies für unsere Kunden ist, damit sie ihre Anforderungen an Lösungen knüpfen können, die heute bei Adobe vorhanden sind.
+* [Workfront](https://business.adobe.com/de/product-demos/workfront/interactive-tour.html) - da eine interaktive [Produktdemo] erforderlich ist, um den Umfang dessen zu veranschaulichen, was in unserer Enterprise Work Management-Lösung vorhanden sein kann.  
+* [GenStudio](https://business.adobe.com/de/resources/sdk/getting-started-with-adobe-genstudio.html) - Ich finde es toll, wie umfassend dies für unsere Kunden ist, damit sie ihre Anforderungen an Lösungen knüpfen können, die heute bei Adobe vorhanden sind.
 
 ## Über den Sprecher 
 
