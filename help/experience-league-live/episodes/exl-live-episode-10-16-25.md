@@ -26,6 +26,6 @@ Unabhängig davon, ob Sie sich auf die Optimierung von Kundenerlebnissen, die Er
 >[!TIP]
 >
 > Probieren Sie es selbst aus - [Registrieren Sie sich, um auf eine Demo-Umgebung zuzugreifen](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html).
-> &#x200B;> Sie können das Gespräch fortsetzen und den Adobe-Experten im **[Community-Forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#)** Fragen stellen.
+> &#x200B;> Sie können das Gespräch fortsetzen und den Adobe-Experten im **[Community-Forum](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513?profile.language=de#)** Fragen stellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476010/?learn=on&enablevpops)
