@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Sammlung von Aufzeichnungen aus [!DNL Experience Makers Learn from your peers]
-source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '361'
 ht-degree: 20%
 
 ---
@@ -49,9 +49,11 @@ ht-degree: 20%
    + Mai {#may2023}
       + [Meistern von Inhalten und Experience Fragments](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
-   + September 2025 {#sept2025}
+   + September 2025 {#sept2025}
       + [Skalieren der KI-Einführung - Ein Playbook für Genehmigungen](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
+   + Oktober 2025 {#oct2025}
+      + [Erstellen einer Datenhygiene-Strategie](marketo/oct2025/data-hygiene-strategy.md)
    + Mai 2025 {#may2025}
       + [Entdecken Sie die Wirkung interaktiver Webinare](marketo/may2025/interactive-webinars.md)
    + November 2024 {#nov2024}

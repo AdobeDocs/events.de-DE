@@ -10,10 +10,10 @@ event-background-image: exl-event-data-drip.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '23'
-ht-degree: 4%
+source-wordcount: '31'
+ht-degree: 3%
 
 ---
 
@@ -24,4 +24,5 @@ ht-degree: 4%
 + 2025 {#2025}
    + [Adobe Analytics Grundlagen und mehr](2025/adobe-analytics-basics-beyond.md)
    + [Marketing-Kanäle und Attributionsmodellierung](2025/marketing-channel-attribution-modeling.md)
+   + [Migration von einem alten System zu Web SDK](2025/migrating-to-web-sdk.md)
 
