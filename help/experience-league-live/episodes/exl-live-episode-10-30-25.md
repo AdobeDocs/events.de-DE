@@ -7,9 +7,9 @@ feature: AI Assistant, Experimentation
 event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
 event-start-time: 2025-10-30 08:30-8
 event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
-source-git-commit: a3008afc1dc12d723ba7e1d9745f73512cf2379b
+source-git-commit: ab402c86aadd5c2b22f632c31d085e90e05f96c7
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Die nächste Ära des Experimentierens: Wie künstliche Intelligenz intelligentere Tests und Wachstum fördert
 
-Nehmen Sie an einer Experience League Live-Session teil, während wir **Adobe Journey Optimizer Experimentation Accelerator** vorstellen - eine neue KI-First-Anwendung, die entwickelt wurde, um zu transformieren, wie Experimentier-, Produkt- und Wachstumsteams Kampagnen und Kunden-Journey testen, lernen und optimieren.
+In dieser Experience League Live-Sitzung stellen wir **Adobe Journey Optimizer Experimentation Accelerator** vor - eine neue KI-First-Anwendung, die entwickelt wurde, um zu transformieren, wie Experimentier-, Produkt- und Wachstumsteams Kampagnen und Kunden-Journey testen, lernen und optimieren.
 
 Diese neue Anwendung basiert auf dem **Adobe Experience Platform Experimentation Agent** und automatisiert die Experimentanalyse. Gleichzeitig wird der manuelle Aufwand reduziert, sodass Teams folgende Möglichkeiten haben:
 
@@ -30,6 +30,8 @@ Egal, ob Sie Marketing-Experte für Wachstum, Produkt-Manager oder Optimierungss
 
 *Adobe Journey Optimizer Experimentation Accelerator lässt sich nahtlos mit Adobe Target und Journey Optimizer integrieren.*
 
-[![ExL LIVE 17. Januar 2024](/help/experience-league-live/assets/exl-live-episode-10-30-25-web-banner-v2.png)](https://engage.adobe.com/ExpLeagueLive-251030.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3476426/?learn=on&enablevpops)
 
-[Jetzt registrieren!](https://engage.adobe.com/ExpLeagueLive-251030.html)
+Nehmen Sie an der [Adobe Journey Optimizer Community Ask Me Anything teil!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) am Mittwoch, 12. November von 8:00 bis 9:00 Uhr MEZ. Bei uns sein werden Adobe Journey Optimizer-Experten: Cole Connelly (@coleconnelly) - SR Product Manager, Huong Vu (@HuongVu) - Product Marketing Manager, Namita Krishnan (@Namita_Krishnan) - Product Manager, Brent Kostak (@bkostak) - SR Product Marketing Manager, David Arbor (@user03474) - SR Research Scientist, Justin Grover (@justin_grover) - Principal Product Manager, Sandra Hausmann (@SHausmann) - SR Technical Marketing Engineer und Daniel Wright (@dwright) - SR Technical Marketing Engineer.
+
+Wir beantworten Ihre Fragen während dieses Live-Chats.
