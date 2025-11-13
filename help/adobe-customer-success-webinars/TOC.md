@@ -2,10 +2,10 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 3%
+source-wordcount: '547'
+ht-degree: 4%
 
 ---
 
@@ -27,8 +27,10 @@ ht-degree: 3%
       + [Intelligenteres Marketing beginnt hier - Integration von Google und Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
    + Experience Manager {#aem2025}
       + [AEMs aufkommende Technologie](2025/personalized-experiences-aem.md)
+      + [Wichtige Tipps und Best Practices für die AEM Lucene-Suche](2025/aem-lucene-search.md)
       + [AEM mit GenAI](2025/aem-genai.md)
       + [Integration von AEM und Workfront](2025/aem-workfront-integration.md)
+      + [KI-Assistent in AEM](2025/ai-assistant-in-aem.md)
       + [Erstellen effektiver Web-Seiten](2025/build-effective-web-pages.md)
       + [Förderung der Kundeninteraktion](2025/driving-customer-engagement.md)
       + [Enrollment Journey mit AEM Forms](2025/payer-enrollment-journey.md)
@@ -50,6 +52,9 @@ ht-degree: 3%
       + [Inhaltslieferkette und Adobe GenStudio](2025/csc-gen-studio.md)
       + [GenStudio for Performance Marketing-Betriebsmodell](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
+      + [Sponsoring durch Führungskräfte](2025/build-executive-sponsorship-ajo.md)
+      + [Strategien für das Change Management zur Einführung](2025/change-management-strategies.md)
+      + [Entwerfen eines Betriebsmodells](2025/design-an-operating-model-ajo.md)
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
       + [Nutzung einer NorthStar-Architektur](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
       + [Nutzen-Roadmap für Adobe Journey Optimizer](2025/ajo-roadmap-to-value.md)
