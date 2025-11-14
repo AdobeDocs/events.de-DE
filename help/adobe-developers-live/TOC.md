@@ -2,35 +2,35 @@
 user-guide-title: Adobe Developers Live-Ereignisse
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Sammlung von Aufzeichnungen aus dem Adobe Developer Live Content-Ereignis
-source-git-commit: a27c81e245b1dae18bb62135ed2c9e4a60bc0694
+source-git-commit: c069bbf422ed534b7459bf740c3c4df5f1f8cc3a
 workflow-type: tm+mt
-source-wordcount: '911'
-ht-degree: 4%
+source-wordcount: '906'
+ht-degree: 6%
 
 ---
 
 
 # Adobe Developers Live-Ereignisse {#adobe-developers-live-recordings}
 
-+ [Übersicht](overview.md)
++ [Überblick](overview.md)
 + 2024 {#2024}
-   + . November{#nov2024}
+   + November {#nov2024}
       + [Grundgedanke](2024/nov/keynote.md)
       + AEM Cloud Service {#aem-cloud-service}
-         + [AEM-APIs und Eventing](2024/nov/apis-eventing.md)
+         + [AEM-APIs und -Eventing](2024/nov/apis-eventing.md)
          + [Einführung von KI und Personalization in AEM EDS](2024/nov/ai-and-personalization.md)
          + [CDN- und WAF-Konfiguration in AEM CS](2024/nov/cdn-waf-aemcs.md)
          + [Magische Schaltflächen und wie sie erstellt werden](2024/nov/magic-buttons.md)
          + [Schnelle Entwicklungsumgebungen](2024/nov/rapid-development-environments.md)
       + AEM Sites {#aem-sites}
-         + [Eine reale Journey für Edge Delivery Services](2024/nov/journey-to-edge-delivery-services.md)
-         + [Edge Delivery Services - ein Jahr nach sechs, noch besser](2024/nov/edge-delivery-services.md)
+         + [Eine reale Journey zu Edge Delivery Services](2024/nov/journey-to-edge-delivery-services.md)
+         + [Edge Delivery Services - Ein Jahr nach sechs Jahren, noch besser](2024/nov/edge-delivery-services.md)
          + [Extension Manager für AEM Sites](2024/nov/extension-manager.md)
          + [So nutzt Adobe Experience Manager Sites GenAI](2024/nov/aem-sites-gen-ai.md)
          + [HTML mit Web-Komponenten](2024/nov/html-and-web-components.md)
          + [Geschichten aus 200 Gräben](2024/nov/tales-200-trenches.md)
          + [Universeller Editor, AEM-Authoring und Edge Delivery Services](2024/nov/universal-editor-eds.md)
-      + AEM Assets {#aem-assets}
+      + AEM Assets {#aem-assets}
          + [Assets-Migrationsplan](2024/nov/asset-migration-blueprint.md)
          + [Best Practices für einen leistungsstarken Versand](2024/nov/performant-delivery.md)
          + [Verwenden von Dynamic Media mit Open API](2024/nov/dynamic-media-open-api.md)
@@ -44,18 +44,18 @@ ht-degree: 4%
          + [Edge Delivery Services und Adobe Commerce](2024/nov/commerce-storefront-eds.md)
          + [Orchestrieren von Commerce-APIs für Headless-Implementierungen](2024/nov/commerce-api-headless.md)
 + 2023 {#2023}
-   + . November{#nov2023}
+   + November {#nov2023}
       + [Keynote zur Eröffnung](2023/november/keynote.md)
       + [Eröffnungs-Keynote (APAC)](2023/november/keynote-apac.md)
       + [Automatisieren von Inhalts-Workflows mit App Builder](2023/november/content-workflows.md)
       + [Zurück zur Entwicklung und Bereitstellung von Frontkomponenten](2023/november/component-development.md)
       + [Omni-Channel-Inhaltsbereitstellung](2023/november/omnichannel.md)
-      + Edge Delivery Services {#nov-edgedeliveryservices}
+      + Edge-Bereitstellungsdienste {#nov-edgedeliveryservices}
          + [Erstellen einer Website](2023/november/edge-breakout-1.md)
          + [Website-Performance](2023/november/edge-breakout-2.md)
          + [Eine Kundenbereitstellung](2023/november/edge-breakout-3.md)
          + [Dokumentenbasierte Inhaltserstellung](2023/november/deep-dive.md)
-         + [Technische Übersicht für Edge Delivery Services](2023/november/edge-delivery-services-tech-overview.md)
+         + [Technische Übersicht zu Edge Delivery Services](2023/november/edge-delivery-services-tech-overview.md)
       + Headless {#nov-headless}
          + [Headless-APIs](2023/november/headless-breakout-1.md)
          + [Einführung in den universellen Editor](2023/november/intro-universal-editor.md)
@@ -63,7 +63,7 @@ ht-degree: 4%
          + [Universeller Editor](2023/november/headless-breakout-2.md)
          + [Externe Datenquellen](2023/november/headless-breakout-3.md)
       + Commerce {#nov-commerce}
-         + [Adobe App Builder, Adobe IO, Webhooks und Admin UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
+         + [Adobe App Builder, Adobe IO, Webhooks und Admin-UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API-Mesh](2023/november/commerce-breakout-4.md)
          + [Katalog-Services](2023/november/commerce-breakout-1.md)
          + [Commerce-Leistung über Platform bereitstellen](2023/november/commerce-performance.md)
@@ -88,16 +88,16 @@ ht-degree: 4%
       + [Universeller Editor](2023/may/universal-editor.md)
 + 2022 {#2022}
    + Februar - Commerce {#feb2022}
-      + [Übersicht](2022/february/overview.md)
+      + [Überblick](2022/february/overview.md)
       + [Keynote zur Eröffnung](2022/february/opening-keynote.md)
       + [Zustand und Leistung der Adobe Commerce-Plattform](2022/february/visibility-health-performance.md)
       + [Vereinfachen von Upgrades und das Upgrade-Kompatibilitäts-Tool](2022/february/upgrades.md)
-      + [Verbrauchsbasierte Lösungen im Magento Marketplace](2022/february/magento-marketplace.md)
+      + [Verbrauchsbasierte Lösungen in der Magento Marketplace](2022/february/magento-marketplace.md)
       + [Innovation mit Headless-Integrationen](2022/february/headless-integrations.md)
       + [Ein Blick in das Toolkit eines Commerce-Entwicklers](2022/february/developers-toolkit.md)
       + [Schlussbemerkungen](2022/february/closing-remarks.md)
-   + November - Headless-{#nov2022}
-      + [Übersicht](2022/november/overview.md)
+   + November - Headless {#nov2022}
+      + [Überblick](2022/november/overview.md)
       + [Adobe Experience Manager as a Headless-CMS](2022/november/headless-cms.md)
       + [AEM Rockstar Headless](2022/november/rockstar.md)
       + [Integrieren von kontextbezogenem und Headless-Authoring in Ihre Next.js-App](2022/november/next-js.md)
@@ -111,15 +111,15 @@ ht-degree: 4%
       + [Erweiterbarkeit der Benutzeroberfläche und die neue Benutzeroberfläche für Inhaltsfragmente](2022/november/extensibility.md)
       + [Verwenden von App Builder und API Mesh](2022/november/api-mesh.md)
 + 2021 {#2021}
-   + Februar - {#feb2021}
-      + [Übersicht](2021/february/overview.md)
+   + Februar - Inhalt {#feb2021}
+      + [Überblick](2021/february/overview.md)
       + [Adobe Client-Datenschicht](2021/february/adobe-client-data-layer.md)
       + [Adobe Experience Platform SDKs](2021/february/experience-platform-sdk-launch.md)
       + [API-Authentifizierung mit Experience Manager Cloud Service](2021/february/api-authentication.md)
       + [Asset-Massenaufnahme](2021/february/asset-bulk-ingestion.md)
-      + [Asset compute-Service-Erweiterbarkeit](2021/february/asset-compute-service-extensibility.md)
+      + [Erweiterbarkeit des Asset Compute-Services](2021/february/asset-compute-service-extensibility.md)
       + [CIF-Erweiterbarkeit über GraphQL](2021/february/cif-extensibility-graphql.md)
-      + [Inhalt und Commerce mit Experience Manager](2021/february/content-commerce.md)
+      + [Inhalte und Commerce mit Experience Manager](2021/february/content-commerce.md)
       + [Inhaltsbereitstellung mit Experience Manager Cloud Service](2021/february/content-delivery.md)
       + [Benutzerdefinierte Funktionstests](2021/february/custom-functional-tests-cicd.md)
       + [Entwicklererlebnis](2021/february/developer-experience.md)
@@ -142,64 +142,63 @@ ht-degree: 4%
       + [Schnelle Frontend-Entwicklung](2021/february/rapid-frontend-devlopment.md)
       + [SPA-Editor 2.0](2021/february/spa-editor-2-0.md)
       + [Umwandeln einer Site in eine Progressive Web App](2021/february/any-site-into-pwa.md)
-   + . Oktober{#oct2021}
-      + [Übersicht](2021/october/overview.md)
+   + Oktober {#oct2021}
+      + [Überblick](2021/october/overview.md)
       + [Keynote zur Eröffnung](2021/october/keynote.md)
       + [Beschleunigung des Wechsels zu Experience Manager CS](2021/october/accelerate-transistion.md)
       + [Adobe [!DNL Analytics] APIs, die Sie im Jahr 2021 kennen sollten](2021/october/analytics-api.md)
       + [Adobe Client-Datenschicht](2021/october/adobe-client-data-layer.md)
       + [Adobe Commerce und das Beitragsmodell der Gemeinschaft](2021/october/community-contribution-model.md)
-      + [Adobe Commerce Live-Suchergebnisse](2021/october/adobe-commerce-search.md)
       + [Adobe Exchange - Drittanbieter-Entwickler-Marketplace](2021/october/app-builder-exchange.md)
       + [Adobe I/O Open Source-Projekte und -Beiträge](2021/october/app-builder-adobeio.md)
-      + [Export von Adobe I/O-Experience Manager Assets](2021/october/app-builder-asset-export.md)
+      + [Adobe I/O-basierter Experience Manager Assets-Export](2021/october/app-builder-asset-export.md)
       + [Erweiterte Netzwerke mit Experience Manager CS](2021/october/advanced-networking.md)
       + [Auf App Builder erstelltes Anomalieerkennungs-Tool](2021/october/data-anomaly-detection.md)
       + [App Builder-Architektur und technische Einblicke](2021/october/app-builder-architecture.md)
-      + [Automatisieren Sie die Erstellung und Bearbeitung von PDF mithilfe der PDF-Services-API](2021/october/automate-pdf-services-api.md)
+      + [Automatisieren der Erstellung und Bearbeitung von PDFs mit der PDF Services-API](2021/october/automate-pdf-services-api.md)
       + [Best Practices für die Entwicklung von Komponentenskripten](2021/october/component-script-development.md)
       + [Erstellen von Creative Cloud-Plug-ins](2021/october/cc-extensibility.md)
       + [Experience Manager-Ereignisse nutzen](2021/october/consume-aem-events.md)
       + [Inhaltspflege](2021/october/content-upkeep.md)
       + [Cloud-native Erweiterbarkeit für Experience Manager](2021/october/aem-cloud-native.md)
-      + [Kollaboratives PWA-Storefront-Design mit XD](2021/october/commerce-storefront-xd.md)
-      + [Creative Cloud App Engine APIs](2021/october/cc-app-api.md)
+      + [Partizipatives Design einer PWA-Storefront mit XD](2021/october/commerce-storefront-xd.md)
+      + [Creative Cloud App Engine-APIs](2021/october/cc-app-api.md)
       + [Datenerfassung](2021/october/data-collection.md)
       + [Bereitstellen von Commerce-Erlebnissen](2021/october/delivering-commerce-experiences.md)
-      + [Schnelle Erlebnisse mit Experience Manager bereitstellen](2021/october/fast-experiences.md)
+      + [Schnelle Erlebnisse mit Experience Manager](2021/october/fast-experiences.md)
       + [Effiziente Site-Struktur - verbesserte Leistung](2021/october/efficient-site-structure.md)
       + [Anreichern von Commerce-Erlebnissen mit zugehörigen Inhalten](2021/october/associated-content.md)
       + [Weiterentwicklung von Adobe Commerce zur Senkung Ihrer Gesamtbetriebskosten](2021/october/reduce-tco.md)
       + [Experience Manager Assets - Neue Funktionen](2021/october/aem-assets-whats-new.md)
       + [Experience Manager Assets Compute Worker mit App Builder- und Photoshop-APIs](2021/october/app-builder-asset-compute.md)
       + [Experience Manager hinter den Kulissen](2021/october/aem-behind-scenes.md)
-      + [Experience Manager-Modell für fortlaufenden Versand](2021/october/continuous-delivery.md)
+      + [Kontinuierliches Bereitstellungsmodell für Experience Manager](2021/october/continuous-delivery.md)
       + [Experience Manager-Erweiterung für PWA Studio](2021/october/aem-pwa-studio.md)
       + [Experience Manager Forms CS - Schnellnachverfolgung Ihrer Entwicklung mit APIs](2021/october/aem-forms-cs-apis.md)
       + [Experience Manager Forms CS - Sichere digitale Mehrkanal-Registrierung](2021/october/multichannel-digital-enrollment.md)
-      + [Experience Platform-Destination SDK](2021/october/destination-sdk.md)
+      + [Experience Platform Destination SDK](2021/october/destination-sdk.md)
       + [Experience Platform-Integration](2021/october/aep-integration.md)
       + [Erweitern von AEM mit App Builder](2021/october/extend-aem-app-builder.md)
-      + [Erweitern von Adobe Commerce mithilfe von Adobe I/O](2021/october/commerce-io.md)
+      + [Erweitern von Adobe Commerce mit Adobe I/O](2021/october/commerce-io.md)
       + [Ereignisgesteuerte Erlebnisse](2021/october/event-driven-experiences.md)
       + [Frontend-Code-Pipeline](2021/october/front-end-code.md)
-      + [Dokumente generieren und E-Signaturen mit der Adobe Sign-API erfassen](2021/october/esignatures-sign-api.md)
+      + [Generieren von Dokumenten und Erfassen von E-Signaturen mit der Adobe Sign-API](2021/october/esignatures-sign-api.md)
       + [Generieren von Dokumenten und Erfassen von E-Signaturen mithilfe von APIs zur Dokumenterstellung](2021/october/esignatures-document-generation-api.md)
       + [Headless-Experience Manager Sites](2021/october/headless.md)
-      + [So vermeiden Sie häufige Fallstricke beim Experience Manager](2021/october/common-pitfalls-aem.md)
+      + [So vermeiden Sie häufige Fehler in Experience Manager](2021/october/common-pitfalls-aem.md)
       + [So erfassen und verarbeiten Sie Assets in Experience Manager Assets](2021/october/ingest-process-assets.md)
       + [Integrieren von Experience Manager CS mit Adobe IO Events](2021/october/integrate-aem-io-events.md)
       + [Einführung in App Builder](2021/october/introduction-app-builder.md)
       + [Einführung in Adobe Developer Console](2021/october/app-builder-adc.md)
       + [Einführung in Creative Cloud Libraries](2021/october/cc-libraries.md)
-      + [JSON und die PDF-Extract-API](2021/october/parsing-pdf.md)
+      + [JSON und die PDF-Extraktions-API](2021/october/parsing-pdf.md)
       + [Server-seitig starten](2021/october/launch-server-side.md)
       + [Überwachen von App Builder-Apps mit Protokollweiterleitung](2021/october/log-forwarding.md)
-      + [Vergangenheit, Gegenwart und Zukunft des Experience Managers](2021/october/past-present-future-aem.md)
+      + [Vergangenheit, Gegenwart und Zukunft von Experience Manager](2021/october/past-present-future-aem.md)
       + [PDF-Einbettungs-API](2021/october/pdf-embed-api.md)
-      + [PDF-Extraktions-API](2021/october/pdf-extract-api.md)
+      + [PDF Extract-API](2021/october/pdf-extract-api.md)
       + [Einführung in die Adobe PDF Services-API](2021/october/pdf-services-api.md)
-      + [Best Practices für PWA Studios für Anfänger](2021/october/pwa-studio-best-practices.md)
+      + [Best Practices für PWA Studio für Anfänger](2021/october/pwa-studio-best-practices.md)
       + [Schnelle Site-Erstellung](2021/october/quick-site-creation.md)
       + [Relevante Suche und eCommerce](2021/october/relevant-search-ecommerce.md)
       + [Screens Cloud Service](2021/october/aem-screens-cs.md)
