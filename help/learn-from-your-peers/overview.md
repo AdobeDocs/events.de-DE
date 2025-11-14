@@ -3,9 +3,9 @@ title: '[!DNL Experience Makers - Learn from your peers]'
 description: Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen optimal nutzen können. [!DNL Experience Makers - Learn from your peers] ist eine globale Reihe virtueller Kundenschulungsveranstaltungen, bei denen es darum geht, tiefer in  [!DNL Adobe Experience Cloud]  Lösungen einzutauchen.
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+source-git-commit: a2880622b706440262b91279a69eadda493cbe81
 workflow-type: tm+mt
-source-wordcount: '1246'
+source-wordcount: '1320'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./adobe-user-groups.md" title="Erkunden von Adobe-Benutzergruppen in Experience Cloud" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1763063769836" alt="Erkunden von Adobe-Benutzergruppen in Experience Cloud"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1763133801665" alt="Erkunden von Adobe-Benutzergruppen in Experience Cloud"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -53,7 +53,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./adobe-champion-application.md" title="Erfahren Sie, wie Sie sich bewerben und als Champion auffallen können" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1763063769849" alt="Erfahren Sie, wie Sie sich bewerben und als Champion auffallen können"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1763133801673" alt="Erfahren Sie, wie Sie sich bewerben und als Champion auffallen können"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -88,7 +88,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md" title="Skalieren der KI-Einführung - Ein Playbook für Genehmigungen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475270/?format=jpeg&nocache=1763063770520" alt="Skalieren der KI-Einführung - Ein Playbook für Genehmigungen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475270/?format=jpeg&nocache=1763133802421" alt="Skalieren der KI-Einführung - Ein Playbook für Genehmigungen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -124,7 +124,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2025/commerce-and-app-builder.md" title="Adobe Commerce und App Builder Essentials - Von den Grundlagen zur Wirkung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476691/?format=jpeg&nocache=1763063771028" alt="Adobe Commerce und App Builder Essentials - Von den Grundlagen zur Wirkung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476691/?format=jpeg&nocache=1763133802656" alt="Adobe Commerce und App Builder Essentials - Von den Grundlagen zur Wirkung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -147,7 +147,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2024/agile-sdlc.md" title="Ein fokussierter Ansatz für Kommunikation, Anforderungen und Tests in Agile SDLC" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1763063771036" alt="Ein fokussierter Ansatz für Kommunikation, Anforderungen und Tests in Agile SDLC"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1763133802665" alt="Ein fokussierter Ansatz für Kommunikation, Anforderungen und Tests in Agile SDLC"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -174,18 +174,42 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
 
 {cta  = Watch event}
 
+* experience-manager/nov2025/metadata-mayhem.md
 * experience-manager/aug2025/smart-tags.md
 * experience-manager/july2024/global-digital-presence.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Metadata Mayhem to Mastery">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="experience-manager/nov2025/metadata-mayhem.md" title="Metadatenverwirrung zur Beherrschung" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1763133802913" alt="Metadatenverwirrung zur Beherrschung"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="experience-manager/nov2025/metadata-mayhem.md" target="_blank" rel="referrer" title="Metadatenverwirrung zur Beherrschung">Metadatenverwirrung zur Beherrschung</a>
+                    </p>
+                    <p class="is-size-6">Expertentipps für die Implementierung des AEM Assets- und Workfront-Connectors, die Zuordnung von Metadaten und die Ausrichtung von Rollen für einen erfolgreichen Rollout.</p>
+                </div>
+                <a href="experience-manager/nov2025/metadata-mayhem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM Smart Tags - Streamlining Content & Enhancing Discoverability">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/aug2025/smart-tags.md" title="Smart-Tags für AEM - Optimieren von Inhalten und Verbessern der Auffindbarkeit" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471511/?format=jpeg&nocache=1763063771614" alt="Smart-Tags für AEM - Optimieren von Inhalten und Verbessern der Auffindbarkeit"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471511/?format=jpeg&nocache=1763133802919" alt="Smart-Tags für AEM - Optimieren von Inhalten und Verbessern der Auffindbarkeit"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -208,7 +232,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/july2024/global-digital-presence.md" title="Erfolge im großen Maßstab mit einer globalen Kombination" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1763063771620" alt="Erfolge im großen Maßstab mit einer globalen Kombination"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1763133802923" alt="Erfolge im großen Maßstab mit einer globalen Kombination"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -250,7 +274,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/oct2025/data-hygiene-strategy.md" title="Erstellen einer Datenhygiene-Strategie für die Synchronisierung von Marketo Engage und CRM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476321/?format=jpeg&nocache=1763063772293" alt="Erstellen einer Datenhygiene-Strategie für die Synchronisierung von Marketo Engage und CRM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476321/?format=jpeg&nocache=1763133803497" alt="Erstellen einer Datenhygiene-Strategie für die Synchronisierung von Marketo Engage und CRM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -273,7 +297,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/may2025/interactive-webinars.md" title="Revolutionieren Ihres Webinar-Erlebnisses - Entdecken Sie die Wirkung interaktiver Webinare" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1763063772298" alt="Revolutionieren Ihres Webinar-Erlebnisses - Entdecken Sie die Wirkung interaktiver Webinare"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1763133803505" alt="Revolutionieren Ihres Webinar-Erlebnisses - Entdecken Sie die Wirkung interaktiver Webinare"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -296,7 +320,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/nov2024/advanced-segmentation.md" title="Erweiterte Segmentierungsprüfungen - Gewährleistung von Präzision und Leistung in Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1763063772312" alt="Erweiterte Segmentierungsprüfungen - Gewährleistung von Präzision und Leistung in Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1763133803531" alt="Erweiterte Segmentierungsprüfungen - Gewährleistung von Präzision und Leistung in Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -319,7 +343,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/sept2024/multi-stream-engagement-programs.md" title="Beherrschen Sie komplexe Journey-Projekte mit Multi-Stream-Interaktionsprogrammen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1763063772342" alt="Beherrschen Sie komplexe Journey-Projekte mit Multi-Stream-Interaktionsprogrammen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1763133803499" alt="Beherrschen Sie komplexe Journey-Projekte mit Multi-Stream-Interaktionsprogrammen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -342,7 +366,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/july2024/marketers-map-marketo-campaigns.md" title="Die Karte des Marketing-Experten - Eine umfassende Anleitung zur Strategie, Erstellung und Analyse von Marketo-Kampagnen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1763063772286" alt="Die Karte des Marketing-Experten - Eine umfassende Anleitung zur Strategie, Erstellung und Analyse von Marketo-Kampagnen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1763133803501" alt="Die Karte des Marketing-Experten - Eine umfassende Anleitung zur Strategie, Erstellung und Analyse von Marketo-Kampagnen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -365,7 +389,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" title="Leistungsstarke Workflow-Automatisierung - Praktische Anwendungen der Marketo Engage REST-API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1763063772323" alt="Leistungsstarke Workflow-Automatisierung - Praktische Anwendungen der Marketo Engage REST-API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1763133803513" alt="Leistungsstarke Workflow-Automatisierung - Praktische Anwendungen der Marketo Engage REST-API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -388,7 +412,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Meisterschaft von Personen mit Marketo Engage - Lokalisierte Nuancen in einem globalen Framework" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1763063772333" alt="Meisterschaft von Personen mit Marketo Engage - Lokalisierte Nuancen in einem globalen Framework"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1763133803522" alt="Meisterschaft von Personen mit Marketo Engage - Lokalisierte Nuancen in einem globalen Framework"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -415,18 +439,43 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
 
 {cta  = Watch event}
 
+* experience-manager/nov2025/metadata-mayhem.md
 * workfront/2025/simplify-resource-planning-with-automation.md
 * workfront/2025/how-to-measure-and-share-workfront-value.md
 * workfront/2024/04/staffing-your-workfront-system-admin-practice.md
+ 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Metadata Mayhem to Mastery">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="experience-manager/nov2025/metadata-mayhem.md" title="Metadatenverwirrung zur Beherrschung" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1763133804163" alt="Metadatenverwirrung zur Beherrschung"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="experience-manager/nov2025/metadata-mayhem.md" target="_blank" rel="referrer" title="Metadatenverwirrung zur Beherrschung">Metadatenverwirrung zur Beherrschung</a>
+                    </p>
+                    <p class="is-size-6">Expertentipps für die Implementierung des AEM Assets- und Workfront-Connectors, die Zuordnung von Metadaten und die Ausrichtung von Rollen für einen erfolgreichen Rollout.</p>
+                </div>
+                <a href="experience-manager/nov2025/metadata-mayhem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Simplify Resource Planning with Automation">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/simplify-resource-planning-with-automation.md" title="Vereinfachen der Ressourcenplanung durch Automatisierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475907/?format=jpeg&nocache=1763063773170" alt="Vereinfachen der Ressourcenplanung durch Automatisierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475907/?format=jpeg&nocache=1763133804169" alt="Vereinfachen der Ressourcenplanung durch Automatisierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -449,7 +498,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" title="Artikulieren der Wirkung - So messen und teilen Sie den Wert von Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1763063773162" alt="Artikulieren der Wirkung - So messen und teilen Sie den Wert von Workfront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1763133804176" alt="Artikulieren der Wirkung - So messen und teilen Sie den Wert von Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -472,7 +521,7 @@ Erfahren Sie von Adobe-Experten und Fachkollegen, wie Sie Ihre Adobe-Lösungen o
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2024/04/staffing-your-workfront-system-admin-practice.md" title="Personal für Ihr Workfront System Admin Practice-Webinar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1763063773164" alt="Personal für Ihr Workfront System Admin Practice-Webinar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1763133804173" alt="Personal für Ihr Workfront System Admin Practice-Webinar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
