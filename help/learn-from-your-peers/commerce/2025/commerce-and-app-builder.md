@@ -8,9 +8,9 @@ doc-type: Event
 duration: 3555
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19684
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+source-git-commit: cea4b75d089d99068b2657ca9656687ba66ad830
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,7 @@ Nehmen Sie an einer Schulungssitzung mit dem Adobe Commerce-Champion Alex Lyzun 
 
 Ganz gleich, ob Sie gerade erst mit App Builder beginnen oder den strategischen Wert der Erweiterbarkeit verstehen möchten, dieses Webinar wurde entwickelt, um Sie mit einer klaren, zugänglichen Grundlage auszustatten, die Ihnen hilft, neue Möglichkeiten mit Adobe Commerce zu erschließen!
 
+## Weitere Ressourcen
+
+* [Office Hours nach dem Webinar](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-amp-app-builder-essentials-from-basics-to-impact-webinar-office-hours/) mit Alex Lyzun
+* [Adobe Commerce-Benutzergruppen](https://commerce-augs.adobe.com/)
