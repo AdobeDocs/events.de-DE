@@ -39,5 +39,5 @@ Die Adobe Marketo Engage-Expertin Maria Cruz nutzt interaktive Webinare bei MRM,
 
 * Treten Sie dem [Diskussions-Thread](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) auf der Marketing Nation Community bei, wo Fragen und Antworten gepostet werden.
 * [Erfahren Sie mehr über GenAI-Funktionen in interaktiven Webinaren](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
-* [Erkunden Sie die Grundlagen interaktiver Webinare](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
-* [Erfahren Sie, wie Sie interaktive Webinar-Pods (Umfragen, Fragen und Antworten, CTAs) verwenden](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
+* [Erkunden Sie die Grundlagen interaktiver Webinare](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [Erfahren Sie, wie Sie interaktive Webinar-Pods (Umfragen, Fragen und Antworten, CTAs) verwenden](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
