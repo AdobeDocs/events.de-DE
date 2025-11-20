@@ -27,7 +27,7 @@ ht-degree: 13%
    + [Tiefe Tauchgänge](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Espresso und Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
    + [Technische Experience Cloud-Sitzungen](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
-   + [Experience League LIVE ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
+   + [Experience League LIVE &#x200B;](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
    + [Übersicht über die Experience Manager-Version](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=de)
    + [Grundpfeiler von Marketo Engage](https://experienceleague.adobe.com/en/docs/events/foundations-of-marketo-engage-webinars/overview)
