@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Sammlung von Aufzeichnungen aus [!DNL Experience Makers Learn from your peers]
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '326'
 ht-degree: 6%
 
 ---
@@ -62,6 +62,7 @@ ht-degree: 6%
       + [So machen Sie Ihre  [!DNL Adobe Marketo Engage]  skalierbar](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
+      + [Metadatenverwirrung](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Artikulieren der Wirkung - So messen und teilen Sie den Wert von Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Vereinfachen der Ressourcenplanung durch Automatisierung](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
