@@ -30,7 +30,7 @@ Neben der On-Demand-Aufzeichnung haben wir auch die Dia-Decks und Tipps hinzugef
 
 Beginnen Sie gerade mit Fusion? Sehen Sie sich diese Ressourcen an! 
 * [Workfront Fusion-Schulung auf Experience League](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
-* [Die Liste der verfügbaren Fusion-Vorlagen finden ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) hier. Eine Handvoll neuer Vorlagen wurde kürzlich veröffentlicht!  
+* [Die Liste der verfügbaren Fusion-Vorlagen finden &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) hier. Eine Handvoll neuer Vorlagen wurde kürzlich veröffentlicht!  
 * **Pro-Tipp von Kunden im Chat** Wenn Sie Fusion lernen, beginnen Sie klein mit Automatisierungen von Workfront zu Workfront 
 
 Wir hoffen, Sie bei zukünftigen Customer Success-Workshops begrüßen zu dürfen!  Sehen Sie sich unbedingt die [Workfront Events](https://experienceleague.adobe.com/events/?filters=Workfront) auf Experience League an, um die vollständige Liste zu erhalten und sich zu registrieren.
