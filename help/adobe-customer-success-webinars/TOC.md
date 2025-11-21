@@ -2,9 +2,9 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+source-git-commit: 1db369887a1c09c774ef07d73ece2d890f36d98f
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '551'
 ht-degree: 4%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 4%
    + Customer Journey Analytics {#cja2025}
       + [Sponsoring durch Führungskräfte](2025/cja-success.md)
       + [Strategien für das Änderungsmanagement](2025/cja-adoption.md)
+      + [CJA Data Insights Agent](2025/cja-data-insights-agent.md)
       + [Entwerfen eines Betriebsmodells für CJA Success](2025/cja-operating-model.md)
       + [Grundlegende Architektur](2025/cja-vision.md)
       + [Migration von Adobe Analytics zu CJA](2025/analytics-to-cja-migration.md)
