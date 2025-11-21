@@ -51,7 +51,7 @@ Diese fortlaufende Videoreihe bietet einen klaren und knappen Überblick über j
 
 ## Workshop-Rückspulen
 
-Erkunden Sie die Neuigkeiten aus Ihrer Adobe Workfront-Community durch unsere kuratierte Auswahl an Events. Jeden Monat veranstalten wir kostenlose Live-Sessions zu einer Vielzahl von Themen, die Ihnen helfen, Workfront optimal zu nutzen. Sie haben ein Live-Event verpasst? Kein Problem! Informieren Sie sich über On-Demand-Aufzeichnungen, die Kundengeschichten, bewährte Best Practices und wertvolle Erfahrungen zeigen. Möchten Sie in Echtzeit verbinden? Nehmen Sie an kommenden Live-Events teil, um Fragen zu stellen, Einblicke zu teilen und mit Gleich gesinnten zusammenzuarbeiten. Besuchen Sie regelmäßig die [Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront)Ereignisseite, um zu sehen, was als Nächstes kommt!
+Erkunden Sie die Neuigkeiten aus Ihrer Adobe Workfront-Community durch unsere kuratierte Auswahl an Events. Jeden Monat veranstalten wir kostenlose Live-Sessions zu einer Vielzahl von Themen, die Ihnen helfen, Workfront optimal zu nutzen. Sie haben ein Live-Event verpasst? Kein Problem! Informieren Sie sich über On-Demand-Aufzeichnungen, die Kundengeschichten, bewährte Best Practices und wertvolle Erfahrungen zeigen. Möchten Sie in Echtzeit verbinden? Nehmen Sie an kommenden Live-Events teil, um Fragen zu stellen, Einblicke zu teilen und mit Gleich gesinnten zusammenzuarbeiten. Besuchen Sie regelmäßig die [Experience League Workfront](https://experienceleague.adobe.com/de/events?filters=Workfront)Ereignisseite, um zu sehen, was als Nächstes kommt!
 
 <!-- CARDS 
 

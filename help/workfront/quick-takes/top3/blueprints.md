@@ -18,16 +18,16 @@ ht-degree: 0%
 
 # Top 3: Creative-Ansätze mit Blueprints
 
-Hallo zusammen! Ich bin&#39;s, dein „On-Demand Workfront CSM“ und ich bin wieder mit einem anderen Top 3 Video!  Lassen Sie uns dieses Mal über [Blueprints“ &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview). Wahrscheinlich haben Sie schon einmal von mir gehört, dass Blueprints die Abkürzung zu Ihrer &quot;Workfront-Arbeit“ sind. Aber was sind die anderen Möglichkeiten, Blueprints zu verwenden, um Ihre Unternehmensanforderungen schneller zu verfolgen?
+Hallo zusammen! Ich bin&#39;s, dein „On-Demand Workfront CSM“ und ich bin wieder mit einem anderen Top 3 Video!  Lassen Sie uns dieses Mal über [Blueprints“ &#x200B;](https://experienceleague.adobe.com/de/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview). Wahrscheinlich haben Sie schon einmal von mir gehört, dass Blueprints die Abkürzung zu Ihrer &quot;Workfront-Arbeit“ sind. Aber was sind die anderen Möglichkeiten, Blueprints zu verwenden, um Ihre Unternehmensanforderungen schneller zu verfolgen?
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465271/?learn=on&enablevpops)
 
-Wenn Sie zuerst experimentieren möchten, bevor Sie etwas in der Produktion installieren, keine Sorge!  Spielen Sie einfach mit ihnen in Ihrer [Sandbox-Vorschau-Umgebung](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment) zuerst.
+Wenn Sie zuerst experimentieren möchten, bevor Sie etwas in der Produktion installieren, keine Sorge!  Spielen Sie einfach mit ihnen in Ihrer [Sandbox-Vorschau-Umgebung](https://experienceleague.adobe.com/de/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment) zuerst.
 
 Sie interessieren sich für die neuesten Blueprints?
 
-* [Blueprint veröffentlicht: Workfront-Schulung für neue Benutzer](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734)
-* [Blueprint veröffentlicht: People Manager Dashboard](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545#M3247)
-* [Vollständige Liste der verfügbaren Blueprints](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Blueprint veröffentlicht: Workfront-Schulung für neue Benutzer](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734?profile.language=de)
+* [Blueprint veröffentlicht: People Manager Dashboard](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545?profile.language=de#M3247)
+* [Vollständige Liste der verfügbaren Blueprints](https://experienceleague.adobe.com/de/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
 
-Wenn Sie gerne neue Ideen und kreative Ansätze kennenlernen möchten, dann vergessen Sie nicht, sich für unsere kommenden Workshops auf unserer [Experience League Events-Seite anzumelden](https://experienceleague.adobe.com/en/events?filters=Workfront). Wir hoffen, Sie bald zu sehen!
+Wenn Sie gerne neue Ideen und kreative Ansätze kennenlernen möchten, dann vergessen Sie nicht, sich für unsere kommenden Workshops auf unserer [Experience League Events-Seite anzumelden](https://experienceleague.adobe.com/de/events?filters=Workfront). Wir hoffen, Sie bald zu sehen!
