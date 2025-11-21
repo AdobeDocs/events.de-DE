@@ -7,7 +7,7 @@ feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
 event-start-time: 2025-12-16 09:00-8
 event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
-source-git-commit: 9f35248b235fbc25b964ba70daa1f14eb4bbecef
+source-git-commit: b875b460b7226e625b65e11588cd9e01d11cac7f
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -26,6 +26,6 @@ Nehmen Sie an dieser Live-Sitzung teil, in der das Produkt-Team hinter dem Produ
 * Wie der Product Support Agent Benutzern proaktiven und Self-Service-Support sowie die automatisierte Erstellung und Verfolgung von Fällen ermöglicht
 * Neuerungen und Funktionen in Aussicht, um die Support-Verwaltung für Benutzer weiter zu optimieren
 
-[![ExL LIVE 17. Januar 2024](assets/WebBanner_Dec16_2025.jpg)](https://www.youtube.com/live/MW2Ba7HJNbA)
+[![ExL LIVE 17. Januar 2024](assets/WebBanner_Dec16_2025.jpg)](https://www.youtube.com/live/MW2Ba7HJNbA){target="_blank"}
 
-[Klicken, um eine Erinnerung an YouTube einzurichten!](https://www.youtube.com/live/MW2Ba7HJNbA)
+[Klicken, um eine Erinnerung an YouTube einzurichten!](https://www.youtube.com/live/MW2Ba7HJNbA){target="_blank"}
