@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Ich bin es wieder, Ihre „On-Demand Workfront CSM“ Cynthia Boon und ich haben ein Thema für Sie, das bei Veranstaltungen immer wieder auftaucht.  Wenn Sie gerade erst mit der Einrichtung von Office Hours beginnen oder sie nur auffrischen möchten, sehen Sie sich das folgende Video an! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470151/?captions=ger&learn=on&enablevpops)
 
 Die Office Hours sind nur ein weiterer wichtiger Teil Ihres Workfront Kommunikationsplans. Suchen Sie nach weiteren Ideen für die Kommunikation mit Ihren Benutzern? Schauen Sie sich das [Cookbook für Endbenutzerkommunikation](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=de) an!
 

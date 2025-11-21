@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Hallo Workfront, es ist Ihr „On-Demand Workfront CSM“! In diesem Versus! Episode, ich teile einige Ideen und Empfehlungen für die Verwendung von Gruppen vs. Teams.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465273/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3467362/?captions=ger&learn=on&enablevpops)
 
 Möchten Sie mehr über Gruppen und Teams erfahren?
 
