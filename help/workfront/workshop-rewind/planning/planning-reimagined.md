@@ -24,9 +24,9 @@ Seien Sie dabei, wenn Heather MacDonald, Associate Vice President, Marketing Ope
 Wenn Sie die Live-Sitzung verpasst haben, schauen Sie sich [HMacs SNHU-Folien](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/SNHU_Adobe+Planning_0825.pdf) an und sehen Sie sich die On-Demand-Aufzeichnung an, um ihr folgen zu können.
 * (Hinweis: Alle Projekte im Deck sind nur Beispiele.)
 
-Weitere Informationen zu den nächsten Schritten in Workfront Planning finden Sie auf der Seite [Adobe Workfront Planning Release Activity](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) in Experience League.
+Weitere Informationen zu den nächsten Schritten in Workfront Planning finden Sie auf der Seite [Adobe Workfront Planning Release Activity](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) in Experience League.
 
-Haben Sie Ideen zum Austausch oder haben Folgefragen aus der Veranstaltung? Sie können diese gern in den Kommentaren zum [Experience League-Community-Post ablegen](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019)!
+Haben Sie Ideen zum Austausch oder haben Folgefragen aus der Veranstaltung? Sie können diese gern in den Kommentaren zum [Experience League-Community-Post ablegen](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019?profile.language=de)!
 
 Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events) um die neuesten Sessions zu erhalten.
 

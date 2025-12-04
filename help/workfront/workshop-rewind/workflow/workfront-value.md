@@ -25,7 +25,7 @@ Während des Workshops haben wir Folien gemeinsam erstellt, um ein anpassbares D
 
 Sehen Sie sich [&#x200B; Präsentationsfoliendeck an &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/093025+-+Pitch+Perfect+-+Defining+%26+Communicating+Workfront+Value.pdf) folgen Sie der On-Demand-Aufzeichnung.
 
-Möchten Sie einen anpassbaren Folien-Deck mit Hinweisen und Best Practices, die während der Sitzung geteilt werden?  Weitere Ressourcen finden Sie im [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706)Community-Beitrag!
+Möchten Sie einen anpassbaren Folien-Deck mit Hinweisen und Best Practices, die während der Sitzung geteilt werden?  Weitere Ressourcen finden Sie im [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706?profile.language=de)Community-Beitrag!
 
 Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events) um die neuesten Sessions zu erhalten.
 

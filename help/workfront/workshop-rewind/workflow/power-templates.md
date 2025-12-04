@@ -23,7 +23,7 @@ Sehen Sie sich die On-Demand-Aufzeichnung an und werfen Sie einen Blick „unter
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477115/?learn=on&enablevpops)
 
-Suchen Sie nach weiteren Ressourcen, die während der Veranstaltung freigegeben wurden?  Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981)!
+Suchen Sie nach weiteren Ressourcen, die während der Veranstaltung freigegeben wurden?  Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981?profile.language=de)!
 
 Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events) um die neuesten Sessions zu erhalten.
 

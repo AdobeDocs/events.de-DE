@@ -25,7 +25,7 @@ Mit einem Schwerpunkt auf Governance (Think-Benennungskonventionen), Ausführung
 
 Wenn du nicht live dabei sein konntest, keine Sorge. Sehen Sie sich [&#x200B; &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+for+Governance%2C+Execution+and+Adoption+-+October+8%2C+2025.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
 
-Suchen Sie eine Zusammenfassung des Ereignisses und der Ressourcen aus dem Chat? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766)!
+Suchen Sie eine Zusammenfassung des Ereignisses und der Ressourcen aus dem Chat? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766?profile.language=de)!
 
 Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events) um die neuesten Sessions zu erhalten.
 

@@ -24,7 +24,7 @@ Wenn Sie an der Live-Sitzung nicht teilnehmen konnten - keine Sorge! Sehen Sie s
 
 Lesen Sie auch die [Versionshinweise](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview) auf Experience League, da nicht alle Funktionen im Webinar behandelt wurden.
 
-Suchen Sie nach den Fragen und Antworten und Abschriften aus der Sitzung? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946)!
+Suchen Sie nach den Fragen und Antworten und Abschriften aus der Sitzung? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946?profile.language=de)!
 
 Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events) um die neuesten Sessions zu erhalten.
 

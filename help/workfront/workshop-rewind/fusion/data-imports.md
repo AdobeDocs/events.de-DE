@@ -23,7 +23,7 @@ In Zusammenarbeit mit Brian Haight von Adobe Professional Services wurden in die
 
 Schauen Sie [das Dia-Deck](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+Template+-+Fusion+Event.pdf) an und verfolgen Sie die On-Demand-Aufzeichnung.
 
-Sehen Sie sich den [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522) an, um herunterladbare CSV-Dateibeispiele und das Fusion CSV-Bundle zu erhalten!
+Sehen Sie sich den [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522?profile.language=de) an, um herunterladbare CSV-Dateibeispiele und das Fusion CSV-Bundle zu erhalten!
 
 Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events) um die neuesten Sessions zu erhalten.
 
