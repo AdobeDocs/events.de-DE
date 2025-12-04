@@ -3,9 +3,9 @@ user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
 solution: Workfront
-source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
+source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '280'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 1%
 + [Workfront On-Demand-Workshops](overview.md)
 
 + Webinare veröffentlichen {#releases}
+   + [Webinar zur Version 4. Quartal 2025](releases/25-q4-release-webinar.md)
    + [Version 25.7](releases/25-7-release-webinar.md)
    + [Version 25.4](releases/25-4-release-webinar.md)
    + [Version 25.1](releases/25-1-release-webinar.md)
@@ -23,18 +24,28 @@ ht-degree: 1%
 + Workshop-Rückspulen {#workshop-rewind}
    + Verschmelzung {#fusion}
       + [Automatisieren von Benennungskonventionen](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [Datenimporte](workshop-rewind/fusion/data-imports.md)
+      + [Fusion decodiert](workshop-rewind/fusion/fusion-decoded.md)
+      + [Wie Workfront Fusion den Menschen hilft](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [Einfaches Navigieren in Feldern mit Mehrfachauswahl](workshop-rewind/fusion/mulit-select-fields.md)
       + [Erschließung echter Ereigniskosten](workshop-rewind/fusion/event-costs.md)
+      + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + Planung {#planning}
       + [Neueste Informationen zu Workfront Planning](workshop-rewind/planning/workfront-planning.md)
+      + [CREATIVE-Anwendungsfälle von SNHU](workshop-rewind/planning/planning-reimagined.md)
       + [Erfolg auf Teamebene mit Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront - Planungsversion und Roadmap](workshop-rewind/planning/planning-release-roadmap.md)
    + Workflow {#workflow}
-      + [Creative-Methoden zum Verwalten von Ressourcen](classics/creative-ways-of-managing-resources.md)
+      + [Blueprints](workshop-rewind/workflow/blueprints.md)
+      + [Workfront-Wert definieren und kommunizieren](workshop-rewind/workflow/workfront-value.md)
+      + [Tipps zu Governance, Ausführung und Einführung](workshop-rewind/workflow/governance-execution-adoption.md)
       + [E-Mail-Benachrichtigungen verwalten](workshop-rewind/workflow/email-notifications.md)
+      + [Meistern von EXISTS-Anweisungen](workshop-rewind/workflow/master-exists-statements.md)
+      + [Power-Vorlagen](workshop-rewind/workflow/power-templates.md)
       + [Projektvorlagen](workshop-rewind/workflow/project-templates.md)
       + [Selbst gelernt, erfolgreich zu sein](workshop-rewind/workflow/self-taught-to-success.md)
       + [Entfesseln Sie die Leistungsfähigkeit von Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
+      + [Native Integration von Workfront und AEM](workshop-rewind/workflow/aem-native-integration.md)
 + Quick Take {#quicktakes}
    + Top 3 {#top3}
       + [Creative-Ansätze mit Blueprints](quick-takes/top3/blueprints.md)
@@ -73,6 +84,7 @@ ht-degree: 1%
       + [Aufladen der grundlegenden Textmodusberichte mit dem API-Explorer](classics/supercharge-basic-text-mode-reporting-using-the-api-explorer.md)
       + [Mix und Kapazität](classics/understanding-mix-and-capacity.md)
    + Ressourcenverwaltung {#resource-management}
+      + [Creative-Methoden zum Verwalten von Ressourcen](classics/creative-ways-of-managing-resources.md)
       + [Ressourcen- und Kapazitätsplanung](user-groups/resource-and-capacity-planning.md)
       + [Ressourcenverwaltung](user-groups/resource-management.md)
    + Überprüfen und Genehmigen der Arbeit {#review-and-approve-work}
@@ -87,10 +99,3 @@ ht-degree: 1%
       + [Nutzung von Workfront Proof](user-groups/leveraging-workfront-proof.md)
    + Anfrage-Warteschlangen und -Aufnahme {#request-queues-and-intake}
       + [Anfrage-Warteschlangen und Aufnahme-Forms](user-groups/request-queues-and-intake-forms.md)
-
-
-
-
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
