@@ -23,7 +23,7 @@ Während des Workshops haben wir Folien gemeinsam erstellt, um ein anpassbares D
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477131/?learn=on&enablevpops)
 
-Sehen Sie sich [ Präsentationsfoliendeck an ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/093025+-+Pitch+Perfect+-+Defining+%26+Communicating+Workfront+Value.pdf) folgen Sie der On-Demand-Aufzeichnung.
+Sehen Sie sich [&#x200B; Präsentationsfoliendeck an &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/093025+-+Pitch+Perfect+-+Defining+%26+Communicating+Workfront+Value.pdf) folgen Sie der On-Demand-Aufzeichnung.
 
 Möchten Sie einen anpassbaren Folien-Deck mit Hinweisen und Best Practices, die während der Sitzung geteilt werden?  Weitere Ressourcen finden Sie im [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706)Community-Beitrag!
 

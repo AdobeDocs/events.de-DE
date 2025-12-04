@@ -21,7 +21,7 @@ Diese Sitzung, die in Zusammenarbeit mit Tia Calvert und Matt Lien von der Mayo 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477134/?learn=on&enablevpops)
 
-Sehen Sie sich [ &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Inside+Mayo+Clinic+-+How+Workfront+Fusion+Helps+the+Humans+Slide+Deck.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
+Sehen Sie sich [&#x200B; &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Inside+Mayo+Clinic+-+How+Workfront+Fusion+Helps+the+Humans+Slide+Deck.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
 
 Fusion benötigt Zeit und Übung. Wenn Sie also gerade erst anfangen, erfahren Sie mehr über das (kostenlose!) [Fusion-Training auf Experience League](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview) und zögern Sie nicht, sich an andere Kunden in der [Workfront Fusion-Community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2) zu wenden.
 

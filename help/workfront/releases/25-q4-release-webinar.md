@@ -20,7 +20,7 @@ Die Workfront-Version für das vierte Quartal wurde am 16. Oktober 2025 bereitge
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477133/?learn=on&enablevpops)
 
-Wenn Sie an der Live-Sitzung nicht teilnehmen konnten - keine Sorge! Sehen Sie sich [ &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/100925+-+Fourth+Quarter+Release+Webinar.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
+Wenn Sie an der Live-Sitzung nicht teilnehmen konnten - keine Sorge! Sehen Sie sich [&#x200B; &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/100925+-+Fourth+Quarter+Release+Webinar.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
 
 Lesen Sie auch die [Versionshinweise](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview) auf Experience League, da nicht alle Funktionen im Webinar behandelt wurden.
 

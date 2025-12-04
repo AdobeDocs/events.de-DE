@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Sehen Sie, wie Jen Desmond Workfront Fusion zerstört und uns durch einige Live-Beispiele führt, um Fusion zu entmystifizieren.
 
-Wenn Sie das Live-Ereignis verpasst haben, sehen Sie sich das [Foliendeck“ ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Fusion-Decoded_11-5-25.pdf)
+Wenn Sie das Live-Ereignis verpasst haben, sehen Sie sich das [Foliendeck“ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Fusion-Decoded_11-5-25.pdf)
 Sehen Sie sich die On-Demand-Aufzeichnung an, um ihr zu folgen, während Jen einen Überblick über Workfront Fusion gibt, was es tun kann, und dann zeigt, wie Sie mehrere Szenarien erstellen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
