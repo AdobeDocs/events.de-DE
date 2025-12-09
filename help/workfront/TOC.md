@@ -3,9 +3,9 @@ user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
 solution: Workfront
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '283'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 1%
       + [Workfront - Planungsversion und Roadmap](workshop-rewind/planning/planning-release-roadmap.md)
    + Workflow {#workflow}
       + [Blueprints](workshop-rewind/workflow/blueprints.md)
+      + [Creative Briefs neu erfinden](workshop-rewind/workflow/creative-briefs.md)
       + [Workfront-Wert definieren und kommunizieren](workshop-rewind/workflow/workfront-value.md)
       + [Tipps zu Governance, Ausführung und Einführung](workshop-rewind/workflow/governance-execution-adoption.md)
       + [E-Mail-Benachrichtigungen verwalten](workshop-rewind/workflow/email-notifications.md)
