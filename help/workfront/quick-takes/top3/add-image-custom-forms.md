@@ -21,7 +21,7 @@ Sehen Sie sich diese Top-3-Videoausgabe an, in der die Gründe hervorgehoben wer
 
 Dazu gehören sowohl unterhaltsame als auch funktionale Tipps, um die Kommunikation zu verbessern und das Ausfüllen von Anfragen für Ihre Endbenutzer interessanter zu machen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477027/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477061/?captions=ger&learn=on&enablevpops)
 
 Weitere Ressourcen finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903?profile.language=de#M374)!
 

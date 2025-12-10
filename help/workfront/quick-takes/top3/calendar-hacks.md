@@ -24,7 +24,7 @@ Es ist wieder Ihr „On-Demand Workfront CSM“ mit Beispielen meiner persönlic
 * Anfragen, die direkt in einem Kalender angezeigt werden (Beispiel für das Onboarding von neuen Mitarbeitern)
 * Und ein Bonus-Tipp!
 
->[!VIDEO](https://video.tv.adobe.com/v/3477039/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477072/?captions=ger&learn=on&enablevpops)
 
 Weitere Ressourcen finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047?profile.language=de)!
 

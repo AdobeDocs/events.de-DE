@@ -21,7 +21,7 @@ Es bin wieder ich, dein „On-Demand Workfront CSM“ Cynthia Boon mit einem wei
 
 Dieses Mal teile ich meine bevorzugten Möglichkeiten, um das Meiste aus Zeitplänen für Berichte zu holen. Im Video zeige ich Beispiele, wie man diese Funktion nutzen kann, um noch mehr von all den fantastischen Berichten zu bekommen, die man erstellt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477084/?captions=ger&learn=on&enablevpops)
 
 Weitere Ressourcen finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285?profile.language=de)!
 
