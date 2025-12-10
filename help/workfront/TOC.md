@@ -3,9 +3,9 @@ user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
 solution: Workfront
-source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
+source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '312'
 ht-degree: 1%
 
 ---
@@ -51,6 +51,11 @@ ht-degree: 1%
    + Top 3 {#top3}
       + [Creative-Ansätze mit Blueprints](quick-takes/top3/blueprints.md)
       + [Die drei wichtigsten Ansätze bei der Bürozeiten](quick-takes/top3/office-hours.md)
+      + [Die 3 wichtigsten Kalenderhacks](quick-takes/top3/calendar-hacks.md)
+      + [Verwenden von Bildern in benutzerdefinierter Forms](quick-takes/top3/add-image-custom-forms.md)
+      + [Die wichtigsten Gründe für die Verwendung von Layout-Vorlagen](quick-takes/top3/layout-templates.md)
+      + [Die wichtigsten Gründe für die Teilnahme an Workfront-Workshops](quick-takes/top3/reason-attend-workshop.md)
+      + [Berichtszeitplanung in Workfront maximieren](quick-takes/top3/report-scheduling.md)
    + Versus! {#versus}
       + [Gruppen vs. Teams](quick-takes/versus/groups-vs-teams.md)
 + Experteneinblicke {#expert-insights}
@@ -60,6 +65,7 @@ ht-degree: 1%
    + [Content Supply chain](expert-insights/content-supply-chain.md)
    + [Verschmelzung](expert-insights/fusion.md)
    + [Governance und Exzellenzzentren](expert-insights/centers-of-excellence.md)
+   + [Haupttextmodus](expert-insights/text-mode.md)
    + [Nicht traditionelle Workfront-Workflows](expert-insights/non-traditional-workfront-workflows.md)
    + [Berichtspraktiken](expert-insights/reporting-practices.md)
    + [Ressourcenverwaltung](expert-insights/resource-management.md)
