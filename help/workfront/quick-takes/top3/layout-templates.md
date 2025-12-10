@@ -21,7 +21,7 @@ Es überrascht nicht, dass Layout-Vorlagen Ihre Adobe Workfront-Instanzen besser
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477026/?learn=on&enablevpops)
 
-Weitere Ressourcen finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531#M313)!
+Weitere Ressourcen finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531?profile.language=de#M313)!
 
 Wenn Sie gerne neue Ideen und kreative Ansätze kennenlernen möchten, vergessen Sie nicht, sich für bevorstehende Workshops auf der [Experience League Events-Seite anzumelden](https://experienceleague.adobe.com/de/events).
 

@@ -23,6 +23,6 @@ Dieses Mal teile ich meine bevorzugten Möglichkeiten, um das Meiste aus Zeitpl�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
 
-Weitere Ressourcen finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)!
+Weitere Ressourcen finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285?profile.language=de)!
 
 Wenn Sie gerne neue Ideen und kreative Ansätze kennenlernen möchten, vergessen Sie nicht, sich für bevorstehende Workshops auf der [Experience League Events-Seite anzumelden](https://experienceleague.adobe.com/de/events).

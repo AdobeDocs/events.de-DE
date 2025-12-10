@@ -26,6 +26,6 @@ Es ist wieder Ihr „On-Demand Workfront CSM“ mit Beispielen meiner persönlic
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477039/?learn=on&enablevpops)
 
-Weitere Ressourcen finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047)!
+Weitere Ressourcen finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047?profile.language=de)!
 
 Wenn Sie gerne neue Ideen und kreative Ansätze kennenlernen möchten, vergessen Sie nicht, sich für bevorstehende Workshops auf der [Experience League Events-Seite anzumelden](https://experienceleague.adobe.com/de/events).
