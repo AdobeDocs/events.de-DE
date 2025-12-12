@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Erfahren Sie, wie KI-Codierungs-Agenten in realen Edge Delivery Services-Projekten funktionieren. Erfahren Sie mehr über ihre Stärken, Herausforderungen und den Einfluss auf die Entwicklererfahrung. In dieser Sitzung von Adobe Developers Live 2025 wird die praktische Automatisierung im Vergleich zur „Vibe-Codierung“ vorgestellt, wobei hervorgehoben wird, wo sich KI auszeichnet und wo es Probleme gibt. Kommen Sie zu Lars Trieloff, der die agentische Entwicklung testet und führende KI-Kodierungsmittel vergleicht, um Einblicke in die Zukunft digitaler Erlebnisse zu gewähren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477619/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477657/?captions=ger&learn=on&enablevpops)
 
 In dieser Sitzung — Showdown des Programmierers: Das Gute, das Schlechte und das Hässliche — wird die Ingenieurskunst auf die Probe gestellt. Lars Trieloff vergleicht führende KI-Kodierungs-Agenten in realen Edge Delivery Services-Projekten und zeigt auf, wo Entwicklererfahrung und Agentenerfahrung zusammentreffen. Schauen Sie, wo KI glänzt, wo sie Probleme hat und was praktische Automatisierung von „Vibe Coding“ trennt. Aufgenommen live aus San Jose.
 
