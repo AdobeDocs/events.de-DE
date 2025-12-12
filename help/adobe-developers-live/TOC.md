@@ -2,10 +2,10 @@
 user-guide-title: Adobe Developers Live-Ereignisse
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Sammlung von Aufzeichnungen aus dem Adobe Developer Live Content-Ereignis
-source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '929'
-ht-degree: 6%
+source-wordcount: '984'
+ht-degree: 5%
 
 ---
 
@@ -16,9 +16,22 @@ ht-degree: 6%
 + 2025 {#2025}
    + [Keynote - Erstellen der Agentic Web Keynote](2025/keynote.md)
    + [Die agentische Evolution AEMS](2025/agentic-evolution-aem.md)
+   + [KI-Agenten mit LLM Optimizer](2025/llm-optimizer.md)
    + [KI in Adobe-Projekten](2025/ai-in-projects.md)
    + [KI-Kodierungs-Showdown](2025/coding-agent.md)
+   + [KI - Commerce-Entwicklungsinnovationen](2025/app-builder-extensions.md)
+   + [KI-Inhaltserkennung mit AEM](2025/ai-content-discovery.md)
+   + [Brand Concierge](2025/brand-concierge.md)
+   + [Inhalts-KI in AEM](2025/content-ai.md)
+   + [Dokumenterstellung in großem Umfang](2025/document-authoring-at-scale.md)
+   + [Dynamic Publishing](2025/dynamic-publishing.md)
    + [Erkunden von Adobe Experience Manager-Agenten](2025/aem-agents.md)
+   + [Migrieren und Modernisieren von Erlebnissen](2025/modernize-experiences.md)
+   + [Qantas mit Edge Delivery Services modernisieren](2025/modernizing-qantas.md)
+   + [Optimieren von Code mit AEM Sites Optimizer](2025/code-optimization.md)
+   + [Schnelle Momentaufnahmen der Entwicklungsumgebung](2025/rapid-development-snapshots.md)
+   + [Optimieren von staatlichen Services mit KI](2025/government-digital-services.md)
+   + [KI in AEM entsperren](2025/transform-aem-with-agents.md)
 + 2024 {#2024}
    + November {#nov2024}
       + [Grundgedanke](2024/nov/keynote.md)

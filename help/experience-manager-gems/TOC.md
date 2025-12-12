@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager GEMS-Veranstaltungen
 user-guide-description: Erfahren Sie mehr über AEM Gems, eine Reihe technischer Vertiefungen, die von Adobe Experience Manager-Experten angeboten wird.
 breadcrumb-title: AEM GEMs-Events
 solution: Experience Manager
-source-git-commit: 78e56de853566bed74975bb7ef44f2cbd53cde8d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
@@ -34,14 +34,11 @@ ht-degree: 2%
    + [AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
    + [Kunden-Anwendungsfall und Implementierung von AEM Headless in Verwendung](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
-   + [Genauer betrachtet - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [Integration des AEM- und CIF-Frameworks für ein eindrucksvolles E-Commerce-Erlebnis](gems2022/aem-and-cif-framework-integration.md)
    + [Schnellere Erstellung von Websites mit AEM Headless und App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
-   + [Adobe Experience Manager as a Cloud Service: Rückblick 2021 und Ausblick 2022](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
    + [AEM 6.5 ist bereit für die Welt - Übersetzungsintegration und Best Practices](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019 {#gems2019}
-   + [Neue Funktionen in Experience Manager 6.5 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [Detaillierte Einblicke in AEM Rich-Text-Editor (RTE)](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [Detaillierte Einblicke in die Implementierungsdetails von Stores, Modulen und Segmenten in ContextHub](gems2019/contexthub-deep-dive.md)
    + [Erstellen von Headless-Omni-Channel-Erlebnissen mit AEM 6.5](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
