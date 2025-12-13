@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Die Content-KI von Adobe Experience Manager transformiert digitale Erlebnisse, indem sie vorhandene Inhalte für die semantische Suche, generative Erkennung und automatische Inhaltsvarianten verwendet. Erfahren Sie, wie die Architektur und Anreicherungs-Pipelines von Content-KI intelligente digitale Erlebnisse bereitstellen. Entdecken Sie die Funktionen von für die effiziente Verwaltung von Inhalten und die Erschließung von KI-Möglichkeiten, um die digitale Transformation Ihres Unternehmens zu verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477729/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477828/?captions=ger&learn=on&enablevpops)
 
 In dieser Sitzung - Bringing Intelligence on Content in Adobe Experience Manager with Content AI - werden Fabrizio Fortino, Senior Cloud Software Engineer, und Julia Daurer, Managerin für Software-Entwicklung bei Adobe, vorgestellt. Live aus Basel aufgezeichnet, untersucht diese Präsentation, wie Adobe Experience Manager Content AI bestehende Kundeninhalte nutzt, um semantische Suche, generative Erkennung und automatische Inhaltsvarianten durch agentische Workflows zu ermöglichen. Erfahren Sie mehr über die Architektur von Content-KI, Anreicherungs-Pipelines und A/B-Testfunktionen, die für die Bereitstellung intelligenter digitaler Erlebnisse entwickelt wurden.
 

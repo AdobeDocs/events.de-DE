@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Erfahren Sie, wie KI die Inhaltserkennung mit Adobe Experience Manager transformiert. Erfahren Sie, wie Sie Content Advisor für die semantische Suche und KI-gestützte Asset-Empfehlungen verwenden können. In dieser Sitzung wird die auf Kampagnenübersichten basierende Erkennung und der schnelle Zugriff auf Dynamic Media-Ausgabedarstellungen behandelt, wodurch die Wiederverwendung und Bereitstellung von Inhalten über einen OpenAPI-Stack vereinfacht wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477673/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477749/?captions=ger&learn=on&enablevpops)
 
 In dieser Sitzung - KI-gesteuerte Inhaltssuche mit kanalfertigen Ausgabedarstellungen - zeigen Matt Briscoe, Deepa Gupta und Mathias Siegel, wie Entwickler mithilfe von Content Advisor Assets und Inhaltsfragmente mit semantischer Suche und KI-gestützten Empfehlungen ermitteln können. Erfahren Sie, wie die auf Kampagnenübersichten basierende Erkennung und der schnelle Zugriff auf Dynamic Media-Ausgabedarstellungen in Scene7 und DM die Wiederverwendung und Bereitstellung von Inhalten über einen OpenAPI-Stack vereinfachen. Aufgenommen live aus San Jose.
 

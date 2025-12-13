@@ -140,7 +140,7 @@ Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/brand-concierge.md" title="Verbesserung des Onsite-Erlebnisses" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477680/?format=jpeg&nocache=1765499677605" alt="Verbesserung des Onsite-Erlebnisses"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477773/?captions=ger&format=jpeg&nocache=1765499677605" alt="Verbesserung des Onsite-Erlebnisses"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="KI-Inhaltserkennung mit Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="KI-Inhaltserkennung mit Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477749/?captions=ger&format=jpeg&nocache=1765499677611" alt="KI-Inhaltserkennung mit Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +209,7 @@ Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-ai.md" title="Inhalts-KI in Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477729/?format=jpeg&nocache=1765499677634" alt="Inhalts-KI in Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477828/?captions=ger&format=jpeg&nocache=1765499677634" alt="Inhalts-KI in Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +232,7 @@ Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/document-authoring-at-scale.md" title="Dokumenterstellung im großen Maßstab - die Grundlage für intelligente, KI-optimierte Erlebnisse" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477753/?format=jpeg&nocache=1765499677631" alt="Dokumenterstellung im großen Maßstab - die Grundlage für intelligente, KI-optimierte Erlebnisse"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477817/?captions=ger&format=jpeg&nocache=1765499677631" alt="Dokumenterstellung im großen Maßstab - die Grundlage für intelligente, KI-optimierte Erlebnisse"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -301,7 +301,7 @@ Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/code-optimization.md" title="Optimieren von Code mit AEM Sites Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477676/?format=jpeg&nocache=1765499677637" alt="Optimieren von Code mit AEM Sites Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477726/?captions=ger&format=jpeg&nocache=1765499677637" alt="Optimieren von Code mit AEM Sites Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -324,7 +324,7 @@ Adobe-Produktteams in Adobe Experience Cloud, Document Cloud und Creative Cloud 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/modernize-experiences.md" title="Migrieren und Modernisieren von Erlebnissen mit Adobe Experience Manager für Benutzerinteraktion und KI-native Erkennung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477717/?format=jpeg&nocache=1765499677675" alt="Migrieren und Modernisieren von Erlebnissen mit Adobe Experience Manager für Benutzerinteraktion und KI-native Erkennung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477795/?captions=ger&format=jpeg&nocache=1765499677675" alt="Migrieren und Modernisieren von Erlebnissen mit Adobe Experience Manager für Benutzerinteraktion und KI-native Erkennung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

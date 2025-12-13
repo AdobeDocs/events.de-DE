@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Entdecken Sie, wie die KI-gestützten Such- und Abruffunktionen von Algolia Adobe Experience Manager, Adobe Commerce und Edge Delivery Services transformieren. Erfahren Sie, wie diese Tools die Personalisierung verbessern und die Benutzererlebnisse im gesamten Adobe-Ökosystem verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477674/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477713/?captions=ger&learn=on&enablevpops)
 
 Diese Session — Transform Adobe Experience Manager with AI Agents: Play, Build, Retrieve with Algolia — beinhaltet Debanshi Bheda und Sajid Momin aus Algolia, aufgenommen live aus San Jose. Entdecken Sie, wie die blitzschnellen Abrufen und Retrieval-Augmented Generation (RAG)-Funktionen von Algolia neu definieren, wie AEM, Edge Delivery Services und Adobe Commerce Inhalte und Produkte sowohl für Kunden als auch für KI-Agenten bereitstellen. Erfahren Sie, wie Adobe Experience Platform die Personalisierung fördert und wie die erweiterte Suche und der erweiterte Abruf von Algolia die Geschwindigkeit, Skalierbarkeit und Intelligenz im gesamten Adobe-Ökosystem freisetzen.
 

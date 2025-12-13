@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Erkunden Sie die Brand Concierge von Adobe, um digitale Erlebnisse mit KI-gesteuerten, personalisierten Interaktionen zu transformieren. Erfahren Sie, wie diese innovative Lösung durch die nahtlose Integration von Konversationserlebnissen auf Ihrer Website die Interaktion steigert und Konversionen steigert. Erfahren Sie, wie Sie durch intelligente Concierge-Funktionen, die Journey bereichern und die Kundenverbindung verbessern, mit Website-Besuchern in Kontakt treten können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477680/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477773/?captions=ger&learn=on&enablevpops)
 
 In dieser Sitzung — Verbesserung des Onsite-Erlebnisses mit Brand Concierge — erkundet Nina Ciocanu Adobes innovative Web-Integrationslösung, die Unternehmen dabei hilft, durch intelligente Concierge-Funktionen mit Site-Besuchern in Kontakt zu treten. Erfahren Sie, wie Sie Ihrer Website personalisierte, KI-gesteuerte Erlebnisse direkt hinzufügen können, um die Interaktion und Kundenverbindung zu verbessern. Aufgenommen live aus San Jose.
 

@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Erfahren Sie, wie Adobe Experience Manager Unternehmens-Websites für das KI-Zeitalter transformiert. Erfahren Sie, wie KI-Agenten die Site-Migration automatisieren, Inhalte anreichern und die Auffindbarkeit verbessern, sodass die Zeit bis zum Start verkürzt wird. Gewinnen Sie Einblicke in die Integration von Konversationsoberflächen, die Erstellung neuer Seiten und die Verbesserung des Designs für eine bessere Benutzerinteraktion.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477717/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477795/?captions=ger&learn=on&enablevpops)
 
 In dieser Sitzung — Migrieren und Modernisieren von Erlebnissen mit Adobe Experience Manager für Benutzerinteraktion und KI-native Erkennung — werden Giorgia Fiscaletti, Cloud Reliability Engineer bei Adobe, und Paolo Mottadelli, Director of Engineering bei Adobe, vorgestellt. Dieser live aus Basel aufgezeichnete Vortrag zeigt, wie Adobe Experience Manager-Agenten Unternehmens-Websites für das KI-Zeitalter modernisieren. Erfahren Sie, wie KI-Agenten automatisch Inhalte für generative Erkennung migrieren, anreichern und standardisieren, die Blockimplementierung und Designerstellung handhaben, um die Zeit bis zur Veröffentlichung zu verkürzen und die Auffindbarkeit von Inhalten zu verbessern.
 
