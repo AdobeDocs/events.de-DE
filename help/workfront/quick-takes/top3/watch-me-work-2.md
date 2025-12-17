@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Top 3 Sonderausgabe! Watch me work - 3 Wege [2. Video]
 
->[!VIDEO](https://video.tv.adobe.com/v/3470073/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470197/?captions=ger&learn=on&enablevpops)
 
 Erfahren Sie mehr über die wichtigsten Funktionen, die von Projektmanagern in Adobe Workfront verwendet werden. Erfahren Sie, wie Registerkarten, Zusammenfassungsfelder und Schnellfilter Ihren Workflow und die Effizienz verbessern können. Gewinnen Sie Einblicke in die effektive Verwaltung mehrerer Aufgaben und Projekte, um einen reibungslosen Betrieb und eine verbesserte Produktivität sicherzustellen. Sehen Sie sich das Video an, um diese Funktionen in Aktion zu sehen und Ihre Projektmanagement-Fähigkeiten zu verbessern.

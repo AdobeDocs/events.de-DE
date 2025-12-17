@@ -23,7 +23,7 @@ Dies ist ein großartiger Bericht für Ihre Führungskräfte auf höherer Ebene 
 
 Die Verwendung eines Meilensteinberichts im Projekt-Dashboard oder die Freigabe dieses Berichts (die noch besser ist, die automatische Bereitstellung für die reguläre Bereitstellung) ist eine hervorragende Möglichkeit, um interessierte Parteien - auch Nicht-Workfront-Benutzer - am Fortschritt von Projekten zu beteiligen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470066/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470163/?captions=ger&learn=on&enablevpops)
 
 ## Weitere Ressourcen
 

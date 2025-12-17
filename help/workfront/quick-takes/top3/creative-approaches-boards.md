@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Ich bin es wieder, Ihre „On-Demand Workfront CSM“ Cynthia Boon und ich hoffe, Sie mit kreativen Ideen für die Verwendung von Workfront Boards zu inspirieren.  Ich erwähne es im Video, aber nur für den Fall, dass Sie hier kurz daran erinnern, dass Sie nicht in einem agilen Team arbeiten müssen, um die Funktion „Pinnwände“ zu verwenden.  Wenn die Projektaufgabenliste für Ihr Team nicht funktioniert, versuchen Sie es mit Pinnwänden!  
 
->[!VIDEO](https://video.tv.adobe.com/v/3470068/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470174/?captions=ger&learn=on&enablevpops)
 
 Suchen Sie nach einem Beispiel dafür, wie ein Kunde Boards verwendet? Sehen Sie sich nur die Boards-Präsentation des Mattel-Teams auf der Adobe Summit 2024 an!  
 

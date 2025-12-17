@@ -23,7 +23,7 @@ Suchen Sie nach neuen, effizienten Möglichkeiten, Ihre Informationen in einem B
 
 Wir erhalten viele Fragen dazu, wie Sie mit dem Textmodus Informationen in einem Bericht kombinieren können. Daher haben wir ein schrittweises Video sowie einige Ressourcen unten, die Ihnen den Einstieg erleichtern. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470129/?captions=ger&learn=on&enablevpops)
 
 Suchen Sie mehr? Wir haben **Drei Bonustipps** auf dem [Experience League Community-Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=de)!
 

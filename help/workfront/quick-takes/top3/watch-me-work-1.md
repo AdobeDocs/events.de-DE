@@ -23,7 +23,7 @@ Es bin wieder ich, deine „On-Demand Workfront CSM“ Cynthia Boon mit einer sp
 * Projekt-Manager/-Planer
 * Worker/Requester
 
->[!VIDEO](https://video.tv.adobe.com/v/3470072/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470185/?captions=ger&learn=on&enablevpops)
 
 ## Zusätzliche Ressourcen
 

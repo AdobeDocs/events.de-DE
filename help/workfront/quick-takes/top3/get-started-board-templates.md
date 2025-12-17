@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Hallo von Ihrer „On-Demand Workfront CSM“ Cynthia Boon! Sie sind an der Verwendung von Workfront-Boards interessiert, wissen aber nicht, wo Sie anfangen sollen? Am einfachsten beginnen Sie mit vordefinierten Vorlagen!
 
->[!VIDEO](https://video.tv.adobe.com/v/3470067/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470140/?captions=ger&learn=on&enablevpops)
 
 Hier ist ein Artikel, der Schritt-für-Schritt-Anweisungen enthält.
 

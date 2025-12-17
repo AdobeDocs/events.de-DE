@@ -23,7 +23,7 @@ Reden wir über Adoption! Wir sind alle auf der Suche nach neuen Ideen, wie wir 
 
 Wenn Sie noch keine Gelegenheit hatten, mit der Funktion „Pinnwände“ zu experimentieren, machen Sie sich keine Sorgen! Im Video zeige ich, wie ich Ihren Benutzern Zugriff gewähren kann und einige Möglichkeiten, wie sie schnell loslegen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470107/?captions=ger&learn=on&enablevpops)
 
 ## Zusätzliche Ressourcen
 
