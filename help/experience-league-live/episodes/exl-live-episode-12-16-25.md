@@ -28,4 +28,4 @@ Sehen Sie sich diese Live-Sitzung an, in der das Produkt-Team hinter dem Produkt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[Lassen Sie die Diskussion in der Community-Diskussion am Laufen!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}
+[Lassen Sie die Diskussion in der Community-Diskussion am Laufen!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172?profile.language=de#M1909){target="_blank"}
