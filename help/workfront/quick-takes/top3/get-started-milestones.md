@@ -29,8 +29,8 @@ Die Verwendung eines Meilensteinberichts im Projekt-Dashboard oder die Freigabe 
 
 Weitere Informationen zu Meilensteinen finden Sie in diesen kostenlosen Ressourcen:
 
-* [Erstellen eines Meilensteinpfads und von Meilensteinschritten](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
-* [Verwenden der Meilenstein -Ansicht](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
+* [Erstellen eines Meilensteinpfads und von Meilensteinschritten](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
+* [Verwenden der Meilenstein -Ansicht](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
 * [Senden und Freigeben von Berichten](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)
 
 

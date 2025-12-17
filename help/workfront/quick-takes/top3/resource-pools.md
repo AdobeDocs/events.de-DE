@@ -29,7 +29,7 @@ Erste Schritte mit Ressourcenpools? Was sind zunächst die Dinge?
 
 ## Weitere Ressourcen
 
-* Weitere Informationen finden Sie im Artikel [Ressourcenpools - Übersicht](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
-* Suchen Sie mehr? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866)!
+* Weitere Informationen finden Sie im Artikel [Ressourcenpools - Übersicht](https://experienceleague.adobe.com/de/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
+* Suchen Sie mehr? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866?profile.language=de)!
 
 

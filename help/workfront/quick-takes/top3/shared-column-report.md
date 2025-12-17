@@ -25,6 +25,6 @@ Wir erhalten viele Fragen dazu, wie Sie mit dem Textmodus Informationen in einem
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
 
-Suchen Sie mehr? Wir haben **Drei Bonustipps** auf dem [Experience League Community-Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)!
+Suchen Sie mehr? Wir haben **Drei Bonustipps** auf dem [Experience League Community-Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=de)!
 
 

@@ -23,8 +23,8 @@ Hallo von Ihrer „On-Demand Workfront CSM“ Cynthia Boon! Sie sind an der Verw
 
 Hier ist ein Artikel, der Schritt-für-Schritt-Anweisungen enthält.
 
-[Erstellen einer neuen Pinnwand mit einer Vorlage](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
+[Erstellen einer neuen Pinnwand mit einer Vorlage](https://experienceleague.adobe.com/de/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
 
-Haben Sie Ideen oder weitere Fragen zum Video? Sie können diese gern in den Kommentaren zum [Experience League-Community-Post ablegen](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307)!
+Haben Sie Ideen oder weitere Fragen zum Video? Sie können diese gern in den Kommentaren zum [Experience League-Community-Post ablegen](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307?profile.language=de)!
 
 

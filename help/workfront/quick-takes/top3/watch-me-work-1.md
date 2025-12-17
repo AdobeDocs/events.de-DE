@@ -27,4 +27,4 @@ Es bin wieder ich, deine „On-Demand Workfront CSM“ Cynthia Boon mit einer sp
 
 ## Zusätzliche Ressourcen
 
-Suchen Sie mehr? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910)!
+Suchen Sie mehr? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910?profile.language=de)!

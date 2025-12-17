@@ -21,6 +21,6 @@ Wir haben noch ein Top 3 Video mit Ihrem „On-Demand Workfront CSM“! Dieses M
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470070/?learn=on&enablevpops)
 
-Suchen Sie nach weiteren Ressourcen oder Ideen für die Verwendung von Firmen? Weitere Best Practices finden Sie im [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-companies/td-p/670313)Community-Beitrag!
+Suchen Sie nach weiteren Ressourcen oder Ideen für die Verwendung von Firmen? Weitere Best Practices finden Sie im [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-companies/td-p/670313?profile.language=de)Community-Beitrag!
 
 
