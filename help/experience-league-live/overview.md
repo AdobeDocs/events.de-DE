@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 45be7126bdcf2ae97d812dc3aa708efa7c173c98
+source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 17%
+source-wordcount: '165'
+ht-degree: 19%
 
 ---
 
@@ -25,16 +25,8 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 <table>
     <tr>
-         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-16-25.md">
-              <img alt="Experience League LIVE 16. Dezember 2025" src="episodes/assets/WebBanner_Dec16_2025.jpg">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-12-16-25.md">
-                <strong>Vereinfachen Sie die Fehlerbehebung und Fallverwaltung für Support mit dem Product Support Agent</strong>
-              </a>
-              <br/><em>mit Daniel Wright, Huong Vu und Shreya Anantha Raman</em>
-              <br/><em>16. Dezember 2025</em>
-            </div>
+         <td style="vertical-align: top;">
+            Bald werden neue Shows erscheinen. Kehren Sie zu dieser Seite zurück, um verfügbare Sendungen zu sehen.
         </td>
     </tr>
 
@@ -101,5 +93,5 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 >[!TIP]
 >
->Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/de?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
+>Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
 
