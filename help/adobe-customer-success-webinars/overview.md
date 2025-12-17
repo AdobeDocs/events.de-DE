@@ -3,9 +3,9 @@ title: Kundenerfolgs-Webinare zu Adobe
 description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
 duration: 42
-source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '5745'
+source-wordcount: '5869'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/enriching-adobe-commerce.md" title="Adobe Commerce mit Adobe Experience Platform anreichern" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475428/?format=jpeg&nocache=1765302558167" alt="Adobe Commerce mit Adobe Experience Platform anreichern"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475428/?format=jpeg&nocache=1766006669541" alt="Adobe Commerce mit Adobe Experience Platform anreichern"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,7 +56,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/transforming-b2b-commerce.md" title="Transformieren von B2B- und B2B2C-Commerce mit Personalization und Automatisierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464441/?format=jpeg&nocache=1765302558162" alt="Transformieren von B2B- und B2B2C-Commerce mit Personalization und Automatisierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464441/?format=jpeg&nocache=1766006669531" alt="Transformieren von B2B- und B2B2C-Commerce mit Personalization und Automatisierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -101,7 +101,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-adoption.md" title="Strategien zur Änderungsverwaltung für die Einführung von Adobe Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470851/?format=jpeg&nocache=1765302560703" alt="Strategien zur Änderungsverwaltung für die Einführung von Adobe Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470851/?format=jpeg&nocache=1766006670041" alt="Strategien zur Änderungsverwaltung für die Einführung von Adobe Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -124,7 +124,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-success.md" title="Aufbau von Executive Sponsoring zur Unterstützung von Adobe Customer Journey Analytics Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470863/?captions=ger&format=jpeg&nocache=1765302560694" alt="Aufbau von Executive Sponsoring zur Unterstützung von Adobe Customer Journey Analytics Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470853/?format=jpeg&nocache=1766006670026" alt="Aufbau von Executive Sponsoring zur Unterstützung von Adobe Customer Journey Analytics Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -147,7 +147,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-data-insights-agent.md" title="Konversationen mit Ihren Daten - CJA Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1765302560678" alt="Konversationen mit Ihren Daten - CJA Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1766006670011" alt="Konversationen mit Ihren Daten - CJA Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -165,12 +165,12 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create Offers in 30 Minutes with CJA">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2025/cja-shared-audiences.md" title="unbestimmt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="unbestimmt"
+                    <a href="2025/cja-shared-audiences.md" title="Erstellen von Angeboten in 30 Minuten mit CJA" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477449/?format=jpeg&nocache=1766006670086" alt="Erstellen von Angeboten in 30 Minuten mit CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,9 +178,9 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/cja-shared-audiences.md" target="_blank" rel="referrer" title="unbestimmt">undefined</a>
+                        <a href="2025/cja-shared-audiences.md" target="_blank" rel="referrer" title="Erstellen von Angeboten in 30 Minuten mit CJA">Erstellen von Angeboten in 30 Minuten mit CJA</a>
                     </p>
-                    <p class="is-size-6">unbestimmt</p>
+                    <p class="is-size-6">Erfahren Sie, wie Marketing-Experten mit CJA in nur 30 Minuten verwertbare Zielgruppen und Angebote erstellen können.</p>
                 </div>
                 <a href="2025/cja-shared-audiences.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
@@ -193,7 +193,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-operating-model.md" title="Entwerfen eines Betriebsmodells für CJA Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470541/?format=jpeg&nocache=1765302560662" alt="Entwerfen eines Betriebsmodells für CJA Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470541/?format=jpeg&nocache=1766006670052" alt="Entwerfen eines Betriebsmodells für CJA Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -216,7 +216,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-vision.md" title="Grundlegende Architektur, die für die Umsetzung der Vision von Adobe Customer Journey Analytics erforderlich ist" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470281/?format=jpeg&nocache=1765302560653" alt="Grundlegende Architektur, die für die Umsetzung der Vision von Adobe Customer Journey Analytics erforderlich ist"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470281/?format=jpeg&nocache=1766006670070" alt="Grundlegende Architektur, die für die Umsetzung der Vision von Adobe Customer Journey Analytics erforderlich ist"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -239,7 +239,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/analytics-to-cja-migration.md" title="Best Practices für die Migration von Adobe Analytics zu Adobe Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464911/?format=jpeg&nocache=1765302560657" alt="Best Practices für die Migration von Adobe Analytics zu Adobe Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464911/?format=jpeg&nocache=1766006670020" alt="Best Practices für die Migration von Adobe Analytics zu Adobe Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -262,7 +262,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/roadmap-to-value-cja.md" title="Nutzen-Roadmap für CJA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464933/?format=jpeg&nocache=1765302560686" alt="Nutzen-Roadmap für CJA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464933/?format=jpeg&nocache=1766006670061" alt="Nutzen-Roadmap für CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -285,7 +285,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/smarter-marketing-starts-here-integrating-google-and-adobe.md" title="Intelligenteres Marketing beginnt hier - Integration von Google und Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458047/?format=jpeg&nocache=1765302560671" alt="Intelligenteres Marketing beginnt hier - Integration von Google und Adobe"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458047/?format=jpeg&nocache=1766006670079" alt="Intelligenteres Marketing beginnt hier - Integration von Google und Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -336,7 +336,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/personalized-experiences-aem.md" title="Mehr als nur eine Seite - Schnelle, flexible und personalisierte Erlebnisse mit der aufstrebenden Technologie von AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464537/?format=jpeg&nocache=1765302562895" alt="Mehr als nur eine Seite - Schnelle, flexible und personalisierte Erlebnisse mit der aufstrebenden Technologie von AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464537/?format=jpeg&nocache=1766006671839" alt="Mehr als nur eine Seite - Schnelle, flexible und personalisierte Erlebnisse mit der aufstrebenden Technologie von AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -359,7 +359,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-lucene-search.md" title="Wichtige Tipps und Best Practices für die AEM Lucene-Suche" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476410/?format=jpeg&nocache=1765302562914" alt="Wichtige Tipps und Best Practices für die AEM Lucene-Suche"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476410/?format=jpeg&nocache=1766006671857" alt="Wichtige Tipps und Best Practices für die AEM Lucene-Suche"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -382,7 +382,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-genai.md" title="AEM mit GenAI - skalierbare Transformation der Inhaltserstellung und -bereitstellung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1765302562897" alt="AEM mit GenAI - skalierbare Transformation der Inhaltserstellung und -bereitstellung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1766006671844" alt="AEM mit GenAI - skalierbare Transformation der Inhaltserstellung und -bereitstellung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -405,7 +405,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-workfront-integration.md" title="Integration von AEM und Workfront mithilfe des nativen Connectors" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1765302562892" alt="Integration von AEM und Workfront mithilfe des nativen Connectors"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1766006671862" alt="Integration von AEM und Workfront mithilfe des nativen Connectors"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -428,7 +428,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/build-effective-web-pages.md" title="Erstellen effektiver Web-Seiten in AEM Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1765302562930" alt="Erstellen effektiver Web-Seiten in AEM Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1766006671850" alt="Erstellen effektiver Web-Seiten in AEM Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -451,7 +451,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-assistant-in-aem.md" title="KI-Assistent in AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476624/?format=jpeg&nocache=1765302562900" alt="KI-Assistent in AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476624/?format=jpeg&nocache=1766006671867" alt="KI-Assistent in AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -474,7 +474,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/driving-customer-engagement.md" title="Förderung der Kundeninteraktion im Player-Bereich" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444127/?format=jpeg&nocache=1765302562907" alt="Förderung der Kundeninteraktion im Player-Bereich"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444127/?format=jpeg&nocache=1766006671883" alt="Förderung der Kundeninteraktion im Player-Bereich"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -497,7 +497,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/payer-enrollment-journey.md" title="Modernisierung der Player-Enrollment-Journey mit AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470542/?format=jpeg&nocache=1765302562902" alt="Modernisierung der Player-Enrollment-Journey mit AEM Forms"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470542/?format=jpeg&nocache=1766006671880" alt="Modernisierung der Player-Enrollment-Journey mit AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -520,7 +520,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-aem-sites.md" title="Meistern von AEM Sites - Vorlagen, Navigation und SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464324/?captions=ger&format=jpeg&nocache=1765302562922" alt="Meistern von AEM Sites - Vorlagen, Navigation und SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1766006671870" alt="Meistern von AEM Sites - Vorlagen, Navigation und SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -543,7 +543,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-dam-aem-content-hub.md" title="Meistern des Digital Asset Management - Best Practices mit Adobe ContentHub" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463353/?format=jpeg&nocache=1765302562904" alt="Meistern des Digital Asset Management - Best Practices mit Adobe ContentHub"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463353/?format=jpeg&nocache=1766006671900" alt="Meistern des Digital Asset Management - Best Practices mit Adobe ContentHub"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -566,7 +566,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/dynamic-media-open-ai.md" title="Meistern von Dynamic Media mit Open API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470620/?format=jpeg&nocache=1765302562911" alt="Meistern von Dynamic Media mit Open API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470620/?format=jpeg&nocache=1766006671876" alt="Meistern von Dynamic Media mit Open API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -589,7 +589,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/new-relic-essentials-aem-cloud.md" title="New Relic Essentials für AEM Cloud" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463351/?format=jpeg&nocache=1765302562961" alt="New Relic Essentials für AEM Cloud"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463351/?format=jpeg&nocache=1766006671892" alt="New Relic Essentials für AEM Cloud"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -612,7 +612,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/optimize-aem-performance.md" title="Optimieren der AEM-Leistung - Caching-Strategien und -Techniken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1765302562954" alt="Optimieren der AEM-Leistung - Caching-Strategien und -Techniken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1766006671923" alt="Optimieren der AEM-Leistung - Caching-Strategien und -Techniken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -635,7 +635,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/personalize-digital-communications.md" title="Personalisieren der digitalen Kommunikation in Financial Services mit AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458104/?format=jpeg&nocache=1765302562938" alt="Personalisieren der digitalen Kommunikation in Financial Services mit AEM Forms"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458104/?format=jpeg&nocache=1766006671916" alt="Personalisieren der digitalen Kommunikation in Financial Services mit AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -658,7 +658,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/modern-aem-authoring.md" title="Überblick über den universellen Editor für das moderne Adobe Experience Manager-Authoring" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470850/?format=jpeg&nocache=1765302562946" alt="Überblick über den universellen Editor für das moderne Adobe Experience Manager-Authoring"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470850/?format=jpeg&nocache=1766006671908" alt="Überblick über den universellen Editor für das moderne Adobe Experience Manager-Authoring"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -700,7 +700,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-agents.md" title="KI-Agenten in AEP - ein Überblick" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1765302569000" alt="KI-Agenten in AEP - ein Überblick"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1766006672765" alt="KI-Agenten in AEP - ein Überblick"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -723,7 +723,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="KI-Assistent - Über die Grundlagen hinaus" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463367/?captions=ger&format=jpeg&nocache=1765302568992" alt="KI-Assistent - Über die Grundlagen hinaus"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1766006672754" alt="KI-Assistent - Über die Grundlagen hinaus"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -746,7 +746,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/model-xdm-schemas.md" title="Best Practices und Erkenntnisse für die Modellierung von XDM-Schemata" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458042/?format=jpeg&nocache=1765302569018" alt="Best Practices und Erkenntnisse für die Modellierung von XDM-Schemata"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458042/?format=jpeg&nocache=1766006672771" alt="Best Practices und Erkenntnisse für die Modellierung von XDM-Schemata"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -769,7 +769,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/data-distiller-101.md" title="Data Distiller 101" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1765302569026" alt="Data Distiller 101"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1766006672762" alt="Data Distiller 101"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -792,7 +792,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/exec-sponsorship-aep-projects.md" title="Gewinner des Executive Sponsoring für Adobe Experience Platform-Projekte" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458041/?format=jpeg&nocache=1765302569016" alt="Gewinner des Executive Sponsoring für Adobe Experience Platform-Projekte"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458041/?format=jpeg&nocache=1766006672758" alt="Gewinner des Executive Sponsoring für Adobe Experience Platform-Projekte"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -815,7 +815,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/identity-graph.md" title="Anwendungsfälle und Fehlerbehebung bei Identitätsdiagrammen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475214/?format=jpeg&nocache=1765302569008" alt="Anwendungsfälle und Fehlerbehebung bei Identitätsdiagrammen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475214/?format=jpeg&nocache=1766006672774" alt="Anwendungsfälle und Fehlerbehebung bei Identitätsdiagrammen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -852,7 +852,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/csc-gen-studio.md" title="Entmystifizierung der Inhaltslieferkette und Adobe GenStudio as a Product Suite" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472988/?captions=ger&format=jpeg&nocache=1765302571399" alt="Entmystifizierung der Inhaltslieferkette und Adobe GenStudio as a Product Suite"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472978/?format=jpeg&nocache=1766006673423" alt="Entmystifizierung der Inhaltslieferkette und Adobe GenStudio as a Product Suite"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -875,7 +875,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/genstudio-for-performance-marketing-operating-model.md" title="GenStudio für Performance-Marketing - Betriebsmodell und Governance-Strategie" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1765302571396" alt="GenStudio für Performance-Marketing - Betriebsmodell und Governance-Strategie"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1766006673419" alt="GenStudio für Performance-Marketing - Betriebsmodell und Governance-Strategie"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -907,6 +907,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
 * 2025/design-an-operating-model-ajo.md
 * 2025/northstar-architecture-enable-adobe-journey-optimzier.md
 * 2025/ajo-roadmap-to-value.md
+* 2025/ajo-adobe-campaign.md
 * 2025/journey-optimizer-essentials.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -916,7 +917,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/build-executive-sponsorship-ajo.md" title="Aufbau von Executive Sponsoring zur Unterstützung von Adobe Journey Optimizer Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476623/?format=jpeg&nocache=1765302573251" alt="Aufbau von Executive Sponsoring zur Unterstützung von Adobe Journey Optimizer Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476623/?format=jpeg&nocache=1766006674575" alt="Aufbau von Executive Sponsoring zur Unterstützung von Adobe Journey Optimizer Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -939,7 +940,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/change-management-strategies.md" title="Strategien zur Änderungsverwaltung für die Einführung von Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476698/?format=jpeg&nocache=1765302573245" alt="Strategien zur Änderungsverwaltung für die Einführung von Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476698/?format=jpeg&nocache=1766006674563" alt="Strategien zur Änderungsverwaltung für die Einführung von Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -962,7 +963,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/design-an-operating-model-ajo.md" title="Entwerfen eines Betriebsmodells für AJO Success" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476411/?format=jpeg&nocache=1765302573248" alt="Entwerfen eines Betriebsmodells für AJO Success"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476411/?format=jpeg&nocache=1766006674558" alt="Entwerfen eines Betriebsmodells für AJO Success"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -985,7 +986,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/northstar-architecture-enable-adobe-journey-optimzier.md" title="Nutzung einer NorthStar-Architektur zur Unterstützung der Adobe Journey Optimizer-Vision" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476319/?format=jpeg&nocache=1765302573255" alt="Nutzung einer NorthStar-Architektur zur Unterstützung der Adobe Journey Optimizer-Vision"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476319/?format=jpeg&nocache=1766006674568" alt="Nutzung einer NorthStar-Architektur zur Unterstützung der Adobe Journey Optimizer-Vision"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1008,7 +1009,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ajo-roadmap-to-value.md" title="Adobe Journey Optimizer-Reihe zur Wertschöpfung - Roadmap für Sitzung 1 mit Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476067/?format=jpeg&nocache=1765302573257" alt="Adobe Journey Optimizer-Reihe zur Wertschöpfung - Roadmap für Sitzung 1 mit Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476067/?format=jpeg&nocache=1766006674581" alt="Adobe Journey Optimizer-Reihe zur Wertschöpfung - Roadmap für Sitzung 1 mit Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1026,12 +1027,35 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Modernize Campaigns with Adobe Journey Optimizer and Adobe Campaign">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/ajo-adobe-campaign.md" title="Modernisieren von Kampagnen mit Adobe Journey Optimizer und Adobe Campaign" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477880/?format=jpeg&nocache=1766006674571" alt="Modernisieren von Kampagnen mit Adobe Journey Optimizer und Adobe Campaign"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/ajo-adobe-campaign.md" target="_blank" rel="referrer" title="Modernisieren von Kampagnen mit Adobe Journey Optimizer und Adobe Campaign">Modernisieren von Kampagnen mit Adobe Journey Optimizer und Adobe Campaign</a>
+                    </p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie Adobe Journey Optimizer und Adobe Campaign für nahtlose, kanalübergreifende Erlebnisse und effiziente Workflows harmonisieren können.</p>
+                </div>
+                <a href="2025/ajo-adobe-campaign.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Journey Optimizer Essentials">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/journey-optimizer-essentials.md" title="Journey Optimizer Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464440/?format=jpeg&nocache=1765302573253" alt="Journey Optimizer Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464440/?format=jpeg&nocache=1766006674578" alt="Journey Optimizer Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1044,6 +1068,43 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
                     <p class="is-size-6">Erkunden Sie Adobe Journey Optimizer und erfahren Sie, wie Sie kanalübergreifend KI-gesteuerte, personalisierte Kunden-Journeys für eine intelligentere, optimierte Interaktion erstellen.</p>
                 </div>
                 <a href="2025/journey-optimizer-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+### Marketo
+
+<!-- CARDS  ****
+
+{cta = Watch}
+
+* 2025/marketo-new-email-editor.md
+ 
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo New Email Editor">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/marketo-new-email-editor.md" title="Neuer Marketo-E-Mail-Editor" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477881/?format=jpeg&nocache=1766006675068" alt="Neuer Marketo-E-Mail-Editor"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/marketo-new-email-editor.md" target="_blank" rel="referrer" title="Neuer Marketo-E-Mail-Editor">Neuer Marketo-E-Mail-Editor</a>
+                    </p>
+                    <p class="is-size-6">Erfahren Sie mehr über die neuen E-Mail-Editor-Funktionen von Marketo, Best Practices, Migrationstipps und häufige Fallstricke bei Fragen und Antworten.</p>
+                </div>
+                <a href="2025/marketo-new-email-editor.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -1074,7 +1135,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-supply-chain-basics.md" title="Grundlagen zur Inhaltslieferkette - Integration von AEM, Analytics/CJA und Adobe Target für neue Anwender" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1765302574822" alt="Grundlagen zur Inhaltslieferkette - Integration von AEM, Analytics/CJA und Adobe Target für neue Anwender"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1766006675611" alt="Grundlagen zur Inhaltslieferkette - Integration von AEM, Analytics/CJA und Adobe Target für neue Anwender"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1097,7 +1158,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/accelerating-digital-experience-optimization.md" title="Beschleunigen der Optimierung digitaler Erlebnisse mit KI-gestützten Erkenntnissen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1765302574812" alt="Beschleunigen der Optimierung digitaler Erlebnisse mit KI-gestützten Erkenntnissen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1766006675602" alt="Beschleunigen der Optimierung digitaler Erlebnisse mit KI-gestützten Erkenntnissen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1120,7 +1181,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/enhance-loyalty-programs.md" title="Verbessern von Treueprogrammen durch Personalization und Daten mit den Adobe-Lösungen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1765302574811" alt="Verbessern von Treueprogrammen durch Personalization und Daten mit den Adobe-Lösungen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1766006675589" alt="Verbessern von Treueprogrammen durch Personalization und Daten mit den Adobe-Lösungen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1143,7 +1204,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/enhancing-personalization.md" title="Erweitern von Personalization - Integration Essentials für Adobe Target mit CJA und AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1765302574824" alt="Erweitern von Personalization - Integration Essentials für Adobe Target mit CJA und AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1766006675595" alt="Erweitern von Personalization - Integration Essentials für Adobe Target mit CJA und AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1166,7 +1227,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="GenAI-Experimente in AJO und seine Beziehung zu Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444468/?captions=ger&format=jpeg&nocache=1765302574820" alt="GenAI-Experimente in AJO und seine Beziehung zu Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1766006675599" alt="GenAI-Experimente in AJO und seine Beziehung zu Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1189,7 +1250,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-sequential-logic.md" title="Beherrschen der sequenziellen Logik in AA und CJA - Ein visuelles Framework" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1765302574808" alt="Beherrschen der sequenziellen Logik in AA und CJA - Ein visuelles Framework"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1766006675583" alt="Beherrschen der sequenziellen Logik in AA und CJA - Ein visuelles Framework"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1212,7 +1273,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/sequential-logic-start-stop.md" title="Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Startet und Stoppt" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458040/?format=jpeg&nocache=1765302574817" alt="Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Startet und Stoppt"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458040/?format=jpeg&nocache=1766006675607" alt="Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Startet und Stoppt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1249,7 +1310,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-adobe-target.md" title="Erschließen der Leistungsfähigkeit von KI - Erweiterte Experimentiermöglichkeiten mit Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1765302576873" alt="Erschließen der Leistungsfähigkeit von KI - Erweiterte Experimentiermöglichkeiten mit Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1766006676082" alt="Erschließen der Leistungsfähigkeit von KI - Erweiterte Experimentiermöglichkeiten mit Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1293,7 +1354,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/adobe-digital-insights.md" title="Adobe Digital Insights - Ergebnisse der Feiertage 2024 und Trends von Anfang 2025" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446271/?format=jpeg&nocache=1765302578066" alt="Adobe Digital Insights - Ergebnisse der Feiertage 2024 und Trends von Anfang 2025"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446271/?format=jpeg&nocache=1766006676260" alt="Adobe Digital Insights - Ergebnisse der Feiertage 2024 und Trends von Anfang 2025"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1316,7 +1377,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/impactful-insights.md" title="Impactful Insights - Ausarbeitung von Strategien für effektive Messung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1765302578063" alt="Impactful Insights - Ausarbeitung von Strategien für effektive Messung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1766006676269" alt="Impactful Insights - Ausarbeitung von Strategien für effektive Messung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1339,7 +1400,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/agile-marketing-organization.md" title="Agile-Marketing-Organisation kultivieren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1765302578073" alt="Agile-Marketing-Organisation kultivieren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1766006676265" alt="Agile-Marketing-Organisation kultivieren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1362,7 +1423,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/practical-business-use-cases.md" title="Entwickeln praktischer B2B-Anwendungsfälle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477350/?format=jpeg&nocache=1765302578068" alt="Entwickeln praktischer B2B-Anwendungsfälle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477350/?format=jpeg&nocache=1766006676254" alt="Entwickeln praktischer B2B-Anwendungsfälle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1385,7 +1446,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/digital-trends-preparing-future.md" title="Digitale Trends und Vorbereitung auf die Zukunft" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463356/?format=jpeg&nocache=1765302578070" alt="Digitale Trends und Vorbereitung auf die Zukunft"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463356/?format=jpeg&nocache=1766006676275" alt="Digitale Trends und Vorbereitung auf die Zukunft"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1408,7 +1469,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/northstar-architecture.md" title="In: EA Northstar Architecture Planning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463355/?format=jpeg&nocache=1765302578058" alt="In: EA Northstar Architecture Planning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463355/?format=jpeg&nocache=1766006676272" alt="In: EA Northstar Architecture Planning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1431,7 +1492,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-driven-growth.md" title="Marktführer im Einzelhandel - KI-gestütztes Wachstum und Playbooks mit Spitzenleistungen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471272/?format=jpeg&nocache=1765302578056" alt="Marktführer im Einzelhandel - KI-gestütztes Wachstum und Playbooks mit Spitzenleistungen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471272/?format=jpeg&nocache=1766006676282" alt="Marktführer im Einzelhandel - KI-gestütztes Wachstum und Playbooks mit Spitzenleistungen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1454,7 +1515,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/state-of-digital-and-genai-adoption-webinar.md" title="Adobe Digital Insights - Webinar zum Stand der Einführung von Digital- und GenAI" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458483/?format=jpeg&nocache=1765302578061" alt="Adobe Digital Insights - Webinar zum Stand der Einführung von Digital- und GenAI"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458483/?format=jpeg&nocache=1766006676278" alt="Adobe Digital Insights - Webinar zum Stand der Einführung von Digital- und GenAI"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1494,7 +1555,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/unlock-efficiency-ai-drive-automation-workfront.md" title="Entfesseln Sie die Effizienz - KI-gesteuerte Automatisierung in Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463352/?format=jpeg&nocache=1765302580280" alt="Entfesseln Sie die Effizienz - KI-gesteuerte Automatisierung in Adobe Workfront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463352/?format=jpeg&nocache=1766006676979" alt="Entfesseln Sie die Effizienz - KI-gesteuerte Automatisierung in Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1517,7 +1578,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/adobe-workfront-fusion-best-practices.md" title="Grundlagen und Best Practices zu Adobe Workfront Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458043/?format=jpeg&nocache=1765302580285" alt="Grundlagen und Best Practices zu Adobe Workfront Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458043/?format=jpeg&nocache=1766006676984" alt="Grundlagen und Best Practices zu Adobe Workfront Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1540,7 +1601,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/workfront-and-jira.md" title="Workfront und JIRA - Vernetzung Ihrer Marketing-Arbeits-Management- und Entwicklungsausführungssysteme" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464442/?format=jpeg&nocache=1765302580282" alt="Workfront und JIRA - Vernetzung Ihrer Marketing-Arbeits-Management- und Entwicklungsausführungssysteme"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464442/?format=jpeg&nocache=1766006676974" alt="Workfront und JIRA - Vernetzung Ihrer Marketing-Arbeits-Management- und Entwicklungsausführungssysteme"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1612,7 +1673,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/adobe-admin-console.md" title="Meistern der Adobe Admin Console" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1765302581812" alt="Meistern der Adobe Admin Console"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1766006677431" alt="Meistern der Adobe Admin Console"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1635,7 +1696,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aem-authoring-concepts.md" title="AEM-Grundlagen Einführung in die wichtigsten Konzepte und Funktionen der Inhaltserstellung in AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1765302581809" alt="AEM-Grundlagen Einführung in die wichtigsten Konzepte und Funktionen der Inhaltserstellung in AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1766006677437" alt="AEM-Grundlagen Einführung in die wichtigsten Konzepte und Funktionen der Inhaltserstellung in AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1658,7 +1719,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aem-sites-efficiencies.md" title="AEM Sites-Effizienz - Leistungsoptimierung, Konfiguration und Fehlerbehebung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1765302581814" alt="AEM Sites-Effizienz - Leistungsoptimierung, Konfiguration und Fehlerbehebung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1766006677444" alt="AEM Sites-Effizienz - Leistungsoptimierung, Konfiguration und Fehlerbehebung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1681,7 +1742,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-apps-services-integrations.md" title="Erfahren Sie mehr über AEP App Services-Integrationen für Kunden-Anwendungsfälle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1765302581945" alt="Erfahren Sie mehr über AEP App Services-Integrationen für Kunden-Anwendungsfälle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1766006677453" alt="Erfahren Sie mehr über AEP App Services-Integrationen für Kunden-Anwendungsfälle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1704,7 +1765,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Grundlagen der Integration von Real-Time Customer Data Platform und Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433677/?captions=ger&format=jpeg&nocache=1765302581921" alt="Grundlagen der Integration von Real-Time Customer Data Platform und Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1766006677450" alt="Grundlagen der Integration von Real-Time Customer Data Platform und Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1727,7 +1788,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-use-case-planning.md" title="Von der Vision zum Wert - AEP-Anwendungsfallplanung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1765302581816" alt="Von der Vision zum Wert - AEP-Anwendungsfallplanung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1766006677440" alt="Von der Vision zum Wert - AEP-Anwendungsfallplanung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1750,7 +1811,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-copywriting.md" title="Inhaltsbeschleunigung mit KI-gestütztem Copywriting" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1765302581820" alt="Inhaltsbeschleunigung mit KI-gestütztem Copywriting"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1766006677455" alt="Inhaltsbeschleunigung mit KI-gestütztem Copywriting"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1773,7 +1834,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-customer-experience.md" title="RTCDP Insights - Nutzen von KI für das Kundenerlebnis" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1765302581818" alt="RTCDP Insights - Nutzen von KI für das Kundenerlebnis"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1766006677457" alt="RTCDP Insights - Nutzen von KI für das Kundenerlebnis"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1796,7 +1857,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-personalization.md" title="Maximieren von Benutzererlebnissen mit der KI-gesteuerten Personalization von Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1765302581827" alt="Maximieren von Benutzererlebnissen mit der KI-gesteuerten Personalization von Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1766006677448" alt="Maximieren von Benutzererlebnissen mit der KI-gesteuerten Personalization von Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1819,7 +1880,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ajo-essentials.md" title="Adobe Journey Optimizer Essentials - Erstellen von Kampagnen, Kunden-Journey und Landingpages" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1765302581822" alt="Adobe Journey Optimizer Essentials - Erstellen von Kampagnen, Kunden-Journey und Landingpages"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1766006677466" alt="Adobe Journey Optimizer Essentials - Erstellen von Kampagnen, Kunden-Journey und Landingpages"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1842,7 +1903,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/basic-to-intermediate-analysis-capabilities.md" title="Adobe Analytics und CJA - Schnellstart für grundlegende bis mittlere Analysefunktionen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1765302581844" alt="Adobe Analytics und CJA - Schnellstart für grundlegende bis mittlere Analysefunktionen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1766006677492" alt="Adobe Analytics und CJA - Schnellstart für grundlegende bis mittlere Analysefunktionen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1865,7 +1926,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="Datenstrom-Priorisierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456814/?captions=ger&format=jpeg&nocache=1765302581825" alt="Datenstrom-Priorisierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1766006677473" alt="Datenstrom-Priorisierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1888,7 +1949,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/edge-delivery-services.md" title="Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1765302581852" alt="Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1766006677519" alt="Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigkeit von Edge Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1911,7 +1972,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/edge-network-mobile-personalization.md" title="Einblicke in Edge Network und Mobile Personalization mit Adobe-Lösungen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1765302581835" alt="Einblicke in Edge Network und Mobile Personalization mit Adobe-Lösungen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1766006677498" alt="Einblicke in Edge Network und Mobile Personalization mit Adobe-Lösungen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1934,7 +1995,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/effective-change-management.md" title="Navigieren im Wandel - Ein Webinar für Führungskräfte zum Thema effektives Änderungs-Management" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1765302581868" alt="Navigieren im Wandel - Ein Webinar für Führungskräfte zum Thema effektives Änderungs-Management"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1766006677483" alt="Navigieren im Wandel - Ein Webinar für Führungskräfte zum Thema effektives Änderungs-Management"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1957,7 +2018,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/empowering-lean-teams.md" title="Lean-Teams stärken" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1765302581860" alt="Lean-Teams stärken"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1766006677512" alt="Lean-Teams stärken"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1980,7 +2041,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/expedia-aa-to-cja.md" title="Expedia und führende Marken entwickeln ihre Organisation von Adobe Analytics zu Customer Journey Analytics weiter" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428762/?format=jpeg&nocache=1765302581875" alt="Expedia und führende Marken entwickeln ihre Organisation von Adobe Analytics zu Customer Journey Analytics weiter"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428762/?format=jpeg&nocache=1766006677505" alt="Expedia und führende Marken entwickeln ihre Organisation von Adobe Analytics zu Customer Journey Analytics weiter"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2003,7 +2064,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/getting-started-ajo-analysis.md" title="Erste Schritte mit Adobe Journey Optimizer Analysis in Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1765302581898" alt="Erste Schritte mit Adobe Journey Optimizer Analysis in Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1766006677526" alt="Erste Schritte mit Adobe Journey Optimizer Analysis in Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2026,7 +2087,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/getting-started-rtcdp.md" title="Real-Time Customer Data Platform - Erste Schritte" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1765302581883" alt="Real-Time Customer Data Platform - Erste Schritte"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1766006677539" alt="Real-Time Customer Data Platform - Erste Schritte"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2049,7 +2110,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Personalization Maturity - Der Weg zur Hyperpersonalisierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457354/?captions=ger&format=jpeg&nocache=1765302581906" alt="Personalization Maturity - Der Weg zur Hyperpersonalisierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1766006677532" alt="Personalization Maturity - Der Weg zur Hyperpersonalisierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2072,7 +2133,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/journey-optimizer-mobile-capabilities.md" title="Journey Optimizer Mobile-Funktionen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1765302581891" alt="Journey Optimizer Mobile-Funktionen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1766006677577" alt="Journey Optimizer Mobile-Funktionen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2095,7 +2156,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="Maximieren der Effizienz - Lean Teams und Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457017/?captions=ger&format=jpeg&nocache=1765302581929" alt="Maximieren der Effizienz - Lean Teams und Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1766006677545" alt="Maximieren der Effizienz - Lean Teams und Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2118,7 +2179,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/mastering-cookies-data-privacy.md" title="Privacy-First Analytics - Beherrschen von Cookies und Datenschutz in Adobe Analytics und Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1765302581914" alt="Privacy-First Analytics - Beherrschen von Cookies und Datenschutz in Adobe Analytics und Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1766006677552" alt="Privacy-First Analytics - Beherrschen von Cookies und Datenschutz in Adobe Analytics und Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2141,7 +2202,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/organizational-readiness-content-supply-chain.md" title="Erschließen der Leistungsfähigkeit von Adobe GenStudio Organizational Readiness zur Bewältigung von Herausforderungen in der Content-Supply-Chain" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1765302581960" alt="Erschließen der Leistungsfähigkeit von Adobe GenStudio Organizational Readiness zur Bewältigung von Herausforderungen in der Content-Supply-Chain"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1766006677565" alt="Erschließen der Leistungsfähigkeit von Adobe GenStudio Organizational Readiness zur Bewältigung von Herausforderungen in der Content-Supply-Chain"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2164,7 +2225,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/rtcdp-migration-readiness.md" title="Vorbereitung für die Migration auf die Echtzeit-Kundendatenplattform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1765302581984" alt="Vorbereitung für die Migration auf die Echtzeit-Kundendatenplattform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1766006677558" alt="Vorbereitung für die Migration auf die Echtzeit-Kundendatenplattform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2187,7 +2248,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/sequential-logic.md" title="Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Foundations" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1765302581976" alt="Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Foundations"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1766006677584" alt="Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Foundations"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2210,7 +2271,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="Strategische Führung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456792/?captions=ger&format=jpeg&nocache=1765302581953" alt="Strategische Führung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1766006677571" alt="Strategische Führung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2233,7 +2294,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/streamline-authentication.md" title="Optimieren der Authentifizierung - Migration vom Dienstkonto (JWT) zu OAuth-Server-zu-Server-Anmeldeinformationen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1765302582008" alt="Optimieren der Authentifizierung - Migration vom Dienstkonto (JWT) zu OAuth-Server-zu-Server-Anmeldeinformationen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1766006677591" alt="Optimieren der Authentifizierung - Migration vom Dienstkonto (JWT) zu OAuth-Server-zu-Server-Anmeldeinformationen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2256,7 +2317,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/target-personalization.md" title="Target Personalization - Erste Schritte mit Recommendations und Kategorieaffinität" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432999/?format=jpeg&nocache=1765302581968" alt="Target Personalization - Erste Schritte mit Recommendations und Kategorieaffinität"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432999/?format=jpeg&nocache=1766006677602" alt="Target Personalization - Erste Schritte mit Recommendations und Kategorieaffinität"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2279,7 +2340,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/turning-data-into-action.md" title="Die strategische Macht des Messens - Daten in die Tat umsetzen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440935/?format=jpeg&nocache=1765302582033" alt="Die strategische Macht des Messens - Daten in die Tat umsetzen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440935/?format=jpeg&nocache=1766006677616" alt="Die strategische Macht des Messens - Daten in die Tat umsetzen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2302,7 +2363,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/use-case-mapping.md" title="Real-Time CDP - Zuordnung von Anwendungsfällen zu Lösungsfunktionen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1765302582000" alt="Real-Time CDP - Zuordnung von Anwendungsfällen zu Lösungsfunktionen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1766006677609" alt="Real-Time CDP - Zuordnung von Anwendungsfällen zu Lösungsfunktionen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2325,7 +2386,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/web-sdk-migration.md" title="Web SDK Migration Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1765302581992" alt="Web SDK Migration Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1766006677622" alt="Web SDK Migration Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2348,7 +2409,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-admin-guardianship.md" title="Grundlagen der Workfront-System- und Gruppenverwaltungs-Vormundschaft" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1765302582016" alt="Grundlagen der Workfront-System- und Gruppenverwaltungs-Vormundschaft"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1766006677630" alt="Grundlagen der Workfront-System- und Gruppenverwaltungs-Vormundschaft"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2371,7 +2432,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Maximieren der Effizienz mit Adobe Workfront - Webinar zu „schlanken Teams“" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456718/?captions=ger&format=jpeg&nocache=1765302582024" alt="Maximieren der Effizienz mit Adobe Workfront - Webinar zu „schlanken Teams“"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1766006677643" alt="Maximieren der Effizienz mit Adobe Workfront - Webinar zu „schlanken Teams“"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2394,7 +2455,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-mastery.md" title="Workfront-Beherrschung - Erfolgsstrategien" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1765302582041" alt="Workfront-Beherrschung - Erfolgsstrategien"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1766006677636" alt="Workfront-Beherrschung - Erfolgsstrategien"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2418,11 +2479,11 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
 
 
 
-&#x200B;>>
+>>
     &lt;div class=„card-image“>
     &lt;Figure class=„image x-is-16by9“>
     &lt;a href=&quot;2024/workfront-mastery.md&quot; title=&quot;Workfront Mastery - Strategies for Success“ target=„_blank“ rel=„referrer“>
-    &lt;img class=„is-bordered-r-small“ src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1764630166754&quot; alt=&quot;Workfront Mastery - Strategies for Success“
+    &lt;img class=„is-bordered-r-small“ src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&amp;nocache=1764630166754&quot; alt=&quot;Workfront Mastery - Strategies for Success“
     style=„width: 100%; Aspect-Ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;“>
     &lt;/a>
     &lt;/Figure>

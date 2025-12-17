@@ -1,10 +1,10 @@
 ---
 user-guide-title: Acrobat Sign-Webinare
 user-guide-description: Erfahren Sie von Adobe-Experten, wie Sie neue E-Signatur-Workflows in Acrobat Sign beherrschen.
-source-git-commit: d0f48c3f308badf6e06e17e369765aa4a53ceb27
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 4%
 
 ---
 
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 + [Überblick](overview.md)
 + Webinare veröffentlichen {#releases}
-   + [Adobe Acrobat Sign - Version Oktober 2025](skill-builders/acrobat-sign-october-2025-release.md)
-   + [Adobe Acrobat Sign - Version Juli 2025](skill-builders/acrobat-july-release.md)
+   + [Oktober 2025](skill-builders/acrobat-sign-october-2025-release.md)
+   + [Juli 2025](skill-builders/acrobat-july-release.md)
 + Innovation - Highlights der neuen Funktionen {#newfeatures}
    + [Mobile E-Signatur optimieren](./skill-builders/mobile-e-signing.md)
 + 101 - Erste Schritte für Benutzer {#getstartedusers}
