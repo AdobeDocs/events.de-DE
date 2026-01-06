@@ -21,4 +21,4 @@ Der neue Webkanal ermöglicht es Marketing-Experten, Web-Kampagnen mit einem vis
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420129/?learn=on)
 
-Haben Sie Fragen dazu? Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League (Community[Post) &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366#M121).
+Haben Sie Fragen dazu? Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League (Community[Post) &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366?profile.language=de#M121).
