@@ -28,4 +28,4 @@ Da die meisten Kunden-Journey heutzutage über mehrere Oberflächen und mehrere 
 
 In dieser Live-Stream-Veranstaltung stellten Produktexperten von Adobe die neuesten Funktionen zum intelligenten Angebots-Ranking vor und zeigten, wie Journey und Kampagnen in Adobe Journey Optimizer Angebote hinzugefügt werden können.  Außerdem wurde gezeigt, wie Angebote in nativen Journey Optimizer-Kanälen wie E-Mail, SMS und Mobile Apps sowie in externen Systemen und integrierten Anwendungen wie Adobe Target platziert werden können.
 
-Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League (Community[Post) ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).
+Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League (Community[Post) &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).
