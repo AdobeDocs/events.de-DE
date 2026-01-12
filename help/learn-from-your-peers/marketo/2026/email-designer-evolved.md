@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2515
 last-substantial-update: 2026-01-09T00:00:00Z
 jira: KT-20063
-source-git-commit: ca4fbba56990285c87dd1dfc9b2c30b35ab99561
+source-git-commit: f04cc6261536cb98fdbbc78f31463e2daf8e0e65
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '224'
 ht-degree: 4%
 
 ---
@@ -33,11 +33,12 @@ Sehen Sie sich an, wie die E-Mail-Designer ausgereift ist und was dies für Ihr 
 
 ## Weitere Ressourcen
 
-* [E-Mail-Designer - Überblick](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [KI-Assistent](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [Anpassbare Fragmente](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [Bedingte Inhalte](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
-* [Markenthemen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [Funktionsvergleich alt vs. neu E-Mail Designer](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [E-Mail-Designer - Überblick](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [KI-Assistent](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [Anpassbare Fragmente](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [Bedingte Inhalte](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [Markenthemen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
+* [Funktionsvergleich alt vs. neu E-Mail Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
 * [Versionshinweise](https://experienceleague.adobe.com/de/docs/marketo/using/release-notes/current)
-* [Champion Deep Dive: Entdecken Sie die neue E-Mail-Designer in Marketo Engage](https://experienceleague.adobe.com/de/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Champion Deep Dive: Entdecken Sie die neue E-Mail-Designer in Marketo Engage](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Beteiligen Sie sich mit Fragen und Antworten an der Diskussion über Community](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)
