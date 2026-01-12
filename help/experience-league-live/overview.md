@@ -97,5 +97,5 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 >[!TIP]
 >
->Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
+>Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/de?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
 
