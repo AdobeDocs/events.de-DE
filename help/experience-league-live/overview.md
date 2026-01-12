@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
+source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 19%
+source-wordcount: '185'
+ht-degree: 17%
 
 ---
 
@@ -24,15 +24,19 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 ## Bevorstehende Experience League LIVE-Events
 
 <table>
-    <tr>
-         <td style="vertical-align: top;">
-            Bald werden neue Shows erscheinen. Kehren Sie zu dieser Seite zurück, um verfügbare Sendungen zu sehen.
-        </td>
-    </tr>
-
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
+      <img alt="Experience League LIVE 28. Januar 2026" src="episodes/assets/WebBanner-1-28-26.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-01-28-26.md"><strong>Siehe Audience Agent - Zielgruppeneinblicke entdecken und einsatzbereite Zielgruppen in Minuten erstellen. </strong></a>
+      <br/><em>mit Shelby Mansuri, Keara Fausett und Alyssa Espiritu</em>
+      <br/><em>28. Januar 2026 um 20:30 Uhr PT</em>
+      <br/><br/><a href="https://www.youtube.com/live/V7n2KuhrhqQ">Erinnerung festlegen</a>
+    </div>
+  </td>
+</tr>
 </table>
-
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -93,5 +97,5 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 >[!TIP]
 >
->Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/de?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
+>Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
 

@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 304550e7c5eef8956dccef1ca9951d3091092e8d
+source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '624'
 ht-degree: 3%
 
 ---
@@ -19,8 +19,9 @@ ht-degree: 3%
 
 # Live-Events von Experience League {#experience-league-live-recordings}
 
-+ [Überblick](overview.md)
++ [Übersicht](overview.md)
 + Folgen {#episodes}
+   + [EP. 55: Agenten bei der Arbeit: Erstellen und Aktivieren von Zielgruppen und Journey](episodes/exl-live-episode-01-28-26.md)
    + [EP. 54: Vereinfachen Sie die Fehlerbehebung und die Fallverwaltung für Support-Fälle mit dem Product Support Agent](episodes/exl-live-episode-12-16-25.md)
    + [EP. 53: Die nächste Ära des Experimentierens: Wie künstliche Intelligenz intelligentere Tests und Wachstum fördert](episodes/exl-live-episode-10-30-25.md)
    + [EP. 52: Adobe Experience Platform Agent Orchestrator](episodes/exl-live-episode-10-22-25.md)
