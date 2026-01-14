@@ -2,10 +2,10 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: fa067dfc5293d58cbd73c5d1a87be0ccf82b8f3e
+source-git-commit: 3adfd7af432caffaf2142c5a97b9a4c5279ee483
 workflow-type: tm+mt
-source-wordcount: '569'
-ht-degree: 4%
+source-wordcount: '595'
+ht-degree: 5%
 
 ---
 
@@ -13,6 +13,14 @@ ht-degree: 4%
 # Kundenerfolgs-Webinare zu Adobe {#adobe-customer-success-webinar-recordings}
 
 + [Kundenerfolgs-Webinare zu Adobe](overview.md)
++ 2026 {#2026}
+   + Experience Manager {#aem2026}
+      + [Moderne Versandmodelle für AEM Sites](2026/modern-delivery-model-aem.md)
+      + [Strategische Vorteile von AEM Cloud Service](2026/moving-to-aemcs.md)
+   + Experience Platform {#aep2026}
+      + [Integrierte Intelligenzverschiebung](2026/embedded-intelligence.md)
+   + Allgemein {#general2025}
+      + [KI-Strategien für den Erfolg im Urlaub](2026/2025-holiday-results.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Adobe Commerce mit Adobe Experience Platform anreichern](2025/enriching-adobe-commerce.md)
