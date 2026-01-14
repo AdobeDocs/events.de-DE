@@ -19,4 +19,4 @@ ht-degree: 0%
 
 In der digitalen Welt von heute ist es von entscheidender Bedeutung, über verschiedene Kanäle und Regionen hinweg leistungsstarke Erlebnisse bereitzustellen. Erfahren Sie, warum Unternehmen moderne Bereitstellungsmodelle einsetzen, um Geschwindigkeit und Flexibilität zu erhöhen. Erfahren Sie mehr über die Unterschiede zwischen Headful-, Headless-, Hybrid- und Edge-Bereitstellungs-Services. Erfahren Sie, wie Kernkomponenten und Lokalisierungs-Frameworks Strategien mit unterschiedlichen Marken und Regionen unterstützen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478775/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478784/?captions=ger&learn=on&enablevpops)
