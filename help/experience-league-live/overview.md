@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: b1ad886252f26bc473459e6867b84b2e3a8eb395
+source-git-commit: 31397e559777e599a86445841e6b5a134659151f
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 17%
+source-wordcount: '162'
+ht-degree: 19%
 
 ---
 
@@ -32,7 +32,7 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
       <a href="episodes/exl-live-episode-01-28-26.md"><strong>Siehe Audience Agent - Zielgruppeneinblicke entdecken und einsatzbereite Zielgruppen in Minuten erstellen. </strong></a>
       <br/><em>mit Shelby Mansuri, Keara Fausett und Alyssa Espiritu</em>
       <br/><em>28. Januar 2026 um 20:30 Uhr PT</em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other">Registrieren Sie sich noch heute!</a></b>
+      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&amp;mv=other">Registrieren Sie sich noch heute!</a></b>
     </div>
   </td>
 </tr>
@@ -67,16 +67,6 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
     </div>
   </td>
 
-<td style="vertical-align: top;">
-    <a href="episodes/exl-live-episode-05-16-24.md">
-      <img alt="Experience League LIVE ep8" src="episodes/assets/WebBanner-May16-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-05-16-24.md"><strong>So migrieren Sie Analytics zu Web SDK</strong></a>
-      <br/><em>mit Mitch Rice, Joe Khoury und Doug Moore</em>
-      <br/><em>16. Mai 2024</em>
-    </div>
-  </td>
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
@@ -97,5 +87,5 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 >[!TIP]
 >
->Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/de?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
+>Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
 
