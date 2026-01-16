@@ -21,7 +21,7 @@ In dieser ersten von drei Livestream-Sitzungen zur Datenerfassung für die Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343335/?quality=12&learn=on)
 
-**Setzen Sie die Diskussion** der [Experience League-Community fort](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}!
+**Setzen Sie die Diskussion** der [Experience League-Community fort](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159?profile.language=de#M283){target="_blank"}!
 
 ## Zusätzliche Experience League LIVE-Sitzungen aus dieser Datenerfassungsreihe
 
@@ -30,10 +30,10 @@ In dieser ersten von drei Livestream-Sitzungen zur Datenerfassung für die Adobe
 ### Einige hilfreiche Links
 
 * [Tutorial: Implementieren von Adobe Experience Cloud mit Web SDK](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=de){target="_blank"}
-* [Automatisch erfasste Informationen in der Web-SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [Automatisch erfasste Informationen in der Web-SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=de){target="_blank"}
 * [Kostenlose Bereitstellung von Web SDK](https://adobe.ly/websdkaccess){target="_blank"}
-* [Informationen zu First-Party-Geräte-IDs in der Web-SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Überblick über Adobe Experience Platform Debugger und Download](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Informationen zu First-Party-Geräte-IDs in der Web-SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=de){target="_blank"}
+* [Überblick über Adobe Experience Platform Debugger und Download](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=de){target="_blank"}
 * [Dokumente zu Mobile SDK](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
-* [Informationen zur Hybrid-App-Sammlung](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+* [Informationen zur Hybrid-App-Sammlung](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html?lang=de){target="_blank"}
 
