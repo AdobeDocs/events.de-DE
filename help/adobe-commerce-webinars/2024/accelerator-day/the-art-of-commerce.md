@@ -24,6 +24,6 @@ Präsentieren Sie Live-Kundenbeispiele auf Adobe Commerce und demonstrieren Sie 
 
 + Präsentiert von Carl Screwvala, Senior Solutions Engineer - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455497/?captions=ger&learn=on)
 
 [&lt; Zurück zum Adobe Commerce Accelerator Day](./overview.md)

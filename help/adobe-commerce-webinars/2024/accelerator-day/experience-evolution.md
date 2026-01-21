@@ -25,6 +25,6 @@ Eine Übersicht und Demonstration der Personalisierung für Commerce mit Real-Ti
 
 + Präsentiert von Mike Lynch, Enterprise Commerce Specialist - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454447/?captions=ger&learn=on)
 
 [&lt; Zurück zum Adobe Commerce Accelerator Day](./overview.md)

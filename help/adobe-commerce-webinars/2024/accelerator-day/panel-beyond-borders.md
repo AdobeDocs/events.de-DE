@@ -28,6 +28,6 @@ Lautsprecher:
 + Carolina de Figuerido - Krispy Kreme
 + Hussein Moustafa
 
->[!VIDEO](https://video.tv.adobe.com/v/3429265/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457241/?captions=ger&learn=on)
 
 [&lt; Zurück zum Adobe Commerce Accelerator Day](./overview.md)

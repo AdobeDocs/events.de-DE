@@ -24,6 +24,6 @@ ht-degree: 0%
 
 + Präsentiert von Eroka O&#39;Connor, Senior Solution Consultant - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429269/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456493/?captions=ger&learn=on)
 
 [&lt; Zurück zum Adobe Commerce Accelerator Day](./overview.md)
