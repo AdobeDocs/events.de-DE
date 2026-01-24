@@ -30,4 +30,4 @@ Erfahren Sie, wie Sie mit Journey-Experimenten Ihre Kundeninteraktionen optimier
 
 Diese Sommerveranstaltung wird Ihre Omni-Channel-Marketing-Strategien verbessern und das Beste aus den Interaktionsmöglichkeiten der Saison machen. Lassen Sie sich diese Chance nicht entgehen, Ihre Kunden-Journey und -Kampagnen für mehr Erfolg mit Adobe Journey Optimizer zu sorgen.
 
-**Setzen Sie die Diskussion bei der [Adobe Journey Optimizer Community Q&amp;A Coffee Break](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu[…]28.-8-30-am-pt-supercharge-your/td-p/697931) im Journey Optimizer Community Forum fort.**
+**Setzen Sie die Diskussion bei der [Adobe Journey Optimizer Community Q&amp;A Coffee Break](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu?profile.language=de[…]28.-8-30-am-pt-supercharge-your/td-p/697931) im Journey Optimizer Community Forum fort.**
