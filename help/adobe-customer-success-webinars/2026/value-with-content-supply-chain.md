@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Entdecken Sie eine praktische Roadmap zur Optimierung von Inhaltslieferketten. Erfahren Sie, wie die Integration von Workflow und Planung, Erstellung und Produktion, Asset-Management, Bereitstellung und Aktivierung sowie Reporting und Insights zu messbaren Ergebnissen führt. Erkunden Sie gängige Branchenmuster, ordnen Sie Ziele Adobe-Lösungen zu und verwenden Sie die Roadmap, um Ihre nächsten Schritte zu leiten und die Wirkung zu messen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479086/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479095/?captions=ger&learn=on&enablevpops)

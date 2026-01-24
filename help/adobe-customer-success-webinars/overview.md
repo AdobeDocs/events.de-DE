@@ -34,7 +34,7 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/value-with-content-supply-chain.md" title="Inhaltslieferketten maximieren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1768599457924" alt="Inhaltslieferketten maximieren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479095/?captions=ger&format=jpeg&nocache=1768599457924" alt="Inhaltslieferketten maximieren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
