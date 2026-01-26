@@ -1,8 +1,9 @@
 ---
 user-guide-title: Acrobat Sign-Webinare
 user-guide-description: Erfahren Sie von Adobe-Experten, wie Sie neue E-Signatur-Workflows in Acrobat Sign beherrschen.
+cloud: Document Cloud
 solution: Document Cloud
-source-git-commit: 1f319b1ce03161122a26d569f1d17181b45f983f
+source-git-commit: 149f4c2e962eaecd657d2a17a5938e972464dcac
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%
@@ -12,7 +13,7 @@ ht-degree: 4%
 
 # Acrobat Sign-Webinare {#acrobat-sign-webinars}
 
-+ [Überblick](overview.md)
++ [Übersicht](overview.md)
 + Webinare veröffentlichen {#releases}
    + [Oktober 2025](skill-builders/acrobat-sign-october-2025-release.md)
    + [Juli 2025](skill-builders/acrobat-july-release.md)
