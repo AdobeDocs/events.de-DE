@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 31397e559777e599a86445841e6b5a134659151f
+source-git-commit: 2ee0d38018d33911249523445375809c82567b59
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 19%
+source-wordcount: '175'
+ht-degree: 18%
 
 ---
 
@@ -25,14 +25,14 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
-      <img alt="Experience League LIVE 28. Januar 2026" src="episodes/assets/WebBanner-1-28-26.jpg">
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
+      <img alt="Experience League LIVE - 3. März 2026" src="episodes/assets/WebBannerExlLive-Mar03-2026.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-01-28-26.md"><strong>Siehe Audience Agent - Zielgruppeneinblicke entdecken und einsatzbereite Zielgruppen in Minuten erstellen. </strong></a>
-      <br/><em>mit Shelby Mansuri, Keara Fausett und Alyssa Espiritu</em>
-      <br/><em>28. Januar 2026 um 20:30 Uhr PT</em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other">Registrieren Sie sich noch heute!</a></b>
+      <a href="episodes/exl-live-episode-03-03-26.md"><strong>Nehmen Sie an einer aufschlussreichen Frage- und Antwortsitzung mit Anjul Bhambhri, Sr. VP von Adobe Experience Cloud teil, um mehr über Adobes kühne Vision für innovative KI-Funktionen für Agenten zu erfahren.</strong></a>
+      <br/><em>mit Anjul Bhambhri und Daniel Wright</em>
+      <br/><em>3. März 2026 um 21:00 Uhr MEZ</em>
+      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">Erfahren Sie mehr über diese Sitzung!</a></b>
     </div>
   </td>
 </tr>
@@ -87,5 +87,5 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 >[!TIP]
 >
->Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/de?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
+>Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
 

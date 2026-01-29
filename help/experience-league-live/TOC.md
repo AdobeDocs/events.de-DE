@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a004d7aa2c01ccd1d4d65749c4aa0440290f8023
+source-git-commit: 2ee0d38018d33911249523445375809c82567b59
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 14%
+source-wordcount: '343'
+ht-degree: 13%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 14%
 
 + [Übersicht](overview.md)
 + Folgen {#episodes}
+   + [Adobe Experience Platform-Agenten für verbesserte Marketing-Effizienz und bessere Geschäftsergebnisse](episodes/exl-live-episode-03-03-26.md)
    + [Agenten bei der Arbeit: Erstellen und Aktivieren von Zielgruppen und Journey](episodes/exl-live-episode-01-28-26.md)
    + [Vereinfachte Fehlerbehebung und Support-Fallverwaltung mit dem Produktsupport-Agenten](episodes/exl-live-episode-12-16-25.md)
    + [Die nächste Ära des Experimentierens: Wie künstliche Intelligenz intelligentere Tests und Wachstum fördert](episodes/exl-live-episode-10-30-25.md)
