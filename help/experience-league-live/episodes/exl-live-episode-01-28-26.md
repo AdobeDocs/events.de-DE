@@ -7,9 +7,9 @@ feature: Agentic AI
 event-cta-url-live: https://www.youtube.com/live/V7n2KuhrhqQ
 event-start-time: 2026-01-28 08:30-8
 event-guests: Daniel Wright, Shelby Mansuri, Keara Fausett, Alyssa Espiritu
-source-git-commit: b1ad886252f26bc473459e6867b84b2e3a8eb395
+source-git-commit: ceea8b990047d62e0a161ad021f797d4176c1fec
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,4 @@ Das moderne Marketing schreitet mit der Geschwindigkeit einer Eingabeaufforderun
 
 Siehe Audience Agent - Zielgruppeneinblicke gewinnen und einsatzbereite Zielgruppen in Minuten erstellen. Sehen Sie sich dann an, wie Journey Agent Sprachanweisungen in mehrstufige Journey umwandelt, von der Zielgruppen-Qualifizierung bis zur kanalübergreifenden Aktivierung.  Erfahren Sie, wie Agenten in Real-Time CDP und Journey Optimizer die Reibungsverluste bei der Bereitstellung skalierter Kundenerlebnisse für geschäftliche und technische Anwender reduzieren.
 
-<img alt="Experience League LIVE 28. Januar 2026" src="./assets/WebBanner-1-28-26.jpg">
-
-[Registrieren Sie sich noch heute!](https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other){target="_blank"}
+>[!VIDEO](https://video.tv.adobe.com/v/3479512/?quality=12&learn=on)
