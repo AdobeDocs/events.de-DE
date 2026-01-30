@@ -23,4 +23,4 @@ Siehe Audience Agent - Zielgruppeneinblicke gewinnen und einsatzbereite Zielgrup
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479512/?quality=12&learn=on)
 
-Haben Sie Fragen zu dieser Show? Fortsetzung der Diskussion in der [Experience League-Konversation.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?postid=745171#post745171){target="_blank"}
+Haben Sie Fragen zu dieser Show? Fortsetzung der Diskussion in der [Experience League-Konversation.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?profile.language=de&postid=745171#post745171){target="_blank"}
