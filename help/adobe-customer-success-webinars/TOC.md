@@ -2,9 +2,9 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: b64778a37558a91bb44bd3573d6d6fb6e7e5fee9
+source-git-commit: d158d7a10bd2651a11d54822908bb63315da0a94
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '615'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 5%
 
 + [Kundenerfolgs-Webinare zu Adobe](overview.md)
 + 2026 {#2026}
+   + Customer Journey Analytics {#cja2026}
+      + [BRD-SDR-Dateierstellung für Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
    + Experience Manager {#aem2026}
       + [Inhaltslieferketten maximieren](2026/value-with-content-supply-chain.md)
       + [Moderne Versandmodelle für AEM Sites](2026/modern-delivery-model-aem.md)
@@ -22,6 +24,7 @@ ht-degree: 5%
       + [Integrierte Intelligenzverschiebung](2026/embedded-intelligence.md)
    + Allgemein {#general2026}
       + [KI-Strategien für den Erfolg im Urlaub](2026/2025-holiday-results.md)
+      + [Grundlegende Architektur für Content Supply chain](2026/csc-architecture.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Adobe Commerce mit Adobe Experience Platform anreichern](2025/enriching-adobe-commerce.md)
@@ -60,7 +63,7 @@ ht-degree: 5%
       + [Anwendungsfälle und Fehlerbehebung bei Identitätsdiagrammen](2025/identity-graph.md)
       + [Gewinner des Executive Sponsoring für AEP-Projekte](2025/exec-sponsorship-aep-projects.md)
    + GenStudio for Performance Marketing {#genstudio2025}
-      + [Inhaltslieferkette und Adobe GenStudio](2025/csc-gen-studio.md)
+      + [Content Supply chain und Adobe GenStudio](2025/csc-gen-studio.md)
       + [GenStudio for Performance Marketing-Betriebsmodell](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
       + [Sponsoring durch Führungskräfte](2025/build-executive-sponsorship-ajo.md)
@@ -73,14 +76,14 @@ ht-degree: 5%
    + Marketo {#marketo2025}
       + [Neuer E-Mail-Editor](2025/marketo-new-email-editor.md)
    + Mehrfachlösung {#multisolution2025}
-      + [Grundlagen zur Inhaltslieferkette](2025/content-supply-chain-basics.md)
+      + [Grundlagen zu Content Supply chain](2025/content-supply-chain-basics.md)
       + [Optimierung digitaler Erlebnisse mit KI-Einblicken](2025/accelerating-digital-experience-optimization.md)
       + [Treueprogramme durch Personalization und Daten verbessern](2025/enhance-loyalty-programs.md)
       + [Verbessern von Personalization](2025/enhancing-personalization.md)
       + [GenAI-Experiment](2025/gen-ai-experimentation.md)
       + [Beherrschen der sequenziellen Logik - Visual Framework](2025/mastering-sequential-logic.md)
       + [Beherrschen der sequenziellen Logik - Start stoppt](2025/sequential-logic-start-stop.md)
-   + Ziel {#target2025}
+   + Target {#target2025}
       + [KI und Adobe Target](2025/ai-adobe-target.md)
    + Allgemein {#general2025}
       + [Urlaubsergebnisse 2024 und Trends für 2025](2025/adobe-digital-insights.md)
@@ -122,7 +125,7 @@ ht-degree: 5%
    + [Meistern der Adobe Admin Console](2024/adobe-admin-console.md)
    + [Beherrschen von Cookies und Datenschutz](2024/mastering-cookies-data-privacy.md)
    + [Beherrschen der sequenziellen Logik](2024/sequential-logic.md)
-   + [Organisatorische Bereitschaft für die Inhaltslieferkette](2024/organizational-readiness-content-supply-chain.md)
+   + [Organisatorische Bereitschaft für Content Supply chain](2024/organizational-readiness-content-supply-chain.md)
    + [Integration von Real-Time Customer Data Platform und Marketo](2024/aep-marketo-integration.md)
    + [Vorbereitung für die Migration auf die Echtzeit-Kundendatenplattform](2024/rtcdp-migration-readiness.md)
    + [Strategische Führung](2024/strategic-leadership.md)
