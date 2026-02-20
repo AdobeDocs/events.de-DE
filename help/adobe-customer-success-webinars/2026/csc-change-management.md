@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Ihr Unternehmen mithilfe einer bewährten Änderungs-Management-Linse in einen datengesteuerten Content Supply chain führen können. In dieser Sitzung erfahren Sie, wie Sie Führungskräfte abstimmen, Teams ausrüsten und neue Arbeitsmethoden miteinander vernetzen können, damit Teams, Automatisierung und gemeinsam genutzte Daten tatsächlich zu schnellerer Markteinführung, höherer Wiederverwendung von Ressourcen und besserer Governance führen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479816/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479826/?captions=ger&learn=on&enablevpops)
 
 * **Leitung des Übergangs, nicht nur der Tools** Erfahren Sie, wie Sie den Übergang zu einer automatisierten Content Supply chain in geschäftlichen Begriffen gestalten können, die echte Akzeptanz schaffen. So wird das „Warum jetzt“ verdeutlicht, Führungskräfte aufeinander abgestimmt und frühe Pilotprojekte in Schwung für das gesamte Unternehmen gebracht.
 
