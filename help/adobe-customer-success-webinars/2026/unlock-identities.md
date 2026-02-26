@@ -21,7 +21,7 @@ ht-degree: 1%
 
 In dieser Sitzung wird untersucht, wie Customer Journey Analytics (CJA) einheitliche Kundeneinblicke freischaltet, indem Datensilos aufgeschlüsselt und die Identitätszuordnung kanalübergreifend und geräteübergreifend aktiviert wird. Empfohlen für alle, die praktische Strategien für die Verbindung von Kundendaten, die Verbesserung der Attributionsgenauigkeit und die Förderung intelligenterer Geschäftsentscheidungen verstehen möchten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480150/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480161/?captions=ger&learn=on&enablevpops)
 
 ## Wichtige Schlussfolgerungen
 
