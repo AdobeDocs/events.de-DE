@@ -10,10 +10,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 3%
+source-wordcount: '102'
+ht-degree: 2%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 3%
    + [Admin Console-Migration](admin-console.md)
    + [APIs](api.md)
    + [Anwenden von KI in Marketo](applying-ai.md)
+   + [Intelligentere Abläufe mit Webhooks und Self-Service-Flussschritten](building-smarter-flows.md)
    + [Automatisieren und Optimieren von Kampagnenvorgängen mithilfe der Marketo-API](campaign-operations.md)
    + [Zertifizierung](certification.md)
    + [Entdecken Sie die neue E-Mail-Designer in Marketo Engage](email-designer.md)
