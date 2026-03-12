@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
-source-git-commit: 92da52440ae10b82194a9e695e56fd7904d47905
+exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
+source-git-commit: 8b3d3016e819e6833851307f0b0b60ef34eb13e7
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
-
 
 # Lernen Sie aus Ihrem Peers-Webinar: Produktempfehlungen zu Adobe Commerce - Von der Einrichtung bis zum strategischen Wachstum
 
@@ -25,15 +25,15 @@ Michael und Manav, anerkannte Top-Experten, die Innovationen im gesamten Commerc
 
 ## Was Sie lernen werden
 
-+ Förderung strategischer Empfehlungen: Ausrichtung des Empfehlungstyps an echten KPIs (Freigabe, AOV, Bindung)
-+ Klare Inventarisierung: Wie Sie die Exposition erhöhen und langsam bewegliche Lager Crosssell verkaufen können
-+ AOV erhöhen: Paar „häufig zusammen gekauft“ mit einer UI-Optimierung, um die Anhangsraten zu erhöhen
-+ Verbesserung der Kundenbindung: Personalisieren Sie Module mit Verhaltensdaten, um wiederkehrende Kunden zu gewinnen.
-+ KI mit menschlicher Strategie kombinieren: Nutzung manueller Produktbeziehungsregeln für Launches und Markenkampagnen
-+ Übergang von der Einrichtung zur Optimierung: Grundlegendes zu den Einrichtungsgrundlagen (Konfiguration, Einschlüsse/Ausschlüsse und Platzierung von CMS/Page Builder), Vermeidung häufiger Fehler und Verwendung von Admin-Steuerelementen und -Analysen zur kontinuierlichen Verbesserung.
+* Fördern strategischer Empfehlungen: Empfehlungstyp an echte KPIs ausrichten (Freigabe, AOV, Bindung)
+* Übersichtlicher Bestand: Erhöhen der Exposition und Crosssell-Slow-Moving-Lager
+* AOV erhöhen: Paar „häufig zusammen gekauft“ mit einer UI-Optimierung, um die Anhangsraten zu erhöhen
+* Verbessern der Kundenbindung: Personalisieren Sie Module mit Verhaltensdaten, um wiederkehrende Kunden anzusprechen.
+* KI mit menschlicher Strategie kombinieren: Nutzung manueller Produktbeziehungsregeln für Launches und Markenkampagnen
+* Gehen Sie von der Einrichtung zur Optimierung: Machen Sie sich mit den Einrichtungsgrundlagen (Konfiguration, Einschlüsse/Ausschlüsse und Platzierung von CMS/Page Builder) vertraut, vermeiden Sie häufige Fehler und verwenden Sie Admin-Steuerelemente und -Analysen, um die Leistung kontinuierlich zu verbessern.
 
 Unabhängig davon, ob Sie beginnen oder eine Optimierung mit KI-nativen Funktionen anstreben, diese Sitzung soll Ihnen konkrete, praktische Anleitungen geben, um greifbare Ergebnisse auf Umsatz und Kundenerlebnis zu erzielen, die Sie sofort anwenden können.
 
 ## Weitere Ressourcen
 
-+ [Präsentationsfolien](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf)
+* [Präsentationsfolien](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf)
