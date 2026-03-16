@@ -23,4 +23,4 @@ Wir haben die Arbeitsfläche für die Kampagnenorchestrierung und relationale Sc
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-Um das Gespräch über dieses Thema fortzusetzen, besuchen Sie bitte die [Experience League Community-Diskussion.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}
+Um das Gespräch über dieses Thema fortzusetzen, besuchen Sie bitte die [Experience League Community-Diskussion.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161?profile.language=de){target="_blank"}
