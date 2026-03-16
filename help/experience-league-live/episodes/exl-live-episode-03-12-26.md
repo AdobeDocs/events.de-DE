@@ -8,9 +8,9 @@ event-cta-url-live: https://www.youtube.com/live/mPVvZIbkJq8
 event-start-time: 2026-03-03 08:30-8
 event-guests: Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva, Lee Henderson
 exl-id: 5ad4e649-d00a-4934-bfee-13d358fdad11
-source-git-commit: 832697fb6afc563e89041cec13ea2649eaac49e7
+source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Erfahren Sie, wie die Kampagnenorchestrierung in Journey Optimizer Ihre großen, kanalübergreifenden Eins-zu-Viele-Marketing-Programme verwaltet - von der Erstellung der Zielgruppe bis zum Launch.
 
-Wir behandeln die Arbeitsfläche für die Kampagnenorchestrierung und relationale Schemata als Grundlage für die Verwaltung komplexer Kampagnen und Kundenbeziehungen, die Segmentierung mehrerer Entitäten, um die richtigen Zielgruppen für komplexe Daten anzusprechen, die On-Demand-Zielgruppenverfeinerung und die Anzahl der Vorabsendungen für Genauigkeit und wie dies heute in Journey Optimizer nahtlos funktioniert.
+Wir haben die Arbeitsfläche für die Kampagnenorchestrierung und relationale Schemata behandelt, um die Grundlage für die Verwaltung komplexer Kampagnen und Kundenbeziehungen zu schaffen, die Segmentierung mehrerer Entitäten zu nutzen, um die richtigen Zielgruppen für komplexe Daten anzusprechen, die Zielgruppenverfeinerung bei Bedarf und die Anzahl der Vorabsendungen für Genauigkeit zu optimieren, und wie dies heute nahtlos in Journey Optimizer funktioniert.
 
-<img alt="Experience League LIVE - 3. März 2026" src="./assets/WebBannerExlLive-Mar12-2026.jpg">
+>[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-[Registrieren Sie sich noch heute!](https://engage.adobe.com/ExpLeagueLive-260312.html){target="_blank"}
+Um das Gespräch über dieses Thema fortzusetzen, besuchen Sie bitte die [Experience League Community-Diskussion.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}
