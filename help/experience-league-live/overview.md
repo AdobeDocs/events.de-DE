@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
+source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 34%
+source-wordcount: '171'
+ht-degree: 30%
 
 ---
 
@@ -25,8 +25,16 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 <table>
 <tr>
-    <td style="vertical-align: top;">
-      Kehren Sie bald zu dieser Seite zurück, wenn es um bevorstehende Experience League LIVE-Shows geht!
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-08-26.md">
+      <img alt="Experience League LIVE 21. April" src="episodes/assets/April-8-2026-WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>Neue Anwendungsfälle für die Kundeninteraktion: iOS Live-Aktivitäten, Web-Push und persistentes Messaging</strong>
+      </a>
+      <br/><em>mit Don Huynh, Robert Calangiu, Brent Kostak</em>
+      <br/><em>8. April 2026</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -80,5 +88,5 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 >[!TIP]
 >
->Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/de?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
+>Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
 
