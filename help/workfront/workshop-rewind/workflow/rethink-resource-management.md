@@ -21,7 +21,7 @@ Erfahren Sie, wie das Creative Operations-Team von Advisors Excel in Workfront e
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481832/?learn=on&enablevpops)
 
-Wenn Sie die Sitzung verpasst haben, keine Sorgen! Sehen Sie sich [ &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/FINAL+Rethinking+Resource+Management+the+Agile+Way+at+Advisors+Excel+-+March+19%2C+2026.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
+Wenn Sie die Sitzung verpasst haben, keine Sorgen! Sehen Sie sich [&#x200B; &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/FINAL+Rethinking+Resource+Management+the+Agile+Way+at+Advisors+Excel+-+March+19%2C+2026.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
 
 Suchen Sie nach weiteren Ressourcen von der Veranstaltung? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316)!
 

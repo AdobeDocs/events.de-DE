@@ -23,7 +23,7 @@ Erfahren Sie, wie die Planung zu einer zentralen Quelle für Ausrichtung, Sichtb
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481818/?learn=on&enablevpops)
 
-Wenn Sie die Sitzung verpasst haben, keine Sorgen! Sehen Sie sich [ &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/120925+-+The+Relationship+Builder+-+How+Syracuse+University+leverages+Workfront+Planning+to+Connect+Work.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
+Wenn Sie die Sitzung verpasst haben, keine Sorgen! Sehen Sie sich [&#x200B; &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/120925+-+The+Relationship+Builder+-+How+Syracuse+University+leverages+Workfront+Planning+to+Connect+Work.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
 
 Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events) um die neuesten Sessions zu erhalten.
 
