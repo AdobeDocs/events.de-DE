@@ -22,7 +22,7 @@ Verwandeln Sie Workfront-Daten in optimierte, für Stakeholder geeignete Ergebni
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481825/?learn=on&enablevpops)
 
-Suchen Sie nach weiteren Ressourcen aus der Veranstaltung, einschließlich dem Slide Deck und der ZIP-Datei, die während der Sitzung besprochen wurden? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587)!
+Suchen Sie nach weiteren Ressourcen aus der Veranstaltung, einschließlich dem Slide Deck und der ZIP-Datei, die während der Sitzung besprochen wurden? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587?profile.language=de)!
 
 Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events) um die neuesten Sessions zu erhalten.
 
