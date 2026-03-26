@@ -24,7 +24,7 @@ Diese fortlaufende Videoreihe bietet einen klaren und knappen Überblick über j
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/26-q2-release-webinar.md" title="Webinar zur Version 2026 des zweiten Quartals von Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481835/?format=jpeg&nocache=1774560891876" alt="Webinar zur Version 2026 des zweiten Quartals von Adobe Workfront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481869/?captions=ger&format=jpeg&nocache=1774560891876" alt="Webinar zur Version 2026 des zweiten Quartals von Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -151,7 +151,7 @@ Unabhängig davon, ob Sie Workfront-Administrator, Projekt-Manager oder alltägl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="Top 3: Creative-Ansätze mit Blueprints" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1774560893050" alt="Top 3: Creative-Ansätze mit Blueprints"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465321/?captions=ger&format=jpeg&nocache=1774560893050" alt="Top 3: Creative-Ansätze mit Blueprints"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -174,7 +174,7 @@ Unabhängig davon, ob Sie Workfront-Administrator, Projekt-Manager oder alltägl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Versus! - Gruppen vs. Teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1774560893043" alt="Versus! - Gruppen vs. Teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467362/?captions=ger&format=jpeg&nocache=1774560893043" alt="Versus! - Gruppen vs. Teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -215,7 +215,7 @@ In diesen Sitzungen finden Sie praktische Lösungen, Kundenbeispiele und praktis
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="Expert Insights - Übernahme mit Leslie Spier" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1774560893584" alt="Expert Insights - Übernahme mit Leslie Spier"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469936/?captions=ger&format=jpeg&nocache=1774560893584" alt="Expert Insights - Übernahme mit Leslie Spier"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -238,7 +238,7 @@ In diesen Sitzungen finden Sie praktische Lösungen, Kundenbeispiele und praktis
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="Expert Insights - Adoption Surveys mit Jaime Davidson" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1774560893589" alt="Expert Insights - Adoption Surveys mit Jaime Davidson"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469959/?captions=ger&format=jpeg&nocache=1774560893589" alt="Expert Insights - Adoption Surveys mit Jaime Davidson"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -261,7 +261,7 @@ In diesen Sitzungen finden Sie praktische Lösungen, Kundenbeispiele und praktis
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="Expert Insights - Agile mit Natalie Mitchell" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1774560893593" alt="Expert Insights - Agile mit Natalie Mitchell"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469925/?captions=ger&format=jpeg&nocache=1774560893593" alt="Expert Insights - Agile mit Natalie Mitchell"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

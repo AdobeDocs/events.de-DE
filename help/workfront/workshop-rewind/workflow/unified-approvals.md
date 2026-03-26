@@ -19,6 +19,6 @@ ht-degree: 4%
 
 Entdecken Sie die wichtigsten Aspekte von einheitlichen Genehmigungen, einschließlich Anleitung, Berichterstellung und bevorstehender Funktionen. Dieser Workshop bietet wertvolle Einblicke, die Ihnen helfen, auf dem Laufenden zu bleiben und Ihren Workflow zu optimieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481858/?captions=ger&learn=on&enablevpops)
 
 Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events) um die neuesten Sessions zu erhalten.
