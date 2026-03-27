@@ -22,7 +22,7 @@ Einheitliche Genehmigungen stellen die Zukunft der Genehmigungen in Workfront da
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
 
-Wenn Sie die Sitzung verpasst haben, keine Sorgen! Sehen Sie sich [ &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/032626+-Understanding+Unified+Approvals.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
+Wenn Sie die Sitzung verpasst haben, keine Sorgen! Sehen Sie sich [&#x200B; &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/032626+-Understanding+Unified+Approvals.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
 
 Suchen Sie nach weiteren Ressourcen oder Fragen und Antworten zur Veranstaltung? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-understanding-unified-approvals-direction-reporting-and-what-s-next-3-26-26-249480)!
 
