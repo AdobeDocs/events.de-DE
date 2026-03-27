@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Einheitliche Genehmigungen stellen die Zukunft der Genehmigungen in Workfront dar. Nehmen Sie an einer informativen Sitzung mit unserem Adobe-Produktmanagement-Team teil, in der es um die Produktausrichtung für Validierungen in Workfront geht und darum, wie sie sich vom heutigen Proofing unterscheidet und wie die Umstellung im Laufe der Zeit aussehen wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481858/?captions=ger&learn=on&enablevpops)
 
 Wenn Sie die Sitzung verpasst haben, keine Sorgen! Sehen Sie sich [&#x200B; &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/032626+-Understanding+Unified+Approvals.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
 
