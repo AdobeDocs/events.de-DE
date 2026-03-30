@@ -22,6 +22,6 @@ ht-degree: 3%
 
 Tauchen Sie ein in Fusion Decoded Part 2, um grundlegende Gebäudestrategien für Fusion-Workflows und -Systeme zu verstehen. Diese Sitzung richtet sich an Administratoren, Entwickler und Führungskräfte, die ihr Wissen erweitern und ihre Fusion-Implementierungen verbessern möchten. Sehen Sie sich den Workshop-Rücklauf an, um praktische Einblicke und Techniken zu erhalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481847/?captions=ger&learn=on&enablevpops)
 
 Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events) um die neuesten Sessions zu erhalten.
