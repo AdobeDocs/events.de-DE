@@ -7,9 +7,10 @@ feature: Channel Configuration
 event-cta-url-live: https://youtube.com/live/hLVIIul_2_g
 event-start-time: 2026-04-08 08:30-8
 event-guests: Sandra Hausmann, Don Huynh, Robert Calangiu, Brent Kostak
-source-git-commit: 8fb6d38bd2b8cd12d72ba777c617d20b96b23c13
+exl-id: a9541062-a3d7-4b14-b93a-d3231bc11362
+source-git-commit: e52dfcf3727825ea194768cd5e74ad276c8656cf
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -20,10 +21,10 @@ Erkunden Sie neue Oberflächen und Anwendungsfälle für die Kundeninteraktion, 
 <br>
 </br>
 
-[![8. April ExL-Banner für Live-Veranstaltungen](assets/April-8-2026-WebBanner.jpg)](https://youtube.com/live/hLVIIul_2_g){target=“_blank”}
+[![8. April ExL-Banner für Live-Veranstaltungen](assets/April-8-2026-WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other){target=“_blank”}
 <br>
 </br>
-<b>[Erinnerung für die Sendung festlegen!](https://youtube.com/live/hLVIIul_2_g)</b>
+<b>[Jetzt registrieren!](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other)</b>
 
 <br>
 </br>
@@ -36,4 +37,3 @@ Wir behandeln Folgendes:
 - Web-Push-Benachrichtigungen: Erweitern Sie die Interaktion über Mobile Apps hinaus, indem Sie Kundinnen und Kunden direkt in ihrem Webbrowser erreichen und Besucherinnen und Besucher direkt ansprechen, auch wenn Websites nicht aktiv mit denselben Benutzer-Workflows geöffnet sind wie mobile Push-Benachrichtigungen in Journey Optimizer
 
 - Nachrichten-Posteingang: Erstellen Sie einen beständigen Posteingang mit Markenbezeichnungen, in dem Kunden wichtige Nachrichten, personalisierte Inhalte und Angebote erneut aufrufen können. So werden verpasste Benachrichtigungen reduziert und gleichzeitig die Relevanz und das Benutzererlebnis verbessert.
-
