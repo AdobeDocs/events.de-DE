@@ -2,9 +2,9 @@
 title: Grundlagen von Marketo Engage
 description: Werden Sie Mitglied der grundlegenden Marketo-Benutzergruppe , um durch einstiegsfreundliche und unterstützende Sitzungen Vertrauen und Kernkompetenzen in Adobe Marketo Engage aufzubauen.
 exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '363'
 ht-degree: 1%
 
 ---
@@ -12,6 +12,44 @@ ht-degree: 1%
 # Grundlagen von Marketo Engage {#foundations-of-marketo-engage-webinars}
 
 Die Foundation Marketo-Benutzergruppe wurde speziell für Personen entwickelt, die gerade mit dem Journey mit Adobe Marketo Engage beginnen. Diese Gruppe bietet eine einladende, unterstützende Umgebung, in der neue Benutzer durch strukturierte, anfängerfreundliche Sitzungen Vertrauen und Kernkompetenzen aufbauen können.
+
+## Sitzungen 2026
+
+<!-- CARDS  ****
+
+{cta = Watch}
+
+* 2026/fundamentals.md
+
+-->
+
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Session 1 of 2026 - Fundamentals of Marketo Engage">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2026/fundamentals.md" title="Session 1 of 2026 - Grundlagen von Marketo Engage" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3482934/?format=jpeg&nocache=1774995938827" alt="Session 1 of 2026 - Grundlagen von Marketo Engage"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2026/fundamentals.md" target="_blank" rel="referrer" title="Session 1 of 2026 - Grundlagen von Marketo Engage">Sitzung 1 von 2026 - Grundlagen von Marketo Engage</a>
+                    </p>
+                    <p class="is-size-6">Lernen Sie die Grundlagen von Marketo Engage kennen, einschließlich Navigation, Kernfunktionen und Automatisierungs-Tools, um Ihre Marketing-Kampagnen sicher zu verwalten.</p>
+                </div>
+                <a href="2026/fundamentals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Sitzungen 2025
 
@@ -35,7 +73,7 @@ Die Foundation Marketo-Benutzergruppe wurde speziell für Personen entwickelt, d
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/campaigns-with-marketo-personalization.md" title="Unterstützung von Kampagnen mit Marketo Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1761688732004" alt="Unterstützung von Kampagnen mit Marketo Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1774995939325" alt="Unterstützung von Kampagnen mit Marketo Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,7 +96,7 @@ Die Foundation Marketo-Benutzergruppe wurde speziell für Personen entwickelt, d
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/nurture-recipe.md" title="Erstellen Sie Ihr Rezept für die Pflege" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1761688731994" alt="Erstellen Sie Ihr Rezept für die Pflege"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1774995939359" alt="Erstellen Sie Ihr Rezept für die Pflege"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +119,7 @@ Die Foundation Marketo-Benutzergruppe wurde speziell für Personen entwickelt, d
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/professional-exam-preparation.md" title="Grundlegende Benutzergruppe für Marketo - Vorbereitung der fachlichen Prüfung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1761688731972" alt="Grundlegende Benutzergruppe für Marketo - Vorbereitung der fachlichen Prüfung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1774995939342" alt="Grundlegende Benutzergruppe für Marketo - Vorbereitung der fachlichen Prüfung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -104,7 +142,7 @@ Die Foundation Marketo-Benutzergruppe wurde speziell für Personen entwickelt, d
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/programs-campaigns.md" title="Programme, Kampagnen und mehr" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1761688732014" alt="Programme, Kampagnen und mehr"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1774995939350" alt="Programme, Kampagnen und mehr"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -127,7 +165,7 @@ Die Foundation Marketo-Benutzergruppe wurde speziell für Personen entwickelt, d
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/scoring.md" title="Intelligenter, nicht schwieriger" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1761688731985" alt="Intelligenter, nicht schwieriger"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1774995939332" alt="Intelligenter, nicht schwieriger"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
