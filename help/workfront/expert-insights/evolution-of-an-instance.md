@@ -21,7 +21,7 @@ Willkommen bei der neuesten Expert Insights-Episode! Ich bin Cynthia Boon, Ihre 
 
 In dieser Folge gesellt sich Jen Desmond, Technical Success Advisor bei Adobe, zu uns. Sie berichtet von ihrem Journey vom ersten Workfront-Anwender zum vertrauenswürdigen Experten und bietet praktische Ratschläge zum Verwalten von Änderungen und zum gezielten Erweitern Ihrer Instanz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483111/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483120/?captions=ger&learn=on&enablevpops)
 
 Sie erhalten durchdachte Einblicke, darunter:
 
