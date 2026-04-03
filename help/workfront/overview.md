@@ -3,9 +3,9 @@ title: Adobe Workfront On-Demand-Workshops
 description: Workfront Events ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen austauschen, wie Workfront die Arbeit für ihre Unternehmen verbessern kann.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: d7989a42ea790da356538044033d8a4f712f6d06
+source-git-commit: 0cd9d63a55aad1456f83c8b35293ea1705029954
 workflow-type: tm+mt
-source-wordcount: '882'
+source-wordcount: '887'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Diese fortlaufende Videoreihe bietet einen klaren und knappen Überblick über j
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/26-q1-release-webinar.md" title="Webinar zur Version Adobe Workfront im ersten Quartal 2026" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481817/?format=jpeg&nocache=1775083620522" alt="Webinar zur Version Adobe Workfront im ersten Quartal 2026"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481817/?format=jpeg&nocache=1775228743435" alt="Webinar zur Version Adobe Workfront im ersten Quartal 2026"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,7 +51,7 @@ Diese fortlaufende Videoreihe bietet einen klaren und knappen Überblick über j
 
 ## Workshop-Rückspulen
 
-Erkunden Sie die Neuigkeiten aus Ihrer Adobe Workfront-Community durch unsere kuratierte Auswahl an Events. Jeden Monat veranstalten wir kostenlose Live-Sessions zu einer Vielzahl von Themen, die Ihnen helfen, Workfront optimal zu nutzen. Sie haben ein Live-Event verpasst? Kein Problem! Informieren Sie sich über On-Demand-Aufzeichnungen, die Kundengeschichten, bewährte Best Practices und wertvolle Erfahrungen zeigen. Möchten Sie in Echtzeit verbinden? Nehmen Sie an kommenden Live-Events teil, um Fragen zu stellen, Einblicke zu teilen und mit Gleich gesinnten zusammenzuarbeiten. Besuchen Sie regelmäßig die [Experience League Workfront](https://experienceleague.adobe.com/de/events?filters=Workfront)Ereignisseite, um zu sehen, was als Nächstes kommt!
+Erkunden Sie die Neuigkeiten aus Ihrer Adobe Workfront-Community durch unsere kuratierte Auswahl an Events. Jeden Monat veranstalten wir kostenlose Live-Sessions zu einer Vielzahl von Themen, die Ihnen helfen, Workfront optimal zu nutzen. Sie haben ein Live-Event verpasst? Kein Problem! Informieren Sie sich über On-Demand-Aufzeichnungen, die Kundengeschichten, bewährte Best Practices und wertvolle Erfahrungen zeigen. Möchten Sie in Echtzeit verbinden? Nehmen Sie an kommenden Live-Events teil, um Fragen zu stellen, Einblicke zu teilen und mit Gleich gesinnten zusammenzuarbeiten. Besuchen Sie regelmäßig die [Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront)Ereignisseite, um zu sehen, was als Nächstes kommt!
 
 <!-- CARDS 
 
@@ -67,7 +67,7 @@ Erkunden Sie die Neuigkeiten aus Ihrer Adobe Workfront-Community durch unsere ku
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/planning/planning-workflow-canvas.md" title="Workfronts Power Trio - Planungs-, Workflow- und Canvas-Dashboards verbinden" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481830/?format=jpeg&nocache=1775083621240" alt="Workfronts Power Trio - Planungs-, Workflow- und Canvas-Dashboards verbinden"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481830/?format=jpeg&nocache=1775228743880" alt="Workfronts Power Trio - Planungs-, Workflow- und Canvas-Dashboards verbinden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +90,7 @@ Erkunden Sie die Neuigkeiten aus Ihrer Adobe Workfront-Community durch unsere ku
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/workflow/rethink-resource-management.md" title="Überdenken des Ressourcen-Managements auf dem agilen Weg bei Excel Advisors" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481832/?format=jpeg&nocache=1775083621230" alt="Überdenken des Ressourcen-Managements auf dem agilen Weg bei Excel Advisors"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481832/?format=jpeg&nocache=1775228743890" alt="Überdenken des Ressourcen-Managements auf dem agilen Weg bei Excel Advisors"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -113,7 +113,7 @@ Erkunden Sie die Neuigkeiten aus Ihrer Adobe Workfront-Community durch unsere ku
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/fusion/fusion-decoded.md" title="Fusion decodiert - was es ist und warum jede Organisation es verwenden kann" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477159/?format=jpeg&nocache=1775083621225" alt="Fusion decodiert - was es ist und warum jede Organisation es verwenden kann"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477159/?format=jpeg&nocache=1775228743875" alt="Fusion decodiert - was es ist und warum jede Organisation es verwenden kann"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,7 +155,7 @@ Unabhängig davon, ob Sie Workfront-Administrator, Projekt-Manager oder alltägl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="Top 3: Creative-Ansätze mit Blueprints" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465321/?captions=ger&format=jpeg&nocache=1775083621996" alt="Top 3: Creative-Ansätze mit Blueprints"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1775228744320" alt="Top 3: Creative-Ansätze mit Blueprints"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ Unabhängig davon, ob Sie Workfront-Administrator, Projekt-Manager oder alltägl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Versus! - Gruppen vs. Teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467362/?captions=ger&format=jpeg&nocache=1775083622002" alt="Versus! - Gruppen vs. Teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1775228744326" alt="Versus! - Gruppen vs. Teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -207,19 +207,19 @@ In diesen Sitzungen finden Sie praktische Lösungen, Kundenbeispiele und praktis
 
 <!-- CARDS 
 
-* expert-insights/adoption.md
-* expert-insights/adoption-surveys.md
-* expert-insights/agile.md
+* expert-insights/text-mode.md
+* expert-insights/sla-reporting.md
+* expert-insights/evolution-of-an-instance.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Adoption with Leslie Spier">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Master Text Mode with Katherine Lanning">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="expert-insights/adoption.md" title="Expert Insights - Übernahme mit Leslie Spier" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469936/?captions=ger&format=jpeg&nocache=1775083622302" alt="Expert Insights - Übernahme mit Leslie Spier"
+                    <a href="expert-insights/text-mode.md" title="Master-Textmodus mit Katherine Lanning" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477024/?format=jpeg&nocache=1775228744510" alt="Master-Textmodus mit Katherine Lanning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -227,22 +227,22 @@ In diesen Sitzungen finden Sie praktische Lösungen, Kundenbeispiele und praktis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/adoption.md" target="_blank" rel="referrer" title="Expert Insights - Übernahme mit Leslie Spier">Expert Insights - Übernahme mit Leslie Spier</a>
+                        <a href="expert-insights/text-mode.md" target="_blank" rel="referrer" title="Master-Textmodus mit Katherine Lanning">Master-Textmodus mit Katherine Lanning</a>
                     </p>
-                    <p class="is-size-6">Lernen Sie von Leslie Spier Strategien zur Akzeptanz kennen, um die Interaktion mit Workfront zu fördern, Prozesse zu verbessern und Benutzerbeiträge zu erkennen.</p>
+                    <p class="is-size-6">Entdecken Sie die Leistungsfähigkeit des Textmodus in Workfront mit Experteneinblicken von Katherine Lanning.</p>
                 </div>
-                <a href="expert-insights/adoption.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="expert-insights/text-mode.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Adoption Surveys with Jaime Davidson">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="SLA Reporting in Workfront with Madalyn Destafney">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="expert-insights/adoption-surveys.md" title="Expert Insights - Adoption Surveys mit Jaime Davidson" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469959/?captions=ger&format=jpeg&nocache=1775083622315" alt="Expert Insights - Adoption Surveys mit Jaime Davidson"
+                    <a href="expert-insights/sla-reporting.md" title="SLA Reporting in Workfront mit Madalyn Destafney" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1775228744500" alt="SLA Reporting in Workfront mit Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -250,22 +250,22 @@ In diesen Sitzungen finden Sie praktische Lösungen, Kundenbeispiele und praktis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/adoption-surveys.md" target="_blank" rel="referrer" title="Expert Insights - Adoption Surveys mit Jaime Davidson">Expert Insights - Umfragen zur Anpassung mit Jaime Davidson</a>
+                        <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" title="SLA Reporting in Workfront mit Madalyn Destafney">SLA-Berichte in Workfront mit Madalyn Destafney</a>
                     </p>
-                    <p class="is-size-6">Übernahme- und Änderungsverwaltung, Best Practices, Workflow-Automatisierung (alles passt gut, da es in der Sitzung um Umfragen zur Übernahme, Optimierung und Skalierung geht</p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie Service Level Agreements (SLAs) in Adobe Workfront mit Expertentipps von Madalyn Destafney implementieren und messen können, einschließlich schrittweiser Anleitungen, berechneter Feldbeispiele und Best Practices für benutzerdefinierte Formulare.</p>
                 </div>
-                <a href="expert-insights/adoption-surveys.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Agile with Natalie Mitchell">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights with Jen Desmond">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="expert-insights/agile.md" title="Expert Insights - Agile mit Natalie Mitchell" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469925/?captions=ger&format=jpeg&nocache=1775083622295" alt="Expert Insights - Agile mit Natalie Mitchell"
+                    <a href="expert-insights/evolution-of-an-instance.md" title="Expert Insights mit Jen Desmond" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483111/?format=jpeg&nocache=1775228744495" alt="Expert Insights mit Jen Desmond"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -273,11 +273,11 @@ In diesen Sitzungen finden Sie praktische Lösungen, Kundenbeispiele und praktis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/agile.md" target="_blank" rel="referrer" title="Expert Insights - Agile mit Natalie Mitchell">Expert Insights - Agile mit Natalie Mitchell</a>
+                        <a href="expert-insights/evolution-of-an-instance.md" target="_blank" rel="referrer" title="Expert Insights mit Jen Desmond">Expert Insights mit Jen Desmond</a>
                     </p>
-                    <p class="is-size-6">Seien Sie dabei, wenn Natalie Mitchell über Best Practices, Ressourcen und Tipps für Agile spricht, um Agile erfolgreich mit Ihren Workfront-Teams zu implementieren.</p>
+                    <p class="is-size-6">Seien Sie dabei, wenn Jen Desmond die Entwicklung einer Instanz bespricht und Einblicke in Änderungs-Management und Benutzerinteraktion teilt.</p>
                 </div>
-                <a href="expert-insights/agile.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="expert-insights/evolution-of-an-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
