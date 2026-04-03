@@ -34,9 +34,9 @@ Sie erhalten durchdachte Einblicke, darunter:
 ## Ressourcen
 
 Jen zeigt auch einige ihrer Lieblingsressourcen, darunter warum Fusionsvorlagen, Blueprints und gemeinsame Best Practices den entscheidenden Unterschied machen können. Weitere Informationen finden Sie hier:
-* [Liste der verfügbaren Fusion-Vorlagen](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [Liste der verfügbaren Blueprints](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [Experience League Workfront-Community](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
+* [Liste der verfügbaren Fusion-Vorlagen](https://experienceleague.adobe.com/de/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [Liste der verfügbaren Blueprints](https://experienceleague.adobe.com/de/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Experience League Workfront-Community](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=de)
 
 Aber warte!  Sie hat mehr Ratschläge zu teilen!
 
