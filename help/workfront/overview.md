@@ -155,7 +155,7 @@ Unabhängig davon, ob Sie Workfront-Administrator, Projekt-Manager oder alltägl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="Top 3: Creative-Ansätze mit Blueprints" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1775228744320" alt="Top 3: Creative-Ansätze mit Blueprints"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465321/?captions=ger&format=jpeg&nocache=1775228744320" alt="Top 3: Creative-Ansätze mit Blueprints"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ Unabhängig davon, ob Sie Workfront-Administrator, Projekt-Manager oder alltägl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Versus! - Gruppen vs. Teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1775228744326" alt="Versus! - Gruppen vs. Teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467362/?captions=ger&format=jpeg&nocache=1775228744326" alt="Versus! - Gruppen vs. Teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +242,7 @@ In diesen Sitzungen finden Sie praktische Lösungen, Kundenbeispiele und praktis
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="SLA Reporting in Workfront mit Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1775228744500" alt="SLA Reporting in Workfront mit Madalyn Destafney"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469987/?captions=ger&format=jpeg&nocache=1775228744500" alt="SLA Reporting in Workfront mit Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ In diesen Sitzungen finden Sie praktische Lösungen, Kundenbeispiele und praktis
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/evolution-of-an-instance.md" title="Expert Insights mit Jen Desmond" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483111/?format=jpeg&nocache=1775228744495" alt="Expert Insights mit Jen Desmond"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483120/?captions=ger&format=jpeg&nocache=1775228744495" alt="Expert Insights mit Jen Desmond"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
