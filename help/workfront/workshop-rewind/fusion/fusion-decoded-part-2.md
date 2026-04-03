@@ -22,7 +22,7 @@ In [Teil 1](https://experienceleague.adobe.com/en/docs/events/workfront-recordin
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483137/?learn=on&enablevpops)
 
-Wenn Sie die Sitzung verpasst haben, keine Sorgen! Sehen Sie sich [ &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040226-Fusion-Decoded_Part+2.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
+Wenn Sie die Sitzung verpasst haben, keine Sorgen! Sehen Sie sich [&#x200B; &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040226-Fusion-Decoded_Part+2.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
 
 Suchen Sie nach weiteren Ressourcen oder Fragen und Antworten zur Veranstaltung? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-fusion-decoded-part-2-let-s-start-building-4-2-26-249622)!
 
