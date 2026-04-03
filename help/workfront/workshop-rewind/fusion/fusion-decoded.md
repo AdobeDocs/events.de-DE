@@ -27,7 +27,7 @@ Sehen Sie sich die On-Demand-Aufzeichnung an, um ihr zu folgen, während Jen ein
 
 Haben Sie diese Sitzung geliebt und möchten mehr von Jen lernen? Schauen Sie sich die zweite Sitzung der Serie an, [Fusion Decoded Part 2 - Let&#39;s Start Building](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
 
-Und vergessen Sie nicht, die Liste der derzeit verfügbaren Adobe Workfront ([) ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates).
+Und vergessen Sie nicht, die Liste der derzeit verfügbaren Adobe Workfront ([) &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates).
 
 Weitere Links zu Ressourcen finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)!
 
