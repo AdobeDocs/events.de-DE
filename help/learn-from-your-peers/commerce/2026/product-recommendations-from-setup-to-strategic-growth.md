@@ -8,7 +8,7 @@ duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
 exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
-source-git-commit: 0f5c158625fe1ed3f7762754788d280fb8527196
+source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Lernen Sie aus Ihrem Peers-Webinar: Adobe Commerce Produktempfehlungen - Vom Setup bis zum strategischen Wachstum
 
-Nehmen Sie an einer Schulungssitzung mit den Adobe Commerce Champions Manav Padhariya und Michael Schenck teil, in der es darum geht, Adobe Commerce-Produktempfehlungen von einer Grundfunktion in einen leistungsstarken KI-nativen strategischen Treiber für Unternehmenswachstum umzuwandeln.
+Nehmen Sie an einer Schulungssitzung mit den Adobe Commerce Champions Manav Padhariya und Michael Schenck teil, in der es darum geht, Adobe Commerce Produktempfehlungen von einer Grundfunktion in einen leistungsstarken KI-nativen strategischen Treiber für Geschäftswachstum umzuwandeln.
 
 Michael und Manav, anerkannte Top-Experten, die Innovationen im gesamten Commerce-Ökosystem vorantreiben, zeigen, wie die strategische Orchestrierung von Produktempfehlungen durch ihre Ausrichtung auf Geschäftsziele die Lagerbestände durch Verkauf, AOV und Kundenbindung direkt verbessern kann.
 
