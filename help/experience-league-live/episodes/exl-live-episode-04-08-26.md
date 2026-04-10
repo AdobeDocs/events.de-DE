@@ -8,31 +8,28 @@ event-cta-url-live: https://youtube.com/live/hLVIIul_2_g
 event-start-time: 2026-04-08 08:30-8
 event-guests: Sandra Hausmann, Don Huynh, Robert Calangiu, Brent Kostak
 exl-id: a9541062-a3d7-4b14-b93a-d3231bc11362
-source-git-commit: e52dfcf3727825ea194768cd5e74ad276c8656cf
+source-git-commit: 85c30a3089b44ab1067f602d01de6d8d2a1efce4
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
 # Neue Anwendungsfälle für die Kundeninteraktion: Live-Aktivitäten in iOS, Web-Push und persistentes Messaging
 
-Erkunden Sie neue Oberflächen und Anwendungsfälle für die Kundeninteraktion, da Marken mehr bieten als unidirektionale, kanalübergreifende Messaging. Entdecken Sie, wie Marketing- und Produkt-Teams sichtbarere, kontextbezogene und persistente Erlebnisse erstellen können, die eine kontinuierliche Interaktion und umfassendere Echtzeit-Interaktionen über alle Kanäle hinweg ermöglichen.
-<br>
-</br>
+Erkunden Sie neue Oberflächen und Anwendungsfälle für die Kundeninteraktion, da Marken mehr bieten als unidirektionale, kanalübergreifende Messaging. Entdecken Sie, wie Marketing- und Produkt-Teams sichtbarere, kontextbezogene und beständige Erlebnisse erstellen können, die zu kontinuierlicher Interaktion und umfassenderen Echtzeit-Interaktionen über verschiedene Kanäle hinweg führen.
 
-[![8. April ExL-Banner für Live-Veranstaltungen](assets/April-8-2026-WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other){target=“_blank”}
-<br>
-</br>
-<b>[Jetzt registrieren!](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other)</b>
+>[!VIDEO](https://video.tv.adobe.com/v/3483389/?quality=12&learn=on)
+
+Diskutieren Sie weiter über die Sendung in der [Experience League-Community-Post.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-new-use-cases-for-customer-engagement-ios-live-activities-web-push-and-persistent-messaging-249581){target="_blank"}
 
 <br>
 </br>
-Wir erkunden, wie Unternehmen, die Adobe Journey Optimizer verwenden, ihre Strategien zur Kundeninteraktion mit iOS Live-Aktivitäten, Web-Push-Benachrichtigungen und dem Nachrichten-Posteingang erweitern können. Gemeinsam ermöglichen diese neuen Kanäle und Funktionen es Teams, Echtzeit-Updates bereitzustellen, die Interaktion über die Mobile App hinaus auszuweiten und sicherzustellen, dass wichtige Nachrichten immer verfügbar sind - und so konsistentere, kundenorientierte Journey zu schaffen.
+In der Sendung haben wir untersucht, wie Unternehmen, die Adobe Journey Optimizer verwenden, ihre Strategien zur Kundeninteraktion mit iOS Live-Aktivitäten, Web-Push-Benachrichtigungen und dem Nachrichten-Posteingang erweitern können. Gemeinsam ermöglichen diese neuen Kanäle und Funktionen es Teams, Echtzeit-Updates bereitzustellen, die Interaktion über die Mobile App hinaus auszuweiten und sicherzustellen, dass wichtige Nachrichten immer verfügbar sind - und so konsistentere, kundenorientierte Journey zu schaffen.
 
-Wir behandeln Folgendes:
+Wir haben Folgendes behandelt:
 
-- iOS-Live-Aktivitäten: Stellen Sie auf dem iPhone-Sperrbildschirm und auf Dynamic Island Echtzeitaktualisierungen für wertvolle Momente wie Auftragsverfolgung, Flugstatus und Live-Bewertungen bereit, damit sich Kunden kontinuierlich über neue Ereignisse informieren können.
+- Live-Aktivitäten in iOS: Stellen Sie auf dem iPhone-Sperrbildschirm und auf Dynamic Island Echtzeitaktualisierungen für hochwertige Momente wie Auftragsverfolgung, Flugstatus und Live-Bewertungen bereit, damit Kunden über neue Ereignisse laufend informiert werden.
 
 - Web-Push-Benachrichtigungen: Erweitern Sie die Interaktion über Mobile Apps hinaus, indem Sie Kundinnen und Kunden direkt in ihrem Webbrowser erreichen und Besucherinnen und Besucher direkt ansprechen, auch wenn Websites nicht aktiv mit denselben Benutzer-Workflows geöffnet sind wie mobile Push-Benachrichtigungen in Journey Optimizer
 
