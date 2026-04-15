@@ -2929,11 +2929,11 @@ Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Expe
 
 
 
->>
+&#x200B;>>
     &lt;div class=„card-image“>
     &lt;Figure class=„image x-is-16by9“>
     &lt;a href=&quot;2024/workfront-mastery.md&quot; title=&quot;Workfront Mastery - Strategies for Success“ target=„_blank“ rel=„referrer“>
-    &lt;img class=„is-bordered-r-small“ src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&amp;nocache=1764630166754&quot; alt=&quot;Workfront Mastery - Strategies for Success“
+    &lt;img class=„is-bordered-r-small“ src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1764630166754&quot; alt=&quot;Workfront Mastery - Strategies for Success“
     style=„width 100%; Seitenverhältnis: 16 / 9; Objektanpassung: Abdeckung; Überlauf: ausgeblendet; Anzeige: Block; Rand: auto;“>
     &lt;/a>
     &lt;/Figure>
