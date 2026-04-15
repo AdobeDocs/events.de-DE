@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In dieser Sitzung werden Dinge zusammengefasst, indem wir verstehen, wie Adobe Analytics Website-Daten nachverfolgt und Visualisierungen verwendet, um weitere insight zu erhalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425988/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456733/?captions=ger&learn=on)

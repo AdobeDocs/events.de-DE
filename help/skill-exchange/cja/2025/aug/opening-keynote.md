@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Keynote zur Eröffnung
 
->[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471133/?captions=ger&learn=on&enablevpops)
 
 ## Analyst Excellence erschließen: Grundlegende Fähigkeiten
 

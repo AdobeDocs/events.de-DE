@@ -21,7 +21,7 @@ ht-degree: 12%
 
 Lernen Sie die Grundlagen von Acrobat Sign kennen, um Dokumente schnell signieren zu können. Wir zeigen Ihnen Folgendes: Vorbereiten und Senden Ihrer Dokumente für die E-Signatur Anzeigen, was Ihre Unterzeichner sehen Verwalten und Verfolgen des Fortschritts von Vereinbarungen Erstellen Sie Ihre eigene Signatur und mehr.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455474/?captions=ger&learn=on)
 
 ## Wichtigste Punkte
 

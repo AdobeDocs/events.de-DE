@@ -23,4 +23,4 @@ In dieser Sitzung erfahren Sie mehr über die Kernkonzepte der Automatisierung u
 
 *Matthias Kolitsch* Senior Multi Solution Trainer EMEA / Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457387/?captions=ger&quality=12&learn=on)

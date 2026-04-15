@@ -30,7 +30,7 @@ Kommen Sie zu Haresh Kumar, Head of Strategy and Product für Adobe Experience M
 * Neue Optimierungs-Tools wie Sites Optimizer und Content Advisor für eine bessere Interaktion und Konversion.
 * So skalieren Sie die Eins-zu-eins-Personalisierung sicher und effektiv.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471405/?captions=ger&learn=on&enablevpops)
 
 
 ## Die Zukunft der Inhaltserlebnisse erschließen

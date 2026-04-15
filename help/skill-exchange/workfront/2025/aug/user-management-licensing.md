@@ -24,4 +24,4 @@ Arbeiten Ihre Workfront-Lizenzen so gut wie Sie? Seien Sie dabei, wenn Monique E
 
 Erfahren Sie, wie Monique sicherstellt, dass die richtigen Personen den richtigen Zugriff haben - mithilfe von Rollen, Gruppen, Teams und benutzerdefinierten Formularen, um die Skalierung zu vereinfachen und den Verwaltungsaufwand zu reduzieren. In dieser Sitzung erhalten Sie praktische Möglichkeiten, Ihre Instanz zu bereinigen, die Governance zu verbessern und Ihr Workfront-Setup zu optimieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473945/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473967/?captions=ger&learn=on&enablevpops)

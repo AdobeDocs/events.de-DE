@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Dieser Austausch von Kenntnissen konzentriert sich darauf, wie neue AEM-Entwicklerinnen und -Entwickler ein neues Projekt starten und bereitstellen können. Der Schwerpunkt liegt auf Themen wie AEM-Projektarchetyp, Cloud Manager-Einrichtung und Entwicklungs-Tools.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480809/?captions=ger&learn=on)
