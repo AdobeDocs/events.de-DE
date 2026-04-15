@@ -24,5 +24,5 @@ Die neuen Funktionen Audience Portal und Komposition haben die Segmentierung und
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421425/?quality=12&learn=on)
 
-Haben Sie Fragen zu dieser Show? Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League (Community[Post) &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366).
+Haben Sie Fragen zu dieser Show? Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League (Community[Post) &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073?profile.language=de#M366).
 

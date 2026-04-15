@@ -22,4 +22,4 @@ Nehmen Sie an einer spannenden Live-Session teil, bei der Ihnen Produkt- und Ing
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438012/?quality=12&learn=on)
 
-[**Fortsetzung der Diskussion über die Experience League-Community**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720)
+[**Fortsetzung der Diskussion über die Experience League-Community**](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/adobe-experience-league-live-introducing-ai-assistant-for/td-p/716720?profile.language=de)

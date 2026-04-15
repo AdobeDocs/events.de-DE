@@ -30,7 +30,7 @@ Kettenreaktion - Zeitpunkt der Kampagnenanforderung und Zeitpunkt der Kampagnena
 
 ## Weitere Ressourcen
 
-* [Ausführbare Kampagnen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [Ausführbare Kampagnen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
 * [Alles, was Sie über den neuen Typ ausführbarer Kampagnen in Marketo Engage wissen müssen](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
 * [Ausführbare Kampagnen: Erfahren Sie, wie ausführbare Dateien die Effizienz und Wirkung steigern können](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
@@ -42,6 +42,6 @@ Meistern der Interaktion mit mehreren Kanälen über den E-Mail-Bereich hinaus: 
 
 * [Ein tiefer Einblick in die Welt der E-Mails: Multi-Channel-Marketing mit App-Benachrichtigungen, Dynamic Chat und Messaging-Apps](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
 * [Omni-Channel-Interaktion](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [Erstellen einer In-App-Nachricht](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
-* [Erstellen von Push-Benachrichtigungen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
+* [Erstellen einer In-App-Nachricht](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
+* [Erstellen von Push-Benachrichtigungen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
 * [Erstellen einer WhatsApp-Vorlage](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)

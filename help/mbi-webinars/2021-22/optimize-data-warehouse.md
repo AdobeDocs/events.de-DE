@@ -46,5 +46,5 @@ In diesem Webinar:
 
 ## Nützliche Ressourcen
 
-[Datenbank für Analysen optimieren](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[Empfohlene Datendimensionen für Segmentierung und Filterung](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Datenbank für Analysen optimieren](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html?lang=de)
+[Empfohlene Datendimensionen für Segmentierung und Filterung](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=de)

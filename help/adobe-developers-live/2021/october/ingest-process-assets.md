@@ -29,5 +29,5 @@ Gespräche in **[Experience League Communities fortsetzen](https://adobe.ly/2Zq7
 ## Zusätzliche Ressourcen
 
 - [Dokumentation zu Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de)
-- [Übersicht über Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Tutorials für Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [Übersicht über Adobe Experience Manager Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=de)
+- [Tutorials für Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=de)

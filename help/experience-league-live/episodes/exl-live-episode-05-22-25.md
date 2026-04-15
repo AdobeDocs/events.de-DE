@@ -31,7 +31,7 @@ In dieser Sitzung haben wir Folgendes untersucht:
 
 >[!BEGINSHADEBOX „Haben Sie Fragen?“]
 
-Setzen Sie die Diskussion über das [Experience League-Community-Forum fort](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712).
+Setzen Sie die Diskussion über das [Experience League-Community-Forum fort](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741?profile.language=de#M4712).
 
 >[!ENDSHADEBOX]
 
