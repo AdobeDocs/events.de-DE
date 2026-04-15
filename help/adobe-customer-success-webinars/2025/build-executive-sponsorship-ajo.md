@@ -2,19 +2,21 @@
 title: Aufbau von Executive Sponsoring zur Unterstützung von Adobe Journey Optimizer Success
 description: Erfahren Sie, wie Führungskräfte für AJO-Programme eintreten, Teams aufeinander abstimmen und Ergebnisse mit Strategien für Sponsor-Interaktion und -Führung vorantreiben.
 solution: Journey Optimizer
+feature: Journeys
+topic: Personalization, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2422
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19625
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 2524ce6c-d654-4b17-aa0f-ecefe17aa2ee
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
-
 
 # VRA Session #4: Aufbau von Executive Sponsoring für die Unterstützung von Adobe Journey Optimizer (AJO) Success
 
@@ -50,4 +52,3 @@ Eine effektive Stakeholder-Zuordnung ist für die Förderung der erlebnisgesteue
 * **Beziehungsaufbau** Fördern Sie Transparenz, setzen Sie klare Erwartungen und pflegen Sie die fortlaufende Kommunikation, um die Unterstützung durch Führungskräfte in eine strategische Partnerschaft umzuwandeln.
 
 Die Verwendung einer Stakeholder-Strategiekarte hilft Unternehmen bei der Auswahl des richtigen Executive Sponsors und der richtigen Partner, um eine erfolgreiche Implementierung und nachhaltige Veränderungen sicherzustellen.
-

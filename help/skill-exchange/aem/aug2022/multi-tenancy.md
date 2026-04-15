@@ -2,13 +2,15 @@
 title: AEM Champion Session Multi Tenancy
 description: Die Sitzung konzentriert sich darauf, wie mehrere Mandanten auf derselben AEM as a Cloud Service-Instanz vorhanden sein können. Der Schwerpunkt liegt auf der Verwendung von Adobe Cloud Manager zur Bereitstellung mehrerer Code-Repositorys auf derselben AEM-Instanz. Dazu gehören das Einrichten verschiedener Git-Repositorys sowie die Verwendung von Git-Untermodulen.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Development
 role: User
 level: Beginner, Intermediate, Experienced
 kt: 10946
 thumbnail: 346388.jpeg
 exl-id: 16ce451b-bafd-4ffe-a3be-a76500069874
 duration: 1853
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%

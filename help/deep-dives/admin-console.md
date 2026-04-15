@@ -3,6 +3,7 @@ title: Vorbereiten von für Marketo Engage auf Adobe Identity
 description: Nehmen Sie an dieser Schulungssitzung teil, um sich auf die Migration von Marketo Engage-Abonnements zu Adobe Identity vorzubereiten, und konzentrieren Sie sich auf die Benutzermigration, wichtige Aktionen und wichtige Ressourcen für Admins mit Anleitungen zum Navigieren in der Migrationskonsole und zum Verständnis der Änderungen bei jedem Milestone.
 solution: Marketo Engage
 feature: Administration
+topic: Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,19 +11,19 @@ duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
 exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # Vorbereiten von für Marketo Engage auf Adobe Identity
 
-Dies ist eine Schulung zur Migration von [Adobe Marketo Engage-Abonnements für die Integration mit dem Adobe Identity Management-System](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Der Inhalt eignet sich am besten für Marketo Engage-Administratoren. Diese Schulung vermittelt Ihnen das erforderliche Wissen, um Ihr Unternehmen funktionsübergreifend vorzubereiten und interne Benutzer über diesen bevorstehenden Wandel zu informieren.
+Dies ist eine Schulung zur Migration von [Adobe Marketo Engage-Abonnements für die Integration mit dem Adobe Identity Management-System](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Der Inhalt eignet sich am besten für Marketo Engage-Administratoren. Diese Schulung vermittelt Ihnen das erforderliche Wissen, um Ihr Unternehmen funktionsübergreifend vorzubereiten und interne Benutzer über diesen bevorstehenden Wandel zu informieren.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432362/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## Überblick
 

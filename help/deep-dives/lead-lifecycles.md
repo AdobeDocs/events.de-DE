@@ -1,6 +1,8 @@
 ---
 title: Lead-Lebenszyklen
 description: In dieser anschaulichen Sitzung erfahren Sie, wie Sie Leads effektiv mit einem strategischen Lead-Lebenszyklusmodell interagieren und fördern können. Sie erhalten Tipps von einem Marketo-Experten zur Vermeidung gängiger Fallstricke beim Vererben, Verfeinern oder Entwerfen eines neuen Modells.
+feature: Programs, Reporting
+topic: Development
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -9,7 +11,7 @@ jira: KT-13697
 thumbnail: KT-13697.jpeg
 exl-id: 03258f9b-ca5d-406b-a260-e41bc04396f8
 duration: 2916
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

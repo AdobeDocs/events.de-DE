@@ -3,19 +3,20 @@ title: Überblick über den universellen Editor für das moderne Adobe Experienc
 description: Erfahren Sie mehr über den universellen Editor von AEM - Anwendungsfälle, Unterstützung für Architekturübergreifende Unterstützung und wichtige Überlegungen zur Vereinfachung der Inhaltserstellung und zur Steigerung der Inhaltsbereitstellung.
 solution: Experience Manager
 feature: Authoring
+topic: Headless, Integrations, Security
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2891
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18763
-source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
+exl-id: 6212a20d-f58c-481c-a475-89153cb0d040
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
-
 
 # Universeller Editor: Ein strategischer Überblick über das moderne AEM-Authoring
 
@@ -46,5 +47,5 @@ Diese Funktionen machen den universellen Editor zu einem vielseitigen Tool für 
 | **Einführung** | 2014 (Touch-Benutzeroberfläche) | 2024 |
 | **Inhaltsquellen** | AEM JCR | AEM JCR, GraphQL, Edge |
 | **UI-Framework** | Coral-Benutzeroberfläche | React Spectrum |
-| **Nutzungsszenarios** | Herkömmliche AEM-Sites | Headless, Edge Delivery |
+| **Anwendungsfälle** | Herkömmliche AEM-Sites | Headless, Edge Delivery |
 | **Anpassung** | Bearbeitbare Vorlagen, Stilsystem | JSON-Logikschema |

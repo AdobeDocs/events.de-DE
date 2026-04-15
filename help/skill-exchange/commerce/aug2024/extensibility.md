@@ -1,7 +1,9 @@
 ---
 title: Der moderne Ansatz - Effektive Erweiterbarkeit in Adobe Commerce
-description: Best Practices für die effektive Anpassung von Adobe Commerce ohne grundlegende Änderungen Die Bedeutung der Reduzierung technischer Schwierigkeiten und der Vermeidung direkter Integrationen Wie kann Adobe Commerce mit anderen Adobe-Produkten verbunden werden, um die Leistung und das Benutzererlebnis zu verbessern?
+description: Best Practices für die effektive Anpassung von Adobe Commerce ohne grundlegende Änderungen Die Bedeutung der Reduzierung technischer Schwierigkeiten und der Vermeidung direkter Integrationen Wie kann Adobe Commerce mit anderen Adobe-Produkten verbunden werden, um die Leistung und die Benutzerfreundlichkeit zu verbessern?
 solution: Commerce
+feature: Integration
+topic: Integrations, Performance, Development
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 2507
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16083
 exl-id: 568993c6-3090-42e1-8f7f-5d9cc9623838
-source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%

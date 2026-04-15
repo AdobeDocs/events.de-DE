@@ -4,13 +4,14 @@ description: Erfahren Sie, wie die Federated Audience Komposition einen umfassen
 kt: KT-15473
 solution: Journey Optimizer
 feature: Audiences
+topic: Security
 event-cta-url-live: https://www.youtube.com/watch?v=xp3WRr4XmWM
 event-start-time: 2024-10-30 08:30-7
 event-guests: Sandra Hausmann, Don Huynh, Pravin Prakash Kumar
 exl-id: 2adabbf2-530d-418a-b6d3-cbf04c99d842
-source-git-commit: ac0f7915bfbedd8f1c814420caaae7f1eeb5aeef
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---

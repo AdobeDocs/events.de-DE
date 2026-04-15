@@ -3,19 +3,20 @@ title: Espresso und Experience Manager - Content Hub vs. Brand Portal
 description: Erfahren Sie, wie AEM Content Hub die Asset-Verteilung durch schnellere Bereitstellung, keine zusätzlichen Kosten und nahtlose Integration für alle Asset Cloud Service-Kunden transformiert.
 solution: Experience Manager, Experience Manager Assets
 feature: Brand Portal
+topic: Integrations, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3055
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19499
-source-git-commit: f0d7a52dd0634ddb011beb1155866c498dd8d4d9
+exl-id: c454f585-e553-4427-9126-ede95540779c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # Espresso &amp; Experience Manager: Content Hub vs. Brand Portal
 
@@ -37,4 +38,3 @@ Das Digital Asset Management (DAM) entwickelt sich weiter, und Adobe Content Hub
 * **Migration leicht gemacht** Der Wechsel von Brand Portal ist unkompliziert, mit technischer Unterstützung und neuen Funktionen wie attributbasierter Zugriffssteuerung und verbesserter Freigabe.
 
 Wenn Sie diese Funktionen verstehen, können Teams die Verteilung und Zusammenarbeit von Assets optimieren und so die Aktivierung von Inhalten beschleunigen und den ROI verbessern.
-

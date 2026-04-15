@@ -2,25 +2,26 @@
 title: Aufbau von Executive Sponsoring zur Unterstützung von Adobe Customer Journey Analytics Success
 description: Lernen Sie Strategien kennen, um Unterstützung durch Führungskräfte für den Erfolg von Adobe Customer Journey Analytics zu erhalten. Förderung der Ausrichtung, Sicherung von Budgets und datengestützte Entscheidungsfindung.
 feature: Data Governance
+topic: Development
 role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1623
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18767
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: 7e5827d4-e243-4030-94f0-1ad25cab8951
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # Aufbau von Executive Sponsoring für die Unterstützung von Adobe Customer Journey Analytics (CJA) Success
 
 In unserer vierten Sitzung gehen wir darauf ein, wie der Mangel an starkem Executive Sponsoring die Entscheidungsfindung, Budgetzuweisung und das Änderungsmanagement verzögern wird. In diesem Webinar erkunden wir, welche wichtige Rolle Führungskräfte bei der Förderung von Adobe Customer Journey Analytics-Programmen, der Ausrichtung funktionsübergreifender Teams und der Förderung messbarer Geschäftsergebnisse spielen. Lernen Sie praktische Strategien kennen, um leitende Stakeholder einzubinden, den Wert effektiv zu kommunizieren und eine Kultur datengestützter Entscheidungsfindung aufzubauen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470863/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
 
 ## Erstellen von Business Cases
 

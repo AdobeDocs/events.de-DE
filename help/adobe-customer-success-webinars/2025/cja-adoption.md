@@ -2,19 +2,20 @@
 title: Strategien zur Änderungsverwaltung für die Einführung von Adobe Customer Journey Analytics
 description: Entdecken Sie Strategien zum Änderungs-Management, um die erfolgreiche Einführung von Customer Journey Analytics sicherzustellen. Überwinden Sie Widerstände, richten Sie Teams aus und verfolgen Sie die Wertschöpfung effektiv.
 feature: Basics
+topic: Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2695
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18765
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: 5b635d6d-29e4-4647-a4b0-82713444d927
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
-
 
 # Übernahme von Change-Management-Strategien für Adobe Customer Journey Analytics (CJA)
 

@@ -2,6 +2,7 @@
 title: Fusion decodiert - was es ist und warum jede Organisation es verwenden kann
 description: Workfront Fusion zeigt uns einige Live-Beispiele, die helfen, Fusion zu entmystifizieren.
 feature: Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +10,7 @@ duration: 3199
 last-substantial-update: 2025-12-02T00:00:00Z
 jira: KT-19788
 exl-id: 17044e9c-9a18-4873-9368-accb7351734d
-source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 1%
@@ -25,10 +26,10 @@ Sehen Sie sich die On-Demand-Aufzeichnung an, um ihr zu folgen, während Jen ein
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-Haben Sie diese Sitzung geliebt und möchten mehr von Jen lernen? Schauen Sie sich die zweite Sitzung der Serie an, [Fusion Decoded Part 2 - Let&#39;s Start Building](https://experienceleague.adobe.com/de/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
+Haben Sie diese Sitzung geliebt und möchten mehr von Jen lernen? Schauen Sie sich die zweite Sitzung der Serie an, [Fusion Decoded Part 2 - Let&#39;s Start Building](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded-part-2)!
 
-Und vergessen Sie nicht, die Liste der derzeit verfügbaren Adobe Workfront ([) &#x200B;](https://experienceleague.adobe.com/de/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates).
+Und vergessen Sie nicht, die Liste der derzeit verfügbaren Adobe Workfront ([) ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates).
 
-Weitere Links zu Ressourcen finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=de)!
+Weitere Links zu Ressourcen finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)!
 
 Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events) um die neuesten Sessions zu erhalten.

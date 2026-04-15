@@ -1,19 +1,21 @@
 ---
 title: Workfront und JIRA - Vernetzung Ihrer Marketing-Arbeits-Management- und Entwicklungsausführungssysteme
 description: Erfahren Sie, wie Sie die Adobe Workfront + JIRA-Integration einrichten und erweitern, um vernetzte Workflows über Datensatzsysteme hinweg für aktuelle und zukünftige Anforderungen zu unterstützen.
+feature: Work Management, Workfront Fusion
+topic: Integrations, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2435
 last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-18446
-source-git-commit: 062259db0862dc5fb1624932b40a9a6f43d9f0d0
+exl-id: 8e611864-2759-4c71-b563-3acff27ac9db
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
-
 
 # Workfront &lt;> JIRA: Vernetzung Ihrer Marketing-Arbeits-Management- und Entwicklungsausführungssysteme
 

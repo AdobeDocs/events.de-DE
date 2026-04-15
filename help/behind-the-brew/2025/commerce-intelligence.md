@@ -1,6 +1,8 @@
 ---
 title: Adobe Commerce Intelligence (fka MBI)
 description: Transformieren Sie Ihre E-Commerce-Daten in umsetzbare Einblicke mit benutzerdefinierten Adobe Commerce Intelligence-Dashboards und -Berichten
+feature: Integration
+topic: Integrations, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3236
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17169
 exl-id: 3d459527-e454-41fc-a952-0b36bb529184
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ Dies ist ein ausführliches Webinar zu Adobe Commerce Intelligence (ehemals Mage
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443025/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Einführung in Adobe Commerce Intelligence (ACI)** In diesem Webinar wurde Adobe Commerce Intelligence vorgestellt, das früher als Magento Business Intelligence bezeichnet wurde, und seine Funktionen als Cloud-basierte Daten-Management- und Analyseplattform hervorgehoben, die für Adobe Commerce- und Magento-Open-Source-Projekte optimiert wurde.
 

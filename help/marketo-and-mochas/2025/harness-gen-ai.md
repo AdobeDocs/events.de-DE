@@ -1,6 +1,7 @@
 ---
 title: Marketo & Mokkas - GenAI in Adobe Marketo Engage nutzen
 description: Erfahren Sie, wie GenAI in Adobe Marketo Engage die Kampagnenerstellung beschleunigt, die Personalisierung steigert und es Teams ermöglicht, sich auf Strategie und Kreativität zu konzentrieren.
+feature: Programs, Reporting
 topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19502
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: 59540237-f65f-46bf-a53f-1612fb64a069
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
-
 
 # Marketo &amp; Mokkas: GenAI in Adobe Marketo Engage einsetzen
 
@@ -41,5 +42,3 @@ KI gestaltet das B2B-Marketing schnell um und treibt den Wandel hin zu intellige
 * **Agent-KI** Neue Agentenfunktionen in Adobe Experience Platform und Marketo Engage automatisieren Aufgaben, beseitigen Engpässe und ermöglichen absichtsgesteuerte Interaktionen in Echtzeit.
 
 Das Verständnis dieser Trends hilft Unternehmen, wettbewerbsfähig zu bleiben und das volle Potenzial von KI im Marketing zu erschließen.
-
-

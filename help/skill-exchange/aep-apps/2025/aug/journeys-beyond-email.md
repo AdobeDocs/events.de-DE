@@ -3,6 +3,7 @@ title: Adobe Journey jenseits von E-Mails lösen
 description: Erfahren Sie, wie Sie mit Adobe Journey Optimizer Multi-Channel-Journey entwerfen und testen können, indem Sie Testprofile, Ereignisdaten und reale Szenarien für eine optimale Interaktion verwenden.
 solution: Journey Optimizer
 feature: Email, Direct Mail, Journeys
+topic: Personalization
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18850
 exl-id: e611a377-0e3c-4ccd-ac9c-280638b6ea36
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---

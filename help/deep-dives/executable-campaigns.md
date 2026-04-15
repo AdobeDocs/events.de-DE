@@ -1,6 +1,8 @@
 ---
 title: Ausführbare Kampagnen - Erfahren Sie, wie ausführbare Dateien die Effizienz und Wirkung steigern können.
-description: Seien Sie dabei, wenn Chris Willis, Courtny Edwards-Jones und Jane Musatova in diesem Adobe Champion Deep Dive erfahren, wie ausführbare Kampagnen in Marketo Prozesse optimieren, die Datengenauigkeit gewährleisten und komplexe Workflows automatisieren können - mit praktischen Beispielen und einem Fokus auf die Minimierung von Fehlern und Rückständen.
+description: Sehen Sie sich diesen tiefen Einblick von Chris Willis, Courtny Edwards-Jones und Jane Musatova in Adobe Champion an, um zu erfahren, wie ausführbare Kampagnen in Marketo Prozesse optimieren, die Datengenauigkeit gewährleisten und komplexe Workflows automatisieren können - mit praktischen Beispielen und einem Schwerpunkt auf der Minimierung von Fehlern und Rückständen.
+feature: Programs, Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ ht-degree: 0%
 **Moderiert von** Chris Willis
 **Redner** Courtny Edwards-Jones und Jane Musatova
 
-## Übersicht
+## Überblick
 
 In dieser Ausgabe des Adobe Champion Deep Dive besprechen wir die Verwendung von ausführbaren Kampagnen in Marketo und liefern Beispiele dafür, wie sie zur Optimierung von Prozessen und zur Gewährleistung der Datengenauigkeit verwendet werden können. Ausführbare Kampagnen sind eine Art intelligente Kampagne, die Flüsse synchron ausführt und Abhängigkeiten zwischen verschiedenen Schritten zulässt. Sie können verwendet werden, um fehlgeschlagene Prozesse wie die Datenstandardisierung oder die Lead-Qualifizierung automatisch zu wiederholen, bevor mit dem nächsten Schritt fortgefahren wird. Das Dokument behandelt auch die Verwendung übergeordneter Kampagnen und verschachtelter ausführbarer Dateien sowie die Einschränkungen ausführbarer Kampagnen, z. B. die Unfähigkeit, Webhooks oder Warteschritte zu verwenden.
 

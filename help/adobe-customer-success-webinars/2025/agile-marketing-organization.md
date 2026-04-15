@@ -2,6 +2,8 @@
 title: Agile-Marketing-Organisation kultivieren
 description: In der Sitzung über den Aufbau einer agilen Marketing-Organisation wurden die Prinzipien des agilen Marketings, ihre Vorteile, Herausforderungen mit dem traditionellen Wasserfall-Ansatz, die Notwendigkeit eines kulturellen Umstellungs- und Veränderungsmanagements sowie die Rollen und Strukturen, die für ein erfolgreiches agiles Marketing unerlässlich sind, hervorgehoben.
 solution: General
+feature: Personalization, Analytics Basics
+topic: Personalization, Performance, Development
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3333
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17371
 exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -28,7 +30,7 @@ Da Marketing-Fachleute unter Druck stehen, Assets zu erstellen und Kampagnen sch
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444450/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Agile Marketing Principles** Agile Marketing wendet Prinzipien von der agilen Softwareentwicklung bis hin zu Marketing-Prozessen an, mit Schwerpunkt auf iterativer Entwicklung, Kundenorientierung, Transparenz, datengestützten Entscheidungen und kontinuierlicher Verbesserung.
 

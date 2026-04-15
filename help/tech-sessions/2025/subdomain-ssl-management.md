@@ -3,19 +3,20 @@ title: Technische Sitzungen - Adobe Campaign-Subdomain- und SSL-Verwaltung im Co
 description: Erfahren Sie, wie Sie Subdomains im Control Panel von Adobe Campaign delegieren und konfigurieren, SSL-Zertifikate einrichten und die Konfiguration überwachen, um eine sichere E-Mail-Zustellbarkeit zu gewährleisten.
 solution: Campaign
 feature: Subdomains and Certificates
+topic: Security, Certification, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3409
 last-substantial-update: 2025-09-05T00:00:00Z
 jira: KT-18866
-source-git-commit: 18ce421793d97372198151afc92b24f3bed053a8
+exl-id: 2ccb1f70-17fe-444e-b819-2e6daeb8f79d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
-
 
 # Technische Sitzungen: Adobe Campaign-Subdomain- und SSL-Verwaltung im Control Panel
 

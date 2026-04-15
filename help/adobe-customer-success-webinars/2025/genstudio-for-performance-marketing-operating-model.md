@@ -2,21 +2,23 @@
 title: GenStudio für Performance-Marketing - Betriebsmodell und Governance-Strategie
 description: Das Webinar zu Adobe GenStudio for Performance Marketing behandelt den Aufbau eines Governance-Frameworks zur Verbesserung der kreativen Prozesse, der Zusammenarbeit und der Effizienz und bietet gleichzeitig Einblicke in die organisatorische Bereitschaft, Best Practices für Betriebsmodelle und agile Marketing-Prinzipien zur Maximierung von Investitionen.
 solution: GenStudio for Performance Marketing
+feature: Workfront Planning
+topic: Artificial Intelligence, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3579
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17369
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: 2b5db111-2d36-4aea-9fa3-1aeb38ce0dc7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
-
-# GenStudio für PEM: Betriebsmodell und Governance-Strategie
+# GenStudio for PeM: Betriebsmodell und Governance-Strategie
 
 Dieses Webinar richtet sich an Kunden, die Adobe GenStudio for Performance Marketing implementieren oder in Betracht ziehen. Erfahren Sie, wie Sie ein Governance-Framework erstellen, das kreative Prozesse orchestriert, die Zusammenarbeit verbessert und die Effizienz steigert. Entdecken Sie die Unternehmensperspektive von Adobe, entdecken Sie Best Practices für Betriebsmodelle und erhalten Sie umsetzbare Einblicke in die Verwendung von Agile-Marketing-Prinzipien zur Maximierung Ihrer Investitionen in GenStudio.
 
@@ -28,7 +30,7 @@ Wichtige Diskussionspunkte
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444446/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 ### Organisatorische Bereitschaftsdefinition
 
@@ -37,8 +39,8 @@ Wichtige Diskussionspunkte
 
 ### Erfolgskriterien für Gen Studio for Performance Marketing
 
-* Erhöhte Produktivität des Kreativ-Teams: Automatisieren Sie Prozesse, um die Ausführung zu optimieren.
-* Verbesserte Prüfungszyklen für Kreative: Erhöhen Sie die Effizienz und Geschwindigkeit.
+* Erhöhte Creative-Teamproduktivität: Automatisieren Sie Prozesse, um die Ausführung zu optimieren.
+* Verbesserte Creative-Prüfzyklen: Effizienz und Geschwindigkeit steigern.
 * Markenkonforme Inhalte: Generieren Sie Inhalte mit Leitplanken für Unternehmen.
 
 ### Agile-Marketing-Betriebsmodell

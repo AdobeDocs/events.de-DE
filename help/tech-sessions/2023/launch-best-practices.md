@@ -4,6 +4,7 @@ description: In dieser Sitzung erfahren Sie mehr über - Konfigurationen, Einste
 solution: Analytics
 feature-set: Analytics
 feature: Tags
+topic: Migration, Integrations
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -12,9 +13,9 @@ jira: KT-13820
 thumbnail: 3422528.jpeg
 exl-id: 5b235517-efe6-4826-b51f-166a88d5bf64
 duration: 2578
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---

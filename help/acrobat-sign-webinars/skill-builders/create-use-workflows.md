@@ -2,6 +2,7 @@
 title: Erstellen und Verwenden von Workflows von Anfang bis Ende
 description: Erfahren Sie mehr über die Erstellung und Verwendung von Workflows.
 feature: Workflow
+topic: Development
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1273
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15301
 exl-id: 4b21e52d-5ecb-4d82-b66b-784b51395bc2
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Alle Acrobat Sign-Administratoren und Endbenutzer/Einzelpersonen aufrufen. In dieser Sitzung wird sowohl die Erstellung als auch die Verwendung von Workflows behandelt. Erfahren Sie, wie Sie als Acrobat Sign-Gruppe oder Konto-Administrator vordefinierte Workflows definieren können, um Dokumente automatisch zur Signatur an die richtigen Parteien weiterzuleiten und dann Zugriff auf Ihre gesamte Acrobat Sign-Gruppe zu gewähren. Und als Endanwender erfahren Sie, wie Sie diese Workflows verwenden können, um sicherzustellen, dass Dokumente beim ersten Mal richtig signiert werden - und zwar jedes Mal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454911/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
 
 ## Behandelte Themen
 

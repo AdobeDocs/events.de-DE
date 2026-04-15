@@ -1,16 +1,18 @@
 ---
 title: Marketing-Kanäle und Attributionsmodellierung
 description: Entfesseln Sie die Leistungsfähigkeit von Adobe Analytics Einrichten von Marketing-Kanälen und nutzen Sie die Attributionsmodellierung mit Expertenhilfe
+feature: Segmentation
+topic: Personalization, Security
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3494
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17164
 exl-id: bdfa9338-f9ef-4bbc-8afb-7fa63305b2f6
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '426'
+ht-degree: 1%
 
 ---
 
@@ -33,7 +35,7 @@ In dieser Sitzung von Data Drip führt uns Adobe Business Advisor, Taylor Walker
 * Demonstration
 * Fragen und Antworten
 
-## Zusammenfassung 
+## Zusammenfassung
 
 * **Einführung in die Datentropfserie** Dies ist die zweite Sitzung der Datentropfserie, die sich auf Marketing-Kanäle und Attribution in Adobe Analytics konzentriert.
 
@@ -43,7 +45,7 @@ In dieser Sitzung von Data Drip führt uns Adobe Business Advisor, Taylor Walker
 
 * **Aufzeichnung und Ressourcen** Das Webinar wird aufgezeichnet und per E-Mail gesendet. Es stehen während der Sitzung auch Handzettel und Ressourcen zum Herunterladen zur Verfügung.
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Marketing-Kanäle**
 

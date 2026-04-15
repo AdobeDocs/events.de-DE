@@ -1,6 +1,7 @@
 ---
 title: Lernen Sie Workflows und Tipps für schnellere Bereitstellungen mit schnellen Entwicklungsumgebungen (RDE) kennen
 description: Erfahren Sie mehr über Workflows und Tipps für schnellere Bereitstellungen mit schnellen Entwicklungsumgebungen (RDE)Schnelle Entwicklungsumgebungen (RDE) für AEM as a Cloud Service verbessern das Entwicklererlebnis, indem sie es ihnen ermöglichen, Änderungen schnell bereitzustellen und zu überprüfen und so den Zeitaufwand für das Testen von Funktionen zu minimieren. RDEs unterstützen iterative Entwicklungsszenarien, z. B. zur Aktualisierung von Java-Code, Konfigurationen, Skripten, Inhalten und Dispatcher-Konfigurationen. Die Änderungen werden direkt auf die ausgeführten Instanzen angewendet. In dieser Sitzung werden wir uns RDEs im Detail ansehen und zeigen, wie Entwickler sie nutzen können, um experimentelle Änderungen direkt bereitzustellen, ihren Inhalt und Code während der Entwicklung zu testen und mithilfe einer echten Cloud-Umgebung schnelles Feedback zu ihren Änderungen zu erhalten.
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13356
 thumbnail: 3419947.jpeg
 exl-id: 77f81cc0-6513-42a8-9c03-fbb97c4dbf29
 duration: 2643
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---

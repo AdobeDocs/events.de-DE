@@ -1,19 +1,21 @@
 ---
 title: Ihr Workfront Success Toolkit - Ressourcen zur Beschleunigung der Akzeptanz und des Nutzens
 description: Entdecken Sie Ressourcen und Tools zur Optimierung der Akzeptanz und des Nutzens von Workfront. Greifen Sie auf Workshops, Community-Foren und professionelle Service-Erkenntnisse zu.
+feature: Work Management, Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3282
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20606
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: 9ace3404-e1b2-4bc8-8e8e-9029bd5e4072
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
 
 ---
-
 
 # Ihr Workfront Success Toolkit - Ressourcen zur Beschleunigung der Akzeptanz und des Nutzens
 
@@ -23,10 +25,8 @@ Erfahren Sie, wie Sie Experience League und die Experience League-Community für
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481824/?learn=on&enablevpops)
 
-Wenn Sie die Sitzung verpasst haben, keine Sorgen! Sehen Sie sich [&#x200B; &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Success+Toolkit+Slide+Deck+021226.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
+Wenn Sie die Sitzung verpasst haben, keine Sorgen! Sehen Sie sich [ &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Success+Toolkit+Slide+Deck+021226.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
 
-Suchen Sie nach weiteren Ressourcen von der Veranstaltung? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-your-workfront-success-toolkit-resources-to-accelerate-adoption-february-12-2026-248480?profile.language=de)!
+Suchen Sie nach weiteren Ressourcen von der Veranstaltung? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-your-workfront-success-toolkit-resources-to-accelerate-adoption-february-12-2026-248480)!
 
 Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events) um die neuesten Sessions zu erhalten.
-
-

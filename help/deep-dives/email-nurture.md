@@ -1,6 +1,8 @@
 ---
 title: Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture
 description: Entfesseln Sie das Potenzial von Lead-Nurturing und Drop-Marketing in dieser Sitzung, in der Sie wichtige Faktoren für die Erstellung effektiver Strategien lernen, erfolgreiche Beispiele erkunden und entdecken, wie Sie diese Techniken in Ihrem gesamten Unternehmen anwenden können, um Ihre einzigartigen Ziele zu erreichen.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ jira: KT-13153
 thumbnail: 3418903.jpeg
 exl-id: b0773186-bffb-49f7-a9e1-7254c33c03b3
 duration: 3462
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,15 @@
 ---
 title: Innovation mit Headless-Integrationen
 description: Sehen Sie sich genauer an, wie unsere Partner durch die Erschließung und Erweiterung des Potenzials der Adobe Commerce-APIs innovative und kreative Erlebnisse geschaffen haben.
+feature: Edge Delivery Services, Release Information
+topic: Headless, Integrations, Development
 role: User
 level: Beginner
 kt: 9790
 thumbnail: 340623.jpeg
 exl-id: 33c44945-5838-471e-972d-5b331549a9e3
 duration: 1714
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

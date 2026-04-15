@@ -1,6 +1,7 @@
 ---
 title: Erstellen Sie Ihr Rezept für die Pflege
 description: Master Nurturing in Marketo Engage - Lernen Sie Strategie, Automatisierung, Personalisierung und Leistungsüberwachung kennen, um Interaktion und Ergebnisse zu steigern.
+feature: Programs, Reporting
 speaker-name-1: Amanda Thomas
 speaker-title-1: Senior Marketing Operations Manager
 speaker-company-1: Iron Horse
@@ -14,13 +15,13 @@ doc-type: Event
 duration: 3123
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19288
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+exl-id: 8f65f7e0-e90d-4be7-be0d-3ecedafdfcfe
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen Sie Ihr Rezept für die Pflege
 
@@ -42,5 +43,3 @@ In dieser Sitzung wurden die wesentlichen Punkte und darüber hinaus behandelt,
 * **Leistungsmessung** Gewinnen Sie Einblicke in die Verfolgung, Analyse und Optimierung der Leistung Ihrer Nurture-Kampagnen.
 
 Diese Sitzung ist perfekt für Marketing-Experten, die eine solide Grundlage in Marketo aufbauen und durch smartere Pflege messbare Ergebnisse erzielen möchten.
-
-

@@ -2,6 +2,8 @@
 title: Von der Vision zum Wert - AEP-Anwendungsfallplanung
 description: In der AEP-Anwendungsfallplanungs-Sitzung werden die Wertzuordnung, die Strategieausrichtung und die Maximierung des Geschäftswerts mithilfe von KPIs behandelt. Sie hilft Unternehmen, ihre Ziele an den Geschäftsergebnissen auszurichten und Adobe-Lösungen für wirkungsvolle Kundenerlebnisse zu nutzen.
 solution: Experience Platform
+feature: AI Assistant, Personalization
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,14 +11,14 @@ duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
 exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%
 
 ---
 
-# Von der Vision zum Wert: AEP - Anwendungsfallplanung
+# Von der Vision zum Wert: AEP-Anwendungsfallplanung
 
 Die Sitzung bietet Einblicke in die Planung und Aktivierung von Anwendungsfällen, insbesondere die Wertzuordnung, die Ausrichtung der Strategie und die Maximierung des Geschäftswerts mithilfe von Key Performance Indicators (KPIs).
 

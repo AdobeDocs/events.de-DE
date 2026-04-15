@@ -3,6 +3,7 @@ title: Erstellen Sie mit Ihren First-Party-Daten hervorragende Erlebnisse
 description: Erfahren Sie, wie Sie Erstanbieter-Cookie-Daten mit einverständnisbasierten dauerhaften Kennungen verbinden können, um Zugriff auf den goldenen Kundendatensatz zu erhalten.
 solution: Real-Time Customer Data Platform
 feature: Identities
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 9727
@@ -10,9 +11,9 @@ thumbnail: 340369.jpeg
 type: Event
 exl-id: b19103d0-4b5b-427e-bd26-436f29c62f75
 duration: 3805
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---

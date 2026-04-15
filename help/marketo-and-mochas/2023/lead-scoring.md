@@ -1,6 +1,8 @@
 ---
 title: Marketo und Mokkas - Lead-Bewertung
-description: Erfahren Sie mehr über die Vorteile des Lead-Scorings mit Cynthia Chang und Kelvin Ieng in Marketo & Mokkas mit Strategien, einem Setup und einer Live-Demo auf Marketo Engage sowie wichtigen Schlussfolgerungen und Live-Fragen und -Antworten.
+description: Erfahren Sie mehr über die Vorteile des Lead-Scorings mit Cynthia Chang und Kelvin Ieng in Marketo & Mokkas, einschließlich Strategien, Einrichtung und einer Live-Demo in Marketo Engage, sowie über wichtige Erkenntnisse und Fragen und Antworten.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3412722.jpeg
 exl-id: f7a309d6-e5e6-46f7-91b9-a19ce4c2c3fd
 event-start-time: 2023-6-7 08:30-8
 duration: 3631
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---

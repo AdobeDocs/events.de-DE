@@ -2,6 +2,7 @@
 title: Keynote zur Eröffnung
 description: Erfahren Sie, wie KI-Agenten B2B-Marketing in B2B 3.0 umwandeln. Lernen Sie mit Marketo Engage Strategien zur Steigerung der Effizienz, Personalisierung und Journey von Kunden kennen.
 solution: Marketo Engage
+feature: Programs, Reporting
 topic: Personalization
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,19 +10,19 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18868
-source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
+exl-id: 2dd43d54-8bc8-431c-b03b-792aa9ece08f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
-
 
 # Keynote zur Eröffnung
 
 Bei der Veranstaltung Adobe Experience Makers: The Skill Exchange (Marketo Engage track) sprach Badsah Mukherji, Adobe Senior Group Product Manager, über die Entwicklung des B2B-Marketings zu „B2B 3.0“. Diese neue Phase konzentriert sich auf KI-gesteuerte Kundenerlebnisse, wobei der Schwerpunkt auf personalisierter Interaktion und der Zielgruppenbestimmung von Einkaufsgruppen innerhalb von Accounts liegt. Mukherjee hob die transformative Rolle von KI-Agenten bei der Automatisierung von Aufgaben, der Steigerung der Effizienz und der Möglichkeit für Marketing-Experten hervor, sich auf strategische Rollen zu konzentrieren. Die Bedeutung der Mensch-KI-Zusammenarbeit wurde betont, wobei die KI die Kreativität fördere, statt sie zu ersetzen. Zu den wichtigsten Fähigkeiten für den Erfolg in dieser Landschaft gehören die schnelle Entwicklung, Datenfluss und Agentenkonfiguration. Adobe integriert KI-Agenten in Tools wie Marketo Engage, um die Orchestrierung des Kundenlebenszyklus zu automatisieren und sicherzustellen, dass Marketing-Experten, die KI nutzen, auch in Zukunft vom B2B-Marketing profitieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471484/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3471392/?learn=on&enablevpops)
 
 ## Die Zukunft des B2B-Marketings
 

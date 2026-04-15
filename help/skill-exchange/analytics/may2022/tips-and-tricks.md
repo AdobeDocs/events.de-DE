@@ -1,15 +1,17 @@
 ---
 title: Tipps und Tricks
 description: Tipps zur Verbesserung Ihres Analyse-Workflows und Highlights der jüngsten Innovationen im Produkt.
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10467
 thumbnail: 343333.jpeg
 exl-id: be8b1ab4-46b8-4a60-8fc8-fc91aa332552
 duration: 3603
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---

@@ -4,6 +4,7 @@ description: Begleiten Sie Fahd Siddiqui in dieser aufschlussreichen Session von
 solution: Commerce
 feature-set: Commerce
 feature: Catalog Service, Price Indexer, B2B
+topic: Commerce, Development
 role: Developer
 level: Beginner
 doc-type: Event
@@ -12,9 +13,9 @@ jira: KT-14427
 thumbnail: 3425623.jpeg
 exl-id: f3a27b87-0911-46fa-b7c3-e880f5a1a11d
 duration: 1566
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

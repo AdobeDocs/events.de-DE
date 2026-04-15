@@ -3,6 +3,7 @@ title: Optimale Nutzung von Marketo Measure
 description: Optimieren Sie Marketo Measure mit Best Practices für die Kanalzuordnung, Segmentierung, benutzerdefinierte Stadienzuordnung und Touchpoint-Unterdrückung. Verwenden Sie spezifische Regeln, kategorisieren Sie Daten und priorisieren Sie Stadien logisch. Unterdrücken Sie unerwünschte Touchpoints für sauberere Daten. Nutzen Sie Tools wie Boomerang-Stadien und senden Sie Support-Fälle für komplexe Konfigurationen. Zugriff auf die Sitzungsaufzeichnung auf der Erlebnisseite von Adobe.
 solution: Marketo Measure
 feature: Touchpoints, Channels, Segmentation
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3417
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17542
 exl-id: 5e3ab998-9bb0-4b6d-a1bd-ec9f24789464
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---

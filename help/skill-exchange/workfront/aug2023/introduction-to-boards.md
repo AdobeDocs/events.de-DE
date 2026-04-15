@@ -3,6 +3,7 @@ title: Einführung in Pinnwände
 description: Pinnwände ermöglichen es Teams, die Arbeit visueller zu verwalten, indem sie eine virtuelle Pinnwand erstellen, auf der Aufgaben, Projekte und andere Arbeitselemente angezeigt werden. Unabhängig davon, ob Sie Systemadmin, Projektmanager oder einzelner Mitarbeiter sind, Boards bieten eine flexible und intuitive Möglichkeit zur Arbeitsverwaltung.
 solution: Workfront
 feature: Work Management
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -11,9 +12,9 @@ jira: KT-14560
 thumbnail: 3425791.jpeg
 exl-id: 2e7a541a-e98f-4d0b-bfa1-cb5d929dedfa
 duration: 2314
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---

@@ -1,7 +1,8 @@
 ---
 title: Adobe Developers Live - 22. November - Adobe Experience Manager als Headless-CMS - Wo/Wann/Warum?
-description: Adobe Experience Manager as a Headless CMS - Wo/Wann/Warum?In dieser Sitzung erfahren Sie, wie Sie Headless CMS über Adobe Experience Manager auf viele Arten implementieren. In dieser Sitzung wird Folgendes behandelt - Content Services über Exporter/Servlets Inhaltsfragment über Asset-API (Demo) Inhaltsfragment über GraphQL (Demo) Einige Echtzeit-Anwendungsfälle rund um die Verwendung von Inhaltsfragmenten und ihre Ansätze SPA-Editor-Lernprozesse (Einige Lösungsansätze bei der Auswahl) (Demo)
+description: 'Adobe Experience Manager as a Headless CMS - Wo/Wann/Warum?In dieser Sitzung erfahren Sie, wie Sie Headless CMS über Adobe Experience Manager auf viele Arten implementieren. In dieser Sitzung wird Folgendes behandelt: - Content Services über Exporter/Servlets Inhaltsfragment über Asset-API (Demo) Inhaltsfragment über GraphQL (Demo) Einige Echtzeit-Anwendungsfälle rund um die Verwendung von Inhaltsfragmenten und ihre Ansätze SPA-Editor-Erkenntnisse (Einige Lösungsansätze bei der Auswahl) (Demo)'
 solution: Experience Manager,Experience Manager Sites
+feature: Authoring, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11475
 thumbnail: 3411299.jpeg
 exl-id: 5280276d-ce7d-401d-bc7a-3e37698b678d
 duration: 2356
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -28,6 +29,6 @@ In dieser Sitzung erfahren Sie, wie Sie Headless-CMS über Adobe Experience Mana
 * Inhaltsfragment über Asset-API (Demo)
 * Inhaltsfragment über GraphQL (Demo)
 * Einige Echtzeitanwendungsfälle rund um die Verwendung von Inhaltsfragmenten und ihre Ansätze
-* Lerninhalte des SPA-Editors (Lösungsansatz zur Auswahlentscheidung) (Demo)
+* SPA-Editor-Lernprogramme (Lösungsansatz zur Auswahlentscheidung) (Demo)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411299/?quality=12&learn=on)

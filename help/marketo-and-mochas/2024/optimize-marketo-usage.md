@@ -2,6 +2,8 @@
 title: Marketo und Mokkas - Reife Teil 2 - Optimierung der Marketo-Nutzung
 description: Schließen Sie sich Cynthia Chang und Carly Gaver, Adobe Business Advisors, für Teil 2 der Marketo Maturity-Reihe an, der sich auf das Daten-Management, CRM-Integrationen und die Kampagnenoptimierung konzentriert, um Ihre Marketo-Nutzung mit Live-Fragen und -Antworten zu verbessern.
 solution: Marketo Engage
+feature: Programs, Smart Lists
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
 exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -25,7 +27,7 @@ Seien Sie dabei, wenn Cynthia Chang und Carly Gaver, Adobe Business Advisors, in
 ## Wichtigste besprochene Themen
 
 **Marketo-Reifegrade**
-Konzentration auf Durchforstungs-, Spaziergangs- und Ausführungsphasen zur Optimierung der Marketing-Nutzung bis hin zu Marketo-Reifegraden.
+Konzentriert auf crawlen-, Walk- und Run-Phasen zur Optimierung der Marketing-Nutzung durch Marketo-Reifegrade.
 
 **Daten-Management und Datennormalisierung**
 Die Bedeutung sauberer und verwertbarer Daten in Marketo durch Datenmanagement- und Datennormalisierungsprozesse wurde hervorgehoben.

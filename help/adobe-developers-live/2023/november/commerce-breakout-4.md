@@ -4,6 +4,7 @@ description: Cristian Partica spricht in dieser informativen Sitzung, die am 6. 
 solution: Commerce
 feature-set: Commerce
 feature: API Mesh, Integration
+topic: Integrations, Development
 role: Developer
 level: Beginner
 doc-type: Event
@@ -12,9 +13,9 @@ jira: KT-14430
 thumbnail: 3425628.jpeg
 exl-id: 895a6a45-381f-4653-9957-0f127fc529e1
 duration: 1909
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---

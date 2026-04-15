@@ -2,19 +2,21 @@
 title: CX-Erfolg mit Adobe Customer Journey Analytics Journey Canvas
 description: Entdecken Sie, wie die Journey-Arbeitsfläche dazu beiträgt, ideale und tatsächliche Benutzerpfade abzubilden, Reibungsverluste aufzudecken und mit Adobe Customer Journey Analytics messbare CX-Verbesserungen zu erzielen
 solution: Customer Journey Analytics
+feature: Integrations
+topic: Integrations, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18815
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 10075f8c-ad44-4ee7-970c-9cdae1b21b11
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # CX-Erfolg mit Adobe Customer Journey Analytics Journey Canvas
 
@@ -24,7 +26,7 @@ Die Teilnehmer lernen, wie sie mit der Analyse auf Journey-Ebene umsetzbare Mög
 
 Schließlich werden wir in Strategien eintauchen, mit denen diese Einblicke unternehmensweit skaliert werden können, indem wir Journey-Canvas-Ergebnisse mit granularen Dashboards verbinden und so eine kontinuierliche Optimierung an jedem Touchpoint ermöglichen. Egal, ob Sie neu bei CJA sind oder bereits ein erfahrener Anwender sind, diese Veranstaltung bietet Ihnen eine klare Methodik für die Verwendung von Journey Canvas, um Ihre CX-Programme zu verbessern und greifbare Ergebnisse zu erzielen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471223/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
 
 ## Journey-Arbeitsfläche: Von der Analyse zur Aktivierung
 

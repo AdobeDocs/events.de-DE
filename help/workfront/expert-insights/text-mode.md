@@ -1,19 +1,21 @@
 ---
 title: Master-Textmodus mit Katherine Lanning
 description: Entdecken Sie die Leistungsfähigkeit des Textmodus in Workfront mit Experteneinblicken von Katherine Lanning.
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1892
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19738
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+exl-id: 42008579-3f8d-4b10-bfdd-96fb77b1d48e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Expert Insights: Textmodus mit Katherine Lanning
 
@@ -35,13 +37,13 @@ Der Textmodus kann eine Herausforderung sein, aber die Belohnungen sind erstaunl
 ## Ressourcen
 
 Suchen Sie zusätzliche Ressourcen? Wir haben sie!
-* [Kunden-Panel: Lessons Learned from Veteran Workfront Admins](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861?profile.language=de#M3487) - Katherine hat weitere Einblicke gegeben!
-* [Referenzieren von Sammlungen in einem Bericht](https://experienceleague.adobe.com/de/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [API-Explorer](https://experienceleague.adobe.com/de/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-* [Reporting-Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=de#M1406)
-* Und wenn Sie noch nicht mit Reporting vertraut sind, beginnen Sie mit dem Artikel Perspektive von Nichole, [8 Schritte, um einfache, effektive Berichte in Adobe Workfront zu erstellen](https://experienceleague.adobe.com/de/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
+* [Kunden-Panel: Lessons Learned from Veteran Workfront Admins](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine hat weitere Einblicke gegeben!
+* [Referenzieren von Sammlungen in einem Bericht](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [API-Explorer](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [Reporting-Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* Und wenn Sie noch nicht mit Reporting vertraut sind, beginnen Sie mit dem Artikel Perspektive von Nichole, [8 Schritte, um einfache, effektive Berichte in Adobe Workfront zu erstellen](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
 
-Weitere Ressourcen, einschließlich des Modus zum Kopieren/Einfügen von Text, finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717?profile.language=de#M4848)!
+Weitere Ressourcen, einschließlich des Modus zum Kopieren/Einfügen von Text, finden Sie im [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848)!
 
 
 ## Über den Sprecher

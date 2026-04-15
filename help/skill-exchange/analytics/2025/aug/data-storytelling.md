@@ -1,23 +1,24 @@
 ---
-title: Daten-Storytelling mit Analysis Workspace
+title: Data Storytelling mit Analysis Workspace
 description: Lernen Sie fünf Strategien kennen, mit denen sich Adobe Analysis Workspace-Dashboards in überzeugende Datengeschichten verwandeln lassen, die Auswirkungen, insight und Maßnahmen von Stakeholdern fördern.
 solution: Analytics
 feature: Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18820
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: cf6a1931-094a-4a2e-b3df-6e20d07e1487
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
-
-# Daten-Storytelling mit Analysis Workspace
+# Data Storytelling mit Analysis Workspace
 
 Dashboards sind großartig, aber allzu oft bewirken sie keine Auswirkungen. In dieser Sitzung erfahren Sie, wie Sie Ihre Adobe Analysis Workspace-Projekte in echte Daten-Storys umwandeln können, die wahrgenommen werden und Maßnahmen fördern.
 
@@ -26,12 +27,12 @@ Sie erfahren, wie Sie Visualisierungen gezielter verwenden, bessere Fragen stell
 >[!VIDEO](https://video.tv.adobe.com/v/3471116/?learn=on&enablevpops)
 
 
-## Entfesseln wirkungsvoller Daten-Storytelling
+## Entsperren von wirkungsvollen Daten in Storytelling
 
 Entdecken Sie, wie Sie über herkömmliches Reporting hinausgehen und Dashboards erstellen, die echte Stakeholder-Aktionen fördern.
 
 * **Storytelling treibt Maßnahmen voran** Stakeholder reagieren auf insight, Dringlichkeit und emotionale Relevanz, nicht nur auf Rohdaten.
-* **Erzählstruktur ist wichtig** Verwenden Sie Einrichtung, Spannung und Auflösung, um Benutzer durch Ihr Dashboard zu führen, was ein effektives Storytelling widerspiegelt.
+* **Erzählende Struktur ist wichtig** Verwenden Sie Einrichtung, Spannung und Auflösung, um Benutzer durch Ihr Dashboard zu führen, was eine effektive storytelling widerspiegelt.
 * **Visualisierungen und Kontext** Erweiterte Visualisierungen und kontextueller Text helfen Benutzern, sich auf das Wesentliche zu konzentrieren und emotionale Interaktion zu schaffen.
 * **Präsentation ist der Schlüssel** Die Art und Weise, wie Sie Ihre Daten-Story präsentieren, kann ihre Wirkung entfalten oder zunichte machen - die persönliche Zustellung sorgt für Emotionen und Klarheit.
 

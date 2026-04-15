@@ -3,15 +3,16 @@ title: Optimierung des ersten Schritts des Daten-Managements
 description: Das zunehmende Datenvolumen macht es für Unternehmen sehr schwierig, digitale Interaktionsdaten effizient zu erfassen und an das passende Marketing zu senden … (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 solution: Real-Time Customer Data Platform
 feature: Data Governance
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
 exl-id: e35c6cc7-7831-4a62-9feb-9315a2bff18b
 duration: 3818
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 1%
 
 ---

@@ -1,6 +1,8 @@
 ---
 title: Ermöglichen verschiedener Geschäftsmodelle mit Commerce und Kompatibilität
 description: Im Mittelpunkt des Treffens standen die Aktivierung verschiedener Geschäftsmodelle in Adobe Commerce, die Hervorhebung von Wachstumstrends im B2B-Commerce, die Betonung der Bedeutung der Vereinfachung von Integrationen für nahtlose Upgrades, die Präsentation personalisierter B2B- zu B2C-Interaktionen mithilfe einer Demo, die Erörterung von Adobe Commerce-Funktionen wie Omni-Channel-Support und API-Mesh-Integration, die Betonung der Vorteile zusammensetzbarer Commerce-Services, die Einführung des App Builder für skalierbare Anpassungen und die Abonnementverwaltung innerhalb der Plattform.
+feature: Integration, Headless, B2B
+topic: Headless, Personalization, Integrations
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
 exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---

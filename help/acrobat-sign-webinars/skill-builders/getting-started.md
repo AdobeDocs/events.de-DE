@@ -2,6 +2,7 @@
 title: Acrobat Sign 101 - Erste Schritte
 description: Lernen Sie die Grundlagen von Acrobat Sign kennen, um Dokumente schnell signieren zu können.
 feature: Sign
+topic: Development
 role: User
 level: Beginner
 doc-type: Event
@@ -9,10 +10,10 @@ duration: 1623
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15292
 exl-id: 30be76bf-738d-4716-8de6-6f5387dbf905
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 0%
+source-wordcount: '190'
+ht-degree: 12%
 
 ---
 
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Lernen Sie die Grundlagen von Acrobat Sign kennen, um Dokumente schnell signieren zu können. Wir zeigen Ihnen Folgendes: Vorbereiten und Senden Ihrer Dokumente für die E-Signatur Anzeigen, was Ihre Unterzeichner sehen Verwalten und Verfolgen des Fortschritts von Vereinbarungen Erstellen Sie Ihre eigene Signatur und mehr.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455474/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
 
 ## Wichtigste Punkte
 
@@ -31,4 +32,4 @@ Lernen Sie die Grundlagen von Acrobat Sign kennen, um Dokumente schnell signiere
 * Private Nachrichten können für bestimmte Teilnehmer über das Symbol Sprechblase hinzugefügt werden.
 * Die Unterzeichner haben die Möglichkeit, die Vereinbarung zu lesen, die Unterzeichnung zu delegieren, die Unterzeichnung abzulehnen, den Verlauf anzuzeigen und die PDF herunterzuladen.
 * Absender können Vereinbarungs-Workflows verwalten, Transaktionen anzeigen, Erinnerungen senden und auf abgeschlossene Dokumente zugreifen.
-* Adobe Sign fungiert als Speichermechanismus für alle signierten Dokumente, Benutzende können jedoch über eigene Archivierungsmethoden verfügen.
+* Adobe Sign dient als Speichermechanismus für alle signierten Dokumente, Benutzende können jedoch ihre eigenen Archivierungsmethoden verwenden.

@@ -1,19 +1,21 @@
 ---
 title: Grundlegende Benutzergruppe für Marketo - Vorbereitung der fachlichen Prüfung
 description: In dieser fokussierten Vorbereitungssitzung erhalten Sie Expertenanleitungen, Studientipps und KI-gestützte Lernunterstützung, um Ihre Marketo Engage Professional-Prüfung mit Zuversicht durchzuführen.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Performance, Certification
 role: User
 level: Beginner
 doc-type: Event
 duration: 3115
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19483
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: dc33d6a9-1675-4791-a9f2-a64251f346bd
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # Grundlegende Marketo-Benutzergruppe: Vorbereitung der fachlichen Prüfung
 
@@ -40,4 +42,3 @@ Die Kombination dieser Strategien gewährleistet eine umfassende Vorbereitung, d
 * **Inhalte von Champions- und Benutzergruppen** Blogs, Aufzeichnungen und Diskussionen zu praktischen Tipps und Erläuterungen auf Prüfungsebene lesen.
 
 Diese Ressourcen bieten eine solide Grundlage und fortlaufende Unterstützung während der gesamten Journey Ihrer Zertifizierung.
-

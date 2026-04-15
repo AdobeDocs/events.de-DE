@@ -3,6 +3,7 @@ title: Leistungsstarke Workflow-Automatisierung - Praktische Anwendungen der Mar
 description: Erschließen Sie das Potenzial der Marketo Engage-REST-API zur Automatisierung von Marketing-Workflows, zur Integration von Tools wie Zapier, zur Nutzung von Python für Massenaktionen und zur Optimierung von Aufgaben wie Lead-Zusammenführung, UTM-Tracking und Aktivitätsdatenextraktion.
 solution: Marketo Engage
 feature: REST API
+topic: Integrations
 role: Admin
 level: Beginner, Intermediate
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
 exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---

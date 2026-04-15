@@ -3,6 +3,7 @@ title: Experience Makers im Blickpunkt - Vorbereiten auf Wachstum und kontinuier
 description: Nehmen Sie an unserer Spotlight-Sitzung zu Experience Makers teil, um von drei sehr verschiedenen Unternehmen zu erfahren, wie sie das Wachstum und die Skalierung ihrer Workfront-Instanzen angegangen sind.
 solution: Workfront
 feature: System Setup and Administration
+topic: Administration
 role: User, Admin
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,7 +12,7 @@ jira: KT-14574
 thumbnail: 3425813.jpeg
 exl-id: fd18358c-1027-42b9-a9da-c8b7af2b6820
 duration: 3081
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Sie haben Workfront implementiert, Ihre ersten Workflows erfolgreich gestartet u
 
 Sie werden hören,
 
-* Warum Cathy Glenn, Marketing Technologist, Project Management &amp; Workfront Lead bei Thermo Fisher Scientific, glaubt, dass eine angemessene Personalausstattung und Ressourcenausstattung (einschließlich der Nutzung von Gruppenadministrierenden!) ein entscheidender erster Schritt für das Wachstum ist
+* Warum Cathy Glenn, Marketing-Technologin, Project Management &amp; Workfront Lead bei Thermo Fisher Scientific, glaubt, dass eine angemessene Personalausstattung und Ressourcenausstattung (einschließlich der Nutzung von Gruppenadmins!) Dies ist ein entscheidender erster Schritt für das Wachstum
 * Was Trinite Bryant, Marketing Operations Manager bei Amazon Web Services (AWS), tut, um das Wachstum zu fördern, indem er ein Gefühl der Gemeinschaft und der Governance rund um Workfront schafft, um die Nutzung und Beteiligung weiter zu steigern
 * Wie Tim Brooks, Leiter des technischen Programm- und Projektmanagements bei Deloitte, Workfront produziert und als Vorlage konzipiert hat, um ihre Expansion zu optimieren und kontinuierliche Effizienz zu finden
 

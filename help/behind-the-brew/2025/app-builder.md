@@ -1,6 +1,9 @@
 ---
 title: Adobe Developer App-Builder
+solution: Commerce
+feature: App Builder
 description: Integrieren von Adobe Commerce mit beliebigen E-Commerce-Anwendungen mithilfe von Expertenanleitungen und Live-Demonstrationen von App Builder
+topic: Personalization, Integrations, Performance
 role: Admin, Developer
 level: Intermediate, Experienced
 doc-type: Event
@@ -8,9 +11,9 @@ duration: 3460
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17171
 exl-id: 0a645dc1-0f5d-4b85-bd09-80a453754434
-source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '356'
 ht-degree: 2%
 
 ---
@@ -21,7 +24,7 @@ In diesem Webinar vermittelt Adobe Customer Technical Advisor, Dharmendra Kothe,
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443027/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Einführung in Adobe Commerce App Builder** Im Rahmen des Webinars wurde die Adobe Commerce App Builder vorgestellt, wobei die Möglichkeit hervorgehoben wurde, Adobe Commerce-Erlebnisse zu verbessern und zu optimieren, indem Entwicklerinnen und Entwicklern die Möglichkeit gegeben wurde, auf spezifische Anforderungen zugeschnittene Anwendungen und Erweiterungen zu erstellen, anzupassen und zu entwickeln.
 

@@ -1,6 +1,7 @@
 ---
-title: Expert Insights - Content Supply Chain mit Core Kombol
-description: Erfahren Sie von Core Kombol Expertenstrategien zur Optimierung Ihrer Inhaltslieferkette mit Adobe-Lösungen. Steigern Sie Effizienz, Zusammenarbeit und Ergebnisse.
+title: Expert Insights - Content Supply chain mit Core Kombol
+description: Erfahren Sie von Core Kombol Expertenstrategien zur Optimierung Ihres Inhalts mit supply chain-Lösungen mit Adobe. Steigern Sie Effizienz, Zusammenarbeit und Ergebnisse.
+feature: Strategic Planning
 topic: Content Supply Chain
 speaker-name-1: Corre Kombol
 speaker-title-1: Principal Customer Success Manager
@@ -12,18 +13,18 @@ duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
 exl-id: f8600288-a19b-440c-b60d-94078014353e
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-# Expert Insights - Content Supply Chain mit Core Kombol
+# Expert Insights - Content Supply chain mit Core Kombol
 
 Willkommen zurück bei Expert Insights!  Ich bin Cynthia Boon, Ihre „On-Demand“ Workfront Customer Success Manager (CSM) und in dieser Folge gesellt sich uns Core Kombol, ein Principal Customer Success Manager hier bei Adobe!  
 
-Core ist ein wirklich strategisches CSM, das das Tempo vorgibt, mit dem wir Adobe-Lösungen zur Unterstützung der Content Supply Chain-Bemühungen Ihres Unternehmens einsetzen können. 
+Core ist ein wirklich strategisches CSM, das uns das Tempo vorgibt, wie wir Adobe-Lösungen zur Unterstützung der Content Supply chain-Bemühungen Ihres Unternehmens verwenden können. 
 
 ## Empfehlungen des Kerns
 
@@ -37,13 +38,13 @@ Core ist ein wirklich strategisches CSM, das das Tempo vorgibt, mit dem wir Adob
 
 ### Summit-Sitzungen
 
-* [Wie Adobe seine Inhaltslieferkette optimiert hat - S316](https://business.adobe.com/de/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Erfahren Sie mehr über den Ansatz von Adobe zur Bereitstellung seiner Inhaltslieferkette in seiner eigenen Marketing-Organisation 
-* [Revolutionieren der Inhaltserstellung mit Adobe - S305](https://business.adobe.com/de/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Entdecken Sie, wie Adobe Ihre Inhaltslieferkette maximieren und Ihren Kreativ-Workflow beschleunigen kann 
+* [Wie Adobe seinen Content Supply chain optimiert hat - S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Erfahren Sie mehr über den Ansatz von Adobe zur Bereitstellung seines Content Supply chain in seiner eigenen Marketing-Organisation 
+* [Revolutionieren der Inhaltserstellung mit Adobe - S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Entdecken Sie, wie Adobe Ihre Content-supply chain maximieren und Ihren Kreativ-Workflow beschleunigen kann 
 
 ### Produktdemos
 
-* [Workfront](https://business.adobe.com/de/product-demos/workfront/interactive-tour.html) - da eine interaktive [Produktdemo] erforderlich ist, um den Umfang dessen zu veranschaulichen, was in unserer Enterprise Work Management-Lösung vorhanden sein kann.  
-* [GenStudio](https://business.adobe.com/de/resources/sdk/getting-started-with-adobe-genstudio.html) - Ich finde es toll, wie umfassend dies für unsere Kunden ist, damit sie ihre Anforderungen an Lösungen knüpfen können, die heute bei Adobe vorhanden sind.
+* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - da eine interaktive [Produktdemo] erforderlich ist, um den Umfang dessen zu veranschaulichen, was in unserer Enterprise Work Management-Lösung vorhanden sein kann.  
+* [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - Ich finde es toll, wie umfassend dies für unsere Kunden ist, damit sie ihre Anforderungen an Lösungen knüpfen können, die heute bei Adobe vorhanden sind.
 
 ## Über den Sprecher 
 

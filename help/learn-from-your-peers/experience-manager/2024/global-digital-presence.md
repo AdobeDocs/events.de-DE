@@ -2,6 +2,8 @@
 title: Erfolge im großen Maßstab mit einer globalen Kombination
 description: Skalieren Sie globale Inhalte mit AEM mithilfe von benutzerdefinierten Komponenten, Blueprints, Workflows und Fragmenten für eine effiziente Kontrolle, Genehmigung und regionale Flexibilität.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, User
 level: Intermediate
@@ -10,9 +12,9 @@ duration: 3603
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-17926
 exl-id: 40ee87d8-0ff9-44a8-8bd2-8000e7db89ed
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ Nehmen Sie an diesem unvergesslichen Webinar teil, in dem zwei unserer erfahrens
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457918/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Komponentenanpassungen und -**: Diese ermöglichen regionale Nuancen und Anforderungen und ermöglichen die regionsspezifische oder globale Anpassung, was hilfreich ist, um unterschiedliche Anforderungen an einem Ort zu erfüllen.
 

@@ -4,6 +4,7 @@ description: Erkunden Sie gemeinsam mit Corey Gelato die Strategien der Hochsais
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
+topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -12,9 +13,9 @@ jira: KT-13992
 thumbnail: 3424390.jpeg
 exl-id: 48986967-b794-4dc9-8a17-d38800ae90aa
 duration: 3580
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---

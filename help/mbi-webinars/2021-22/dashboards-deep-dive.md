@@ -5,14 +5,17 @@ landing-page-description: Sehen Sie sich dieses aufgezeichnete Webinar an, um ei
 short-description: Sehen Sie sich dieses aufgezeichnete Webinar an, um eine Einführung in die vier Dashboards zu erhalten, die bei der Einrichtung für jedes Commerce Intelligence-Konto enthalten sind.
 kt: 10496
 solution: Commerce, Commerce Intelligence
+feature: Data Integration, Reports
+feature-set: Commerce Intelligence
+topic: Commerce
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 343498.jpeg
 exl-id: f11829c9-3c7b-4da5-8ad8-762086a820b9
 duration: 2932
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -35,5 +38,5 @@ Machen Sie mit jedem Commerce Intelligence-Account eine geführte Tour durch die
 
 ## Nützliche Ressourcen
 
-[Dashboards](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=de)
-[Exportieren von Diagrammdaten](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=de)
+[Dashboards](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
+[Exportieren von Diagrammdaten](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)

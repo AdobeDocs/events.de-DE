@@ -2,6 +2,8 @@
 title: Frag mich was
 description: Nehmen Sie am letzten interaktiven Webinar des Jahres von Adobe mit Kate Kolbert und James Letham teil, das Webinar-Optimierung, Programm-Updates, nicht genutzte Marketo-Funktionen, Best Practices für das E-Mail-Marketing, Datenbankverwaltung, Benutzerberechtigungen, Marketo-Salesforce-Synchronisierung, dynamische Chat-Interaktion und Lebenszyklusphasen behandelt.
 solution: Marketo Engage
+feature: Programs, Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3438
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16502
 exl-id: a842ed22-c6db-4de3-af02-c7363207d00c
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -32,5 +34,5 @@ Das Transkript enthält eine letzte interaktive Webinar-Session des Jahres, die 
 * **Benutzerberechtigungen** Schränken Sie Benutzerberechtigungen ein, um nicht autorisierte Massen-E-Mail-Sendungen zu verhindern, und legen Sie als Sicherheitsmaßnahme Grenzwerte für intelligente Kampagnen fest.
 * **Synchronisierung von Marketo und Salesforce** Verhindern Sie, dass Sie dem Marketo-Synchronisierungsbenutzer Administratorzugriff in Salesforce gewähren, um eine Datenüberlastung zu verhindern und eine effiziente Synchronisierung sicherzustellen.
 * **Dynamic Chat-Interaktion** Optimieren Sie die Bereitstellung von Chat-Bots, indem Sie die Seitenplatzierung bewerten, Benutzerinteraktionen vereinfachen und die richtige Zielgruppe auswählen.
-* **Lebenszyklusphasen und Trichtermanagement** Definieren Sie klare Lebenszyklusphasen, stellen Sie die Abstimmung mit dem Verkauf sicher und verhindern Sie, dass sich Leads im Trichter zurückbewegen.
+* **Lebenszyklusphasen und Funnel-**: Definieren Sie klare Lebenszyklusphasen, stellen Sie die Abstimmung mit dem Vertrieb sicher und verhindern Sie, dass sich Leads in der funnel zurückbewegen.
 * **E-Mail-Versandbeschränkungen** Die allgemeine maximale E-Mail-Versandrate beträgt 1 Million E-Mails pro Stunde, wobei bei Bedarf höhere Beschränkungen für den Kauf verfügbar sind.

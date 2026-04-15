@@ -1,7 +1,9 @@
 ---
 title: Erfahren Sie mehr über AEP App Services-Integrationen für Kunden-Anwendungsfälle
-description: In dieser Sitzung werden AEP-Blueprints vorgestellt, vier Anwendungsfälle für die Integration mit AJO, Marketo und Target behandelt sowie die Architektur von AEP- und AJO-API-ausgelösten Kampagnen.
+description: In dieser Sitzung erhalten Sie eine Einführung in AEP Blueprints, vier Anwendungsfälle für die Integration mit AJO, Marketo und Target sowie die Architektur von AEP- und AJO-API-ausgelösten Kampagnen.
 solution: Experience Platform
+feature: AI Assistant, Personalization
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 2499
 last-substantial-update: 2024-08-16T00:00:00Z
 jira: KT-15883
 exl-id: eaef4c3b-4b45-45d2-86a6-85cd3277ea72
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

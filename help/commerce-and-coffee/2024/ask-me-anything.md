@@ -2,6 +2,8 @@
 title: Frag mich was
 description: Commerce und Coffee beantworten Fragen von Teilnehmern zu Adobe Commerce und liefert Informationen zu Unternehmenshierarchien, Website-Leistungsmetriken, B2B-Personalisierung, Best Practices für die Live-Suche und kommenden Produktverbesserungen.
 solution: Commerce
+feature: B2B, Payments
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 3153
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16471
 exl-id: 0e765a3e-9ff8-4a4a-8987-e56631adfc58
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -38,4 +40,4 @@ Corey und Agbi beantworteten Fragen sowohl live als auch aus Registrierungen, te
 
 * **B2B-Personalization** Techniken: Nutzen Sie freigegebene Kataloge, personalisierte Preise und maßgeschneiderte Zahlungsmethoden, um das Kundenerlebnis zu verbessern.
 
-* **Künftige Version 2.4.8** Teased-Verbesserungen der Kernfunktionen und Produkttypen, wobei beim Adobe Summit weitere Details erwartet werden.
+* **Kommende Version 2.4.8** Teased-Verbesserungen der Kernfunktionen und Produkttypen, wobei weitere Details bei Adobe Summit erwartet werden.

@@ -1,6 +1,7 @@
 ---
 title: Marktführer im Einzelhandel - KI-gestütztes Wachstum und Playbooks mit Spitzenleistungen
 description: In diesem Adobe-Webinar 2025 erfahren Sie, wie Einzelhändler KI-gestützten Traffic verwenden, um ihre Loyalität, Interaktion und Konversion zu steigern.
+feature: Segmentation
 topic: Artificial Intelligence
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3350
 last-substantial-update: 2025-08-27T00:00:00Z
 jira: KT-18836
-source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
+exl-id: 7267b110-fcba-4866-a7f8-4eefa0c14467
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # Marktführer im Einzelhandel: KI-gestütztes Wachstum und Playbooks mit Spitzenleistungen
 
@@ -37,7 +38,7 @@ Dieses Webinar zu Adobe Customer Success x Adobe Digital Insights behandelt die 
 ## KI-Strategien Schritt für Schritt anwenden
 
 1. **KI-Traffic nachverfolgen** Einrichten von Analysen zur Identifizierung von Besuchen von KI-Plattformen (verwenden Sie LLM-Segmente, UTMs).
-1. **Inhalt optimieren** Strukturieren Sie Produktseiten mit klaren Überschriften und FAQs für ein einfaches KI-Crawling.
+1. **Inhalt optimieren** Strukturieren Sie Produktseiten mit klaren Überschriften und FAQs, um den KI-crawlen zu vereinfachen.
 1. **Reichweite erweitern** Produktinformationen auf Social Media, Blogs und Review-Sites freigeben, um die Sichtbarkeit zu erhöhen.
 1. **Nutzen Sie Influencer** Arbeiten Sie mit Social-Media-Erstellern für Affiliate-Kampagnen und benutzergenerierte Inhalte zusammen.
 1. **Treueprogramme verbessern** Verwenden Sie Kundendaten, um Prämien zu personalisieren und zu wiederholten Käufen zu ermutigen.

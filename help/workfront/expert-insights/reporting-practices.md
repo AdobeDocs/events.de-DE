@@ -1,7 +1,8 @@
 ---
 title: Expert Insights - Reporting Practices mit Nichole Vargas
-description: 'Lernen Sie die besten Reporting-Praktiken von Nichole Vargas kennen: Verbessern Sie Ihre Workfront-Reporting-Fähigkeiten mit berechneten Feldern, Tipps zum Storytelling und von der Community gesteuerten Ressourcen.'
+description: Erfahren Sie mehr über die wichtigsten Reporting-Praktiken von Nichole Vargas - erweitern Sie Ihre Workfront-Reporting-Fähigkeiten mit berechneten Feldern, storytelling-Tipps und Community-basierten Ressourcen.
 feature: Reports and Dashboards
+topic: Performance
 speaker-name-1: Nichole Vargas
 speaker-title-1: Senior Customer Success Manager
 speaker-company-1: Adobe
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 1547
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18616
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+exl-id: dc1904fe-6403-42bd-91c8-d58a0ea73237
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights - Reporting Practices mit Nichole Vargas
 
@@ -27,7 +28,7 @@ Für die Platte ist sie genauso großartig, intelligent und großzügig zu arbei
 
 Seien Sie dabei, wenn ich mit Nichole über ihre Rolle als Reporting-Guru bei On-Demand Workfront CSM spreche, über ihre Lieblingsfeatures und -tipps und darüber, wie wir alle „mehr wie Nichole“ sein können! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469974/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
 
 ## Tipps
 
@@ -41,15 +42,15 @@ Seien Sie dabei, wenn ich mit Nichole über ihre Rolle als Reporting-Guru bei On
 
 ## Ressourcen
 
-* **Blog** - [Sparen Sie Zeit durch berechnete benutzerdefinierte Felder](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237?profile.language=de)
-* **Artikel** - [Berechnete Datenausdrücke]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=de#:~:text=Sie können Datenausdrücke verwenden, die ein neues Feld generieren.&amp;text=Weitere Informationen zum Erstellen von Daten in einem benutzerdefinierten Formular.)
-* **Ereignisnachbereitung** - [Workshop zu berechneten benutzerdefinierten Feldern](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725?profile.language=de)
-* **Community** - [Reporting Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=de#M1406)
-* **Blog** - [Verwenden Sie Workfront-Blueprints, um Ihre Arbeitsverwaltungsumgebung zu optimieren!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=de)
+* **Blog** - [Sparen Sie Zeit durch berechnete benutzerdefinierte Felder](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
+* **Artikel** - [Berechnete Datenausdrücke]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=en#:~:text=Sie können Datenausdrücke verwenden, die ein neues Feld generieren.&amp;text=Für weitere Informationen zum Erstellen von Daten in einem benutzerdefinierten Formular.)
+* **Ereignisnachbereitung** - [Workshop zu berechneten benutzerdefinierten Feldern](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
+* **Community** - [Reporting Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* **Blog** - [Verwenden Sie Workfront-Blueprints, um Ihre Arbeitsverwaltungsumgebung zu optimieren!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
    * *Erste Schritte* - In diesem Blog finden Sie weitere Informationen zu den Berichtspaketen „Systemwartungs-Dashboard“ und „Nutzungs-Dashboard“. 
    * *Bonus-Tipp!* - Abonnieren Sie den Blog, um Benachrichtigungen zu erhalten, wenn neue Blueprints veröffentlicht werden. 
-* **Artikel** - [Platzhalterfiltervariablen](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=de)
-* **Artikel** - [Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansicht](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=de)
+* **Artikel** - [Platzhalterfiltervariablen](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en)
+* **Artikel** - [Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansicht](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
 
 ## Über den Sprecher
 
@@ -58,4 +59,3 @@ Nichole Vargas ist ein Go-Getter, der sich dazu verpflichtet hat, die Kundenerwa
 ## Haben Sie etwas zu teilen?
 
 Haben Sie eine großartige Geschichte zu teilen, entweder während einer Veranstaltung oder in einem Expert Insights-Video? Wenden Sie sich unter [CSatScale@adobe.com](mailto:CSatScale@adobe.com) an unser Team.
-

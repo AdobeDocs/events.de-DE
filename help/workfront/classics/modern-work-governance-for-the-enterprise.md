@@ -1,13 +1,15 @@
 ---
 title: Fragen Sie den Experten - Moderne Work Governance für das Unternehmen
 description: Erfahren Sie, wie Sie den Rahmen Ihres Exzellenzzentrums entwickeln, um den Erfolg sicherzustellen. Dieses Webinar wurde am 5. August 2020 aufgezeichnet.
+feature: System Setup and Administration
+topic: Administration, Development
 doc-type: feature video
 team: Technical Marketing
 kt: 9915
 duration: 3698
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

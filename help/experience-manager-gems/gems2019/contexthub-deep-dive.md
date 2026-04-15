@@ -1,13 +1,15 @@
 ---
 title: Detaillierte Einblicke in die Implementierungsdetails von Stores, Modulen und Segmenten in ContextHub
 description: Diese Gems-Sitzung widmet sich den Implementierungsdetails von ContextHub-Stores verschiedener Typen, die verschiedene Persistenzschichten verwenden. Implementierung benutzerdefinierter Module (sowohl über Code als auch über die Konfiguration mithilfe des Basismodul-Renderers) sowie die Organisation von Modulen in separaten ContextHub-Modi. Schließlich werden wir sehen, wie die ContextHub-Segmenteigenschaften funktionieren, wie ein benutzerdefinierter Vergleich implementiert wird und wie Segmente programmgesteuert instanziiert werden.
+feature: Edge Delivery Services, Release Information
+topic: Development
 discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: c56b8724-a97e-4671-a1ad-0a87a9260ed6
 duration: 3199
-source-git-commit: 1f03e57f9818a9b61c9825febd8b9cf24d071b25
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---

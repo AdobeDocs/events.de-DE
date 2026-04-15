@@ -1,19 +1,21 @@
 ---
 title: Erstellen der Agent Web-Keynote
 description: Erkunden Sie die Rolle von KI in digitalen Erlebnissen mit der Vision von Adobe für das agentische Web, einschließlich AEM-Agenten und mehr.
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Development
 role: Developer
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 4240
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19962
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: e0f0188d-c97c-4541-993e-cb88e3081eba
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '152'
 ht-degree: 1%
 
 ---
-
 
 # Keynote: Aufbau des Agentic Web
 
@@ -29,4 +31,3 @@ Ein besonderer Dank geht an unsere Sponsoren Algolia und Ensemble für die Unter
 
 * Fortsetzung der Unterhaltung auf [Experience League](https://adobe.ly/47ss08A)
 * Entdecken Sie [bevorstehende Ereignisse](https://developerevents.adobe.com)
-

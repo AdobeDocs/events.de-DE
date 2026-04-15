@@ -2,6 +2,7 @@
 title: Magische Schaltflächen und wie sie erstellt werden
 description: Verbessern Sie Workflows und Benutzererlebnisse mit der Erweiterbarkeit der Benutzeroberfläche von Adobe, ermöglichen Sie benutzerdefinierte Integrationen über Adobe App Builder, vereinfachen Sie komplexe Aufgaben mit einer „magischen Schaltfläche“ und unterstützen Sie die nahtlose Integration mit Unternehmenssystemen, mit zukünftigen Erweiterungen zu mehr Adobe-Services.
 solution: Experience Manager
+feature: Developer Tools, Authoring
 topic: Development
 role: Developer
 level: Beginner, Intermediate
@@ -10,9 +11,9 @@ duration: 1226
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16548
 exl-id: 9dafd048-8b3a-444f-bf0e-d49f76ae7054
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ Erfahren Sie, wie Sie die Benutzeroberfläche von Adobe Experience Manager zur A
 
 Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](https://adobe.ly/3Ywf6kg) fort.
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Benutzeroberflächen-Erweiterbarkeit** Sarah, Produktmanagerin bei Adobe, erörtert das Konzept der Benutzeroberflächen-Erweiterbarkeit, mit der Entwickelnde benutzerdefinierte Integrationen und Erweiterungen erstellen können, um Workflows und Benutzererlebnisse zu verbessern.
 * **Magic Button** Die Idee eines „magischen Buttons“ wird eingeführt, der komplexe Workflows in einer einzigen Aktion vereinfacht, die Effizienz erhöht und Frustration reduziert.

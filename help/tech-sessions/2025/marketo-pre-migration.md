@@ -2,6 +2,8 @@
 title: Marketo-Migration zur Adobe Admin Console - (vor der Migration)
 description: Adobe migriert Marketo Engage zur besseren Benutzerverwaltung auf die Admin Console. Erfahren Sie mehr über automatische und Self-Migration-Typen, Voraussetzungen, Änderungen nach der Migration, Best Practices, häufige Fehler und Support. Rufen Sie die Sitzungsaufzeichnung auf der Experience League-Website von Adobe auf.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations, Security, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,10 +11,10 @@ duration: 2280
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17483
 exl-id: 9c3da83f-9e02-4a2e-9784-10213facf056
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 0%
+source-wordcount: '426'
+ht-degree: 1%
 
 ---
 
@@ -32,7 +34,7 @@ Unabhängig davon, ob Sie gerade erst mit der Migration beginnen oder sich auf d
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449712/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 ### Zweck der Migration und Übersicht
 

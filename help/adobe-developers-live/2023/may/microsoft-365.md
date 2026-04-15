@@ -1,6 +1,7 @@
 ---
 title: Entwickeln eines guten Editorerlebnisses mit Microsoft 365/Google Workspace
-description: Entwickeln eines guten Editor-Erlebnisses mit Microsoft 365/Google WorkspaceEin wichtiger Aspekt jedes Projekts ist die Struktur der Inhaltsdokumente. Ein Autor sollte in der Lage sein, ohne Probleme intuitiv durch die Dokumente zu navigieren. Wir bieten Richtlinien und Tipps und Tricks zur Strukturierung Ihrer Inhaltsdokumente. Bei der Strukturierung eines Dokuments für den Experience Manager ist es für Autorinnen und Autoren von entscheidender Bedeutung, Inhalte beizutragen, um es einfach und intuitiv zu gestalten. In dieser Sitzung wird erläutert, wie Inhaltsdokumente im Rahmen eines ersten Inhalts strukturiert werden, sodass Autoren die Inhaltsstruktur steuern können. Wir erläutern Best Practices sowie die Verwendung von Abschnitten und Blöcken und zeigen häufige Fehler bei Projekten auf, die vermieden werden sollten.
+description: Entwickeln eines guten Editor-Erlebnisses mit Microsoft 365/Google WorkspaceEin wichtiger Aspekt jedes Projekts ist die Struktur der Inhaltsdokumente. Ein Autor sollte in der Lage sein, ohne Probleme intuitiv durch die Dokumente zu navigieren. Wir bieten Richtlinien und Tipps und Tricks zur Strukturierung Ihrer Inhaltsdokumente. Bei der Strukturierung eines Dokuments für Experience Manager ist es für Autorinnen und Autoren von entscheidender Bedeutung, Inhalte beizutragen, um es einfach und intuitiv zu gestalten. In dieser Sitzung wird erläutert, wie Inhaltsdokumente im Rahmen eines ersten Inhalts strukturiert werden, sodass Autoren die Inhaltsstruktur steuern können. Wir erläutern Best Practices sowie die Verwendung von Abschnitten und Blöcken und zeigen häufige Fehler bei Projekten auf, die vermieden werden sollten.
+feature: Authoring
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13358
 thumbnail: 3419945.jpeg
 exl-id: fc3f0acb-cf81-4994-9ad4-ee2b00e10be8
 duration: 2681
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 Entwickeln eines guten Editorerlebnisses mit Microsoft 365/Google Workspace
 
-Ein entscheidender Aspekt jedes Projekts ist die Struktur der Inhaltsdokumente. Ein Autor sollte in der Lage sein, ohne Probleme intuitiv durch die Dokumente zu navigieren. Wir bieten Richtlinien und Tipps und Tricks zur Strukturierung Ihrer Inhaltsdokumente. Bei der Strukturierung eines Dokuments für den Experience Manager ist es für Autorinnen und Autoren von entscheidender Bedeutung, Inhalte beizutragen, um es einfach und intuitiv zu gestalten. In dieser Sitzung wird erläutert, wie Inhaltsdokumente im Rahmen eines ersten Inhalts strukturiert werden, sodass Autoren die Inhaltsstruktur steuern können. Wir erläutern Best Practices sowie die Verwendung von Abschnitten und Blöcken und zeigen häufige Fehler bei Projekten auf, die vermieden werden sollten. → Setzen Sie das Gespräch fort unter: https://adobe.ly/40YBTnO
+Ein entscheidender Aspekt jedes Projekts ist die Struktur der Inhaltsdokumente. Ein Autor sollte in der Lage sein, ohne Probleme intuitiv durch die Dokumente zu navigieren. Wir bieten Richtlinien und Tipps und Tricks zur Strukturierung Ihrer Inhaltsdokumente. Bei der Strukturierung eines Dokuments für Experience Manager ist es für Autorinnen und Autoren von entscheidender Bedeutung, Inhalte beizutragen, um es einfach und intuitiv zu gestalten. In dieser Sitzung wird erläutert, wie Inhaltsdokumente im Rahmen eines ersten Inhalts strukturiert werden, sodass Autoren die Inhaltsstruktur steuern können. Wir erläutern Best Practices sowie die Verwendung von Abschnitten und Blöcken und zeigen häufige Fehler bei Projekten auf, die vermieden werden sollten. → Setzen Sie das Gespräch fort unter: https://adobe.ly/40YBTnO
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419945/?learn=on)

@@ -2,6 +2,7 @@
 title: KI-Assistent in AEM
 description: Erfahren Sie, wie der KI-Assistent von AEM die Bearbeitung und Verwaltung optimiert. Erkunden Sie den Umfang, die Einrichtung und sehen Sie ihn in einer Live-Demo in Aktion.
 solution: Experience Manager
+feature: Authoring
 topic: Artificial Intelligence
 role: Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2491
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19626
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 5334e833-d83a-4c78-a1e1-901a9cec1e14
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---
-
 
 # KI-Assistent in AEM
 
@@ -49,4 +50,3 @@ Wenn Sie diese Funktionen verstehen, können Teams den AEM AI Assistant nutzen, 
 * **Keine Inhaltserstellung** Derzeit generiert der Assistent keine Inhalte und erstellt keine Inhalte - der Fokus liegt auf Wissen und Support.
 
 Künftige Verbesserungen: Weitere Funktionen und umfassendere Funktionen werden geprüft und es werden entsprechend der Weiterentwicklung des Produkts Aktualisierungen erwartet.
-

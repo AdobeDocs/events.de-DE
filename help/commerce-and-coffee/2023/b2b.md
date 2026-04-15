@@ -2,6 +2,7 @@
 title: B2B-Erfolg unterstützen
 description: Erkunden Sie mit Corey Gelato die erweiterten B2B-Funktionen von Adobe Commerce, einschließlich Shared Catalog, Quotes, Anforderungslisten und Genehmigungs-Workflows, und lernen Sie Strategien kennen, um das Wachstum zu steigern und in der sich entwickelnden B2B-Commerce-Landschaft wettbewerbsfähig zu bleiben.
 solution: Commerce
+feature: B2B
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,7 +12,7 @@ jira: KT-13688
 thumbnail: 3421687.jpeg
 exl-id: 38145136-4868-42ea-b279-7e74704e2b53
 duration: 3506
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%

@@ -2,19 +2,21 @@
 title: Adobe Commerce und App Builder Essentials - Von den Grundlagen zur Wirkung
 description: Erfahren Sie mehr über die Rolle von App Builder in Adobe Commerce für Flexibilität, Agilität und Kosteneinsparungen. Erfahren Sie mehr über Best Practices, Integrationen und Cloud-native Vorteile.
 solution: Commerce
+feature: Integration
+topic: Integrations, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3555
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19684
-source-git-commit: cea4b75d089d99068b2657ca9656687ba66ad830
+exl-id: 2d4de79e-426b-4b3a-b90c-99e095b1226e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # Lernen Sie aus Ihrem Peers-Webinar: Adobe Commerce und App Builder Essentials - Von den Grundlagen zur Wirkung
 

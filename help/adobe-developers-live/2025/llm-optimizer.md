@@ -1,19 +1,21 @@
 ---
 title: Aufladen von KI-Erlebnissen vor Ort
 description: Erfahren Sie, wie LLM Optimizer die KI-Sichtbarkeit verbessert und Ihre Website ohne Code-Änderungen zukunftssicher macht.
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Performance, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1160
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-19982
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: c4b1bc0b-7b0d-4433-9efd-3adc026ff557
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
-
 
 # Neue Onsite-Erlebnisse für KI-Agenten mit LLM Optimizer
 

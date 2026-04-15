@@ -8,6 +8,7 @@ speaker-name-2: Danielle Johnston
 speaker-title-2: Customer Success Manager
 speaker-company-2: Adobe
 feature: Workfront Integrations and Apps
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -15,9 +16,9 @@ duration: 1910
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18617
 exl-id: 75153967-b82d-4221-b44b-73aabb74402f
-source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -26,7 +27,7 @@ ht-degree: 0%
 
 Hier ist Ihr On-Demand Workfront CSM, und ich bin mit einem neuen Video wieder da!  Dieses Mal haben wir eine Präsentation von einem unserer fantastischen Kunden, Jaime Davidson von Cognizant!  Während unserer November Connect-Veranstaltung bot sie ihr Zeit und ihr Fachwissen an und teilte ihre Erfahrungen und Ressourcen zur Implementierung von Umfragen zur Workfront-Einführung mit. *Bonus!* Unsere ganz eigene Workfront CSM, gibt Danielle Johnston auch ihre Erkenntnisse und Empfehlungen weiter!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469959/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
 
 ## Ressourcen
 
@@ -36,7 +37,7 @@ Während der Präsentation besprachen Jaime und Danielle einige zusätzliche Res
 * [Workfront Admin-Chat - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Umfrage zur Benutzerakzeptanz bei Workfront](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-Möchten Sie mehr Informationen über die Akzeptanz und das allgemeine Onboarding? Schau dir unseren Blog an! - [Neue Workfront-Kunden! Willkommen beim Adobe Workfront Customer Success Onboarding-Blog!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=de)
+Möchten Sie mehr Informationen über die Akzeptanz und das allgemeine Onboarding? Schau dir unseren Blog an! - [Neue Workfront-Kunden! Willkommen beim Adobe Workfront Customer Success Onboarding-Blog!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
 
 ## Über den Sprecher
 

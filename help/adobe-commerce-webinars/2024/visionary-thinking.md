@@ -2,6 +2,7 @@
 title: Die Creative Edge - Wie visionäres Denken Commerce verändert
 description: In diesem Webinar wird die Integration von Kreativität und Commerce untersucht und gezeigt, wie die Tools und Technologien von Adobe bei der Verwaltung von Assets, der Skalierung der Inhaltserstellung und der Optimierung der supply chain-Inhalte helfen können. Es wird erörtert, wie wichtig es ist, Kreativität und Commerce zusammenzuführen, und es werden Themen wie personalisierte Erlebnisse, die Verwaltung von Assets und die Verwendung von Tools wie Adobe Workfront, Adobe Experience Manager und Adobe Stock zur Optimierung des Inhaltserstellungsprozesses behandelt.
 solution: Commerce
+feature: Integration
 topic: Commerce
 role: Leader, User
 level: Beginner, Intermediate
@@ -10,9 +11,9 @@ duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
 exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---

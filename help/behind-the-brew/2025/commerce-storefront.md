@@ -1,6 +1,8 @@
 ---
 title: Optimieren der Commerce-Storefront
 description: Optimieren Sie Ihre Commerce-Instanz mit den Expertentipps von Adobe zu Wartung, Bot-Aktivität und Daten-Management
+feature: Integration, Edge Delivery Services
+topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3383
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17175
 exl-id: 0b63be70-ada7-4c7f-a38a-b823a59405ea
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -26,7 +28,7 @@ Sehen Sie sich an, wie Andrii Abumuslimov, technischer Kundenberater von Adobe, 
 * **Jeff McGuire** Digital Engagement Strategist bei Adobe
 * **Andre** technischer Kundenberater bei Adobe, spezialisiert auf Adobe Commerce (ehemals Magento)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 Im Mittelpunkt des Webinars steht die Optimierung von E-Commerce-Storefronts.
 Es ist interaktiv, mit einer Frage und Antwort am Ende.
@@ -35,7 +37,7 @@ Die Sitzung wird aufgezeichnet und steht auf Anfrage zur Verfügung.
 * **Behandelte Themen**
 
    * Überwachung und Optimierung der Speichernutzung.
-   * Web-Crawler, Traffic-Erkennung und -Abmilderung.
+   * Web-Crawler, Traffic-Erkennung und -Minderung.
 
 * **Speicheroptimierung**
 
@@ -45,7 +47,7 @@ Die Sitzung wird aufgezeichnet und steht auf Anfrage zur Verfügung.
 
 * **Web-Crawler**
 
-   * Entdecken und mildern Sie missbräuchliche Webcrawler mithilfe von Tools wie New Relic und benutzerdefinierten SQL-Abfragen.
+   * Entdecken und minimieren Sie missbräuchliche Web-Crawler mithilfe von Tools wie New Relic und benutzerdefinierten SQL-Abfragen.
    * Implementieren Sie Strategien zur Ratenbegrenzung und Blockierung für nicht legitime Bots.
    * Erwägen Sie erweiterte Services wie Human Bot Defender für eine ausgefeilte Bot-Erkennung.
 

@@ -1,15 +1,17 @@
 ---
 title: Fragen an den Experten - Geschwindigkeit messen
 description: Erfahren Sie, wie Sie die Geschwindigkeit mithilfe von  [!DNL Workfront]  messen und verfolgen können. Dieser Workshop wurde am 14. August 2019 aufgenommen.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
 duration: 4630
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '3962'
+source-wordcount: '3986'
 ht-degree: 0%
 
 ---
@@ -27,7 +29,7 @@ Sparen Sie Zeit durch Kopieren und Einfügen der unten stehenden Berechnungen.
 >[!NOTE]
 >
 >Die Syntax für benutzerdefinierte Feldberechnungen hat sich seit der Präsentation im Jahr 2019 geändert. Die in der Präsentation angegebenen Konzepte und anderen Anweisungen sind jedoch weiterhin korrekt.
->&#x200B;>**Die folgenden Berechnungen wurden aktualisiert, um die neuesten Syntaxregeln widerzuspiegeln.**
+>**Die folgenden Berechnungen wurden aktualisiert, um die neuesten Syntaxregeln widerzuspiegeln.**
 
 **Erstes Commit-Datum**
 

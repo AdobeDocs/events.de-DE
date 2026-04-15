@@ -2,6 +2,7 @@
 title: Verbessern der Datenkategorisierung in Marketo Engage mithilfe optimierter KI-Modelle
 description: Entdecken Sie, wie Sie in Marketo Engage mit optimierten KI-Modellen Spam erkennen, Auftragstitel mit Personas abgleichen und offene Textfelder mit Webhooks kategorisieren können.
 solution: Marketo Engage
+feature: Reporting
 topic: Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18864
 exl-id: e952d6e7-fb3d-4e5f-9912-825fbd303cc2
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -39,9 +40,9 @@ Sie erfahren mehr über,
 * **Anpassung** Optimierte Modelle ermöglichen es Ihnen, Regeln und Erklärungen für jede Kategorisierung zu definieren, sodass Sie die Ergebnisse vollständig kontrollieren können.
 
 
-## Zusätzliche Ressourcen
+## Weitere Ressourcen
 
 * [Optimierte KI-Modelle für Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
 * [Webhook-Schnellstartanleitung](https://nation.marketo.com/t5/champion-program-blogs/webhook-quick-start-guide/ba-p/345717#M2640)
 * [Integrieren von ChatGPT mit Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/integrating-chatgpt-with-marketo/ba-p/346886)
-* [Handbuch zu Self-Service-Flussschritten](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)
+* [Handbuch für Self-Service-Flussschritte](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)

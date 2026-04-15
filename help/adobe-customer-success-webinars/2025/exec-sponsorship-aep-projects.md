@@ -2,19 +2,21 @@
 title: Gewinner des Executive Sponsoring für Adobe Experience Platform-Projekte
 description: Erfahren Sie, wie Sie aus Leidenschaftsprojekten wirkungsvolle Initiativen machen können, indem Sie Visionen mit Geschäftszielen abstimmen, die Zustimmung von Führungskräften gewinnen und AEP/RT-CDP verwenden, um den Wert zu steigern.
 solution: Experience Platform
+feature: Personalization
+topic: Personalization, Integrations, Administration
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3308
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18018
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 2ac66f9c-5a75-437f-8dc5-623b67efbfea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # Gewinner des Executive Sponsoring für Projekte in Adobe Experience Platform (AEP)
 
@@ -28,7 +30,7 @@ Erfahren Sie, wie Sie das Potenzial von Leidenschaftsprojekten erschließen und 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458041/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Kernfunktionen von AEP und Real-Time CDP** Diese Plattformen bieten verwertbare Echtzeit-Profile, Datenintegration und -vereinheitlichung, Kundensegmentierung, Personalisierung, prädiktive Analysen und eine starke Data Governance. Diese Funktionen können Unternehmen dabei helfen, Kosten zu senken, die Effizienz zu steigern und das Umsatzwachstum zu steigern.
 

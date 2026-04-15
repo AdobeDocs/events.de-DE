@@ -1,25 +1,27 @@
 ---
 title: Customer Journey Analytics-Eröffnungs-Keynote
-description: Entdecken Sie wichtige Fähigkeiten wie kontextbezogene Flüssigkeit, Empathie und Storytelling, um mit Adobe Customer Journey Analytics Ihren Einfluss zu steigern.
+description: Entdecken Sie wichtige Fähigkeiten wie kontextbezogene Flüssigkeit, Empathie und storytelling, um Ihren Einfluss mit Adobe Customer Journey Analytics zu steigern.
+feature: Basics, Use Cases
+topic: Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 806
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18809
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 74c03cda-645e-4f93-a44f-b7f7fcaaa813
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # Customer Journey Analytics-Eröffnungs-Keynote
 
 Keynote zur Eröffnung
 
->[!VIDEO](https://video.tv.adobe.com/v/3471133/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
 
 ## Analyst Excellence erschließen: Grundlegende Fähigkeiten
 

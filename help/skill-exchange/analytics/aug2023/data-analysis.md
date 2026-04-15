@@ -1,6 +1,8 @@
 ---
 title: Heben Sie Ihre Datenanalyse mit diesen vier ungenutzten Funktionen auf die nächste Stufe
 description: Adobe Analytics verfügt über eine scheinbar unendliche Anzahl von Funktionen. Wir haben einige unserer am wenigsten genutzten, aber leistungsfähigsten Produkte aus einer Reihe von Kunden und Branchen ausgewählt. In dieser Sitzung erfahren Sie, wie Sie diese auf Ihren Analyse-Workflow anwenden und den Wert Ihrer Einblicke schnell für Ihr Unternehmen steigern können.
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14656
 thumbnail: 3425990.jpeg
 exl-id: 214cdc71-5815-453a-8fd4-8d1813ede24e
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

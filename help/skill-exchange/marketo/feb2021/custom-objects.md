@@ -2,15 +2,17 @@
 title: Ein erstklassiges Tauchen in benutzerdefinierte Objekte und Geschwindigkeit
 description: '1-zu-viele relationale Daten plus eine bewährte Vorlagen-Engine - das perfekte Tag-Team für erweiterte E-Mail-Inhalte. Lernen Sie die Taktiken für das Design von CO-Schemata kennen: Sortieren, Filtern und Aggregieren von CO-Einträgen, Erkennen von Eintragsaktualisierungen und Integrieren von Pseudo-COs mithilfe von JSON.'
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations
 role: Developer
 level: Beginner
 kt: 9708
 thumbnail: 340313.jpeg
 exl-id: 573d9faa-8259-451a-b729-6714f4172780
 duration: 3981
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---

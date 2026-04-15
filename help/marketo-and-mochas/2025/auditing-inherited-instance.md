@@ -1,19 +1,21 @@
 ---
 title: Marketo und Mokkas - Prüfen einer geerbten oder aktuellen Instanz
 description: Haben Sie Ihre Marketo-Instanz geerbt oder möchten Sie sie überprüfen? Seien Sie dabei, wenn Cynthia Chang und Carly Gaver, Adobe Advisors, 5 wichtige Schritte für das Auditing und die Optimierung Ihres Marketo Engages lernen.
+feature: Programs, Reporting
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3956
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18155
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 66d45044-86a0-4cd8-bbdd-7d04cebf6c8f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 31%
+ht-degree: 32%
 
 ---
-
 
 # Marketo und Mokkas: Prüfen einer geerbten oder aktuellen Instanz
 
@@ -21,7 +23,7 @@ Haben Sie kürzlich eine Marketo-Instanz geerbt? Oder möchten Sie vielleicht Ih
 
 Im Folgenden finden Sie 5 wichtige Schritte, die Cynthia und Carly beim Vererben einer Marketo Engage-Instanz ausführen müssen:
 
-- Aktivierung
+- Befähigung
 - Dokumentations-Checkliste
 - Interne Ausrichtung
 - Instanz-Audit

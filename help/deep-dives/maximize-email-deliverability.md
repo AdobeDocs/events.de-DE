@@ -2,6 +2,7 @@
 title: Maximieren der Zustellbarkeit von E-Mails mit Marketo - Best Practices zum Erreichen Ihrer Audience
 description: Um die Interaktion zu fördern und Marketing-Ziele zu erreichen, ist es von entscheidender Bedeutung, dass Ihre E-Mails die beabsichtigte Audience erreichen.
 feature: Deliverability
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,14 +10,14 @@ duration: 3641
 last-substantial-update: 2024-12-11T00:00:00Z
 jira: KT-16364
 exl-id: b8b6d108-bdf0-49e9-8bd5-a2a35b1ebc22
-source-git-commit: 0b873ca55dc24d41dc394cf36aaf638a5517170d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-# E-Mail-Zustellbarkeit mit Marketo Engage maximieren: Best Practices zum Erreichen Ihrer Audience
+# Maximieren der Zustellbarkeit von E-Mails mit Marketo Engage: Best Practices zum Erreichen Ihrer Audience
 
 Um die Interaktion zu fördern und Marketing-Ziele zu erreichen, ist es von entscheidender Bedeutung, dass Ihre E-Mails die beabsichtigte Audience erreichen. Dieses Webinar vertieft die Grundlagen der E-Mail-Zustellbarkeit. Wir behandeln wichtige Strategien, technische Überlegungen und häufige Fallstricke, die zu vermeiden sind.
 

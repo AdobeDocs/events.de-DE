@@ -1,6 +1,8 @@
 ---
 title: Aug 2023 - Auf Adobe Analytics setzen, um die Navigation zu verbessern
 description: Die Navigation ist für Ihre Besucher von entscheidender Bedeutung, um sich auf Ihrer Site zurechtzufinden und in Ihre Konversionstrichter zu gelangen. Erfahren Sie, wie Sie die Effektivität Ihrer Navigation verfolgen und diese mit Adobe Analytics verbessern können.
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14658
 thumbnail: 3425992.jpeg
 exl-id: ed3a25c1-bd52-4c44-a807-5ccecc8f40aa
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -20,4 +22,4 @@ ht-degree: 0%
 
 Die Navigation ist für Ihre Besucher von entscheidender Bedeutung, um sich auf Ihrer Site zurechtzufinden und in Ihre Konversionstrichter zu gelangen. Erfahren Sie, wie Sie die Effektivität Ihrer Navigation verfolgen und diese mit Adobe Analytics verbessern können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457376/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)

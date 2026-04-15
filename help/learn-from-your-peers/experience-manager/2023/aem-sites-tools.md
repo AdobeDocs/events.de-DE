@@ -1,8 +1,9 @@
 ---
 title: Detaillierte Einblicke in Tools für AEM Sites
-description: Best Practices für die effektive Nutzung von Tools und die Transformation Ihres AEM Sites-Erlebnisses. Arten von Tags Erfahren Sie, wie verschiedene Tag-Typen die Organisation und Auffindbarkeit von Inhalten verbessern können.  Einrichten und Anwenden von Tags Gewinnen Sie praktische Einblicke in eine effiziente Tag-Implementierung, um Zeit zu sparen und die Produktivität zu steigern.  Ordner-Metadatenschemata Entdecken Sie die Leistungsfähigkeit des strukturierten Content-Managements durch Ordner-Metadatenschemata. Metadatenschemata erhöhen die Content-Relevanz und das Anwendererlebnis durch die Beherrschung des Metadatenschema-Designs. Berichte einrichten Nutzen Sie datengesteuerte Einblicke für strategische Entscheidungen, indem Sie umfassende Berichte einrichten. Die Präsentationsfolien finden Sie hier.
+description: Best Practices für die effektive Nutzung von Tools und die Transformation Ihres AEM Sites-Erlebnisses. Arten von Tags Erfahren Sie, wie verschiedene Tag-Typen die Organisation und Auffindbarkeit von Inhalten verbessern können.  Einrichten und Anwenden von Tags Gewinnen Sie praktische Einblicke in eine effiziente Tag-Implementierung, um Zeit zu sparen und die Produktivität zu steigern.  Ordner-Metadatenschemata Entdecken Sie die Leistungsfähigkeit des strukturierten Content-Managements durch Ordner-Metadatenschemata.Metadatenschemata Erhöhen Sie die Inhaltsrelevanz und das Benutzererlebnis, indem Sie das Design von Metadatenschemata beherrschen. Erstellen von Berichten Nutzen Sie datengestützte Einblicke für die strategische Entscheidungsfindung, indem Sie umfassende Berichte einrichten.Die Präsentationsfolien können Sie hier aufrufen.
 feature-set: Experience Manager
 feature: Tagging
+topic: Development, Headless
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate
 solution: Experience Manager
@@ -12,9 +13,9 @@ jira: KT-14118
 thumbnail: 3424735.jpeg
 exl-id: 337a19c3-2959-492a-b0c6-87d5a7731797
 duration: 2640
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---

@@ -3,19 +3,20 @@ title: Entmystifizierung allgemeiner Metriken
 description: Erfahren Sie, wie Sie Adobe Analytics-Metriken - Besuche, Besucher, Seitenansichten, Bounces, Konversionsraten und mehr - interpretieren können, um die Genauigkeit und Einblicke des Reportings zu verbessern.
 solution: Analytics
 feature: Metrics, Analytics Basics
+topic: Security
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18817
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: f2f4277d-7778-4100-8768-0fac3edeec55
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # Entmystifizierung allgemeiner Metriken
 
@@ -41,4 +42,3 @@ Erfahren Sie, wie Sie die gängigsten Web-Analyse-Metriken verstehen und sie fü
 * **Bot-Traffic-Bewusstsein** Erfahren Sie, wie Sie mit Bot-Metriken nicht-menschlichen Traffic identifizieren und herausfiltern können, um ein saubereres Reporting zu ermöglichen.
 
 Wenn Sie diese Konzepte beherrschen, können Sie die besten Metriken für Ihre Anforderungen auswählen und den Wert Ihrer Analytics-Berichte maximieren.
-

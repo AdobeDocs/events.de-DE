@@ -1,14 +1,16 @@
 ---
 title: Fragen an den Experten - Mix und Kapazität verstehen
 description: Erfahren Sie, wie Sie den Mix und die Kapazität in Ihrem Unternehmen messen. Dieses Webinar wurde am 2. Oktober 2019 aufgezeichnet.
+feature: Resource Management, Reports and Dashboards, Work Management
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9913
 exl-id: 49cce53f-457b-4973-a0d9-1b5ce2272884
 duration: 4239
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '2229'
+source-wordcount: '2238'
 ht-degree: 0%
 
 ---

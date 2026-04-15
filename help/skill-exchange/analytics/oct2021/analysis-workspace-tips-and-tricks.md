@@ -4,15 +4,16 @@ description: Tipps zur Verbesserung Ihres Analyse-Workflows und Highlights der j
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10480
 thumbnail: 343347.jpeg
 exl-id: 0c20bed7-d339-4e76-8003-b0175a243848
 duration: 2510
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---

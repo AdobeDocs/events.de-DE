@@ -3,25 +3,26 @@ title: Data in Motion - Skalierbare Analytics-Workflows für Insight-gesteuerte 
 description: Erfahren Sie, wie Sie Adobe Analytics-Workflows optimieren, die Governance stärken und Teams mit Erkenntnissen unterstützen, die Aktivierung, Zusammenarbeit und Wachstum fördern.
 solution: Analytics
 feature: Data Governance, Analytics Basics
+topic: Administration, Content Supply Chain, Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18822
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: aeffcf4e-0f0d-4903-ad14-bb7ab499ab64
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
-
 # Data in Motion - Skalierbare Analytics-Workflows für Insight-gesteuerte Teams
 
-Seien Sie dabei, wenn Adobe-Expertin Ioana Maftei, Senior Analytics Manager bei IBM, erzählt, wie man skalierbare, gesteuerte Analyse-Workflows erstellt, die die Inhaltslieferkette messbar machen. Erfahren Sie, wie Sie den richtigen Mitarbeitern zum richtigen Zeitpunkt die richtigen Erkenntnisse liefern, eine teamübergreifende Zusammenarbeit ermöglichen und Analysis Workspace-Projekte an verschiedene Rollen und Anforderungen anpassen können.
+Seien Sie dabei, wenn Adobe-Expertin Ioana Maftei, Senior Analytics Manager bei IBM, erzählt, wie man skalierbare, gesteuerte Analyse-Workflows erstellt, die den Inhalt von supply chain messbar machen. Erfahren Sie, wie Sie den richtigen Mitarbeitern zum richtigen Zeitpunkt die richtigen Erkenntnisse liefern, eine teamübergreifende Zusammenarbeit ermöglichen und Analysis Workspace-Projekte an verschiedene Rollen und Anforderungen anpassen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471238/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
 
 ## Zuordnen von Rollen zu Analytics-Stadien
 

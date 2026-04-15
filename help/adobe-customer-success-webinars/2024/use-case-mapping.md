@@ -2,6 +2,8 @@
 title: Real-Time CDP - Zuordnung von Anwendungsfällen zu Lösungsfunktionen
 description: In diesem Webinar werden wichtige Möglichkeiten untersucht und priorisiert, diese Anwendungsfälle bestimmten Real-Time CDP-Funktionen zugeordnet und die Abstimmung mit Geschäftsergebnissen und Nutzen sichergestellt.
 solution: Real-Time Customer Data Platform
+feature: Audiences, Data Governance
+topic: Personalization, Security, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,14 +11,14 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# Adobe Real-Time CDP - Zuordnung von Anwendungsfällen zu Lösungsfunktionen
+# Adobe Real-time CDP - Zuordnung von Anwendungsfällen zu Lösungsfunktionen
 
 In diesem Webinar werden wichtige Möglichkeiten untersucht und priorisiert, diese Anwendungsfälle bestimmten Real-Time CDP-Funktionen zugeordnet und die Abstimmung mit Geschäftsergebnissen und Nutzen sichergestellt.
 

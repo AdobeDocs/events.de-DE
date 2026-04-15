@@ -1,13 +1,15 @@
 ---
 title: Nutzung von „author-publish“ für AEM Screens
 description: Hier erhalten Sie ein vollständiges Produktions-Setup für AEM Screens und lernen alle erforderlichen Schritte zur Veröffentlichung von Inhalten auf Screens/Digital Signage-Player kennen.
+feature: Authoring
+topic: Development
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 27bf6d01-d720-41a1-87b2-7d1d6d29a10c
 duration: 3012
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---

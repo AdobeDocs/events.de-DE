@@ -2,13 +2,15 @@
 title: Die Macht der Wiederverwendbarkeit
 description: Wir besprechen, wie Experience Fragments verwendet werden können, um die Wiederverwendung und Effizienz in Ihrem gesamten Ökosystem zu steigern.  Dies wirkt sich auf den ROI und die Fahrgeschwindigkeit aus.  Die Teilnehmer erhalten ein Verständnis dafür, wie Experience Fragments positioniert und verwendet werden. Teilnehmer. Erfahren Sie, wie Sie mit dieser Funktion das digitale Erlebnis für Ihre Kunden schneller bereitstellen können.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 role: User
 level: Beginner, Intermediate, Experienced
 kt: 10950
 thumbnail: 346387.jpeg
 exl-id: c4c1608b-5119-4060-b10d-9095a1d9adc6
 duration: 2437
-source-git-commit: ee04b99d756bdc6f7b460c91960fd49e501f57eb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

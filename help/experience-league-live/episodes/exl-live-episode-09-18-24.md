@@ -4,14 +4,15 @@ description: In dieser Sitzung erfahren Sie, wie Sie mit der Edge Bridge-Erweite
 kt: KT-16047
 solution: Analytics, Customer Journey Analytics
 feature: Data Configuration and Collection
+topic: Migration
 event-cta-url-live: https://www.youtube.com/live/QKz1slMT36Y
 event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
 exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
-source-git-commit: dd6f30d6c664992770f473d0ab80de561defcb35
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ Erfahren Sie, wie Sie die Edge Bridge-Erweiterung verwenden, um die Migrationsl�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
-**Um die Diskussion fortzusetzen, besuchen Sie bitte die [Diskussion über die Experience League-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990?profile.language=de#M550){target="_blank"}.**
+**Um die Diskussion fortzusetzen, besuchen Sie bitte die [Diskussion über die Experience League-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
 
 **Details anzeigen**:

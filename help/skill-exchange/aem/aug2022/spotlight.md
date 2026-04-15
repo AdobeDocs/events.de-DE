@@ -1,22 +1,24 @@
 ---
 title: Experience Makers im Blickpunkt
-description: Seien Sie dabei, wenn wir zwei erfahrene AEM-Anwender in den Blickpunkt rücken.  Jeder wird seinen besten AEM-Tipp oder -Trick teilen. Auf die Sitzung folgt die Möglichkeit, Fragen live zu stellen.  Das willst du nicht verpassen.
+description: Dabeisein, wenn wir zwei erfahrene AEM-Benutzende in den Blickpunkt rücken.  Jeder teilt seinen besten AEM-Tipp oder -Trick. Auf die Sitzung folgt die Möglichkeit, Fragen live zu stellen.  Das willst du nicht verpassen.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Development, Headless
 role: User
 level: Beginner, Intermediate, Experienced
 kt: 10947
 thumbnail: 346389.jpeg
 exl-id: 1cac2ce6-a033-4319-80fb-da931200bc5f
 duration: 2920
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
 # Experience Makers im Blickpunkt
 
-Seien Sie dabei, wenn wir zwei erfahrene AEM-Anwender in den Blickpunkt rücken.  Jeder wird seinen besten AEM-Tipp oder -Trick teilen. Auf die Sitzung folgt die Möglichkeit, Fragen live zu stellen.  Das willst du nicht verpassen.
+Dabeisein, wenn wir zwei erfahrene AEM-Benutzende in den Blickpunkt rücken.  Jeder teilt seinen besten AEM-Tipp oder -Trick. Auf die Sitzung folgt die Möglichkeit, Fragen live zu stellen.  Das willst du nicht verpassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346389/?quality=12&learn=on)

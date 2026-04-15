@@ -2,19 +2,20 @@
 title: Workfront Crowdsource Challenge - Projektvorlagen
 description: Erfahren Sie, wie Ologie Adobe Workfront-Projektvorlagen mit praktischen Tipps zur Vereinfachung der Einrichtung, Verbesserung des Reportings und Wahrung der Prozessflexibilität optimiert.
 feature: System Setup and Administration, Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3728
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18626
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 5377412d-db56-4fca-92c9-0c4c59fa2d79
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Crowdsource Challenge: Projektvorlagen
 
@@ -25,7 +26,7 @@ Dieser Workshop wurde am 8. April 2025 aufgezeichnet und beinhaltete Ross Barton
 Neben der On-Demand-Aufzeichnung haben wir auch das Dia-Deck und Tipps einbezogen, die im Chat geteilt wurden:  
 
 * [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Experience League Community-Beitrag](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=de)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
 
 ## Tipps
 
@@ -39,4 +40,4 @@ Neben der On-Demand-Aufzeichnung haben wir auch das Dia-Deck und Tipps einbezoge
 
 Eines der größten Themen, das wir im Chat sahen, war die Herausforderung, Projektvorlagen einfach zu halten, aber gleichzeitig den Aufwand zu verfolgen und sicherzustellen, dass Teams alle Schritte ausführen, die zum Abschließen des Projekts erforderlich sind.  
 
- Wir hoffen, Sie bei zukünftigen Customer Success-Workshops begrüßen zu dürfen!  Sehen Sie sich unbedingt die [Workfront Events](https://experienceleague.adobe.com/events/?lang=de&filters=Workfront) auf Experience League an, um die vollständige Liste zu erhalten und sich zu registrieren.
+ Wir hoffen, Sie bei zukünftigen Customer Success-Workshops begrüßen zu dürfen!  Sehen Sie sich unbedingt die [Workfront Events](https://experienceleague.adobe.com/events/?filters=Workfront) auf Experience League an, um die vollständige Liste zu erhalten und sich zu registrieren.

@@ -1,19 +1,21 @@
 ---
 title: KI - Commerce-Entwicklungsinnovationen
 description: Erfahren Sie mehr über KI-gesteuerte Tools für Adobe Commerce, die Verbesserung der App Builder-Workflows und die Modernisierung von Anpassungen.
+feature: Release Information, Developer Tools
+topic: Migration, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1303
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-19977
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: ed604d3b-e694-48b3-bc5b-393947a360b4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '195'
 ht-degree: 1%
 
 ---
-
 
 # KI-gestützte Entwicklung für Adobe App Builder-Erweiterungen in Commerce
 

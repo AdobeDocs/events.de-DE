@@ -1,6 +1,8 @@
 ---
 title: Die strategische Macht des Messens - Daten in die Tat umsetzen
 description: Effektive Messstrategien schaffen Vertrauen und Empowerment, indem sie die Beteiligten einbeziehen, die Vertrautheit mit den Daten sicherstellen und das Vertrauen in die Entscheidungsfindung stärken. Vertrauen wird durch Transparenz, Data Governance und die Ausrichtung der Stakeholder geschaffen, und Empowerment wird durch Schulungen, barrierefreie Tools und verwertbare Daten erreicht, die alle dazu beitragen, den Wert der Analyse durch geschäftliche Auswirkungen und betriebliche Effizienz zu demonstrieren.
+feature: Metrics, Data Governance
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
 exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ Lernen Sie die wesentlichen Elemente der Entwicklung einer ganzheitlichen Messst
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440935/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 **Messstrategien**
 

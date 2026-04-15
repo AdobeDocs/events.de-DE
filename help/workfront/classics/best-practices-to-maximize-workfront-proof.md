@@ -1,14 +1,16 @@
 ---
 title: Fragen Sie den Experten - Best Practices zur Maximierung von Workfront Proof
 description: Erfahren Sie, wie Sie Einstellungen konfigurieren, hervorragende Berichte aktivieren und häufige Fehler im Korrekturabzug vermeiden. Dieses Webinar wurde am 26. Februar 2020 aufgezeichnet.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
 exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
 duration: 5182
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '5572'
+source-wordcount: '5588'
 ht-degree: 0%
 
 ---
@@ -257,7 +259,7 @@ Sie können auf einen Druckzusammenfassungsbericht für Ihre Korrekturabzüge zu
 
 **Frage**
 
-Wenn anfragende Benutzer Zugriff auf das Reporting von ProofHQ haben, erhalten sie auch Zugriff auf den Abschnitt auf der linken Seite (d. h. Workflows, Kontakte, Kontoeinstellungen usw.)?
+Haben anfordernde Benutzer Zugriff auf das Reporting von ProofHQ, also Zugriff auf den Abschnitt auf der linken Seite (d. h. Workflows, Kontakte, Kontoeinstellungen usw.)?
 
 **Antwort**
 
@@ -313,7 +315,7 @@ Ja. Wenn Sie einen Korrekturabzug löschen, der sich im Papierkorbsbereich des z
 
 **Frage**
 
-Gibt es eine Möglichkeit, eine neue Entscheidung auszulösen, wenn ein anderer Benutzer sie ablehnt oder mit Änderungen genehmigt? d. h. Für die Korrekturabzugstiefe ist etwas klar, und der Projektmanager muss eine neue Entscheidung treffen… selbst wenn er sie bereits geprüft und genehmigt hat. (Wenn Sie versuchen, den Projektmanager nicht dazu zu bringen, nicht auf den Korrekturabzug zu warten, um seine Überprüfung durchzuführen)?
+Gibt es eine Möglichkeit, eine neue Entscheidung auszulösen, wenn ein anderer Benutzer sie ablehnt oder mit Änderungen genehmigt? d. h. die Proofing-Tiefe erkennt etwas, muss der Projektmanager eine neue Entscheidung treffen… selbst wenn er sie bereits angeschaut und genehmigt hat. (Wenn Sie versuchen, den Projektmanager nicht dazu zu bringen, nicht auf den Korrekturabzug zu warten, um seine Überprüfung durchzuführen)?
 
 **Antwort**
 

@@ -2,19 +2,21 @@
 title: Strategien zur Änderungsverwaltung für die Einführung von Adobe Journey Optimizer
 description: Entdecken Sie Strategien für Führung, Zusammenarbeit und Echtzeit-Interaktion, um den vollen Wert von Adobe Journey Optimizer zu erschließen.
 solution: Journey Optimizer
+feature: Journeys
+topic: Security, Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2589
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19689
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 43fcdd6f-5cc7-4cac-9f04-073d05233e06
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
-
 
 # Strategien zur Änderungsverwaltung für die Einführung von Adobe Journey Optimizer
 
@@ -55,4 +57,3 @@ Der Übergang von statischen, isolierten Vorgängen zu datengesteuerten Interakt
 * Erschließen Sie das volle Potenzial von AJO, indem Sie sofort auf Kundenanforderungen reagieren.
 
 Dank der Echtzeit-Reaktionsfähigkeit können Teams relevantere und wirkungsvollere Kundenerlebnisse bereitstellen.
-

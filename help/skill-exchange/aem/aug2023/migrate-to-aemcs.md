@@ -1,9 +1,10 @@
 ---
 title: Strategische und taktische Tipps zur Migration zu AEM Cloud Service
-description: Migrieren Sie zu AEM Cloud Service, um die neuesten und besten AEM-Angebote zu erhalten, migrieren Sie On-Premise- und Managed Services-Instanzen zu Cloud Service, um den Wert der Migrationsansätze intern zu vermitteln. So können Sie Risiken und Migrationskosten managen und bestehende Bemühungen effizient nutzen. Technische Taktiken können genutzt werden, um die Migration inkrementell durchzuführen, wenn die Aufgabe groß zu sein scheint
+description: Migrieren Sie zu AEM Cloud Service, um die neueste und beste Lösung zu erhalten, die AEM zu bieten hat, migrieren Sie On-Premise- und Managed Services-Instanzen zu Cloud Service, um den Wert der Migrationsansätze intern zu verkaufen. So können Sie Risiken und Migrationskosten managen und vorhandene technische Bemühungen effizient nutzen, um die Migration inkrementell durchzuführen, wenn die Aufgabe groß erscheint.
 solution: Experience Manager as a Cloud Service
 feature-set: Experience Manager
 feature: Migration
+topic: Migration
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -12,16 +13,16 @@ jira: KT-14149
 thumbnail: 3424018.jpeg
 exl-id: f34a0cea-c94e-4874-b743-bf8f85ac538a
 duration: 2515
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# Skill Exchange Event August 2023 - AEM Developer Track - Strategische und taktische Tipps zur Migration zu AEM Cloud Service
+# Skill Exchange Event August 2023 - AEM Developer Track - Strategische und taktische Tipps zur Migration auf AEM Cloud Service
 
-Wir alle wissen, dass wir nach AEM Cloud Service migrieren sollten, um die neuesten und besten AEM-Angebote zu erhalten, aber oft kann es sich viel einfacher gesagt als getan fühlen. Die Herausforderungen bei der Migration von On-Premise- und Managed Services-Instanzen auf den Cloud Service müssen wirklich gelöst werden, und wir müssen wissen, dass wir, wenn wir dort ankommen, tatsächlich einen Wert sehen werden. Die Teilnehmer erhalten:
+Wir alle wissen, dass wir zu AEM Cloud Service migrieren sollten, um die neuesten und besten Angebote von AEM zu erhalten, aber oft kann es sich viel einfacher anfühlen als getan. Die Herausforderungen bei der Migration von On-Premise- und Managed Services-Instanzen zu Cloud Service müssen wirklich gelöst werden, und wir müssen wissen, dass wir, wenn wir dort ankommen, tatsächlich einen Nutzen daraus ziehen werden. Die Teilnehmer erhalten:
 
 * Besseres Verständnis und Fähigkeit, den Wert der Migration intern zu verkaufen
 * Ansätze für das Management von Risiken und Kosten der Migration und die effiziente Nutzung vorhandener Maßnahmen

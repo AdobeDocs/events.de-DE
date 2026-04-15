@@ -2,6 +2,7 @@
 title: Posten eines ausfüllbaren, signierbaren Web-Formulars
 description: Erfahren Sie, wie Sie ein Web-Formular erstellen, mit dem jeder ausfüllen und signieren kann, ohne die Transaktion initiieren oder sogar die E-Mail-Adresse des Unterzeichners kennen zu müssen.
 feature: Sign, Form
+topic: Development
 role: User
 level: Beginner
 doc-type: Event
@@ -9,7 +10,7 @@ duration: 1570
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15296
 exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie ein Web-Formular erstellen, mit dem jeder ausfüllen und signieren kann, ohne die Transaktion initiieren oder sogar die E-Mail-Adresse des Unterzeichners kennen zu müssen. Außerdem erfahren Sie, wie Sie eine Dokumentvorlage vorbereiten, die für einzelne Signaturtransaktionen sowie für die Bereitstellung an eine eindeutige URL für eine umfassende Freigabe verwendet werden kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455458/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
 
 ## Wichtigste Punkte
 
@@ -33,4 +34,4 @@ Erfahren Sie, wie Sie ein Web-Formular erstellen, mit dem jeder ausfüllen und s
 * Hängen Sie das Dokument oder Formular von Ihrem Computer oder Cloud-Speicher an.
 * Formularfelder können manuell platziert oder mithilfe von Adobe Sensei automatisch erkannt werden.
 * Anpassen von Formularfeldern durch Umbenennen, Anpassen der Feldzuweisung, Festlegen des Feldtyps und Anfordern von Feldern.
-* Adobe bietet Ressourcen wie das Hilfezentrum, das Experience League, die Support-Community, Skill Builder-Webinare und den Ressourcen-Hub, um mehr über Dokumentprozesse zu erfahren.
+* Adobe bietet Ressourcen wie das Hilfe-Center, Experience League, die Support-Community, Skill Builder-Webinare und den Ressourcen-Hub, um mehr über Dokumentprozesse zu erfahren.

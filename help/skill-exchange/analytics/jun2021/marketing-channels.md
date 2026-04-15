@@ -1,16 +1,18 @@
 ---
 title: Marketing-Kanäle, bitte verantwortungsvoll nutzen
-description: Machen Sie sich mit den Auswirkungen vertraut, die die einzelnen Touchpoints Ihrer Marke zusammen mit dem Journey Ihrer Kunden mit Marketing-Kanälen und Attributionsmodellen haben. In dieser Sitzung… (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
+description: Machen Sie sich mit der Wirkung vertraut, die die einzelnen Touchpoints Ihrer Marke auf das Journey Ihrer Kunden mit Marketing-Kanälen und Attributionsmodellen haben.In dieser Sitzung werden Sie … (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10322
 thumbnail: 342532.jpeg
 exl-id: 858fbd40-c520-4974-a6f1-2d573b0a1bf6
 duration: 1952
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---

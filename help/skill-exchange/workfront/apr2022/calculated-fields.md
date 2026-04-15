@@ -2,13 +2,15 @@
 title: Tipps und Tricks - Berechnete Felder, die jeder kennen sollte
 description: Haben Sie schon einmal mehrere Seiten eines Projekt-Update-Streams durchgescrollt, nur um das Datum zu finden, an dem das Projekt in den aktuellen Status übergegangen ist? Dies ist ein großartiges … (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)
 solution: Workfront
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10316
 thumbnail: 342526.jpeg
 exl-id: 8e7d31e2-78f5-4f02-a85d-f438880a5664
 duration: 1955
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%

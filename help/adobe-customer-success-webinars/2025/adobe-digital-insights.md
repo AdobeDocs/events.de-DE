@@ -2,6 +2,8 @@
 title: Adobe Digital Insights - Ergebnisse der Feiertage 2024 und Trends von Anfang 2025
 description: Nehmen Sie am Webinar von Adobe teil, um Einblicke in die Trends beim Weihnachtseinkauf 2024 und die Marktprognosen für Anfang 2025 zu erhalten, wachstumsstarke Produktkategorien zu erkunden und Best Practices zur Erstellung personalisierter Einkaufserlebnisse mithilfe von KI und fortschrittlichen Technologien zu lernen.
 solution: General
+feature: Generative AI, Personalization
+topic: Artificial Intelligence, Personalization, Performance
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
 exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -29,7 +31,7 @@ Machen Sie sich bereit, die Weihnachtszeit 2024 mit den neuesten Erkenntnissen d
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446271/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Leistung in der Weihnachtssaison 2024** Die Weihnachtssaison 2024 verzeichnete gegenüber dem Vorjahr ein Wachstum von 8,7 %, mit einem Rekordausgabenvolumen von 241,4 Milliarden US-Dollar, was zu einer Gesamtsumme von 1,05 Billionen US-Dollar für das Jahr beiträgt. Zu den wichtigsten Faktoren gehörten Preisempfindlichkeit, Social-Media- und Marketing-Kanäle sowie mobiles Einkaufen.
 

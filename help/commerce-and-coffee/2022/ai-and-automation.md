@@ -1,7 +1,8 @@
 ---
 title: Commerce und Coffee - KI und Automatisierung
-description: In dieser Sitzung werden die KI-Funktionen von Adobe Commerce ausführlich behandelt. Wir besprechen, was KI und Automatisierung ist, was Kunden erwarten und warum Unternehmen dies nicht ignorieren können. Corey durchläuft dann eine gründliche Demonstration von Produkt-Recommendations und Live Search innerhalb der Adobe Commerce-Plattform. Die Präsentation und die Demo werden von einer Live-Q&A mit Corey begleitet.
+description: In dieser Sitzung werden die KI-Funktionen von Adobe Commerce ausführlich behandelt. Wir besprechen, was KI und Automatisierung ist, was Kunden erwarten und warum Unternehmen dies nicht ignorieren können. Corey durchläuft dann eine gründliche Demonstration von Produktempfehlungen und Live Search innerhalb der Adobe Commerce-Plattform. Die Präsentation und die Demo werden von einer Live-Q&A mit Corey begleitet.
 solution: Commerce
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,15 +12,15 @@ kt: 11653
 thumbnail: 3412709.jpeg
 exl-id: 0e9b072c-8b2d-4b85-b18a-a962d9f4d676
 duration: 3603
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 # Commerce und Coffee - KI und Automatisierung
 
-In dieser Sitzung werden die KI-Funktionen von Adobe Commerce ausführlich behandelt. Wir besprechen, was KI und Automatisierung ist, was Kunden erwarten und warum Unternehmen dies nicht ignorieren können. Corey durchläuft dann eine gründliche Demonstration von Produkt-Recommendations und Live Search innerhalb der Adobe Commerce-Plattform. Die Präsentation und die Demo werden von einer Live-Q&amp;A mit Corey begleitet.
+In dieser Sitzung werden die KI-Funktionen von Adobe Commerce ausführlich behandelt. Wir besprechen, was KI und Automatisierung ist, was Kunden erwarten und warum Unternehmen dies nicht ignorieren können. Corey durchläuft dann eine gründliche Demonstration von Produktempfehlungen und Live Search innerhalb der Adobe Commerce-Plattform. Die Präsentation und die Demo werden von einer Live-Q&amp;A mit Corey begleitet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412709/?quality=12&learn=on)

@@ -2,6 +2,7 @@
 title: Die Karte des Marketing-Experten - Eine umfassende Anleitung zur Strategie, Erstellung und Analyse von Marketo-Kampagnen
 description: Erfahren Sie, wie Sie Marketo Engage-Programme effizient erstellen können, einschließlich Importieren, Klonen und Erstellen von neuen Inhalten. Passen Sie Marketo Engage-Vorlagen an, um Markenstandards zu erfüllen und Assets und Periodenkosten zu verwalten.
 feature: Smart Campaigns, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,7 +11,7 @@ duration: 2740
 last-substantial-update: 2024-08-05T00:00:00Z
 jira: KT-15890
 exl-id: 9fb78dbe-e2ab-4f4b-93fe-013426a30114
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

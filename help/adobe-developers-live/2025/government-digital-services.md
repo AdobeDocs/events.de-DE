@@ -1,19 +1,21 @@
 ---
 title: Optimieren von staatlichen Services mit KI
 description: Erfahren Sie, wie die Integration von KI und Adobe mit Microsoft die digitalen Behördendienste verbessern, den Zugang der Bürger verbessern und Workflows vereinfachen kann.
+feature: Edge Delivery Services, Release Information
+topic: Integrations, Administration, Development
 role: Developer, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 725
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-19989
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: 3d03e6c3-4ed2-45cc-9cea-2cb4a4094985
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
-
 
 # Nutzung der Integration von KI und Adobe mit Microsoft zur Optimierung staatlicher digitaler Services
 

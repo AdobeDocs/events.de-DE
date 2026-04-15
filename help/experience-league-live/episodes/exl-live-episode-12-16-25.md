@@ -4,16 +4,17 @@ description: Der Product Support Agent basiert auf Adobe Experience Platform Age
 kt: KT-19794
 solution: Experience Platform
 feature: AI Assistant
+topic: Artificial Intelligence, Personalization
 event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
 event-start-time: 2025-12-16 09:00-8
 event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
-source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
+exl-id: c3c692a3-ab71-428d-9811-2226dd322f94
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
-
 
 # Vereinfachte Fehlerbehebung und Support-Fallverwaltung mit dem Produktsupport-Agenten
 
@@ -28,4 +29,4 @@ Sehen Sie sich diese Live-Sitzung an, in der das Produkt-Team hinter dem Produkt
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[Lassen Sie die Diskussion in der Community-Diskussion am Laufen!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172?profile.language=de#M1909){target="_blank"}
+[Lassen Sie die Diskussion in der Gemeinschaftsdiskussion weitergehen!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}

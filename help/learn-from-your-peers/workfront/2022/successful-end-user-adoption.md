@@ -5,13 +5,15 @@ role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 solution: Workfront
+feature: System Setup and Administration, Work Management
+topic: Administration, Integrations
 duration: 3647
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15818
 exl-id: e9f90ac6-2b16-4495-b7d5-ba29237160b7
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -20,7 +22,7 @@ ht-degree: 0%
 
 Adobe Workfront-Systemadmins zu sein bedeutet mehr als nur, die Software zu verstehen und Funktionen zu implementieren. Systemadministratoren sind dafür verantwortlich, Ihren Endbenutzern klar zu erklären, warum Ihr Unternehmen Workfront verwendet - und welche Vorteile es für sie hat.
 
-In diesem On-Demand-Webinar werden Cynthia Boon und Leslie Spier, Customer Success Managers (und ehemalige Kunden!) von Workfront, von Karlton Harrison, VP, Data Platform Engineer von Truist, unterstützt. Zwischen ihnen haben sie jahrelange Erfahrung in diesem Bereich und sie werden Folgendes abdecken:
+In diesem On-Demand-Webinar haben Cynthia Boon und Leslie Spier, Customer Success Manager (und ehemalige Kunden!) bei Workfront wird Karlton Harrison, VP, Data Platform Engineer von Truist, hinzukommen. Zwischen ihnen haben sie jahrelange Erfahrung in diesem Bereich und sie werden Folgendes abdecken:
 
 * Wie lassen sich die Gründe für eine schwache Akzeptanz durch die Endbenutzer ermitteln?
 * Tipps zur Dokumentation und Kommunikation der Erwartungen an eine erfolgreiche Umsetzung

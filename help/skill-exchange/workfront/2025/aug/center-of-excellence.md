@@ -3,6 +3,7 @@ title: Vorbereiten Ihres Workfront-Unternehmens auf ein Exzellenzzentrum
 description: Erfahren Sie, wie Sie mit Governance-Strategien, Executive Sponsoring und Best Practices ein Workfront Center of Excellence starten und skalieren.
 solution: Workfront
 feature: Get Started with Workfront
+topic: Performance, Administration, Development
 role: User
 level: Beginner
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18875
 exl-id: b4e3f704-b0a7-4b1e-a2a5-d8ff427ece84
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -27,7 +28,7 @@ Die Einrichtung eines Kompetenzzentrums (CoE) ist entscheidend für die Förderu
 * **Überlegungen zur Personalausstattung** Erkunden Sie die wichtigsten Aspekte der Personalausstattung Ihres CoE, indem Sie Schlüsselrollen und Verantwortlichkeiten für Ihre Admin-Praxis ermitteln. Wissen, wie man ein Team aufbaut, das die Initiativen Ihres CoE effektiv unterstützen und fördern kann.
 * **Tipps und Tricks** Gewinnen Sie praktische Einblicke und Best Practices für die Verwaltung und Pflege Ihres Code. Entdecken Sie Strategien zur Bewältigung gemeinsamer Herausforderungen, zur Förderung der Zusammenarbeit und zur Sicherstellung kontinuierlicher Verbesserungen. Seien Sie dabei, wenn Sie sich mit dem Wissen und den Tools ausstatten, die Sie benötigen, um ein florierendes Exzellenzzentrum in Ihrem Workfront-Unternehmen zu schaffen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471593/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
 
 ## Wichtige Schritte zum Starten Ihres CODE
 

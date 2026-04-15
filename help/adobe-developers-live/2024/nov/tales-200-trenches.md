@@ -3,6 +3,7 @@ title: Geschichten aus 200 Gräben
 description: Stellen Sie den Erfolg von Web-Projekten sicher, indem Sie der Leistung Priorität einräumen, Google PageSpeed Insights verwenden, Schlüsselmetriken wie LCP und TBT optimieren, Ressourcen effizient verwalten und Best Practices für die Entwicklung und Bildoptimierung befolgen.
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Integrations, Performance, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
@@ -10,16 +11,16 @@ duration: 1321
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16541
 exl-id: 1104048d-4074-49aa-a0bc-0065fa2df505
-source-git-commit: baacc97f717d27581d0ef28384e2f680dbef854e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 1%
 
 ---
 
 # Geschichten aus 200 Gräben
 
-Kiran Murugulla, Senior Engineer bei Adobe, und Varun Mitra, Architect bei Adobe Experience Manager Cloud, teilen die wichtigsten Erfahrungen mit über 200 abgeschlossenen Edge Delivery Services-Projekten. Entdecken Sie die Geheimnisse hinter der Bereitstellung schneller, leistungsstarker Erlebnisse mit außergewöhnlichen Core Web Vitals.
+Kiran Murugulla, Senior Engineer bei Adobe, und Varun Mitra, Architekt für Adobe Experience Manager Cloud, teilen mit Ihnen die wichtigsten Erfahrungen aus über 200 abgeschlossenen Edge Delivery Services-Projekten. Entdecken Sie die Geheimnisse hinter der Bereitstellung schneller, leistungsstarker Erlebnisse mit außergewöhnlichem Core Web Vitals.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439424/?learn=on&enablevpops)
@@ -28,7 +29,7 @@ Kiran Murugulla, Senior Engineer bei Adobe, und Varun Mitra, Architect bei Adobe
 
 Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](https://adobe.ly/4fwWvvi) fort.
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Performance ist kritisch** Leistung, insbesondere die Geschwindigkeit von Web-Seiten, wird als Schlüsselfaktor für erfolgreiche Web-Projekte hervorgehoben. Ein primäres Ziel ist es, Leistungswerte von 100 sicherzustellen.
 * **Entwicklungspraktiken**

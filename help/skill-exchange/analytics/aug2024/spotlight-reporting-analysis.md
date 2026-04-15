@@ -2,6 +2,8 @@
 title: Experience Makers im Blickpunkt
 description: Erfahren Sie mehr über einige Funktionen von Workspace, die Sie möglicherweise nicht in Ihren Projekten verwenden. Erfahren Sie, wie Sie diese Funktionen verwenden können, um Ihnen und den Endbenutzern Ihres Workspace-Projekts Einblicke zu verschaffen. Erhalten Sie einige Anwendungsbeispiele, die Sie möglicherweise auf die Workspace-Projekte Ihres Unternehmens anwenden können.
 solution: Analytics
+feature: Analysis Workspace, Visualizations
+topic: Security
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2569
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15972
 exl-id: b59ee10f-cc6e-4b85-8ea6-ce639e63bf5a
-source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---

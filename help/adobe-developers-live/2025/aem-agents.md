@@ -1,19 +1,21 @@
 ---
 title: Erkunden von Adobe Experience Manager-Agenten
 description: Erfahren Sie, wie AEM-Agenten Site-Migrationen mit KI- und GitHub-Integration optimieren, digitale Erlebnisse verbessern und die Bereitstellungszeit verkürzen.
+feature: Edge Delivery Services
+topic: Artificial Intelligence, Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1170
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19974
-source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
+exl-id: fb65b8a2-149b-4cb7-bb69-2605ad4b79f3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '160'
 ht-degree: 1%
 
 ---
-
 
 # Einführung in Adobe Experience Manager-Agenten
 
@@ -21,7 +23,7 @@ Adobe Developers Live 2025: Building the Agentic Web brachte Entwickler, Archite
 
 Diese Live-Aufzeichnung aus San Jose stellt Adobe Experience Manager Agents vor, eine KI-gestützte Funktion, die die Website-Migration transformiert. Durch die nahtlose GitHub-Integration automatisieren AEM-Agenten die Blockzuordnung, den Inhaltsimport und die Formatierung in benutzerfreundlichen Best Practice-Code, wodurch das Onboarding in Edge Delivery Services beschleunigt wird. Erfahren Sie, wie Entwickler Migrationen vereinfachen, Bereitstellungszeiten verkürzen und Sites starten können, die für Such- und generative Engines optimiert sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477669/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477620/?learn=on&enablevpops)
 
 Ein besonderer Dank geht an unsere Sponsoren Algolia und Ensemble für die Unterstützung von Adobe Developers Live 2025.
 

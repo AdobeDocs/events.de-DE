@@ -2,6 +2,7 @@
 title: Adobe Developers Live - 23. NOVEMBER - Headless-Breakout 2
 description: In dieser informativen Sitzung von Adobe Developers Live teilen Gabriel Walt und Alex Tondo Einblicke, wie Adobe.com den universellen Editor in Adobe Experience Manager verwendet, um ihre Inhaltsstrategie zu verbessern. Aufgenommen am 6. November 2023, erörtern sie die Funktionen dieses WYSIWYG-Editors bei der Optimierung von Prozessen zur Inhaltsbereitstellung und seine Rolle bei der Vereinfachung der Inhaltserstellung. Diese Sitzung ist ideal für diejenigen, die verstehen möchten, wie Sie Content-Tools in AEM effektiv für dynamische und ansprechende digitale Erlebnisse verwenden können.
 solution: Experience Manager,Experience Manager Sites
+feature: Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ jira: KT-14425
 thumbnail: 3425635.jpeg
 exl-id: ee24d39f-0440-459c-b5c8-b05f2ab2e6c3
 duration: 1963
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---

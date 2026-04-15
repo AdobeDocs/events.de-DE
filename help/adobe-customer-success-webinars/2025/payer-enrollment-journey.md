@@ -1,6 +1,8 @@
 ---
 title: Modernisierung der Player-Enrollment-Journey mit AEM Forms
 description: Erfahren Sie, wie AEM Forms es Playern ermöglicht, Anmelde-Journey zu modernisieren, Prozesse zu automatisieren und ansprechende Omni-Channel-Kundenerlebnisse bereitzustellen.
+feature: Release Information, Authoring
+topic: Personalization, Administration
 soluton: Experience Manager Forms
 role: Developer, User
 level: Intermediate, Experienced
@@ -8,13 +10,13 @@ doc-type: Event
 duration: 3550
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18695
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: e7990fde-6d15-48ac-b539-bcb2fe31e7c7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
-
 
 # Modernisierung der Player-Enrollment-Journey mit AEM Forms
 

@@ -1,6 +1,8 @@
 ---
 title: Marketo & Mokkas - Grundlage für den Erfolg von Lead Nurture
 description: Kommen Sie zu den Unternehmensberatern Cynthia Chang und Carly Gaver, um zu erfahren, wie Sie das Lead-Nurturing in Adobe Marketo Engage maximieren, Interaktionsprogramme für die Inhaltsverteilung erkunden und eine Live-Demonstration zur Einrichtung eines Interaktionsprogramms mit der Best-Practice-Vorlage und Fragen und Antworten zu erhalten.
+feature: Programs
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3544
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15604
 exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 0%
 
 Schließen Sie sich den Unternehmensberatern Cynthia Chang und Carly Gaver an, die Einblicke in die Maximierung der Lead-Pflege in Adobe Marketo Engage teilen.
 
-Mit Lead Nurturing können Marketer konsistent über verschiedene Kanäle kommunizieren und so die Lücke zwischen der ersten Interaktion und dem Kauf schließen. Wir werden auch den Typ des Interaktionsprogramms untersuchen, der die Verteilung von Inhalten an benannte Zielgruppen nach einem definierten Zeitplan ermöglicht. Mit Marketo Engage-Programmen können Marketing-Fachleute beständige Kampagnen erstellen, Leads und Kunden durch personalisierte Inhalte und Erlebnisse ansprechen.
+Mit Lead Nurturing können Marketer konsistent über verschiedene Kanäle kommunizieren und so die Lücke zwischen der ersten Interaktion und dem Kauf schließen. Wir werden auch den Typ des Interaktionsprogramms untersuchen, der die Verteilung von Inhalten an benannte Zielgruppen nach einem definierten Zeitplan ermöglicht. Mit Marketo Engage-Programmen können Marketing-Fachleute beständige Kampagnen erstellen, die durch personalisierte Inhalte und Erlebnisse Leads und Kunden ansprechen.
 
 Carly führt auch eine Live-Demonstration durch, die Sie durch die Einrichtung eines Interaktionsprogramms mithilfe der Best Practice-Vorlage aus der Marketo-Programmbibliothek führt. Wie immer beantworten wir Ihre Fragen auch live bei Fragen und Antworten!
 

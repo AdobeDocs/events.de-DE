@@ -2,6 +2,7 @@
 title: Anwendungsfälle und Fehlerbehebung bei Identitätsdiagrammen
 description: Erfahren Sie, wie Adobe Experience Platform Identity Service die Einblicke in Segmentierung, Aktivierung und Profilzusammenführung ermöglicht, um Herausforderungen des realen Marketings zu lösen.
 feature: Identities, Profiles, Segments
+topic: Personalization, Security, Administration
 solution: Experience Platform
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 3232
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19286
-source-git-commit: ae72352725cfb057cab771b08c4419c11e17e385
+exl-id: ffe6ced7-998c-4e40-a91f-e34e5174dc2c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
-
 
 # Anwendungsfälle und Fehlerbehebung bei Identitätsdiagrammen
 
@@ -46,4 +47,3 @@ Erfahren Sie, wie die Identitätsdiagramm-Regeln von Adobe Experience Platform K
 * **Graph reduzieren und beheben** Freigegebene Geräte, nicht validierte Daten oder Implementierungsfehler können Profile fragmentieren. Simulationstools und Reparaturaufträge helfen bei der Wiederherstellung der Genauigkeit.
 
 Das Verständnis dieser Konzepte ermöglicht es Unternehmen, den Wert ihrer Daten zu maximieren, die Einhaltung von Vorschriften sicherzustellen und personalisierte Erlebnisse bereitzustellen.
-

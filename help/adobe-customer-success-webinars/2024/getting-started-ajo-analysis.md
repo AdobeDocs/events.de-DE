@@ -2,6 +2,8 @@
 title: Erste Schritte mit Adobe Journey Optimizer Analysis in Customer Journey Analytics
 description: In dieser Sitzung soll gezeigt werden, wie Customer Journey Analytics und Adobe Journey Optimizer zusammenarbeiten, um die Messung mehrerer Adobe Journey Optimizer-Kampagnen und -Journey zu optimieren.
 solution: Customer Journey Analytics, Journey Optimizer
+feature: Integrations, Journeys
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3218
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16031
 exl-id: 5cdd8fe0-32e5-4799-9695-73f37c80917c
-source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -24,7 +26,7 @@ In dieser Sitzung soll gezeigt werden, wie Customer Journey Analytics und Adobe 
 
 In diesem Webinar werden die Integration und die Funktionen von Agile Analytics in Adobe Journey Optimizer Analytics veranschaulicht, damit Benutzende den Wert und die Vorteile verstehen, die die gemeinsame Verwendung dieser Tools für tiefere Analysen und Einblicke bietet.
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * Die Integration von Agile Analytics mit Adobe Journey Optimizer Analytics ermöglicht eine tiefere Analyse und tiefere Einblicke, indem Daten aus verschiedenen Quellen kombiniert werden, um aussagekräftigere Metriken zu generieren.
 

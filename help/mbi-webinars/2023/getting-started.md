@@ -5,14 +5,17 @@ landing-page-description: Sehen Sie sich dieses aufgezeichnete Webinar an, um me
 short-description: Sehen Sie sich dieses aufgezeichnete Webinar an, um mehr über die Kernfunktionen von Commerce Intelligence für Ihren Adobe Commerce- oder Magento Open Source-Store zu erfahren.
 kt: 10408
 solution: Commerce, Commerce Intelligence
+feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Commerce, Performance
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
 exl-id: ac932e1b-ae0a-40a3-b7dd-948d88ded358
 duration: 3221
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '173'
 ht-degree: 1%
 
 ---
@@ -29,7 +32,7 @@ Anwendungsfälle werden überall geteilt und bieten anschauliche Beispiele dafü
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425736?quality=12&learn=on)
 
-## Zusätzliche Ressourcen
+## Weitere Ressourcen
 
-[Einführung in Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=de)
-[Commerce Intelligence-Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=de)
+[Einführung in Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+[Commerce Intelligence-Support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

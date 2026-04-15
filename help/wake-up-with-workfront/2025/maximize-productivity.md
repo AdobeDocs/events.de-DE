@@ -1,6 +1,8 @@
 ---
 title: Maximieren der Produktivität mit Workfront Fusion
 description: Maximieren Sie die Produktivität mit Workfront Fusion! Automatisieren Sie Workflows, integrieren Sie Systeme und verbessern Sie die Zusammenarbeit mit maßgeschneiderten Benachrichtigungen, der Größenanpassung von Bildern und mehr.
+feature: Workfront Fusion, System Setup and Administration
+topic: Integrations, Security, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3504
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17173
 exl-id: a902ca63-2230-4b1d-8dcf-3af004b66d9b
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -28,7 +30,7 @@ Im Gegensatz zu herkömmlichen Projektmanagement-Tools ist Workfront Fusion eine
 * **Aaron Baker** Customer Technical Advisor bei Work Front mit Erfahrung im Software-Engineering.
 * **Marianne Erickson** Beraterin für Unternehmen.
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 Im Mittelpunkt des Webinars stand die Maximierung der Produktivität mithilfe von Adobe Work Front Fusion, einem Low-Code-Tool, das Workflows automatisiert und verschiedene Systeme integriert.
 

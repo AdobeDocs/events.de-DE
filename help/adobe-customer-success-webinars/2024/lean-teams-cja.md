@@ -2,6 +2,8 @@
 title: Maximieren der Effizienz - Lean Teams und Customer Journey Analytics
 description: Im Webinar wird gezeigt, wie die Integration dieser Konzepte die Effizienz steigern, Kundenerlebnisse verbessern und datengestützte Entscheidungsfindung innerhalb von Unternehmen unterstützen kann.
 solution: Customer Journey Analytics
+feature: Basics, Use Cases
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,10 +11,10 @@ duration: 2209
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16033
 exl-id: 0037c5c6-9a04-441d-979b-43d064189e0c
-source-git-commit: 66e2bdef11891a9c4f88534cc00f56ffe05e4e26
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 0%
+source-wordcount: '177'
+ht-degree: 1%
 
 ---
 
@@ -20,9 +22,9 @@ ht-degree: 0%
 
 Im Webinar wird gezeigt, wie die Integration dieser Konzepte die Effizienz steigern, Kundenerlebnisse verbessern und datengestützte Entscheidungsfindung innerhalb von Unternehmen unterstützen kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457017/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3432998/?learn=on)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * Zu den Herausforderungen für Lean-Teams gehören die Ressourcenknappheit, die eingeschränkte Bandbreite und die Arbeitsbelastung, die mangelnde Zusammenarbeit und Qualifikationslücken in der Ausbildung.
 * Customer Journey Analytics (C.J.) kann Teams helfen, indem Prozesse erstellt werden, um die Kommunikation zu optimieren, Fehler zu reduzieren und die Datenkonsistenz mithilfe von Tools wie Datenwörterbuch sicherzustellen.

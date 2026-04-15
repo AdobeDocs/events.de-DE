@@ -1,19 +1,21 @@
 ---
 title: Überdenken des Ressourcen-Managements auf dem agilen Weg bei Excel Advisors
 description: Erfahren Sie, wie Excel Advisors das Ressourcenmanagement mithilfe von agilen Verfahren in Adobe Workfront transformiert hat.
+feature: Resource Management, Work Management
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3497
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20610
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: bc6198fe-caf9-4a2f-bb00-506adb96cc97
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 1%
 
 ---
-
 
 # Überdenken des Ressourcen-Managements auf dem agilen Weg bei Excel Advisors
 
@@ -21,10 +23,8 @@ Erfahren Sie, wie das Creative Operations-Team von Advisors Excel in Workfront e
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481832/?learn=on&enablevpops)
 
-Wenn Sie die Sitzung verpasst haben, keine Sorgen! Sehen Sie sich [&#x200B; &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/FINAL+Rethinking+Resource+Management+the+Agile+Way+at+Advisors+Excel+-+March+19%2C+2026.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
+Wenn Sie die Sitzung verpasst haben, keine Sorgen! Sehen Sie sich [ &quot;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/FINAL+Rethinking+Resource+Management+the+Agile+Way+at+Advisors+Excel+-+March+19%2C+2026.pdf) Deck“ an und verfolgen Sie die On-Demand-Aufzeichnung.
 
-Suchen Sie nach weiteren Ressourcen von der Veranstaltung? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316?profile.language=de)!
+Suchen Sie nach weiteren Ressourcen von der Veranstaltung? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316)!
 
 Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events) um die neuesten Sessions zu erhalten.
-
-

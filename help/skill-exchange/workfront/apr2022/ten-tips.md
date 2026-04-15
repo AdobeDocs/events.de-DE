@@ -2,13 +2,15 @@
 title: 10 Tipps für Ihren Workfront
 description: Diese Tipps richten sich an Administratoren, die sich schon seit einiger Zeit in ihrer Instanz befinden und auf eine effizientere Vorgehensweise hoffen.
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10313
 thumbnail: 342523.jpeg
 exl-id: bf741c04-9cd9-485a-8fa4-409cddf94547
 duration: 2480
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

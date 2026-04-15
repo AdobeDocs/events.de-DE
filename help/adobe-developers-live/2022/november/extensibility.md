@@ -1,7 +1,8 @@
 ---
 title: Adobe Developers Live NOV 22 Einführung in die Erweiterbarkeit der Benutzeroberfläche und die neue Benutzeroberfläche für Inhaltsfragmente
-description: Einführung in die Erweiterbarkeit der Benutzeroberfläche und die neue Inhaltsfragment-UIAdobe-Experience Manager bietet neue Services, die die Wartungskosten senken, den Benutzenden ständig die neuesten Verbesserungen liefern und mit einem modernen Frontend-Technologie-Stack angepasst und erweitert werden können. In dieser Sitzung geben wir einen Überblick über neue Benutzeroberflächen-Services für Inhaltsfragmente und geben ein schrittweises Beispiel für die Erstellung einer Erweiterung für die Inhaltsfragment-Konsole.
+description: Einführung in die Erweiterbarkeit der Benutzeroberfläche und das neue Inhaltsfragment UIAdobe Experience Manager bietet neue Services, die die Wartungskosten senken, den Benutzenden ständig die neuesten Verbesserungen liefern und mit einem modernen Frontend-Technologie-Stack angepasst und erweitert werden können.In dieser Sitzung geben wir einen Überblick über die neuen Services der Inhaltsfragment-Benutzeroberfläche und geben ein schrittweises Beispiel für die Erstellung einer Erweiterung für die Inhaltsfragment-Konsole.
 solution: Experience Manager,Experience Manager Sites
+feature: Developer Tools, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11484
 thumbnail: 3411305.jpeg
 exl-id: 9624f106-e48c-4c6e-81b8-adf083c8db96
 duration: 2733
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---

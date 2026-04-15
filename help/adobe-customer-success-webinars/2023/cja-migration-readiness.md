@@ -1,9 +1,10 @@
 ---
 title: Customer Journey Analytics-Migrationsbereitschaft
-description: Überblick über den Customer Journey Analytics-Wert, Highlights nach Branche, Empfohlene Ressourcen
+description: Überblick über den Wert von Customer Journey Analytics, Highlights nach Branche, Empfohlene Ressourcen
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics
+topic: Migration
 role: Admin, Architect, Data Architect, Data Engineer, Leader
 level: Intermediate
 doc-type: Event
@@ -12,7 +13,7 @@ jira: KT-13904
 thumbnail: 3423904.jpeg
 exl-id: d76db108-8011-4e01-8db2-e959c4f3b429
 duration: 2035
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '33'
 ht-degree: 0%
@@ -21,8 +22,8 @@ ht-degree: 0%
 
 # Customer Journey Analytics-Migrationsbereitschaft
 
-* Übersicht über den CJA-Wert
-* Höhepunkte der CJA-Anwendungsfälle nach Branche
+* Überblick über den Wert von CJA
+* CJA-Anwendungsfall - Highlights nach Branche
 * Empfohlene Ressourcen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423904/?learn=on)

@@ -1,19 +1,21 @@
 ---
 title: 10 Tipps zum Textmodus
 description: Entdecken Sie wichtige Tipps zum Textmodus in Adobe Workfront, um Ihre Reporting-Funktionen zu verbessern und Workflows zu optimieren.
+feature: Reports and Dashboards
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3786
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19769
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 13e6de8c-df90-4979-a837-ba020c6b50f2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
-
 
 # 10 Tipps zum Textmodus in Adobe Workfront
 

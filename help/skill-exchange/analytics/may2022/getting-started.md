@@ -4,6 +4,7 @@ description: Verwenden Sie die grundlegende Analytics-Benutzeroberfläche, start
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Workspace Basics
+topic: Migration, Integrations
 doc-type: Event
 role: User
 level: Beginner
@@ -11,7 +12,7 @@ kt: 10464
 thumbnail: 343329.jpeg
 exl-id: 3f893238-3163-4925-ab73-abd541582a4f
 duration: 2515
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 4%

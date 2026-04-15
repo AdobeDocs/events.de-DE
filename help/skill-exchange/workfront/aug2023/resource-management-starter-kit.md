@@ -4,6 +4,7 @@ description: Wenn Sie an die Verwendung der Ressourcenverwaltungs-Tools von Adob
 solution: Workfront
 feature-set: Workfront
 feature: Resource Management
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -12,7 +13,7 @@ jira: KT-14561
 thumbnail: 3425792.jpeg
 exl-id: 4b828419-0f3e-46f5-8a89-8b0fb02227b9
 duration: 2184
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%

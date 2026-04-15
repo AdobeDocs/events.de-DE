@@ -1,19 +1,21 @@
 ---
 title: Wichtigste Tipps zu Workfront
 description: Erfahren Sie mehr über die wichtigsten Funktionen für Systemadministratoren, Projektmanager und Sekundäre in Workfront. Erfahren Sie, wie Cynthia Boone diese Tools effektiv nutzt.
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 202
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18649
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: feec04be-df91-4493-a1e9-dd552d6ffee4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # Top 3 Sonderausgabe! Watch me work - 3 Wege [1. Video]
 
@@ -23,8 +25,8 @@ Es bin wieder ich, deine „On-Demand Workfront CSM“ Cynthia Boon mit einer sp
 * Projekt-Manager/-Planer
 * Worker/Requester
 
->[!VIDEO](https://video.tv.adobe.com/v/3470185/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470072/?learn=on&enablevpops)
 
 ## Zusätzliche Ressourcen
 
-Suchen Sie mehr? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910?profile.language=de)!
+Suchen Sie mehr? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910)!

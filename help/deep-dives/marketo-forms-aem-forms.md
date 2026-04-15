@@ -1,19 +1,21 @@
 ---
 title: Wessen Form ist es überhaupt? Detaillierte Einblicke in Marketo Forms im Vergleich zu AEM Forms
 description: Integrieren von Marketo und AEM Forms für personalisierte Erlebnisse wie benutzerdefinierte PDFs. AEM Forms verarbeitet komplexe Formulare mit Echtzeit-Validierung und zentralisierter Verwaltung.
+feature: Programs, Reporting
+topic: Personalization, Integrations
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2753
 last-substantial-update: 2025-03-04T00:00:00Z
 jira: KT-17434
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+exl-id: 44986108-d59e-4729-bfa5-4cb3adb3719e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
-
 
 # Wessen Form ist es überhaupt? Detaillierte Einblicke in Marketo Forms im Vergleich zu AEM Forms
 
@@ -21,7 +23,7 @@ Entdecken Sie die verschiedenen Möglichkeiten und Anwendungsfälle für die Ver
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448534/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Integration von Marketo und AEM Forms** In der Diskussion wurde hervorgehoben, wie Marketo und AEM Forms integriert werden können, um personalisierte und dynamische Benutzererlebnisse zu schaffen. Verwenden von AEM Forms zum Beispiel zum Generieren benutzerdefinierter PDFs auf der Grundlage von Benutzerdaten aus Marketo.
 

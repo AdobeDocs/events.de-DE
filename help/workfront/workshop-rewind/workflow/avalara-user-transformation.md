@@ -1,19 +1,21 @@
 ---
 title: Verwirrung bei Benutzern in Vertrauen umwandeln
 description: Erfahren Sie, wie Avalara mithilfe von Adobe Workfront Benutzerverwirrung in Selbstvertrauen verwandelte. Lernen Sie effektive Strategien für die Benutzerinteraktion und -zufriedenheit kennen.
+feature: Workfront Fusion, System Setup and Administration
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3443
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19760
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: fc70c500-e3f4-4cb8-96e5-9ea46f935069
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # Verwirrung bei Benutzern in Vertrauen umwandeln
 

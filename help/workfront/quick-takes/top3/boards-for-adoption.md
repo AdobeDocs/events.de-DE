@@ -1,19 +1,21 @@
 ---
 title: Die drei wichtigsten Gründe für die Verwendung von Workfront-Boards
 description: Erfahren Sie, wie Workfront-Boards die Benutzerakzeptanz steigern, indem sie eine einfache Einrichtung, Vorlagen und Verfolgung ermöglichen. Engagieren Sie Ihre Teams mühelos.
+feature: System Setup and Administration, Work Management
+topic: Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 223
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18652
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 3eba141f-fda3-4688-a82a-91e8ebc543d9
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
-
 
 # Die drei wichtigsten Gründe für die Verwendung von Pinnwänden zur Einführung
 
@@ -23,15 +25,13 @@ Reden wir über Adoption! Wir sind alle auf der Suche nach neuen Ideen, wie wir 
 
 Wenn Sie noch keine Gelegenheit hatten, mit der Funktion „Pinnwände“ zu experimentieren, machen Sie sich keine Sorgen! Im Video zeige ich, wie ich Ihren Benutzern Zugriff gewähren kann und einige Möglichkeiten, wie sie schnell loslegen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470107/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
 
 ## Zusätzliche Ressourcen
 
 Wie im Video versprochen, haben wir eine Menge Ressourcen zu teilen, einschließlich Artikeln und kurzen Video-Demos:
 
-* [Erste Schritte mit Pinnwänden in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=de)
-* [Frühzeitiges Opt-in für Adobe Workfront-Boards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=de)
-* [Erstellen oder Bearbeiten einer Pinnwand - enthält Beschreibungen der einzelnen Pinnwand-Vorlagen](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=de)
-* [Adobe Workfront-Boards - kurze Videodemonstrationen](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=de)
-
-
+* [Erste Schritte mit Pinnwänden in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
+* [Frühzeitiges Opt-in für Adobe Workfront-Motherboards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
+* [Pinnwand erstellen oder bearbeiten - Enthält Beschreibungen der einzelnen Pinnwand-Vorlagen](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
+* [Adobe Workfront Boards - kurze Videodemonstrationen](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)

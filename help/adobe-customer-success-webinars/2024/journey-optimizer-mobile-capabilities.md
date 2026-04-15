@@ -2,6 +2,8 @@
 title: Journey Optimizer Mobile-Funktionen
 description: In dieser Einführungsveranstaltung zu Adobe Journey Optimizer werden Anfänger in die Lage versetzt, Kundenerlebnisse im SMS- und Push-Kanal zu erstellen, die mithilfe der Personalisierung zu besseren Ergebnissen führen. Wir besprechen die Verwendung und Personalisierung von Fragmenten.
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3294
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16036
 exl-id: 2ff99ad3-4876-4760-af0f-c48a0c772e2e
-source-git-commit: 66e2bdef11891a9c4f88534cc00f56ffe05e4e26
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -37,7 +39,7 @@ In dieser Einführungsveranstaltung zu Adobe Journey Optimizer werden Anfänger 
 **Konfiguration von Push-Benachrichtigungen**
 
 * Definieren der Zielgruppe, Planen und Erstellen von Push-Benachrichtigungen mit personalisierten Inhalten und Medien.
-* Verwendung generativer KI, z. B. Firefly, zum Erstellen personalisierter Bilder basierend auf Markenstilen.
+* Verwenden generativer KI, wie Firefly, zum Erstellen personalisierter Bilder basierend auf Markenstilen.
 
 **App-Entwicklung und Services**
 

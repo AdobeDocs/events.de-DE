@@ -1,6 +1,8 @@
 ---
 title: Personalization Maturity - Der Weg zur Hyperpersonalisierung
-description: Informieren Sie sich über die neue Ära der Hyperpersonalisierung. Wir bauen auf einem Reifegradmodell für die Personalisierung auf, besprechen gängige Blocker und geben taktische Tipps für die ersten Schritte.Wichtige Diskussionspunkte - Die moderne Kunden-Journey​ Der Weg zur Hyperpersonalisierung​ Erste Schritte in Ihrem Unternehmen
+description: Informieren Sie sich über die neue Ära der Hyperpersonalisierung. Wir bauen auf einem Reifegradmodell für die Personalisierung auf, besprechen gängige Blocker und geben taktische Tipps für die ersten Schritte.Wichtige Diskussionspunkte - die moderne Kunden-​ Der Weg zur Hyperpersonalisierung​ Erste Schritte in Ihrem Unternehmen
+feature: Basics, Use Cases
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 2360
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15559
 exl-id: e6dc873d-ff2c-453e-95fa-f8b0ecd3b491
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 0%
 
 Informieren Sie sich über die neue Ära der Hyperpersonalisierung. Wir bauen auf einem Reifegradmodell für die Personalisierung auf, besprechen gängige Blocker und geben taktische Tipps für die ersten Schritte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457354/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
 
 ## Wichtige Diskussionspunkte
 

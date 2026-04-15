@@ -2,15 +2,17 @@
 title: Gemeinsam besser - Adobe  [!DNL Marketo Engage]  Real-Time CDP
 description: Erfahren Sie, wie Sie B2B-Kampagnen mit und  [!DNL Marketo Engage] -CDP (B2B edition) orchestrieren.
 solution: Marketo Engage, Real-Time Customer Data Platform
+feature: Programs, Reporting, Data Governance, Identities
+topic: Artificial Intelligence, Personalization
 role: Admin, Data Architect, Data Engineer, User
 level: Beginner, Intermediate, Experienced
 kt: 10570
 thumbnail: 343824.jpeg
 exl-id: abe0f3e6-8f1e-40ce-903e-109076b29a28
 duration: 2385
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---

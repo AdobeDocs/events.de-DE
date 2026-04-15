@@ -2,6 +2,7 @@
 title: SLA Reporting in Workfront mit Madalyn Destafney
 description: Erfahren Sie, wie Sie Service Level Agreements (SLAs) in Adobe Workfront mit Expertentipps von Madalyn Destafney implementieren und messen können, einschließlich schrittweiser Anleitungen, berechneter Feldbeispiele und Best Practices für benutzerdefinierte Formulare.
 feature: Reports and Dashboards
+topic: Performance, Certification
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 speaker-name-1: Madalyn Destafney
@@ -12,9 +13,9 @@ duration: 1616
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18623
 exl-id: 0d870372-4605-4d42-b539-5de2943a2682
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 Willkommen bei einer weiteren Folge von Expert Insights!  Ich bin Cynthia Boon, Ihre „On-Demand“ Workfront CSM und freue mich, Ihnen mitteilen zu können, dass wir die einzige und einzige haben, Madalyn Destafney, die einige ihrer umfangreichen Erfahrungen teilt, um Kunden bei der Implementierung und Messung von Service Level Agreements (SLAs) mit Workfront zu helfen. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469987/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
 
 Wie im Video versprochen, haben wir Madalyns Präsentation mit ihren Schritten, berechneten Ausdrücken und Berichtsbeispielen verknüpft. 
 
@@ -33,15 +34,15 @@ Wie im Video versprochen, haben wir Madalyns Präsentation mit ihren Schritten, 
 
 Während der Präsentation teilte Madalyn ihre benutzerdefinierten Formulare und berechneten Felder. Wenn Sie also gerade erst mit diesen Funktionen beginnen, finden Sie hier einige Links, die Sie in die richtige Richtung weisen. 
 
-* Tutorial-Wiedergabeliste - [Erstellen und Freigeben benutzerdefinierter Forms](https://experienceleague.adobe.com/de/playlists/workfront-create-and-manage-custom-forms)
+* Tutorial-Wiedergabeliste - [Erstellen und Freigeben benutzerdefinierter Forms](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
-* Artikel - [Erste Schritte mit berechneten Feldern und Ausdrücken](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artikel - [Erste Schritte mit berechneten Feldern und Ausdrücken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Tipps und Tricks - [Berechnete Felder, die jeder kennen sollte - und wie man darüber berichtet!](https://experienceleague.adobe.com/de/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Tipps und Tricks - [Berechnete Felder, die jeder kennen sollte - und wie man darüber berichtet!](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Interessieren Sie sich für weitere Tipps von Madalyn? Sehen Sie sich ihre Tipps und Tricks in der Workfront Community an! 
 
-* [Dienstag - Technische Bytes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=de#M2742)
+* [Dienstag Technische Bytes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
 
 ## Über den Sprecher 
 

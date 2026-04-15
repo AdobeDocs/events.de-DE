@@ -1,7 +1,8 @@
 ---
 title: Adobe Experience Manager-Eröffnungs-Keynote
-description: Entdecken Sie, wie sich Adobe Experience Manager mit KI weiterentwickelt. Erkunden Sie agentische Workflows, KI-Suche, Personalisierung in jedem Maßstab und intelligentere Inhaltsoptimierung.
+description: Entdecken Sie, wie sich Adobe Experience Manager mit KI weiterentwickelt. Erkunden Sie agentische Workflows, KI-Suchen, skalierbare Personalisierung und intelligentere Inhaltsoptimierung.
 solution: Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Migration
 topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-03T00:00:00Z
 jira: KT-18861
-source-git-commit: 247ffab879bedf7d4e0d5258325d63af2916684a
+exl-id: eafba020-b895-4100-9f63-760787eb97f6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # Keynote zur Eröffnung
 
@@ -25,11 +26,11 @@ Kommen Sie zu Haresh Kumar, Head of Strategy and Product für Adobe Experience M
 
 * Wie KI-Agenten und Experience Hub die Inhaltserstellung und -Workflows optimieren.
 * Die Rolle der KI-gesteuerten Aktivierung zur Bereitstellung der richtigen Inhalte auf allen Kanälen und Geräten.
-* Wie die KI-Suche die Asset-Erkennung, Wiederverwendung und Inhaltsgeschwindigkeit verbessert.
+* Wie KI-Suchen die Asset-Erkennung, Wiederverwendung und Inhaltsgeschwindigkeit verbessern.
 * Neue Optimierungs-Tools wie Sites Optimizer und Content Advisor für eine bessere Interaktion und Konversion.
 * So skalieren Sie die Eins-zu-eins-Personalisierung sicher und effektiv.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471405/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
 
 
 ## Die Zukunft der Inhaltserlebnisse erschließen

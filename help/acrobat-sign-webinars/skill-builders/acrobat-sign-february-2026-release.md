@@ -4,19 +4,20 @@ description: Entdecken Sie aufregende neue Funktionen in der Acrobat Sign-Versio
 solution: Acrobat Sign
 feature-set: Document Cloud
 feature: Sign
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3434
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20367
-source-git-commit: ecfe78ae17e95548c445697087c0ea45cbb7e010
+exl-id: 9c5aae8a-26e1-4745-a6d4-3531e0499a67
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '91'
 ht-degree: 1%
 
 ---
-
 
 # Bleiben Sie auf dem Laufenden mit den neuesten Innovationen von Adobe - Acrobat Sign Version Februar 2026
 

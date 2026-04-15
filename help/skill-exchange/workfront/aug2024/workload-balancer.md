@@ -2,6 +2,8 @@
 title: Ressourcen-Exzellenz - Anpassen des Workload Balancer
 description: Wenn Sie ein Tool über ein anderes (Workload-Balancer oder Ressourcenplaner) wählen oder Situationen, in denen Sie sowohl Filter als auch Ansichten anpassen können, um genau die Daten anzuzeigen, die Sie für das Reporting benötigen. Warum die Eingabe einer Auszeit für eine genaue Kapazitätsplanung entscheidend ist, erfahren Sie, wie die Verwendung der Ressourcenmanagement-Tools von Workfront es Steve und seinem Team ermöglicht hat, die tägliche Ressourcenkapazität UND die zukünftige Ressourcenplanung für die kommenden drei Monate zu bestimmen
 solution: Workfront
+feature: Resource Management, Reports and Dashboards, Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2623
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16102
 exl-id: 16622bad-db10-4deb-9182-753d0abdcd55
-source-git-commit: f1a3a3854d5122ea3d4db7c56a0c1fb50252d6de
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---

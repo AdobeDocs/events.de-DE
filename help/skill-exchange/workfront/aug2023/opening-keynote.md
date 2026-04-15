@@ -1,6 +1,8 @@
 ---
 title: Keynote zur Eröffnung
 description: In dieser Sitzung führt Sie Richard Whitehead, Director of Product Marketing, durch die Entwicklung von Workfront, einschließlich Highlights, neuer und verfügbarer Funktionen, und schließt mit Produktinnovationen ab.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ jira: KT-14610
 thumbnail: 3425894.jpeg
 exl-id: 6d840275-3f12-4480-b442-93b0a4dab153
 duration: 694
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -20,4 +22,4 @@ ht-degree: 0%
 
 In dieser Sitzung führt Sie Richard Whitehead, Director of Product Marketing, durch die Entwicklung von Workfront, einschließlich Highlights, neuer und verfügbarer Funktionen, und schließt mit Produktinnovationen ab.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453838/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3425894/?learn=on)

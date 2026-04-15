@@ -1,19 +1,21 @@
 ---
 title: Schnelle Momentaufnahmen der Entwicklungsumgebung (RDE) für eine schnelle Cloud-Entwicklung
 description: Erkunden Sie die schnelle Entwicklung mit RDE-Momentaufnahmen in AEM Cloud. Lernen Sie, Ihre Entwicklungszyklen effizient einzufrieren, wiederherzustellen und zu erneuern.
+feature: Edge Delivery Services, Release Information
+topic: Administration, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2501
 last-substantial-update: 2025-12-11T00:00:00Z
 jira: KT-19985
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: e8998e51-b661-42ab-a6c4-1cb85e3d9386
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Einfrieren, Wiederherstellen, Innovieren: Praktisch mit Snapshots der schnellen Entwicklungsumgebung für die Cloud-Entwicklung
 

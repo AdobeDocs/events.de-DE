@@ -1,6 +1,8 @@
 ---
 title: Mit Workfront wecken - Alles bei der Aufzeichnung fragen
 description: Maximieren Sie die Produktivität mit Workfront! Verwenden Sie Best Practices, Meilensteine, Blueprints und Integrationen. Ressourcen, Proofing und Systemeinstellungen verwalten. Fördern Sie die Benutzerakzeptanz und optimieren Sie die Kommunikation.
+feature: Resource Management, Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3404
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17213
 exl-id: 11842d50-a898-4326-be35-634ecaa94487
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ In unserem ersten Webinar „Wake Up with Workfront&quot; des Jahres nahmen Sama
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443085/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Best Practices für das Projekt-Management**
 

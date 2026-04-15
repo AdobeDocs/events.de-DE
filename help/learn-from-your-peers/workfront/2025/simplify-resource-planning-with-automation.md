@@ -2,19 +2,20 @@
 title: Vereinfachen der Ressourcenplanung durch Automatisierung
 description: Erfahren Sie, wie Deloitte Fusion verwendet, um die Ressourcenplanung und das PTO-Tracking in Workfront zu automatisieren. Entdecken Sie Tipps aus der Praxis, um Genauigkeit, Sichtbarkeit und Team-Akzeptanz zu steigern.
 feature: Resource Management, Strategic Planning
+topic: Administration, Integrations
 role: Admin
 level: Intermediate
 doc-type: Event
 duration: 3587
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19421
-source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
+exl-id: b059479a-bc5b-417d-a2c7-6ce6ea6b0c5e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # Vereinfachen der Ressourcenplanung durch Automatisierung
 
@@ -39,4 +40,3 @@ Entdecken Sie, wie führende Teams die Ressourcenplanung mithilfe von Automatisi
 * **Engagement der Stakeholder** Collaboration und kreative Problemlösung waren entscheidend für die Anpassung von Lösungen an die Teamanforderungen.
 
 Durch Automatisierung wird nicht nur der manuelle Aufwand reduziert, sondern auch die Teams in die Lage versetzt, Ressourcen effektiver zu verwalten und sich an sich verändernde Projektanforderungen anzupassen.
-

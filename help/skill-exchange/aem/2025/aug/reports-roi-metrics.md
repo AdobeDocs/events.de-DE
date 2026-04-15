@@ -2,19 +2,21 @@
 title: Entwickeln von Berichten und ROI-Metriken für AEM Assets
 description: Erfahren Sie, wie Sie in AEM Assets benutzerdefinierte Berichte und ROI-Metriken erstellen. Entdecken Sie Best Practices für die Verfolgung der Asset-Leistung und der geschäftlichen Auswirkungen.
 solution: Experience Manager, Experience Manager Assets
+feature: Edge Delivery Services, Release Information, Dynamic Media, Metadata
+topic: Personalization, Integrations, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18859
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 0cad0078-2388-4b08-8d75-80f969328764
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # Entwickeln von Berichten und ROI-Metriken für AEM Assets
 

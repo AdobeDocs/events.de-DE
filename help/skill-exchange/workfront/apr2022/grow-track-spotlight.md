@@ -2,15 +2,17 @@
 title: Track Experience Makers im Blickpunkt
 description: Die Reife des Journey-to-Work-Managements kommt nicht von heute auf morgen. Es braucht strategische Planung, bewusste Führung und eine Kultur, die bereit ist, sich Veränderungen zu eigen zu machen.
 solution: Workfront
+feature: Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10314
 thumbnail: 342524.jpeg
 exl-id: 704dbe58-dc9a-4920-b211-9afb77798079
 duration: 3258
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---

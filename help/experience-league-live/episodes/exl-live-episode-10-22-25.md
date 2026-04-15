@@ -4,12 +4,14 @@ description: Experience Platform Agent Orchestrator unterstützt die Intelligenz
 kt: KT-19206
 solution: Experience Platform
 feature: AI Assistant
+topic: Artificial Intelligence, Security, Performance
 event-cta-url-live: https://youtube.com/live/WS_DzRmYNzw
 event-start-time: 2025-10-22 08:30-7
 event-guests: Daniel Wright, Namita Krishnan, Huong Vu, Cole Connelly
-source-git-commit: f88fa329951a93f53cbbf47e55d51f02d1fc5877
+exl-id: a728adaa-4cbb-4c7f-9587-4d5e3b92d28f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -26,6 +28,6 @@ In dieser Sitzung untersucht das Produkt-Team hinter Experience Platform Agent O
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476153/?learn=on&enablevpops)
 
-Nehmen Sie an der [Adobe Journey Optimizer Community Ask Me Anything teil!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252?profile.language=de) am Mittwoch, 12. November von 8:00 bis 9:00 Uhr MEZ. Bei uns sein werden Adobe Journey Optimizer-Experten: Cole Connelly (@coleconnelly) - SR Product Manager, Huong Vu (@HuongVu) - Product Marketing Manager, Namita Krishnan (@Namita_Krishnan) - Product Manager, Brent Kostak (@bkostak) - SR Product Marketing Manager, David Arbor (@user03474) - SR Research Scientist, Justin Grover (@justin_grover) - Principal Product Manager, Sandra Hausmann (@SHausmann) - SR Technical Marketing Engineer und Daniel Wright (@dwright) - SR Technical Marketing Engineer.
+Nehmen Sie an der [Adobe Journey Optimizer Community Ask Me Anything teil!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) am Mittwoch, 12. November von 8:00 bis 9:00 Uhr MEZ. Bei uns sein werden Adobe Journey Optimizer-Experten: Cole Connelly (@coleconnelly) - SR Product Manager, Huong Vu (@HuongVu) - Product Marketing Manager, Namita Krishnan (@Namita_Krishnan) - Product Manager, Brent Kostak (@bkostak) - SR Product Marketing Manager, David Arbor (@user03474) - SR Research Scientist, Justin Grover (@justin_grover) - Principal Product Manager, Sandra Hausmann (@SHausmann) - SR Technical Marketing Engineer und Daniel Wright (@dwright) - SR Technical Marketing Engineer.
 
 Wir beantworten Ihre Fragen während dieses Live-Chats.

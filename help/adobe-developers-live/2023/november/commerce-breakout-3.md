@@ -4,6 +4,7 @@ description: In dieser am 6. November 2023 live aufgezeichneten Session diskutie
 solution: Commerce
 feature-set: Commerce
 feature: Extensibility, Integration
+topic: Integrations, Development
 role: Developer
 level: Beginner
 doc-type: Event
@@ -12,9 +13,9 @@ jira: KT-14429
 thumbnail: 3425633.jpeg
 exl-id: 8a13c750-9d74-4b79-b406-47625377a722
 duration: 1663
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---

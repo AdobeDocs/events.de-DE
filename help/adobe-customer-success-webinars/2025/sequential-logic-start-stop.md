@@ -2,19 +2,21 @@
 title: Beherrschen der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics - Startet und Stoppt
 description: Beherrschen Sie die sequenzielle Logik in Adobe Analytics mit erweiterter Segmentierung, Umfangskontrollen und abgeleiteten Feldern, um Kundenverhaltensmuster zu erkennen und die Datengenauigkeit zu verbessern.
 solution: Analytics, Customer Journey Analytics
+feature: Segmentation, Basics, Use Cases
+topic: Migration, Integrations
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3370
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18017
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 62ccb61c-2de9-4a8c-bf0e-c646c7ede698
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '774'
 ht-degree: 0%
 
 ---
-
 
 # Meistern der sequenziellen Logik in Adobe Analytics und Customer Journey Analytics: Startet und stoppt
 

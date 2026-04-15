@@ -2,6 +2,7 @@
 title: Expert Insights - Nicht-traditionelle Workfront-Workflows mit Kiersten Kollins
 description: Erfahren Sie, wie Kiersten Kollins von DSW nicht traditionelle Adobe Workfront-Workflows, benutzerspezifische Berichte und Fusion-Automatisierungen einsetzt, um Marketing-Abläufe zu optimieren und die Team-Effizienz zu steigern.
 feature: Work Management
+topic: Performance, Development
 speaker-name-1: Kiersten Kollins
 speaker-title-1: Senior Marketing Ops Technologist
 speaker-company-1: DSW
@@ -12,9 +13,9 @@ duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
 exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -33,11 +34,11 @@ Sie werden überrascht sein über all die fantastischen Ideen, die sie teilt, da
 * Initiieren von Creative Brief-Überprüfungen, um die Anforderungen ihrer Benutzenden und Projekte zu erfüllen. 
 * *BONUS!* Sie teilt auch ein Beispiel für einen ihrer Lieblings-Fusion-Anwendungsfälle!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469948/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## Ressourcen
 
-Während der Veranstaltung erwähnte Kiersten zwei Ressourcen, die wir der [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=de) angehängt haben.
+Während der Veranstaltung erwähnte Kiersten zwei Ressourcen, die wir der [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315) angehängt haben.
 * **Beispielbericht** - Aufgabenberichte nach Geschäftszeiten 
 * **Leitplanken für das DSW** Feedback-Routing: Dies ist ein fantastisches Beispiel dafür, wie Sie Ihren Benutzerinnen und Benutzern beibringen können, Updates in Workfront bereitzustellen! 
 

@@ -3,6 +3,7 @@ title: Optimierung der Inhaltsbereitstellung - Erschließen der Leistungsfähigk
 description: In der Sitzung zu Edge Delivery Services (EDS) wurden die Architektur, die Integration mit dokumentbasiertem und AEM-basiertem Authoring, die schnelle Site-Erstellung, Anpassungsoptionen und Best Practices für die Aufrechterhaltung der hohen Leistung behandelt.
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
+topic: Headless, Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -10,10 +11,10 @@ duration: 3589
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16631
 exl-id: 2057e491-9ec3-4bfe-b85a-6b74d70822bf
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 0%
+source-wordcount: '401'
+ht-degree: 1%
 
 ---
 
@@ -23,11 +24,11 @@ In dieser Sitzung geben wir einen Überblick über Edge Delivery Services (EDS) 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440938/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 ### Einführung in EDS
 
-* EDS ist eine Reihe zusammenstellbarer Services, die die Funktionen von ATM verbessern sollen. &#x200B;
+* EDS ist ein zusammenstellbarer Service, der die Funktionen von ATM erweitert. &#x200B;
 * Ziel ist es, außergewöhnliche Erlebnisse zu bieten, die Interaktion und Konversionen mit schnellen Entwicklungszyklen und einem 100 %-Lighthouse-Wert fördern. &#x200B;
 
 ### Authoring-Optionen

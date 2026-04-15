@@ -1,6 +1,7 @@
 ---
 title: Handel der nächsten Generation - Der Aufstieg von Gen-KI-Anwendungen
 description: Übersicht und Demonstrationen von KI in Commerce, Adobes neuester generativer KI über Adobe Express und wie sie für Commerce- und Content-Teams in der realen Welt genutzt werden kann.
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
@@ -9,11 +10,11 @@ duration: 1896
 last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15542
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/de/docs/events/apac-commerce-recordings/2024/overview"
+badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
 exl-id: 659cfa43-8ed2-41a0-a677-ed60e497635e
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -24,6 +25,6 @@ ht-degree: 0%
 
 + Präsentiert von Eroka O&#39;Connor, Senior Solution Consultant - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3456493/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429269/?learn=on)
 
 [&lt; Zurück zum Adobe Commerce Accelerator Day](./overview.md)
