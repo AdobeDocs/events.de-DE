@@ -3,9 +3,9 @@ user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
 solution: Workfront
-source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
+source-git-commit: 50e173546cb6086bbe8170b0120e48abecd1bf3c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -75,6 +75,7 @@ ht-degree: 1%
       + [Unterstützung durch Führungskräfte](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [Selbst gelernt, erfolgreich zu sein](workshop-rewind/workflow/self-taught-to-success.md)
       + [Frühjahrsbereinigung mit Workfront-Berichten](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [Team of One](workshop-rewind/workflow/team-of-one.md)
       + [10 Kommunikationstipps](workshop-rewind/workflow/10-communication-tips.md)
       + [10 Tipps zum Textmodus](workshop-rewind/workflow/text-mode-tips.md)
       + [10 weitere Tipps zum Textmodus](workshop-rewind/workflow/10-more-text-mode-tips.md)
@@ -109,6 +110,7 @@ ht-degree: 1%
          + [Die drei wichtigsten Funktionen für Sekundäre in Workfront](quick-takes/top3/watch-me-work-3.md)
    + Versus! {#versus}
       + [Gruppen vs. Teams](quick-takes/versus/groups-vs-teams.md)
+      + [Probleme vs. Projekte](quick-takes/versus/issues-vs-projects.md)
 + Experteneinblicke {#expert-insights}
    + [Einführung](expert-insights/adoption.md)
    + [Umfragen zur Akzeptanz](expert-insights/adoption-surveys.md)
