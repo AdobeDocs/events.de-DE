@@ -23,9 +23,9 @@ Ihr „On-Demand Workfront CSM“ ist zurück! In diesem Versus! Episode, wir be
 
 Möchten Sie mehr über die Verwaltung von Problemen mit Problemen, benutzerdefinierte Forms und Projektvorlagen erfahren? Weitere Ressourcen:
 
-* Erfahren Sie, wie ein Kunde seine Arbeit in Aktion mit [Power Templates: How IDEXX Rekonfigurated Project Templates for Global Success](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates) verwaltet.
+* Erfahren Sie, wie ein Kunde seine Arbeit in Aktion mit [Power Templates: How IDEXX Rekonfigurated Project Templates for Global Success](https://experienceleague.adobe.com/de/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates) verwaltet.
 * Erfahren Sie, wie Sie [benutzerspezifische Berichte für das Problem-Management erstellen](https://experienceleague.adobe.com/de/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues) wie ein Profi.
 
-Interessieren Sie sich für neue Ideen und Ansätze? Registrieren Sie sich für unsere kommenden Workshops auf unserer [Experience League Events-Seite](https://experienceleague.adobe.com/en/events?filters=Workfront). Wir hoffen, Sie bald zu sehen!
+Interessieren Sie sich für neue Ideen und Ansätze? Registrieren Sie sich für unsere kommenden Workshops auf unserer [Experience League Events-Seite](https://experienceleague.adobe.com/de/events?filters=Workfront). Wir hoffen, Sie bald zu sehen!
 
 
