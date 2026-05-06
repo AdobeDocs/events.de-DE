@@ -162,7 +162,7 @@ Unabhängig davon, ob Sie Workfront-Administrator, Projekt-Manager oder alltägl
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="Die drei wichtigsten Ansätze bei der Bürozeiten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="Die drei wichtigsten Ansätze bei der Bürozeiten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470151/?captions=ger&format=jpeg&nocache=1778106659577" alt="Die drei wichtigsten Ansätze bei der Bürozeiten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
