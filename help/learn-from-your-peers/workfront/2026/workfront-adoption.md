@@ -1,6 +1,6 @@
 ---
 title: Konfigurieren einer nachhaltigen Workfront-Nutzung - von der Architektur bis zum täglichen Gebrauch
-description: Entdecken Sie Strategien für eine nachhaltige Workfront-Einführung, einschließlich Governance, Vorlagen, Automatisierung und Benutzerinteraktion, um langfristigen Erfolg zu erzielen.
+description: Entdecken Sie Strategien für eine nachhaltige Adobe Workfront-Einführung, einschließlich Governance, Vorlagen, Automatisierung und Benutzerinteraktion, um langfristigen Erfolg zu erzielen.
 feature: Workfront Fusion, System Setup and Administration
 topic: Performance, Administration
 role: Admin, Developer, Leader, User
@@ -12,9 +12,9 @@ hidefromtoc: true
 hide: true
 jira: KT-20786
 exl-id: d751d2d8-0779-451f-a2bf-351d26a56eab
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: 2f1f453350eff1dd50752212e1f8e0a5d7c707ae
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
