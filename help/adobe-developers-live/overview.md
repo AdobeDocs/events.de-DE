@@ -95,7 +95,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="KI in Adobe-Projekten - Praxisbeispiele" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765499677692" alt="KI in Adobe-Projekten - Praxisbeispiele"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477634/?captions=ger&format=jpeg&nocache=1765499677692" alt="KI in Adobe-Projekten - Praxisbeispiele"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -118,7 +118,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/coding-agent.md" title="KI Coding Showdown - die guten, schlechten &amp; hässlichen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477619/?format=jpeg&nocache=1765499677608" alt="KI Coding Showdown - die guten, schlechten &amp; hässlichen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477657/?captions=ger&format=jpeg&nocache=1765499677608" alt="KI Coding Showdown - die guten, schlechten &amp; hässlichen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -141,7 +141,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/brand-concierge.md" title="Verbesserung des Onsite-Erlebnisses" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477680/?format=jpeg&nocache=1765499677605" alt="Verbesserung des Onsite-Erlebnisses"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477773/?captions=ger&format=jpeg&nocache=1765499677605" alt="Verbesserung des Onsite-Erlebnisses"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -187,7 +187,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="KI-Inhaltserkennung mit Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="KI-Inhaltserkennung mit Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477749/?captions=ger&format=jpeg&nocache=1765499677611" alt="KI-Inhaltserkennung mit Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -210,7 +210,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-ai.md" title="Inhalts-KI in Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477729/?format=jpeg&nocache=1765499677634" alt="Inhalts-KI in Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477828/?captions=ger&format=jpeg&nocache=1765499677634" alt="Inhalts-KI in Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -233,7 +233,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/document-authoring-at-scale.md" title="Dokumenterstellung im großen Maßstab - die Grundlage für intelligente, KI-optimierte Erlebnisse" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477753/?format=jpeg&nocache=1765499677631" alt="Dokumenterstellung im großen Maßstab - die Grundlage für intelligente, KI-optimierte Erlebnisse"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477817/?captions=ger&format=jpeg&nocache=1765499677631" alt="Dokumenterstellung im großen Maßstab - die Grundlage für intelligente, KI-optimierte Erlebnisse"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -279,7 +279,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="Erkunden von Adobe Experience Manager-Agenten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765499677627" alt="Erkunden von Adobe Experience Manager-Agenten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477669/?captions=ger&format=jpeg&nocache=1765499677627" alt="Erkunden von Adobe Experience Manager-Agenten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -302,7 +302,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/code-optimization.md" title="Optimieren von Code mit AEM Sites Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477676/?format=jpeg&nocache=1765499677637" alt="Optimieren von Code mit AEM Sites Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477726/?captions=ger&format=jpeg&nocache=1765499677637" alt="Optimieren von Code mit AEM Sites Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -325,7 +325,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/modernize-experiences.md" title="Migrieren und Modernisieren von Erlebnissen mit Adobe Experience Manager für Benutzerinteraktion und KI-native Erkennung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477717/?format=jpeg&nocache=1765499677675" alt="Migrieren und Modernisieren von Erlebnissen mit Adobe Experience Manager für Benutzerinteraktion und KI-native Erkennung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477795/?captions=ger&format=jpeg&nocache=1765499677675" alt="Migrieren und Modernisieren von Erlebnissen mit Adobe Experience Manager für Benutzerinteraktion und KI-native Erkennung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
