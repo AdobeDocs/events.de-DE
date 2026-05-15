@@ -4,13 +4,13 @@ description: Das zunehmende Datenvolumen macht es für Unternehmen sehr schwieri
 solution: Real-Time Customer Data Platform
 feature: Data Governance
 topic: Security
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
 exl-id: e35c6cc7-7831-4a62-9feb-9315a2bff18b
 duration: 3818
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 1%

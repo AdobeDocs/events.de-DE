@@ -4,7 +4,7 @@ description: Adobe zeigt das Verständnis und die Bereitschaft von Werbetreibend
 solution: Real-Time Customer Data Platform
 feature: Identities
 topic: Security
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 thumbnail: 332060.jpg
@@ -12,7 +12,7 @@ kt: 7335
 type: Event
 exl-id: 9736dd6f-ff33-41b5-80d6-1bb981bfc0b7
 duration: 2404
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 9%
