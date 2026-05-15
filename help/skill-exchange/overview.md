@@ -3,16 +3,16 @@ title: Experience Makers The Skill Exchange
 description: Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundenschulungsveranstaltungen, die sich auf die Vertiefung von Adobe Experience Cloud-Lösungen konzentrieren.
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
 duration: 57
-source-git-commit: 96a1bec5324ae62bf852c294c68c70763d666c51
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '2188'
+source-wordcount: '2239'
 ht-degree: 0%
 
 ---
 
 # Experience Makers The Skill Exchange {#overview}
 
-<img alt="Experience Makers The Skill Exchange" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=de" />
+<img alt="Experience Makers The Skill Exchange" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundenschulungsveranstaltungen, die sich auf die Vertiefung von Adobe Experience Cloud-Lösungen konzentrieren. Dieses Programm bietet die Möglichkeit, durch den Austausch von Best Practices und Tipps und Tricks von Adobe-Produktexperten und Fachkollegen zu lernen.
 
@@ -32,7 +32,8 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
 
 ### Analytics
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -54,7 +55,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/opening-keynote.md" title="Adobe Analytics-Eröffnungs-Keynote" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471201/?format=jpeg&nocache=1757465008519&captions=ger" alt="Adobe Analytics-Eröffnungs-Keynote"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471124/?format=jpeg&nocache=1757465008519" alt="Adobe Analytics-Eröffnungs-Keynote"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -64,7 +65,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="analytics/2025/aug/opening-keynote.md" target="_blank" rel="referrer" title="Adobe Analytics-Eröffnungs-Keynote">Adobe Analytics-Eröffnungs-Keynote</a>
                     </p>
-                    <p class="is-size-6">Entdecken Sie die wichtigsten Analysefähigkeiten - Geschichtenerzählen, Ethik und Empathie - sowie die Kombination von KI und menschlichem insight, um bedeutsame Geschäftsergebnisse zu erzielen.</p>
+                    <p class="is-size-6">Entdecken Sie die wichtigsten Analyst-Fähigkeiten - storytelling, Ethik und Empathie - sowie die Kombination von KI und menschlichem insight, um bedeutsame Geschäftsergebnisse zu erzielen.</p>
                 </div>
                 <a href="analytics/2025/aug/opening-keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
@@ -99,8 +100,8 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="analytics/2025/aug/data-storytelling.md" title="Daten-Storytelling mit Analysis Workspace" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471116/?format=jpeg&nocache=1757465008524" alt="Daten-Storytelling mit Analysis Workspace"
+                    <a href="analytics/2025/aug/data-storytelling.md" title="Data Storytelling mit Analysis Workspace" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471116/?format=jpeg&nocache=1757465008524" alt="Data Storytelling mit Analysis Workspace"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,7 +109,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="analytics/2025/aug/data-storytelling.md" target="_blank" rel="referrer" title="Daten-Storytelling mit Analysis Workspace">Daten-Storytelling mit Analysis Workspace</a>
+                        <a href="analytics/2025/aug/data-storytelling.md" target="_blank" rel="referrer" title="Data Storytelling mit Analysis Workspace">Data Storytelling mit Analysis Workspace</a>
                     </p>
                     <p class="is-size-6">Lernen Sie fünf Strategien kennen, mit denen sich Adobe Analysis Workspace-Dashboards in überzeugende Datengeschichten verwandeln lassen, die Auswirkungen, insight und Maßnahmen von Stakeholdern fördern.</p>
                 </div>
@@ -192,7 +193,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/scalable-workflows.md" title="Data in Motion - Skalierbare Analytics-Workflows für Insight-gesteuerte Teams" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471238/?format=jpeg&nocache=1757465008536&captions=ger" alt="Data in Motion - Skalierbare Analytics-Workflows für Insight-gesteuerte Teams"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757465008536" alt="Data in Motion - Skalierbare Analytics-Workflows für Insight-gesteuerte Teams"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -238,7 +239,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/workspace-features.md" title="Workspace-Funktionen, die Sie verwenden sollten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471260/?format=jpeg&nocache=1757465008539&captions=ger" alt="Workspace-Funktionen, die Sie verwenden sollten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757465008539" alt="Workspace-Funktionen, die Sie verwenden sollten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -261,7 +262,8 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
 
 ### Customer Journey Analytics
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -279,7 +281,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/opening-keynote.md" title="Customer Journey Analytics-Eröffnungs-Keynote" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471133/?format=jpeg&nocache=1757465009661&captions=ger" alt="Customer Journey Analytics-Eröffnungs-Keynote"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471108/?format=jpeg&nocache=1757465009661" alt="Customer Journey Analytics-Eröffnungs-Keynote"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -289,7 +291,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="cja/2025/aug/opening-keynote.md" target="_blank" rel="referrer" title="Customer Journey Analytics-Eröffnungs-Keynote">Customer Journey Analytics-Eröffnungs-Keynote</a>
                     </p>
-                    <p class="is-size-6">Entdecken Sie wichtige Fähigkeiten wie kontextbezogene Flüssigkeit, Empathie und Storytelling, um mit Adobe Customer Journey Analytics Ihren Einfluss zu steigern.</p>
+                    <p class="is-size-6">Entdecken Sie wichtige Fähigkeiten wie kontextbezogene Flüssigkeit, Empathie und storytelling, um Ihren Einfluss mit Adobe Customer Journey Analytics zu steigern.</p>
                 </div>
                 <a href="cja/2025/aug/opening-keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
@@ -302,7 +304,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/modern-takes-classic-aa.md" title="Kochen mit CJA - Modern nimmt klassische AA-Rezepte an" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471249/?format=jpeg&nocache=1757465009634&captions=ger" alt="Kochen mit CJA - Modern nimmt klassische AA-Rezepte an"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757465009634" alt="Kochen mit CJA - Modern nimmt klassische AA-Rezepte an"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -348,7 +350,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/journey-canvas.md" title="CX-Erfolg mit Adobe Customer Journey Analytics Journey Canvas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471223/?format=jpeg&nocache=1757465009648&captions=ger" alt="CX-Erfolg mit Adobe Customer Journey Analytics Journey Canvas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471112/?format=jpeg&nocache=1757465009648" alt="CX-Erfolg mit Adobe Customer Journey Analytics Journey Canvas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -394,7 +396,8 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
 
 ### Experience Manager
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -412,7 +415,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Adobe Experience Manager-Eröffnungs-Keynote" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471405/?format=jpeg&nocache=1757465010566&captions=ger" alt="Adobe Experience Manager-Eröffnungs-Keynote"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757465010566" alt="Adobe Experience Manager-Eröffnungs-Keynote"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -422,7 +425,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="aem/2025/aug/opening-keynote.md" target="_blank" rel="referrer" title="Adobe Experience Manager-Eröffnungs-Keynote">Adobe Experience Manager-Eröffnungs-Keynote</a>
                     </p>
-                    <p class="is-size-6">Entdecken Sie, wie sich Adobe Experience Manager mit KI weiterentwickelt. Erkunden Sie agentische Workflows, KI-Suche, Personalisierung in jedem Maßstab und intelligentere Inhaltsoptimierung.</p>
+                    <p class="is-size-6">Entdecken Sie, wie sich Adobe Experience Manager mit KI weiterentwickelt. Erkunden Sie agentische Workflows, KI-Suchen, skalierbare Personalisierung und intelligentere Inhaltsoptimierung.</p>
                 </div>
                 <a href="aem/2025/aug/opening-keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>
@@ -435,7 +438,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/asset-workflows-permissions-integration.md" title="AEM MasterClass - Asset-Workflows, Berechtigungen und Integration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471461/?format=jpeg&nocache=1757465010597&captions=ger" alt="AEM MasterClass - Asset-Workflows, Berechtigungen und Integration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471383/?format=jpeg&nocache=1757465010597" alt="AEM MasterClass - Asset-Workflows, Berechtigungen und Integration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -527,7 +530,8 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
 
 ### Experience Platform
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -545,7 +549,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471364/?format=jpeg&nocache=1757465011389&captions=ger" alt="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757465011389" alt="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -660,7 +664,8 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
 
 ## Marketo
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -678,7 +683,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Keynote zur Eröffnung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471484/?format=jpeg&nocache=1757465012333&captions=ger" alt="Keynote zur Eröffnung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757465012333" alt="Keynote zur Eröffnung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -793,7 +798,8 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
 
 ## Workfront
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -861,7 +867,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Vorbereiten Ihres Workfront-Unternehmens auf ein Exzellenzzentrum" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471593/?format=jpeg&nocache=1757465013254&captions=ger" alt="Vorbereiten Ihres Workfront-Unternehmens auf ein Exzellenzzentrum"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757465013254" alt="Vorbereiten Ihres Workfront-Unternehmens auf ein Exzellenzzentrum"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -907,7 +913,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Automatisieren der Erstellung von Workfront-Benutzerkonten mit Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471580/?format=jpeg&nocache=1757465013265&captions=ger" alt="Automatisieren der Erstellung von Workfront-Benutzerkonten mit Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757465013265" alt="Automatisieren der Erstellung von Workfront-Benutzerkonten mit Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -930,7 +936,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="Erste Schritte mit Überprüfungen und Genehmigungen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471569/?format=jpeg&nocache=1757465013304&captions=ger" alt="Erste Schritte mit Überprüfungen und Genehmigungen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1757465013304" alt="Erste Schritte mit Überprüfungen und Genehmigungen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -976,7 +982,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/user-management-licensing.md" title="Maximieren der Workfront-Lizenz - Profi-Tipps für Benutzerverwaltung und Lizenzierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473967/?format=jpeg&nocache=1757465013296&captions=ger" alt="Maximieren der Workfront-Lizenz - Profi-Tipps für Benutzerverwaltung und Lizenzierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757465013296" alt="Maximieren der Workfront-Lizenz - Profi-Tipps für Benutzerverwaltung und Lizenzierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1009,7 +1015,7 @@ Experience Makers The Skill Exchange ist eine globale Reihe virtueller Kundensch
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="workfront/2025/aug/workflows-workfront-aem.md" target="_blank" rel="referrer" title="Optimierung von Creative-Workflows mit Workfront und Adobe Experience Manager">Optimierung von Creative-Workflows mit Workfront und Adobe Experience Manager</a>
                     </p>
-                    <p class="is-size-6">Erfahren Sie, wie die Verbindung von Workfront und AEM Assets Anfragen optimiert, Metadaten automatisiert, die Governance verbessert und eine effiziente Inhaltslieferkette ermöglicht.</p>
+                    <p class="is-size-6">Erfahren Sie, wie die Verbindung von Workfront und AEM Assets Anfragen optimiert, Metadaten automatisiert, die Governance verbessert und eine effiziente Inhalts-supply chain ermöglicht.</p>
                 </div>
                 <a href="workfront/2025/aug/workflows-workfront-aem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ereignis ansehen</span>

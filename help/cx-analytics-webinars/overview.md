@@ -1,18 +1,20 @@
 ---
-title: CX Analytics On-Demand-Webinare
-description: Informieren Sie sich in On-Demand-Videos zu CX Analytics mit Produktversionen, Funktionsaktualisierungen, Adobe-Lösungsintegrationen, Onboarding-Webinaren und echten Erfolgsgeschichten von Kunden und Partnern, um Fachwissen zu erwerben und über die neuesten CX Analytics-Innovationen auf dem Laufenden zu bleiben.
-source-git-commit: cb5b307d248b0f972db897b699d6bcc82bfab0bc
+title: Bedarfsorientierte CX Analytics-Webinare
+description: Sehen Sie sich On-Demand-Videos zu CX Analytics an, in denen Produktversionen, Funktionsaktualisierungen, Adobe-Lösungsintegrationen, Onboarding-Webinare und Erfolgsgeschichten von Kunden und Partnern aus der Praxis vorgestellt werden, um Expertenwissen aufzubauen und über die neuesten CX Analytics-Innovationen auf dem Laufenden zu bleiben.
+exl-id: daaa107c-522b-4d57-88b8-b2242ebad043
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-# CX Analytics On-Demand-Webinare {#cx-analytics-ondemand-webinars}
+# Bedarfsorientierte CX Analytics-Webinare {#cx-analytics-ondemand-webinars}
 
-Entdecken Sie eine kuratierte Videobibliothek zu CX Analytics, einschließlich Produkt- und Funktionsveröffentlichungen, einer besseren Kombination von Anwenderberichten aus verschiedenen Adobe-Lösungen, ersten Schritten mit Webinaren sowie Partner-/Kunden-Erfolgsgeschichten. Sehen Sie sich On Demand an, um Ihr Analytics-Know-how zu schärfen und über die neuesten Innovationen im gesamten CX Analytics-Portfolio auf dem Laufenden zu bleiben, wobei regelmäßig neue Inhalte hinzugefügt werden.
+Entdecken Sie eine kuratierte Bibliothek mit CX Analytics-Videos, einschließlich Produkt- und Funktionsveröffentlichungen, einer besseren Kombination von Anwenderberichten zu Adobe-Lösungen, ersten Schritten mit Webinaren und Partner-/Kunden-Erfolgsgeschichten. Sehen Sie sich On Demand an, um Ihr Analytics-Know-how zu vertiefen und über die neuesten Innovationen im gesamten CX Analytics-Portfolio auf dem Laufenden zu bleiben, wobei regelmäßig neue Inhalte hinzugefügt werden.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,4 +48,3 @@ Entdecken Sie eine kuratierte Videobibliothek zu CX Analytics, einschließlich P
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-

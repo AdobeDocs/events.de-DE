@@ -4,10 +4,10 @@ description: Schneller Überblick über die neuesten Funktionen in Adobe Experie
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: 481600db333a0e10653b13c715af3e119c64a575
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '489'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,8 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
 
 ## Neueste Updates
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2026/2026-3-0.md
@@ -30,7 +31,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-3-0.md" title="Übersichtsvideo zur AEM-Version 2026.03.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483069/?captions=ger&format=jpeg&nocache=1775063376142" alt="Übersichtsvideo zur AEM-Version 2026.03.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483060/?format=jpeg&nocache=1775063376142" alt="Übersichtsvideo zur AEM-Version 2026.03.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -43,7 +44,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
                     <p class="is-size-6">Erfahren Sie mehr über die neuesten Funktionen der Version AEM 2026.03.0, einschließlich Verbesserungen für Sites, Forms, Assets und Cloud Foundation zur Optimierung von Workflows und Content-Management.</p>
                 </div>
                 <a href="2026/2026-3-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -53,7 +54,8 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
 
 ## Frühere Updates
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2026/2026-2-0.md
@@ -74,7 +76,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-2-0.md" title="Übersichtsvideo zur AEM-Version 2026.02.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480408/?captions=ger&format=jpeg&nocache=1775063376564" alt="Übersichtsvideo zur AEM-Version 2026.02.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480399/?format=jpeg&nocache=1775063376564" alt="Übersichtsvideo zur AEM-Version 2026.02.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +89,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
                     <p class="is-size-6">Erfahren Sie mehr über die neuesten AEM-Funktionen der Version 2026.02.0, einschließlich Inhaltsfragmentverwaltung, KI-gestützten Tools und verbesserter Workflow-Optimierungen.</p>
                 </div>
                 <a href="2026/2026-2-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -97,7 +99,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-1-0.md" title="Übersichtsvideo zur AEM-Version 2026.01.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479798/?captions=ger&format=jpeg&nocache=1775063376586" alt="Übersichtsvideo zur AEM-Version 2026.01.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479789/?format=jpeg&nocache=1775063376586" alt="Übersichtsvideo zur AEM-Version 2026.01.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +112,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
                     <p class="is-size-6">Entdecken Sie neue AEM-Funktionen - Edge Delivery, KI-Suche, interaktive Benutzeroberfläche und MCP-Server für erweiterte Erlebnisse.</p>
                 </div>
                 <a href="2026/2026-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -120,7 +122,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-8-0.md" title="Übersichtsvideo zur Version 2025.08.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479155/?captions=ger&format=jpeg&nocache=1775063376595" alt="Übersichtsvideo zur Version 2025.08.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479145/?format=jpeg&nocache=1775063376595" alt="Übersichtsvideo zur Version 2025.08.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +135,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
                     <p class="is-size-6">Erfahren Sie mehr über Sicherheits-, Identitäts- und Inhaltsaktualisierungen in Adobe Experience Manager Version 2025.08.0. Verbessern Sie Effizienz und Governance mit neuen Funktionen.</p>
                 </div>
                 <a href="2025/2025-8-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -143,7 +145,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-6-0.md" title="Übersichtsvideo zur AEM-Version 2025.06.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470887/?captions=ger&format=jpeg&nocache=1775063376577" alt="Übersichtsvideo zur AEM-Version 2025.06.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470878/?format=jpeg&nocache=1775063376577" alt="Übersichtsvideo zur AEM-Version 2025.06.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +158,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
                     <p class="is-size-6">Erfahren Sie, wie Sie WebVTT-Untertitel in Adobe Dynamic Media Classic hinzufügen, um die Barrierefreiheit, SEO und globale Reichweite Ihrer Videos zu verbessern.</p>
                 </div>
                 <a href="2025/2025-6-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -166,7 +168,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-5-0.md" title="Übersichtsvideo zur AEM-Version 2025.5.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464359/?captions=ger&format=jpeg&nocache=1775063376568" alt="Übersichtsvideo zur AEM-Version 2025.5.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464307/?format=jpeg&nocache=1775063376568" alt="Übersichtsvideo zur AEM-Version 2025.5.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +181,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
                     <p class="is-size-6">Mit dieser Version werden AEM Sites-, Forms- und Assets-Aktualisierungen hinzugefügt, einschließlich OpenAPI-Bereitstellung, Java 21-Unterstützung, Smart-Tags, Figma-Connector und Dynamic Media für AJO B2C.</p>
                 </div>
                 <a href="2025/2025-5-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -189,7 +191,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-4-0.md" title="Übersichtsvideo zur AEM-Version 2025.04.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464011/?captions=ger&format=jpeg&nocache=1775063376612" alt="Übersichtsvideo zur AEM-Version 2025.04.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463991/?format=jpeg&nocache=1775063376612" alt="Übersichtsvideo zur AEM-Version 2025.04.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +204,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
                     <p class="is-size-6">Diese Version enthält Aktualisierungen für AEM Sites, Forms, Assets und Cloud Foundation, einschließlich neuer Benutzeroberflächen, Edge Delivery-Unterstützung und OpenAPI-Authentifizierung.</p>
                 </div>
                 <a href="2025/2025-4-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -212,7 +214,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-3-0.md" title="Übersichtsvideo zur AEM-Version 2025.3.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463874/?captions=ger&format=jpeg&nocache=1775063376603" alt="Übersichtsvideo zur AEM-Version 2025.3.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463859/?format=jpeg&nocache=1775063376603" alt="Übersichtsvideo zur AEM-Version 2025.3.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -225,7 +227,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
                     <p class="is-size-6">Diese Version fügt AEM Sites-Funktionen wie Varianten generieren, Cross-Walk-Unterstützung im universellen Editor und eine neue Produkteinführung in Sites Optimizer hinzu.</p>
                 </div>
                 <a href="2025/2025-3-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -248,7 +250,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
                     <p class="is-size-6">Entdecken Sie neue AEM-Funktionen für die intelligente Inhaltserstellung, schnellere Aktivierung und zuverlässige Cloud-Unterstützung - einschließlich automatisches Tagging, Remote-Asset-Bearbeitung und 99,99 % SLA.</p>
                 </div>
                 <a href="2025/2025-2-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -258,7 +260,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="Übersichtsvideo zur AEM-Version 2025.01.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456083/?captions=ger&format=jpeg&nocache=1775063376620" alt="Übersichtsvideo zur AEM-Version 2025.01.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1775063376620" alt="Übersichtsvideo zur AEM-Version 2025.01.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -271,7 +273,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
                     <p class="is-size-6">In Adobe Experience Manager 2025.1 werden Verbesserungen an Inhaltsfragmenten, Formularen und Assets vorgestellt, einschließlich Dynamic Media, Collaboration-Tools und Java 21-Unterstützung.</p>
                 </div>
                 <a href="2025/2025-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>

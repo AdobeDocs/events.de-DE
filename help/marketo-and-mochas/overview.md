@@ -3,20 +3,21 @@ title: Marketo und Mokkas
 description: Marketo On-Demand Events ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zur optimalen Verwendung von Adobe Marketo vorstellen können.
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1427'
 ht-degree: 2%
 
 ---
 
 # Marketo und Mokkas
 
-Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser Ressourcen mit den Adobe Marketo [Dokumentation](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=de) und [Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=de) erhalten Sie ein besseres Verständnis dafür, wie Sie Adobe Marketo zur Unterstützung Ihres Unternehmens verwenden.
+Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser Ressourcen mit den Adobe Marketo [Dokumentation](https://experienceleague.adobe.com/docs/marketo-engage.html) und [Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) erhalten Sie ein besseres Verständnis dafür, wie Sie Adobe Marketo zur Unterstützung Ihres Unternehmens verwenden.
 
 ## Aufzeichnungen 2025
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch}
 
@@ -148,7 +149,8 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
 
 ## Aufzeichnungen 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2024/ask-me-anything.md
 * 2024/attribution-dashboard-recording.md
@@ -351,7 +353,8 @@ Willkommen bei den Marketo- und Mokkas-Aufnahmen. Durch die Kombination dieser R
 
 ## Aufzeichnungen 2023
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2023/attribution.md
 * 2023/deliverability-part-one.md

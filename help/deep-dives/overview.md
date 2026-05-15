@@ -3,18 +3,19 @@ title: Detaillierte Einblicke in Marketo
 description: Deep Dives ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zur optimalen Verwendung von Adobe Marketo vorstellen.
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1370'
+source-wordcount: '1397'
 ht-degree: 1%
 
 ---
 
 # Detaillierte Einblicke in Marketo
 
-Willkommen bei den On-Demand-Ereignisaufzeichnungen für Deep Dives. Durch die Kombination dieser Ressourcen mit den Adobe Marketo [Dokumentation](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=de) und [Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=de) erhalten Sie ein besseres Verständnis dafür, wie Sie Adobe Marketo zur Unterstützung Ihres Unternehmens verwenden.
+Willkommen bei den On-Demand-Ereignisaufzeichnungen für Deep Dives. Durch die Kombination dieser Ressourcen mit den Adobe Marketo [Dokumentation](https://experienceleague.adobe.com/docs/marketo-engage.html) und [Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) erhalten Sie ein besseres Verständnis dafür, wie Sie Adobe Marketo zur Unterstützung Ihres Unternehmens verwenden.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch}
 
@@ -70,7 +71,7 @@ Willkommen bei den On-Demand-Ereignisaufzeichnungen für Deep Dives. Durch die K
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="Vorbereiten von für Marketo Engage auf Adobe Identity" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432362/?captions=ger&format=jpeg&nocache=1772063850796" alt="Vorbereiten von für Marketo Engage auf Adobe Identity"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1772063850796" alt="Vorbereiten von für Marketo Engage auf Adobe Identity"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -93,7 +94,7 @@ Willkommen bei den On-Demand-Ereignisaufzeichnungen für Deep Dives. Durch die K
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="APIs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432502/?captions=ger&format=jpeg&nocache=1772063850782" alt="APIs"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1772063850782" alt="APIs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

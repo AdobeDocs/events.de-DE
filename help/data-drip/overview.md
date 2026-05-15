@@ -3,7 +3,7 @@ title: Datenverlust
 description: Erkunden Sie gemeinsam mit Adobe-Experten in der Data Drip-Serie die neuesten Funktionen und Best Practices in Adobe Analytics und Target. Live-Demonstrationen sorgen dafür, dass Kunden ihr Produktpotenzial maximieren und wettbewerbsfähig bleiben.
 duration: 15
 exl-id: dd36b140-d53a-41fd-9c26-4d97ab7740a1
-source-git-commit: d195ceaea0b4ccd0c16949e6cff65ec6d04a5e6d
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 Die Data Drip-Serie umfasst Adobe-Experten und begrüßt bestehende Adobe Analytics- und Target-Kunden aller Qualifikationsstufen. Die Reihe konzentriert sich auf einige der neuesten Funktionen und Best Practices, die das Veranstaltungsthema widerspiegeln. An die Präsentation schließt sich eine Live-Demonstration oder Screenshots an, in der Beispiele für Best Practices zur Verwendung der Funktionen des Produkts gezeigt werden. Die Kunden verlassen die Website garantiert mit einem besseren Verständnis davon, wie sie wettbewerbsfähig bleiben und Erfolg erzielen können, während sie gleichzeitig das Angebot des Produkts maximieren.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

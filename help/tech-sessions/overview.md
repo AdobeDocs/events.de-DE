@@ -3,9 +3,9 @@ title: Technische Sitzungen zu Experience Cloud
 description: Erweitern Sie Ihre Adobe Experience Cloud-Kenntnisse mit Live- und On-Demand-Tech-Sessions unter der Leitung von Adobe-Experten. Erhalten Sie jederzeit umsetzbare Tipps und Strategien für ein nahtloses Lernerlebnis.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1630'
+source-wordcount: '1666'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,8 @@ Erschließen Sie das volle Potenzial von Adobe Experience Cloud mit Live- und On
 
 ## Sitzungen 2025
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2025/acc-delivery-performance.md
@@ -223,7 +224,8 @@ Erschließen Sie das volle Potenzial von Adobe Experience Cloud mit Live- und On
 
 ## Sitzungen 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2024/aep-web-sdk-troubleshooting.md
@@ -356,7 +358,8 @@ Erschließen Sie das volle Potenzial von Adobe Experience Cloud mit Live- und On
 
 ## Sitzungen 2023
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 

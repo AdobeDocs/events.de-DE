@@ -3,9 +3,9 @@ title: Espresso & Experience Manager
 description: Die Espresso- und Experience Manager-Serie mit Adobe-Experten bietet Kunden von AEM (Sites und Assets) aller Qualifikationsstufen Einblicke in gängige Anwendungsfälle, Best Practices, Live-Demonstrationen und schließt mit einer Frage- und Antwortsitzung ab.
 duration: 15
 exl-id: ac3902e5-bf6a-456c-83c8-cfcff806875d
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 Die Espresso &amp; Experience Manager-Serie bietet Adobe-Experten und begrüßt bestehende AEM-Kunden (Sites &amp; Assets) aller Qualifikationsstufen. Die Reihe konzentriert sich auf einen gängigen Anwendungsfall für Kunden und zeigt Best Practices, die das Veranstaltungsthema widerspiegeln. An die Präsentation schließt sich eine Live-Demonstration oder Screenshots an, in denen Beispiele für Maßnahmen im Zusammenhang mit den Best Practices gezeigt werden. Jede Veranstaltung endet mit den Adobe-Experten auf einer Live-Q&amp;A-Sitzung.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

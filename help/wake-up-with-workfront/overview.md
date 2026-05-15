@@ -3,9 +3,9 @@ title: Aufwachen mit Workfront
 description: Die Serie Wake Up with Workfront präsentiert Best Practices für Projekt-Management und Workflow für alle Kompetenzstufen mit umsetzbaren Strategien, Live-Demonstrationen der wichtigsten Funktionen von Workfront und einer abschließenden Frage- und Antwortsitzung.
 duration: 15
 exl-id: f03214e9-1ab8-429d-bac5-f2fcef209bd1
-source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 0%
 Die Wake Up with Workfront-Serie beschreibt Best Practices für Projekt-Management und Workflows für Kunden aller Qualifikationen, die sich auf umsetzbare Strategien zur Verbesserung der Zusammenarbeit und Steigerung der Effizienz konzentrieren. Die Sessions umfassen Live-Demonstrationen der wichtigsten Funktionen in Workfront, um sicherzustellen, dass die Teilnehmer verstehen, wie die besprochenen Konzepte in ihren eigenen Umgebungen angewendet werden. Jedes Ereignis endet mit einer Live-Sitzung mit Fragen und Antworten.
 
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

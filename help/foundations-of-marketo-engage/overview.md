@@ -2,7 +2,7 @@
 title: Grundlagen von Marketo Engage
 description: Werden Sie Mitglied der grundlegenden Marketo-Benutzergruppe , um durch einstiegsfreundliche und unterstützende Sitzungen Vertrauen und Kernkompetenzen in Adobe Marketo Engage aufzubauen.
 exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
-source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 1%
@@ -15,7 +15,8 @@ Die Foundation Marketo-Benutzergruppe wurde speziell für Personen entwickelt, d
 
 ## Sitzungen 2026
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -53,7 +54,8 @@ Die Foundation Marketo-Benutzergruppe wurde speziell für Personen entwickelt, d
 
 ## Sitzungen 2025
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 

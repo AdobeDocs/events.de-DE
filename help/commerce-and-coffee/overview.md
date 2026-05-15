@@ -3,9 +3,9 @@ title: Commerce und Kaffee
 description: Die Adobe Commerce- und Coffee-Serie konzentriert sich auf Strategien und Taktiken von Commerce und wird durch Statistiken unterstützt, die das Veranstaltungsthema widerspiegeln.
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '846'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,8 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
 
 ## Veranstaltungen 2025
 
-<!-- CARDS
+<!-- 
+CARDS
 * 2025/peak-season.md
 * 2025/seo-growth.md
 * 2025/self-service-b2b.md
@@ -98,7 +99,8 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
 
 ## Veranstaltungen 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 * 2024/ask-me-anything.md
 * 2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md
 * 2024/ecommerce-essentials.md
@@ -227,7 +229,8 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
 
 ## Ereignisse 2023
 
-<!-- CARDS
+<!-- 
+CARDS
 * 2023/ask-me-anything.md
 * 2023/b2b.md
 * 2023/loyalty-retention.md
@@ -251,7 +254,7 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2023/ask-me-anything.md" target="_blank" rel="referrer" title="Frag mich was">Fragen Sie mich irgendetwas</a>
                     </p>
-                    <p class="is-size-6">Commerce Im AMA zum Jahresende beantwortet Corey Gelato Fragen und präsentiert Adobe Commerce-Funktionen wie Live Search, Kategorieregeln, Kundensegmentierung und B2B-Angebote, um Unternehmen dabei zu helfen, sich in Spitzenzeiten zu behaupten.</p>
+                    <p class="is-size-6">Im AMA zum Jahresende beantwortet Corey Gelato Fragen und präsentiert Adobe Commerce-Funktionen wie Live Search, Kategorieregeln, Kundensegmentierung und B2B-Angebote, um Unternehmen dabei zu helfen, sich in Spitzenzeiten zu behaupten.</p>
                 </div>
                 <a href="2023/ask-me-anything.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
@@ -360,11 +363,11 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=de">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
       <img alt="Adobe Commerce Site Wide Analysis Tool" src="./assets/analysis-tool.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=de">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
         <strong>Adobe Commerce Site Wide Analysis Tool</strong>
       </a>
     </div>
@@ -373,11 +376,11 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=de">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
       <img alt="New Relic Masterclass" src="./assets/new-relic.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=de">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
         <strong>New Relic Masterclass</strong>
       </a>
     </div>
@@ -386,11 +389,11 @@ Die Commerce &amp; Coffee-Serie richtet sich an bestehende Adobe Commerce-Kunden
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=de">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
       <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="./assets/upgrade.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=de">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
         <strong>Benefits of upgrading to Adobe Commerce 2.4.4</strong>
       </a>
     </div>

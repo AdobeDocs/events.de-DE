@@ -3,9 +3,9 @@ title: 'In: Behind the Brew'
 description: Behind the Brew, die Begleitserie zu Commerce & Coffee, ist auf technisch versierte Kundinnen und Kunden zugeschnitten, die versuchen, Back-End-Best Practices, Integrationen und erweiterte Funktionen zu beherrschen, um ihre E-Commerce-Erlebnisse zu verbessern.
 duration: 15
 exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
-source-git-commit: f5d96e8aefd0e0b3b9a27e7e2ace6a09c6b1478b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '289'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 5%
 
 Hinter dem Brew steht die Begleitserie zu Commerce &amp; Coffee. Sie richtet sich an Kunden mit technischem Hintergrund, die mehr über Best Practices im Backend, Integrationen und erweiterte Funktionen erfahren möchten, die sie anpassen können, um die E-Commerce-Erlebnisse ihres Unternehmens zu verbessern.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
