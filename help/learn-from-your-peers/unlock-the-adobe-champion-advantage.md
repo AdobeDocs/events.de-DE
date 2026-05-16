@@ -31,5 +31,5 @@ In diesem Webinar berichteten die Mitglieder des Adobe-Teams gemeinsam mit vier 
 **Zusätzliche Ressourcen**
 
 * [Bewerben Sie sich für das Adobe Champion-Programm 2026-2027](https://event.adobe.com/2026-2027championprogramhub?cgen=7JJ162CW&mv=other)
-* [Besuchen Sie die Seite des Adobe Champion-Programms auf Adobe Experience League](https://experienceleague.adobe.com/en/champions?cgen=X2PHHJ1W&mv=other)
+* [Besuchen Sie die Seite des Adobe Champion-Programms auf Adobe Experience League](https://experienceleague.adobe.com/de/champions?cgen=X2PHHJ1W&mv=other)
 * [Sehen Sie sich die Beiträge von Champions auf Adobe Experience League Perspectives an](https://experienceleague.adobe.com/de/perspectives)
