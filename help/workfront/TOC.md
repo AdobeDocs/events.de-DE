@@ -3,9 +3,9 @@ user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
 solution: Workfront
-source-git-commit: 008061527b5d34bc29fe9a79554f4cbeadcfaea6
+source-git-commit: 36763fd27b11d53a7f6cf82e9967109773471776
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '555'
 ht-degree: 1%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 1%
       + [Workfront-Boards entsperren](workshop-rewind/workflow/unlock-boards.md)
       + [Entfesseln Sie die Leistungsfähigkeit von Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
       + [Verwenden von Workfront für effektive Berichte](workshop-rewind/workflow/effective-reorgs.md)
+      + [Workfront Admin - 10 Lektionen](workshop-rewind/workflow/workfront-admin-10-lessons.md)
       + [Native Integration von Workfront und AEM](workshop-rewind/workflow/aem-native-integration.md)
       + [Workfront-Reporting - Strategien zum Jahresende](workshop-rewind/workflow/reporting-year-end-strategies.md)
 + Quick Take {#quicktakes}
