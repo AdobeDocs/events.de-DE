@@ -26,5 +26,5 @@ Sehen Sie sich die On-Demand-Aufzeichnung an, um mehr über ihre Erfahrungen in 
 
 Suchen Sie nach weiteren Ressourcen, die während der Veranstaltung freigegeben wurden? Werfen Sie einen Blick auf den [Experience League Community](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?fid=23&tid=250661)Beitrag und vergewissern Sie sich, dass Sie ein Lesezeichen für die Perspektive setzen [Durch Workfront wachsen: Echte Admin-Lektionen](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons)!
 
-Jeden Monat werden neue Events hinzugefügt. Die neuesten Sessions finden Sie ](https://experienceleague.adobe.com/en/events?lang=en) der [Experience League Events-Seite.
+Jeden Monat werden neue Events hinzugefügt. Die neuesten Sessions finden Sie [&#128279;](https://experienceleague.adobe.com/en/events?lang=en) der Experience League Events-Seite.
 
