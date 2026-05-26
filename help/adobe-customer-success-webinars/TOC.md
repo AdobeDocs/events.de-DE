@@ -2,9 +2,9 @@
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
 user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 4d76f9900ce9cdc2783223443b5e47cddea09c3b
+source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '666'
 ht-degree: 5%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 5%
       + [Strategien für das Content Supply chain Change Management](2026/csc-change-management.md)
       + [Content Supply chain Executive Sponsoring](2026/csc-executive-sponsorship.md)
       + [Grundlegende Architektur für Content Supply chain](2026/csc-architecture.md)
+      + [GenAI Traffic-Update 2. Quartal 2026](2026/gen-ai-traffic-update-q2.md)
       + [GenAI-Traffic-Aktualisierung](2026/gen-ai-traffic-update.md)
       + [Betriebsmodell für Content Supply chain](2026/csc-operating-model.md)
    + Workfront {#workfront2026}
