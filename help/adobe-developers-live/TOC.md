@@ -4,7 +4,7 @@ user-guide-breadcrumb: Developers Live Events
 user-guide-description: Sammlung von Aufzeichnungen aus dem Adobe Developer Live Content-Ereignis
 source-git-commit: f75cc13d597e8a9e7b4e54335ef69a8a8c581e0e
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '616'
 ht-degree: 8%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 8%
 
 # Adobe Developers Live-Ereignisse {#adobe-developers-live-recordings}
 
-+ [Übersicht](overview.md)
++ [Überblick](overview.md)
 + 2025 {#2025}
    + [Keynote - Erstellen der Agentic Web Keynote](2025/keynote.md)
    + [Die agentische Evolution AEMS](2025/agentic-evolution-aem.md)
@@ -107,7 +107,7 @@ ht-degree: 8%
       + [Universeller Editor](2023/may/universal-editor.md)
 + 2022 {#2022}
    + Februar - Commerce {#feb2022}
-      + [Übersicht](2022/february/overview.md)
+      + [Überblick](2022/february/overview.md)
       + [Keynote zur Eröffnung](2022/february/opening-keynote.md)
       + [Zustand und Leistung der Adobe Commerce-Plattform](2022/february/visibility-health-performance.md)
       + [Vereinfachen von Upgrades und das Upgrade-Kompatibilitäts-Tool](2022/february/upgrades.md)
@@ -116,7 +116,7 @@ ht-degree: 8%
       + [Ein Blick in das Toolkit eines Commerce-Entwicklers](2022/february/developers-toolkit.md)
       + [Schlussbemerkungen](2022/february/closing-remarks.md)
    + November - Headless {#nov2022}
-      + [Übersicht](2022/november/overview.md)
+      + [Überblick](2022/november/overview.md)
       + [Adobe Experience Manager as a Headless-CMS](2022/november/headless-cms.md)
       + [AEM Rockstar Headless](2022/november/rockstar.md)
       + [Integrieren von kontextbezogenem und Headless-Authoring in Ihre Next.js-App](2022/november/next-js.md)
@@ -131,14 +131,14 @@ ht-degree: 8%
       + [Verwenden von App Builder und API Mesh](2022/november/api-mesh.md)
 + 2021 {#2021}
    + Februar - Inhalt {#feb2021}
-      + [Übersicht](2021/february/overview.md)
+      + [Überblick](2021/february/overview.md)
       + [API-Authentifizierung mit Experience Manager Cloud Service](2021/february/api-authentication.md)
       + [Erweiterbarkeit des Asset Compute-Services](2021/february/asset-compute-service-extensibility.md)
       + [Experience Manager-Updates](2021/february/experience-manager-updates.md)
       + [Experience Platform Launch-Demo](2021/february/experience-platform-launch-demo.md)
       + [Schnelle Wertschöpfung mit Experience Manager Sites](2021/february/time-to-value-aem-sites.md)
    + Oktober {#oct2021}
-      + [Übersicht](2021/october/overview.md)
+      + [Überblick](2021/october/overview.md)
       + [Adobe Exchange - Drittanbieter-Entwickler-Marketplace](2021/october/app-builder-exchange.md)
       + [Inhaltspflege](2021/october/content-upkeep.md)
       + [Generieren von Dokumenten und Erfassen von E-Signaturen mit der Adobe Sign-API](2021/october/esignatures-sign-api.md)
