@@ -13,7 +13,7 @@ jira: KT-16571
 exl-id: e9bccdf5-5a97-42e8-99fe-3bffea3319b9
 source-git-commit: baacc97f717d27581d0ef28384e2f680dbef854e
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -38,4 +38,4 @@ Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](htt
 * **Best Practices** Der Schwerpunkt lag auf den folgenden Best Practices für Datenflüsse und -integration, einschließlich der Verwendung vordefinierter Datenstrukturen und -mechanismen, um effiziente und skalierbare Integrationen zu gewährleisten.
 * **Tools und Frameworks** Die Integrations-Starter-Kits bieten ein umfassendes Toolset und ein umfassendes Framework, um den Integrationsprozess zu erleichtern, einschließlich vordefinierter Datenflüsse, Systemdatenflüsse und Erweiterungsmechanismen.
 * **Community und Support** In der Sitzung wurde die Verfügbarkeit von öffentlichen Repositorys, Dokumentationen und einem öffentlichen Slack-Kanal für Unterstützung und Zusammenarbeit zwischen Entwicklern und Partnern hervorgehoben.
-* **Anwendungen aus der Praxis** Beispiele für Anwendungen und Integrationen aus der Praxis wurden diskutiert, einschließlich einer Referenzanwendung, die in Adobe Integrate verfügbar ist, um die praktische Verwendung der Integrations-Starter-Kits in Unternehmensumgebungen zu demonstrieren.
+* **Reale Anwendungen** Es wurden Beispiele für reale Anwendungen und Integrationen diskutiert, einschließlich einer in Adobe Integrate verfügbaren Referenzanwendung, die die praktische Verwendung der Integrations-Starter-Kits in Unternehmensumgebungen demonstriert.

@@ -1,6 +1,6 @@
 ---
 title: Skalierbare, Web-optimierte Bereitstellung und Inhaltstransformation mithilfe von Dynamic Media mit Open API über den Asset-Selektor
-description: Mit der Open API von Dynamic Media können Sie Rich-Media-Assets nahtlos verwalten und bereitstellen. Sie bietet Anpassungs-, Optimierungs- und entwicklungsfreundliche programmgesteuerte Verwaltung sowie erweiterte Modifikatoren, intelligente Bildbearbeitung und vielseitige Integrationsmuster.
+description: Verwalten und stellen Sie Rich-Media-Assets nahtlos mit der Open API von Dynamic Media bereit, die Anpassungen, Optimierungen und ein entwicklerfreundliches programmgesteuertes Management sowie erweiterte Modifikatoren, intelligente Bildbearbeitung und vielseitige Integrationsmuster bietet.
 solution: Experience Manager, Experience Manager Assets
 feature: Dynamic Media, Edge Delivery Services
 topic: Development
@@ -13,14 +13,14 @@ jira: KT-16550
 exl-id: 6d62d137-dcfe-4819-b04e-8ed41c271957
 source-git-commit: baacc97f717d27581d0ef28384e2f680dbef854e
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
 
 # Skalierbare, Web-optimierte Bereitstellung und Inhaltstransformation mithilfe von Dynamic Media mit Open API über den Asset-Selektor
 
-Erfahren Sie, wie Adobe Experience Manager Assets as a Cloud Service und Dynamic Media die Inhaltsbereitstellung verbessern. Karanjeet Singh, Engineering Manager, demonstriert smartes Zuschneiden, Vorgabenerstellung und Integration mit Edge Delivery Services und Anwendungen von Drittanbietern für optimierte Workflows.
+Erfahren Sie, wie Adobe Experience Manager Assets as a Cloud Service und Dynamic Media die Bereitstellung von Inhalten verbessern. Karanjeet Singh, Engineering Manager, demonstriert smartes Zuschneiden, Vorgabenerstellung und Integration mit Edge Delivery Services und Anwendungen von Drittanbietern für optimierte Workflows.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440336/?learn=on&enablevpops)
 
@@ -28,11 +28,11 @@ Erfahren Sie, wie Adobe Experience Manager Assets as a Cloud Service und Dynamic
 
 Setzen Sie das Gespräch in der Adobe Developers Live-Community [Diskussion](https://adobe.ly/3YMhKU9) fort.
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Einführung in Dynamic Media mit Open API**
    * Nahtlose Verwaltung und Bereitstellung von Rich-Media-Assets (Bildern, Videos) mit Anpassung und Optimierung im laufenden Betrieb.
-   * Demokratisierung von Assets as a Cloud Service für verschiedene Anwendungen (Adobe und Drittanbieter).
+   * Demokratisierung von Assets as a Cloud Service für verschiedene Programme (Adobe und Drittanbieter).
 
 * **Vorteile**
    * Keine Binärkopien, Beibehaltung des inhärenten Asset-Lebenszyklus

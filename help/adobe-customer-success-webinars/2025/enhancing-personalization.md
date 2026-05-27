@@ -13,7 +13,7 @@ jira: KT-17377
 exl-id: 1f4ebfc8-0c01-4091-9f74-a8efec51611a
 source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Erfahren Sie, wie Sie Ihre Personalisierungsstrategie durch die leistungsstarke 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444456/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Customer Journey Analytics (CJA)** CJA vereinheitlicht Kundendaten und -verhalten aus verschiedenen Interaktionskanälen und -quellen, um eine Journey-basierte Ansicht von Kundeninteraktionen zu erstellen. Die Kombination von Zieldaten mit CJA ermöglicht eine ganzheitliche Analyse der Journey von Kunden und optimiert Personalisierungsstrategien auf allen Touchpoints.
 
