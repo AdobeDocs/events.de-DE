@@ -27,7 +27,7 @@ Nehmen Sie an dieser Experience League Live-Sitzung teil, in der Produktexperten
 
 >[!BEGINSHADEBOX „Haben Sie Fragen?“]
 
-Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League (Community[Post) ](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+Setzen Sie die Diskussion zu diesem Thema auf der Adobe Experience League (Community[Post) &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
 
 >[!ENDSHADEBOX]
 
