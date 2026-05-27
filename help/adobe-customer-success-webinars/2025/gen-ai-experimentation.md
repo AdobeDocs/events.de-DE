@@ -13,8 +13,8 @@ jira: KT-17374
 exl-id: f085fe77-4025-4121-bd2a-24ec1436be93
 source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 1%
+source-wordcount: '306'
+ht-degree: 2%
 
 ---
 
@@ -28,9 +28,9 @@ Dieses Webinar vermittelt ein tieferes Verständnis dafür, wie der Content Acce
 * Inhaltsexperimente und Optimierung
 * Generative KI
 
->[!VIDEO](https://video.tv.adobe.com/v/3444468/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **AI Content Accelerator** Der von Microsoft Azure, OpenAI und Adobe Firefly unterstützte KI-Inhaltsbeschleuniger hilft beim Generieren von Text, Bildern und HTML für verschiedene Touchpoints wie Push-Benachrichtigungen, SMS und E-Mails. Es wurde im 4. Quartal des Vorjahres veröffentlicht.
 

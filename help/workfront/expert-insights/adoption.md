@@ -26,7 +26,7 @@ Adoption ist ein Thema, auf das wir regelmäßig zurückkommen. In dieser Ausgab
 
 Seien Sie dabei, wenn ich mit Leslie darüber spreche, warum Adoption ein so wichtiges Thema ist, zusammen mit einigen unserer Lieblingsstrategien.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469936/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
 
 ## Tipps, Ratschläge und mehr
 
@@ -53,12 +53,12 @@ Seien Sie dabei, wenn ich mit Leslie darüber spreche, warum Adoption ein so wic
 
 ## Ressourcen
 
-* Suchen Sie weitere Beispiele? Sehen Sie sich den [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=de) an, um weitere Ideen zu erhalten, die in den Kommentaren geteilt wurden!
-* [Alles über Blueprints](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=de)
-* [Letzter Notizbericht](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=de)
-* [Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansicht](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=de)
-* [Hinzufügen von Dashboards zum linken Navigationsbereich](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=de)
-* [Layout-Vorlagen - Anheften](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=de)
+* Suchen Sie weitere Beispiele? Sehen Sie sich den [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) an, um weitere Ideen zu erhalten, die in den Kommentaren geteilt wurden!
+* [Alles über Blueprints](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
+* [Letzter Notizbericht](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
+* [Hinzufügen einer grundlegenden bedingten Formatierung zu einer Ansicht](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* [Hinzufügen von Dashboards zum linken Navigationsbereich](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=en)
+* [Layout-Vorlagen - Anheften](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=en)
 
 ## Über den Sprecher
 
