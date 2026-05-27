@@ -10,13 +10,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18847
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+exl-id: 0d9e851e-cad4-40b4-a5f3-16ade670ceae
+source-git-commit: 603629137b4bc29d8470517eb509bbc5f0bcdea4
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
-
 
 # Die neue Norm: Ausgleich zwischen Personalization, Datenschutz und Datensicherheit
 
@@ -24,7 +24,7 @@ Wie kann man in einer Welt, in der Kunden maßgeschneiderte Erlebnisse verlangen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471328/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * Nutzen Sie einen Ansatz, bei dem Datenschutz an erster Stelle steht, mit robustem Datenschutz und globaler Compliance.
 * Nutzen Sie das sichere Daten-Management durch die Edge Network von Adobe und erweiterte Sicherheitsmaßnahmen
@@ -45,4 +45,3 @@ Erfahren Sie, wie Prudential seine Marketing-Technologie mithilfe von Adobe Expe
 * **Omni-Channel Personalization** Orchestrierte Journey auf E-Mail-, Web- und CRM-Plattformen für dynamische Interaktion.
 
 Diese Strategien ermöglichen es Marketing-Experten, wirkungsvolle, konforme und sichere Kundenerlebnisse bereitzustellen - wichtig für den Aufbau von Vertrauen und die Förderung von Geschäftsergebnissen.
-

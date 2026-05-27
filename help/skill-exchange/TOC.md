@@ -5,7 +5,7 @@ user-guide-description: Sammlung von Aufzeichnungen von Experience Makers The Sk
 event-series: The Skill Exchange
 source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '852'
 ht-degree: 9%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 9%
       + [Keynote zur Eröffnung](analytics/2025/aug/opening-keynote.md)
       + [Anpassungen in Adobe Analytics Workspace](analytics/2025/aug/analysis-workspace-customizations.md)
       + [Dashboards liefern keine Einblicke](analytics/2025/aug/dashboards-insights.md)
-      + [Daten-Storytelling mit Analysis Workspace](analytics/2025/aug/data-storytelling.md)
+      + [Data Storytelling mit Analysis Workspace](analytics/2025/aug/data-storytelling.md)
       + [Daten an PowerPoint](analytics/2025/aug/data-to-powerpoint.md)
       + [Entmystifizierung allgemeiner Metriken](analytics/2025/aug/demystifying-common-metrics.md)
       + [Skalierbare Analytics-Workflows](analytics/2025/aug/scalable-workflows.md)
@@ -59,7 +59,7 @@ ht-degree: 9%
       + [Verbessern des Kundenerlebnisses](analytics/aug2023/anti-conversion.md)
       + [Grundgedanke](analytics/aug2023/keynote.md)
       + [Alles zusammenbringen](analytics/aug2023/putting-together.md)
-   + Mai 2023 {#may2023}
+   + Mai 2023 {#may2023}
       + [Tipps und Tricks zu Adobe Analytics](analytics/may2023/tips-and-tricks.md)
       + [Migrieren nach EDDL/WebSDK](analytics/may2023/migrate.md)
       + [Rockstar-Tipps](analytics/may2023/rockstar-tips.md)
@@ -82,7 +82,7 @@ ht-degree: 9%
       + [Analytics: Experience Makers im Blickpunkt](analytics/sept2022/learn-spotlight.md)
       + [Meistern des Adobe Analytics-Werkzeuggürtels](analytics/sept2022/toolbelt.md)
       + [Die Zeit ist auf Ihrer Seite](analytics/sept2022/time-is-on-your-side.md)
-   + Mai 2022 {#may2022}
+   + Mai 2022 {#may2022}
       + [Tipps und Tricks zu Adobe Analytics](analytics/may2022/tips-and-tricks.md)
       + [Analysieren der Daten](analytics/may2022/analyze-data.md)
       + [Experience Makers im Blickpunkt](analytics/may2022/experience-makers-spotlight.md)
@@ -130,7 +130,7 @@ ht-degree: 9%
       + [Kohärente Erlebnisse mit AEM-Anpassung und -Governance](aem/aug2024/customize-elements.md)
       + [Digital-Asset-Management-Strategien](aem/aug2024/spotlight-dam-strategies.md)
       + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
-      + [Verbesserung der Inhaltslieferkette](aem/aug2024/spotlight-content-supply-chain.md)
+      + [Verbessern von Content Supply chain](aem/aug2024/spotlight-content-supply-chain.md)
       + [Ansätze für Master-Headless und SPA-Editor](aem/aug2024/headless-spa-editor.md)
       + [Metadaten, Inhaltsstruktur und Taxonomie](aem/aug2024/dam-performance.md)
       + [Druckproduktion](aem/aug2024/print-production.md)
@@ -189,7 +189,7 @@ ht-degree: 9%
       + [Ihre Marketo-Roadmap](marketo/aug2021/marketo-roadmap.md)
    + Februar 2021 {#feb2021}
       + [Ein erstklassiges Tauchen in benutzerdefinierte Objekte und Geschwindigkeit](marketo/feb2021/custom-objects.md)
-      + [Adobe Segment  [!DNL Marketo Engage] -Rockstar](marketo/feb2021/rockstar.md)
+      + [Segment  [!DNL Marketo Engage] -Rockstar](marketo/feb2021/rockstar.md)
       + [Erstellen von Programmen in Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [Die Stärke einer intelligenten Kampagne](marketo/feb2021/power-of-smart-campaign.md)
       + [Berichte innerhalb von [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
@@ -211,7 +211,7 @@ ht-degree: 9%
       + [Datenqualität](workfront/aug2024/data-quality.md)
       + [Verbessern des Validierungserlebnisses](workfront/aug2024/approval-experience.md)
       + [Workfront Fusion und Boards](workfront/aug2024/fusion-boards.md)
-      + [Marketing-Inhaltslieferkette](workfront/aug2024/content-supply-chain.md)
+      + [Marketing-Inhalt Supply chain](workfront/aug2024/content-supply-chain.md)
       + [Prozessverbesserungen und betriebliche Effizienz](workfront/aug2024/spotlight-process-operations.md)
       + [Anpassen von Workfront-Startseiten](workfront/aug2024/tailoring-homepages.md)
       + [Transformieren von Prozessflüssen zu Workfront Wins](workfront/aug2024/spotlight-process-flows.md)

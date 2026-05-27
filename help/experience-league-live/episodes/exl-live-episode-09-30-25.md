@@ -12,18 +12,18 @@ exl-id: 963b69d7-8ffa-4bb4-9b1b-980d6d94821f
 source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 # Erweitern Sie Ihre mobile Reichweite mit RCS und WhatsApp in Journey Optimizer
 
-In dieser Show zeigen Travis Jordan und Nikhil Sharma, wie Adobe Journey Optimizer kürzlich die mobile Interaktion mit leistungsstarken neuen Kanalerweiterungen und Funktionen, einschließlich WhatsApp, RCS und Custom SMS Provider, erweitert hat.
+In dieser Show zeigen Travis Jordan und Nikhil Sharma, wie Adobe Journey Optimizer kürzlich die mobile Interaktion mit leistungsstarken neuen Kanalerweiterungen und Funktionen erweitert hat, einschließlich WhatsApp, RCS und benutzerdefinierten SMS-Anbietern.
 
 Sie zeigen, wie Sie umfassende, personalisierte Erlebnisse auf Mobilgeräten bereitstellen können, die über bloßen Text hinausgehen und interaktive Schaltflächen, Karussells, schnelle Antworten und vieles mehr umfassen - alles direkt in Journey Optimizer mit diesen neuen Kanälen orchestriert. Sie erläutern die Vorteile und Unterschiede zwischen RCS und WhatsApp, die Einrichtung dieser neuen Kanäle, einschließlich API-Anmeldeinformationen und Webhooks, und zeigen, wie Sie diese Kanäle in Ihre bestehende Omni-Channel-Interaktionsstrategie integrieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
-Nehmen Sie an der [Adobe Journey Optimizer Community Ask Me Anything teil!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477?profile.language=de) Am **Mittwoch, 15. Oktober von 8:00 bis 9:00** werden uns die Adobe Journey Optimizer-Experten Nikhil Sharma (@snikhil) - Sr. Engineering Manager, Travis Jordan (@Travis_Jordan) - Principal Product Manager und Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer zur Seite stehen.
+Nehmen Sie an der [Adobe Journey Optimizer Community Ask Me Anything teil!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477) Am **Mittwoch, 15. Oktober von 8:00 bis 9:00** werden uns die Adobe Journey Optimizer-Experten Nikhil Sharma (@snikhil) - Sr. Engineering Manager, Travis Jordan (@Travis_Jordan) - Principal Product Manager und Sandra Hausmann (@SHausmann) - Sr Technical Marketing Engineer zur Seite stehen.
 
 Wir beantworten Ihre Fragen während dieses Live-Chats.
