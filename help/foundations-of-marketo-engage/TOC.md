@@ -3,10 +3,10 @@ user-guide-title: Grundlagen von Marketo Engage
 breadcrumb-title: Grundlagen von Marketo Engage
 user-guide-description: Werden Sie Mitglied der grundlegenden Marketo-Benutzergruppe , um durch einstiegsfreundliche und unterstützende Sitzungen Vertrauen und Kernkompetenzen in Adobe Marketo Engage aufzubauen.
 solution: Marketo Engage
-source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
+source-git-commit: 57f4721e199ca2f2108901ef11167784c2d4ffe8
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 3%
+source-wordcount: '68'
+ht-degree: 2%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 3%
 
 + [Grundlagen der Marketo Engage-Webinare](overview.md)
 + 2026 {#2026}
+   + [Bereitstellen eines monatlichen Newsletters](2026/monthly-newsletter.md)
    + [Grundlagen von Marketo Engage](2026/fundamentals.md)
 + 2025 {#2025}
    + [Erstellen Sie Ihr Rezept für die Pflege](2025/nurture-recipe.md)
