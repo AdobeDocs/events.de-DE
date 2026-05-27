@@ -10,13 +10,13 @@ doc-type: Event
 duration: 2798
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18033
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 7d097151-8334-4e94-b4ae-b8bfed902e41
+source-git-commit: 415645856bb7b765b433b1db96a9a017a99573fd
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
-
 
 # Die Kraft der KI erschließen: Erweiterte Experimentiermöglichkeiten mit Adobe Target
 
@@ -30,7 +30,7 @@ In dieser Sitzung erfahren Sie mehr über Best Practices für erweiterte A/B-Tes
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458079/?learn=on&enablevpops)
 
-## Wichtige Erkenntnisse
+## Wichtige Schlussfolgerungen
 
 * **Personalization- und KI-Integration** Personalization ist für die Verbesserung von Kundenerlebnissen von entscheidender Bedeutung, und KI-gesteuerte Tools wie Adobe Target ermöglichen es Unternehmen, skaliert zu optimieren und zu personalisieren. Funktionen wie automatische Zuordnung, automatisches Targeting, Automated Personalization und Recommendations nutzen Machine-Learning-Algorithmen für die Bereitstellung maßgeschneiderter Erlebnisse.
 

@@ -1,6 +1,6 @@
 ---
-title: Parsen von PDF - So einfach wie das Arbeiten mit JSON-Daten mit der PDF-Extract-API
-description: Erfahren Sie, wie der PDF-Extract-Service in der Adobe PDF Services-API das Parsen von PDF so einfach macht wie das Parsen von JSON. In dieser Sitzung erfahren Sie, was die PDF-Extract-API tut, warum sie sich von allem unterscheidet, was Sie zuvor gesehen haben, und wie Sie sie verwenden können, um einzigartige PDF-Erlebnisse zu erstellen, ohne etwas über die PDF-Spezifikation oder PDF-„Internals“ zu wissen. Mit der PDF-Extract-API ist es nur JSON!
+title: Analysieren von PDF - So einfach wie das Arbeiten mit JSON-Daten mit der PDF Extract-API
+description: Erfahren Sie, wie der PDF Extract-Service in der Adobe PDF Services-API das Analysieren von PDF so einfach macht wie das Analysieren von JSON. In dieser Sitzung erfahren Sie, was die PDF Extract-API tut, warum sie sich von allem unterscheidet, was Sie zuvor gesehen haben, und wie Sie sie verwenden können, um einzigartige PDF-Erlebnisse zu erstellen, ohne etwas über die PDF-Spezifikation oder PDF-„Interna“ zu wissen. Mit der PDF Extract API ist es nur JSON!
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -12,19 +12,19 @@ exl-id: 74a6c6b3-4519-44bb-97b6-fb9b97c91e9b
 duration: 1864
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 7%
+source-wordcount: '187'
+ht-degree: 18%
 
 ---
 
-# Parsen von PDF - So einfach wie das Arbeiten mit JSON-Daten mit der PDF-Extract-API
+# Analysieren von PDF - So einfach wie das Arbeiten mit JSON-Daten mit der PDF Extract-API
 
-Erfahren Sie, wie der PDF-Extract-Service in der Adobe PDF Services-API das Parsen von PDF so einfach macht wie das Parsen von JSON. In dieser Sitzung erfahren Sie, was die PDF-Extract-API tut, warum sie sich von allem unterscheidet, was Sie zuvor gesehen haben, und wie Sie sie verwenden können, um einzigartige PDF-Erlebnisse zu erstellen, ohne etwas über die PDF-Spezifikation oder PDF-„Internals“ zu wissen. Mit der PDF-Extract-API ist es nur JSON!
+Erfahren Sie, wie der PDF Extract-Service in der Adobe PDF Services-API das Analysieren von PDF so einfach macht wie das Analysieren von JSON. In dieser Sitzung erfahren Sie, was die PDF Extract-API tut, warum sie sich von allem unterscheidet, was Sie zuvor gesehen haben, und wie Sie sie verwenden können, um einzigartige PDF-Erlebnisse zu erstellen, ohne etwas über die PDF-Spezifikation oder PDF-„Interna“ zu wissen. Mit der PDF Extract API ist es nur JSON!
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337600/?quality=12&learn=on&hidetitle=true)
 
-## Weitere Ressourcen
+## Zusätzliche Ressourcen
 
 - [Dokumentation zu Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=de)
 - [Überblick über Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=de)

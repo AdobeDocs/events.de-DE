@@ -57,7 +57,7 @@ Der Monat Mai markiert den Beginn der Abschlusssaison, eine Zeit für neue Persp
 
 Suchen Sie mehr? Erkunden Sie die Neuigkeiten aus Ihrer Adobe Workfront-Community durch unsere kuratierten On-Demand-Events. Verwenden Sie das linke Navigationsmenü, um Themen unter Workshop Rewind zu durchsuchen, in denen Sitzungen nach Fusion, Planung und Workflow gruppiert sind, damit Sie schnell Inhalte finden können, die auf Ihre Bedürfnisse zugeschnitten sind.
 
-Und stellen Sie sicher, dass Sie an kommenden Live-Events teilnehmen, um Fragen zu stellen, Einblicke zu teilen und mit Gleich gesinnten zusammenzuarbeiten. Besuchen Sie regelmäßig die [Experience League Workfront](https://experienceleague.adobe.com/de/events?filters=Workfront)Ereignisseite, um zu sehen, was als Nächstes kommt!
+Und stellen Sie sicher, dass Sie an kommenden Live-Events teilnehmen, um Fragen zu stellen, Einblicke zu teilen und mit Gleich gesinnten zusammenzuarbeiten. Besuchen Sie regelmäßig die [Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront)Ereignisseite, um zu sehen, was als Nächstes kommt!
 
 <!-- 
 CARDS 
@@ -165,7 +165,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="Die drei wichtigsten Ansätze bei der Bürozeiten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470151/?captions=ger&format=jpeg&nocache=1778106659577" alt="Die drei wichtigsten Ansätze bei der Bürozeiten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="Die drei wichtigsten Ansätze bei der Bürozeiten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
