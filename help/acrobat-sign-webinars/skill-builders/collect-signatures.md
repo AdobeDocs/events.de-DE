@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit der Funktion „In Bulk senden“ in Acrobat Sign Zeit sparen können. Wenn Sie mehrere Personen benötigen, um eindeutige Kopien einer unternehmensweiten Richtlinienaktualisierung, einer NDA oder eines anderen Dokuments zu signieren, können Sie die Datei durch Massenversand vorbereiten, mit einem Klick an mehrere Unterzeichner senden und Antworten einfach verfolgen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454902/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
 
 ## Wichtigste Punkte
 
