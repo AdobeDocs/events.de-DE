@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 04f40ae4fcbad2ac47697dca520af1a18f4d41ef
+source-git-commit: 0019e73fe9b953bab04261b1a1361ef2bc1eeb58
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 33%
+source-wordcount: '107'
+ht-degree: 53%
 
 ---
 
@@ -24,6 +24,19 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 ## Bevorstehende Experience League LIVE-Events
 
 <table>
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
+      <img alt="Experience League LIVE 21. April" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-17-26.md">
+        <strong>Wie können Journey vor der Live-Schaltung effizient getestet, simuliert und validiert werden</strong>
+      </a>
+      <br/><em>mit Sandra Hausmann, Ariel Sultan und Nicolas Dufau</em>
+      <br/><em>17. Juni 2026</em>
+    </div>
+  </td>
+</tr>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
       <img alt="Experience League LIVE 21. April" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
@@ -88,5 +101,5 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 
 >[!TIP]
 >
->Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/de?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
+>Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
 
