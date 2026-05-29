@@ -10,9 +10,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+source-git-commit: a7585dae52e0499645518c31bba406d8dee45323
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 2%
 
 ---
@@ -25,12 +25,12 @@ ht-degree: 2%
    + [Admin Console-Migration](admin-console.md)
    + [APIs](api.md)
    + [Anwenden von KI in Marketo](applying-ai.md)
-   + [Intelligentere Abläufe mit Webhooks und Self-Service-Flussschritten](building-smarter-flows.md)
    + [Automatisieren und Optimieren von Kampagnenvorgängen mithilfe der Marketo-API](campaign-operations.md)
    + [Zertifizierung](certification.md)
    + [Entdecken Sie die neue E-Mail-Designer in Marketo Engage](email-designer.md)
    + [E-Mail-Pflege](email-nurture.md)
    + [Ausführbare Kampagnen](executable-campaigns.md)
+   + [Grundlagen der KI](fundamentals-for-ai.md)
    + [IMS-Migration entpackt](ims-migration.md)
    + [Vererben einer Instanz](inheriting-an-instance.md)
    + [Lead-Lebenszyklen](lead-lifecycles.md)
@@ -40,5 +40,6 @@ ht-degree: 2%
    + [Instanz mit einem kleinen Team maximieren](small-team-instance.md)
    + [Kennzeichnen komplexer Prozesse im Aktivitätsprotokoll](activity-log.md)
    + [Salesforce Hintergrundsynchronisations-Upgrade und Nutzungsüberwachung](salesforce-background-sync.md)
+   + [Intelligentere Abläufe mit Webhooks und Self-Service-Flussschritten](building-smarter-flows.md)
    + [Globales Marketing erschließen](global-marketing.md)
    + [Verwenden von Webhooks zur Datenübertragung](webhooks.md)

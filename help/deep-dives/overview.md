@@ -3,16 +3,16 @@ title: Detaillierte Einblicke in Marketo
 description: Deep Dives ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen zur optimalen Verwendung von Adobe Marketo vorstellen.
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: a7585dae52e0499645518c31bba406d8dee45323
 workflow-type: tm+mt
-source-wordcount: '1397'
-ht-degree: 1%
+source-wordcount: '1413'
+ht-degree: 0%
 
 ---
 
 # Detaillierte Einblicke in Marketo
 
-Willkommen bei den On-Demand-Ereignisaufzeichnungen für Deep Dives. Durch die Kombination dieser Ressourcen mit den Adobe Marketo [Dokumentation](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=de) und [Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=de) erhalten Sie ein besseres Verständnis dafür, wie Sie Adobe Marketo zur Unterstützung Ihres Unternehmens verwenden.
+Willkommen bei den On-Demand-Ereignisaufzeichnungen für Deep Dives. Durch die Kombination dieser Ressourcen mit den Adobe Marketo [Dokumentation](https://experienceleague.adobe.com/docs/marketo-engage.html) und [Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) erhalten Sie ein besseres Verständnis dafür, wie Sie Adobe Marketo zur Unterstützung Ihres Unternehmens verwenden.
 
 <!-- 
 CARDS
@@ -29,6 +29,7 @@ CARDS
 * email-designer.md 
 * email-nurture.md 
 * executable-campaigns.md 
+* fundamentals-for-ai.md
 * global-marketing.md 
 * ims-migration.md 
 * inheriting-an-instance.md 
@@ -48,7 +49,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="activity-log.md" title="Kennzeichnen komplexer Prozesse im Aktivitätsprotokoll" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1772063850788" alt="Kennzeichnen komplexer Prozesse im Aktivitätsprotokoll"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1780010007034" alt="Kennzeichnen komplexer Prozesse im Aktivitätsprotokoll"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,7 +72,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="Vorbereiten von für Marketo Engage auf Adobe Identity" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432362/?captions=ger&format=jpeg&nocache=1772063850796" alt="Vorbereiten von für Marketo Engage auf Adobe Identity"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1780010007038" alt="Vorbereiten von für Marketo Engage auf Adobe Identity"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +95,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="APIs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432502/?captions=ger&format=jpeg&nocache=1772063850782" alt="APIs"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1780010007041" alt="APIs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +118,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="applying-ai.md" title="Anwenden von KI in Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458514/?format=jpeg&nocache=1772063850803" alt="Anwenden von KI in Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458514/?format=jpeg&nocache=1780010007030" alt="Anwenden von KI in Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +141,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="building-smarter-flows.md" title="Automatisieren und Innovationen beim Erstellen intelligenterer Flüsse mit Webhooks und Self-Service-Flussschritten (SSFS)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480207/?format=jpeg&nocache=1772063850773" alt="Automatisieren und Innovationen beim Erstellen intelligenterer Flüsse mit Webhooks und Self-Service-Flussschritten (SSFS)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480207/?format=jpeg&nocache=1780010007053" alt="Automatisieren und Innovationen beim Erstellen intelligenterer Flüsse mit Webhooks und Self-Service-Flussschritten (SSFS)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +164,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="campaign-operations.md" title="Automatisieren und Optimieren von Kampagnenvorgängen mithilfe der Marketo-API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1772063850810" alt="Automatisieren und Optimieren von Kampagnenvorgängen mithilfe der Marketo-API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1780010007049" alt="Automatisieren und Optimieren von Kampagnenvorgängen mithilfe der Marketo-API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +187,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="certification.md" title="Investieren in sich selbst - Adobe [!DNL Marketo Engage] Zertifizierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1772063850818" alt="Investieren in sich selbst - Adobe [!DNL Marketo Engage] Zertifizierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1780010007067" alt="Investieren in sich selbst - Adobe [!DNL Marketo Engage] Zertifizierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +210,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="email-designer.md" title="Entdecken Sie die neue E-Mail-Designer in Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456026/?format=jpeg&nocache=1772063850855" alt="Entdecken Sie die neue E-Mail-Designer in Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456026/?format=jpeg&nocache=1780010007076" alt="Entdecken Sie die neue E-Mail-Designer in Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +233,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="email-nurture.md" title="Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1772063850834" alt="Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1780010007062" alt="Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -255,7 +256,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="executable-campaigns.md" title="Ausführbare Kampagnen - Erfahren Sie, wie ausführbare Dateien die Effizienz und Wirkung steigern können." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1772063850826" alt="Ausführbare Kampagnen - Erfahren Sie, wie ausführbare Dateien die Effizienz und Wirkung steigern können."
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1780010007081" alt="Ausführbare Kampagnen - Erfahren Sie, wie ausführbare Dateien die Effizienz und Wirkung steigern können."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -273,12 +274,35 @@ CARDS
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Marketo Engage Fundamentals for AI">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="fundamentals-for-ai.md" title="Adobe Marketo Engage-Grundlagen für KI" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491592/?format=jpeg&nocache=1780010007057" alt="Adobe Marketo Engage-Grundlagen für KI"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="fundamentals-for-ai.md" target="_blank" rel="referrer" title="Adobe Marketo Engage-Grundlagen für KI">Adobe Marketo Engage-Grundlagen für KI</a>
+                    </p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie Ihre Marketo-Instanz für KI-Funktionen optimieren können. Entdecken Sie grundlegende Einrichtungsmethoden, um eine effektive KI-Integration und -Skalierbarkeit sicherzustellen.</p>
+                </div>
+                <a href="fundamentals-for-ai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking Global Marketing with Marketo Engage - Adobe Champion Deep Dive - August 2024">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="global-marketing.md" title="Globales Marketing mit Marketo Engage - Adobe Champion - Detaillierte Einblicke - August 2024" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1772063850848" alt="Globales Marketing mit Marketo Engage - Adobe Champion - Detaillierte Einblicke - August 2024"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1780010007070" alt="Globales Marketing mit Marketo Engage - Adobe Champion - Detaillierte Einblicke - August 2024"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -301,7 +325,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="ims-migration.md" title="IMS Migration entpackt - Vereinfachung der Umstellung für Marketo-Anwender" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441133/?format=jpeg&nocache=1772063850863" alt="IMS Migration entpackt - Vereinfachung der Umstellung für Marketo-Anwender"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441133/?format=jpeg&nocache=1780010007073" alt="IMS Migration entpackt - Vereinfachung der Umstellung für Marketo-Anwender"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -324,7 +348,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="inheriting-an-instance.md" title="Vererben einer Instanz" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1772063850869" alt="Vererben einer Instanz"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1780010007083" alt="Vererben einer Instanz"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -347,7 +371,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="lead-lifecycles.md" title="Lead-Lebenszyklen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1772063850840" alt="Lead-Lebenszyklen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1780010007079" alt="Lead-Lebenszyklen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -370,7 +394,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo-forms-aem-forms.md" title="Wessen Form ist es überhaupt? Detaillierte Einblicke in Marketo Forms im Vergleich zu AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448534/?format=jpeg&nocache=1772063850901" alt="Wessen Form ist es überhaupt? Detaillierte Einblicke in Marketo Forms im Vergleich zu AEM Forms"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448534/?format=jpeg&nocache=1780010007087" alt="Wessen Form ist es überhaupt? Detaillierte Einblicke in Marketo Forms im Vergleich zu AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -393,7 +417,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="maximize-email-deliverability.md" title="Maximieren der Zustellbarkeit von E-Mails mit Marketo - Best Practices zum Erreichen Ihrer Audience" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435343/?format=jpeg&nocache=1772063850893" alt="Maximieren der Zustellbarkeit von E-Mails mit Marketo - Best Practices zum Erreichen Ihrer Audience"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435343/?format=jpeg&nocache=1780010007182" alt="Maximieren der Zustellbarkeit von E-Mails mit Marketo - Best Practices zum Erreichen Ihrer Audience"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -416,7 +440,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="pmcf-fields.md" title="Nutzung von PMCF-Feldern für Skalierbarkeit" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1772063850884" alt="Nutzung von PMCF-Feldern für Skalierbarkeit"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1780010007090" alt="Nutzung von PMCF-Feldern für Skalierbarkeit"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -439,7 +463,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="salesforce-background-sync.md" title="Verbesserte Sichtbarkeit und Kontrolle - Salesforce-Hintergrundsynchronisierung, Upgrade und Nutzungsüberwachung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457883/?format=jpeg&nocache=1772063850916" alt="Verbesserte Sichtbarkeit und Kontrolle - Salesforce-Hintergrundsynchronisierung, Upgrade und Nutzungsüberwachung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457883/?format=jpeg&nocache=1780010007203" alt="Verbesserte Sichtbarkeit und Kontrolle - Salesforce-Hintergrundsynchronisierung, Upgrade und Nutzungsüberwachung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -462,7 +486,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="small-team-instance.md" title="Erfahren Sie, wie ein kleines Team seine Adobe [!DNL Marketo Engage]-Instanz maximiert" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1772063850876" alt="Erfahren Sie, wie ein kleines Team seine Adobe [!DNL Marketo Engage]-Instanz maximiert"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1780010007189" alt="Erfahren Sie, wie ein kleines Team seine Adobe [!DNL Marketo Engage]-Instanz maximiert"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -485,7 +509,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="webhooks.md" title="Detaillierte Einblicke in Adobe Marketo Engage Champions - Verwendung von Webhooks zur Datenübertragung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1772063850908" alt="Detaillierte Einblicke in Adobe Marketo Engage Champions - Verwendung von Webhooks zur Datenübertragung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1780010007197" alt="Detaillierte Einblicke in Adobe Marketo Engage Champions - Verwendung von Webhooks zur Datenübertragung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
