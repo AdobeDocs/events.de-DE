@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: c59b43a7869d32b106f30bf25818c825cfa33166
+source-git-commit: 50b5538ac3ad157286a0ba23b548e6d05eaa22b3
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 16%
+source-wordcount: '393'
+ht-degree: 15%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 16%
 
 + [Überblick](overview.md)
 + Folgen {#episodes}
+   + [Nutzung von Target MCP und anderen wichtigen neuen Versionen in Adobe Target](episodes/exl-live-episode-06-24-26.md)
    + [Journey vor der Live-Schaltung effizient testen, simulieren und validieren](episodes/exl-live-episode-06-17-26.md)
    + [Neue Anwendungsfälle für die Kundeninteraktion: Live-Aktivitäten in iOS, Web-Push und persistentes Messaging](episodes/exl-live-episode-04-08-26.md)
    + [Kennenlernen der Kampagnenorchestrierung in Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)
