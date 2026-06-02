@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3378
 last-substantial-update: 2026-06-02T00:00:00Z
 jira: KT-21434
-source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
+exl-id: 69bc7e07-60e2-4c32-9e8d-e5c3c78b65a8
+source-git-commit: 168e08b888ba6f610da50394d78575878fc8ac8b
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
-
 
 # Erläuterung der globalen Datensatztypen in Workfront - wann, warum und wie sie verwendet werden
 
@@ -21,7 +21,6 @@ Seien Sie dabei, wenn Lilit Mkrtchyan, Senior Product Manager, einen tiefen Einb
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491591/?learn=on&enablevpops)
 
-Suchen Sie nach weiteren Ressourcen, die während der Veranstaltung freigegeben wurden? Sehen Sie sich den [Experience League Community-Beitrag an]&#x200B;(https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827!
+Suchen Sie nach weiteren Ressourcen, die während der Veranstaltung freigegeben wurden? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827)!
 
-Jeden Monat werden neue Events hinzugefügt. Die neuesten Sessions finden Sie [&#128279;](https://experienceleague.adobe.com/de/events?lang=en) der Experience League Events-Seite.
-
+Jeden Monat werden neue Events hinzugefügt. Die neuesten Sessions finden Sie ](https://experienceleague.adobe.com/en/events?lang=en) der [Experience League Events-Seite.
