@@ -23,4 +23,4 @@ Seien Sie dabei, wenn Lilit Mkrtchyan, Senior Product Manager, einen tiefen Einb
 
 Suchen Sie nach weiteren Ressourcen, die während der Veranstaltung freigegeben wurden? Sehen Sie sich den [Experience League-Community-Beitrag an](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827)!
 
-Jeden Monat werden neue Events hinzugefügt. Die neuesten Sessions finden Sie ](https://experienceleague.adobe.com/en/events?lang=en) der [Experience League Events-Seite.
+Jeden Monat werden neue Events hinzugefügt. Die neuesten Sessions finden Sie [&#128279;](https://experienceleague.adobe.com/en/events?lang=en) der Experience League Events-Seite.
