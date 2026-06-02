@@ -3,10 +3,10 @@ title: Adobe Workfront On-Demand-Workshops
 description: Workfront Events ist eine Videobibliothek, in der Experten und Kollegen ihre Gedanken und Ideen austauschen, wie Workfront die Arbeit für ihre Unternehmen verbessern kann.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '949'
-ht-degree: 1%
+source-wordcount: '911'
+ht-degree: 0%
 
 ---
 
@@ -53,11 +53,11 @@ CARDS
 
 ## Workshop-Rückspulen
 
-Der Monat Mai markiert den Beginn der Abschlusssaison, eine Zeit für neue Perspektiven und das Lernen von denen, die vorher da waren. Zum Feiern heben wir eine Reihe von Sitzungen hervor, in denen erfahrene Adobe Workfront-Kunden praktische Ratschläge, Erfahrungen aus der Praxis und Einblicke austauschen, die Sie sofort anwenden können. Die Videos in diesem Monat enthalten eine Mischung aus brandneuen Inhalten und herausragenden Sitzungen aus der Vergangenheit, die auch heute noch so relevant sind.
+Der Juni ist da, ebenso wie die neueste Ausgabe von [The Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)! Dieser Newsletter ist Ihre zentrale Anlaufstelle für Neuigkeiten, Updates, Veranstaltungen und alles, was in der Workfront-Welt passiert.
 
 Suchen Sie mehr? Erkunden Sie die Neuigkeiten aus Ihrer Adobe Workfront-Community durch unsere kuratierten On-Demand-Events. Verwenden Sie das linke Navigationsmenü, um Themen unter Workshop Rewind zu durchsuchen, in denen Sitzungen nach Fusion, Planung und Workflow gruppiert sind, damit Sie schnell Inhalte finden können, die auf Ihre Bedürfnisse zugeschnitten sind.
 
-Und stellen Sie sicher, dass Sie an kommenden Live-Events teilnehmen, um Fragen zu stellen, Einblicke zu teilen und mit Gleich gesinnten zusammenzuarbeiten. Besuchen Sie regelmäßig die [Experience League Workfront](https://experienceleague.adobe.com/de/events?filters=Workfront)Ereignisseite, um zu sehen, was als Nächstes kommt!
+Und stellen Sie sicher, dass Sie an kommenden Live-Events teilnehmen, um Fragen zu stellen, Einblicke zu teilen und mit Gleich gesinnten zusammenzuarbeiten. Besuchen Sie regelmäßig die [Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront)Ereignisseite, um zu sehen, was als Nächstes kommt!
 
 <!-- 
 CARDS 
@@ -165,7 +165,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="Die drei wichtigsten Ansätze bei der Bürozeiten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470151/?captions=ger&format=jpeg&nocache=1778106659577" alt="Die drei wichtigsten Ansätze bei der Bürozeiten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="Die drei wichtigsten Ansätze bei der Bürozeiten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
