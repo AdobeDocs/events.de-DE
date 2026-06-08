@@ -1,10 +1,10 @@
 ---
 user-guide-title: Kundenerfolgs-Webinare zu Adobe
 breadcrumb-title: Kundenerfolgs-Webinare zu Adobe
-user-guide-description: Kundenerfolgs-geführte Webinare in Adobe helfen Ihnen, Ihre Investition in Experience Cloud von Adobe zu optimieren. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
-source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
+user-guide-description: Kundenorientierte Adobe-Webinare unterstützen Sie bei der Optimierung Ihrer Investition in Experience Cloud von Adobe. Wertvolle Erkenntnisse gewinnen, um den Wert zu maximieren und die Akzeptanz von Adobe-Lösungen zu steigern.
+source-git-commit: e23d3b95b7551d025f912f9a299dd11decc29407
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '679'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 5%
       + [BRD-SDR-Dateierstellung für Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
       + [Entsperren von Identitäten](2026/unlock-identities.md)
    + Experience Manager {#aem2026}
+      + [Transformieren von AEM mit KI-Agenten und -Assistenten](2026/transform-aem-with-ai-agents-and-assistants.md)
       + [Authoring in Edge Delivery Services](2026/authoring-eds.md)
       + [Inhaltslieferketten maximieren](2026/value-with-content-supply-chain.md)
       + [Moderne Versandmodelle für AEM Sites](2026/modern-delivery-model-aem.md)
@@ -25,6 +26,7 @@ ht-degree: 5%
    + Experience Platform {#aep2026}
       + [Integrierte Intelligenzverschiebung](2026/embedded-intelligence.md)
    + Allgemein {#general2026}
+      + [Entfesseln Sie die Leistungsfähigkeit der agenten KI](2026/unlock-the-power-of-agentic-ai.md)
       + [KI-Strategien für den Erfolg im Urlaub](2026/2025-holiday-results.md)
       + [Strategien für das Content Supply chain Change Management](2026/csc-change-management.md)
       + [Content Supply chain Executive Sponsoring](2026/csc-executive-sponsorship.md)
