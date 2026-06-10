@@ -3,9 +3,9 @@ user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
 solution: Workfront
-source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
+source-git-commit: 3ba1c8a76e6929f47b3a72683e7bde0ba45a01b2
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '565'
 ht-degree: 1%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 1%
       + [Datenerfassung](workshop-rewind/workflow/data-collection.md)
       + [Workfront-Wert definieren und kommunizieren](workshop-rewind/workflow/workfront-value.md)
       + [Tipps zur effektiven Kommunikation in Workfront](workshop-rewind/workflow/communication-tips.md)
+      + [Verbesserte benutzerdefinierte Forms und Lokalisierung](workshop-rewind/workflow/enhanced-logic-localization.md)
       + [Tipps zu Governance, Ausführung und Einführung](workshop-rewind/workflow/governance-execution-adoption.md)
       + [Gruppen-Admin Essentials](workshop-rewind/workflow/group-admins.md)
       + [Einführung in erweiterte Unternehmensabläufe](workshop-rewind/workflow/intro-aeo.md)
