@@ -21,6 +21,6 @@ In der zweiten Session unserer Advanced Enterprise Operations (AEO) Capabilities
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492142/?learn=on&enablevpops)
 
-Suchen Sie mehr? Abonnieren Sie unseren Beitrag [Advanced Enterprise Operations Event Series Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546), um automatisch Benachrichtigungen zu erhalten, wenn neue Sitzungen, Registrierungs-Links, Aufzeichnungen und Ressourcen hinzugefügt werden!
+Suchen Sie mehr? Abonnieren Sie unseren Beitrag [Advanced Enterprise Operations Event Series Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546?profile.language=de), um automatisch Benachrichtigungen zu erhalten, wenn neue Sitzungen, Registrierungs-Links, Aufzeichnungen und Ressourcen hinzugefügt werden!
 
-Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/en/events?lang=en) um die neuesten Sessions zu erhalten.
+Jeden Monat werden neue Events hinzugefügt. Sehen Sie sich daher unbedingt die [Experience League Events-Seite an](https://experienceleague.adobe.com/de/events?lang=en) um die neuesten Sessions zu erhalten.
