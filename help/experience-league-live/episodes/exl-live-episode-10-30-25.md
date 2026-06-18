@@ -9,7 +9,7 @@ event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
 event-start-time: 2025-10-30 08:30-8
 event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
 exl-id: 64f71d9a-79cc-4d80-a8a0-88bb274417b3
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: 71da15573d70034ddb25ac886b8cc03e167f22ea
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -33,10 +33,11 @@ Egal, ob Sie Marketing-Experte für Wachstum, Produkt-Manager oder Optimierungss
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476426/?learn=on&enablevpops)
 
-Nehmen Sie an der [Adobe Journey Optimizer Community Ask Me Anything teil!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252?profile.language=de) am Mittwoch, 12. November von 8:00 bis 9:00 Uhr MEZ. Bei uns sein werden Adobe Journey Optimizer-Experten: Cole Connelly (@coleconnelly) - SR Product Manager, Huong Vu (@HuongVu) - Product Marketing Manager, Namita Krishnan (@Namita_Krishnan) - Product Manager, Brent Kostak (@bkostak) - SR Product Marketing Manager, David Arbor (@user03474) - SR Research Scientist, Justin Grover (@justin_grover) - Principal Product Manager, Sandra Hausmann (@SHausmann) - SR Technical Marketing Engineer und Daniel Wright (@dwright) - SR Technical Marketing Engineer.
+Nehmen Sie an der [Adobe Journey Optimizer Community Ask Me Anything teil!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) am Mittwoch, 12. November von 8:00 bis 9:00 Uhr MEZ. Bei uns sein werden Adobe Journey Optimizer-Experten: Cole Connelly (@coleconnelly) - SR Product Manager, Huong Vu (@HuongVu) - Product Marketing Manager, Namita Krishnan (@Namita_Krishnan) - Product Manager, Brent Kostak (@bkostak) - SR Product Marketing Manager, David Arbor (@user03474) - SR Research Scientist, Justin Grover (@justin_grover) - Principal Product Manager, Sandra Hausmann (@SHausmann) - SR Technical Marketing Engineer und Daniel Wright (@dwright) - SR Technical Marketing Engineer.
 
 Wir beantworten Ihre Fragen während dieses Live-Chats.
 
-## Weitere Ressourcen
+## Zusätzliche Ressourcen
 
-* [In: Adobe’s AI Experimentation Accelerator - Podcast](https://conversion.com/podcast/the-conversion-podcast-adobe-ai/)
+* [Adobes KI-Experimentierbeschleuniger - Podcast](https://conversion.com/podcast/the-conversion-podcast-adobe-ai/)
+
