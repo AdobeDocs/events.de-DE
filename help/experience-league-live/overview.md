@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: cd1d58a1d2e0135bc7ad80501bdc976c470896b8
+source-git-commit: ae074af2754b15146b372023fa2ec297a51e4cac
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 53%
@@ -18,7 +18,6 @@ ht-degree: 53%
 # Experience League LIVE
 
 Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-Streaming-Show.  Sie bietet Ihnen eine Gelegenheit, sich mit Produktfachleuten von Adobe auszutauschen und praktische Tipps, Tricks und Strategien für die Arbeit mit den Anwendungen rund um Adobe Experience Cloud zu erhalten.
-
 
 
 ## Bevorstehende Experience League LIVE-Events
@@ -50,7 +49,6 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
     </div>
   </td>
 </tr>
-
 </table>
 
 <div id="recs-overview-body-1"></div>
@@ -59,7 +57,6 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 <div id="recs-overview-body-4"></div>
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
-
 <div id="past-events">
 
 
@@ -68,7 +65,6 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
 ## Favoriten unserer Mitarbeiter
 
 <table style="max-width: 1214px;">
-
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
       <img alt="Experience League LIVE 21. April" src="episodes/assets/WebBanner-June26-2024.jpg">
@@ -81,9 +77,7 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
       <br/><em>26. Juni 2024</em>
     </div>
   </td>
-
-
-<td style="vertical-align: top;">
+  <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
       <img alt="Experience League LIVE, 26. Mai" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
@@ -96,11 +90,10 @@ Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-St
     </div>
   </td>
   </tr>
-
 </table>
 
 
 >[!TIP]
 >
->Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/de?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
+>Weitere Lernmöglichkeiten finden Sie in unseren kostenlosen [Kursen](https://experienceleague.adobe.com/?lang=de#dashboard/learning) sowie in einzelnen [Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de).
 
