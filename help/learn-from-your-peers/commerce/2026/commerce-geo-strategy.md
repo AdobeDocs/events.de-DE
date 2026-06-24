@@ -7,15 +7,13 @@ doc-type: Event
 duration: 5
 last-substantial-update: 2026-05-26T00:00:00Z
 jira: KT-21383
-hidefromtoc: true
-hide: true
-source-git-commit: 64cded01bdde73fff5b5b8e292f973af997f5386
+exl-id: 28a56924-b608-48b9-bbcd-ebf48616c2cc
+source-git-commit: 059d7a6869a7b223ffa67dd878c6db5b35249a37
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce GEO-Strategie - LLM-Optimierung über D2C-Erlebnisse hinweg
 
@@ -25,6 +23,8 @@ Memo greift auf reale Implementierungen mit einer der weltweit bekanntesten Verb
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491452/?learn=on&enablevpops)
 
+[*Sitzungsfolien*](../../assets/commerce/adobe-commerce-geo-strategy-llm-optimization-slides.pdf){target="_blank"}
+
 ## Was Sie lernen werden
 
 * Grundlegendes zu GEO-Grundlagen: Erfahren Sie, wie strukturierter, absichtsgesteuerter Inhalt die KI-gesteuerte Auffindbarkeit beeinflusst
@@ -33,5 +33,3 @@ Memo greift auf reale Implementierungen mit einer der weltweit bekanntesten Verb
 * Ein praktisches GEO-Framework aufbauen: Den Stakeholdern einen klaren Weg geben, um die GEO-Strategie zu aktivieren und die Inhaltswirkung zu messen
 
 Egal, ob Sie gerade erst anfangen, sich mit GEO zu befassen oder hoffen, Ihre E-Commerce-Erlebnisse mit KI-nativen Funktionen zu optimieren, diese Sitzung bietet Ihnen einen praktischen Rahmen, um GEO-Prinzipien zu aktivieren und in eine reale Geschäftswirkung zu übersetzen.
-
-
