@@ -5,20 +5,20 @@ kt: 21226
 solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
-event-guests: Daniel Wright, Drew Burns, James Torio
+event-guests: Daniel Wright, Drew Burns
 exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
-source-git-commit: 51bef94176a124ba60759c0ffa4ed839da4037ef
+source-git-commit: 266d1337ab989ab9a9ba91f9c167d687e08050e9
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # Nutzung von Target MCP und anderen wichtigen neuen Versionen in Adobe Target
 
-Nehmen Sie an der nächsten Experience League LIVE teil, bei der unsere Experten Sie durch die neuesten Adobe Target-Innovationen führen, während wir in eine neue Ära eintreten. Wir stellen Ihnen das neue Target-MCP vor, einschließlich dessen, was es ist, wie darauf zugegriffen werden kann und wie es funktioniert, um Programmeinblicke zu analysieren und Aktivitäten mit einem Agenten zu erstellen und zu bearbeiten. Wir zeigen Ihnen auch Demos zu zusätzlichen neuen Funktionen und Verbesserungen, die Ihnen bei der Skalierungsoptimierung helfen.
+In dieser Experience League LIVE-Episode führen unsere Experten Sie durch die neuesten Adobe Target-Innovationen, während wir in eine neue Ära eintreten. Wir stellen Ihnen das neue Target-MCP vor, einschließlich dessen, was es ist, wie darauf zugegriffen werden kann und wie es funktioniert, um Programmeinblicke zu analysieren und Aktivitäten mit einem Agenten zu erstellen und zu bearbeiten. Wir zeigen Ihnen auch Demos zu zusätzlichen neuen Funktionen und Verbesserungen, die Ihnen bei der Skalierungsoptimierung helfen.
 
-In dieser Sitzung erfahren Sie, wie Sie:
+Sie lernen Folgendes:
 
 - Einrichten des Target-MCP mit dem gewünschten Agenten
 - Verwenden Sie Target MCP mit CX Enterprise Coworker, um Ihre Aktivitäten, Angebote, Audiences und Performance schnell zu analysieren
@@ -26,8 +26,6 @@ In dieser Sitzung erfahren Sie, wie Sie:
 - Erfahren Sie, wie Sie mit neuen zusätzlichen Versionen Ihre Anwendungsfälle in Adobe Target erweitern können, einschließlich Bayes-Tests, Feature Flag-Tests und CDN-Experimentierung
 - Entdecken Sie neue Designs und Funktionen, die den ROI, den Sie innerhalb Ihres Programms erzielen, basierend auf Ihren wichtigsten Geschäftszielen, darstellen.
 
-Verpassen Sie nicht die Gelegenheit, die neuesten Informationen über die agentische Optimierung zu sehen und Ihre Fragen live von unseren Experten beantworten zu lassen.
+>[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-**[Jetzt registrieren!](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}**
-
-[![ExL LIVE, 24. Juni 2026](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
+Weitere Informationen zum [Adobe Target MCP-Server](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp) finden Sie in der Produktdokumentation .
