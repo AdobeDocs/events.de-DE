@@ -27,5 +27,5 @@ Sie lernen Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-Weitere Informationen zum [Adobe Target MCP-Server](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp) finden Sie in der Produktdokumentation .
-Haben Sie Fragen? Fragen Sie sie im [Community-Forum](https://experienceleaguecommunities.adobe.com/adobe-target-14/experience-league-live-june-24-2026-how-to-leverage-target-mcp-and-other-major-new-releases-in-adobe-target-watch-the-recording-251358) - unsere Experten beobachten aktiv den Diskussions-Thread dieser Folge.
+Weitere Informationen zum [Adobe Target MCP-Server](https://experienceleague.adobe.com/de/docs/target/using/mcp/target-mcp) finden Sie in der Produktdokumentation .
+Haben Sie Fragen? Fragen Sie sie im [Community-Forum](https://experienceleaguecommunities.adobe.com/adobe-target-14/experience-league-live-june-24-2026-how-to-leverage-target-mcp-and-other-major-new-releases-in-adobe-target-watch-the-recording-251358?profile.language=de) - unsere Experten beobachten aktiv den Diskussions-Thread dieser Folge.
