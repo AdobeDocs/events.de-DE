@@ -3,9 +3,9 @@ user-guide-title: Workfront-Ereignisse
 breadcrumb-title: Workfront-Ereignisse
 user-guide-description: Workfront-Ereignisse
 solution: Workfront
-source-git-commit: b4b48b83a52b48c67d0d514600045b138ed24f36
+source-git-commit: 218fd488296922bf242f13ede602ae50896fedab
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -85,6 +85,7 @@ ht-degree: 1%
       + [10 Kommunikationstipps](workshop-rewind/workflow/10-communication-tips.md)
       + [10 Tipps zum Textmodus](workshop-rewind/workflow/text-mode-tips.md)
       + [10 weitere Tipps zum Textmodus](workshop-rewind/workflow/10-more-text-mode-tips.md)
+      + [Verfolgen des Systemadministratorwerts](workshop-rewind/workflow/system-admin-value.md)
       + [Verwirrung bei Benutzern in Vertrauen umwandeln](workshop-rewind/workflow/avalara-user-transformation.md)
       + [Fehlerbehebung bei berechneten Workfront-Feldern](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
       + [Umsetzen von Blueprints in Schulungsprogramme](workshop-rewind/workflow/blueprints-to-planning.md)
