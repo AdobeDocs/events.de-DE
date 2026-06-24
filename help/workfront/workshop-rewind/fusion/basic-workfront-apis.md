@@ -27,4 +27,4 @@ Von grundlegendem Wissen bis hin zu realen Anwendungen bietet Ihnen diese Sitzun
 
 Suchen Sie nach weiteren Ressourcen, die während der Veranstaltung freigegeben wurden? Schau dir [den Experience League Community Post](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-nathan-s-five-faves-basic-apis-for-the-workfront-world-june-23-2026-251328) an!
 
-Jeden Monat werden neue Events hinzugefügt. Die neuesten Sessions finden Sie ](https://experienceleague.adobe.com/de/events) der [Experience League Events-Seite.
+Jeden Monat werden neue Events hinzugefügt. Die neuesten Sessions finden Sie [&#128279;](https://experienceleague.adobe.com/de/events) der Experience League Events-Seite.
