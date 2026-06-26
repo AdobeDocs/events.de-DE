@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Sammlung von Aufzeichnungen aus [!DNL Experience Makers Learn from your peers]
-source-git-commit: 64cded01bdde73fff5b5b8e292f973af997f5386
+source-git-commit: a62b7c342f31cfc7a4fc858d84d6cf149f725545
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '380'
 ht-degree: 7%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 7%
       + [Kommunikation, Anforderungen und Tests in Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + 2026 {#2026}
+      + [Einführung von KI in AEM und EDS](experience-manager/2026/ai-aem-eds.md)
       + [Skalieren von Omni-Channel-Erlebnissen mit Dynamic Media](experience-manager/2026/omnichannel-dynamic-media.md)
    + 2025 {#2025}
       + [Metadatenverwirrung zur Beherrschung](experience-manager/2025/metadata-mayhem.md)
@@ -71,7 +72,7 @@ ht-degree: 7%
    + 2026 {#2026}
       + [Nachhaltige Workfront-Einführung](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [Metadatenverwechslung](https://experienceleague.adobe.com/de/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Metadatenverwechslung](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Artikulieren der Wirkung - So messen und teilen Sie den Wert von Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Vereinfachen der Ressourcenplanung durch Automatisierung](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
